@@ -272,5 +272,447 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-07-sumj-ev-001",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_test",
+    "topic_heading": "The Summary Judgment Test",
+    "subtopic_id": "summary_judgment_evidence",
+    "subtopic_heading": "Evidence on Summary Judgment Motion",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Barrani Construction Inc. moves for summary judgment to dismiss a claim by Okafor Building Supplies Ltd. for unpaid invoices. Barrani files a detailed affidavit from its president denying that any contract was formed. Okafor's counsel serves a responding record that consists only of the statement of claim and the statement of defence, with no affidavit or other evidence.",
+    "call_of_question": "What is the consequence of Okafor relying solely on its pleadings as its responding record on the summary judgment motion?",
+    "options": {
+      "A": "Relying on pleadings is sufficient; pleadings are sworn documents that constitute evidence on a motion.",
+      "B": "Okafor's approach is improper — under r. 20.02(2) of the Rules of Civil Procedure, a responding party cannot rest on its pleadings but must set out specific facts by affidavit or other evidence showing a genuine issue requiring a trial.",
+      "C": "The motion must be dismissed because the moving party bears the sole burden of establishing there is no genuine issue requiring a trial.",
+      "D": "The motion judge must adjourn the motion to allow Okafor additional time to file evidence before ruling."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Rules of Civil Procedure, r. 20.02(2), a party responding to a summary judgment motion cannot simply rely on its pleadings. The responding party must set out in its evidence by affidavit, transcript of cross-examination, or other means the specific facts showing that there is a genuine issue requiring a trial. This is the 'best foot forward' obligation recognised in Hryniak v Mauldin, 2014 SCC 7. Pleadings are not evidence; relying on them alone leaves the court with no basis to find a genuine issue on the responding side.",
+    "why_A_wrong": "Pleadings are not sworn evidence and do not constitute admissible evidence on a motion. Rule 20.02(2) expressly prohibits a responding party from resting on its pleadings.",
+    "why_B_wrong": "This IS the correct answer. Under r. 20.02(2), a responding party must set out specific facts by affidavit or otherwise showing a genuine issue; pleadings alone are insufficient.",
+    "why_C_wrong": "While the moving party bears the initial burden of showing no genuine issue, the responding party then has the obligation to put its best foot forward with actual evidence, not merely pleadings.",
+    "why_D_wrong": "An adjournment is not automatic when a responding party has been properly served with the motion and has had an opportunity to respond. The motion judge may proceed on the record as it stands.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Summary Judgment",
+      "heading": "Evidence on Summary Judgment Motion",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 20.02(2); Hryniak v Mauldin, 2014 SCC 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "rest on pleadings",
+      "best foot forward",
+      "r. 20.02(2)",
+      "responding party",
+      "summary judgment"
+    ],
+    "tested_concepts": [
+      "r. 20.02(2) responding party obligation",
+      "pleadings are not evidence",
+      "best foot forward obligation"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-07-sumj-ev-002",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_test",
+    "topic_heading": "The Summary Judgment Test",
+    "subtopic_id": "summary_judgment_evidence",
+    "subtopic_heading": "Evidence on Summary Judgment Motion",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Nakagawa Developments Ltd. moves for summary judgment against Petrov Contracting Inc. on a claim for breach of a construction contract. Nakagawa files an affidavit from its project manager setting out the contractual obligations and the alleged breaches. Petrov responds with an affidavit from its site supervisor stating that all work was completed to specification but providing no documentary records or photographs to support this assertion.",
+    "call_of_question": "Which statement best describes the obligation of both parties with respect to evidence on a summary judgment motion under r. 20.02?",
+    "options": {
+      "A": "Only the moving party (Nakagawa) has an obligation to file evidence; the responding party need not adduce any evidence until trial.",
+      "B": "Both parties must put their best foot forward with all evidence available to them; neither may rely on the mere assertion that evidence exists without placing it before the court.",
+      "C": "Petrov's affidavit from its site supervisor is sufficient to defeat the motion regardless of the absence of documentary support, because oral evidence from a percipient witness always creates a genuine issue.",
+      "D": "The motion judge must accept Petrov's affidavit at face value without assessing whether the sworn statements are internally consistent or credible."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r. 20.02(1) and r. 20.02(2) of the Rules of Civil Procedure, both the moving and responding parties are required to put their best foot forward and present all evidence available to them. The Supreme Court of Canada confirmed this mutual obligation in Hryniak v Mauldin, 2014 SCC 7. Neither party may keep evidence in reserve for trial. A motion judge is entitled to assess whether the responding party's evidence is sufficient to show a genuine issue, and a bare assertion without supporting documentation may be given limited weight.",
+    "why_A_wrong": "The 'best foot forward' obligation applies to both parties. Rule 20.02(2) expressly requires the responding party to set out specific facts showing a genuine issue; they cannot wait until trial.",
+    "why_B_wrong": "This IS the correct answer. Both parties bear the 'best foot forward' obligation under r. 20.02, and neither may withhold available evidence from the motion record.",
+    "why_C_wrong": "A bare affidavit assertion without supporting documentary evidence does not automatically create a genuine issue. The motion judge may assess the weight and sufficiency of the evidence under r. 20.04(2.1).",
+    "why_D_wrong": "Under the expanded powers in r. 20.04(2.1), a motion judge may assess credibility and weigh evidence. Acceptance of an affidavit at face value without scrutiny is not required where it would not be unjust to assess it.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Summary Judgment",
+      "heading": "Evidence on Summary Judgment Motion",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 20.02(1), r. 20.02(2); Hryniak v Mauldin, 2014 SCC 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "best foot forward",
+      "both parties",
+      "r. 20.02",
+      "summary judgment",
+      "evidence obligation"
+    ],
+    "tested_concepts": [
+      "r. 20.02(1) moving party evidence",
+      "r. 20.02(2) responding party evidence",
+      "mutual best foot forward obligation",
+      "Hryniak v Mauldin"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-07-sumj-ev-003",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_test",
+    "topic_heading": "The Summary Judgment Test",
+    "subtopic_id": "summary_judgment_evidence",
+    "subtopic_heading": "Evidence on Summary Judgment Motion",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Abramowitz Financial Services Ltd. brings a summary judgment motion against Guerriero Holdings Inc. on a claim for unjust enrichment. The motion record contains competing affidavits from the key witnesses on each side, and the motion judge is satisfied that the key issue turns entirely on the credibility of the two affiants — specifically, which party's version of a disputed oral agreement is more reliable. The motion judge is inclined to resolve the credibility issue on the record without hearing live testimony.",
+    "call_of_question": "What power does the motion judge have to hear oral evidence in order to resolve this credibility issue on the summary judgment motion?",
+    "options": {
+      "A": "The motion judge has no power to order oral evidence on a summary judgment motion; live testimony is reserved for trial.",
+      "B": "The motion judge may order oral evidence at any time on a summary judgment motion without any precondition.",
+      "C": "Under r. 20.04(2.2) of the Rules of Civil Procedure, the motion judge may order that oral evidence be heard to determine whether there is a genuine issue requiring a trial, subject to any directions the judge considers appropriate.",
+      "D": "The motion judge may only receive oral evidence if both parties have agreed in writing to conduct the summary judgment motion as a mini-trial."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Rules of Civil Procedure, r. 20.04(2.2), where the motion judge exercises the expanded powers under r. 20.04(2.1) and determines that oral evidence is required to determine whether there is a genuine issue requiring a trial, the judge may order that oral evidence be presented, subject to any directions the judge considers appropriate. This provision gives the motion judge a discretionary power to receive viva voce evidence where credibility cannot fairly be resolved on the paper record alone. The power is discretionary and is exercised when necessary to achieve a fair determination.",
+    "why_A_wrong": "Rule 20.04(2.2) expressly grants the motion judge the power to order oral evidence where needed to resolve a genuine credibility issue. The power to hear live testimony is not reserved exclusively for trial.",
+    "why_B_wrong": "The power to order oral evidence under r. 20.04(2.2) is a discretionary power exercised when the court determines it is necessary. It is not an unrestricted automatic right invoked at any time.",
+    "why_C_wrong": "This IS the correct answer. Under r. 20.04(2.2), the motion judge may order oral evidence to determine whether there is a genuine issue requiring a trial, subject to directions.",
+    "why_D_wrong": "No written agreement of the parties is required before the motion judge can order oral evidence under r. 20.04(2.2). The power belongs to the court and is exercised at the judge's discretion.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Summary Judgment",
+      "heading": "Evidence on Summary Judgment Motion",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 20.04(2.2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "oral evidence",
+      "r. 20.04(2.2)",
+      "credibility",
+      "summary judgment",
+      "mini-trial"
+    ],
+    "tested_concepts": [
+      "r. 20.04(2.2) oral evidence on summary judgment",
+      "discretionary power to order viva voce evidence",
+      "credibility and oral evidence"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-07-sumj-ev-004",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_test",
+    "topic_heading": "The Summary Judgment Test",
+    "subtopic_id": "summary_judgment_evidence",
+    "subtopic_heading": "Evidence on Summary Judgment Motion",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Srivastava Realty Corp. moves for summary judgment on its claim for specific performance of an agreement of purchase and sale. Srivastava files a thorough affidavit with supporting documents. The defendant, Delacroix Estate Inc., files a responding affidavit but leaves out several internal emails that would support the defence because counsel decides to 'keep them for trial.' The motion is heard, and the motion judge grants summary judgment against Delacroix.",
+    "call_of_question": "What does the 'best foot forward' obligation mean in the context of a responding party on a summary judgment motion, and what consequence follows if the responding party withholds available evidence?",
+    "options": {
+      "A": "The best foot forward obligation means the responding party must file at least one affidavit; it may save other evidence for trial without consequence.",
+      "B": "The best foot forward obligation requires the responding party to present all evidence available to it; if it withholds evidence and summary judgment is granted, the party cannot rely on that withheld evidence to seek a new trial.",
+      "C": "The best foot forward obligation applies only to expert evidence; lay affidavit evidence may be withheld for trial at the party's discretion.",
+      "D": "The best foot forward obligation requires only that the responding party disclose the existence of withheld evidence so the court can decide whether to order its production."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r. 20.02(2) of the Rules of Civil Procedure, and as confirmed by the Supreme Court of Canada in Hryniak v Mauldin, 2014 SCC 7, the 'best foot forward' obligation requires each party to put before the court all evidence available to it that is relevant to the motion. The responding party cannot strategically withhold evidence hoping to use it at trial. If summary judgment is granted because the responding party failed to present its full case, that party cannot subsequently seek to set aside the judgment on the basis of the evidence it deliberately withheld — it is bound by its failure to comply with the obligation.",
+    "why_A_wrong": "Filing any single affidavit does not discharge the best foot forward obligation. The responding party must present all evidence available to it, not merely some of it.",
+    "why_B_wrong": "This IS the correct answer. The best foot forward obligation requires presenting all available evidence; withholding evidence and then losing forecloses reliance on that evidence to challenge the judgment.",
+    "why_C_wrong": "The best foot forward obligation is not limited to expert evidence. It applies to all available evidence — documentary, lay affidavit, and expert — on the issues in dispute.",
+    "why_D_wrong": "The obligation requires the party to actually place its evidence before the court, not merely disclose that withheld evidence exists. Disclosure of existence without production does not satisfy the obligation.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Summary Judgment",
+      "heading": "Evidence on Summary Judgment Motion",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 20.02(2); Hryniak v Mauldin, 2014 SCC 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "best foot forward",
+      "withhold evidence",
+      "responding party",
+      "r. 20.02(2)",
+      "summary judgment"
+    ],
+    "tested_concepts": [
+      "best foot forward obligation — cannot save evidence for trial",
+      "consequence of withholding evidence",
+      "r. 20.02(2) responding party"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-07-sumj-ev-005",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_test",
+    "topic_heading": "The Summary Judgment Test",
+    "subtopic_id": "summary_judgment_evidence",
+    "subtopic_heading": "Evidence on Summary Judgment Motion",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Fontaine Technologies Inc. is the defendant in a breach of software licence claim brought by Oduya Digital Corp. Fontaine's counsel is served with the summary judgment motion and believes the plaintiff's case is thin. Counsel advises Fontaine to file only its statement of defence as its responding record, reasoning that since the burden of proof lies on the plaintiff, the plaintiff must disprove the defence on the motion and the defendant need not file any evidence unless and until the moving party establishes a prima facie case.",
+    "call_of_question": "Is counsel's advice to Fontaine correct?",
+    "options": {
+      "A": "Yes — the plaintiff as moving party carries the entire burden on a summary judgment motion, so the defendant need not file any evidence at this stage.",
+      "B": "Yes — the defendant's statement of defence, once filed, constitutes sufficient evidence of the defendant's position for the purposes of a summary judgment motion.",
+      "C": "No — while the moving party bears the initial burden of showing there is no genuine issue requiring a trial, the responding party (Fontaine) must then put its best foot forward by filing affidavit or other evidence showing a genuine issue exists; resting on the statement of defence alone violates r. 20.02(2).",
+      "D": "No — the defendant is required to serve an expert's report explaining why the plaintiff's claim lacks merit before any summary judgment motion can proceed."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r. 20.02(2) of the Rules of Civil Procedure, a party responding to a summary judgment motion may not rest on the mere allegations or denials in its pleadings but must set out, by affidavit or otherwise, specific facts showing that there is a genuine issue requiring a trial. This 'best foot forward' obligation, confirmed in Hryniak v Mauldin, 2014 SCC 7, applies to the responding party once the moving party has met its initial burden. Filing only a statement of defence is a classic exam trap — it violates r. 20.02(2) and risks summary judgment being granted by default for lack of any genuine factual issue shown in the responding record.",
+    "why_A_wrong": "While the moving party bears the initial burden, once that burden is met the responding party must show a genuine issue by affidavit or other evidence under r. 20.02(2). Doing nothing invites summary judgment.",
+    "why_B_wrong": "A statement of defence is a pleading, not evidence. Pleadings do not constitute evidence on a summary judgment motion. Rule 20.02(2) expressly requires more than reliance on pleadings.",
+    "why_C_wrong": "This IS the correct answer. The responding party must put its best foot forward with affidavit or other evidence showing a genuine issue; resting on the statement of defence alone violates r. 20.02(2).",
+    "why_D_wrong": "There is no requirement to serve an expert report before a summary judgment motion can proceed. The responding party must file evidence showing a genuine issue, but that evidence need not be expert opinion evidence.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Summary Judgment",
+      "heading": "Evidence on Summary Judgment Motion",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 20.02(2); Hryniak v Mauldin, 2014 SCC 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "rest on pleadings",
+      "statement of defence",
+      "best foot forward",
+      "r. 20.02(2)",
+      "responding party burden"
+    ],
+    "tested_concepts": [
+      "r. 20.02(2) responding party cannot rest on pleadings",
+      "best foot forward exam trap",
+      "pleadings are not evidence on motion"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-07-partial-sj-001",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_test",
+    "topic_heading": "The Summary Judgment Test",
+    "subtopic_id": "partial_summary_judgment",
+    "subtopic_heading": "Partial Summary Judgment",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Lemaire Exports Inc. sues Kwon Shipping Ltd. on three causes of action: breach of contract, conversion, and unjust enrichment. On a summary judgment motion, the motion judge finds that the breach of contract claim is clearly established on the record with no genuine issue requiring a trial, but that the conversion and unjust enrichment claims raise genuine factual disputes that require trial. Lemaire asks the court to grant summary judgment on the breach of contract claim alone.",
+    "call_of_question": "May the court grant summary judgment on only the breach of contract claim while directing a trial on the remaining claims?",
+    "options": {
+      "A": "No — summary judgment must dispose of the entire action; a court cannot grant it on only some claims.",
+      "B": "Yes — r. 20.04(3) of the Rules of Civil Procedure expressly authorises the court to grant summary judgment on part of a claim or some of the claims in the action, and to direct a trial on the remaining issues.",
+      "C": "Yes, but only if Kwon Shipping consents to having the breach of contract claim resolved by summary judgment.",
+      "D": "No — granting summary judgment on one claim while the other claims proceed to trial would be procedurally unfair to the defendant."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Rules of Civil Procedure, r. 20.04(3), the court may grant summary judgment in respect of some claims or some issues while directing a trial on the remaining claims or issues. This partial summary judgment power enables courts to resolve discrete issues that are clearly established without requiring the entire action to proceed to trial. Courts retain a discretion to decline partial summary judgment where granting it would fragment the proceedings and increase overall cost or delay, but where a claim is cleanly separable, partial summary judgment is expressly authorised.",
+    "why_A_wrong": "Rule 20.04(3) expressly provides the court with power to grant partial summary judgment. Summary judgment does not need to dispose of the entire action to be validly granted.",
+    "why_B_wrong": "This IS the correct answer. Rule 20.04(3) authorises partial summary judgment on some claims while directing a trial on the remaining issues.",
+    "why_C_wrong": "The consent of the responding party is not required for partial summary judgment under r. 20.04(3). The power is discretionary and vested in the court.",
+    "why_D_wrong": "Partial summary judgment on a cleanly established claim is not procedurally unfair. Rule 20.04(3) is designed to promote efficiency by resolving discrete issues without full trial, while preserving the trial for genuinely contested matters.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Summary Judgment",
+      "heading": "Partial Summary Judgment",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 20.04(3)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "partial summary judgment",
+      "r. 20.04(3)",
+      "some claims",
+      "remaining issues",
+      "trial"
+    ],
+    "tested_concepts": [
+      "r. 20.04(3) partial summary judgment power",
+      "summary judgment need not dispose of entire action",
+      "discretion on partial summary judgment"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-07-partial-sj-002",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_test",
+    "topic_heading": "The Summary Judgment Test",
+    "subtopic_id": "partial_summary_judgment",
+    "subtopic_heading": "Partial Summary Judgment",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Volkov Property Management Inc. sues Achebe Construction Group Ltd. for $2.1 million arising from a large commercial renovation project. There are six issues in dispute. Volkov moves for partial summary judgment on one narrow issue — whether a specific variation order was validly executed — while acknowledging that the remaining five issues require trial. The motion judge must decide whether to exercise the discretion to grant partial summary judgment on the variation order issue.",
+    "call_of_question": "What is the key consideration a court applies when exercising its discretion to grant or refuse partial summary judgment under r. 20.04(3)?",
+    "options": {
+      "A": "The court must grant partial summary judgment whenever the moving party establishes its position on any single issue; the motion judge has no discretion to refuse.",
+      "B": "The court considers only whether the moving party can establish the issue on a balance of probabilities at the summary judgment stage.",
+      "C": "The court considers whether granting partial summary judgment would fragment the proceedings, create additional delay or expense, and whether the determination would be just in light of the remaining issues proceeding to trial.",
+      "D": "The court will grant partial summary judgment only if the issue in question has no factual component and can be resolved purely as a question of law."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Rules of Civil Procedure, r. 20.04(3), the court has a discretion to grant partial summary judgment. Post-Hryniak v Mauldin, 2014 SCC 7, courts have recognised — including in cases such as Baywood Homes Partnership v Haditaghi — that partial summary judgment is not always appropriate even where the moving party satisfies the test on the particular issue. The primary consideration is whether granting partial summary judgment would fragment the proceedings, increase costs, cause unnecessary delay, or produce inconsistent findings at the subsequent trial on the remaining issues. Partial summary judgment is appropriate only when the severable issue can be resolved cleanly without prejudicing the integrity and efficiency of the proceedings as a whole.",
+    "why_A_wrong": "The court retains a discretion under r. 20.04(3). Satisfying the summary judgment test on an issue is necessary but not sufficient — the court must also consider whether partial judgment is appropriate in the circumstances.",
+    "why_B_wrong": "The balance of probabilities is not the applicable standard on summary judgment. The test is whether there is a genuine issue requiring a trial. Furthermore, satisfying that test does not compel partial judgment — the court must also consider the effect on the proceedings.",
+    "why_C_wrong": "This IS the correct answer. The court considers whether partial summary judgment would fragment proceedings, increase cost or delay, and whether the determination is just in light of the remaining trial issues.",
+    "why_D_wrong": "Partial summary judgment is not limited to pure questions of law. It may be granted on mixed fact and law questions, provided the overall test and the fairness considerations are satisfied.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Summary Judgment",
+      "heading": "Partial Summary Judgment",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 20.04(3); Hryniak v Mauldin, 2014 SCC 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "partial summary judgment",
+      "fragment proceedings",
+      "r. 20.04(3)",
+      "discretion",
+      "delay or expense"
+    ],
+    "tested_concepts": [
+      "r. 20.04(3) discretion on partial summary judgment",
+      "fragmentation of proceedings consideration",
+      "cost and delay as factors",
+      "Hryniak v Mauldin"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-07-partial-sj-003",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_test",
+    "topic_heading": "The Summary Judgment Test",
+    "subtopic_id": "partial_summary_judgment",
+    "subtopic_heading": "Partial Summary Judgment",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Tanaka Leasing Corp. sues Bruneau Auto Group Ltd. on a claim involving a disputed equipment lease. Bruneau cross-claims against its co-defendant Patel Logistics Inc. for contribution. Tanaka moves for partial summary judgment solely against Bruneau on the issue of Bruneau's liability under the lease, while agreeing that damages and the cross-claim between Bruneau and Patel will proceed to trial. Bruneau's counsel advises the client that partial summary judgment is inappropriate in Ontario because the rule requires summary judgment to resolve the entire action.",
+    "call_of_question": "Is Bruneau's counsel correct that summary judgment must always dispose of the entire action?",
+    "options": {
+      "A": "Yes — Ontario courts have consistently held that summary judgment must resolve every claim and every party or it cannot be granted.",
+      "B": "Yes — where there is a cross-claim outstanding between co-defendants, no summary judgment of any kind may be granted until the cross-claim is also resolved.",
+      "C": "No — r. 20.04(3) of the Rules of Civil Procedure expressly authorises the court to grant summary judgment on some claims or against some parties, directing a trial on the remainder; partial summary judgment on Bruneau's liability is legally available, subject to the court's discretion.",
+      "D": "No — but the court may only grant partial summary judgment if Tanaka discontinues its claim against Patel Logistics before the motion is heard."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Rules of Civil Procedure, r. 20.04(3), summary judgment may be granted on a claim, a part of a claim, or against some but not all parties, while directing a trial on the remaining matters. Counsel's advice that summary judgment must always dispose of the entire action is incorrect and contradicts the express text of r. 20.04(3). Courts will exercise their discretion to grant partial summary judgment where doing so is just and does not unnecessarily fragment the proceedings or increase cost. The existence of a cross-claim between co-defendants does not automatically bar partial summary judgment against one defendant on a discrete issue.",
+    "why_A_wrong": "This is a common misconception. Rule 20.04(3) expressly authorises partial summary judgment. Ontario courts do not require summary judgment to resolve the entire action.",
+    "why_B_wrong": "An outstanding cross-claim between co-defendants does not automatically bar partial summary judgment against one defendant on a separate discrete issue. The court retains discretion under r. 20.04(3).",
+    "why_C_wrong": "This IS the correct answer. Rule 20.04(3) expressly authorises partial summary judgment on some claims or against some parties, subject to the court's discretion on whether it is appropriate.",
+    "why_D_wrong": "A discontinuance against other parties is not a prerequisite for partial summary judgment against one defendant. The court may grant partial judgment and direct a trial on the remaining issues including cross-claims.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Summary Judgment",
+      "heading": "Partial Summary Judgment",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 20.04(3)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "entire action",
+      "partial summary judgment",
+      "r. 20.04(3)",
+      "cross-claim",
+      "some parties"
+    ],
+    "tested_concepts": [
+      "r. 20.04(3) — summary judgment need not resolve entire action",
+      "partial summary judgment against some parties",
+      "cross-claim does not bar partial summary judgment"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
   }
 ]

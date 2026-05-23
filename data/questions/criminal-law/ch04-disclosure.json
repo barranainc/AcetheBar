@@ -273,5 +273,175 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-04-tpr-001",
+    "subject": "criminal_law",
+    "chapter_number": 4,
+    "chapter_title": "Disclosure",
+    "topic_id": "crown_disclosure",
+    "topic_heading": "Crown Disclosure Obligations",
+    "subtopic_id": "third_party_records",
+    "subtopic_heading": "Third Party Records — Production to the Defence",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Dominique is charged with sexual assault. Her defence counsel believes that the complainant's psychiatric records, which are held by a therapist and not by the Crown, may contain statements relevant to the complainant's credibility. Defence applies for production of those records to the court.",
+    "call_of_question": "Which legal regime governs defence access to the complainant's psychiatric records in a sexual assault case?",
+    "options": {
+      "A": "Stinchcombe — because all relevant third party records must be disclosed by the Crown to the defence.",
+      "B": "The O'Connor procedure — because all third party records in criminal proceedings are governed by R v O'Connor regardless of the nature of the offence.",
+      "C": "Sections 278.1 to 278.91 of the Criminal Code (the Mills regime) — because these provisions specifically govern production of records relating to complainants in sexual offence proceedings and impose a stringent two-stage process.",
+      "D": "The civil rules of evidence — because the records are held by a private third party and not by the Crown."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, ss. 278.1–278.91, Parliament enacted a specific statutory regime — often called the Mills regime — to govern production of records held by third parties relating to complainants in sexual offence proceedings. This regime was upheld in R v Mills, [1999] 3 SCR 668. The accused must establish at stage one that the records are likely relevant to an issue at trial or to the competence of a witness, and must show the records are sought for a proper purpose (not relying on rape myths). The regime is more stringent than O'Connor and applies exclusively to complainant records in sexual offence cases.",
+    "why_A_wrong": "Stinchcombe governs the Crown's duty to disclose materials in its possession. It does not govern applications for production of third party records held by private parties such as therapists.",
+    "why_B_wrong": "The O'Connor procedure governs third party records in non-sexual offence cases. Where the complainant records relate to a sexual offence, ss. 278.1–278.91 of the Criminal Code displace the O'Connor procedure.",
+    "why_C_wrong": "This IS the correct answer. Sections 278.1 to 278.91 of the Criminal Code (the Mills regime) — because these provisions specifically govern production of records relating to complainants in sexual offence proceedings and impose a stringent two-stage process.",
+    "why_D_wrong": "Criminal proceedings are governed by criminal law rules, not civil evidence rules. The Criminal Code specifically addresses third party record production through the Mills regime and O'Connor, not civil discovery rules.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Disclosure",
+      "heading": "Third Party Records — Production to the Defence",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, ss. 278.1–278.91; R v Mills, [1999] 3 SCR 668"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "third party records",
+      "sexual assault",
+      "Mills regime",
+      "ss. 278.1-278.91",
+      "psychiatric records",
+      "complainant records"
+    ],
+    "tested_concepts": [
+      "Mills regime for sexual offence complainant records",
+      "distinction Mills vs O'Connor",
+      "Stinchcombe does not govern third party records"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-04-tpr-002",
+    "subject": "criminal_law",
+    "chapter_number": 4,
+    "chapter_title": "Disclosure",
+    "topic_id": "crown_disclosure",
+    "topic_heading": "Crown Disclosure Obligations",
+    "subtopic_id": "third_party_records",
+    "subtopic_heading": "Third Party Records — Production to the Defence",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Teodora is accused of assaulting her co-worker during a workplace dispute. Her defence counsel believes records from the complainant's employer — including internal investigation reports and disciplinary records — may reveal prior false complaints of workplace violence made by the complainant. These records are not in the Crown's possession.",
+    "call_of_question": "What procedure must defence follow to obtain these workplace records, and what must be established?",
+    "options": {
+      "A": "Defence must bring a Stinchcombe application requiring the Crown to obtain the records through the police.",
+      "B": "Defence must apply under ss. 278.1–278.91 of the Criminal Code because those provisions apply to all third party records sought in criminal proceedings.",
+      "C": "Defence must bring an application under the procedure established in R v O'Connor, 1995 CanLII 51 (SCC), seeking production from the third party; the court will assess likely relevance and balance the accused's right to make full answer and defence against the privacy interests of the complainant.",
+      "D": "Defence is not entitled to any third party records held by private employers unless the Crown first discloses them."
+    },
+    "correct_answer": "C",
+    "explanation": "The two-stage procedure from R v O'Connor, [1995] 4 SCR 411, governs production of third party records in non-sexual offence proceedings. Under O'Connor, at the first stage the accused must satisfy the court that the records are likely relevant. If this threshold is met, the records are produced to the judge for review. At the second stage, the judge balances the accused's s. 7 right to make full answer and defence against privacy rights and other competing interests, and determines what, if any, portion should be produced to the accused. The ss. 278.1–278.91 regime does not apply here because this is not a sexual offence case.",
+    "why_A_wrong": "Stinchcombe only governs materials the Crown already has or can reasonably obtain through the police investigation. Third party records held by an employer require a separate O'Connor application, not a Crown disclosure order.",
+    "why_B_wrong": "Sections 278.1–278.91 of the Criminal Code apply exclusively to records relating to a complainant in a sexual offence proceeding. An assault charge in a workplace dispute is not a sexual offence, and that regime does not govern.",
+    "why_C_wrong": "This IS the correct answer. Defence must bring an application under the procedure established in R v O'Connor, 1995 CanLII 51 (SCC), seeking production from the third party; the court will assess likely relevance and balance the accused's right to make full answer and defence against the privacy interests of the complainant.",
+    "why_D_wrong": "Defence may apply directly for third party records through the O'Connor procedure without requiring Crown to first disclose them. The Crown's failure to possess records does not preclude the accused from seeking them from the holder.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Disclosure",
+      "heading": "Third Party Records — Production to the Defence",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46; R v O'Connor, [1995] 4 SCR 411"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "O'Connor",
+      "third party records",
+      "employer records",
+      "likely relevant",
+      "non-sexual offence",
+      "privacy balance"
+    ],
+    "tested_concepts": [
+      "O'Connor two-stage procedure",
+      "O'Connor applies to non-sexual offence third party records",
+      "likely relevance threshold",
+      "privacy vs full answer and defence balance"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-04-tpr-003",
+    "subject": "criminal_law",
+    "chapter_number": 4,
+    "chapter_title": "Disclosure",
+    "topic_id": "crown_disclosure",
+    "topic_heading": "Crown Disclosure Obligations",
+    "subtopic_id": "third_party_records",
+    "subtopic_heading": "Third Party Records — Production to the Defence",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Henri is charged with sexual assault. His defence counsel brings an application seeking production of the complainant's personal diary, her medical records, and her employment records. Counsel argues that all three categories of records are 'relevant' to Henri's defence and should be produced under the O'Connor procedure.",
+    "call_of_question": "Which statement best describes the correct legal analysis for this production application?",
+    "options": {
+      "A": "All three categories of records should be produced because they are all likely relevant to the sexual assault trial.",
+      "B": "The O'Connor procedure governs all third party record applications in criminal cases, including sexual offence cases; the judge must order production of all three categories if they are likely relevant.",
+      "C": "Because Henri is charged with a sexual offence, ss. 278.1–278.91 of the Criminal Code govern the application for the diary, medical records, and employment records relating to the complainant; the accused must satisfy the more stringent statutory regime, not O'Connor, and cannot obtain production merely by showing likely relevance.",
+      "D": "Because the records are relevant, Henri may obtain them automatically through the Crown's Stinchcombe disclosure obligations."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 278.1, 'record' is defined broadly to include medical, psychiatric, therapeutic counselling, school, social work, employment, personal journals, and records of sexual conduct relating to the complainant. Where an accused is charged with a sexual offence and seeks production of records described in s. 278.1 that relate to the complainant, the stringent two-stage Mills regime under ss. 278.1–278.91 applies — not the O'Connor procedure. Henri's counsel's application under O'Connor is incorrect. Under the Mills regime, at stage one the accused must establish that the records are likely relevant to an issue at trial or to the competence of a witness and that production is sought for a proper purpose. Merely asserting general relevance, or relying on myths about sexual assault complainants, will not suffice.",
+    "why_A_wrong": "Production of third party complainant records in sexual offence proceedings cannot be ordered on a bare showing of relevance. The ss. 278.1–278.91 regime imposes a more demanding threshold designed to protect complainant privacy and prevent reliance on rape myths.",
+    "why_B_wrong": "O'Connor has been effectively displaced by ss. 278.1–278.91 for sexual offence complainant records. The Criminal Code regime governs those specific categories, and invoking O'Connor for such records is a legal error.",
+    "why_C_wrong": "This IS the correct answer. Because Henri is charged with a sexual offence, ss. 278.1–278.91 of the Criminal Code govern the application for the diary, medical records, and employment records relating to the complainant; the accused must satisfy the more stringent statutory regime, not O'Connor, and cannot obtain production merely by showing likely relevance.",
+    "why_D_wrong": "Stinchcombe governs the Crown's disclosure of materials in its possession. Third party records held by private individuals or institutions are not governed by Stinchcombe. The Crown's disclosure obligation does not extend to compelling third party record holders to produce records.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Disclosure",
+      "heading": "Third Party Records — Production to the Defence",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, ss. 278.1–278.91; R v Mills, [1999] 3 SCR 668; R v O'Connor, [1995] 4 SCR 411"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "ss. 278.1-278.91",
+      "Mills regime",
+      "O'Connor",
+      "sexual offence records",
+      "personal diary",
+      "two-stage application"
+    ],
+    "tested_concepts": [
+      "Mills regime displaces O'Connor for sexual offence complainant records",
+      "s. 278.1 broad definition of records",
+      "proper purpose requirement in Mills",
+      "relevance alone insufficient under Mills regime"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
   }
 ]

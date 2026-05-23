@@ -273,5 +273,282 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-09-ref-und-001",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "discovery_scope",
+    "topic_heading": "Discovery Scope",
+    "subtopic_id": "refusals_undertakings",
+    "subtopic_heading": "Refusals and Undertakings at Discovery",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "During examination for discovery, counsel for Riverbend Contracting Ltd. refuses to allow the company's representative to answer a question on the basis that the answer might be harmful to Riverbend's case. Opposing counsel asks what reason Riverbend is providing for the refusal so it can be tracked on the refusals chart.",
+    "call_of_question": "When a party refuses to answer a question at examination for discovery, what must that party do under the Rules of Civil Procedure?",
+    "options": {
+      "A": "The refusing party need not provide any reason; a simple refusal is sufficient and the examining party must bring a motion if it wants the question answered.",
+      "B": "The refusing party must state the reason for the refusal; under r. 31.07 of the Rules of Civil Procedure, if a question is refused, the reason for the refusal must be given.",
+      "C": "The refusing party must provide a sworn affidavit at the examination explaining why the question is being refused.",
+      "D": "The refusing party must obtain a court order permitting the refusal before refusing to answer at the examination."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Rules of Civil Procedure, r. 31.07, where a person being examined for discovery refuses to answer a question, the reason for the refusal must be stated. Common grounds include privilege, irrelevance, and oppressiveness. This obligation to state the reason enables the examining party to assess whether to challenge the refusal and allows the refusal to be properly tracked on the refusals chart. A bare refusal without a stated reason is not compliant with r. 31.07.",
+    "why_A_wrong": "Rule 31.07 expressly requires that the reason for the refusal be stated at the time of refusal. A bare refusal without any stated reason does not comply with the rule.",
+    "why_B_wrong": "This IS the correct answer. Under r. 31.07, the party refusing to answer must state the reason for the refusal at the examination.",
+    "why_C_wrong": "There is no requirement to file a sworn affidavit at the examination to justify a refusal. The reason must be stated orally on the record during the examination.",
+    "why_D_wrong": "A prior court order is not required to refuse a question at discovery. The party may refuse and state the reason; if the refusal is improper, the opposing party can bring a motion to compel under r. 31.08.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Examination for Discovery",
+      "heading": "Refusals and Undertakings at Discovery",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 31.07"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "refusal to answer",
+      "state the reason",
+      "r. 31.07",
+      "refusals chart",
+      "examination for discovery"
+    ],
+    "tested_concepts": [
+      "r. 31.07 — reason for refusal must be stated",
+      "refusals chart",
+      "bare refusal insufficient"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-09-ref-und-002",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "discovery_scope",
+    "topic_heading": "Discovery Scope",
+    "subtopic_id": "refusals_undertakings",
+    "subtopic_heading": "Refusals and Undertakings at Discovery",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Kwiatkowski Property Inc. is examined for discovery in a construction lien action. During the examination, Kwiatkowski's representative gives an undertaking to provide the original cost estimates within 30 days. Three months later, the estimates have not been delivered. Opposing counsel for Nguyen Builders Ltd. wants to compel compliance.",
+    "call_of_question": "What procedural step can Nguyen Builders take to enforce the outstanding undertaking?",
+    "options": {
+      "A": "Nguyen Builders may simply re-attend at examination for discovery and ask for the documents again; no motion is required.",
+      "B": "Nguyen Builders must commence a new action against Kwiatkowski for breach of the undertaking.",
+      "C": "Nguyen Builders may bring a motion under r. 31.08 of the Rules of Civil Procedure to compel Kwiatkowski to answer the undertaking, and the court may order compliance along with costs.",
+      "D": "Nguyen Builders must wait until the pre-trial conference and raise the failure to fulfil the undertaking with the pre-trial judge."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Rules of Civil Procedure, r. 31.08, where a party refuses to answer a question or fails to comply with an obligation arising from the examination for discovery — including failing to fulfil an undertaking — the examining party may bring a motion to compel compliance. The court may order that the question be answered or the undertaking be fulfilled, and may award costs of the motion against the defaulting party. An outstanding undertaking that is not fulfilled within the agreed or reasonable time can be the subject of such a motion without the need to re-attend discovery.",
+    "why_A_wrong": "Re-attending at discovery to re-ask for the documents is an option in some circumstances, but a motion under r. 31.08 is the appropriate mechanism to enforce a specific outstanding undertaking when the deadline has passed and the party has failed to comply.",
+    "why_B_wrong": "Breach of a discovery undertaking is enforced through a procedural motion within the existing action under r. 31.08, not by commencing a new action for breach of contract.",
+    "why_C_wrong": "This IS the correct answer. A motion under r. 31.08 is the proper mechanism to compel fulfilment of an outstanding discovery undertaking, and the court may award costs.",
+    "why_D_wrong": "Waiting until the pre-trial conference is not the prescribed remedy for an outstanding undertaking. The party should bring a motion under r. 31.08 promptly to enforce compliance rather than delaying until a pre-trial conference.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Examination for Discovery",
+      "heading": "Refusals and Undertakings at Discovery",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 31.08"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "undertaking",
+      "motion to compel",
+      "r. 31.08",
+      "outstanding undertaking",
+      "enforce"
+    ],
+    "tested_concepts": [
+      "r. 31.08 motion to compel",
+      "enforcing outstanding undertakings",
+      "costs on motion to compel"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-09-ref-und-003",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "discovery_scope",
+    "topic_heading": "Discovery Scope",
+    "subtopic_id": "refusals_undertakings",
+    "subtopic_heading": "Refusals and Undertakings at Discovery",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "During examination for discovery of the plaintiff, Adeyemi Real Estate Corp., counsel for the defendant Borowski Development Ltd. asks a question and Adeyemi's counsel instructs the witness not to answer on the ground of relevance. The refusal is recorded on the refusals chart. At the conclusion of the examination, Borowski's counsel brings a motion to compel the answer. The motion judge upholds Adeyemi's refusal, finding the question is not relevant to any matter in issue.",
+    "call_of_question": "What is the procedural consequence when a court upholds a refusal on a motion to compel answers under r. 31.08?",
+    "options": {
+      "A": "The examining party is entitled to re-attend discovery and ask the same question again in a differently worded form.",
+      "B": "The court must adjourn the action pending a further review of whether all refusals were properly upheld.",
+      "C": "Where the court upholds the refusal, the examining party is not entitled to re-attend discovery to ask the refused question, and the refused question is resolved without further re-attendance.",
+      "D": "The court is required to award costs to the refusing party whenever a refusal is upheld on a motion to compel."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Rules of Civil Procedure, r. 31.08, on a motion to compel answers to questions refused at discovery, the court may order the question to be answered or may uphold the refusal. Where the court upholds the refusal — finding the question was properly refused, for example on grounds of irrelevance — the examining party is not entitled to re-attend discovery to pose the same question or effectively the same question in different words. The upheld refusal is a final determination on that question, and no further re-attendance on that issue is required.",
+    "why_A_wrong": "When a refusal is upheld by the court, the examining party does not have a right to re-attend to re-ask the question. The court's order resolves the refusal issue finally.",
+    "why_B_wrong": "There is no rule requiring the court to adjourn the action when a refusal is upheld on a motion. The action continues; only the question of re-attendance on the refused question is resolved.",
+    "why_C_wrong": "This IS the correct answer. Where the court upholds the refusal under r. 31.08, no re-attendance is required or permitted to ask the refused question again.",
+    "why_D_wrong": "Costs are in the discretion of the court on a motion under r. 31.08. The court is not required to award costs to the refusing party every time a refusal is upheld; costs depend on the circumstances.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Examination for Discovery",
+      "heading": "Refusals and Undertakings at Discovery",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 31.08"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "refusal upheld",
+      "r. 31.08",
+      "re-attendance",
+      "motion to compel",
+      "discovery"
+    ],
+    "tested_concepts": [
+      "r. 31.08 — upheld refusal precludes re-attendance",
+      "motion to compel refusals",
+      "court upholds refusal — final determination"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-09-ref-und-004",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "discovery_scope",
+    "topic_heading": "Discovery Scope",
+    "subtopic_id": "refusals_undertakings",
+    "subtopic_heading": "Refusals and Undertakings at Discovery",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Zamorski Investment Group Inc. is examined for discovery in a securities fraud action brought by Leclerc Pension Fund Ltd. During the examination, the representative for Zamorski gives an undertaking to obtain and produce a particular set of trading records. Six weeks later, Zamorski provides a response to the undertaking stating that it has located the records but has decided not to produce them as they are now claimed to be privileged — a privilege claim not raised at the time the undertaking was given.",
+    "call_of_question": "Can Zamorski legitimately refuse to produce documents subject to an undertaking by claiming privilege after the undertaking was given?",
+    "options": {
+      "A": "Yes — a party may always raise a new privilege claim over documents at any time before trial, even after giving an undertaking to produce them.",
+      "B": "No — once an undertaking is given, the party is absolutely bound to produce the documents regardless of any subsequently identified privilege.",
+      "C": "Generally no — where an undertaking to produce is given without privilege being reserved at the time, raising privilege afterward may be seen as a breach of the undertaking and the opposing party may bring a motion to compel; however, the court retains discretion to consider a genuine privilege claim raised after the undertaking if the circumstances warrant.",
+      "D": "Yes — privilege claims supersede all discovery undertakings and the party may raise them without consequence at any point before the documents are actually produced."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Ontario discovery practice, an undertaking to produce a document creates a binding obligation. Where privilege was not reserved at the time the undertaking was given, subsequently raising a privilege claim is problematic and may be treated by the court as a breach of the undertaking or as an improper attempt to resile from a commitment. The examining party may bring a motion to compel compliance under r. 31.08. Courts have discretion to permit a genuinely meritorious privilege claim raised after an undertaking — particularly where the privilege was overlooked in good faith — but they will not automatically permit a late privilege claim that appears tactical. The undertaking cannot simply be ignored; the party must explain itself and the court will assess whether the claim is genuine.",
+    "why_A_wrong": "While privilege can in principle be raised at any time before production, giving an undertaking without reserving privilege and then refusing to produce exposes the party to a motion to compel and adverse costs consequences. It is not simply a matter of 'always' being available.",
+    "why_B_wrong": "Courts retain the discretion to permit a genuine privilege claim even after an undertaking is given if the circumstances are exceptional and the claim has genuine merit. An absolute rule barring any post-undertaking privilege claim is too broad.",
+    "why_C_wrong": "This IS the correct answer. Generally, raising privilege after giving an undertaking without reserving it is problematic and may result in a motion to compel, though courts retain discretion to assess a genuinely meritorious post-undertaking privilege claim.",
+    "why_D_wrong": "Privilege claims do not automatically and unconditionally supersede discovery undertakings. A party that gives an undertaking without reserving privilege must seek the court's permission to resile and must justify the late claim.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Examination for Discovery",
+      "heading": "Refusals and Undertakings at Discovery",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 31.07; r. 31.08"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "undertaking",
+      "privilege claim",
+      "after undertaking given",
+      "motion to compel",
+      "r. 31.08"
+    ],
+    "tested_concepts": [
+      "undertaking binding obligation",
+      "late privilege claim after undertaking",
+      "court discretion on post-undertaking privilege",
+      "r. 31.07 and r. 31.08"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-09-ref-und-005",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "discovery_scope",
+    "topic_heading": "Discovery Scope",
+    "subtopic_id": "refusals_undertakings",
+    "subtopic_heading": "Refusals and Undertakings at Discovery",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Examination for discovery of the defendant, Paradis Fabrication Ltd., was completed fourteen months ago in a commercial negligence action brought by Sobchak Industrial Supply Inc. At the time of discovery, Sobchak's counsel noted seventeen questions that were refused on grounds of relevance and recorded them on the refusals chart. Sobchak's counsel has not taken any steps to challenge any of the refusals since the examination. Trial is now scheduled for three months away, and Sobchak's counsel brings a motion to compel answers to all seventeen refused questions.",
+    "call_of_question": "What is the risk Sobchak faces in bringing a motion to compel answers to refused questions fourteen months after the examination for discovery?",
+    "options": {
+      "A": "There is no time limit on bringing a motion to compel answers to refused questions; Sobchak may bring the motion at any time before trial.",
+      "B": "Sobchak's motion will automatically be dismissed because a motion to compel answers to refused questions must be brought within 60 days of the discovery.",
+      "C": "Sobchak risks the motion being dismissed or penalized in costs on the basis that the motion was not brought within a reasonable time after the examination for discovery, causing prejudice to Paradis and disrupting the trial preparation schedule.",
+      "D": "Sobchak must obtain leave of the court to compel answers to any discovery refusals if more than six months have passed since the examination."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Ontario discovery practice, while there is no hard statutory deadline for bringing a motion to compel answers to discovery refusals, courts expect that such motions be brought within a reasonable time after the examination. Waiting fourteen months — until three months before trial — creates a real risk that the court will find the delay unreasonable, that prejudice has resulted to the responding party, and that granting the motion would disrupt the trial schedule. Courts have dismissed or imposed adverse costs consequences on late-brought motions to compel. Sobchak's delay in challenging the refusals for over a year is a significant procedural risk, and the court may decline to hear the motion or impose costs regardless of the merits of the individual refusals.",
+    "why_A_wrong": "While there is no absolute statutory deadline, courts do not permit motions to compel to be brought at any time without regard to delay. Unreasonable delay in bringing the motion is a significant factor against granting it.",
+    "why_B_wrong": "There is no fixed 60-day rule for motions to compel discovery refusals in the Rules of Civil Procedure. The standard is reasonableness of the delay in the circumstances.",
+    "why_C_wrong": "This IS the correct answer. Sobchak risks the motion being dismissed or attracting adverse costs for failing to bring the motion within a reasonable time after the discovery, particularly given the proximity to trial.",
+    "why_D_wrong": "There is no specific 'leave of court' requirement triggered at six months post-examination. The governing principle is reasonableness of the delay, not a leave threshold at a fixed time period.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Examination for Discovery",
+      "heading": "Refusals and Undertakings at Discovery",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 31.07; r. 31.08"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "motion to compel",
+      "reasonable time",
+      "delay",
+      "refusals chart",
+      "r. 31.08"
+    ],
+    "tested_concepts": [
+      "reasonable time to bring motion to compel refusals",
+      "delay in bringing motion — risk of dismissal",
+      "r. 31.08 motion to compel",
+      "proximity to trial as prejudice factor"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
   }
 ]

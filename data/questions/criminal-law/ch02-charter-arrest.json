@@ -831,5 +831,617 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-cit-arrest-001",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "arrest_powers",
+    "topic_heading": "Powers of Arrest",
+    "subtopic_id": "citizen_arrest",
+    "subtopic_heading": "Citizen's Power of Arrest",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Priya is walking through a Toronto park when she witnesses a man punch another man in the face, knocking him to the ground. The aggressor begins to walk away. Priya grabs the aggressor's arm and holds him until police arrive five minutes later. Assault causing bodily harm is a hybrid offence.",
+    "call_of_question": "Under s. 494(1)(a) of the Criminal Code, did Priya have the legal authority to make a citizen's arrest?",
+    "options": {
+      "A": "Yes — s. 494(1)(a) allows any person to arrest someone they find committing an indictable offence, and assault causing bodily harm can be prosecuted as an indictable offence.",
+      "B": "No — citizen's arrests under s. 494(1)(a) are restricted to offences that are pure indictable offences and never apply to hybrid offences.",
+      "C": "Yes — but only if Priya holds a valid first aid certification at the time of the arrest.",
+      "D": "No — citizen's arrest powers are exclusively available to property owners whose property is being targeted."
+    },
+    "correct_answer": "A",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 494(1)(a), any person may arrest without warrant a person whom they find committing an indictable offence. Assault causing bodily harm is a hybrid offence that may be proceeded with by indictment. Where a hybrid offence is being committed and is capable of being prosecuted as an indictable offence, s. 494(1)(a) is engaged. Priya found the aggressor in the act of committing the offence and acted immediately, satisfying the 'finds committing' requirement. There is no licensing requirement, and the power extends well beyond property owners.",
+    "why_A_wrong": "This IS the correct answer. Yes — s. 494(1)(a) allows any person to arrest someone they find committing an indictable offence, and assault causing bodily harm can be prosecuted as an indictable offence.",
+    "why_B_wrong": "The s. 494(1)(a) power applies to indictable offences. A hybrid offence that can be prosecuted by indictment qualifies; the provision is not limited to purely indictable offences with no summary election available.",
+    "why_C_wrong": "Section 494 contains no certification, training, or licensing requirements. The citizen's arrest power is available to any person who finds another committing the specified type of offence.",
+    "why_D_wrong": "Section 494(1)(a) grants the power to any person, not only property owners. Property owner powers are separately addressed in s. 494(2) and apply to offences on or in relation to property.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Charter Rights — Arrest, Detention, and Search",
+      "heading": "Citizen's Power of Arrest",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 494(1)(a)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "citizen arrest",
+      "s. 494",
+      "finds committing",
+      "indictable offence",
+      "any person"
+    ],
+    "tested_concepts": [
+      "s. 494(1)(a) indictable offence requirement",
+      "finds committing element",
+      "citizen arrest not limited to property owners"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-cit-arrest-002",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "arrest_powers",
+    "topic_heading": "Powers of Arrest",
+    "subtopic_id": "citizen_arrest",
+    "subtopic_heading": "Citizen's Power of Arrest",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Marcus manages a convenience store in Hamilton. He observes a woman conceal a chocolate bar (value $3.50) in her jacket pocket and walk past the cash register without paying. The offence is theft under $5,000, which is a hybrid offence. Marcus blocks the exit and detains her. He then calls the police, who arrive 20 minutes later. Marcus does not attempt to deliver her to police any sooner.",
+    "call_of_question": "Which of the following best describes the legal validity of Marcus's citizen's arrest?",
+    "options": {
+      "A": "The arrest was unlawful because theft under $5,000 is not an indictable offence and s. 494(1)(a) requires the offence to be indictable.",
+      "B": "The arrest was lawful under s. 494(2) because Marcus, as a person authorised by the property owner to manage the premises, found a person committing a criminal offence on or in relation to that property; however, Marcus was also obligated under s. 494(3) to deliver her to police forthwith.",
+      "C": "The arrest was unlawful because citizen's arrests can only be made by the property owner personally, not by an employee or manager.",
+      "D": "The arrest was lawful under s. 494(1)(a) because Marcus personally witnessed a criminal offence being committed in his presence."
+    },
+    "correct_answer": "B",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 494(2), a person who owns property or a person authorized by an owner may arrest without warrant a person whom they find committing any criminal offence — including summary conviction and hybrid offences — on or in relation to that property. A store manager is a person authorized by the owner, and theft occurring in the store is a criminal offence on or in relation to that property. Section 494(1)(a) would not apply independently here because that provision requires an indictable offence. Section 494(3) imposes a duty to deliver the arrested person to a peace officer forthwith, meaning without unreasonable delay.",
+    "why_A_wrong": "Section 494(2) — not s. 494(1)(a) — governs property-related arrests, and it covers any criminal offence, including hybrid offences prosecuted summarily. The s. 494(2) analysis is the correct one on these facts.",
+    "why_B_wrong": "This IS the correct answer. The arrest was lawful under s. 494(2) because Marcus, as a person authorised by the property owner to manage the premises, found a person committing a criminal offence on or in relation to that property; however, Marcus was also obligated under s. 494(3) to deliver her to police forthwith.",
+    "why_C_wrong": "Section 494(2) expressly extends the power to persons authorized by the owner. It is not restricted to the owner personally, which would make commercial retail operations unworkable.",
+    "why_D_wrong": "Section 494(1)(a) requires an indictable offence. Theft under $5,000 is a hybrid offence that, absent Crown election, does not automatically qualify under s. 494(1)(a). The correct authority is s. 494(2), which applies to any offence on or related to the property.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Charter Rights — Arrest, Detention, and Search",
+      "heading": "Citizen's Power of Arrest",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 494(2) and s. 494(3)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "citizen arrest",
+      "s. 494(2)",
+      "property owner authorized",
+      "any criminal offence",
+      "forthwith"
+    ],
+    "tested_concepts": [
+      "s. 494(2) any offence on property",
+      "authorized person power",
+      "s. 494(3) duty to deliver forthwith",
+      "distinction s. 494(1)(a) vs s. 494(2)"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-cit-arrest-003",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "arrest_powers",
+    "topic_heading": "Powers of Arrest",
+    "subtopic_id": "citizen_arrest",
+    "subtopic_heading": "Citizen's Power of Arrest",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Dimitri, a neighbour, observed a man he did not recognise break a car window and take a laptop bag from inside a car parked on a residential street in Mississauga. The incident occurred at 11:00 p.m. Dimitri did not immediately intervene. By 11:10 p.m., Dimitri saw the same man walking back past his driveway and detained him. Dimitri did not call police until 11:45 p.m., keeping the man restrained in his garage for that period. Theft of property from a motor vehicle is a hybrid offence.",
+    "call_of_question": "Which of the following most accurately describes the legal issues arising from Dimitri's actions?",
+    "options": {
+      "A": "The arrest was valid under s. 494(1)(a) because Dimitri personally witnessed an indictable offence, and there is no duty to deliver the arrested person to police.",
+      "B": "The arrest may be justified under s. 494(1)(b) if Dimitri reasonably believed the man committed an indictable offence and was freshly pursuing him; however, the 35-minute delay before calling police likely violates the s. 494(3) duty to deliver forthwith, potentially rendering the continued detention unlawful.",
+      "C": "The arrest is unlawful because s. 494 applies only to property owners and the car was not Dimitri's property.",
+      "D": "The arrest was valid without any limit on the duration of detention, because Dimitri acted in good faith."
+    },
+    "correct_answer": "B",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 494(1)(b), any person may arrest without warrant a person who, on reasonable grounds, they believe has committed a criminal offence and is escaping and freshly pursued. Dimitri witnessed the offence and may have been engaged in fresh pursuit when he detained the man at 11:10 p.m. However, s. 494(3) imposes a mandatory duty to deliver the arrested person to a peace officer forthwith — meaning without unreasonable delay. Holding the person for 35 minutes before even calling police is unlikely to satisfy this requirement. The citizen's arrest power does not authorise extended private detention, and failure to comply with s. 494(3) may expose Dimitri to liability for unlawful confinement.",
+    "why_A_wrong": "There is indeed a duty to deliver the arrested person to police forthwith under s. 494(3). Section 494 does not grant unlimited detention rights; the person must be transferred to a peace officer without unreasonable delay.",
+    "why_B_wrong": "This IS the correct answer. The arrest may be justified under s. 494(1)(b) if Dimitri reasonably believed the man committed an indictable offence and was freshly pursuing him; however, the 35-minute delay before calling police likely violates the s. 494(3) duty to deliver forthwith, potentially rendering the continued detention unlawful.",
+    "why_C_wrong": "Section 494(1) grants powers to any person, not only property owners. The car being Dimitri's property is irrelevant to the s. 494(1) analysis, which is not property-based.",
+    "why_D_wrong": "Good faith does not override the mandatory statutory duty in s. 494(3). The duty to deliver forthwith is not excused by subjective good intentions; the reasonableness of the delay is assessed objectively.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Charter Rights — Arrest, Detention, and Search",
+      "heading": "Citizen's Power of Arrest",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 494(1)(b) and s. 494(3)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "citizen arrest",
+      "s. 494(1)(b)",
+      "fresh pursuit",
+      "forthwith",
+      "s. 494(3)",
+      "unlawful confinement"
+    ],
+    "tested_concepts": [
+      "s. 494(1)(b) fresh pursuit and reasonable belief",
+      "s. 494(3) mandatory forthwith delivery",
+      "extended private detention prohibited"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-s9-detent-001",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_detention",
+    "topic_heading": "Detention and Right to Counsel — Charter ss. 9, 10",
+    "subtopic_id": "section9_arbitrary_detention",
+    "subtopic_heading": "s. 9 — Right Against Arbitrary Detention",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Constable Beaumont is on patrol in Ottawa when she notices a man sitting on a park bench at 2:00 a.m. She walks up to him and says, 'Do you mind stopping for a moment and answering some questions?' The man stops and speaks with her voluntarily for ten minutes. He is not told he must stay, and Constable Beaumont does not block his path.",
+    "call_of_question": "Under R v Grant's framework, has the man been detained within the meaning of s. 9 of the Charter?",
+    "options": {
+      "A": "Yes — any police contact with a member of the public constitutes detention under the Charter.",
+      "B": "No — under R v Grant, 2009 SCC 32, a voluntary encounter where the person has a realistic choice to walk away and police issue no demands does not constitute detention.",
+      "C": "Yes — because the encounter occurred late at night and the man would have felt compelled to stop.",
+      "D": "Yes — detention occurs whenever a police officer approaches a citizen and asks questions."
+    },
+    "correct_answer": "B",
+    "explanation": "Under R v Grant, 2009 SCC 32, the Supreme Court identified three categories of police-public encounters: (1) voluntary interactions with no detention; (2) investigative detentions; and (3) formal arrest. The Grant framework asks whether, objectively, a person in the circumstances would reasonably conclude they had no choice but to comply. Where police make a polite request, do not block the person's path, and the person voluntarily participates, there is no detention. Constable Beaumont's request was framed as optional ('Do you mind'), she imposed no physical constraint, and the person made a free choice to engage. This is a voluntary encounter, not a detention.",
+    "why_A_wrong": "Grant expressly rejected the proposition that all police-public contact constitutes detention. Voluntary encounters are the first category and do not trigger s. 9 rights.",
+    "why_B_wrong": "This IS the correct answer. No — under R v Grant, 2009 SCC 32, a voluntary encounter where the person has a realistic choice to walk away and police issue no demands does not constitute detention.",
+    "why_C_wrong": "The Grant test is objective — would a reasonable person in the accused's circumstances feel compelled to comply. The time of night is one contextual factor but, absent any police demand or physical restriction, does not automatically transform a voluntary encounter into a detention.",
+    "why_D_wrong": "Grant specifically rejected a test that equates any questioning with detention. Voluntariness — including whether a realistic choice existed — is the central inquiry, not the act of asking questions alone.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Charter Rights — Arrest, Detention, and Search",
+      "heading": "s. 9 — Right Against Arbitrary Detention",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 9; R v Grant, 2009 SCC 32"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 9",
+      "arbitrary detention",
+      "Grant",
+      "voluntary encounter",
+      "realistic choice"
+    ],
+    "tested_concepts": [
+      "R v Grant three categories",
+      "voluntary encounter vs detention",
+      "objective reasonable person test"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-s9-detent-002",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_detention",
+    "topic_heading": "Detention and Right to Counsel — Charter ss. 9, 10",
+    "subtopic_id": "section9_arbitrary_detention",
+    "subtopic_heading": "s. 9 — Right Against Arbitrary Detention",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At 1:30 a.m., Sergeant Wozniak observes Nathaniel walking quickly through an area known for recent residential break-ins. Nathaniel is wearing a dark hoodie and carrying a backpack. The sergeant pulls his cruiser alongside Nathaniel, activates the vehicle's overhead lights, exits the vehicle, and says, 'Stop. I need to talk to you.' Nathaniel stops. Sergeant Wozniak does not have grounds to arrest Nathaniel.",
+    "call_of_question": "Which of the following best characterises this encounter under s. 9 of the Charter?",
+    "options": {
+      "A": "No detention has occurred because Sergeant Wozniak has not announced an arrest.",
+      "B": "A lawful investigative detention exists, provided Sergeant Wozniak had reasonable grounds to suspect Nathaniel was connected to a recent or ongoing criminal offence, per R v Mann.",
+      "C": "Any detention in this circumstance is arbitrary because the sergeant has no grounds whatsoever and nighttime walking is not suspicious.",
+      "D": "A lawful detention exists because activated police lights always constitute lawful authority to detain pedestrians."
+    },
+    "correct_answer": "B",
+    "explanation": "Under R v Mann, 2004 SCC 52, police may detain a person briefly for investigative purposes where they have reasonable grounds to suspect the person is connected to a recent or ongoing criminal offence. This is a lower standard than the reasonable grounds to believe required for arrest. The encounter here clearly constitutes a detention — the overhead lights, exit from the vehicle, and command 'Stop' would lead a reasonable person to conclude there was no realistic choice but to comply (per Grant). Whether the detention is lawful turns on whether the sergeant had the Mann standard of reasonable suspicion: walking quickly at 1:30 a.m. in dark clothing through a break-in-prone area provides potential reasonable suspicion, but the question expressly requires application of the Mann test.",
+    "why_A_wrong": "A formal announcement of arrest is not required for a detention to exist. Under Grant, detention arises when a reasonable person would conclude they have no realistic choice but to comply. The use of overhead lights and a direct command to stop clearly meets this threshold.",
+    "why_B_wrong": "This IS the correct answer. A lawful investigative detention exists, provided Sergeant Wozniak had reasonable grounds to suspect Nathaniel was connected to a recent or ongoing criminal offence, per R v Mann.",
+    "why_C_wrong": "The time of day, clothing, and location in an area with recent break-ins are not irrelevant. Courts assess reasonable suspicion based on the totality of the circumstances, and these cumulative factors can constitute reasonable grounds to suspect criminal connection.",
+    "why_D_wrong": "Activated police lights do not create a blanket right to detain pedestrians. Lawful investigative detention requires reasonable suspicion of criminal connection under Mann. The lights are relevant to whether detention occurred, not to whether it is lawful.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Charter Rights — Arrest, Detention, and Search",
+      "heading": "s. 9 — Right Against Arbitrary Detention",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 9; R v Mann, 2004 SCC 52; R v Grant, 2009 SCC 32"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "investigative detention",
+      "Mann",
+      "reasonable suspicion",
+      "s. 9",
+      "arbitrary detention"
+    ],
+    "tested_concepts": [
+      "R v Mann investigative detention standard",
+      "reasonable suspicion vs reasonable belief",
+      "Grant detention analysis"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-s9-detent-003",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_detention",
+    "topic_heading": "Detention and Right to Counsel — Charter ss. 9, 10",
+    "subtopic_id": "section9_arbitrary_detention",
+    "subtopic_heading": "s. 9 — Right Against Arbitrary Detention",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Officers set up a RIDE checkpoint on a Friday night in London, Ontario. They wave every third vehicle over for a brief roadside sobriety check. Leonora is waved over and asked standard questions about whether she has been drinking. She has consumed no alcohol. The stop lasts 90 seconds and she is permitted to leave.",
+    "call_of_question": "Does stopping Leonora at the RIDE checkpoint constitute an arbitrary detention under s. 9 of the Charter?",
+    "options": {
+      "A": "Yes — stopping a vehicle without any articulable cause is always arbitrary under s. 9.",
+      "B": "No — random roadside stops for sobriety checks are authorised by provincial highway traffic legislation and have been upheld as a reasonable limit on s. 9 rights under s. 1 of the Charter.",
+      "C": "No — because Leonora had not consumed alcohol, no Charter right could have been engaged.",
+      "D": "Yes — RIDE programs violate s. 9 unless the driver is actually impaired."
+    },
+    "correct_answer": "B",
+    "explanation": "Under R v Hufsky [1988] 1 SCR 621 and R v Ladouceur [1990] 1 SCR 1257, random vehicle stops do constitute a detention under s. 9 because drivers have no realistic choice but to comply when directed by police. However, random stops conducted pursuant to provincial highway traffic legislation — such as RIDE programs — are authorised by law and have been held to constitute a reasonable limit under s. 1 of the Charter. The compelling governmental interest in reducing impaired driving justifies this modest and systematic intrusion.",
+    "why_A_wrong": "While random stops are detentions under s. 9, they are not automatically arbitrary violations. The s. 1 justification through provincial highway legislation has been upheld by the Supreme Court as constitutionally valid.",
+    "why_B_wrong": "This IS the correct answer. No — random roadside stops for sobriety checks are authorised by provincial highway traffic legislation and have been upheld as a reasonable limit on s. 9 rights under s. 1 of the Charter.",
+    "why_C_wrong": "Charter rights are triggered by the conduct of police, not by the ultimate result of a search or stop. The fact that Leonora had consumed no alcohol is irrelevant to whether her s. 9 right was engaged and whether the limitation was justified.",
+    "why_D_wrong": "RIDE programs are upheld precisely because they do not require individual suspicion of impairment. Requiring actual impairment as a precondition would defeat the systematic deterrence purpose of random roadside checks.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Charter Rights — Arrest, Detention, and Search",
+      "heading": "s. 9 — Right Against Arbitrary Detention",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, ss. 9 and 1; R v Hufsky, [1988] 1 SCR 621; R v Ladouceur, [1990] 1 SCR 1257"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "RIDE program",
+      "random stop",
+      "s. 9",
+      "arbitrary detention",
+      "s. 1 justification",
+      "Hufsky"
+    ],
+    "tested_concepts": [
+      "R v Hufsky random stops",
+      "s. 1 justification of s. 9 limit",
+      "provincial highway legislation authority"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-s9-detent-004",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_detention",
+    "topic_heading": "Detention and Right to Counsel — Charter ss. 9, 10",
+    "subtopic_id": "section9_arbitrary_detention",
+    "subtopic_heading": "s. 9 — Right Against Arbitrary Detention",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Officer Trudeau stops Anaya, a 22-year-old Black woman, while she is walking in a residential neighbourhood in Windsor. Officer Trudeau tells her he is detaining her for investigative purposes because the neighbourhood has had thefts and she 'looks out of place.' He has no other information about Anaya and she has no criminal record. After 15 minutes of questioning, she is released without charge.",
+    "call_of_question": "Was Anaya's detention under s. 9 of the Charter arbitrary?",
+    "options": {
+      "A": "No — the officer had reasonable suspicion based on the general crime rate in the neighbourhood, which satisfies the Mann standard.",
+      "B": "No — investigative detentions are always lawful provided they last less than 30 minutes.",
+      "C": "Yes — under R v Mann, reasonable suspicion must be based on particularized conduct or information connecting the specific individual to a recent or ongoing offence; looking 'out of place' in a general high-crime area without more does not meet the required standard and the detention is arbitrary.",
+      "D": "Yes — but only if Anaya can prove that the detention was racially motivated."
+    },
+    "correct_answer": "C",
+    "explanation": "Under R v Mann, 2004 SCC 52, investigative detention requires reasonable grounds to suspect that the individual is connected to a recent or ongoing criminal offence. This is not a low threshold — it must be based on particularized information about the specific individual, not a general neighbourhood crime rate. Merely 'looking out of place' in an area with thefts provides no particularized basis to suspect Anaya of wrongdoing. The Supreme Court has consistently warned against allowing vague or discriminatory assessments to substitute for genuine reasonable suspicion. The detention was arbitrary within s. 9. It is also worth noting that 'carding'-style stops raise serious concerns under the Charter's equality guarantees, though Anaya need not prove racial motivation to establish an arbitrary detention under s. 9.",
+    "why_A_wrong": "Mann requires particularized suspicion about the specific individual, not just that an area has a high crime rate. A general neighbourhood crime statistic cannot by itself constitute reasonable grounds to suspect any individual found there.",
+    "why_B_wrong": "There is no safe harbour based on duration. A detention of any length is arbitrary if it lacks a lawful basis at the outset. Duration may affect the scope of an otherwise lawful detention but does not cure an unlawful one.",
+    "why_C_wrong": "This IS the correct answer. Yes — under R v Mann, reasonable suspicion must be based on particularized conduct or information connecting the specific individual to a recent or ongoing offence; looking 'out of place' in a general high-crime area without more does not meet the required standard and the detention is arbitrary.",
+    "why_D_wrong": "Proving racial motivation is not a prerequisite for establishing a s. 9 violation. An arbitrary detention is unlawful regardless of the officer's subjective intent. Evidence of racial motivation may be relevant to remedy under s. 24(2) but is not an element of the s. 9 analysis.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Charter Rights — Arrest, Detention, and Search",
+      "heading": "s. 9 — Right Against Arbitrary Detention",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 9; R v Mann, 2004 SCC 52"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "arbitrary detention",
+      "s. 9",
+      "Mann",
+      "particularized suspicion",
+      "high-crime area",
+      "out of place"
+    ],
+    "tested_concepts": [
+      "Mann particularized suspicion requirement",
+      "neighbourhood crime rate insufficient",
+      "racial profiling and s. 9",
+      "arbitrary detention exam trap"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-sita-001",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "search_warrants",
+    "topic_heading": "Search Warrants — Obtaining and Executing",
+    "subtopic_id": "search_incident_arrest",
+    "subtopic_heading": "Search Incident to Arrest",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Officers arrest Salvatore outside his apartment building in Scarborough for trafficking in heroin. Incident to the arrest, they search his jacket pockets and find a small quantity of cash and a folded piece of paper with what appear to be client names and drug amounts. They also open a locked briefcase he was carrying and search through papers inside. No warrant was obtained for the briefcase.",
+    "call_of_question": "Which portion of the search was valid as a search incident to arrest?",
+    "options": {
+      "A": "Both the jacket search and the briefcase search are valid because SITA covers all items in the arrested person's possession.",
+      "B": "Neither search is valid because SITA requires a warrant for any items beyond the person's clothing.",
+      "C": "Only the jacket pocket search is clearly within the scope of SITA; the briefcase may require a warrant because opening a locked container to search its contents exceeds the immediate safety and evidence preservation rationale and may not be truly incidental to the arrest.",
+      "D": "The briefcase search is valid only if its contents ultimately prove relevant to the trafficking charge."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Cloutier v Langlois [1990] 1 SCR 158, search incident to arrest authorises a search of the person and the area within their immediate control for purposes of safety, evidence preservation, and discovery of evidence related to the offence. A search of jacket pockets is squarely within this scope. However, opening a locked briefcase and reviewing its contents is a more intrusive search that goes beyond what is immediately apparent or necessary for the core SITA purposes. Courts scrutinise the extension of SITA to locked containers, particularly where the safety rationale is absent and where the search could be deferred pending a warrant.",
+    "why_A_wrong": "SITA does not extend without limitation to all items in the person's possession. The doctrine covers the person and their immediate surroundings to achieve specific purposes; locked containers require scrutiny of whether the search is truly incidental and proportionate.",
+    "why_B_wrong": "SITA clearly covers searches of the person's clothing and immediately accessible items. Requiring a warrant for everything beyond clothing mischaracterises the scope of the doctrine.",
+    "why_C_wrong": "This IS the correct answer. Only the jacket pocket search is clearly within the scope of SITA; the briefcase may require a warrant because opening a locked container to search its contents exceeds the immediate safety and evidence preservation rationale and may not be truly incidental to the arrest.",
+    "why_D_wrong": "The validity of a SITA search is assessed at the time of the search based on its purpose and scope, not retrospectively by what the search reveals. Relevance of the evidence found does not retroactively justify an overbroad search.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Charter Rights — Arrest, Detention, and Search",
+      "heading": "Search Incident to Arrest",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 8; Cloutier v Langlois, [1990] 1 SCR 158"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "search incident to arrest",
+      "SITA",
+      "locked container",
+      "Cloutier",
+      "truly incidental"
+    ],
+    "tested_concepts": [
+      "Cloutier SITA scope",
+      "locked container and SITA",
+      "purpose of search must be incidental"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-sita-002",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "search_warrants",
+    "topic_heading": "Search Warrants — Obtaining and Executing",
+    "subtopic_id": "search_incident_arrest",
+    "subtopic_heading": "Search Incident to Arrest",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Constables arrest Yolanda at 9:00 p.m. on a street corner in Thunder Bay for possession of cocaine found on her person. She is taken to the station and booked. At 11:30 p.m. — two and a half hours after her arrest — an officer decides to conduct a strip search at the station, citing search incident to arrest. No exigent circumstances were identified. The strip search reveals no additional evidence.",
+    "call_of_question": "Was the strip search conducted on Yolanda legally valid as a search incident to arrest?",
+    "options": {
+      "A": "Yes — strip searches may be conducted at the police station at any time following a lawful arrest as a matter of routine.",
+      "B": "Yes — the passage of time between arrest and strip search does not affect the validity of SITA.",
+      "C": "No — under R v Golden, 2001 SCC 83, strip searches must not be conducted routinely; they require reasonable and probable grounds that the person is concealing evidence or weapons, and must be conducted in a manner that respects the person's dignity, generally at the police station.",
+      "D": "No — strip searches can only be performed by the arresting officer and not by officers at the station."
+    },
+    "correct_answer": "C",
+    "explanation": "Under R v Golden, 2001 SCC 83, the Supreme Court held that strip searches incident to arrest are not routine and cannot be conducted as a matter of course. They require: (1) reasonable and probable grounds to believe the strip search is necessary to discover weapons or evidence; (2) to be conducted in a manner that respects dignity; and (3) generally to be performed at the police station rather than at the scene, except in exigent circumstances. Conducting a strip search two and a half hours after arrest with no identified grounds and no exigent circumstances violates Golden and infringes s. 8.",
+    "why_A_wrong": "Golden expressly rejected the routine strip search. A strip search at the station is not automatically valid merely because arrest was lawful. Independent reasonable and probable grounds for the strip search itself are required.",
+    "why_B_wrong": "While conducting a strip search at the station is generally required under Golden, the timing issue here is that no valid grounds existed, not that the station location was improper. The two-and-a-half hour gap also undermines the 'truly incidental' requirement.",
+    "why_C_wrong": "This IS the correct answer. No — under R v Golden, 2001 SCC 83, strip searches must not be conducted routinely; they require reasonable and probable grounds that the person is concealing evidence or weapons, and must be conducted in a manner that respects the person's dignity, generally at the police station.",
+    "why_D_wrong": "Golden imposes no requirement that only the arresting officer conduct a strip search. The requirements are about grounds, timing, and manner, not the identity of the officer performing the search.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Charter Rights — Arrest, Detention, and Search",
+      "heading": "Search Incident to Arrest",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 8; R v Golden, 2001 SCC 83"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "strip search",
+      "Golden",
+      "SITA",
+      "routine strip search",
+      "reasonable and probable grounds"
+    ],
+    "tested_concepts": [
+      "R v Golden strip search requirements",
+      "no routine strip searches",
+      "reasonable grounds for strip search"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-sita-003",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "search_warrants",
+    "topic_heading": "Search Warrants — Obtaining and Executing",
+    "subtopic_id": "search_incident_arrest",
+    "subtopic_heading": "Search Incident to Arrest",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Police arrest Omar at the front door of his apartment for fraud. After handcuffing him, officers enter the apartment and conduct a thorough search of the bedroom, kitchen, and bathroom — rooms at some distance from where Omar was arrested. They do not have a search warrant. They find documents in the bedroom relevant to the fraud charges.",
+    "call_of_question": "Were the officers entitled under the search incident to arrest doctrine to search Omar's bedroom, kitchen, and bathroom?",
+    "options": {
+      "A": "Yes — SITA extends throughout the entire premises where the arrest occurs.",
+      "B": "Yes — once a person is arrested inside or at their home, SITA authorises a protective sweep of all rooms.",
+      "C": "No — SITA is limited to a search of the person and the area within their immediate control at the time of arrest; searching additional rooms in a dwelling requires a warrant, except to the extent safety concerns justify a limited protective sweep.",
+      "D": "No — SITA cannot apply to a dwelling house under any circumstances."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Cloutier v Langlois [1990] 1 SCR 158, search incident to arrest is limited to a search of the person and the area within their immediate control at the time of arrest. The rationale is officer safety, evidence preservation, and discovery of evidence related to the offence. Searching the bedroom, kitchen, and bathroom of a person arrested at the front door goes far beyond the area of immediate control and exceeds the scope of SITA. A warrant is required to search those rooms. A limited protective sweep may be permissible for safety reasons, but a full evidentiary search of the entire dwelling is not justified by SITA.",
+    "why_A_wrong": "SITA does not extend to the entirety of the premises. The scope is the person and their immediate surroundings, not a blanket authority to search the whole dwelling.",
+    "why_B_wrong": "A protective sweep is a limited safety measure that permits checking for other persons who may pose a threat; it does not constitute a full evidentiary search and does not justify seizing documents from distant rooms.",
+    "why_C_wrong": "This IS the correct answer. No — SITA is limited to a search of the person and the area within their immediate control at the time of arrest; searching additional rooms in a dwelling requires a warrant, except to the extent safety concerns justify a limited protective sweep.",
+    "why_D_wrong": "SITA can apply where an arrest occurs in a dwelling. The limitation is on the scope of the search — it is confined to the person and the immediate area — not on whether dwellings are categorically excluded.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Charter Rights — Arrest, Detention, and Search",
+      "heading": "Search Incident to Arrest",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 8; Cloutier v Langlois, [1990] 1 SCR 158"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "SITA",
+      "search incident to arrest",
+      "immediate control",
+      "protective sweep",
+      "dwelling house search"
+    ],
+    "tested_concepts": [
+      "SITA limited to immediate control area",
+      "protective sweep vs evidentiary search",
+      "warrant required for distant rooms"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-sita-004",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "search_warrants",
+    "topic_heading": "Search Warrants — Obtaining and Executing",
+    "subtopic_id": "search_incident_arrest",
+    "subtopic_heading": "Search Incident to Arrest",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Officers arrest Ingrid for shoplifting (theft under $5,000). Purportedly invoking SITA, they seize her unlocked smartphone and, at the police station two hours after arrest, conduct a full review of her photos, emails, and banking applications. They find no evidence related to the shoplifting but discover communications that link her to an unrelated drug operation. They seek to use this as evidence in a new drug trafficking prosecution.",
+    "call_of_question": "Under R v Fearon and the general SITA doctrine, which of the following best describes the legality of the cell phone search?",
+    "options": {
+      "A": "The search is valid because SITA authorized the seizure of the phone, and any evidence found during a search of a lawfully seized item is admissible.",
+      "B": "The search is valid because the phone was unlocked, removing any reasonable expectation of privacy.",
+      "C": "The search violates s. 8 of the Charter on multiple grounds: it was not conducted promptly at the time of arrest, it was a full data review rather than a targeted search, and it was not truly incidental to the shoplifting arrest; the drug evidence should be excluded under s. 24(2).",
+      "D": "The search is valid because the evidence discovered, while relating to a different offence, was found during a lawful SITA search."
+    },
+    "correct_answer": "C",
+    "explanation": "Under R v Fearon, 2014 SCC 77, a cell phone search incident to arrest must meet all of the following: (1) the arrest must be lawful; (2) the search must be truly incidental to the arrest — connected to the purpose of the arrest; (3) the search must be limited in scope and proportionate; and (4) police must make detailed contemporaneous notes. On these facts, the search fails on multiple grounds. It occurred two hours after arrest (not contemporaneous), it was a comprehensive review of all phone data (not limited), and it was not truly incidental to a shoplifting arrest (no connection between shoplifting and emails or banking apps). The discovery of unrelated drug evidence does not cure these defects. The cell phone search violates s. 8, and the drug evidence should be assessed under the s. 24(2) exclusionary remedy.",
+    "why_A_wrong": "Seizing the phone under SITA does not automatically authorize a comprehensive search of its contents. Fearon established that cell phone searches incident to arrest are subject to stricter constraints than physical searches. Seizure and search are distinct acts.",
+    "why_B_wrong": "Whether the phone is locked or unlocked does not determine whether the search is constitutionally valid. A reasonable expectation of privacy in a phone's contents exists regardless of lock status, as held in Fearon.",
+    "why_C_wrong": "This IS the correct answer. The search violates s. 8 of the Charter on multiple grounds: it was not conducted promptly at the time of arrest, it was a full data review rather than a targeted search, and it was not truly incidental to the shoplifting arrest; the drug evidence should be excluded under s. 24(2).",
+    "why_D_wrong": "The search was not lawful under Fearon because it failed the truly incidental and limited scope requirements. Evidence discovered during an unlawful search does not become admissible simply because it is found. The s. 24(2) analysis must follow.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Charter Rights — Arrest, Detention, and Search",
+      "heading": "Search Incident to Arrest",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 8; R v Fearon, 2014 SCC 77"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Fearon",
+      "cell phone SITA",
+      "truly incidental",
+      "full data review",
+      "s. 24(2)",
+      "unlocked phone"
+    ],
+    "tested_concepts": [
+      "Fearon four requirements for cell phone SITA",
+      "contemporaneous search requirement",
+      "truly incidental to specific arrest",
+      "locked vs unlocked irrelevant"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
   }
 ]

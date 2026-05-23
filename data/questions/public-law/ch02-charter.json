@@ -823,5 +823,115 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-s2-freedoms-001",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "section1_oakes",
+    "topic_heading": "Section 1 — Oakes Test for Justified Limitation",
+    "subtopic_id": "section2_fundamental_freedoms",
+    "subtopic_heading": "s. 2 — Fundamental Freedoms",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A municipal by-law prohibits all chalking of messages on public sidewalks. A political advocacy group uses washable chalk to write messages protesting a development project on a city sidewalk. The city issues a fine. The group argues the by-law infringes their freedom of expression under s. 2(b) of the Charter. The city argues the sidewalk is not a protected expressive forum.",
+    "call_of_question": "Does the use of washable chalk on a public sidewalk to convey a political message attract the protection of s. 2(b) of the Charter?",
+    "options": {
+      "A": "No. s. 2(b) protects only verbal and written speech; expressive acts such as chalking on public property are excluded.",
+      "B": "No. Public sidewalks are government property and are therefore not forums where expressive rights apply.",
+      "C": "Yes. Under s. 2(b) of the Charter, any activity that conveys or attempts to convey meaning is expression; political chalking on a public sidewalk is a form of expression whose content and form are both protected, unless the expression takes the form of violence.",
+      "D": "Yes, but only if the message relates to a recognized political party or electoral matter."
+    },
+    "correct_answer": "C",
+    "explanation": "Under s. 2(b) of the Charter and as affirmed in Irwin Toy Ltd v Quebec (AG), [1989] 1 SCR 927, freedom of expression protects any activity that conveys or attempts to convey meaning, in both its content and its form. The only category excluded from s. 2(b) protection is expression that takes the form of violence. Washable chalk on a public sidewalk is a peaceful form of expressive activity clearly within s. 2(b).",
+    "why_A_wrong": "Incorrect. s. 2(b) is not limited to verbal or written speech; it extends to any activity conveying meaning, including expressive acts such as chalking, provided the expression is not violent.",
+    "why_B_wrong": "Incorrect. Government ownership of the property does not exclude it from being a forum for s. 2(b) expression; the Charter applies precisely to government actors and government-controlled spaces.",
+    "why_C_wrong": "This IS the correct answer. Yes. Under s. 2(b) of the Charter, any activity that conveys or attempts to convey meaning is expression; political chalking on a public sidewalk is a form of expression whose content and form are both protected, unless the expression takes the form of violence.",
+    "why_D_wrong": "Incorrect. s. 2(b) protects all expressive activity conveying meaning; it is not limited to recognized political parties or electoral speech.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+      "heading": "s. 2 — Fundamental Freedoms",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 2(b); Irwin Toy Ltd v Quebec (AG), [1989] 1 SCR 927"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 2(b)",
+      "freedom of expression",
+      "expressive activity",
+      "sidewalk",
+      "Irwin Toy"
+    ],
+    "tested_concepts": [
+      "s. 2(b) broad definition of expression",
+      "content and form of expression",
+      "violence exclusion from s. 2(b)"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-s2-freedoms-002",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "section1_oakes",
+    "topic_heading": "Section 1 — Oakes Test for Justified Limitation",
+    "subtopic_id": "section2_fundamental_freedoms",
+    "subtopic_heading": "s. 2 — Fundamental Freedoms",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A provincial labour relations statute prohibits essential-services workers from engaging in collective bargaining over wages, limiting negotiation to working conditions. A union representing paramedics argues the statute violates s. 2(d) of the Charter by stripping away a core component of the right to freedom of association. The government argues s. 2(d) protects only the ability to form and join associations, not what the association does.",
+    "call_of_question": "Does s. 2(d) of the Charter protect the right of workers to engage in a process of collective bargaining?",
+    "options": {
+      "A": "No. s. 2(d) protects only the right to form and belong to an association; it does not extend to the activities or goals of the association.",
+      "B": "No. Labour relations are a matter of provincial jurisdiction; the Charter does not apply to provincial labour statutes.",
+      "C": "Yes. Under Health Services and Support — Facilities Subsector Bargaining Assn v British Columbia, 2007 SCC 27, s. 2(d) protects a process of collective bargaining that enables employees to pursue workplace goals; a law that substantially interferes with that process violates s. 2(d).",
+      "D": "Yes, but only if the statute completely eliminates collective bargaining rather than limiting it to certain topics."
+    },
+    "correct_answer": "C",
+    "explanation": "Under s. 2(d) of the Charter and Health Services and Support — Facilities Subsector Bargaining Assn v British Columbia, 2007 SCC 27, the Supreme Court of Canada held that s. 2(d) protects the right of employees to associate for the purpose of collective bargaining and to engage in a process of good-faith collective bargaining. A law that substantially interferes with that process — such as prohibiting bargaining over wages — constitutes a prima facie violation of s. 2(d), subject to possible justification under s. 1.",
+    "why_A_wrong": "Incorrect. The pre-Health Services view that s. 2(d) protects only association-formation and not associational activities was overruled; s. 2(d) now extends to the process of collective bargaining itself.",
+    "why_B_wrong": "Incorrect. The Charter applies to all government actors including provincial legislatures; provincial jurisdiction over labour relations does not immunize provincial statutes from Charter scrutiny.",
+    "why_C_wrong": "This IS the correct answer. Yes. Under Health Services and Support — Facilities Subsector Bargaining Assn v British Columbia, 2007 SCC 27, s. 2(d) protects a process of collective bargaining that enables employees to pursue workplace goals; a law that substantially interferes with that process violates s. 2(d).",
+    "why_D_wrong": "Incorrect. Health Services does not require complete elimination of collective bargaining; substantial interference with the process is sufficient to trigger s. 2(d), even if some bargaining remains permitted.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+      "heading": "s. 2 — Fundamental Freedoms",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 2(d); Health Services and Support — Facilities Subsector Bargaining Assn v British Columbia, 2007 SCC 27"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 2(d)",
+      "freedom of association",
+      "collective bargaining",
+      "Health Services",
+      "substantial interference"
+    ],
+    "tested_concepts": [
+      "s. 2(d) collective bargaining protection",
+      "Health Services 2007 SCC 27",
+      "substantial interference with associational rights"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
   }
 ]

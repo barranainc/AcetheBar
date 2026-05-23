@@ -275,5 +275,228 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-03-rev-onus-001",
+    "subject": "criminal_law",
+    "chapter_number": 3,
+    "chapter_title": "Bail — Judicial Interim Release",
+    "topic_id": "bail_hearing",
+    "topic_heading": "Bail Hearing — Show Cause Hearing",
+    "subtopic_id": "reverse_onus_bail",
+    "subtopic_heading": "Reverse Onus Bail — s. 515(6)",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Fatima has been charged with trafficking in a controlled substance contrary to s. 5 of the Controlled Drugs and Substances Act. She has no prior criminal record. At her bail hearing, the justice tells defence counsel that it is Fatima's burden to show why she should be released.",
+    "call_of_question": "Is the justice correct that Fatima bears the burden at this bail hearing?",
+    "options": {
+      "A": "No — the Crown always bears the burden of showing cause for detention in all criminal matters, including drug trafficking charges.",
+      "B": "Yes — under s. 515(6) of the Criminal Code, a person charged with trafficking under s. 5 of the CDSA bears the burden of showing cause why their detention is not justified.",
+      "C": "No — reverse onus only applies if Fatima was previously convicted of a drug offence.",
+      "D": "Yes — reverse onus applies to all serious criminal charges regardless of the specific offence."
+    },
+    "correct_answer": "B",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 515(6), the accused must show cause why detention is not justified in specific circumstances. Section 515(6)(d) applies where the accused is charged with an offence under s. 5 (trafficking), s. 6 (importing/exporting), or s. 7 (production) of the Controlled Drugs and Substances Act. The reverse onus applies regardless of the accused's prior record. Fatima is charged with trafficking under s. 5 CDSA, which squarely engages s. 515(6), and the justice is correct to impose the burden on Fatima.",
+    "why_A_wrong": "Section 515(6) is a statutory exception to the ordinary Crown burden. For the specific offences listed in s. 515(6), Parliament has reversed the onus so that the accused must show cause for release.",
+    "why_B_wrong": "This IS the correct answer. Yes — under s. 515(6) of the Criminal Code, a person charged with trafficking under s. 5 of the CDSA bears the burden of showing cause why their detention is not justified.",
+    "why_C_wrong": "The s. 515(6) reverse onus for CDSA trafficking offences applies regardless of the accused's criminal record. The triggering factor is the nature of the charge, not a prior conviction history.",
+    "why_D_wrong": "Reverse onus under s. 515(6) does not apply to all serious charges. It is triggered only for specific listed categories, such as CDSA trafficking, charges while on release, terrorism, and certain organized crime or firearm offences. Seriousness alone does not attract the reverse onus.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Bail — Judicial Interim Release",
+      "heading": "Bail Hearing — Show Cause Hearing",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(6)(d); Controlled Drugs and Substances Act, S.C. 1996, c. 19, s. 5"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "reverse onus",
+      "s. 515(6)",
+      "show cause",
+      "CDSA trafficking",
+      "accused's burden"
+    ],
+    "tested_concepts": [
+      "s. 515(6)(d) CDSA trafficking reverse onus",
+      "accused bears burden",
+      "reverse onus not dependent on prior record"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-03-rev-onus-002",
+    "subject": "criminal_law",
+    "chapter_number": 3,
+    "chapter_title": "Bail — Judicial Interim Release",
+    "topic_id": "bail_hearing",
+    "topic_heading": "Bail Hearing — Show Cause Hearing",
+    "subtopic_id": "reverse_onus_bail",
+    "subtopic_heading": "Reverse Onus Bail — s. 515(6)",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Bertrand, a Canadian citizen, is charged with theft over $5,000 (an indictable offence). He has two prior theft convictions. The Crown argues at the bail hearing that the reverse onus under s. 515(6) applies because Bertrand has a lengthy record and is a danger to the community.",
+    "call_of_question": "Does s. 515(6) of the Criminal Code apply to reverse the onus in Bertrand's bail hearing?",
+    "options": {
+      "A": "Yes — an accused with multiple prior convictions for the same type of offence is subject to reverse onus at any bail hearing.",
+      "B": "No — reverse onus under s. 515(6) does not apply simply because the accused has a criminal record or poses a risk of reoffending; it applies only to the specific categories listed in s. 515(6).",
+      "C": "Yes — theft over $5,000 is a serious indictable offence and all serious indictable offences attract reverse onus.",
+      "D": "No — reverse onus never applies to property offences under any circumstances."
+    },
+    "correct_answer": "B",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 515(6), reverse onus applies only in specified circumstances: (a) the accused is charged with an indictable offence while on release for another indictable offence; (b) the accused is a non-citizen charged with an indictable offence; (c) certain terrorism, organized crime, or firearm offences; (d) CDSA trafficking, importing, or production offences. Having a prior criminal record — even multiple convictions for the same type of offence — does not, standing alone, engage the reverse onus. The Crown's proper recourse is to argue the secondary ground (substantial likelihood of reoffending) under s. 515(10)(b) with the ordinary Crown burden.",
+    "why_A_wrong": "A prior record does not trigger the s. 515(6) reverse onus. The triggering conditions are based on the nature of the current charge and the accused's status at the time of the alleged offence, not their criminal history.",
+    "why_B_wrong": "This IS the correct answer. No — reverse onus under s. 515(6) does not apply simply because the accused has a criminal record or poses a risk of reoffending; it applies only to the specific categories listed in s. 515(6).",
+    "why_C_wrong": "Seriousness of the indictable offence is not a trigger for reverse onus under s. 515(6). The provision lists specific categories, and theft over $5,000 — absent other circumstances — is not among them.",
+    "why_D_wrong": "The categories listed in s. 515(6) can include property offences in some circumstances — for example, if the accused committed the theft while on release for another indictable offence under s. 515(6)(a). The blanket statement that property offences never attract reverse onus is too broad.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Bail — Judicial Interim Release",
+      "heading": "Bail Hearing — Show Cause Hearing",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(6)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "reverse onus",
+      "s. 515(6)",
+      "prior record",
+      "specified categories",
+      "show cause"
+    ],
+    "tested_concepts": [
+      "s. 515(6) specific triggering categories",
+      "prior record does not attract reverse onus",
+      "ordinary Crown burden remains for non-listed offences"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-03-rev-onus-003",
+    "subject": "criminal_law",
+    "chapter_number": 3,
+    "chapter_title": "Bail — Judicial Interim Release",
+    "topic_id": "bail_hearing",
+    "topic_heading": "Bail Hearing — Show Cause Hearing",
+    "subtopic_id": "reverse_onus_bail",
+    "subtopic_heading": "Reverse Onus Bail — s. 515(6)",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Konstantin, a German national temporarily in Canada on a work permit, is arrested and charged with assault causing bodily harm, a hybrid offence. He has been in Canada for two years, has steady employment, and owns a condominium in Toronto. The Crown argues that because Konstantin is a non-citizen charged with an indictable offence, the reverse onus under s. 515(6)(b) applies.",
+    "call_of_question": "Does the reverse onus under s. 515(6)(b) apply to Konstantin's bail hearing, and if so, what must he demonstrate?",
+    "options": {
+      "A": "No — s. 515(6)(b) applies only to persons who are in Canada illegally, not those with valid work permits.",
+      "B": "Yes — under s. 515(6)(b), a person who is not a Canadian citizen and who is charged with an indictable offence must show cause why their detention is not justified; Konstantin must establish that his detention is not warranted.",
+      "C": "No — reverse onus under s. 515(6)(b) applies only when the offence is purely indictable and assault causing bodily harm is a hybrid offence.",
+      "D": "Yes — but only if the Crown can first prove that Konstantin intends to leave Canada before trial."
+    },
+    "correct_answer": "B",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 515(6)(b), where an accused who is not a Canadian citizen is charged with an indictable offence, the accused must show cause why their detention is not justified. Assault causing bodily harm is a hybrid offence that may be prosecuted by indictment, and the reverse onus applies when it is proceeded with as an indictable offence. Konstantin's immigration status as a work permit holder does not exempt him from s. 515(6)(b); the provision applies to non-citizens generally, not only those without legal status. Konstantin must affirmatively show cause why release is appropriate.",
+    "why_A_wrong": "Section 515(6)(b) applies to 'a person who is not a Canadian citizen' without distinction between those lawfully present and those without authorization. Immigration status within Canada does not determine whether the provision applies.",
+    "why_B_wrong": "This IS the correct answer. Yes — under s. 515(6)(b), a person who is not a Canadian citizen and who is charged with an indictable offence must show cause why their detention is not justified; Konstantin must establish that his detention is not warranted.",
+    "why_C_wrong": "A hybrid offence prosecuted by indictment qualifies as an indictable offence for the purposes of s. 515(6)(b). The provision is not limited to purely indictable offences.",
+    "why_D_wrong": "The Crown is not required to prove flight intent to trigger s. 515(6)(b). The reverse onus is triggered automatically by the combination of non-Canadian citizenship and an indictable charge. Flight risk may be a factor in the accused's show cause argument, but it is not a precondition for applying the provision.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Bail — Judicial Interim Release",
+      "heading": "Bail Hearing — Show Cause Hearing",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(6)(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 515(6)(b)",
+      "non-citizen",
+      "reverse onus",
+      "indictable offence",
+      "show cause",
+      "work permit"
+    ],
+    "tested_concepts": [
+      "s. 515(6)(b) non-citizen reverse onus",
+      "work permit holder included",
+      "hybrid offence as indictable for bail purposes"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-03-rev-onus-004",
+    "subject": "criminal_law",
+    "chapter_number": 3,
+    "chapter_title": "Bail — Judicial Interim Release",
+    "topic_id": "bail_hearing",
+    "topic_heading": "Bail Hearing — Show Cause Hearing",
+    "subtopic_id": "reverse_onus_bail",
+    "subtopic_heading": "Reverse Onus Bail — s. 515(6)",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Geneviève is a Canadian citizen charged with robbery, an indictable offence. She has an extensive criminal record including two prior robbery convictions and four prior breaches of probation. She is not currently on release for any other offence at the time of the new robbery charge. The Crown seeks to invoke the reverse onus under s. 515(6).",
+    "call_of_question": "Does the reverse onus under s. 515(6) of the Criminal Code apply to Geneviève's bail hearing?",
+    "options": {
+      "A": "Yes — an extensive prior record for the same type of offence automatically triggers the reverse onus under s. 515(6).",
+      "B": "Yes — multiple prior breaches of probation are the equivalent of being on release for a prior offence, engaging s. 515(6)(a).",
+      "C": "No — Geneviève is not currently on release for another indictable offence, is not a non-citizen, and the robbery charge does not fall within any other s. 515(6) category; the ordinary show cause burden rests with the Crown.",
+      "D": "Yes — robbery is a serious violent offence and all violent indictable offences carry reverse onus."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 515(6), the reverse onus is triggered only in enumerated circumstances. Section 515(6)(a) requires the accused to be on release in respect of a prior indictable offence at the time of the new charge — Geneviève is not. Section 515(6)(b) applies to non-citizens — Geneviève is a Canadian citizen. No other category in s. 515(6) applies. A prior record, including prior robbery convictions and probation breaches, does not independently trigger the reverse onus. The Crown's remedy is to make its case under the secondary ground (s. 515(10)(b)) with the ordinary burden on the Crown. This is a classic exam trap: an extensive record does not substitute for the statutory trigger conditions.",
+    "why_A_wrong": "A prior record — however extensive — is not a trigger for the s. 515(6) reverse onus. The provision lists specific circumstances, and criminal history is not one of them.",
+    "why_B_wrong": "Prior probation breaches do not constitute being 'on release for another indictable offence' under s. 515(6)(a). The accused must be at large on judicial interim release or another form of release in respect of an active charge at the time of the new offence.",
+    "why_C_wrong": "This IS the correct answer. No — Geneviève is not currently on release for another indictable offence, is not a non-citizen, and the robbery charge does not fall within any other s. 515(6) category; the ordinary show cause burden rests with the Crown.",
+    "why_D_wrong": "There is no category in s. 515(6) for 'serious violent indictable offences' as a class. The provision is a specific list, not a general severity threshold. Parliament deliberately chose to enumerate the specific triggers rather than create a broad violence exception.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Criminal Law",
+      "chapter": "Bail — Judicial Interim Release",
+      "heading": "Bail Hearing — Show Cause Hearing",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(6)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "reverse onus",
+      "s. 515(6)",
+      "prior record",
+      "not on release",
+      "show cause",
+      "Crown burden"
+    ],
+    "tested_concepts": [
+      "s. 515(6) exhaustive enumerated triggers",
+      "prior record not a reverse onus trigger",
+      "probation breaches not equivalent to on release",
+      "Crown retains ordinary burden outside listed categories"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
   }
 ]

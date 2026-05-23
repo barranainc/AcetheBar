@@ -1,0 +1,497 @@
+[
+  {
+    "id": "pub-04-reason-stand-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "standard_of_review",
+    "topic_heading": "Standard of Review — Reasonableness and Correctness",
+    "subtopic_id": "reasonableness_standard",
+    "subtopic_heading": "Reasonableness Standard of Review",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The Ontario College of Teachers holds a disciplinary hearing and suspends a teacher for six months for professional misconduct. The teacher seeks judicial review of the suspension, arguing the tribunal's decision was wrong. The enabling statute does not contain a statutory right of appeal. No constitutional question is raised.",
+    "call_of_question": "Under the Vavilov framework, what is the presumptive standard of review that applies to the Ontario College of Teachers' disciplinary decision?",
+    "options": {
+      "A": "Correctness, because professional discipline decisions involve questions of law that courts are best positioned to answer.",
+      "B": "Reasonableness, because under Vavilov the default standard for all administrative decisions is reasonableness, absent a specific reason to rebut the presumption.",
+      "C": "Patent unreasonableness, which was the standard applied under the pre-Vavilov framework and continues to apply in Ontario.",
+      "D": "Correctness, because professional regulatory bodies always attract correctness review as they adjudicate questions that affect the public interest."
+    },
+    "correct_answer": "B",
+    "explanation": "Under Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, the Supreme Court of Canada established that reasonableness is the presumptive default standard of review for all administrative decisions. The presumption is rebutted only in narrow categories: a statutory right of appeal on a question of law, a constitutional question, a question of central importance to the legal system outside the tribunal's expertise, or a jurisdictional question between tribunals. None of those categories apply here.",
+    "why_A_wrong": "Incorrect. Under Vavilov, correctness is not applied simply because a decision involves questions of law; reasonableness is the default standard and correctness applies only in the narrow categories specified by the Court.",
+    "why_B_wrong": "This IS the correct answer. Reasonableness, because under Vavilov the default standard for all administrative decisions is reasonableness, absent a specific reason to rebut the presumption.",
+    "why_C_wrong": "Incorrect. The patent unreasonableness standard was abolished; Vavilov replaced the pre-existing framework, including the old Dunsmuir categories, and patent unreasonableness no longer forms part of the standard of review analysis.",
+    "why_D_wrong": "Incorrect. Vavilov does not create a correctness category for professional regulatory bodies; the professional disciplinary context is one where tribunals have expertise, supporting the application of reasonableness.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Judicial Review",
+      "heading": "Reasonableness Standard of Review",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "reasonableness",
+      "Vavilov",
+      "standard of review",
+      "default",
+      "presumption"
+    ],
+    "tested_concepts": [
+      "Vavilov default reasonableness presumption",
+      "rebuttal categories",
+      "abolition of patent unreasonableness"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-04-reason-stand-002",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "standard_of_review",
+    "topic_heading": "Standard of Review — Reasonableness and Correctness",
+    "subtopic_id": "reasonableness_standard",
+    "subtopic_heading": "Reasonableness Standard of Review",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The Immigration and Refugee Board denies a refugee claimant's application on the basis that the claimant lacks credibility. The written reasons state that 'the panel does not find the claimant credible' but do not identify which portions of the claimant's testimony were disbelieved or explain what inconsistencies or implausibilities led to that finding. The claimant seeks judicial review.",
+    "call_of_question": "How does a reviewing court evaluate whether such a credibility finding survives reasonableness review under Vavilov?",
+    "options": {
+      "A": "The court will uphold the finding because credibility is a factual matter and courts never interfere with factual findings on judicial review.",
+      "B": "The court will substitute its own credibility assessment after reading the full hearing transcript.",
+      "C": "Under Vavilov, the court assesses whether the decision is justified, transparent, and intelligible; reasons that simply assert a conclusion of non-credibility without identifying the basis for disbelief may be unreasonable because they do not allow the party or the court to understand the decision-maker's reasoning process.",
+      "D": "The court will apply the correctness standard because credibility findings in refugee hearings involve questions of law of central importance to the legal system."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, reasonableness review requires the court to examine whether the decision — including its reasons — is justified, transparent, and intelligible. On reasonableness review, the court examines the reasons actually given, not what the decision-maker could have said. Reasons that merely assert non-credibility without identifying the evidentiary basis do not allow the losing party or the reviewing court to understand the analytical path taken, and may be unreasonable on that basis.",
+    "why_A_wrong": "Incorrect. Vavilov did not immunize factual findings from reasonableness review; inadequate reasoning about factual matters — including credibility — can render a decision unreasonable.",
+    "why_B_wrong": "Incorrect. On reasonableness review, the court does not substitute its own view; it examines whether the decision-maker's reasoning process is justified, transparent, and intelligible within the record.",
+    "why_C_wrong": "This IS the correct answer. Under Vavilov, the court assesses whether the decision is justified, transparent, and intelligible; reasons that simply assert a conclusion of non-credibility without identifying the basis for disbelief may be unreasonable because they do not allow the party or the court to understand the decision-maker's reasoning process.",
+    "why_D_wrong": "Incorrect. Credibility findings in refugee hearings are squarely within the IRB's expertise and home statute; they attract reasonableness review, not correctness.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Judicial Review",
+      "heading": "Reasonableness Standard of Review",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "reasonableness",
+      "Vavilov",
+      "justified transparent intelligible",
+      "credibility",
+      "reasons"
+    ],
+    "tested_concepts": [
+      "Vavilov justified transparent intelligible",
+      "adequacy of reasons on reasonableness review",
+      "court examines reasons given not reasons possible"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-04-reason-stand-003",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "standard_of_review",
+    "topic_heading": "Standard of Review — Reasonableness and Correctness",
+    "subtopic_id": "reasonableness_standard",
+    "subtopic_heading": "Reasonableness Standard of Review",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The College of Physicians and Surgeons of Ontario imposes restrictions on a physician's hospital privileges following a quality assurance review. In its written reasons, the College applies a legal test for 'fitness to practise' that it developed internally. The physician argues on judicial review that the College applied an incorrect legal test and that the correct test should be narrower. The reviewing court agrees the test is debatable but concludes it falls within a range of defensible interpretations of the applicable legislation.",
+    "call_of_question": "On reasonableness review, what is the court's role when a tribunal applies a legal test drawn from its home statute that the court believes may not be the best interpretation?",
+    "options": {
+      "A": "The court must substitute its own preferred interpretation of the legal test whenever it disagrees with the tribunal's approach.",
+      "B": "The court will uphold the tribunal's legal test without any analysis, as questions of law within a tribunal's home statute are immune from judicial review.",
+      "C": "Under Vavilov, on reasonableness review the court does not ask whether the tribunal adopted the correct legal test in the court's view; rather, it asks whether the test applied falls within a range of possible acceptable outcomes defensible in law; if so, the decision is reasonable even if the court would have chosen differently.",
+      "D": "The court must apply correctness review to any legal test a tribunal derives from its home statute, because legal interpretation is a judicial function."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, and as affirmed in Dunsmuir v New Brunswick, 2008 SCC 9, reasonableness review asks whether the decision falls within a range of possible acceptable outcomes that are defensible in respect of the facts and law. The court does not substitute its own preferred interpretation; the existence of multiple defensible interpretations of a statute is precisely the situation where deference to the tribunal's expertise is appropriate, provided the interpretation can be justified with reference to the text, purpose, and context of the statute.",
+    "why_A_wrong": "Incorrect. Substituting the court's preferred interpretation is the correctness standard, not reasonableness; on reasonableness review, the court does not impose its own view of the best interpretation.",
+    "why_B_wrong": "Incorrect. Reasonableness review is not a rubber stamp; the court still examines whether the decision is justified, transparent, and intelligible, and must assess whether the interpretation is within the range of defensible outcomes.",
+    "why_C_wrong": "This IS the correct answer. Under Vavilov, on reasonableness review the court does not ask whether the tribunal adopted the correct legal test in the court's view; rather, it asks whether the test applied falls within a range of possible acceptable outcomes defensible in law; if so, the decision is reasonable even if the court would have chosen differently.",
+    "why_D_wrong": "Incorrect. Under Vavilov, a tribunal's interpretation of its home statute attracts reasonableness, not correctness review; courts do not apply correctness simply because legal interpretation is at issue.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Judicial Review",
+      "heading": "Reasonableness Standard of Review",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "reasonableness",
+      "Vavilov",
+      "range of acceptable outcomes",
+      "home statute",
+      "deference"
+    ],
+    "tested_concepts": [
+      "range of possible acceptable outcomes",
+      "Vavilov deference to tribunal's home statute interpretation",
+      "reasonableness not substitution of judgment"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-04-reason-stand-004",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "standard_of_review",
+    "topic_heading": "Standard of Review — Reasonableness and Correctness",
+    "subtopic_id": "reasonableness_standard",
+    "subtopic_heading": "Reasonableness Standard of Review",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A National Parole Board panel denies an offender early release on the basis that he presents an 'undue risk.' The panel's reasons identify two incidents from the offender's institutional file as the primary basis for its conclusion. However, the offender's counsel points out on judicial review that the panel's written reasons contain a significant internal contradiction: one passage states the offender 'has demonstrated meaningful rehabilitative progress' and another states 'the panel finds no evidence of rehabilitation.' The outcome — denial — is the same in both passages.",
+    "call_of_question": "Is internal incoherence in a tribunal's reasons, standing alone, sufficient to render the decision unreasonable under Vavilov?",
+    "options": {
+      "A": "No. Internal contradictions in reasons are a minor drafting error and cannot be a basis for quashing a decision that reaches a defensible outcome.",
+      "B": "No. Under Vavilov, the court focuses solely on whether the outcome is correct, not on the quality of the reasons.",
+      "C": "Yes. Under Vavilov, internal incoherence in a tribunal's reasons — where the reasoning cannot be reconciled — prevents the reviewing court from understanding the analytical path taken by the decision-maker and can render the decision unreasonable as insufficiently justified and intelligible.",
+      "D": "Yes. Any inconsistency in administrative reasons automatically voids the decision without further analysis."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, the Supreme Court of Canada emphasized that reasonableness review looks at the decision and its reasons together. A decision is unreasonable if its reasons fail to provide a coherent and rational chain of analysis. Where a tribunal's reasons contain fundamental internal contradictions — such as simultaneously finding both that rehabilitation was demonstrated and that there was no evidence of rehabilitation — the reviewing court cannot follow the reasoning process, and the decision may be unreasonable on grounds of internal incoherence.",
+    "why_A_wrong": "Incorrect. Vavilov specifically identifies internal incoherence as a basis for finding a decision unreasonable; it is not dismissed as a mere drafting error when the contradiction goes to a central issue in the analysis.",
+    "why_B_wrong": "Incorrect. Vavilov explicitly rejected outcome-only review; the Court emphasized that the reviewing court must examine the decision and its reasons, and that the quality and coherence of reasoning matters to the reasonableness analysis.",
+    "why_C_wrong": "This IS the correct answer. Yes. Under Vavilov, internal incoherence in a tribunal's reasons — where the reasoning cannot be reconciled — prevents the reviewing court from understanding the analytical path taken by the decision-maker and can render the decision unreasonable as insufficiently justified and intelligible.",
+    "why_D_wrong": "Incorrect. Not every inconsistency automatically voids a decision; the reviewing court must assess whether the inconsistency is central to the reasoning or merely peripheral, and whether the decision can be justified despite it.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Judicial Review",
+      "heading": "Reasonableness Standard of Review",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "reasonableness",
+      "Vavilov",
+      "internal incoherence",
+      "justified",
+      "chain of analysis"
+    ],
+    "tested_concepts": [
+      "Vavilov internal incoherence as unreasonableness ground",
+      "coherent rational chain of analysis",
+      "reasons and outcome examined together"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-04-reason-stand-005",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "standard_of_review",
+    "topic_heading": "Standard of Review — Reasonableness and Correctness",
+    "subtopic_id": "reasonableness_standard",
+    "subtopic_heading": "Reasonableness Standard of Review",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The Human Rights Tribunal of Ontario finds that an employer discriminated against an employee on the basis of disability. The employer seeks judicial review, arguing that the Tribunal 'got it wrong' because, in the employer's view, the evidence clearly did not support a finding of discrimination. The employer argues that because the Tribunal reached the wrong answer, the standard of review should be correctness.",
+    "call_of_question": "Is the employer correct that a reviewing court should apply the correctness standard whenever it concludes that the tribunal 'got it wrong'?",
+    "options": {
+      "A": "Yes. If a court reviewing the record believes the tribunal made a clear error in its findings, correctness review is warranted to prevent injustice.",
+      "B": "Yes. Human rights decisions involve questions of law of central importance, so correctness always applies to HRTO decisions.",
+      "C": "No. Under Vavilov, the standard of review is determined at the outset of the analysis by examining the legislative framework and context, not by the court's view of whether the tribunal reached the right answer; a court that disagrees with the tribunal's factual or legal conclusions applies reasonableness, not correctness.",
+      "D": "No, but if the court finds the decision unreasonable, it may substitute its own finding of no discrimination rather than remitting the matter to the tribunal."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, the standard of review is determined at the outset by examining the legislative framework — not by whether the court thinks the tribunal made an error. A court's belief that the tribunal 'got it wrong' does not trigger correctness review. The court applies reasonableness, and within that analysis, asks whether the tribunal's decision was justified, transparent, and intelligible and falls within a range of acceptable outcomes. If the court disagrees with the outcome but the decision is otherwise defensible and coherent, the decision should be upheld on reasonableness review.",
+    "why_A_wrong": "Incorrect. The court's view that the tribunal made an error does not convert the standard from reasonableness to correctness; Vavilov explicitly rejected this approach, which had led to unpredictable standard-of-review jurisprudence.",
+    "why_B_wrong": "Incorrect. The HRTO is a specialized tribunal with expertise in human rights; its decisions interpreting its home statute attract reasonableness review under Vavilov, not correctness.",
+    "why_C_wrong": "This IS the correct answer. No. Under Vavilov, the standard of review is determined at the outset of the analysis by examining the legislative framework and context, not by the court's view of whether the tribunal reached the right answer; a court that disagrees with the tribunal's factual or legal conclusions applies reasonableness, not correctness.",
+    "why_D_wrong": "Incorrect. On reasonableness review, the court does not substitute its own merits decision; if the decision is unreasonable, the remedy is typically to remit the matter to the tribunal for redetermination.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Judicial Review",
+      "heading": "Reasonableness Standard of Review",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Vavilov",
+      "got it wrong",
+      "reasonableness not correctness",
+      "standard determined at outset",
+      "HRTO"
+    ],
+    "tested_concepts": [
+      "standard determined by legislative framework not outcome",
+      "Vavilov rejection of error-based correctness",
+      "reasonableness remedy is remittal not substitution"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-04-correct-std-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "standard_of_review",
+    "topic_heading": "Standard of Review — Reasonableness and Correctness",
+    "subtopic_id": "correctness_standard",
+    "subtopic_heading": "Correctness Standard of Review",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A claimant before the Human Rights Tribunal of Ontario argues that a provincial regulation violates s. 15 of the Canadian Charter of Rights and Freedoms. The Tribunal rules on the constitutional question and dismisses the claim. The claimant seeks judicial review, arguing the Tribunal's constitutional analysis was incorrect.",
+    "call_of_question": "Under the Vavilov framework, what standard of review applies to the Tribunal's determination of a constitutional question?",
+    "options": {
+      "A": "Reasonableness, because human rights tribunals are specialized bodies and their constitutional analyses should receive the same deference as other decisions.",
+      "B": "Correctness, because under Vavilov constitutional questions are one of the narrow categories that attract correctness review regardless of the tribunal's expertise.",
+      "C": "Reasonableness, because constitutional questions arising in an administrative proceeding are treated as questions within the tribunal's home statute.",
+      "D": "The court has no jurisdiction to review a constitutional finding by an administrative tribunal."
+    },
+    "correct_answer": "B",
+    "explanation": "Under Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, the Supreme Court of Canada confirmed that constitutional questions are one of the narrow categories that rebut the presumption of reasonableness and attract correctness review. On correctness review, the court substitutes its own view for the tribunal's without deference. Constitutional interpretation must be consistent across all adjudicative bodies, which justifies the uniform correctness standard.",
+    "why_A_wrong": "Incorrect. Specialized expertise does not override the correctness standard for constitutional questions; Vavilov specifically carved out constitutional questions as a correctness category to ensure constitutional uniformity.",
+    "why_B_wrong": "This IS the correct answer. Correctness, because under Vavilov constitutional questions are one of the narrow categories that attract correctness review regardless of the tribunal's expertise.",
+    "why_C_wrong": "Incorrect. Constitutional questions are not treated as questions within a tribunal's home statute; they are a distinct Vavilov correctness category precisely because constitutional interpretation must be consistent across all bodies.",
+    "why_D_wrong": "Incorrect. Courts on judicial review have full jurisdiction to review a tribunal's constitutional determinations and do so on a correctness standard.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Judicial Review",
+      "heading": "Correctness Standard of Review",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65; Canadian Charter of Rights and Freedoms, s. 15"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "correctness",
+      "Vavilov",
+      "constitutional question",
+      "Charter",
+      "no deference"
+    ],
+    "tested_concepts": [
+      "Vavilov correctness categories",
+      "constitutional questions attract correctness",
+      "court substitutes own view on correctness"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-04-correct-std-002",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "standard_of_review",
+    "topic_heading": "Standard of Review — Reasonableness and Correctness",
+    "subtopic_id": "correctness_standard",
+    "subtopic_heading": "Correctness Standard of Review",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario teacher is dismissed and seeks reinstatement through an arbitration proceeding under the collective agreement. The arbitrator rules on a question of property law — specifically, whether the teacher's contractual entitlement to use a school board vehicle constitutes a property interest under Ontario law. The arbitrator's interpretation of property law differs from what a court would hold. The school board argues correctness review should apply.",
+    "call_of_question": "Does the arbitrator's determination of a foundational common law property question attract correctness review under Vavilov?",
+    "options": {
+      "A": "No. All arbitral decisions interpreting any legal question attract reasonableness review under Vavilov.",
+      "B": "Yes. Any question involving property law is a constitutional question and therefore attracts correctness review.",
+      "C": "Possibly yes. Under Vavilov, questions of law of central importance to the legal system that fall outside the tribunal's area of expertise may attract correctness; if the property law question is truly a foundational legal question outside the arbitrator's expertise, correctness may apply — though this category is narrow and requires the question to be truly of central importance.",
+      "D": "No. Questions of contract interpretation, including collective agreements, always attract reasonableness review and property law arising incidentally is subsumed within that analysis."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, one of the narrow categories attracting correctness review is a question of law of central importance to the legal system that falls outside the tribunal's area of expertise. If the arbitrator's interpretation of a foundational property law concept raises a question that transcends the labour relations context and requires consistent application across the legal system, correctness may apply. However, Vavilov cautions this category is narrow; courts must determine whether the question is truly of central importance and genuinely outside the decision-maker's specialized expertise.",
+    "why_A_wrong": "Incorrect. Vavilov identified narrow categories where correctness applies; questions of law of central importance outside the tribunal's expertise is one of them, and can arise in arbitral contexts.",
+    "why_B_wrong": "Incorrect. Property law questions are not constitutional questions in the Charter or division of powers sense; the constitutional correctness category requires a question about the Constitution itself, not common law property doctrine.",
+    "why_C_wrong": "This IS the correct answer. Possibly yes. Under Vavilov, questions of law of central importance to the legal system that fall outside the tribunal's area of expertise may attract correctness; if the property law question is truly a foundational legal question outside the arbitrator's expertise, correctness may apply — though this category is narrow and requires the question to be truly of central importance.",
+    "why_D_wrong": "Incorrect. While collective agreement interpretation typically attracts reasonableness, an incidental foundational legal question outside the tribunal's expertise is not automatically absorbed into the reasonableness framework.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Judicial Review",
+      "heading": "Correctness Standard of Review",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "correctness",
+      "Vavilov",
+      "central importance",
+      "outside expertise",
+      "foundational legal question"
+    ],
+    "tested_concepts": [
+      "Vavilov central importance outside expertise category",
+      "narrow application of correctness",
+      "property law as potential correctness trigger"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-04-correct-std-003",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "standard_of_review",
+    "topic_heading": "Standard of Review — Reasonableness and Correctness",
+    "subtopic_id": "correctness_standard",
+    "subtopic_heading": "Correctness Standard of Review",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario College of Physicians and Surgeons panel revokes a physician's certificate of registration for conduct unbecoming a member of the profession. The physician's enabling statute contains a provision allowing any party to appeal the College's decision to the Divisional Court on any question of law. The physician argues on appeal that the College misinterpreted the statutory definition of 'conduct unbecoming.' The College argues reasonableness applies because it has expertise in professional standards.",
+    "call_of_question": "What standard of review applies to the College's interpretation of 'conduct unbecoming' given the statutory right of appeal on questions of law?",
+    "options": {
+      "A": "Reasonableness, because professional regulatory bodies always attract deference on matters involving professional standards.",
+      "B": "Reasonableness, because the definition of 'conduct unbecoming' is a question of mixed fact and law to which expertise-based deference applies.",
+      "C": "Correctness, because under Vavilov the presence of a statutory right of appeal on a question of law signals legislative intent that the appellate court is to apply the standard applicable in that context — which for questions of law is correctness.",
+      "D": "Correctness, because licence revocation is a decision that attracts the highest level of scrutiny regardless of the appeal mechanism."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, the Supreme Court of Canada held that where legislation provides a statutory right of appeal on a question of law, this signals that the legislature intended the appellate court to apply the appellate standards, which for questions of law is correctness. The statutory right of appeal rebuts the presumption of reasonableness. Because the physician is appealing on a question of law — the interpretation of 'conduct unbecoming' — the Divisional Court applies correctness and substitutes its own interpretation if necessary.",
+    "why_A_wrong": "Incorrect. Professional expertise does not override the Vavilov statutory appeal category; once a statutory right of appeal on a question of law exists, correctness applies to questions of law regardless of the tribunal's expertise.",
+    "why_B_wrong": "Incorrect. While the application of 'conduct unbecoming' to specific facts is mixed fact and law (potentially attracting palpable and overriding error on appeal), the pure legal question of what the phrase means in the statute is a question of law attracting correctness under the statutory appeal mechanism.",
+    "why_C_wrong": "This IS the correct answer. Correctness, because under Vavilov the presence of a statutory right of appeal on a question of law signals legislative intent that the appellate court is to apply the standard applicable in that context — which for questions of law is correctness.",
+    "why_D_wrong": "Incorrect. The severity of the penalty (licence revocation) is not a Vavilov factor for determining the standard of review; the standard is determined by the legislative framework, including the appeal mechanism.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Judicial Review",
+      "heading": "Correctness Standard of Review",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "correctness",
+      "Vavilov",
+      "statutory right of appeal",
+      "question of law",
+      "legislative intent"
+    ],
+    "tested_concepts": [
+      "statutory right of appeal triggers correctness",
+      "Vavilov legislative intent category",
+      "correctness on questions of law in statutory appeals"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-04-correct-std-004",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "standard_of_review",
+    "topic_heading": "Standard of Review — Reasonableness and Correctness",
+    "subtopic_id": "correctness_standard",
+    "subtopic_heading": "Correctness Standard of Review",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A social assistance review tribunal makes a decision that an applicant submits exceeds its statutory jurisdiction. The applicant argues that correctness review must apply because any decision made in excess of jurisdiction is, by definition, a jurisdictional question attracting correctness. The tribunal argues all its decisions — including jurisdictional determinations — are reviewable only on a reasonableness standard.",
+    "call_of_question": "Under Vavilov, does correctness apply to all decisions a tribunal makes that could be characterized as 'jurisdictional' in nature?",
+    "options": {
+      "A": "Yes. Any decision a tribunal makes that can be described as going to its jurisdiction — including exceeding its statutory mandate — attracts correctness review under Vavilov.",
+      "B": "No. Vavilov eliminated the old jurisdictional correctness category entirely; all administrative decisions now attract reasonableness without exception.",
+      "C": "No. Vavilov significantly narrowed the jurisdictional correctness category; correctness for jurisdictional reasons now applies only where there is a question of jurisdiction between two or more administrative bodies, not simply where a tribunal may have exceeded its statutory mandate.",
+      "D": "Yes. The statutory mandate of a tribunal is always a jurisdictional question, and courts apply correctness whenever a tribunal may have acted beyond its enabling statute."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, the Supreme Court of Canada explicitly narrowed the jurisdictional correctness category. Post-Vavilov, 'jurisdictional' correctness applies only to disputes about jurisdiction between two or more administrative bodies — for example, where two tribunals each claim or disclaim authority over the same matter. A tribunal allegedly exceeding its statutory mandate is not treated as a jurisdictional question attracting correctness; instead, whether a tribunal acted within its enabling statute is reviewed on a reasonableness standard as a question of the tribunal's interpretation of its own home statute.",
+    "why_A_wrong": "Incorrect. The old Dunsmuir/CUPE framework that applied correctness broadly to 'true questions of jurisdiction' was expressly rejected and replaced by Vavilov; exceeding a statutory mandate is no longer a standalone correctness trigger.",
+    "why_B_wrong": "Incorrect. Vavilov did retain a narrow jurisdictional correctness category — specifically for disputes between two or more administrative bodies — so it was not entirely eliminated.",
+    "why_C_wrong": "This IS the correct answer. No. Vavilov significantly narrowed the jurisdictional correctness category; correctness for jurisdictional reasons now applies only where there is a question of jurisdiction between two or more administrative bodies, not simply where a tribunal may have exceeded its statutory mandate.",
+    "why_D_wrong": "Incorrect. Post-Vavilov, a tribunal's interpretation of the scope of its own statutory mandate is treated as a question of statutory interpretation within its home statute, attracting reasonableness review, not correctness.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Judicial Review",
+      "heading": "Correctness Standard of Review",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Vavilov",
+      "jurisdictional",
+      "correctness",
+      "exceeding statutory mandate",
+      "between two tribunals"
+    ],
+    "tested_concepts": [
+      "Vavilov narrow jurisdictional correctness category",
+      "inter-tribunal jurisdictional disputes",
+      "exceeding statutory mandate reviewed on reasonableness"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  }
+]

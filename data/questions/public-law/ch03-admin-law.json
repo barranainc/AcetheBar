@@ -276,5 +276,225 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-03-right-reasons-001",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "procedural_fairness",
+    "topic_heading": "Procedural Fairness — The Baker Factors",
+    "subtopic_id": "right_to_reasons",
+    "subtopic_heading": "Right to Reasons for Administrative Decisions",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario tribunal governed by the Statutory Powers Procedure Act holds a hearing on a complaint against a licensed contractor. The contractor is ordered to repay $15,000 in fees to a consumer. The contractor's representative requests written reasons for the decision within 25 days of receiving the decision. The tribunal refuses to provide reasons, stating that the SPPA does not always require them.",
+    "call_of_question": "Under the Statutory Powers Procedure Act, is the tribunal required to provide written reasons in these circumstances?",
+    "options": {
+      "A": "No. The SPPA never requires written reasons unless the tribunal's enabling statute specifically mandates them.",
+      "B": "Yes. The SPPA requires written reasons for every administrative decision, regardless of whether a hearing was held.",
+      "C": "Yes. Under s. 17 of the SPPA, a tribunal that holds a hearing must give written reasons for its final decision if a party requests them; the contractor's request within 25 days satisfies the timing requirement.",
+      "D": "No. Written reasons are only required under the SPPA where the decision results in imprisonment or loss of a professional licence."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 17, a tribunal that has held a hearing must give written reasons for its decision to any party who requests them. The request must be made within the time prescribed by the tribunal's rules, or within 30 days of receiving the decision if no time is prescribed. The contractor's request within 25 days satisfies this requirement, and the tribunal must provide written reasons.",
+    "why_A_wrong": "Incorrect. s. 17 of the SPPA creates a statutory right to written reasons where a hearing was held and a request is made; the enabling statute need not separately mandate them.",
+    "why_B_wrong": "Incorrect. The SPPA right to reasons under s. 17 is conditional on a hearing having been held and a party making a timely request; it does not apply to every administrative decision.",
+    "why_C_wrong": "This IS the correct answer. Yes. Under s. 17 of the SPPA, a tribunal that holds a hearing must give written reasons for its final decision if a party requests them; the contractor's request within 25 days satisfies the timing requirement.",
+    "why_D_wrong": "Incorrect. The SPPA s. 17 right to reasons is not limited to decisions involving imprisonment or licence revocation; it applies to any final decision made after a hearing, upon request.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Administrative Law — Principles and Natural Justice",
+      "heading": "Right to Reasons for Administrative Decisions",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 17; Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "SPPA s. 17",
+      "written reasons",
+      "request",
+      "hearing",
+      "30 days"
+    ],
+    "tested_concepts": [
+      "SPPA s. 17 right to reasons",
+      "timing of request for reasons",
+      "hearing as prerequisite"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-03-right-reasons-002",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "procedural_fairness",
+    "topic_heading": "Procedural Fairness — The Baker Factors",
+    "subtopic_id": "right_to_reasons",
+    "subtopic_heading": "Right to Reasons for Administrative Decisions",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A federal administrative decision-maker denies an application for a grant without holding a hearing. The applicant requests reasons. The decision-maker argues that because no hearing was held, there is no statutory or common law duty to provide reasons. The applicant argues that the Baker framework nevertheless imposes a duty to give reasons given the significant financial impact of the denial.",
+    "call_of_question": "Under Baker v Canada, when does the common law duty of fairness require reasons even where no hearing was held?",
+    "options": {
+      "A": "Baker imposes a general duty to give reasons for all administrative decisions regardless of the process used or the impact on the individual.",
+      "B": "Baker held that reasons are never required where no hearing was held, as the hearing is a precondition for any duty to give reasons.",
+      "C": "Under Baker, the duty to give reasons is determined contextually by weighing all five Baker factors; where the decision has significant impact on the individual and the process and stakes call for accountability, a common law duty to give reasons may exist even without a formal hearing.",
+      "D": "Baker creates a duty to give reasons only where the enabling statute is silent on procedural requirements."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817, the Supreme Court of Canada recognized that the duty of fairness may include a requirement to give reasons, and that this requirement is determined by weighing the five Baker factors contextually. The existence of an oral hearing is one relevant factor (and its absence weighs against requiring reasons), but significant individual impact and the nature of the decision can still give rise to a duty to provide reasons even where no formal hearing occurred.",
+    "why_A_wrong": "Incorrect. Baker does not impose a universal duty to give reasons for all administrative decisions; the duty is context-dependent and determined by the five-factor analysis.",
+    "why_B_wrong": "Incorrect. Baker did not hold that a hearing is an absolute precondition for any duty to give reasons; the absence of a hearing is one factor, but not a complete bar to a common law reasons obligation.",
+    "why_C_wrong": "This IS the correct answer. Under Baker, the duty to give reasons is determined contextually by weighing all five Baker factors; where the decision has significant impact on the individual and the process and stakes call for accountability, a common law duty to give reasons may exist even without a formal hearing.",
+    "why_D_wrong": "Incorrect. The Baker common law duty of fairness applies broadly and is not limited to situations where the enabling statute is silent; even where statute exists, common law fairness may supplement it.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Administrative Law — Principles and Natural Justice",
+      "heading": "Right to Reasons for Administrative Decisions",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 17"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Baker",
+      "reasons",
+      "no hearing",
+      "contextual",
+      "duty of fairness"
+    ],
+    "tested_concepts": [
+      "Baker duty to give reasons",
+      "contextual reasons analysis",
+      "hearing as factor not precondition"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-03-right-reasons-003",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "procedural_fairness",
+    "topic_heading": "Procedural Fairness — The Baker Factors",
+    "subtopic_id": "right_to_reasons",
+    "subtopic_heading": "Right to Reasons for Administrative Decisions",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario social assistance review tribunal holds a hearing and issues a decision denying benefits. Its written reasons state only: 'Having considered the evidence, the panel finds the appellant is not eligible for benefits under the Act.' The applicant seeks judicial review, arguing the reasons are inadequate. The tribunal argues the decision is legally correct and the outcome is defensible even if the reasoning is sparse.",
+    "call_of_question": "Are reasons that merely state a conclusion, without any analysis of the evidence or applicable legal test, adequate to satisfy the duty of fairness?",
+    "options": {
+      "A": "Yes. A tribunal satisfies the duty of fairness by providing any written reasons, regardless of their content or analytical depth.",
+      "B": "Yes. As long as the outcome of the decision is correct and defensible on the record, inadequate reasons do not constitute a breach of procedural fairness.",
+      "C": "No. Adequate reasons must be intelligible, transparent, and justified; reasons that merely state a conclusion without any analysis of the evidence or applicable legal standard fail to satisfy the duty of fairness and may render the decision reviewable as procedurally inadequate.",
+      "D": "No. Any deficiency in reasons automatically voids a tribunal decision without consideration of the record or the outcome."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817, and as reinforced by the adequacy of reasons standard adopted in Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, reasons must be intelligible, transparent, and justified. Reasons that recite only a bare conclusion, without explaining what evidence was weighed or how the legal test was applied, are inadequate. Such reasons frustrate the losing party's ability to understand the basis for the decision and to exercise rights of review.",
+    "why_A_wrong": "Incorrect. The duty of fairness requires reasons of adequate quality, not merely reasons in any form; a bare conclusion is not sufficient to discharge the duty.",
+    "why_B_wrong": "Incorrect. The correctness of the outcome does not cure procedurally inadequate reasons; the duty of fairness is concerned with the process, including the intelligibility and transparency of the reasons themselves.",
+    "why_C_wrong": "This IS the correct answer. No. Adequate reasons must be intelligible, transparent, and justified; reasons that merely state a conclusion without any analysis of the evidence or applicable legal standard fail to satisfy the duty of fairness and may render the decision reviewable as procedurally inadequate.",
+    "why_D_wrong": "Incorrect. Inadequate reasons do not automatically void a decision; a reviewing court will consider whether the record as a whole can support the outcome, and may in some cases uphold the decision despite thin reasons if the basis is otherwise apparent.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Administrative Law — Principles and Natural Justice",
+      "heading": "Right to Reasons for Administrative Decisions",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65; Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 17"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "adequacy of reasons",
+      "intelligible transparent justified",
+      "bare conclusion",
+      "duty of fairness",
+      "Vavilov"
+    ],
+    "tested_concepts": [
+      "adequacy of reasons standard",
+      "intelligible transparent justified reasons",
+      "bare conclusion as inadequate reasons"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-03-right-reasons-004",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "procedural_fairness",
+    "topic_heading": "Procedural Fairness — The Baker Factors",
+    "subtopic_id": "right_to_reasons",
+    "subtopic_heading": "Right to Reasons for Administrative Decisions",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario tribunal governed by the SPPA holds a two-day hearing on a regulatory matter. Its enabling statute prescribes a 21-day window within which a party may request written reasons. A party requests reasons on day 25, after the 21-day window has closed, believing the general 30-day SPPA default applies. The tribunal refuses to provide written reasons.",
+    "call_of_question": "Is the tribunal's refusal to provide written reasons lawful where the request was made after the enabling statute's prescribed time limit but within the general 30-day SPPA default?",
+    "options": {
+      "A": "No. The SPPA's 30-day default window always governs and overrides any shorter period prescribed by the enabling statute.",
+      "B": "No. Tribunals have a common law duty to give reasons whenever a hearing is held, which cannot be limited by statute.",
+      "C": "Yes. Under SPPA s. 17, the time for requesting written reasons is the period prescribed by the tribunal's rules or enabling statute; where the enabling statute prescribes 21 days and the request was made on day 25, the party has missed the statutory deadline and the tribunal's refusal is lawful.",
+      "D": "Yes, but only if the tribunal can demonstrate it was prejudiced by the late request."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 17, a party may request written reasons within the time prescribed by the tribunal's rules, or within 30 days after receiving the decision if no time is prescribed. The 30-day default applies only where the enabling statute or tribunal rules do not themselves prescribe a time limit. Here, the enabling statute prescribes 21 days, which governs; the general 30-day SPPA default does not override a specific statutory prescription. The request on day 25 was late, and the tribunal's refusal is lawful.",
+    "why_A_wrong": "Incorrect. The SPPA 30-day default period applies only in the absence of a prescribed time limit; where the enabling statute sets a shorter limit of 21 days, that specific limit governs over the SPPA default.",
+    "why_B_wrong": "Incorrect. The common law duty to give reasons can be shaped and limited by statute; the SPPA s. 17 timing requirements represent a statutory limitation on when the right to request reasons may be exercised.",
+    "why_C_wrong": "This IS the correct answer. Yes. Under SPPA s. 17, the time for requesting written reasons is the period prescribed by the tribunal's rules or enabling statute; where the enabling statute prescribes 21 days and the request was made on day 25, the party has missed the statutory deadline and the tribunal's refusal is lawful.",
+    "why_D_wrong": "Incorrect. The tribunal's refusal does not depend on demonstrating prejudice from the late request; the statutory time limit is the operative rule, and missing it extinguishes the right to compel written reasons under s. 17.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Public Law",
+      "chapter": "Administrative Law — Principles and Natural Justice",
+      "heading": "Right to Reasons for Administrative Decisions",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 17"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "SPPA s. 17",
+      "30-day default",
+      "prescribed time limit",
+      "enabling statute",
+      "written reasons deadline"
+    ],
+    "tested_concepts": [
+      "SPPA s. 17 timing hierarchy",
+      "statutory time limit overrides SPPA default",
+      "late request for reasons"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
   }
 ]

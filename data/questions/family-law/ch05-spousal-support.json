@@ -14,7 +14,7 @@
     "subtopic_id": "entitlement_grounds",
     "subtopic_heading": "Entitlement Grounds Under FLA and Divorce Act",
     "difficulty": "easy",
-    "fact_pattern": "The wife gave up her career as a licensed engineer to care for the couple’s three children for 12 years. On separation, she has no income and limited prospects for re-entering the engineering profession at her former level. She seeks spousal support.",
+    "fact_pattern": "The wife gave up her career as a licensed engineer to care for the couple's three children for 12 years. On separation, she has no income and limited prospects for re-entering the engineering profession at her former level. She seeks spousal support.",
     "call_of_question": "What ground of spousal support entitlement does this fact pattern most clearly engage?",
     "options": {
       "A": "Contractual — the wife must show a written agreement obligating the husband to pay support.",
@@ -27,7 +27,7 @@
     "why_A_wrong": "Contractual entitlement requires a pre-existing agreement to pay support. This fact pattern involves a statutory entitlement, not a contractual one.",
     "why_B_wrong": "While the wife has need (no income), the predominant basis is compensatory: the economic disadvantage flows from the division of labour during the marriage. Non-compensatory support is the better fit where the disadvantage is not tied to the marriage (see Bracklow).",
     "why_C_wrong": "This IS the correct answer. Career sacrifice for child care is the paradigm compensatory support case under Moge v Moge and FLA s.33(8)(a).",
-    "why_D_wrong": "Voluntarily leaving the workforce to care for children is precisely the situation FLA s.33(8)(a) addresses. There is no ‘voluntary choice’ bar to compensatory support in these circumstances.",
+    "why_D_wrong": "Voluntarily leaving the workforce to care for children is precisely the situation FLA s.33(8)(a) addresses. There is no 'voluntary choice' bar to compensatory support in these circumstances.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Family Law",
@@ -79,7 +79,7 @@
       "D": "Contractual — the wife needs a pre-existing support agreement to establish entitlement."
     },
     "correct_answer": "C",
-    "explanation": "Where there is no economic disadvantage caused by the marriage (the illness was not marriage-related), compensatory support does not apply. Bracklow v Bracklow, [1999] 1 SCR 420 recognized that support may also be awarded on a non-compensatory basis, reflecting the social obligation and mutual interdependency arising from marriage. The wife’s need resulting from a disability arising near the end of a long marriage may engage this ground.",
+    "explanation": "Where there is no economic disadvantage caused by the marriage (the illness was not marriage-related), compensatory support does not apply. Bracklow v Bracklow, [1999] 1 SCR 420 recognized that support may also be awarded on a non-compensatory basis, reflecting the social obligation and mutual interdependency arising from marriage. The wife's need resulting from a disability arising near the end of a long marriage may engage this ground.",
     "why_A_wrong": "The illness was not caused by or related to the marriage, so there is no economic disadvantage from the marriage to compensate. The compensatory basis requires a causal link to the marriage.",
     "why_B_wrong": "Bracklow expressly recognizes non-compensatory support based on need and mutual interdependency, even where the marriage did not cause the disadvantage. A medical disability creating need is not an automatic bar to support.",
     "why_C_wrong": "This IS the correct answer. Bracklow non-compensatory support applies where need arises from the breakdown of a marriage relationship of interdependency.",
@@ -187,7 +187,7 @@
       "A": "Yes — once entitlement is established, the court must award the maximum amount specified by the Spousal Support Advisory Guidelines.",
       "B": "Yes — a finding of entitlement automatically entitles the claimant to lifelong spousal support.",
       "C": "No — establishing entitlement is only the first step; amount and duration are then determined separately using factors under the FLA or Divorce Act, with the SSAG serving as a non-binding reference guide; the court may award a nominal amount or time-limited support even where entitlement exists.",
-      "D": "Yes — once entitled, the court must award an amount equal to one-half the difference in the spouses’ incomes."
+      "D": "Yes — once entitled, the court must award an amount equal to one-half the difference in the spouses' incomes."
     },
     "correct_answer": "C",
     "explanation": "Spousal support analysis has three distinct stages: (1) entitlement, (2) amount, and (3) duration. A finding of entitlement does not predetermine the other two. The SSAG are non-binding guidelines that assist in calculating amount and duration but do not mandate any particular outcome. The court retains discretion and may award a nominal or time-limited amount even where entitlement is clear.",
@@ -241,11 +241,11 @@
     "options": {
       "A": "The husband may unilaterally stop making payments once the wife remarries, without a court order.",
       "B": "Spousal support cannot be varied once ordered unless both parties consent in writing.",
-      "C": "A material change in circumstances since the original order was made allows either party to bring a variation application; the wife’s remarriage and significant improvement in financial circumstances may constitute a material change justifying reduction or termination of support.",
+      "C": "A material change in circumstances since the original order was made allows either party to bring a variation application; the wife's remarriage and significant improvement in financial circumstances may constitute a material change justifying reduction or termination of support.",
       "D": "No variation is available during the first 10 years of a spousal support order."
     },
     "correct_answer": "C",
-    "explanation": "Under Divorce Act s.17 and FLA s.37, a court may vary or rescind a spousal support order where there has been a material change in circumstances since the order was made. The wife’s remarriage and the elimination of her financial need are circumstances that a court would likely consider to constitute a material change, and the husband may succeed in obtaining a termination or reduction of the support order. Unilateral cessation of payments without a court order is not permitted.",
+    "explanation": "Under Divorce Act s.17 and FLA s.37, a court may vary or rescind a spousal support order where there has been a material change in circumstances since the order was made. The wife's remarriage and the elimination of her financial need are circumstances that a court would likely consider to constitute a material change, and the husband may succeed in obtaining a termination or reduction of the support order. Unilateral cessation of payments without a court order is not permitted.",
     "why_A_wrong": "A court order is required to vary or terminate a spousal support order. Unilateral cessation of payments exposes the husband to enforcement proceedings, including contempt.",
     "why_B_wrong": "Variation does not require mutual consent. Either party may bring a variation application based on a material change in circumstances under Divorce Act s.17 or FLA s.37.",
     "why_C_wrong": "This IS the correct answer. Material change in circumstances is the statutory test for variation; remarriage and elimination of need are classic examples.",
@@ -277,5 +277,89 @@
       "unilateral termination impermissible"
     ],
     "estimated_time_seconds": 120
+  },
+  {
+    "id": "fam-05-ssag-001",
+    "subject": "family_law",
+    "chapter_number": 5,
+    "chapter_title": "Spousal Support",
+    "topic_id": "spousal_support_entitlement",
+    "topic_heading": "Entitlement to Spousal Support",
+    "subtopic_id": "ssag",
+    "subtopic_heading": "Spousal Support Advisory Guidelines (SSAG)",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Patricia and her husband Colin separated after 11 years of marriage with no dependent children. The court has already determined that Patricia is entitled to compensatory spousal support. Colin earns $130,000 per year and Patricia earns $52,000. Both lawyers refer to the Spousal Support Advisory Guidelines to determine the appropriate amount and duration of support. Colin's lawyer argues the SSAG ranges are mandatory and the court must award support within the stated range.",
+    "call_of_question": "What is the correct legal status of the Spousal Support Advisory Guidelines (SSAG) in Ontario?",
+    "options": {
+      "A": "The SSAG are binding on Ontario courts under the Divorce Act and the FLA; the court must stay within the calculated range.",
+      "B": "The SSAG are not law; they are advisory only. Courts frequently consult them but are not required to follow them, and may depart from the SSAG range in appropriate circumstances.",
+      "C": "The SSAG are binding only in the Superior Court of Justice, not on consent orders.",
+      "D": "The SSAG replace the entitlement analysis; if the SSAG range produces a non-zero result, entitlement is automatically established."
+    },
+    "correct_answer": "B",
+    "explanation": "The Spousal Support Advisory Guidelines are advisory only. They were developed as a non-legislative tool to promote consistency and predictability in spousal support quantum and duration. Courts are not required to follow the SSAG but regularly consult them as a useful reference. Departure from the range is permitted where the circumstances of the case warrant a different result. The SSAG have not been enacted as legislation and have no binding statutory force.",
+    "why_A_wrong": "The SSAG have not been enacted under the Divorce Act or the FLA. They carry no statutory authority and are advisory only. Courts are not bound to stay within the SSAG range.",
+    "why_B_wrong": "This IS the correct answer. The SSAG are advisory, not binding; courts consult them for guidance on quantum and duration but may depart from the ranges in appropriate cases.",
+    "why_C_wrong": "The SSAG are not binding in any Ontario court, including the Superior Court of Justice. They are advisory across all levels of court for both contested and consent proceedings.",
+    "why_D_wrong": "The SSAG apply only after entitlement is established through the compensatory, non-compensatory, or contractual analysis. The SSAG do not determine entitlement; they assist with quantum and duration after entitlement is found.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Family Law",
+      "chapter": "Spousal Support",
+      "heading": "Spousal Support Advisory Guidelines (SSAG)",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Spousal Support Advisory Guidelines (2008, revised 2016); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2"
+    },
+    "pr_angle": {"applicable": false, "pr_issue_type": null},
+    "exam_trigger_words": ["SSAG", "advisory guidelines", "not binding", "quantum and duration", "without child formula"],
+    "tested_concepts": ["SSAG advisory status", "SSAG not legislation", "SSAG apply to quantum and duration not entitlement", "court may depart from range"],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "fam-05-ssag-002",
+    "subject": "family_law",
+    "chapter_number": 5,
+    "chapter_title": "Spousal Support",
+    "topic_id": "spousal_support_entitlement",
+    "topic_heading": "Entitlement to Spousal Support",
+    "subtopic_id": "ssag",
+    "subtopic_heading": "Spousal Support Advisory Guidelines (SSAG)",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Renata and her husband Stefan separated after 18 years of marriage. They have two children, aged 10 and 14, for whom Renata has primary residence. The court has found Renata is entitled to both compensatory and non-compensatory spousal support. Stefan's lawyer argues the SSAG without-child formula applies because the parties have negotiated child support separately. Renata's lawyer argues the with-child formula should apply. The court must determine which SSAG formula governs the quantum analysis.",
+    "call_of_question": "Which SSAG formula applies where the spouses have dependent children in the recipient's primary care?",
+    "options": {
+      "A": "The without-child formula always applies once child support has been separately determined; the existence of children is irrelevant to the spousal support quantum once child support is resolved.",
+      "B": "The with-child formula applies where there are dependent children in the recipient spouse's primary care; this formula accounts for custodial arrangements and typically produces higher spousal support amounts than the without-child formula.",
+      "C": "Neither formula applies; courts must set aside the SSAG entirely when children are involved and rely solely on FLA s. 33 factors.",
+      "D": "The without-child formula applies because the parties have already negotiated a child support amount and the SSAG formulas are mutually exclusive."
+    },
+    "correct_answer": "B",
+    "explanation": "The Spousal Support Advisory Guidelines provide two distinct formulas. The without-child formula applies to marriages without dependent children (or post-secondary adult children). The with-child formula applies where there are dependent children living primarily with the support recipient. The with-child formula is more complex — it takes into account the parenting arrangements, the child support paid, and typically produces a higher range of spousal support to reflect the combined economic impact of child-rearing responsibilities. The fact that child support has been separately agreed does not convert a with-child case into a without-child case; the formula depends on the presence of dependent children in the recipient's primary care.",
+    "why_A_wrong": "Separate negotiation of child support does not render the children irrelevant to the spousal support formula. The SSAG with-child formula applies based on the custodial and parenting circumstances at the time of the spousal support determination.",
+    "why_B_wrong": "This IS the correct answer. The with-child SSAG formula applies where dependent children are in the primary care of the support recipient, and it typically produces higher support amounts than the without-child formula.",
+    "why_C_wrong": "The SSAG are advisory but applicable to cases involving children. Courts do not set aside the SSAG entirely; they apply the with-child formula and may depart from the range if circumstances warrant.",
+    "why_D_wrong": "The two formulas are not mutually exclusive in the sense that child support negotiations determine which formula applies. The applicable formula depends on the presence of dependent children in the recipient's primary care, not on whether child support has been separately resolved.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Family Law",
+      "chapter": "Spousal Support",
+      "heading": "Spousal Support Advisory Guidelines (SSAG)",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Spousal Support Advisory Guidelines (2008, revised 2016); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2"
+    },
+    "pr_angle": {"applicable": false, "pr_issue_type": null},
+    "exam_trigger_words": ["SSAG", "with-child formula", "without-child formula", "dependent children", "primary care", "custodial arrangements"],
+    "tested_concepts": ["SSAG with-child vs without-child formula", "dependent children trigger with-child formula", "with-child formula produces higher amounts", "formula selection"],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
   }
 ]

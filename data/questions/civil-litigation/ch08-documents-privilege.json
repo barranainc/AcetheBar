@@ -1,0 +1,282 @@
+[
+  {
+    "id": "civ-08-sol-cl-priv-001",
+    "subject": "civil_litigation",
+    "chapter_number": 8,
+    "chapter_title": "Documentary Discovery",
+    "topic_id": "affidavit_of_documents",
+    "topic_heading": "Affidavit of Documents",
+    "subtopic_id": "solicitor_client_privilege",
+    "subtopic_heading": "Solicitor-Client Privilege in Discovery",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Mensah Corporate Law LLP is advising Osei Manufacturing Inc. on a regulatory compliance matter. Osei's general counsel asks the litigation partner at Mensah for a written legal opinion on whether Osei's current waste disposal practices comply with the Environmental Protection Act. The opinion is marked confidential. Osei is later sued by a neighbouring landowner alleging environmental contamination, and the plaintiff demands production of the legal opinion in the affidavit of documents.",
+    "call_of_question": "Is the Mensah Legal opinion protected by solicitor-client privilege, and must Osei disclose it in its affidavit of documents?",
+    "options": {
+      "A": "No — the opinion relates to regulatory compliance, not litigation, so it is only protected by litigation privilege and must be produced once the litigation ends.",
+      "B": "Yes — the opinion is protected by solicitor-client privilege because it is a confidential communication between lawyer and client made for the purpose of obtaining legal advice; it must be listed in Schedule B of Osei's affidavit of documents but need not be produced.",
+      "C": "No — solicitor-client privilege applies only to communications made during the course of litigation, so pre-litigation legal opinions are not protected.",
+      "D": "Yes — the opinion is protected, and Osei is not required to even acknowledge that the opinion exists in its affidavit of documents."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Rules of Civil Procedure, r. 30.03(2), documents for which privilege is claimed must be listed in Schedule B of the affidavit of documents — the privilege claim must be made, but the document need not be produced. Solicitor-client privilege attaches to a confidential communication between a lawyer and client made for the purpose of giving or obtaining legal advice. The three elements are satisfied here: (1) the communication is between Mensah (lawyer) and Osei (client); (2) it involves the giving of legal advice on regulatory compliance; and (3) it is marked confidential and intended to be so. Solicitor-client privilege is permanent — it does not expire when litigation ends — and it applies to pre-litigation legal advice, not only to communications made during litigation.",
+    "why_A_wrong": "Solicitor-client privilege applies to legal advice communications regardless of whether they arise in the context of litigation. Litigation privilege is the narrower doctrine that applies to documents prepared for litigation and expires when litigation ends. This opinion satisfies solicitor-client privilege, which is permanent.",
+    "why_B_wrong": "This IS the correct answer. The opinion satisfies all three elements of solicitor-client privilege and must be listed in Schedule B of the affidavit of documents under r. 30.03(2), but need not be produced.",
+    "why_C_wrong": "Solicitor-client privilege is not limited to communications made during litigation. It applies to all confidential lawyer-client communications made for the purpose of obtaining legal advice, including pre-litigation regulatory opinions.",
+    "why_D_wrong": "Rule 30.03(2) requires that privileged documents be listed in Schedule B of the affidavit of documents. The existence of the document must be disclosed; only the content is protected by the privilege claim.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Documentary Discovery",
+      "heading": "Solicitor-Client Privilege in Discovery",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 30.03(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "solicitor-client privilege",
+      "Schedule B",
+      "r. 30.03(2)",
+      "legal opinion",
+      "affidavit of documents"
+    ],
+    "tested_concepts": [
+      "three elements of solicitor-client privilege",
+      "r. 30.03(2) Schedule B listing",
+      "solicitor-client privilege is permanent",
+      "pre-litigation advice protected"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-08-sol-cl-priv-002",
+    "subject": "civil_litigation",
+    "chapter_number": 8,
+    "chapter_title": "Documentary Discovery",
+    "topic_id": "affidavit_of_documents",
+    "topic_heading": "Affidavit of Documents",
+    "subtopic_id": "solicitor_client_privilege",
+    "subtopic_heading": "Solicitor-Client Privilege in Discovery",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Delorme Logistics Inc. is a defendant in a commercial fraud action. During preparation of the affidavit of documents, counsel identifies two categories of documents: (A) emails between Delorme's CEO and outside counsel discussing the CEO's litigation strategy and legal exposure — created after the claim was issued; and (B) a legal memorandum prepared by outside counsel advising Delorme on the legality of its pricing practices, written eight months before any litigation was contemplated.",
+    "call_of_question": "Which statement correctly describes the privilege status of each category of documents?",
+    "options": {
+      "A": "Category A is protected by litigation privilege only; Category B is not protected by any privilege because it predates the litigation.",
+      "B": "Category A is protected by both solicitor-client privilege and litigation privilege; Category B is protected by solicitor-client privilege only. Both must be listed in Schedule B but need not be produced.",
+      "C": "Category A is protected by litigation privilege only, which will expire when the litigation ends; Category B is not privileged at all.",
+      "D": "Neither category is privileged because Delorme is a corporation and the privilege belongs to the individual officers, not the entity."
+    },
+    "correct_answer": "B",
+    "explanation": "Under settled Ontario privilege law, Category A — litigation strategy communications between the CEO and outside counsel after the claim was issued — satisfies both solicitor-client privilege (confidential lawyer-client communications for legal advice) and litigation privilege (documents prepared for the dominant purpose of litigation, per Blank v Canada, 2006 SCC 39). Category B — the pre-litigation legal memorandum on pricing legality — satisfies solicitor-client privilege because it is a confidential communication between lawyer and client for the purpose of obtaining legal advice; this privilege is permanent and applies regardless of whether litigation was anticipated. Litigation privilege does not apply to Category B because litigation was not anticipated when it was created. Both documents must be listed in Schedule B of the affidavit of documents under r. 30.03(2).",
+    "why_A_wrong": "Category A satisfies solicitor-client privilege as well as litigation privilege. Category B is protected by solicitor-client privilege — the privilege applies to pre-litigation legal advice and does not require that litigation be anticipated.",
+    "why_B_wrong": "This IS the correct answer. Category A is protected by both privileges; Category B by solicitor-client privilege only. Both must be listed in Schedule B under r. 30.03(2).",
+    "why_C_wrong": "Litigation privilege for Category A does not expire simply because it is identified during litigation. More importantly, solicitor-client privilege for Category B is permanent and pre-litigation advice is fully protected.",
+    "why_D_wrong": "Corporations hold solicitor-client privilege as clients. The privilege does not belong only to individual officers; it belongs to the corporate client and is exercised by authorised representatives.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Documentary Discovery",
+      "heading": "Solicitor-Client Privilege in Discovery",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 30.03(2); Blank v Canada, 2006 SCC 39"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "solicitor-client privilege",
+      "litigation privilege",
+      "Schedule B",
+      "dominant purpose",
+      "Blank v Canada"
+    ],
+    "tested_concepts": [
+      "solicitor-client privilege vs litigation privilege",
+      "litigation privilege dominant purpose test",
+      "solicitor-client privilege is permanent",
+      "r. 30.03(2) Schedule B"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-08-sol-cl-priv-003",
+    "subject": "civil_litigation",
+    "chapter_number": 8,
+    "chapter_title": "Documentary Discovery",
+    "topic_id": "affidavit_of_documents",
+    "topic_heading": "Affidavit of Documents",
+    "subtopic_id": "solicitor_client_privilege",
+    "subtopic_heading": "Solicitor-Client Privilege in Discovery",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Przybylski Energy Corp. is involved in a commercial dispute with Nadarajah Pipeline Ltd. During examination for discovery, Przybylski's president voluntarily discloses the general conclusions of a privileged legal opinion — specifically stating that 'counsel's opinion confirmed our contract interpretation was correct' — in order to explain the company's decision-making. Nadarajah subsequently seeks full production of the privileged opinion, arguing that privilege has been waived.",
+    "call_of_question": "Has Przybylski waived solicitor-client privilege over the full legal opinion by disclosing its general conclusions during the examination for discovery?",
+    "options": {
+      "A": "No — a party may reveal the conclusions of a privileged opinion without waiving privilege over the document itself; only production of the full document constitutes waiver.",
+      "B": "No — privilege is waived only if the disclosure was made in writing and signed by the party's legal counsel.",
+      "C": "Yes — by voluntarily disclosing the substance or conclusions of a privileged communication in the course of litigation, Przybylski has impliedly waived privilege over the opinion, entitling Nadarajah to production of the full document.",
+      "D": "Yes — but only with respect to the single sentence disclosed; the remainder of the opinion retains privilege."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Ontario privilege law, solicitor-client privilege may be waived expressly or impliedly. Implied waiver occurs where a party voluntarily discloses the substance or conclusions of a privileged communication in a manner inconsistent with maintaining the confidentiality of the full document. By stating that counsel's opinion confirmed the company's contract interpretation, Przybylski has disclosed the advice in a way that makes it unfair to shield the underlying opinion from scrutiny. Courts have consistently held that partial disclosure of the substance of a privileged communication in the course of proceedings constitutes implied waiver that extends to the full communication, preventing selective use of privilege as both a shield and a sword.",
+    "why_A_wrong": "Revealing the substance or conclusions of a privileged communication — not merely the existence of the document — can constitute implied waiver. The waiver is not limited to producing the physical document; it occurs through disclosure of the privileged content.",
+    "why_B_wrong": "Waiver of privilege does not require a written signed disclosure by counsel. Implied waiver arises from conduct — including oral disclosure during discovery — that is inconsistent with maintaining confidentiality.",
+    "why_C_wrong": "This IS the correct answer. Voluntary disclosure of the substance or conclusions of a privileged communication constitutes implied waiver, entitling the opposing party to production of the full document.",
+    "why_D_wrong": "Where implied waiver occurs through disclosure of the substance of a privileged communication, the waiver typically extends to the entirety of the relevant communication, not merely the words disclosed. Selective privilege — using it as a shield while disclosing favourable portions — is not permitted.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Documentary Discovery",
+      "heading": "Solicitor-Client Privilege in Discovery",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 30.03(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "waiver",
+      "implied waiver",
+      "solicitor-client privilege",
+      "partial disclosure",
+      "shield and sword"
+    ],
+    "tested_concepts": [
+      "implied waiver of privilege",
+      "partial disclosure waives full communication",
+      "shield and sword principle",
+      "privilege waiver by conduct"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-08-sol-cl-priv-004",
+    "subject": "civil_litigation",
+    "chapter_number": 8,
+    "chapter_title": "Documentary Discovery",
+    "topic_id": "affidavit_of_documents",
+    "topic_heading": "Affidavit of Documents",
+    "subtopic_id": "solicitor_client_privilege",
+    "subtopic_heading": "Solicitor-Client Privilege in Discovery",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Castellano Pharma Inc. employs an in-house legal counsel, Dr. Osei-Bonsu, who holds a law degree and is a member of the Law Society of Ontario. In practice, Dr. Osei-Bonsu divides his time equally between providing legal advice to the executive team and acting as a business strategist on product pricing and commercial negotiations. During document production in a class action, the plaintiff seeks production of emails between the CEO and Dr. Osei-Bonsu discussing pricing strategy decisions in which Dr. Osei-Bonsu occasionally added brief references to regulatory risk.",
+    "call_of_question": "Are the emails between the CEO and Dr. Osei-Bonsu protected by solicitor-client privilege?",
+    "options": {
+      "A": "Yes — all communications between a client and an individual who is a member of the Law Society of Ontario are automatically protected by solicitor-client privilege.",
+      "B": "No — in-house counsel can never give rise to solicitor-client privilege because they are employees of the client, not independent legal advisors.",
+      "C": "It depends — solicitor-client privilege applies only to those portions of the emails where Dr. Osei-Bonsu was acting in his legal capacity giving legal advice; communications where he was acting as a business strategist on pricing and commercial matters are not protected.",
+      "D": "Yes — any email that contains even a single reference to regulatory risk qualifies as a communication for the purpose of legal advice, protecting the entire email."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the law confirmed in Lavallee, Rackel & Heintz v Canada (AG), 2002 SCC 61 and applied to in-house counsel, solicitor-client privilege applies to communications with in-house counsel only where the lawyer was acting in their legal capacity — giving or seeking legal advice — and the communication was intended to be confidential. Where in-house counsel acts in a business, strategic, or commercial capacity, the communications are not privileged. Courts undertake a document-by-document or communication-by-communication analysis to separate legal advice components from business advice components. The emails where Dr. Osei-Bonsu acted as a business strategist on pricing are not privileged; those where he provided legal advice on regulatory risk may be privileged. A brief regulatory reference embedded in a predominantly business communication does not automatically make the full email privileged.",
+    "why_A_wrong": "LSO membership does not automatically confer privilege on all communications. The privilege requires the lawyer to be acting in their legal capacity giving legal advice, and the communication to be confidential. In-house counsel acting in a business role are not covered.",
+    "why_B_wrong": "In-house counsel can give rise to solicitor-client privilege. Employment by the client does not negate the privilege. What matters is whether the lawyer was acting in a legal capacity, not independence per se.",
+    "why_C_wrong": "This IS the correct answer. Privilege applies only where Dr. Osei-Bonsu was acting in his legal advisory capacity. Communications where he functioned as a business strategist are not privileged, even if he happens to hold a law degree.",
+    "why_D_wrong": "A single passing reference to regulatory risk does not transform a predominantly business communication into a privileged legal advice document. Courts look at the dominant character and purpose of the communication as a whole.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Documentary Discovery",
+      "heading": "Solicitor-Client Privilege in Discovery",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 30.03(2); Lavallee, Rackel & Heintz v Canada (AG), 2002 SCC 61"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "in-house counsel",
+      "solicitor-client privilege",
+      "legal capacity",
+      "business strategist",
+      "Lavallee"
+    ],
+    "tested_concepts": [
+      "in-house counsel privilege — legal vs business capacity",
+      "Lavallee, Rackel & Heintz",
+      "communication-by-communication analysis",
+      "business advice not privileged"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-08-sol-cl-priv-005",
+    "subject": "civil_litigation",
+    "chapter_number": 8,
+    "chapter_title": "Documentary Discovery",
+    "topic_id": "affidavit_of_documents",
+    "topic_heading": "Affidavit of Documents",
+    "subtopic_id": "solicitor_client_privilege",
+    "subtopic_heading": "Solicitor-Client Privilege in Discovery",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Giordano Wealth Management Corp. successfully defended a securities misrepresentation lawsuit brought by Tremblay Investment Fund LP three years ago. The action was dismissed after a full trial, and the matter has been concluded. Giordano now faces a new claim by a different plaintiff, Nakamura Pension Trust, arising from the same alleged misrepresentation. Nakamura seeks production of legal memoranda that Giordano's outside counsel prepared in connection with the now-concluded Tremblay litigation, arguing that solicitor-client privilege and litigation privilege both expired when the Tremblay action ended.",
+    "call_of_question": "Is Nakamura's argument correct?",
+    "options": {
+      "A": "Yes — both solicitor-client privilege and litigation privilege expire when the litigation to which they relate concludes; all documents from the Tremblay action must now be produced.",
+      "B": "No — both solicitor-client privilege and litigation privilege are permanent and survive the conclusion of all related proceedings.",
+      "C": "Partly — litigation privilege over the memoranda expired when the Tremblay action concluded, but solicitor-client privilege remains intact and continues to protect those memoranda in the new Nakamura proceeding.",
+      "D": "Partly — solicitor-client privilege expired with the Tremblay action because it was created in a litigation context, but litigation privilege survives and continues to protect the memoranda."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Ontario privilege law, solicitor-client privilege and litigation privilege are distinct doctrines with different durations. Solicitor-client privilege is permanent — it survives the conclusion of the retainer, the litigation, and the client relationship. It cannot be eroded by the passage of time or the end of proceedings. Litigation privilege, by contrast, is temporary — as confirmed in Blank v Canada, 2006 SCC 39, it exists to protect the adversarial process and expires when the litigation for which the documents were created has concluded. Accordingly, litigation privilege over the Tremblay memoranda ended when that action was dismissed, but solicitor-client privilege over any portions that constitute confidential legal advice communications remains fully intact and protects those documents from production in the Nakamura proceeding.",
+    "why_A_wrong": "Solicitor-client privilege does not expire when litigation ends. It is permanent. Only litigation privilege expires at the end of proceedings. Nakamura's argument is incorrect as to solicitor-client privilege.",
+    "why_B_wrong": "Litigation privilege is not permanent — it expires when the litigation ends, as confirmed in Blank v Canada, 2006 SCC 39. Only solicitor-client privilege survives indefinitely.",
+    "why_C_wrong": "This IS the correct answer. Litigation privilege expired when the Tremblay action concluded, but solicitor-client privilege remains intact and continues to protect the legal advice communications in the Nakamura proceeding.",
+    "why_D_wrong": "This reverses the correct rule. Solicitor-client privilege is the permanent doctrine; litigation privilege is the temporary one. Creating documents in a litigation context does not convert solicitor-client privilege into a temporary doctrine.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Documentary Discovery",
+      "heading": "Solicitor-Client Privilege in Discovery",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 30.03(2); Blank v Canada, 2006 SCC 39"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "solicitor-client privilege",
+      "litigation privilege",
+      "permanent",
+      "expires",
+      "Blank v Canada"
+    ],
+    "tested_concepts": [
+      "solicitor-client privilege is permanent",
+      "litigation privilege expires when litigation ends",
+      "Blank v Canada 2006 SCC 39",
+      "distinction between two privileges"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  }
+]
