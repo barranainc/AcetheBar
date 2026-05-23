@@ -1,0 +1,929 @@
+{
+  "subject_key": "public_law",
+  "subject_label": "Public Law",
+  "subject_code": "pub",
+  "lso_weight_percent": 15,
+  "total_target_questions": 120,
+  "total_minimum_questions": 65,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Constitutional Law — Division of Powers",
+      "chapter_slug": "ch01-division-of-powers",
+      "lso_dtoc_ref": "Ch. 1",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "division_of_powers",
+          "topic_heading": "Division of Powers — ss. 91 and 92",
+          "subtopics": [
+            {
+              "subtopic_id": "federal_provincial_jurisdiction",
+              "subtopic_heading": "Federal vs. Provincial Legislative Jurisdiction",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Constitution Act, 1867",
+              "key_sections": [
+                "s. 91",
+                "s. 92"
+              ],
+              "common_misconceptions": [
+                "Students misclassify areas of jurisdiction (e.g., criminal law is federal)",
+                "Students confuse the pith and substance doctrine with the double aspect doctrine"
+              ],
+              "notes_for_generation": "Section 91: federal (criminal law, divorce, banking, interprovincial trade, unemployment insurance, Indians). Section 92: provincial (civil rights and property, health, education, municipal institutions, administration of justice within province). Test: is a provincial statute criminalizing price-fixing valid? No — criminal law is federal."
+            },
+            {
+              "subtopic_id": "pith_and_substance",
+              "subtopic_heading": "Pith and Substance Doctrine",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Constitution Act, 1867",
+              "key_sections": [
+                "s. 91",
+                "s. 92"
+              ],
+              "common_misconceptions": [
+                "Students think any incidental overlap with the other level of government makes a law invalid",
+                "Students forget the double aspect doctrine allows both levels to legislate on the same subject"
+              ],
+              "notes_for_generation": "A law is characterized by its dominant feature (pith and substance). Incidental effects on the other level of government do not invalidate the law. Double aspect: some matters can be regulated by both federal and provincial governments from different perspectives (e.g., impaired driving: federal criminal, provincial highway traffic)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+      "chapter_slug": "ch02-charter",
+      "lso_dtoc_ref": "Ch. 2",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "section1_oakes",
+          "topic_heading": "Section 1 — Oakes Test for Justified Limitation",
+          "subtopics": [
+            {
+              "subtopic_id": "oakes_test",
+              "subtopic_heading": "The Oakes Test — Two-Stage Analysis",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982",
+              "key_sections": [
+                "s. 1"
+              ],
+              "common_misconceptions": [
+                "Students describe the Oakes test as a 3-part test (they miss the pressing objective step)",
+                "Students confuse minimal impairment with proportionality of effects",
+                "Students forget the Crown bears the burden on s. 1"
+              ],
+              "notes_for_generation": "Two-stage Oakes test: (1) pressing and substantial objective, (2) proportionality — (a) rational connection between means and objective, (b) minimal impairment — the right is limited no more than necessary, (c) proportionality between the salutary effects and the deleterious effects. Crown bears the burden of justification. Exam trap: a law has a pressing objective and rational connection but fails minimal impairment — is it saved? No."
+            },
+            {
+              "subtopic_id": "section15_equality",
+              "subtopic_heading": "s. 15 — Equality Rights and the Andrews Test",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982",
+              "key_sections": [
+                "s. 15(1)",
+                "s. 15(2)"
+              ],
+              "common_misconceptions": [
+                "Students forget that s. 15 requires distinction based on enumerated or analogous grounds",
+                "Students think any unequal treatment violates s. 15",
+                "Students confuse s. 15(2) ameliorative programs as an exception vs. as clarification"
+              ],
+              "notes_for_generation": "Section 15 analysis: (1) does the law create a distinction or fail to account for the claimant's circumstances, (2) is the distinction based on enumerated or analogous grounds, (3) does the distinction create a disadvantage by perpetuating prejudice or stereotyping? Section 15(2): ameliorative programs targeting disadvantaged groups are not s. 15 violations. PR angle: advising on whether a law that disadvantages a client constitutes discrimination."
+            },
+            {
+              "subtopic_id": "section7_fundamental_justice",
+              "subtopic_heading": "s. 7 — Life, Liberty, and Security of the Person",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982",
+              "key_sections": [
+                "s. 7"
+              ],
+              "common_misconceptions": [
+                "Students confuse 'liberty' with 'freedom' and apply s. 7 too broadly",
+                "Students forget that principles of fundamental justice include: right to a fair hearing, right against self-incrimination, right not to be arbitrarily detained"
+              ],
+              "notes_for_generation": "Section 7: everyone has the right to life, liberty, and security of the person, and the right not to be deprived thereof except in accordance with principles of fundamental justice. Three parts: (1) life/liberty/security interest at stake, (2) state action deprives, (3) the deprivation is contrary to principles of fundamental justice. Principles include: arbitrariness, overbreadth, gross disproportionality. PR angle: lawyer advising a client whose security of the person is at stake in a regulatory proceeding."
+            },
+            {
+              "subtopic_id": "section2_fundamental_freedoms",
+              "subtopic_heading": "s. 2 — Fundamental Freedoms",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982",
+              "key_sections": [
+                "s. 2(a)",
+                "s. 2(b)",
+                "s. 2(c)",
+                "s. 2(d)"
+              ],
+              "common_misconceptions": [
+                "Students think freedom of expression protects all expression including threats and obscenity",
+                "Students forget s. 2(b) protects the form and content of expression"
+              ],
+              "notes_for_generation": "Section 2(b): freedom of expression. Protects content and form. Excluded from protection: expression in the form of violence. Section 2(a): freedom of conscience and religion — sincere belief test. Section 2(d): freedom of association — includes right to bargain collectively. PR angle: a law firm policy that restricts an employee's speech outside work — is it protected?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Administrative Law — Principles and Natural Justice",
+      "chapter_slug": "ch03-admin-law",
+      "lso_dtoc_ref": "Ch. 3",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "procedural_fairness",
+          "topic_heading": "Procedural Fairness — The Baker Factors",
+          "subtopics": [
+            {
+              "subtopic_id": "duty_of_fairness",
+              "subtopic_heading": "The Duty of Fairness and Baker Factors",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22",
+              "key_sections": [
+                "s. 5.1",
+                "s. 5.4",
+                "s. 10"
+              ],
+              "common_misconceptions": [
+                "Students think the duty of fairness is all-or-nothing",
+                "Students forget the content of the duty varies with the stakes and the tribunal",
+                "Students confuse the right to a hearing with the right to an oral hearing"
+              ],
+              "notes_for_generation": "The duty of procedural fairness requires: notice of the case to be met, opportunity to respond, impartial decision-maker. The Baker factors determine the content of the duty: (1) nature of the decision, (2) nature of the statutory scheme, (3) importance of the decision to the individual, (4) legitimate expectations, (5) respect for agency's choice of procedure. Test: is the duty higher for a deportation order or a municipal permit?"
+            },
+            {
+              "subtopic_id": "right_to_reasons",
+              "subtopic_heading": "Right to Reasons for Administrative Decisions",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22",
+              "key_sections": [
+                "s. 17"
+              ],
+              "common_misconceptions": [
+                "Students think all administrative decisions require detailed reasons",
+                "Students forget that the duty to give reasons depends on the Baker factors"
+              ],
+              "notes_for_generation": "Section 17 of the SPPA: a tribunal that holds a hearing must give reasons for its decision if requested. The adequacy of reasons is reviewable on judicial review. Reasons must be intelligible, transparent, and justified given the constraints of the decision-maker. PR angle: a tribunal denies a lawyer's licence renewal without reasons."
+            },
+            {
+              "subtopic_id": "bias_independence",
+              "subtopic_heading": "Bias and Independence of Tribunal Members",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22",
+              "key_sections": [
+                "s. 4.1"
+              ],
+              "common_misconceptions": [
+                "Students think actual bias must be shown to disqualify a decision-maker",
+                "Students forget the 'reasonable apprehension of bias' test is objective"
+              ],
+              "notes_for_generation": "The test: would a reasonable person, informed of all the circumstances, conclude there is a reasonable apprehension of bias? Actual bias need not be proved. Bias arises from: prior involvement, financial interest, personal relationship, expression of prejudgment. Section 4.1 SPPA: no member of a tribunal shall participate in a decision if there is a reasonable apprehension of bias. PR angle: tribunal member who is a former client of one of the parties."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Judicial Review",
+      "chapter_slug": "ch04-judicial-review",
+      "lso_dtoc_ref": "Ch. 4",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "standard_of_review",
+          "topic_heading": "Standard of Review — Reasonableness and Correctness",
+          "subtopics": [
+            {
+              "subtopic_id": "reasonableness_standard",
+              "subtopic_heading": "Reasonableness Standard — Vavilov Framework",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1",
+              "key_sections": [
+                "s. 2"
+              ],
+              "common_misconceptions": [
+                "Students apply the older Dunsmuir framework rather than Vavilov",
+                "Students think unreasonableness requires a clearly wrong decision",
+                "Students forget that reasonableness looks at the decision's reasons, not just the outcome"
+              ],
+              "notes_for_generation": "Post-Vavilov (2019): the default standard is reasonableness. Reasonableness: the decision must be justified, transparent, and intelligible, and must fall within a range of possible acceptable outcomes. The court is deferential — it does not substitute its own view. Correctness applies only to: constitutional questions, jurisdiction questions between competing tribunals, general questions of central importance to the legal system. Exam trap: student applies correctness because the tribunal made an error of law — but most legal errors are reviewed on reasonableness."
+            },
+            {
+              "subtopic_id": "correctness_standard",
+              "subtopic_heading": "Correctness Standard — When It Applies",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1",
+              "key_sections": [
+                "s. 2"
+              ],
+              "common_misconceptions": [
+                "Students apply correctness whenever they think the tribunal was wrong",
+                "Students forget the narrow categories where correctness applies"
+              ],
+              "notes_for_generation": "Correctness applies to: (1) constitutional questions, (2) questions of law of central importance to the legal system not within the tribunal's expertise, (3) questions about competing jurisdiction between tribunals. If correctness: the court gives no deference — it substitutes its own answer. Test: tribunal interprets its own home statute — what is the standard?"
+            }
+          ]
+        },
+        {
+          "topic_id": "judicial_review_procedure",
+          "topic_heading": "Judicial Review Procedure in Ontario",
+          "subtopics": [
+            {
+              "subtopic_id": "divisional_court_jr",
+              "subtopic_heading": "Divisional Court — Jurisdiction Over Judicial Review",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1",
+              "key_sections": [
+                "s. 2",
+                "s. 6"
+              ],
+              "common_misconceptions": [
+                "Students confuse judicial review of provincial tribunals (Divisional Court) with federal boards (Federal Court)",
+                "Students think all judicial reviews in Ontario go to the Divisional Court"
+              ],
+              "notes_for_generation": "The Divisional Court has jurisdiction to review decisions of provincial administrative tribunals in Ontario. Federal boards, commissions, and tribunals: Federal Court has exclusive jurisdiction (Federal Courts Act s. 18). Exam trap: client wants to challenge a decision of the CRTC — which court?"
+            },
+            {
+              "subtopic_id": "remedies_judicial_review",
+              "subtopic_heading": "Remedies on Judicial Review",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1",
+              "key_sections": [
+                "s. 2(1)",
+                "s. 2(2)"
+              ],
+              "common_misconceptions": [
+                "Students think quashing the decision ends the matter",
+                "Students forget the court usually remits the matter for re-determination rather than substituting its own decision"
+              ],
+              "notes_for_generation": "Available remedies under the JRPA: certiorari (quash), mandamus (compel action), prohibition (prevent action), declaration, injunction. The court will usually remit the matter to the tribunal for re-determination in accordance with its reasons. Only in rare cases will it substitute its own decision. Test: tribunal fails to consider a relevant factor — what is the appropriate remedy?"
+            },
+            {
+              "subtopic_id": "privative_clauses",
+              "subtopic_heading": "Privative Clauses and Their Effect",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1",
+              "key_sections": [
+                "s. 2"
+              ],
+              "common_misconceptions": [
+                "Students think a privative clause completely ousts judicial review",
+                "Students forget that judicial review for jurisdictional errors survives a privative clause"
+              ],
+              "notes_for_generation": "A privative clause purports to protect a tribunal's decision from judicial review ('the decision shall be final and binding'). In Ontario, the JRPA preserves the right to judicial review despite privative clauses. Courts continue to review for jurisdictional excess and breach of natural justice regardless of a privative clause."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Statutory Powers Procedure Act (SPPA)",
+      "chapter_slug": "ch05-sppa",
+      "lso_dtoc_ref": "Ch. 5",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "sppa_application",
+          "topic_heading": "SPPA — Application and Procedural Rights",
+          "subtopics": [
+            {
+              "subtopic_id": "sppa_scope",
+              "subtopic_heading": "When the SPPA Applies",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22",
+              "key_sections": [
+                "s. 3(1)",
+                "s. 3(2)"
+              ],
+              "common_misconceptions": [
+                "Students think the SPPA applies to all government decisions",
+                "Students forget that a power exercised judicially or quasi-judicially is required for the SPPA to apply"
+              ],
+              "notes_for_generation": "The SPPA applies where a statute requires a tribunal to hold a hearing in the exercise of a statutory power of decision affecting the legal rights, powers, privileges, immunities, duties, or liabilities of the person. It does not apply to purely legislative or policy decisions, or where another statute has modified or excluded the SPPA. Test: municipal council decision on zoning — does SPPA apply?"
+            },
+            {
+              "subtopic_id": "sppa_rights",
+              "subtopic_heading": "Rights of Parties Under the SPPA",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22",
+              "key_sections": [
+                "s. 5.1",
+                "s. 9",
+                "s. 10",
+                "s. 10.1",
+                "s. 15",
+                "s. 17"
+              ],
+              "common_misconceptions": [
+                "Students think the SPPA guarantees an oral hearing in all cases",
+                "Students forget that written hearings are possible with the parties' consent"
+              ],
+              "notes_for_generation": "Key SPPA rights: adequate notice of the hearing, right to counsel (s. 10), right to be heard (s. 15), right to written reasons if requested (s. 17), right to disclosure (s. 5.1). Section 9.1: tribunal may consolidate or hold hearings in writing, electronically, or in another way with party consent. PR angle: party denied right to counsel by tribunal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Privacy Law — FIPPA and PIPEDA",
+      "chapter_slug": "ch06-privacy",
+      "lso_dtoc_ref": "Ch. 6",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "fippa",
+          "topic_heading": "Freedom of Information and Protection of Privacy Act (FIPPA)",
+          "subtopics": [
+            {
+              "subtopic_id": "fippa_access_right",
+              "subtopic_heading": "Right of Access Under FIPPA",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31",
+              "key_sections": [
+                "s. 10",
+                "s. 21",
+                "s. 28",
+                "s. 54"
+              ],
+              "common_misconceptions": [
+                "Students think FIPPA applies to all government records",
+                "Students forget that cabinet and advice records are exempt",
+                "Students confuse FIPPA (provincial) with ATIA (federal)"
+              ],
+              "notes_for_generation": "FIPPA gives the public a right to access records held by provincial government institutions. Exemptions: advice or recommendations to government, cabinet records, law enforcement records, personal privacy, solicitor-client privilege. Commissioner can order disclosure. PR angle: lawyer requesting records on behalf of a client — what is the process?"
+            },
+            {
+              "subtopic_id": "pipeda_obligations",
+              "subtopic_heading": "PIPEDA — Privacy Obligations for Businesses",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Personal Information Protection and Electronic Documents Act, S.C. 2000, c. 5",
+              "key_sections": [
+                "s. 4",
+                "s. 5",
+                "s. 7",
+                "s. 11",
+                "s. 12"
+              ],
+              "common_misconceptions": [
+                "Students think PIPEDA applies to the federal government — it applies to private sector commercial activity",
+                "Students forget that consent is the primary basis for collection/use/disclosure under PIPEDA"
+              ],
+              "notes_for_generation": "PIPEDA regulates collection, use, and disclosure of personal information in the course of commercial activity. Key principles: consent, limiting collection, limiting use/disclosure/retention, accuracy, safeguards, openness, individual access, challenging compliance. Commissioner investigates complaints but cannot order — must go to Federal Court for binding order. PR angle: a law office as a business that collects client personal information."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Crown Liability",
+      "chapter_slug": "ch07-crown-liability",
+      "lso_dtoc_ref": "Ch. 7",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "crown_liability_act",
+          "topic_heading": "Crown Liability and Proceedings Act 2019",
+          "subtopics": [
+            {
+              "subtopic_id": "crown_tort_liability",
+              "subtopic_heading": "Crown Liability in Tort",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Crown Liability and Proceedings Act, 2019, S.O. 2019, c. 7, Sched. 17",
+              "key_sections": [
+                "s. 3",
+                "s. 5",
+                "s. 9"
+              ],
+              "common_misconceptions": [
+                "Students think the Crown is immune from all torts",
+                "Students confuse federal Crown immunity (Crown Liability and Proceedings Act, federal) with provincial immunity"
+              ],
+              "notes_for_generation": "Section 3: the Crown is liable in tort in the same manner as a person of full legal capacity. Section 9: no proceedings lie against the Crown for anything done in good faith in the exercise of a statutory discretion. The key distinction is between a core policy decision (immune) and an operational decision in implementing the policy (not immune). PR angle: lawyer suing the government for negligent regulatory action."
+            },
+            {
+              "subtopic_id": "proceedings_against_crown",
+              "subtopic_heading": "Proceedings Against the Crown — Procedural Requirements",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Crown Liability and Proceedings Act, 2019, S.O. 2019, c. 7, Sched. 17",
+              "key_sections": [
+                "s. 7",
+                "s. 8"
+              ],
+              "common_misconceptions": [
+                "Students name the wrong defendant when suing the provincial Crown",
+                "Students forget the notice requirements before commencing proceedings"
+              ],
+              "notes_for_generation": "When suing the provincial Crown in Ontario: name the Attorney General of Ontario as defendant. Federal Crown: Attorney General of Canada. Notice requirements may apply under specific statutes before suit may be commenced. Test: client wants to sue a provincial ministry for negligence — how do you commence the proceeding?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Human Rights Law",
+      "chapter_slug": "ch08-human-rights",
+      "lso_dtoc_ref": "Ch. 8",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "human_rights_code",
+          "topic_heading": "Ontario Human Rights Code",
+          "subtopics": [
+            {
+              "subtopic_id": "protected_grounds",
+              "subtopic_heading": "Protected Grounds and Social Areas",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Human Rights Code, R.S.O. 1990, c. H.19",
+              "key_sections": [
+                "s. 1",
+                "s. 2",
+                "s. 3",
+                "s. 5",
+                "s. 6",
+                "s. 7"
+              ],
+              "common_misconceptions": [
+                "Students list enumerated grounds incorrectly — especially forgetting record of offences and family status",
+                "Students confuse the Code's social areas (employment, housing, services) with general application"
+              ],
+              "notes_for_generation": "Protected grounds: race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, age, marital status, family status, disability, record of offences (in employment), and receipt of public assistance (in accommodation). Social areas: employment, services and facilities, accommodation, contracts, vocational associations. PR angle: a client denied services because of creed."
+            },
+            {
+              "subtopic_id": "duty_to_accommodate",
+              "subtopic_heading": "Duty to Accommodate to the Point of Undue Hardship",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Human Rights Code, R.S.O. 1990, c. H.19",
+              "key_sections": [
+                "s. 11",
+                "s. 17"
+              ],
+              "common_misconceptions": [
+                "Students think undue hardship is defined as significant financial cost only",
+                "Students forget that accommodation is a shared responsibility",
+                "Students confuse the procedural and substantive aspects of accommodation"
+              ],
+              "notes_for_generation": "The duty to accommodate requires modification of rules, practices, and physical spaces to meet the needs of a protected group, to the point of undue hardship. Undue hardship factors: cost, outside sources of funding, health and safety requirements. Not a defence: inconvenience, preference, or minor cost. Accommodation is a collaborative process — the employee/tenant must also cooperate. Exam trap: employer claims undue hardship after spending $2,000 on modifications — is this enough?"
+            },
+            {
+              "subtopic_id": "hrto_process",
+              "subtopic_heading": "Human Rights Tribunal of Ontario — Process",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Human Rights Code, R.S.O. 1990, c. H.19",
+              "key_sections": [
+                "s. 34",
+                "s. 45.1"
+              ],
+              "common_misconceptions": [
+                "Students think the HRTO can award punitive damages",
+                "Students forget the one-year limitation period for filing a human rights application"
+              ],
+              "notes_for_generation": "Applications to the HRTO must be filed within one year of the discriminatory act (s. 34). Remedies: compensation (monetary and non-monetary), orders requiring compliance, orders to implement a program or plan. The HRTO cannot award punitive damages — only compensatory. PR angle: lawyer who misses the one-year HRTO filing deadline."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Aboriginal Law",
+      "chapter_slug": "ch09-aboriginal-law",
+      "lso_dtoc_ref": "Ch. 9",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "section35",
+          "topic_heading": "Section 35 — Aboriginal and Treaty Rights",
+          "subtopics": [
+            {
+              "subtopic_id": "aboriginal_title",
+              "subtopic_heading": "Aboriginal Title — Tsilhqot'in Test",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Constitution Act, 1982",
+              "key_sections": [
+                "s. 35(1)"
+              ],
+              "common_misconceptions": [
+                "Students apply the Calder test (pre-Tsilhqot'in) for Aboriginal title",
+                "Students think Aboriginal title requires proof of continuous occupation since Confederation"
+              ],
+              "notes_for_generation": "Aboriginal title (Tsilhqot'in): the claimants must establish occupation that was (1) sufficient, (2) continuous, and (3) exclusive at the time of Crown assertion of sovereignty (not Confederation). The Crown may infringe Aboriginal title only if it meets the justification test: has a compelling and substantial objective, and the infringement is consistent with the Crown's fiduciary duty."
+            },
+            {
+              "subtopic_id": "duty_to_consult",
+              "subtopic_heading": "Duty to Consult and Accommodate",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Constitution Act, 1982",
+              "key_sections": [
+                "s. 35(1)"
+              ],
+              "common_misconceptions": [
+                "Students think the duty to consult only arises where Aboriginal title is proven",
+                "Students confuse consultation (process) with accommodation (outcome)"
+              ],
+              "notes_for_generation": "The duty to consult arises when the Crown has knowledge (actual or constructive) of an Aboriginal right or title claim and contemplates action that might adversely affect it. The scope of consultation varies with the strength of the claim and the severity of the potential adverse effect. Accommodation does not require a veto. PR angle: a lawyer advising a resource company about whether the Crown has met its duty to consult."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Residential Tenancies",
+      "chapter_slug": "ch10-residential-tenancies",
+      "lso_dtoc_ref": "Ch. 10",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "rta_landlord_tenant",
+          "topic_heading": "Residential Tenancies Act 2006 — Key Provisions",
+          "subtopics": [
+            {
+              "subtopic_id": "grounds_for_termination",
+              "subtopic_heading": "Grounds for Termination and Eviction",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Residential Tenancies Act, 2006, S.O. 2006, c. 17",
+              "key_sections": [
+                "s. 37",
+                "s. 59",
+                "s. 61",
+                "s. 83"
+              ],
+              "common_misconceptions": [
+                "Students think a landlord can terminate a tenancy for any reason with sufficient notice",
+                "Students forget the LTB must approve most eviction orders"
+              ],
+              "notes_for_generation": "A tenancy may only be terminated on grounds specified in the RTA: non-payment of rent, breach of agreement, damage, illegal acts, landlord's own use. The LTB must hear the application and may refuse to grant eviction even where a ground exists (s. 83 discretion). Notice must be given in prescribed forms. PR angle: lawyer advising a landlord who is attempting a non-compliant eviction."
+            },
+            {
+              "subtopic_id": "ltb_jurisdiction",
+              "subtopic_heading": "LTB Jurisdiction and Procedure",
+              "target_question_count": 3,
+              "minimum_question_count": 1,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Residential Tenancies Act, 2006, S.O. 2006, c. 17",
+              "key_sections": [
+                "s. 168",
+                "s. 169",
+                "s. 195"
+              ],
+              "common_misconceptions": [
+                "Students think regular civil courts have jurisdiction over landlord-tenant disputes under the RTA",
+                "Students forget the LTB can award costs against a party for bad faith"
+              ],
+              "notes_for_generation": "The Landlord and Tenant Board has exclusive jurisdiction over RTA matters. Applications must be filed with the LTB — not in Small Claims Court or Superior Court. The LTB can award remedies: eviction, rent abatement, repair orders, administrative fines. Costs: s. 195 — LTB may award costs where a party has acted unreasonably."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Employment Standards and Occupational Health and Safety",
+      "chapter_slug": "employment-safety",
+      "lso_dtoc_ref": "Employment Standards Act, 2000, S.O. 2000, c.41; Occupational Health and Safety Act, R.S.O. 1990, c.O.1",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "employment_esa_ohsa",
+          "topic_heading": "Statutory Employment and Workplace Safety Obligations",
+          "subtopics": [
+            {
+              "subtopic_id": "esa_basic_rights_enforcement",
+              "subtopic_heading": "Employment Standards Act — Key Employee Rights and Ministry Enforcement",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 1,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Employment Standards Act, 2000, S.O. 2000, c.41",
+              "key_sections": [
+                "ESA 2000 s.3",
+                "s.5(1)",
+                "s.74",
+                "s.96",
+                "s.100"
+              ],
+              "common_misconceptions": [
+                "Students think employees can contract out of minimum ESA standards — s.5(1) makes minimum standards unwaivable.",
+                "The Ministry's compliance order (s.74) can be issued without a hearing; the employer's remedy is to object and request an employment standards officer review.",
+                "ESA does not apply to self-employed persons, independent contractors, or certain exempt industries (farming, architects, engineers in certain roles)."
+              ],
+              "notes_for_generation": "Cover minimum statutory entitlements (hours of work, overtime, vacation, public holidays, notice/severance on termination), the non-waiver principle under s.5(1), the enforcement mechanism (employee complaint → employment standards officer → compliance order), and key exemptions. PR angle: employer counsel duty to advise on ESA minimum compliance."
+            },
+            {
+              "subtopic_id": "ohsa_duties_right_to_refuse",
+              "subtopic_heading": "Occupational Health and Safety Act — Employer and Worker Duties; Right to Refuse",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 1,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Occupational Health and Safety Act, R.S.O. 1990, c.O.1",
+              "key_sections": [
+                "OHSA s.25",
+                "s.27",
+                "s.28",
+                "s.43",
+                "s.50"
+              ],
+              "common_misconceptions": [
+                "Students think a worker who refuses unsafe work can be fired — s.50 prohibits reprisal; reinstatement and compensation are available.",
+                "The right to refuse (s.43) is a two-stage process: first the worker and supervisor investigate; if unresolved, an inspector is called.",
+                "Employers have different duties than supervisors — employer duties under s.25 are broader and non-delegable (written workplace health and safety policy required if 6+ workers)."
+              ],
+              "notes_for_generation": "Cover employer duties (s.25), supervisor duties (s.27), worker duties (s.28), the right-to-refuse procedure (s.43 — stage 1: internal; stage 2: inspector), inspector powers, and the anti-reprisal provision (s.50). PR angle: lawyer acting for employer on OHSA prosecution must understand officer/director liability under s.32."
+            },
+            {
+              "subtopic_id": "wsib_exclusive_jurisdiction",
+              "subtopic_heading": "Workplace Safety and Insurance — WSIB Exclusivity and Appeals",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 1,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Workplace Safety and Insurance Act, 1997, S.O. 1997, c.16, Sched. A",
+              "key_sections": [
+                "WSIA s.26",
+                "s.31",
+                "s.123",
+                "s.125"
+              ],
+              "common_misconceptions": [
+                "Students think an injured worker can sue their employer in tort and also claim WSIB — the WSIA s.26 historic trade-off bars tort actions against Schedule 1 employers.",
+                "The exclusivity bar does not apply to intentional torts or to employers in Schedule 2 (self-insured large employers).",
+                "Appeals from WSIB decisions go to the Workplace Safety and Insurance Appeals Tribunal (WSIAT), not to the courts — Tribunal decisions are subject to judicial review."
+              ],
+              "notes_for_generation": "Explain the historic trade-off (no-fault WSIB benefits in exchange for tort immunity), the scope of the s.26 bar, Schedule 1 vs Schedule 2 distinctions, the WSIAT appeal process, and the role of judicial review of WSIAT decisions by the Divisional Court."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

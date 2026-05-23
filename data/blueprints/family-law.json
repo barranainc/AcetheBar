@@ -1,0 +1,1343 @@
+{
+  "subject_key": "family_law",
+  "subject_label": "Family Law",
+  "subject_code": "fam",
+  "lso_weight_percent": 25,
+  "total_target_questions": 181,
+  "total_minimum_questions": 104,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Marriage — Capacity, Formalities, and Status",
+      "chapter_slug": "ch01-marriage",
+      "lso_dtoc_ref": "Ch. 1",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "marriage_validity",
+          "topic_heading": "Validity of Marriage",
+          "subtopics": [
+            {
+              "subtopic_id": "capacity_to_marry",
+              "subtopic_heading": "Capacity to Marry — Void vs. Voidable",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Marriage Act, R.S.O. 1990, c. M.3",
+              "key_sections": [
+                "s. 5",
+                "s. 6"
+              ],
+              "common_misconceptions": [
+                "Students confuse void (never existed) with voidable (valid until annulled)",
+                "Students forget that a marriage to a prohibited person is void, not voidable"
+              ],
+              "notes_for_generation": "Void marriages (no legal effect at all): marriage to a person already married (bigamy), marriage between prohibited degrees of consanguinity. Voidable marriages (valid until one party obtains annulment): lack of capacity (age, mental), absence of consent (duress, fraud). Test: client's spouse was already married — is the second marriage void or voidable?"
+            },
+            {
+              "subtopic_id": "marriage_formalities",
+              "subtopic_heading": "Marriage Formalities — Licence and Ceremony",
+              "target_question_count": 3,
+              "minimum_question_count": 1,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 1,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 2,
+              "primary_statute": "Marriage Act, R.S.O. 1990, c. M.3",
+              "key_sections": [
+                "s. 8",
+                "s. 24",
+                "s. 31"
+              ],
+              "common_misconceptions": [
+                "Students think defects in formalities void the marriage",
+                "Students forget that a marriage performed in good faith without proper formalities may still be valid"
+              ],
+              "notes_for_generation": "Formalities: licence or publication of banns, authorized person to perform ceremony, two witnesses. Defects in formalities do not necessarily void the marriage if both parties acted in good faith."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Separation and Divorce",
+      "chapter_slug": "ch02-separation-divorce",
+      "lso_dtoc_ref": "Ch. 2",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "divorce_grounds",
+          "topic_heading": "Grounds for Divorce",
+          "subtopics": [
+            {
+              "subtopic_id": "breakdown_marriage",
+              "subtopic_heading": "Breakdown of Marriage — One Year Separation",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.)",
+              "key_sections": [
+                "s. 8(1)",
+                "s. 8(2)(a)",
+                "s. 8(3)"
+              ],
+              "common_misconceptions": [
+                "Students think the parties must be separated for a full year before commencing the divorce application",
+                "Students forget that the divorce may be granted before the year expires if the year ends before the divorce is granted"
+              ],
+              "notes_for_generation": "The only ground for divorce in practice is marriage breakdown — proven by separation of one year (s. 8(2)(a)). The parties may commence divorce proceedings before the year expires, but the divorce cannot be granted until the year has elapsed (or essentially elapsed). Section 8(3)(b): resuming cohabitation for up to 90 days to attempt reconciliation does not interrupt the separation period. Exam trap: couple separates, gets back together for 3 weeks, separates again — when does the year run from?"
+            },
+            {
+              "subtopic_id": "bars_to_divorce",
+              "subtopic_heading": "Bars to Divorce — Collusion, Connivance, Condonation",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.)",
+              "key_sections": [
+                "s. 11(1)"
+              ],
+              "common_misconceptions": [
+                "Students forget the court has a duty to refuse a divorce where bars exist",
+                "Students confuse collusion with connivance"
+              ],
+              "notes_for_generation": "The court must be satisfied: no collusion (no agreement to fabricate or suppress evidence), no connivance (not facilitating the breakdown), no condonation (not forgiving the conduct that constitutes the ground). PR angle: lawyer who assists parties in colluding to establish false grounds."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Net Family Property and Equalization",
+      "chapter_slug": "ch03-nfp-equalization",
+      "lso_dtoc_ref": "Ch. 3",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "nfp_calculation",
+          "topic_heading": "Calculating Net Family Property",
+          "subtopics": [
+            {
+              "subtopic_id": "nfp_formula",
+              "subtopic_heading": "The NFP Formula — Assets, Debts, Deductions",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
+              "key_sections": [
+                "s. 4(1)",
+                "s. 5(1)"
+              ],
+              "common_misconceptions": [
+                "Students forget to deduct the value of property owned at the date of marriage",
+                "Students think gifts and inheritances received during marriage are excluded from NFP (they are not — only the original gift value can be deducted if still owned at valuation date)",
+                "Students use the wrong valuation date"
+              ],
+              "notes_for_generation": "NFP = (value of property at valuation date) - (debts and liabilities at valuation date) - (value of property owned at marriage date excluding matrimonial home). The spouse with the higher NFP pays the difference to the other spouse divided by two. Valuation date: date of separation (or earliest of: date of divorce, death, judgment, separation agreement, improper depletion). Exam trap: gift received during marriage — is it NFP? Yes, unless traceable and still owned at valuation date."
+            },
+            {
+              "subtopic_id": "deductions_at_marriage",
+              "subtopic_heading": "Property Owned at Date of Marriage — Deduction",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
+              "key_sections": [
+                "s. 4(1)",
+                "s. 4(2)"
+              ],
+              "common_misconceptions": [
+                "Students think any asset owned at marriage is deducted regardless of the matrimonial home",
+                "Students forget that the matrimonial home owned at marriage cannot be deducted",
+                "Students confuse the deduction with exclusion"
+              ],
+              "notes_for_generation": "The value of property owned at the marriage date is deducted from NFP — EXCEPT the matrimonial home if it was the matrimonial home at the valuation date. This is the single biggest exam trap in property law. Test: spouse owned a house at marriage, it became the matrimonial home — can they deduct its marriage-date value? No."
+            },
+            {
+              "subtopic_id": "excluded_property",
+              "subtopic_heading": "Excluded Property — Gifts, Inheritances, Tort Damages",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
+              "key_sections": [
+                "s. 4(2)"
+              ],
+              "common_misconceptions": [
+                "Students think ALL gifts or inheritances are automatically excluded",
+                "Students forget excluded property must still be traceable and identifiable at the valuation date",
+                "Students forget that excluded property that has been converted into the matrimonial home loses its excluded status"
+              ],
+              "notes_for_generation": "Section 4(2) exclusions: gifts/inheritances from third parties, compensation for personal injury (not lost income). The excluded property must still be identifiable at the valuation date — if it has been spent, converted, or mixed, it may not be traceable. If excluded property is used to purchase the matrimonial home, it loses its excluded status."
+            },
+            {
+              "subtopic_id": "equalization_payment",
+              "subtopic_heading": "Calculating and Ordering the Equalization Payment",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
+              "key_sections": [
+                "s. 5(1)",
+                "s. 5(6)"
+              ],
+              "common_misconceptions": [
+                "Students think equalization always means an equal split of the matrimonial home",
+                "Students forget s. 5(6) allows the court to reduce or refuse equalization in unconscionable circumstances"
+              ],
+              "notes_for_generation": "The equalization payment equals half the difference between the two spouses' NFPs. It does not automatically transfer property — it is a debt. Section 5(6): unconscionability exception — the court may reduce or refuse equalization if it would be unconscionable given the spouse's conduct (e.g., deliberate depletion). Exam trap: one spouse gambled away half the family assets before separation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Matrimonial Home",
+      "chapter_slug": "ch04-matrimonial-home",
+      "lso_dtoc_ref": "Ch. 4",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "matrimonial_home_rules",
+          "topic_heading": "Special Rules for the Matrimonial Home",
+          "subtopics": [
+            {
+              "subtopic_id": "possession_rights",
+              "subtopic_heading": "Equal Right of Possession — s. 19",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
+              "key_sections": [
+                "s. 19(1)",
+                "s. 19(2)"
+              ],
+              "common_misconceptions": [
+                "Students think only the titled spouse can decide to sell the matrimonial home",
+                "Students forget that both spouses have equal rights of possession regardless of ownership"
+              ],
+              "notes_for_generation": "Both spouses have an equal right of possession of the matrimonial home regardless of which spouse holds legal title (s. 19(1)). This right cannot be unilaterally displaced. Even after separation, both spouses retain possession rights until a court order or agreement. Exam trap: titled spouse lists the matrimonial home for sale — can they? Not without the other spouse's consent."
+            },
+            {
+              "subtopic_id": "consent_to_dispose",
+              "subtopic_heading": "Consent Required to Dispose of Matrimonial Home — s. 21",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
+              "key_sections": [
+                "s. 21(1)",
+                "s. 21(2)",
+                "s. 21(3)"
+              ],
+              "common_misconceptions": [
+                "Students think a registered designation of matrimonial home is required for s. 21 to apply",
+                "Students forget that s. 21 protects a non-owning spouse even without any registration"
+              ],
+              "notes_for_generation": "Section 21(1): a spouse who holds an interest in the matrimonial home cannot dispose of or encumber the home without the written consent of the other spouse. This applies even if the other spouse has no legal title. No registration required. Transaction without consent is void under s. 21(3). Exam trap: spouse transfers matrimonial home to parent without the other spouse's consent — is the transfer valid?"
+            },
+            {
+              "subtopic_id": "exclusive_possession",
+              "subtopic_heading": "Exclusive Possession Orders — s. 24",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
+              "key_sections": [
+                "s. 24(1)",
+                "s. 24(3)"
+              ],
+              "common_misconceptions": [
+                "Students think exclusive possession can only be ordered if there is violence",
+                "Students confuse exclusive possession (temporary) with an order vesting title (permanent)"
+              ],
+              "notes_for_generation": "Section 24: court may order exclusive possession of the matrimonial home to one spouse regardless of ownership. Factors: best interests of the children, financial situation of both spouses, availability of other suitable accommodation, violence or threats. PR angle: lawyer who fails to advise a client about applying for exclusive possession."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Spousal Support",
+      "chapter_slug": "ch05-spousal-support",
+      "lso_dtoc_ref": "Ch. 5",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "spousal_support_entitlement",
+          "topic_heading": "Entitlement to Spousal Support",
+          "subtopics": [
+            {
+              "subtopic_id": "entitlement_grounds",
+              "subtopic_heading": "Entitlement Grounds Under FLA and Divorce Act",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
+              "key_sections": [
+                "s. 33(8)"
+              ],
+              "common_misconceptions": [
+                "Students think spousal support is automatic on separation",
+                "Students confuse the compensatory, contractual, and needs-based grounds"
+              ],
+              "notes_for_generation": "Three entitlement grounds: (1) compensatory (contribution to the other's career/education, economic disadvantage from marriage roles), (2) needs-based (inability to be self-sufficient), (3) contractual (agreement to support). Under the Divorce Act s. 15.2(6): the court must consider the economic consequences of the marriage and its breakdown. An entitlement must be established before quantum is determined. Exam trap: long marriage, stay-at-home spouse — automatic entitlement? Not automatic — must meet a ground."
+            },
+            {
+              "subtopic_id": "ssag",
+              "subtopic_heading": "Spousal Support Advisory Guidelines (SSAG)",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
+              "key_sections": [
+                "s. 33"
+              ],
+              "common_misconceptions": [
+                "Students think the SSAG are legally binding",
+                "Students forget the SSAG produce ranges, not precise amounts",
+                "Students confuse the with-child formula with the without-child formula"
+              ],
+              "notes_for_generation": "The SSAG are not law — they are guidelines courts consider for quantum and duration. Two formulas: without-child (based on years of cohabitation and income disparity), with-child (more complex). Courts must still address entitlement independently. PR angle: lawyer who presents SSAG figures as if they were mandatory."
+            },
+            {
+              "subtopic_id": "variation_support",
+              "subtopic_heading": "Variation and Termination of Support Orders",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.)",
+              "key_sections": [
+                "s. 17(1)",
+                "s. 17(4.1)"
+              ],
+              "common_misconceptions": [
+                "Students think any change in circumstances justifies variation",
+                "Students forget that the change must be a material change in circumstances since the order was made"
+              ],
+              "notes_for_generation": "Section 17: a support order may be varied, rescinded, or suspended on proof of a change in the condition, means, needs, or other circumstances of either spouse since the making of the last order. The change must be material — not anticipated at the time of the order. Exam trap: recipient spouse remarries — is that automatic termination? No — the court has discretion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Child Support",
+      "chapter_slug": "ch06-child-support",
+      "lso_dtoc_ref": "Ch. 6",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "table_amount",
+          "topic_heading": "Federal Child Support Guidelines — Table Amount",
+          "subtopics": [
+            {
+              "subtopic_id": "table_amount_basics",
+              "subtopic_heading": "Table Amount — Income and Number of Children",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Federal Child Support Guidelines, SOR/97-175",
+              "key_sections": [
+                "s. 3(1)",
+                "s. 3(2)"
+              ],
+              "common_misconceptions": [
+                "Students think the table amount is discretionary",
+                "Students forget the payor's income, not the recipient's, determines the table amount",
+                "Students confuse Ontario table with Federal Guidelines"
+              ],
+              "notes_for_generation": "Section 3(1): the amount of a child support order is determined by the Federal Child Support Guidelines table based on: (a) the payor's income, (b) the number of children. Table amount is prima facie the correct amount — courts deviate only in special circumstances. Test: payor earns $120,000, two children — look up table for Ontario."
+            },
+            {
+              "subtopic_id": "special_expenses_s7",
+              "subtopic_heading": "Special or Extraordinary Expenses — s. 7",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Federal Child Support Guidelines, SOR/97-175",
+              "key_sections": [
+                "s. 7(1)",
+                "s. 7(2)"
+              ],
+              "common_misconceptions": [
+                "Students think all childcare expenses are automatically s. 7 expenses",
+                "Students forget s. 7 expenses are shared proportionally to income, not equally",
+                "Students confuse 'necessary' with 'reasonable and necessary'"
+              ],
+              "notes_for_generation": "Section 7 expenses: added to the table amount and shared proportionately to each party's income. Categories: childcare (employment/education/illness), post-secondary education expenses, extraordinary educational expenses, extraordinary extracurricular expenses, health-related expenses. Must be 'necessary and reasonable' or in the child's best interests. Exam trap: child takes expensive piano lessons — are these automatically s. 7 expenses?"
+            },
+            {
+              "subtopic_id": "shared_custody_s9",
+              "subtopic_heading": "Shared Custody — s. 9 Adjustment",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Federal Child Support Guidelines, SOR/97-175",
+              "key_sections": [
+                "s. 9"
+              ],
+              "common_misconceptions": [
+                "Students think 50/50 parenting time automatically results in no child support",
+                "Students forget courts must consider all three factors under s. 9"
+              ],
+              "notes_for_generation": "Section 9: where a parent exercises parenting time 40% or more, the table amount may be adjusted. Court must consider: (a) the amounts that each parent would pay under the table, (b) the increased costs of shared custody, (c) the conditions, means, needs and other circumstances of each spouse and child. The result is not automatic offset — it is a holistic analysis."
+            },
+            {
+              "subtopic_id": "child_over_majority",
+              "subtopic_heading": "Support for Children Over the Age of Majority",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Federal Child Support Guidelines, SOR/97-175",
+              "key_sections": [
+                "s. 3(2)"
+              ],
+              "common_misconceptions": [
+                "Students think child support automatically ends at age 18",
+                "Students forget a child can be a 'child of the marriage' if still in full-time education"
+              ],
+              "notes_for_generation": "Section 3(2): for a child over the age of majority, the court may order the table amount or a different amount based on the condition, means, needs and other circumstances of the child and the parents. 'Child of the marriage' continues if the child is a full-time student unable to withdraw from parental charge. Exam trap: 19-year-old in university — is child support owed?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Parenting — Decision-Making and Parenting Time",
+      "chapter_slug": "ch07-parenting",
+      "lso_dtoc_ref": "Ch. 7",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "parenting_orders",
+          "topic_heading": "Parenting Orders Under the Divorce Act and CLRA",
+          "subtopics": [
+            {
+              "subtopic_id": "best_interests_test",
+              "subtopic_heading": "Best Interests of the Child — The Test",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.)",
+              "key_sections": [
+                "s. 16(1)",
+                "s. 16(3)"
+              ],
+              "common_misconceptions": [
+                "Students list factors mechanically without applying them",
+                "Students forget that family violence is a mandatory consideration under s. 16(4)",
+                "Students think the maximum contact principle (now repealed) still applies"
+              ],
+              "notes_for_generation": "Section 16(3): the court must consider only the best interests of the child. Section 16(3) lists factors including: child's needs/circumstances, each parent's willingness to support the relationship with the other, history of care, family violence. Family violence (s. 16(4)): a mandatory specific analysis of the impact of family violence on the child. The former 'maximum contact principle' was removed in the 2021 amendments. PR angle: counsel who is not familiar with the 2021 Divorce Act amendments."
+            },
+            {
+              "subtopic_id": "decision_making_parenting_time",
+              "subtopic_heading": "Decision-Making Responsibility vs. Parenting Time",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.)",
+              "key_sections": [
+                "s. 16(1)",
+                "s. 2(1)"
+              ],
+              "common_misconceptions": [
+                "Students use the outdated terms 'custody' and 'access'",
+                "Students think decision-making and parenting time always go together"
+              ],
+              "notes_for_generation": "The Divorce Act (2021 amendments) replaced 'custody' with 'decision-making responsibility' and 'access' with 'parenting time'. These are now distinct: one parent may have sole decision-making while sharing parenting time. Under CLRA (provincial): still uses 'custody' and 'access'. Test: which statute applies to a married vs. unmarried couple?"
+            },
+            {
+              "subtopic_id": "relocation",
+              "subtopic_heading": "Relocation — Requirements and Notice",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.)",
+              "key_sections": [
+                "s. 16.9",
+                "s. 16.91",
+                "s. 16.93"
+              ],
+              "common_misconceptions": [
+                "Students think a parent with sole decision-making can relocate freely",
+                "Students forget the mandatory 60-day notice requirement",
+                "Students confuse relocation (long distance move) with change of residence (same geographic area)"
+              ],
+              "notes_for_generation": "Relocation requires 60 days' written notice to other parent and any other person with parenting time (s. 16.9). The burden of proof on relocation: if parent opposing has no parenting time — relocating parent must show move is in best interests. If parents share time roughly equally — relocating parent must show move is in best interests. If order specifies, that order governs. PR angle: lawyer who advises client to relocate without providing notice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Child Protection",
+      "chapter_slug": "ch08-child-protection",
+      "lso_dtoc_ref": "Ch. 8",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "cyfsa_protection",
+          "topic_heading": "Child Protection Under CYFSA 2017",
+          "subtopics": [
+            {
+              "subtopic_id": "need_for_protection",
+              "subtopic_heading": "Grounds for Finding a Child in Need of Protection",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1",
+              "key_sections": [
+                "s. 74(2)"
+              ],
+              "common_misconceptions": [
+                "Students think abuse must be physical to constitute a need for protection",
+                "Students forget emotional harm and risk of harm are also grounds"
+              ],
+              "notes_for_generation": "Section 74(2): a child is in need of protection if: physical harm inflicted by person in charge, risk of physical harm, sexual abuse or risk thereof, emotional harm through the conduct of person in charge, risk of serious emotional harm, no person able to provide adequate care. Test: parent's substance abuse — does this create a risk of harm?"
+            },
+            {
+              "subtopic_id": "crown_wardship",
+              "subtopic_heading": "Crown Wardship vs. Supervision Orders",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1",
+              "key_sections": [
+                "s. 101",
+                "s. 102",
+                "s. 116"
+              ],
+              "common_misconceptions": [
+                "Students think Crown wardship is the automatic outcome in child protection proceedings",
+                "Students forget the principle of the least restrictive intervention"
+              ],
+              "notes_for_generation": "Dispositions available: (1) supervision order — child remains with parent under CAS supervision, (2) society wardship — child placed with CAS (up to 12 months), (3) Crown wardship — Crown takes permanent care (terminates parental rights). Least restrictive principle applies. PR angle: lawyer who does not advocate for the least restrictive outcome."
+            },
+            {
+              "subtopic_id": "duty_to_report",
+              "subtopic_heading": "Duty to Report Suspected Child Abuse — s. 125",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1",
+              "key_sections": [
+                "s. 125(1)",
+                "s. 125(4)"
+              ],
+              "common_misconceptions": [
+                "Students think the duty to report can be delegated to another professional",
+                "Students forget the duty applies even to information protected by solicitor-client privilege — but with an exception for lawyers"
+              ],
+              "notes_for_generation": "Section 125(1): every person who has reasonable grounds to suspect that a child is or may be in need of protection has a duty to report to a children's aid society. The duty is personal and cannot be delegated. Section 125(4): professional privilege does not apply to the duty to report — EXCEPT that solicitor-client privilege is protected. PR angle: central topic. Lawyer learns from client that client may be abusing a child — what is the duty?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Domestic Contracts",
+      "chapter_slug": "ch09-domestic-contracts",
+      "lso_dtoc_ref": "Ch. 9",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "domestic_contract_types",
+          "topic_heading": "Types of Domestic Contracts",
+          "subtopics": [
+            {
+              "subtopic_id": "marriage_cohabitation_contracts",
+              "subtopic_heading": "Marriage Contracts and Cohabitation Agreements",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
+              "key_sections": [
+                "s. 52",
+                "s. 53",
+                "s. 54",
+                "s. 56"
+              ],
+              "common_misconceptions": [
+                "Students think marriage contracts can address custody of children",
+                "Students forget the formal requirements for a valid domestic contract"
+              ],
+              "notes_for_generation": "Marriage contract (s. 52): married or about-to-marry spouses can contract out of FLA property rights but NOT possession of the matrimonial home during cohabitation. Cohabitation agreement (s. 53): same provisions, for unmarried couples. Formal requirements (s. 55): in writing, signed by both parties, witnessed. Cannot contract out of child support. PR angle: lawyer who drafts a marriage contract without advising both parties to get independent legal advice."
+            },
+            {
+              "subtopic_id": "setting_aside_domestic_contract",
+              "subtopic_heading": "Setting Aside a Domestic Contract — s. 56(4)",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
+              "key_sections": [
+                "s. 56(4)"
+              ],
+              "common_misconceptions": [
+                "Students think any unfairness justifies setting aside a domestic contract",
+                "Students forget that s. 56(4) requires specific grounds — not just that one party is now worse off"
+              ],
+              "notes_for_generation": "Section 56(4): a court may set aside all or part of a domestic contract on the following grounds: (a) failure to disclose significant assets or debts, (b) lack of understanding of the contract's nature or consequences, (c) any other grounds for setting aside or varying a contract in law. Courts are reluctant to set aside merely because the result seems unfair. Exam trap: spouse signed a contract without fully reading it — grounds to set aside? Not alone — must show lack of understanding or non-disclosure. PR angle: lawyer who fails to advise on full financial disclosure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Enforcement of Family Orders",
+      "chapter_slug": "ch10-enforcement",
+      "lso_dtoc_ref": "Ch. 10",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "frsaea",
+          "topic_heading": "Family Responsibility Office — Automatic Enforcement",
+          "subtopics": [
+            {
+              "subtopic_id": "fro_automatic_filing",
+              "subtopic_heading": "Automatic Filing with FRO",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31",
+              "key_sections": [
+                "s. 6",
+                "s. 7",
+                "s. 10"
+              ],
+              "common_misconceptions": [
+                "Students think support orders must be voluntarily enrolled in the FRO",
+                "Students forget that all support orders are automatically filed with the FRO unless both parties opt out"
+              ],
+              "notes_for_generation": "All support orders made in Ontario are automatically filed with the Family Responsibility Office (FRO) for enforcement unless both parties file a joint election to opt out. The FRO monitors payments, follows up on defaults, and has authority to enforce. PR angle: lawyer who does not explain FRO to clients and does not include proper FRO-compatible payment provisions."
+            },
+            {
+              "subtopic_id": "enforcement_measures",
+              "subtopic_heading": "FRO Enforcement Measures",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31",
+              "key_sections": [
+                "s. 11",
+                "s. 13",
+                "s. 16",
+                "s. 19"
+              ],
+              "common_misconceptions": [
+                "Students forget the FRO can suspend a driver's licence without court order",
+                "Students confuse FRO enforcement with contempt proceedings"
+              ],
+              "notes_for_generation": "FRO can: garnish wages and bank accounts, report to credit bureaus, suspend driver's licence, suspend other licences (hunting, fishing), seize lottery winnings, register a lien against real property. No court order required for most of these. Contempt is a separate remedy requiring a court application. Exam trap: payor has missed 3 payments — can FRO suspend their driver's licence without a court order?"
+            }
+          ]
+        },
+        {
+          "topic_id": "contempt",
+          "topic_heading": "Contempt of Court in Family Proceedings",
+          "subtopics": [
+            {
+              "subtopic_id": "contempt_family",
+              "subtopic_heading": "Contempt for Non-Compliance with Family Orders",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Family Law Rules, O. Reg. 114/99",
+              "key_sections": [
+                "r. 31(5)"
+              ],
+              "common_misconceptions": [
+                "Students think contempt is the first remedy to pursue for non-payment",
+                "Students forget the standard of proof for contempt is beyond a reasonable doubt"
+              ],
+              "notes_for_generation": "Contempt is available for wilful non-compliance with a court order. The standard of proof is beyond a reasonable doubt. Penalties: fine, imprisonment, community service. Courts prefer compliance-focused remedies before contempt. PR angle: lawyer who brings a contempt motion as a tactical weapon rather than a genuine enforcement measure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Family Law Procedure",
+      "chapter_slug": "ch11-procedure",
+      "lso_dtoc_ref": "Ch. 11",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "family_law_rules",
+          "topic_heading": "Family Law Rules — Procedure",
+          "subtopics": [
+            {
+              "subtopic_id": "conferences_flr",
+              "subtopic_heading": "Mandatory Conferences Under Family Law Rules",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Family Law Rules, O. Reg. 114/99",
+              "key_sections": [
+                "r. 17"
+              ],
+              "common_misconceptions": [
+                "Students confuse case conference, settlement conference, and trial management conference",
+                "Students forget conferences are mandatory before motions in most circumstances"
+              ],
+              "notes_for_generation": "Three types of conference: (1) case conference (first conference — identify issues, exchange information, set timelines), (2) settlement conference (attempt to settle; judge who hears it cannot preside at trial), (3) trial management conference (before trial — confirm readiness). Motions generally require a prior case conference unless urgent. PR angle: lawyer who brings a motion without a required conference."
+            },
+            {
+              "subtopic_id": "limitation_family",
+              "subtopic_heading": "Limitation Periods in Family Law",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
+              "key_sections": [
+                "s. 7(3)",
+                "s. 7(3.1)"
+              ],
+              "common_misconceptions": [
+                "Students apply the general 2-year Limitations Act period to equalization claims",
+                "Students forget the 2-year limitation from date of separation under s. 7(3)",
+                "Students forget the special 6-year rule for unmarried cohabitants"
+              ],
+              "notes_for_generation": "Family Law Act s. 7(3): an application for equalization must be brought within the earliest of: 2 years of separation, 6 years of the other spouse's death, or 2 years after a divorce. This limitation cannot be waived or extended by agreement. Exam trap: 3 years after separation with no equalization claim — is it too late?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "Tax Considerations in Family Law",
+      "chapter_slug": "ch12-tax",
+      "lso_dtoc_ref": "Ch. 12",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "support_tax",
+          "topic_heading": "Tax Treatment of Support Payments",
+          "subtopics": [
+            {
+              "subtopic_id": "spousal_support_tax",
+              "subtopic_heading": "Spousal Support — Deductible/Includable Treatment",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.)",
+              "key_sections": [
+                "s. 56(1)(b)",
+                "s. 60(b)"
+              ],
+              "common_misconceptions": [
+                "Students confuse spousal and child support tax treatment — child support is neither deductible nor includable",
+                "Students forget the payment must be periodic, not lump sum, to be deductible/includable"
+              ],
+              "notes_for_generation": "Periodic spousal support: deductible by payor (s. 60(b)), includable by recipient (s. 56(1)(b)). Lump sum support: neither deductible nor includable. Child support: NOT deductible by payor, NOT includable by recipient (post-1997 regime). PR angle: lawyer who structures support as lump sum without considering tax consequences."
+            },
+            {
+              "subtopic_id": "property_transfer_tax",
+              "subtopic_heading": "Property Transfers Between Spouses — Rollover",
+              "target_question_count": 3,
+              "minimum_question_count": 1,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.)",
+              "key_sections": [
+                "s. 73(1)"
+              ],
+              "common_misconceptions": [
+                "Students think all property transfers between spouses trigger capital gains",
+                "Students forget the s. 73(1) spousal rollover"
+              ],
+              "notes_for_generation": "Section 73(1): transfers of capital property between spouses or former spouses pursuant to a court order or written separation agreement occur at the transferor's adjusted cost base — no immediate capital gain. The recipient takes over the ACB and realizes the gain on eventual disposition. PR angle: lawyer who does not consider the deferred gain in advising the client on a property transfer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 13,
+      "chapter_title": "Cohabitation and Common-Law Property Rights",
+      "chapter_slug": "common-law-property",
+      "lso_dtoc_ref": "Family Law Act, ss.1(1), 29–33; Divorce Act, s.2(1)",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "common_law_rights",
+          "topic_heading": "Rights of Common-Law Spouses",
+          "subtopics": [
+            {
+              "subtopic_id": "definition_of_spouse_fla_vs_da",
+              "subtopic_heading": "Definition of Spouse — FLA s.1(1) vs Divorce Act s.2(1)",
+              "target_question_count": 4,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Family Law Act; Divorce Act",
+              "key_sections": [
+                "FLA s.1(1)",
+                "FLA s.29",
+                "DA s.2(1)"
+              ],
+              "common_misconceptions": [
+                "Students apply the NFP and equalization regime under Part I FLA to common-law couples — it does not apply; Part I applies only to married spouses.",
+                "For spousal support, FLA s.29 extends 'spouse' to include cohabitees of 3+ years or in a relationship of some permanence with a child.",
+                "The Divorce Act definition of 'spouse' (s.2(1)) includes only legally married spouses — common-law couples must use provincial legislation for support."
+              ],
+              "notes_for_generation": "Emphasise the bifurcated regime: married spouses get NFP/equalization + support; common-law spouses get support only (no automatic property sharing). Flag the 3-year cohabitation threshold in FLA s.29 and the 'relationship of some permanence' exception."
+            },
+            {
+              "subtopic_id": "unjust_enrichment_constructive_trust",
+              "subtopic_heading": "Unjust Enrichment and Constructive Trust for Common-Law Couples",
+              "target_question_count": 4,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Common Law (Kerr v Baranow, 2011 SCC 10)",
+              "key_sections": [
+                "Unjust enrichment elements",
+                "Remedial constructive trust",
+                "Joint family venture"
+              ],
+              "common_misconceptions": [
+                "Students confuse unjust enrichment (a remedy available to any party) with statutory equalization (married couples only).",
+                "The joint family venture doctrine from Kerr v Baranow means the claimant need not trace specific contributions to specific assets — overall economic integration is assessed.",
+                "A monetary award (not a property interest) is the default remedy; a constructive trust arises only where a monetary award is insufficient."
+              ],
+              "notes_for_generation": "Cover the three-part test for unjust enrichment (enrichment, corresponding deprivation, no juristic reason), the joint family venture concept from Kerr v Baranow, and the choice between monetary award and constructive trust. This is frequently tested as a trap distinguishing common-law from married-couple remedies."
+            },
+            {
+              "subtopic_id": "common_law_spousal_support_fla_s29",
+              "subtopic_heading": "Spousal Support for Common-Law Couples — FLA s.29",
+              "target_question_count": 4,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Family Law Act",
+              "key_sections": [
+                "FLA s.29",
+                "FLA s.30",
+                "FLA s.33(8)"
+              ],
+              "common_misconceptions": [
+                "Students think common-law spouses have identical support rights to married spouses — entitlement thresholds differ (3-year or child requirement vs marriage itself).",
+                "The Divorce Act does not apply to common-law couples; all support claims use Part III FLA.",
+                "Variation rules under s.37 FLA (material change in circumstances) apply equally to common-law support orders."
+              ],
+              "notes_for_generation": "Note the s.29 eligibility threshold, application of the same entitlement grounds as married spouses (s.33(8): compensatory, non-compensatory, contractual), SSAG applicability, and variation. Distinguish from child support obligations which attach regardless of cohabitation duration."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 14,
+      "chapter_title": "Pension Division and Support Security",
+      "chapter_slug": "pension-division",
+      "lso_dtoc_ref": "Family Law Act, ss.4(1), 10.1; Pension Benefits Act; Pension Benefits Division Act (federal)",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "pension_and_insurance",
+          "topic_heading": "Pension Valuation, Division, and Insurance Orders",
+          "subtopics": [
+            {
+              "subtopic_id": "pension_as_property_fla",
+              "subtopic_heading": "Pension as Property — FLA s.4(1) and Valuation",
+              "target_question_count": 4,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Family Law Act",
+              "key_sections": [
+                "FLA s.4(1)",
+                "FLA s.10.1",
+                "FLA s.18"
+              ],
+              "common_misconceptions": [
+                "Students forget that a pension is 'property' for NFP purposes even before the pension begins to vest.",
+                "Valuation date for the pension is the date of separation (valuation date), not the date of trial or retirement.",
+                "Only the portion of the pension accrued during the marriage (from date of marriage to valuation date) is included in NFP."
+              ],
+              "notes_for_generation": "Cover inclusion of pension in NFP, actuarial valuation at the valuation date, treatment of pre-marriage contributions as a deduction at date of marriage, and FLA s.10.1 ability to divide pension rather than pay an equalization lump sum."
+            },
+            {
+              "subtopic_id": "pension_division_order",
+              "subtopic_heading": "Pension Division Orders — FLA s.10.1 and Pension Benefits Act",
+              "target_question_count": 4,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Family Law Act; Pension Benefits Act, R.S.O. 1990, c.P.8",
+              "key_sections": [
+                "FLA s.10.1",
+                "Pension Benefits Act s.67.3",
+                "Pension Benefits Division Act (federal)"
+              ],
+              "common_misconceptions": [
+                "Students apply the Ontario Pension Benefits Act to federally regulated pensions — federal plans are divided under the federal Pension Benefits Division Act.",
+                "A pension division order can only be made by court order, not by domestic contract alone for registered plans.",
+                "Exam trap: splitting a pension is distinct from the equalization regime — a court may order pension division instead of or in addition to an equalization payment."
+              ],
+              "notes_for_generation": "Distinguish Ontario-regulated plans (Pension Benefits Act, s.67.3) from federally regulated plans (PBDA). Cover the mechanics of a division order, the maximum transferable amount, and the interaction with the equalization payment. Flag the requirement for the pension plan administrator's compliance."
+            },
+            {
+              "subtopic_id": "life_insurance_support_security",
+              "subtopic_heading": "Life Insurance as Security for Support — FLA s.34(1)(h)",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 1,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Family Law Act",
+              "key_sections": [
+                "FLA s.34(1)(h)",
+                "FLA s.34(4)"
+              ],
+              "common_misconceptions": [
+                "Students think a support order automatically creates a life insurance obligation — the court must explicitly order it under s.34(1)(h).",
+                "The order can require the payor to maintain insurance and irrevocably designate the recipient or children as beneficiary.",
+                "The obligation is coterminous with the support obligation — when support ends, the insurance obligation ends."
+              ],
+              "notes_for_generation": "Cover the court's power to order life insurance as security, the irrevocable beneficiary designation requirement, and the continuing obligation on the payor to maintain the policy. Flag the practical issue of proving the policy is in force."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 15,
+      "chapter_title": "International Child Abduction — Hague Convention",
+      "chapter_slug": "international-abduction",
+      "lso_dtoc_ref": "Children's Law Reform Act, ss.46–50; Hague Convention on Civil Aspects of International Child Abduction (1980)",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "hague_convention",
+          "topic_heading": "Wrongful Removal or Retention and Return Orders",
+          "subtopics": [
+            {
+              "subtopic_id": "wrongful_removal_retention",
+              "subtopic_heading": "Wrongful Removal or Retention — CLRA ss.46–50",
+              "target_question_count": 4,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Children's Law Reform Act, R.S.O. 1990, c.C.12",
+              "key_sections": [
+                "CLRA s.46",
+                "CLRA s.47",
+                "CLRA s.48",
+                "CLRA s.50"
+              ],
+              "common_misconceptions": [
+                "Students think 'wrongful removal' requires a court order to have been breached — it is defined by the Hague Convention as removal in violation of rights of custody, not necessarily a court order.",
+                "The Convention only applies where both countries are signatory states — removal to a non-Convention country requires common law remedies.",
+                "Habitual residence is a question of fact, not domicile — focus is on where the child was settled immediately before removal."
+              ],
+              "notes_for_generation": "Cover the definition of wrongful removal/retention under the Hague Convention, the 1-year rule for return (mandatory return unless 1 year has passed and child is settled), and the limited exceptions (grave risk under Art.13(b), child's objection, human rights/fundamental freedoms). Distinguish return orders from custody orders."
+            },
+            {
+              "subtopic_id": "habitual_residence_exceptions",
+              "subtopic_heading": "Habitual Residence and Exceptions to Return — Hague Convention Arts.3, 12, 13",
+              "target_question_count": 4,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Hague Convention (1980); Children's Law Reform Act",
+              "key_sections": [
+                "Hague Convention Art.3",
+                "Art.12",
+                "Art.13(a)",
+                "Art.13(b)"
+              ],
+              "common_misconceptions": [
+                "Students interpret the grave risk exception (Art.13(b)) broadly — courts interpret it narrowly; economic hardship or separation from the abducting parent is insufficient.",
+                "Art.13(a) — consent or acquiescence by the left-behind parent — must be established clearly; post-removal contact does not constitute acquiescence.",
+                "The mature child's objection under Art.13 is a factor, not a veto — the court retains discretion."
+              ],
+              "notes_for_generation": "Emphasise the narrow interpretation of exceptions, the difference between grave risk (Art.13(b)) requiring serious harm and mere unhappiness, and the discretion retained even where an exception is proved. Cover the significance of habitual residence as a factual determination."
+            },
+            {
+              "subtopic_id": "ontario_application_process",
+              "subtopic_heading": "Procedural Aspects of Ontario Hague Convention Applications",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 1,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Children's Law Reform Act; Family Law Rules",
+              "key_sections": [
+                "CLRA s.46",
+                "CLRA s.47(2)",
+                "Family Law Rules r.37.1"
+              ],
+              "common_misconceptions": [
+                "Students think Hague Convention applications go to the Superior Court — they do (not the OCJ), but the Central Authority for Ontario (Ministry of the Attorney General) must be notified.",
+                "The Central Authority does not make decisions — it assists in locating the child and transmitting applications.",
+                "Applications are governed by the Family Law Rules and are treated as urgent."
+              ],
+              "notes_for_generation": "Cover the Central Authority role, the Superior Court of Justice as the competent court, the urgent treatment of applications, and the evidentiary requirements. Flag that discovery and delays typical of family litigation are compressed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 16,
+      "chapter_title": "Grandparent and Third-Party Access",
+      "chapter_slug": "third-party-access",
+      "lso_dtoc_ref": "Children's Law Reform Act, ss.21(1), 24; Divorce Act, s.16(1)",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "third_party_access",
+          "topic_heading": "Non-Parent Applications for Contact",
+          "subtopics": [
+            {
+              "subtopic_id": "who_may_apply_clra_s21",
+              "subtopic_heading": "Who May Apply for Parenting Time or Decision-Making — CLRA s.21(1)",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 1,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Children's Law Reform Act",
+              "key_sections": [
+                "CLRA s.21(1)",
+                "CLRA s.24",
+                "Divorce Act s.16(1)"
+              ],
+              "common_misconceptions": [
+                "Students think grandparents have a presumptive right to access — there is no such presumption; they must bring an application and establish best interests.",
+                "Under the CLRA, 'any person' may apply for parenting time or decision-making responsibility — standing is broad.",
+                "Under the Divorce Act, third parties (including grandparents) may only apply with leave of the court under s.16(1)."
+              ],
+              "notes_for_generation": "Cover the standing rules under CLRA (any person) vs Divorce Act (leave required), the absence of a grandparent presumption, and the best interests test as the sole criterion. Flag the Divorce Act leave requirement as a trap."
+            },
+            {
+              "subtopic_id": "best_interests_third_party",
+              "subtopic_heading": "Best Interests Test Applied to Third-Party Applications",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 1,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Children's Law Reform Act; Divorce Act",
+              "key_sections": [
+                "CLRA s.24",
+                "Divorce Act s.16(3)",
+                "Chapman v Chapman"
+              ],
+              "common_misconceptions": [
+                "Students assume that an existing relationship between the grandparent and child automatically favours an access order — it is one factor among many, not determinative.",
+                "The court will consider the child's relationship with both parents and the risk that granting third-party access creates conflict that harms the child.",
+                "Chapman v Chapman (ONCA) held that a child's relationship with a grandparent, while valuable, does not override the custodial parent's right to make parenting decisions in the absence of harm."
+              ],
+              "notes_for_generation": "Apply the best interests factors from CLRA s.24 and DA s.16(3) to third-party access claims. Emphasise Chapman v Chapman: the threshold is not what is in the child's best interests in the abstract, but whether the grandparent's access is necessary for the child's welfare because denial would harm the child. Flag how this differs from parental access disputes."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

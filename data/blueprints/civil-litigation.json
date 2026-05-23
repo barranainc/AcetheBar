@@ -1,0 +1,1816 @@
+{
+  "subject_key": "civil_litigation",
+  "subject_label": "Civil Litigation",
+  "subject_code": "civ",
+  "lso_weight_percent": 25,
+  "total_target_questions": 250,
+  "total_minimum_questions": 135,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Overview of the Civil Justice System",
+      "chapter_slug": "ch01-overview",
+      "lso_dtoc_ref": "Ch. 1",
+      "priority_weight": 2,
+      "topics": [
+        {
+          "topic_id": "court_structure",
+          "topic_heading": "Court Structure and Jurisdiction",
+          "subtopics": [
+            {
+              "subtopic_id": "court_hierarchy",
+              "subtopic_heading": "Court Hierarchy and Jurisdiction",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Courts of Justice Act, R.S.O. 1990, c. C.43",
+              "key_sections": [
+                "s. 11",
+                "s. 19",
+                "s. 21",
+                "s. 38"
+              ],
+              "common_misconceptions": [
+                "Students confuse Divisional Court and Court of Appeal jurisdiction",
+                "Students forget Superior Court of Justice has unlimited civil jurisdiction"
+              ],
+              "notes_for_generation": "Focus on which court hears what: SCJ (unlimited), Div Ct (appellate + judicial review), ONCA (appeals from SCJ), Small Claims (max $35,000 as of 2020 amendments). Test the monetary thresholds and the distinction between inherent and statutory jurisdiction."
+            },
+            {
+              "subtopic_id": "venue_and_transfer",
+              "subtopic_heading": "Venue and Transfer of Proceedings",
+              "target_question_count": 3,
+              "minimum_question_count": 1,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 2,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 13.1.02",
+                "r. 46.03"
+              ],
+              "common_misconceptions": [
+                "Students confuse venue (where filed) with jurisdiction (authority to hear)"
+              ],
+              "notes_for_generation": "Questions should test when a proceeding can be transferred to another region, and what convenience of parties means. Relatively low frequency on the real exam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Limitation Periods",
+      "chapter_slug": "ch02-limitations",
+      "lso_dtoc_ref": "Ch. 2",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "basic_limitation",
+          "topic_heading": "Basic Limitation Period",
+          "subtopics": [
+            {
+              "subtopic_id": "two_year_period",
+              "subtopic_heading": "The Basic Two-Year Limitation Period",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B",
+              "key_sections": [
+                "s. 4",
+                "s. 5(1)",
+                "s. 5(2)"
+              ],
+              "common_misconceptions": [
+                "Students think the period runs from the date of the act/omission rather than the date of discovery",
+                "Students forget that discoverability is an objective test"
+              ],
+              "notes_for_generation": "Core topic. The s. 5 discoverability test is the most frequently tested limitation issue. Build fact patterns where the plaintiff learns of the claim after the act. Exam trap: plaintiff subjectively knew but objective discovery was earlier."
+            },
+            {
+              "subtopic_id": "discoverability",
+              "subtopic_heading": "Discoverability — When a Claim is Discovered",
+              "target_question_count": 6,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B",
+              "key_sections": [
+                "s. 5(1)(a)",
+                "s. 5(1)(b)",
+                "s. 5(2)"
+              ],
+              "common_misconceptions": [
+                "Students apply a subjective standard instead of the s. 5(1)(b) objective reasonable person test",
+                "Students confuse the date of discovering injury with the date of discovering the cause of action against the defendant"
+              ],
+              "notes_for_generation": "Discoverability is the exam centrepiece for limitations. Questions should vary the fact: when did plaintiff know the act occurred? When did they know it caused injury? When did they know legal proceedings were appropriate? Use s. 5(1)(a)(i)-(iv) structure explicitly."
+            },
+            {
+              "subtopic_id": "ultimate_limitation",
+              "subtopic_heading": "Ultimate Limitation Period — 15 Years",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B",
+              "key_sections": [
+                "s. 15(1)",
+                "s. 15(2)",
+                "s. 15(4)"
+              ],
+              "common_misconceptions": [
+                "Students forget the 15-year ultimate period runs from the act/omission, not discovery",
+                "Students think the ultimate period can be suspended by wilful concealment"
+              ],
+              "notes_for_generation": "Test the interplay: if the 2-year clock has not started (no discovery) but the act was >15 years ago, the claim is barred by s. 15. Wilful concealment only extends the 2-year period, not the 15-year period."
+            }
+          ]
+        },
+        {
+          "topic_id": "special_limitations",
+          "topic_heading": "Special and Modified Limitation Periods",
+          "subtopics": [
+            {
+              "subtopic_id": "suspension_extension",
+              "subtopic_heading": "Suspension and Extension of Limitation Periods",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B",
+              "key_sections": [
+                "s. 6",
+                "s. 7",
+                "s. 10",
+                "s. 11",
+                "s. 12"
+              ],
+              "common_misconceptions": [
+                "Students forget minors and incapable persons have suspended limitation periods",
+                "Students think suspension permanently resets the clock rather than pausing it"
+              ],
+              "notes_for_generation": "Questions should cover: minors (s. 6), incapable persons (s. 7), wilful concealment (s. 10, which only suspends the 2-year period). The period resumes when the person regains capacity or the concealment is discovered."
+            },
+            {
+              "subtopic_id": "no_limitation_periods",
+              "subtopic_heading": "Claims with No Limitation Period",
+              "target_question_count": 3,
+              "minimum_question_count": 1,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B",
+              "key_sections": [
+                "s. 16(1)"
+              ],
+              "common_misconceptions": [
+                "Students apply a limitation period to enforcement of court orders",
+                "Students forget s. 16 exemptions"
+              ],
+              "notes_for_generation": "Key exemptions: enforcement of court orders (no limitation), sexual assault claims against minors (no limitation under s. 16(1)(h.2)). Test in context of a client asking whether they can still sue."
+            },
+            {
+              "subtopic_id": "agreement_modification",
+              "subtopic_heading": "Agreement to Vary Limitation Periods",
+              "target_question_count": 3,
+              "minimum_question_count": 1,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B",
+              "key_sections": [
+                "s. 22"
+              ],
+              "common_misconceptions": [
+                "Students think parties can always contractually eliminate limitation periods",
+                "Students forget consumer agreements cannot shorten limitation periods"
+              ],
+              "notes_for_generation": "Section 22 allows parties to vary limitation periods by agreement, but consumer agreements cannot shorten them. PR angle: a lawyer who advises a client to agree to a shortened limitation period without disclosure."
+            },
+            {
+              "subtopic_id": "demand_obligations",
+              "subtopic_heading": "Limitation Periods for Demand Obligations",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B",
+              "key_sections": [
+                "s. 5(3)",
+                "s. 5(4)"
+              ],
+              "common_misconceptions": [
+                "Students think the 2-year period runs from when the obligation arose, not from the demand",
+                "Students confuse when a demand obligation is 'discovered'"
+              ],
+              "notes_for_generation": "Demand obligations: the claim is discovered on the day demand is made (if the demand is a condition precedent). Test: loan payable on demand — when does the limitation period start?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Commencement of Proceedings",
+      "chapter_slug": "ch03-commencement",
+      "lso_dtoc_ref": "Ch. 3",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "originating_process",
+          "topic_heading": "Originating Process",
+          "subtopics": [
+            {
+              "subtopic_id": "statement_of_claim",
+              "subtopic_heading": "Statement of Claim — Form and Issuance",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 14.01",
+                "r. 14.03",
+                "r. 25.06"
+              ],
+              "common_misconceptions": [
+                "Students think filing commences the action rather than issuing",
+                "Students confuse Form 14A (claim) with Form 14B (notice of action)"
+              ],
+              "notes_for_generation": "An action is commenced by issuing (not filing) a statement of claim. The court seals it on issuance. Test: what must be included, the general heading, and when the clock on the limitation period is stopped (date of issuance)."
+            },
+            {
+              "subtopic_id": "notice_of_action",
+              "subtopic_heading": "Notice of Action",
+              "target_question_count": 3,
+              "minimum_question_count": 1,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 14.03",
+                "r. 14.08"
+              ],
+              "common_misconceptions": [
+                "Students think the notice of action is the full claim",
+                "Students forget the 30-day deadline to serve the statement of claim after issuing notice"
+              ],
+              "notes_for_generation": "Notice of action is used when time is running out — it stops the limitation period while you prepare the full claim. Must serve statement of claim within 30 days of issuing notice."
+            },
+            {
+              "subtopic_id": "application_procedure",
+              "subtopic_heading": "Application vs. Action",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 14.05(3)",
+                "r. 38.01",
+                "r. 38.10"
+              ],
+              "common_misconceptions": [
+                "Students default to action when application is the correct procedure",
+                "Students think all family law matters proceed by application"
+              ],
+              "notes_for_generation": "Applications are used where: the relief sought is purely a question of law, consent of the parties exists, or r. 14.05(3) applies. Fact pattern: client wants to interpret a trust document — is this an action or application?"
+            }
+          ]
+        },
+        {
+          "topic_id": "parties",
+          "topic_heading": "Parties to the Proceeding",
+          "subtopics": [
+            {
+              "subtopic_id": "capacity_minors",
+              "subtopic_heading": "Capacity — Minors and Litigation Guardians",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 7.01",
+                "r. 7.02",
+                "r. 7.03",
+                "r. 7.04",
+                "r. 7.09"
+              ],
+              "common_misconceptions": [
+                "Students think a minor can sue directly without a litigation guardian",
+                "Students forget that a settlement on behalf of a minor requires court approval"
+              ],
+              "notes_for_generation": "A person under 18 must have a litigation guardian. Any settlement of a minor's claim requires court approval. PR angle: a lawyer who settles a minor's claim without court approval."
+            },
+            {
+              "subtopic_id": "adding_removing_parties",
+              "subtopic_heading": "Adding, Removing, and Substituting Parties",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 5.01",
+                "r. 5.02",
+                "r. 5.04"
+              ],
+              "common_misconceptions": [
+                "Students think parties can be added at any time without limitation concerns",
+                "Students confuse r. 5.04 amendment with r. 26.01 amendment of pleadings"
+              ],
+              "notes_for_generation": "Test when a party can be added after a limitation period expires — the court has discretion but must consider prejudice. Exam trap: adding a party after the limitation period."
+            },
+            {
+              "subtopic_id": "third_party_claims",
+              "subtopic_heading": "Third Party Claims (Contribution and Indemnity)",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 29.01",
+                "r. 29.02",
+                "r. 29.03"
+              ],
+              "common_misconceptions": [
+                "Students think the third party is added as a co-defendant",
+                "Students confuse third party claim (contribution) with crossclaim (co-defendants)"
+              ],
+              "notes_for_generation": "Third party claims arise when a defendant claims contribution or indemnity from a non-party. Distinguish from crossclaim (between existing defendants). Test: who uses each mechanism and what is required for leave."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Service of Documents",
+      "chapter_slug": "ch04-service",
+      "lso_dtoc_ref": "Ch. 4",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "service_methods",
+          "topic_heading": "Methods of Service",
+          "subtopics": [
+            {
+              "subtopic_id": "personal_service",
+              "subtopic_heading": "Personal Service — Who and How",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 16.02",
+                "r. 16.03"
+              ],
+              "common_misconceptions": [
+                "Students think any adult can be served at the address without leaving it with a person",
+                "Students forget corporate service must be on an officer or director"
+              ],
+              "notes_for_generation": "Personal service on an individual: leave with the person. On a corporation: on an officer, director, or agent. Exam trap: process server leaves document in mailbox — this is not personal service."
+            },
+            {
+              "subtopic_id": "alternatives_personal",
+              "subtopic_heading": "Alternatives to Personal Service",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 16.03"
+              ],
+              "common_misconceptions": [
+                "Students confuse service at place of business with personal service",
+                "Students think email is automatically an acceptable alternative to personal service without consent"
+              ],
+              "notes_for_generation": "Alternatives include: leaving at place of business with apparent manager, service on lawyer accepting service, mail to last known address. Test which alternative applies in a specific scenario."
+            },
+            {
+              "subtopic_id": "substituted_service",
+              "subtopic_heading": "Substituted Service and Dispensing with Service",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 16.04"
+              ],
+              "common_misconceptions": [
+                "Students think substituted service is available as of right",
+                "Students forget that the court must order substituted service — it is not self-executing"
+              ],
+              "notes_for_generation": "Requires court order. Must show: personal service has been attempted and is impractical, AND the proposed method is likely to bring the proceeding to the defendant's attention. PR angle: lawyer who proceeds without substituted service order."
+            },
+            {
+              "subtopic_id": "service_outside_ontario",
+              "subtopic_heading": "Service Outside Ontario",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 17.02",
+                "r. 17.06"
+              ],
+              "common_misconceptions": [
+                "Students think leave of the court is always required for service ex juris",
+                "Students confuse the grounds for service without leave (r. 17.02) with those requiring leave"
+              ],
+              "notes_for_generation": "Service outside Ontario without leave: r. 17.02 lists specific grounds (contract made in Ontario, tort committed in Ontario, etc.). Service with leave: r. 17.06 — where no r. 17.02 ground exists. Test: identify which rule applies to a cross-border scenario."
+            },
+            {
+              "subtopic_id": "proof_of_service",
+              "subtopic_heading": "Proof of Service and Affidavit of Service",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 16.09",
+                "r. 16.10"
+              ],
+              "common_misconceptions": [
+                "Students think verbal confirmation of service is sufficient",
+                "Students forget the specific content required in an affidavit of service"
+              ],
+              "notes_for_generation": "Affidavit of service must describe who was served, where, when, and how. PR angle: a lawyer who certifies service occurred when it did not."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Pleadings",
+      "chapter_slug": "ch05-pleadings",
+      "lso_dtoc_ref": "Ch. 5",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "pleading_rules",
+          "topic_heading": "Rules of Pleading",
+          "subtopics": [
+            {
+              "subtopic_id": "pleading_facts",
+              "subtopic_heading": "Pleading Material Facts (Not Evidence or Law)",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 25.06(1)",
+                "r. 25.06(2)",
+                "r. 25.06(8)"
+              ],
+              "common_misconceptions": [
+                "Students think pleadings should include evidence and legal submissions",
+                "Students confuse material facts with particulars"
+              ],
+              "notes_for_generation": "Pleadings must contain facts, not evidence, not law, not the form of order sought. Test: which of these statements belongs in a pleading vs. an affidavit vs. a factum? PR angle: lawyer who embeds inadmissible evidence in pleadings to gain tactical advantage."
+            },
+            {
+              "subtopic_id": "statement_of_defence",
+              "subtopic_heading": "Statement of Defence — Time and Content",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 18.01",
+                "r. 18.02",
+                "r. 25.07"
+              ],
+              "common_misconceptions": [
+                "Students forget the 20-day deadline to deliver defence (after service)",
+                "Students think silence on an allegation is deemed denial — it is actually deemed admission"
+              ],
+              "notes_for_generation": "Defence must be delivered within 20 days of service. Allegations not specifically denied are deemed admitted. Exam trap: defendant says nothing about an allegation — this is an admission. Test the distinction between a denial and an admission."
+            },
+            {
+              "subtopic_id": "counterclaim_crossclaim",
+              "subtopic_heading": "Counterclaim, Crossclaim, and Reply",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 27.01",
+                "r. 28.01",
+                "r. 25.08"
+              ],
+              "common_misconceptions": [
+                "Students confuse counterclaim (against plaintiff) with crossclaim (against co-defendant)",
+                "Students think a reply is mandatory"
+              ],
+              "notes_for_generation": "Counterclaim: defendant claims against plaintiff. Crossclaim: defendant claims against co-defendant (must be related to the main action). Reply: plaintiff responds to defence — only required if new matter is raised. Test: who uses what and when."
+            },
+            {
+              "subtopic_id": "amendment_pleadings",
+              "subtopic_heading": "Amendment of Pleadings",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 26.01",
+                "r. 26.02"
+              ],
+              "common_misconceptions": [
+                "Students think amendments are always allowed as of right",
+                "Students forget that amendments after trial begins require leave"
+              ],
+              "notes_for_generation": "Before the close of pleadings: amendment without leave. After close: leave of court required — court considers prejudice to the other party. Exam trap: client asks to amend pleading on day 3 of trial. PR angle: lawyer who amends to add a new limitation-expired claim."
+            },
+            {
+              "subtopic_id": "striking_pleadings",
+              "subtopic_heading": "Striking Out Pleadings",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 21.01(1)(b)",
+                "r. 25.11"
+              ],
+              "common_misconceptions": [
+                "Students think striking a pleading requires evidence of bad faith",
+                "Students confuse r. 21.01 (no cause of action) with r. 25.11 (scandalous/prejudicial)"
+              ],
+              "notes_for_generation": "Rule 21.01(1)(b): motion to strike for failing to disclose a reasonable cause of action — no evidence is filed, pleading is read as if true. Rule 25.11: strike for being scandalous, frivolous, or vexatious. Test: which rule applies when? What is the standard?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Motions",
+      "chapter_slug": "ch06-motions",
+      "lso_dtoc_ref": "Ch. 6",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "motion_procedure",
+          "topic_heading": "Motion Procedure",
+          "subtopics": [
+            {
+              "subtopic_id": "motion_notice_evidence",
+              "subtopic_heading": "Notice of Motion and Supporting Evidence",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 37.03",
+                "r. 37.07",
+                "r. 39.01"
+              ],
+              "common_misconceptions": [
+                "Students forget the specific notice period requirements for motions",
+                "Students think any evidence can be filed on a motion without an affidavit"
+              ],
+              "notes_for_generation": "Motion must be made on notice — served at least 4 days before the hearing (r. 37.07). Evidence on motions: by affidavit, agreed statement of facts, or oral evidence if ordered. Test: which type of evidence is appropriate for a particular motion?"
+            },
+            {
+              "subtopic_id": "without_notice_motions",
+              "subtopic_heading": "Without Notice Motions (Ex Parte)",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 37.07(10)",
+                "r. 37.07(11)"
+              ],
+              "common_misconceptions": [
+                "Students think ex parte relief is discretionary in all cases",
+                "Students forget the obligation to disclose material facts when bringing ex parte motion"
+              ],
+              "notes_for_generation": "Ex parte relief available only where urgency or where notice would defeat the purpose (e.g., Anton Piller orders). Full disclosure of all material facts — including those favourable to the other side — is mandatory. PR angle: lawyer who withholds adverse facts from a without-notice motion."
+            },
+            {
+              "subtopic_id": "interlocutory_injunctions",
+              "subtopic_heading": "Interlocutory Injunctions — RJR-MacDonald Test",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 40.01"
+              ],
+              "common_misconceptions": [
+                "Students confuse the three-part test: they state it as 'prima facie case' rather than 'serious question to be tried'",
+                "Students think balance of convenience is the primary factor",
+                "Students forget irreparable harm must be established before balance of convenience"
+              ],
+              "notes_for_generation": "The RJR-MacDonald test: (1) serious question to be tried, (2) irreparable harm if injunction not granted, (3) balance of convenience. Exam trap: 'prima facie case' was rejected — the threshold is 'serious question to be tried' (low). Test all three elements systematically."
+            },
+            {
+              "subtopic_id": "motion_costs",
+              "subtopic_heading": "Costs on Motions",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 57.03"
+              ],
+              "common_misconceptions": [
+                "Students think the successful party always receives substantial indemnity costs",
+                "Students forget the court has discretion to award costs in any amount"
+              ],
+              "notes_for_generation": "On a motion, costs follow the event unless the court orders otherwise. Substantial indemnity where a party acted unreasonably. Test: scenario where the losing party has a partial success — who pays?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Summary Judgment",
+      "chapter_slug": "ch07-summary-judgment",
+      "lso_dtoc_ref": "Ch. 7",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "summary_judgment_test",
+          "topic_heading": "The Summary Judgment Test",
+          "subtopics": [
+            {
+              "subtopic_id": "genuine_issue_test",
+              "subtopic_heading": "No Genuine Issue Requiring a Trial",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 20.04(1)",
+                "r. 20.04(2)",
+                "r. 20.04(2.1)",
+                "r. 20.04(2.2)"
+              ],
+              "common_misconceptions": [
+                "Students think summary judgment is only available if there is no factual dispute at all",
+                "Students forget that the court can weigh evidence and draw inferences on a summary judgment motion",
+                "Students confuse the pre-Hryniak test (triable issue) with the post-Hryniak test"
+              ],
+              "notes_for_generation": "Post-Hryniak: the court must ask whether summary judgment is a 'proportionate, more expeditious and less expensive means to achieve a just result'. The court may weigh evidence, assess credibility, draw inferences (r. 20.04(2.1)-(2.2)). Exam trap: 'no triable issue' is the old test — the new test is 'no genuine issue requiring a trial'."
+            },
+            {
+              "subtopic_id": "summary_judgment_evidence",
+              "subtopic_heading": "Evidence on Summary Judgment Motion",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 20.02(1)",
+                "r. 20.02(2)",
+                "r. 20.04(2.2)"
+              ],
+              "common_misconceptions": [
+                "Students think the responding party can rely on pleadings alone",
+                "Students forget the 'best foot forward' obligation on both parties"
+              ],
+              "notes_for_generation": "Responding party cannot rest on pleadings — must set out specific facts showing a genuine issue (r. 20.02(2)). Both parties must put their 'best foot forward'. The court may now order oral evidence (mini-trial). PR angle: lawyer who advises client not to file any evidence."
+            },
+            {
+              "subtopic_id": "summary_judgment_costs",
+              "subtopic_heading": "Cost Consequences on Summary Judgment",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 1,
+                "hard": 1,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 20.06"
+              ],
+              "common_misconceptions": [
+                "Students think costs always follow the event on summary judgment",
+                "Students underestimate the risk of substantial indemnity costs"
+              ],
+              "notes_for_generation": "Rule 20.06: court may award substantial indemnity costs if the motion was brought or opposed unreasonably. Exam trap: party brings a frivolous summary judgment motion — what costs are available against them? PR angle: lawyer who advises bringing a clearly losing summary judgment motion."
+            },
+            {
+              "subtopic_id": "partial_summary_judgment",
+              "subtopic_heading": "Partial Summary Judgment",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 20.04(3)"
+              ],
+              "common_misconceptions": [
+                "Students think summary judgment must dispose of the entire claim",
+                "Students forget that partial summary judgment can increase costs and delay"
+              ],
+              "notes_for_generation": "Court may grant summary judgment on part of a claim or defence. Post-Baywood/Toth: courts are cautious about partial summary judgment where it fragments the proceeding. Test: when is partial summary judgment appropriate vs. when will the court decline?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Documentary Discovery",
+      "chapter_slug": "ch08-documentary-discovery",
+      "lso_dtoc_ref": "Ch. 8",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "affidavit_of_documents",
+          "topic_heading": "Affidavit of Documents",
+          "subtopics": [
+            {
+              "subtopic_id": "aod_contents",
+              "subtopic_heading": "Contents and Form of Affidavit of Documents",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 30.03",
+                "r. 30.03(2)"
+              ],
+              "common_misconceptions": [
+                "Students think only documents the party relies on must be disclosed",
+                "Students forget that Schedule B lists relevant documents being withheld on privilege"
+              ],
+              "notes_for_generation": "Three schedules: A (producible documents), B (relevant but privileged — must list them), C (formerly in possession but no longer). PR angle: lawyer who omits Schedule B, withholding the existence of privileged documents. The obligation is to disclose existence, not necessarily content."
+            },
+            {
+              "subtopic_id": "solicitor_client_privilege",
+              "subtopic_heading": "Solicitor-Client Privilege in Discovery",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 30.03(2)",
+                "r. 30.09"
+              ],
+              "common_misconceptions": [
+                "Students confuse solicitor-client privilege (permanent, substantive) with litigation privilege (temporary, purpose-based)",
+                "Students think in-house counsel communications are automatically privileged",
+                "Students forget that privilege can be waived by conduct"
+              ],
+              "notes_for_generation": "Solicitor-client privilege: confidential communications for the purpose of obtaining legal advice. Permanent. Litigation privilege: dominant purpose of litigation. Temporary — expires when litigation ends. Exam trap: document sent from client to lawyer for non-legal advice — is it privileged? PR angle: lawyer who waives privilege inadvertently."
+            },
+            {
+              "subtopic_id": "litigation_privilege",
+              "subtopic_heading": "Litigation Privilege — Dominant Purpose Test",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 30.03(2)"
+              ],
+              "common_misconceptions": [
+                "Students think litigation privilege applies whenever litigation is ongoing",
+                "Students confuse dominant purpose with sole purpose"
+              ],
+              "notes_for_generation": "Dominant purpose test: the primary (dominant) purpose of creating the document must be for use in litigation. The document need not have been created solely for litigation. Test: investigation report prepared by employer — is dominant purpose HR or anticipated litigation?"
+            },
+            {
+              "subtopic_id": "implied_undertaking",
+              "subtopic_heading": "Implied Undertaking Rule",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 30.1.01"
+              ],
+              "common_misconceptions": [
+                "Students think discovered documents can be freely used in other proceedings",
+                "Students forget the rule applies to examinations for discovery transcripts as well"
+              ],
+              "notes_for_generation": "Documents and information obtained through discovery can only be used for purposes of the litigation in which they were produced. Using them in another proceeding without consent or court order is a breach of the implied undertaking. PR angle: lawyer who shares discovery documents with a client who is in a related proceeding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Examination for Discovery",
+      "chapter_slug": "ch09-examination-discovery",
+      "lso_dtoc_ref": "Ch. 9",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "discovery_scope",
+          "topic_heading": "Scope of Examination for Discovery",
+          "subtopics": [
+            {
+              "subtopic_id": "scope_of_examination",
+              "subtopic_heading": "Scope — Relevance to Any Matter in Issue",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 31.06(1)",
+                "r. 31.06(2)",
+                "r. 31.06(3)"
+              ],
+              "common_misconceptions": [
+                "Students think discovery is limited to facts directly pleaded",
+                "Students think discovery is unlimited — they forget the relevance requirement"
+              ],
+              "notes_for_generation": "Rule 31.06(1): a party may be examined on any matter relevant to any matter in issue. Broader than pleadings, bounded by relevance. Test: is an employment record from 5 years ago relevant in a wrongful dismissal action?"
+            },
+            {
+              "subtopic_id": "discovery_of_corporations",
+              "subtopic_heading": "Discovery of Corporations — Selecting the Examining Officer",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 31.03(2)",
+                "r. 31.03(3)"
+              ],
+              "common_misconceptions": [
+                "Students think the opposing party chooses which officer of the corporation to examine",
+                "Students forget the corporation can be required to answer through additional representatives"
+              ],
+              "notes_for_generation": "The examining party selects which officer, director, or employee of the corporation to examine. If the first representative cannot answer, the corporation must produce another. Test: defendant corporation sends a junior employee who knows nothing — what can plaintiff do?"
+            },
+            {
+              "subtopic_id": "refusals_undertakings",
+              "subtopic_heading": "Refusals and Undertakings at Discovery",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 31.07",
+                "r. 31.08"
+              ],
+              "common_misconceptions": [
+                "Students think refusals can be justified by claiming the information is irrelevant without more",
+                "Students forget undertakings must be answered before motions to compel are required"
+              ],
+              "notes_for_generation": "Refusals: the refusing party must give a reason. Undertakings: promises to provide information later. Both are tracked in a 'refusals and undertakings chart'. Motion to compel answers: if refusals are unjustified, the court orders answers. Exam trap: examiner accepts a refusal without objecting — waiver of the question?"
+            },
+            {
+              "subtopic_id": "use_of_discovery_at_trial",
+              "subtopic_heading": "Use of Discovery Evidence at Trial",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 31.11"
+              ],
+              "common_misconceptions": [
+                "Students think the entire transcript can be read in as evidence",
+                "Students confuse contradicting a witness with adopting prior testimony"
+              ],
+              "notes_for_generation": "A party's own discovery evidence may be used against them at trial (admission). May also be used to contradict or impeach the witness. Entire transcript may not be read in — must be used for specific purposes. Test: plaintiff's lawyer wants to read in the defendant's discovery answers — what are the rules?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Pre-Trial Proceedings",
+      "chapter_slug": "ch10-pretrial",
+      "lso_dtoc_ref": "Ch. 10",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "offers_to_settle",
+          "topic_heading": "Offers to Settle — Rule 49",
+          "subtopics": [
+            {
+              "subtopic_id": "offer_consequences",
+              "subtopic_heading": "Cost Consequences of Offers to Settle",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 49.01",
+                "r. 49.10(1)",
+                "r. 49.10(2)"
+              ],
+              "common_misconceptions": [
+                "Students confuse plaintiff's offer consequence with defendant's offer consequence",
+                "Students forget the offer must be served at least 7 days before trial to trigger Rule 49",
+                "Students think any offer triggers cost consequences"
+              ],
+              "notes_for_generation": "Plaintiff's offer: if plaintiff obtains judgment as favourable or more favourable than its offer, plaintiff gets substantial indemnity costs from the date of the offer. Defendant's offer: if plaintiff obtains judgment less favourable than defendant's offer, plaintiff gets partial indemnity costs to offer date, defendant gets partial indemnity after. Offer must be open for at least 7 days before trial. PR angle: lawyer who fails to advise client of Rule 49 implications."
+            },
+            {
+              "subtopic_id": "pretrial_conference",
+              "subtopic_heading": "Pre-Trial Conference",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 50.01",
+                "r. 50.02",
+                "r. 50.05"
+              ],
+              "common_misconceptions": [
+                "Students think the pre-trial conference judge can preside at trial",
+                "Students forget pre-trial conference is mandatory before trial"
+              ],
+              "notes_for_generation": "Pre-trial conference is mandatory. The pre-trial judge cannot preside at trial. May include attempts at settlement, identification of issues, clarification of positions. PR angle: lawyer who attends pre-trial unprepared."
+            }
+          ]
+        },
+        {
+          "topic_id": "dismissal_delay",
+          "topic_heading": "Dismissal for Delay and Setting Down for Trial",
+          "subtopics": [
+            {
+              "subtopic_id": "dismissal_delay",
+              "subtopic_heading": "Dismissal for Delay (Rule 24)",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 24.01",
+                "r. 24.02"
+              ],
+              "common_misconceptions": [
+                "Students think the court must dismiss once the time has elapsed",
+                "Students forget the plaintiff can explain the delay to avoid dismissal"
+              ],
+              "notes_for_generation": "A defendant may move to dismiss where the plaintiff has not set the action down for trial within two years. Plaintiff can rebut by showing no prejudice to defendant and a reasonable explanation for delay. PR angle: lawyer who misses deadline to set down due to disorganization."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Trial",
+      "chapter_slug": "ch11-trial",
+      "lso_dtoc_ref": "Ch. 11",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "trial_procedure",
+          "topic_heading": "Trial Procedure",
+          "subtopics": [
+            {
+              "subtopic_id": "jury_selection",
+              "subtopic_heading": "Jury Selection and Peremptory Challenges",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Juries Act, R.S.O. 1990, c. J.3",
+              "key_sections": [
+                "s. 12",
+                "s. 14"
+              ],
+              "common_misconceptions": [
+                "Students confuse challenge for cause (grounds required) with peremptory challenge (no reason needed)",
+                "Students forget peremptory challenges were significantly curtailed in criminal but not in civil"
+              ],
+              "notes_for_generation": "In civil proceedings: parties have peremptory challenges (no reason required) and challenges for cause (must establish grounds). Test the distinction and the grounds for challenge for cause in a civil context."
+            },
+            {
+              "subtopic_id": "order_of_proceedings",
+              "subtopic_heading": "Order of Proceedings at Civil Trial",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 52.01",
+                "r. 52.03",
+                "r. 52.07"
+              ],
+              "common_misconceptions": [
+                "Students confuse the order of opening and closing statements",
+                "Students forget that the plaintiff bears the burden of proof — they open first"
+              ],
+              "notes_for_generation": "Plaintiff opens, presents evidence, closes. Defendant opens (optional), presents evidence, closes. Plaintiff may reply. Test: if defendant concedes liability and only contests damages, does the order of proceedings change?"
+            },
+            {
+              "subtopic_id": "re_examination",
+              "subtopic_heading": "Examination, Cross-Examination, and Re-Examination",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 53.01"
+              ],
+              "common_misconceptions": [
+                "Students think re-examination can raise new issues not covered in cross-examination",
+                "Students forget leading questions are not permitted on examination-in-chief"
+              ],
+              "notes_for_generation": "Re-examination is limited to matters arising from cross-examination — no new issues. Leading questions: permitted on cross-examination, not on examination-in-chief. PR angle: lawyer who uses re-examination to introduce new evidence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "Costs",
+      "chapter_slug": "ch12-costs",
+      "lso_dtoc_ref": "Ch. 12",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "costs_principles",
+          "topic_heading": "Principles Governing Costs",
+          "subtopics": [
+            {
+              "subtopic_id": "costs_follow_event",
+              "subtopic_heading": "Costs Follow the Event",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 57.01(1)",
+                "r. 57.01(2)"
+              ],
+              "common_misconceptions": [
+                "Students think costs always follow the event with no exception",
+                "Students forget the court has broad discretion under r. 57.01"
+              ],
+              "notes_for_generation": "General rule: the unsuccessful party pays. However, the court has wide discretion. Factors: result of the proceeding, conduct, whether the issues were unnecessarily multiplied. PR angle: where a lawyer's conduct is a factor in a costs award."
+            },
+            {
+              "subtopic_id": "partial_vs_substantial",
+              "subtopic_heading": "Partial Indemnity vs. Substantial Indemnity Costs",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 57.01(3)",
+                "r. 57.01(4)"
+              ],
+              "common_misconceptions": [
+                "Students confuse partial indemnity (roughly 60% of actual costs) with substantial indemnity (roughly 80-90%)",
+                "Students think substantial indemnity is only awarded for fraud or bad faith"
+              ],
+              "notes_for_generation": "Partial indemnity: the default. Substantial indemnity: awarded where conduct is unreasonable, scandalous, or involves Rule 49 consequences. Exam trap: 'solicitor-client costs' = full indemnity — the most punitive. Only awarded for very serious misconduct. PR angle: lawyer's conduct that attracts substantial indemnity costs against client."
+            },
+            {
+              "subtopic_id": "costs_against_lawyers",
+              "subtopic_heading": "Costs Awards Against Lawyers Personally",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Courts of Justice Act, R.S.O. 1990, c. C.43",
+              "key_sections": [
+                "s. 131"
+              ],
+              "common_misconceptions": [
+                "Students think costs against lawyers personally require a separate application",
+                "Students forget the court has jurisdiction to award costs against a lawyer on its own motion"
+              ],
+              "notes_for_generation": "Under s. 131 CJA and r. 57.07, the court may award costs against a lawyer personally where the lawyer caused costs to be incurred unnecessarily through delay, bad faith, or failure to comply with the rules. PR angle: central — a lawyer's professional obligation to clients not to expose them to unnecessary costs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 13,
+      "chapter_title": "Appeals",
+      "chapter_slug": "ch13-appeals",
+      "lso_dtoc_ref": "Ch. 13",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "appeal_routes",
+          "topic_heading": "Appeal Routes and Time Limits",
+          "subtopics": [
+            {
+              "subtopic_id": "where_appeals_go",
+              "subtopic_heading": "Where Appeals Go: SCJ → Div Ct vs. SCJ → ONCA",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Courts of Justice Act, R.S.O. 1990, c. C.43",
+              "key_sections": [
+                "s. 19(1)",
+                "s. 6(1)(b)"
+              ],
+              "common_misconceptions": [
+                "Students think all SCJ decisions appeal to the Court of Appeal",
+                "Students confuse interlocutory vs. final order distinction for appeal routes"
+              ],
+              "notes_for_generation": "Final orders from SCJ go to Court of Appeal. Interlocutory orders from SCJ go to Divisional Court (with leave). Exam trap: is an order granting or refusing summary judgment interlocutory or final? It is final — goes to Court of Appeal. This is a major exam trap."
+            },
+            {
+              "subtopic_id": "time_to_appeal",
+              "subtopic_heading": "Time Limits for Filing and Serving Notice of Appeal",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 61.04(1)",
+                "r. 61.09(1)"
+              ],
+              "common_misconceptions": [
+                "Students confuse the 15-day period (interlocutory) with the 30-day period (final orders)",
+                "Students forget the notice of appeal must be served AND filed within the time limit"
+              ],
+              "notes_for_generation": "30 days to serve and file notice of appeal from a final order. 15 days for interlocutory orders. The notice must be served on all parties and filed at the court office within the same period."
+            },
+            {
+              "subtopic_id": "fresh_evidence",
+              "subtopic_heading": "Fresh Evidence on Appeal",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Courts of Justice Act, R.S.O. 1990, c. C.43",
+              "key_sections": [
+                "s. 134(4)(b)"
+              ],
+              "common_misconceptions": [
+                "Students think any new evidence can be introduced on appeal",
+                "Students forget the Palmer test requires that evidence could not have been obtained at trial by due diligence"
+              ],
+              "notes_for_generation": "Palmer test: (1) could not have been obtained at trial by reasonable diligence, (2) relevant, (3) credible, (4) if believed, would have affected the result. All four factors must be satisfied. PR angle: lawyer who failed to obtain evidence at trial now seeks to introduce it on appeal."
+            },
+            {
+              "subtopic_id": "stay_pending_appeal",
+              "subtopic_heading": "Stay of Proceedings Pending Appeal",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 63.01",
+                "r. 63.02"
+              ],
+              "common_misconceptions": [
+                "Students think an appeal automatically stays enforcement",
+                "Students forget that money judgments do not automatically stay on appeal"
+              ],
+              "notes_for_generation": "A judgment for payment of money does not automatically stay on appeal — the successful party can enforce. Stay requires application. Money must be paid into court or other security given. Test: client is appellate — can the other side enforce the judgment immediately?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 14,
+      "chapter_title": "Enforcement of Judgments",
+      "chapter_slug": "ch14-enforcement",
+      "lso_dtoc_ref": "Ch. 14",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "enforcement_mechanisms",
+          "topic_heading": "Enforcement Mechanisms",
+          "subtopics": [
+            {
+              "subtopic_id": "writ_seizure_sale",
+              "subtopic_heading": "Writ of Seizure and Sale",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Execution Act, R.S.O. 1990, c. E.24",
+              "key_sections": [
+                "s. 2",
+                "s. 7",
+                "s. 20",
+                "s. 22"
+              ],
+              "common_misconceptions": [
+                "Students think all property is subject to seizure under a writ",
+                "Students forget that certain property is exempt from seizure (tools of the trade, clothing, etc.)"
+              ],
+              "notes_for_generation": "A writ filed in the enforcement office creates a lien on the debtor's land in that county. Exemptions: clothing, household furnishings up to a limit, tools of the trade, certain vehicles. Test: which items can and cannot be seized under a writ?"
+            },
+            {
+              "subtopic_id": "garnishment",
+              "subtopic_heading": "Garnishment of Wages and Debts",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 60.08"
+              ],
+              "common_misconceptions": [
+                "Students think garnishment applies only to wages",
+                "Students forget the maximum percentage of wages that can be garnished"
+              ],
+              "notes_for_generation": "Garnishment: creditor serves notice of garnishment on a third party (garnishee) who owes money to the debtor. Wages: only 20% (or 40% for maintenance orders) of net wages can be garnished under the Wages Act. Debt: full amount."
+            },
+            {
+              "subtopic_id": "examination_debtor",
+              "subtopic_heading": "Examination of Debtor in Aid of Execution",
+              "target_question_count": 3,
+              "minimum_question_count": 1,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 60.18"
+              ],
+              "common_misconceptions": [
+                "Students think the examination can only take place after other enforcement has failed",
+                "Students forget the debtor can be required to produce financial records"
+              ],
+              "notes_for_generation": "A creditor with an unsatisfied judgment may examine the debtor or any person who may have knowledge of the debtor's assets. Can require production of documents. PR angle: lawyer who fails to advise client of enforcement options."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 15,
+      "chapter_title": "Simplified Procedure and Small Claims Court",
+      "chapter_slug": "ch15-simplified-scc",
+      "lso_dtoc_ref": "Ch. 15",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "simplified_procedure",
+          "topic_heading": "Simplified Procedure — Rule 76",
+          "subtopics": [
+            {
+              "subtopic_id": "rule76_scope",
+              "subtopic_heading": "Scope and Application of Rule 76",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+              "key_sections": [
+                "r. 76.01",
+                "r. 76.02",
+                "r. 76.10"
+              ],
+              "common_misconceptions": [
+                "Students think Rule 76 is optional for claims under $200,000",
+                "Students forget Rule 76 has its own discovery and trial limits"
+              ],
+              "notes_for_generation": "Rule 76 is mandatory for claims $200,000 or under (as amended). Oral discovery limited to 3 hours per party. Trial limited to 5 days. Designed for proportionality. Test: which claims fall under Rule 76?"
+            },
+            {
+              "subtopic_id": "scc_jurisdiction",
+              "subtopic_heading": "Small Claims Court — Jurisdiction and Procedure",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Courts of Justice Act, R.S.O. 1990, c. C.43",
+              "key_sections": [
+                "s. 23",
+                "s. 24",
+                "s. 25"
+              ],
+              "common_misconceptions": [
+                "Students think the Small Claims Court limit is $25,000 (it was raised to $35,000)",
+                "Students think legal representation is not permitted in Small Claims Court"
+              ],
+              "notes_for_generation": "Small Claims Court: monetary limit $35,000. Rules of evidence are relaxed. Representatives (not just lawyers) may appear. Appeals from Small Claims Court go to Divisional Court (no leave required for final orders)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 16,
+      "chapter_title": "Class Proceedings",
+      "chapter_slug": "ch16-class-proceedings",
+      "lso_dtoc_ref": "Ch. 16",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "certification",
+          "topic_heading": "Certification of Class Proceedings",
+          "subtopics": [
+            {
+              "subtopic_id": "certification_test",
+              "subtopic_heading": "Certification Test — Class Proceedings Act, s. 5",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Class Proceedings Act, 1992, S.O. 1992, c. 6",
+              "key_sections": [
+                "s. 5(1)"
+              ],
+              "common_misconceptions": [
+                "Students think the certification test requires the plaintiff to have a strong case",
+                "Students forget the 'preferable procedure' criterion (s. 5(1)(d))",
+                "Students confuse 'common issues' with 'identical issues'"
+              ],
+              "notes_for_generation": "Five-part test under s. 5(1): (a) discloses cause of action, (b) identifiable class, (c) common issues, (d) class proceeding is preferable procedure, (e) representative plaintiff is adequate. Common issues need not be identical — just substantially similar. PR angle: counsel's duties to class members vs. named plaintiff."
+            },
+            {
+              "subtopic_id": "class_counsel_duties",
+              "subtopic_heading": "Duties of Class Counsel",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 1,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Class Proceedings Act, 1992, S.O. 1992, c. 6",
+              "key_sections": [
+                "s. 32",
+                "s. 33"
+              ],
+              "common_misconceptions": [
+                "Students think class counsel owes the same duty to all members as to the named plaintiff",
+                "Students forget that settlements require court approval"
+              ],
+              "notes_for_generation": "Settlements of class proceedings require court approval. Class counsel has duties to the class as a whole, not just the named plaintiff. Fee arrangements must be approved by the court. PR angle: lawyer who settles a class action without court approval."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 17,
+      "chapter_title": "Default Judgment and Noting in Default",
+      "chapter_slug": "default-judgment",
+      "lso_dtoc_ref": "Rules of Civil Procedure, Rules 19 and 19.01–19.09",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "default_process",
+          "topic_heading": "Noting in Default and Default Judgment",
+          "subtopics": [
+            {
+              "subtopic_id": "noting_in_default",
+              "subtopic_heading": "Noting Defendant in Default — Rule 19.01",
+              "target_question_count": 4,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Rules of Civil Procedure",
+              "key_sections": [
+                "r.19.01",
+                "r.19.02",
+                "r.19.03"
+              ],
+              "common_misconceptions": [
+                "Students confuse noting in default (registrar's act) with obtaining a default judgment (separate step).",
+                "Noting in default does not automatically give judgment — a motion or requisition is still required.",
+                "A defendant who has been noted in default may not take further steps without first setting aside the noting."
+              ],
+              "notes_for_generation": "Test: when may the registrar note in default; distinction between noting and judgment; effect of noting on defendant's right to participate."
+            },
+            {
+              "subtopic_id": "setting_aside_default",
+              "subtopic_heading": "Setting Aside Noting in Default and Default Judgment — Rules 19.03 and 19.08",
+              "target_question_count": 4,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 1,
+                "hard": 1,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Rules of Civil Procedure",
+              "key_sections": [
+                "r.19.03",
+                "r.19.08",
+                "r.19.09"
+              ],
+              "common_misconceptions": [
+                "Students apply the Brantford General test (merits + explanation for delay) only to default judgments, forgetting it also applies to setting aside a noting in default.",
+                "The court has discretion even where the defendant has a prima facie defence — delay and prejudice still matter.",
+                "Exam trap: noting in default can be set aside by registrar on consent; default judgment requires a judge."
+              ],
+              "notes_for_generation": "Cover the two-part test from Brantford General: (1) reasonable explanation for default; (2) prima facie defence on the merits. Distinguish registrar's power (noting only) from judge's power (judgment). Flag that prompt payment of costs can weigh in applicant's favour."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

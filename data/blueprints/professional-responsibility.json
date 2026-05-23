@@ -1,0 +1,1127 @@
+{
+  "subject_key": "professional_responsibility",
+  "subject_label": "Professional Responsibility",
+  "subject_code": "pr",
+  "lso_weight_percent": 10,
+  "total_target_questions": 159,
+  "total_minimum_questions": 70,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Regulation of the Profession — Law Society Act and By-Laws",
+      "chapter_slug": "ch01-regulation",
+      "lso_dtoc_ref": "Ch. 1",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "lso_governance",
+          "topic_heading": "LSO Governance and Licensing",
+          "subtopics": [
+            {
+              "subtopic_id": "licensing_requirements",
+              "subtopic_heading": "Licensing Requirements and Good Character",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Law Society Act, 1998, S.O. 1998, c. 21, Sched.",
+              "key_sections": [
+                "s. 27",
+                "s. 27(2)"
+              ],
+              "common_misconceptions": [
+                "Students forget that good character is a continuing requirement, not just on entry",
+                "Students confuse the licensing requirements for lawyers with those for paralegals"
+              ],
+              "notes_for_generation": "Applicants for a lawyer's licence must satisfy LSO of good character. Good character is also a continuing obligation — a lawyer who engages in conduct demonstrating lack of good character may be subject to discipline. Test: a lawyer who was convicted of fraud 10 years before applying — can they still be licensed?"
+            },
+            {
+              "subtopic_id": "administrative_suspension",
+              "subtopic_heading": "Administrative Suspension Without Hearing",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Law Society Act, 1998, S.O. 1998, c. 21, Sched.",
+              "key_sections": [
+                "s. 45",
+                "s. 45(1)",
+                "s. 45(2)"
+              ],
+              "common_misconceptions": [
+                "Students think all Law Society discipline requires a hearing",
+                "Students forget administrative suspension for failure to comply is a separate mechanism without a hearing"
+              ],
+              "notes_for_generation": "Section 45: the Law Society may suspend a licensee administratively (without a hearing) for failure to comply with obligations such as filing annual reports, paying fees, or completing CPD requirements. Reinstatement requires compliance, not a new hearing. Exam trap: a lawyer fails to file an annual report — is there a hearing before suspension? No."
+            },
+            {
+              "subtopic_id": "disciplinary_process",
+              "subtopic_heading": "Complaints, Investigation, and Disciplinary Hearing Process",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Law Society Act, 1998, S.O. 1998, c. 21, Sched.",
+              "key_sections": [
+                "s. 33",
+                "s. 38",
+                "s. 49.3",
+                "s. 49.37"
+              ],
+              "common_misconceptions": [
+                "Students think complaints are decided by the LSO benchers",
+                "Students confuse the Law Society Tribunal with the Law Society itself",
+                "Students forget the appeal route from the Law Society Tribunal"
+              ],
+              "notes_for_generation": "Complaints → investigation → referral to Law Society Tribunal (if hearing warranted). The Tribunal's Hearing Division decides. Appeals go to the Appeal Division, then to the Divisional Court (s. 49.37). Penalties: reprimand, fine, suspension, revocation. PR angle: how a licensee should respond to an investigation."
+            },
+            {
+              "subtopic_id": "mandatory_reporting",
+              "subtopic_heading": "Mandatory Reporting Obligations",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Law Society Act, 1998, S.O. 1998, c. 21, Sched.",
+              "key_sections": [
+                "s. 40"
+              ],
+              "common_misconceptions": [
+                "Students think a lawyer only needs to report another lawyer's misconduct if they are certain",
+                "Students forget self-reporting obligations"
+              ],
+              "notes_for_generation": "A lawyer who is a party to or witness to certain serious misconduct of another licensee may be required to report. Self-reporting: a licensee must report their own charges for criminal offences, findings of professional misconduct in other jurisdictions. PR angle: a lawyer who discovers a colleague is misappropriating trust funds — what must they do?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Competence and Quality of Service",
+      "chapter_slug": "ch02-competence",
+      "lso_dtoc_ref": "Ch. 2",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "competence_rule",
+          "topic_heading": "Duty of Competence — Rule 3.1",
+          "subtopics": [
+            {
+              "subtopic_id": "competence_obligations",
+              "subtopic_heading": "Competence Obligations — Rule 3.1-2",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 3.1-2",
+                "Commentary [1]",
+                "Commentary [2]",
+                "Commentary [4]"
+              ],
+              "common_misconceptions": [
+                "Students think a lawyer must always refer a client if they lack expertise in an area",
+                "Students forget that a lawyer can develop competence with proper preparation",
+                "Students confuse competence (able to do the work) with diligence (doing the work properly and promptly)"
+              ],
+              "notes_for_generation": "Rule 3.1-2: a lawyer must perform all legal services undertaken on a client's behalf to the standard of a competent lawyer. Elements: relevant knowledge, skills, and attributes. A lawyer who lacks competence in a specific area must either: (a) decline the retainer, (b) associate with a competent lawyer, or (c) acquire the necessary competence. Exam trap: lawyer accepts a complex IP matter without experience — can they? Only with a plan to become competent."
+            },
+            {
+              "subtopic_id": "supervision_of_students",
+              "subtopic_heading": "Supervision of Students and Staff",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 5.1-1",
+                "Rule 5.1-2",
+                "Commentary"
+              ],
+              "common_misconceptions": [
+                "Students think only the supervising lawyer is responsible if a student makes an error",
+                "Students forget that the lawyer has a duty to supervise, not just accept the student's work"
+              ],
+              "notes_for_generation": "A lawyer has a duty to supervise students, clerks, and assistants. This includes reviewing work, providing guidance, and taking responsibility for their work. Delegation to a student does not discharge the lawyer's professional responsibility. PR angle: a lawyer who signs documents without reviewing them because the student prepared them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Confidentiality",
+      "chapter_slug": "ch03-confidentiality",
+      "lso_dtoc_ref": "Ch. 3",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "confidentiality_duty",
+          "topic_heading": "Duty of Confidentiality — Rule 3.3",
+          "subtopics": [
+            {
+              "subtopic_id": "duty_to_keep_confidential",
+              "subtopic_heading": "Duty to Keep Confidential — Scope and Duration",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 3.3-1",
+                "Rule 3.3-2"
+              ],
+              "common_misconceptions": [
+                "Students confuse confidentiality (professional rule) with solicitor-client privilege (legal principle)",
+                "Students think the duty ends when the retainer ends",
+                "Students think only information communicated for legal advice is confidential"
+              ],
+              "notes_for_generation": "Confidentiality under Rule 3.3 is broader than solicitor-client privilege: it covers all information that a lawyer obtains about a client in the context of the professional relationship, not only communications for legal advice. The duty is permanent — it survives the termination of the retainer and the death of the client. A former client can rely on the duty. PR angle: central topic — applies in virtually every scenario."
+            },
+            {
+              "subtopic_id": "exceptions_to_confidentiality",
+              "subtopic_heading": "Exceptions to Confidentiality — Rule 3.3-3 to 3.3-7",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 3.3-3",
+                "Rule 3.3-4",
+                "Rule 3.3-5",
+                "Rule 3.3-6"
+              ],
+              "common_misconceptions": [
+                "Students forget that disclosure to prevent future crime is permissive, not mandatory (in most cases)",
+                "Students think a court order always overrides confidentiality",
+                "Students confuse the future crime exception (Rule 3.3-3) with the CYFSA duty to report (which overrides privilege)"
+              ],
+              "notes_for_generation": "Permitted disclosure (Rule 3.3-3): where the lawyer believes on reasonable grounds that there is a risk of death or serious bodily harm, the lawyer MAY disclose to prevent the harm. This is permissive — not mandatory (unlike CYFSA). Required disclosure: by law (e.g., CYFSA duty to report for child abuse), by court order. Lawyer may also disclose to defend themselves against a client's allegation of wrongdoing. Exam trap: client tells lawyer they plan to commit a robbery — must the lawyer disclose? May, but not must."
+            },
+            {
+              "subtopic_id": "inadvertent_disclosure",
+              "subtopic_heading": "Inadvertent Disclosure and Technology",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 3.3-1",
+                "Commentary"
+              ],
+              "common_misconceptions": [
+                "Students think inadvertent disclosure breaks confidentiality permanently",
+                "Students forget the duty to have safeguards for electronic communications"
+              ],
+              "notes_for_generation": "A lawyer must take reasonable steps to ensure confidentiality is maintained, including using secure technology for client communications. If confidential information is inadvertently disclosed, the lawyer must act promptly to limit further disclosure and advise the client. PR angle: a lawyer who emails a confidential document to the wrong party."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Conflicts of Interest",
+      "chapter_slug": "ch04-conflicts",
+      "lso_dtoc_ref": "Ch. 4",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "conflict_current_clients",
+          "topic_heading": "Conflicts Between Current Clients — Rule 3.4",
+          "subtopics": [
+            {
+              "subtopic_id": "conflict_definition",
+              "subtopic_heading": "Conflict of Interest — Definition and Test",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 1.1-1",
+                "Rule 3.4-1",
+                "Rule 3.4-2"
+              ],
+              "common_misconceptions": [
+                "Students define conflict too narrowly — they require actual harm rather than a risk of harm",
+                "Students forget the test includes interests of third parties, not just clients"
+              ],
+              "notes_for_generation": "Conflict of interest: where the lawyer's duty to act in the best interests of a client is or may be materially and adversely affected by: the lawyer's own interests, duties to another current client, duties to a former client, or duties to a third party. Test: is there a substantial risk that the representation will be materially limited? Even a potential conflict must be disclosed. Exam trap: lawyer represents two co-defendants in a criminal matter — automatic conflict? Not necessarily — depends on whether interests diverge."
+            },
+            {
+              "subtopic_id": "joint_retainer",
+              "subtopic_heading": "Joint Retainer — Requirements and Risks",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 3.4-5",
+                "Rule 3.4-6",
+                "Rule 3.4-7"
+              ],
+              "common_misconceptions": [
+                "Students think joint retainers are always permissible with consent",
+                "Students forget the specific disclosure obligations before undertaking a joint retainer",
+                "Students forget that if a conflict arises mid-joint-retainer, the lawyer may have to withdraw from all"
+              ],
+              "notes_for_generation": "Before a joint retainer: the lawyer must advise each client of the existing or potential conflicts, must recommend independent legal advice for each client, and must advise that if a conflict develops the lawyer may have to withdraw from representing all. During joint retainer: no duty of confidentiality as between the clients — information shared with one must be shared with all. Conflict arises: lawyer must withdraw unless all parties consent after disclosure. PR angle: lawyer who fails to advise a less-sophisticated party in a joint retainer."
+            },
+            {
+              "subtopic_id": "former_client_conflicts",
+              "subtopic_heading": "Conflicts Involving Former Clients — Rule 3.4-10 to 3.4-17",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 3.4-10",
+                "Rule 3.4-11",
+                "Rule 3.4-17"
+              ],
+              "common_misconceptions": [
+                "Students think any connection with a former client creates a disqualifying conflict",
+                "Students forget the 'same or related matter' and 'confidential information' requirements",
+                "Students confuse the test for current client conflicts (substantial risk) with former client conflicts (prejudice to former client)"
+              ],
+              "notes_for_generation": "Former client conflicts: a lawyer must not act against a former client where (a) the new matter is the same or related to the prior matter, OR (b) the lawyer received confidential information in the prior retainer that could be used to the prejudice of the former client. 'Related matter' is broader than 'same matter'. Exam trap: lawyer represented Client A in a contract dispute 5 years ago, now represents Client B in an unrelated tort — is there a conflict?"
+            },
+            {
+              "subtopic_id": "conflicts_lawyers_interest",
+              "subtopic_heading": "Conflicts — Lawyer's Own Interest",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 3.4-27",
+                "Rule 3.4-28",
+                "Rule 3.4-29"
+              ],
+              "common_misconceptions": [
+                "Students think a lawyer can represent a client in a transaction where the lawyer has a financial interest with consent",
+                "Students forget that acting against a client's interest to benefit the lawyer is never permitted"
+              ],
+              "notes_for_generation": "A lawyer must not accept compensation for representing a client from a third party unless: the client consents, there is no conflict between the client's interests and the third party, and the lawyer's duty of loyalty and confidentiality are not compromised. A lawyer must never act against a client's interest to advance the lawyer's own financial interest. Exam trap: insurance company retains lawyer to defend insured — lawyer's duty is to the insured, not the insurer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Duties to Clients",
+      "chapter_slug": "ch05-duties-clients",
+      "lso_dtoc_ref": "Ch. 5",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "candour_and_communication",
+          "topic_heading": "Candour with Clients and Client Communication",
+          "subtopics": [
+            {
+              "subtopic_id": "duty_of_candour",
+              "subtopic_heading": "Duty of Candour — Honest and Frank Advice",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 2.1-1",
+                "Rule 3.2-2",
+                "Rule 7.2-1"
+              ],
+              "common_misconceptions": [
+                "Students think a lawyer must tell a client only what the client wants to hear",
+                "Students forget that a lawyer has a duty to advise the client of the weaknesses of their position"
+              ],
+              "notes_for_generation": "Rule 3.2-2: a lawyer must be honest and candid with the client about (a) the client's matter and the law applicable to it, (b) the realistic prospects of success, and (c) the financial costs and other consequences of the proposed course of action. A lawyer must not suppress doubts about the merits of the case. Exam trap: client insists on pursuing a meritless claim — may the lawyer continue? Only if the client is advised honestly of the prospects."
+            },
+            {
+              "subtopic_id": "client_instructions",
+              "subtopic_heading": "Following Client Instructions vs. Professional Judgment",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 3.2-8",
+                "Rule 3.2-9"
+              ],
+              "common_misconceptions": [
+                "Students think lawyers must always follow client instructions",
+                "Students forget that lawyers retain professional judgment and may refuse instructions that are improper"
+              ],
+              "notes_for_generation": "A lawyer must follow a client's lawful instructions. But a lawyer must refuse to follow instructions that would require the lawyer to: take a position contrary to law, be dishonest with the tribunal, mislead another party, or engage in professional misconduct. Exam trap: client instructs lawyer to make a frivolous argument — must the lawyer comply?"
+            }
+          ]
+        },
+        {
+          "topic_id": "fees_billing",
+          "topic_heading": "Fees and Billing — Rule 3.6",
+          "subtopics": [
+            {
+              "subtopic_id": "fair_and_reasonable_fees",
+              "subtopic_heading": "Fair and Reasonable Fees — Rule 3.6-1",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 3.6-1",
+                "Rule 3.6-2",
+                "Rule 3.6-3"
+              ],
+              "common_misconceptions": [
+                "Students think any fee agreed to by a client is automatically reasonable",
+                "Students forget the requirement to have a fee agreement in writing for new clients",
+                "Students confuse the written retainer requirement with the obligation to disclose the nature of the services"
+              ],
+              "notes_for_generation": "Rule 3.6-1: a lawyer must not charge a fee that is not fair and reasonable. Factors: time and effort, difficulty, skill required, results achieved, importance to the client. A fee arrangement must be in writing for new clients or where a new matter is substantially different from prior matters. Exam trap: client agrees to a $500/hour rate — is the fee automatically reasonable? No — must still be fair in all the circumstances."
+            },
+            {
+              "subtopic_id": "contingency_fees",
+              "subtopic_heading": "Contingency Fee Arrangements",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Solicitors Act, R.S.O. 1990, c. S.15",
+              "key_sections": [
+                "s. 28.1"
+              ],
+              "common_misconceptions": [
+                "Students think contingency fee arrangements have no regulatory requirements",
+                "Students forget the requirement for a written contingency fee agreement that meets statutory requirements"
+              ],
+              "notes_for_generation": "Contingency fee agreements must be in writing and comply with the Solicitors Act and LSO regulations. The agreement must specify the percentage and how expenses are treated. If no agreement, the court will fix costs. PR angle: a lawyer who takes a contingency fee in a matter where the client did not meaningfully consent to the terms."
+            },
+            {
+              "subtopic_id": "retainer_account",
+              "subtopic_heading": "Retainer Funds — How They Must Be Held",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 3.6-6"
+              ],
+              "common_misconceptions": [
+                "Students think a retainer can be deposited into the lawyer's general account",
+                "Students forget a retainer is trust money until the fees are earned"
+              ],
+              "notes_for_generation": "A retainer paid in advance is trust money and must be deposited in the lawyer's trust account. It can only be transferred to the general account as fees are earned and a bill is delivered to the client. A lawyer who deposits client retainer funds into a personal or general account is misappropriating trust funds. PR angle: central — this is one of the most common forms of professional misconduct."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Trust Accounting and By-Laws 7 and 9",
+      "chapter_slug": "ch06-trust-accounting",
+      "lso_dtoc_ref": "Ch. 6",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "trust_account_obligations",
+          "topic_heading": "Trust Account Obligations",
+          "subtopics": [
+            {
+              "subtopic_id": "trust_deposit_rules",
+              "subtopic_heading": "Trust Funds — Receipt and Deposit",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "By-Law 9 (Financial Transactions and Records)",
+              "key_sections": [
+                "s. 1",
+                "s. 5",
+                "s. 7",
+                "s. 9",
+                "s. 11"
+              ],
+              "common_misconceptions": [
+                "Students think a lawyer can use trust funds for short-term cash flow needs",
+                "Students forget all trust funds must be deposited without delay in a designated trust account",
+                "Students confuse mixed trust accounts with specific trust accounts"
+              ],
+              "notes_for_generation": "All funds received in trust must be deposited without delay into the lawyer's designated trust account at a bank or trust company in Ontario. Trust funds cannot be mixed with the lawyer's personal or business funds (commingling). The lawyer cannot use trust funds for any purpose other than the client's matter for which they were received. Exam trap: lawyer borrows from trust account to cover a cash flow shortfall, intending to repay — is this permissible? No — immediate professional misconduct."
+            },
+            {
+              "subtopic_id": "trust_withdrawals",
+              "subtopic_heading": "Trust Withdrawals — When and How",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "By-Law 9 (Financial Transactions and Records)",
+              "key_sections": [
+                "s. 9"
+              ],
+              "common_misconceptions": [
+                "Students think a lawyer can withdraw from trust for any business expense",
+                "Students forget that a disbursement must first be incurred before it can be taken from trust",
+                "Students forget that a bill must be delivered before fees can be taken from trust"
+              ],
+              "notes_for_generation": "Withdrawals from trust only in limited circumstances: (1) to pay disbursements actually incurred on the client's behalf, (2) to pay fees after delivering a bill to the client, (3) to return funds to the client. A lawyer must not withdraw from trust prospectively (before the bill is rendered). PR angle: core exam topic — scenario involves a lawyer who takes fees from trust before billing the client."
+            },
+            {
+              "subtopic_id": "trust_records",
+              "subtopic_heading": "Trust Account Record-Keeping Requirements",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "By-Law 9 (Financial Transactions and Records)",
+              "key_sections": [
+                "s. 18",
+                "s. 19",
+                "s. 20"
+              ],
+              "common_misconceptions": [
+                "Students think electronic records replace the need for trust accounting entries",
+                "Students forget the monthly reconciliation requirement"
+              ],
+              "notes_for_generation": "A lawyer must maintain: a cash receipts journal, a cash disbursements journal, a trust account ledger for each client, and a general trust account ledger. Monthly reconciliation of the trust account is mandatory. Records must be retained for 10 years after the end of the matter. PR angle: a lawyer who cannot produce trust records when the LSO requests them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Duties to the Court and Tribunal",
+      "chapter_slug": "ch07-duties-court",
+      "lso_dtoc_ref": "Ch. 7",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "duty_of_candour_court",
+          "topic_heading": "Duty of Candour to the Tribunal — Rule 5.1",
+          "subtopics": [
+            {
+              "subtopic_id": "not_mislead_court",
+              "subtopic_heading": "Duty Not to Mislead the Court",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 5.1-1",
+                "Rule 5.1-2"
+              ],
+              "common_misconceptions": [
+                "Students think a lawyer's duty of advocacy overrides the duty not to mislead",
+                "Students forget that failing to correct a misrepresentation is itself a breach of the duty",
+                "Students confuse the duty to the client (absolute) with the duty to the court (overriding in some cases)"
+              ],
+              "notes_for_generation": "Rule 5.1-1: a lawyer who appears before a tribunal must be honest. Specifically: must not knowingly make a false statement of fact or law, must not mislead the court by omission, must disclose a legal authority that is adverse to the client's position if not mentioned by opposing counsel (Rule 5.1-3). The duty to the court overrides the duty to the client in cases of conflict. PR angle: lawyer discovers after examination that a witness lied — what is the obligation?"
+            },
+            {
+              "subtopic_id": "adverse_authority",
+              "subtopic_heading": "Duty to Disclose Adverse Legal Authority",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 5.1-3"
+              ],
+              "common_misconceptions": [
+                "Students think a lawyer only needs to cite cases favourable to the client",
+                "Students forget the obligation arises only when the adverse authority has not been cited by opposing counsel"
+              ],
+              "notes_for_generation": "Rule 5.1-3: a lawyer must disclose to the tribunal any adverse legal authority that the lawyer knows is directly on point, if opposing counsel has not cited it. This applies to binding authority only — not persuasive authority from other jurisdictions. Exam trap: opposing counsel has not mentioned a binding SCC case that directly defeats the lawyer's argument — must the lawyer mention it?"
+            },
+            {
+              "subtopic_id": "assisting_perjury",
+              "subtopic_heading": "Client Who Intends to Commit Perjury",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 5.1-2",
+                "Commentary"
+              ],
+              "common_misconceptions": [
+                "Students think the lawyer must always follow client instructions, including to lie",
+                "Students forget the specific steps required when a client announces they will lie under oath"
+              ],
+              "notes_for_generation": "If a client informs the lawyer before testifying that they intend to lie, the lawyer must: (1) attempt to dissuade the client, (2) if unsuccessful, seek leave to withdraw, (3) if leave is denied, continue but must not ask questions designed to elicit perjured testimony. The lawyer must not call the client as a witness knowing they will lie. If the client lies during testimony contrary to the lawyer's expectations, the lawyer must seek a recess and attempt to correct the record. PR angle: core exam scenario."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Communication with Represented and Unrepresented Parties",
+      "chapter_slug": "ch08-communication",
+      "lso_dtoc_ref": "Ch. 8",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "communication_parties",
+          "topic_heading": "Communication With Other Parties",
+          "subtopics": [
+            {
+              "subtopic_id": "represented_parties",
+              "subtopic_heading": "No Communication with Represented Parties — Rule 7.2-4",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 7.2-4",
+                "Rule 7.2-5"
+              ],
+              "common_misconceptions": [
+                "Students think the prohibition only applies during litigation",
+                "Students forget that the prohibition applies unless consent of the other party's lawyer is obtained",
+                "Students think the client can always communicate directly regardless of the rule"
+              ],
+              "notes_for_generation": "Rule 7.2-4: a lawyer must not communicate with a party who is represented by another lawyer on the matter, without the consent of that lawyer. The rule applies even before litigation. The client may communicate directly with the represented party — it is the lawyer who is restricted. Exceptions: with consent of the other lawyer, in an emergency, or as required by law. Exam trap: client wants to negotiate directly — may the client do so? Yes — the rule applies to lawyers, not clients."
+            },
+            {
+              "subtopic_id": "unrepresented_parties",
+              "subtopic_heading": "Dealing with Unrepresented Parties",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 7.2-9",
+                "Rule 7.2-10"
+              ],
+              "common_misconceptions": [
+                "Students think a lawyer can take advantage of an unrepresented party's lack of knowledge",
+                "Students forget the obligation to advise the unrepresented party to get independent legal advice"
+              ],
+              "notes_for_generation": "When dealing with an unrepresented party, a lawyer must: (a) urge them to seek independent legal advice, (b) make clear that the lawyer represents the other party and does not represent the unrepresented party, (c) not take advantage of their lack of legal knowledge. May not give legal advice to the unrepresented party — only information. PR angle: lawyer who pressures an unrepresented party into signing a settlement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Withdrawal from Representation",
+      "chapter_slug": "ch09-withdrawal",
+      "lso_dtoc_ref": "Ch. 9",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "mandatory_permissive_withdrawal",
+          "topic_heading": "Mandatory and Permissive Withdrawal",
+          "subtopics": [
+            {
+              "subtopic_id": "mandatory_withdrawal",
+              "subtopic_heading": "When Withdrawal is Mandatory",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 3.7-1",
+                "Commentary [1]"
+              ],
+              "common_misconceptions": [
+                "Students treat all withdrawal situations as permissive — they forget mandatory situations",
+                "Students forget that a lawyer cannot continue if continuing would require assisting a crime or fraud"
+              ],
+              "notes_for_generation": "Mandatory withdrawal: a lawyer MUST withdraw where: (a) continuing would require the lawyer to assist in dishonesty, fraud, crime, or illegal conduct, (b) the client instructs the lawyer to violate the Rules, (c) the lawyer is in a conflict that cannot be cured by consent. Note: even mandatory withdrawal is subject to the court's permission if the matter is before the court. PR angle: client instructs lawyer to file a false affidavit — what must the lawyer do?"
+            },
+            {
+              "subtopic_id": "permissive_withdrawal",
+              "subtopic_heading": "When Withdrawal is Permitted",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 3.7-1",
+                "Commentary [3]",
+                "Commentary [4]"
+              ],
+              "common_misconceptions": [
+                "Students think a lawyer can withdraw at any point without consequences",
+                "Students forget the obligation to give reasonable notice and protect the client's interests"
+              ],
+              "notes_for_generation": "Permissive withdrawal: may withdraw where the client refuses to accept advice, the client's conduct makes the relationship unreasonably difficult, or other just cause exists. Requirements: reasonable notice to the client, steps to protect the client's interests, delivery of all client property. If matter is before the court: must obtain leave of the court before withdrawing (r. 15.01 of Rules of Civil Procedure)."
+            },
+            {
+              "subtopic_id": "withdrawal_notice",
+              "subtopic_heading": "Steps on Withdrawal — Protecting Client Interests",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 3.7-8",
+                "Rule 3.7-9"
+              ],
+              "common_misconceptions": [
+                "Students think a lawyer can simply stop working without notification",
+                "Students forget the duty to return all client materials and property"
+              ],
+              "notes_for_generation": "On withdrawal: (1) give notice as soon as practicable, (2) give the client enough time to find new counsel, (3) deliver to the client all documents and property to which they are entitled, (4) deliver a final account, (5) cooperate with any successor counsel. PR angle: lawyer who withdraws suddenly before a trial, leaving the client without representation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Undertakings",
+      "chapter_slug": "ch10-undertakings",
+      "lso_dtoc_ref": "Ch. 10",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "undertaking_obligations",
+          "topic_heading": "Giving and Honouring Undertakings",
+          "subtopics": [
+            {
+              "subtopic_id": "personal_undertakings",
+              "subtopic_heading": "Personal Nature of Undertakings",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 7.2-11",
+                "Rule 7.2-12"
+              ],
+              "common_misconceptions": [
+                "Students think a lawyer can give an undertaking on behalf of a client and disclaim it if the client does not comply",
+                "Students forget an undertaking is the lawyer's personal obligation",
+                "Students confuse an undertaking (absolute commitment) with a best efforts obligation"
+              ],
+              "notes_for_generation": "An undertaking given by a lawyer is the lawyer's personal and absolute obligation — it does not depend on the client's cooperation. A lawyer must only give an undertaking where they are certain they can perform it. If a lawyer gives an undertaking and the client does not cooperate, the lawyer is still personally liable. Exam trap: lawyer gives an undertaking to discharge a mortgage, client refuses to sign — must the lawyer honour the undertaking?"
+            },
+            {
+              "subtopic_id": "fulfilling_undertakings",
+              "subtopic_heading": "Obligation to Fulfil Undertakings",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 7.2-12"
+              ],
+              "common_misconceptions": [
+                "Students think a change in circumstances excuses non-performance of an undertaking",
+                "Students forget that breach of an undertaking is professional misconduct regardless of intent"
+              ],
+              "notes_for_generation": "A lawyer must honour every undertaking given. Breach is professional misconduct — even if the breach is not deliberate. If circumstances change making it impossible to fulfil, the lawyer must immediately notify the other lawyer and attempt to resolve the situation. PR angle: lawyer who gives an undertaking to close and then discovers the client's financing fell through — what must the lawyer do?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "OHSA and Workplace Safety Obligations",
+      "chapter_slug": "ch11-ohsa",
+      "lso_dtoc_ref": "Ch. 11",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "ohsa_lawyer_employer",
+          "topic_heading": "OHSA Obligations for Lawyer-Employers",
+          "subtopics": [
+            {
+              "subtopic_id": "violence_harassment_policies",
+              "subtopic_heading": "Workplace Violence and Harassment Policies",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Occupational Health and Safety Act, R.S.O. 1990, c. O.1",
+              "key_sections": [
+                "s. 32.0.1",
+                "s. 32.0.2",
+                "s. 32.0.3"
+              ],
+              "common_misconceptions": [
+                "Students think the violence and harassment policies only need to be reviewed when there is an incident",
+                "Students forget the mandatory annual review requirement",
+                "Students think a law firm with only 1 employee is subject to all OHSA provisions"
+              ],
+              "notes_for_generation": "Section 32.0.1: employers with 5 or more employees must have written workplace violence and harassment policies. Section 32.0.2: policies must be reviewed at least annually. Section 32.0.3: employers must develop and maintain programs to implement the policies. Exam trap: a 3-lawyer firm with 2 staff — does OHSA apply? Only some provisions — the policy requirement applies at 6+ employees (verify against current OHSA provisions)."
+            },
+            {
+              "subtopic_id": "domestic_violence_workplace",
+              "subtopic_heading": "Domestic Violence Spilling Into the Workplace",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Occupational Health and Safety Act, R.S.O. 1990, c. O.1",
+              "key_sections": [
+                "s. 32.0.4"
+              ],
+              "common_misconceptions": [
+                "Students forget that OHSA requires an employer to address domestic violence that may affect workplace safety",
+                "Students think domestic violence is not an employer's concern"
+              ],
+              "notes_for_generation": "Section 32.0.4: an employer who becomes aware that domestic violence that would expose a worker to physical injury may occur in the workplace must take every precaution reasonable in the circumstances. PR angle: a lawyer-employer who is told an employee is in a threatening domestic situation — what must the employer do?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "Marketing and Advertising",
+      "chapter_slug": "ch12-advertising",
+      "lso_dtoc_ref": "Ch. 12",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "advertising_rules",
+          "topic_heading": "Advertising and Marketing Rules",
+          "subtopics": [
+            {
+              "subtopic_id": "marketing_guidelines",
+              "subtopic_heading": "Permissible and Prohibited Marketing",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 4.2-1",
+                "Rule 4.2-2",
+                "Rule 4.2-3",
+                "Rule 4.2-4"
+              ],
+              "common_misconceptions": [
+                "Students think any advertising is permissible so long as it is not outright false",
+                "Students forget the prohibition on testimonials and comparisons without factual support"
+              ],
+              "notes_for_generation": "Marketing must be: accurate, not misleading or confusing, not undignified. Prohibited: false or misleading claims about fees, results, or qualifications; testimonials from clients that could be misleading; comparisons with other lawyers without factual basis; direct solicitation of a person known to be in a vulnerable state. Exam trap: a lawyer's website says 'best personal injury lawyer in Ontario' — is this permissible?"
+            },
+            {
+              "subtopic_id": "specialization_designation",
+              "subtopic_heading": "Use of Specialist Designations",
+              "target_question_count": 3,
+              "minimum_question_count": 1,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 4.2-6",
+                "Rule 4.2-7"
+              ],
+              "common_misconceptions": [
+                "Students think any lawyer can call themselves a 'specialist'",
+                "Students forget the LSO certification requirements for specialist designations"
+              ],
+              "notes_for_generation": "A lawyer may not claim to be a specialist or expert in an area of law unless certified by the LSO or another recognized professional body. Claiming to specialize without certification is misleading advertising. PR angle: a lawyer who holds themselves out as a 'family law specialist' without LSO certification."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 13,
+      "chapter_title": "Duties to Third Parties and the Public",
+      "chapter_slug": "ch13-third-parties",
+      "lso_dtoc_ref": "Ch. 13",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "third_party_duties",
+          "topic_heading": "Duties to Third Parties",
+          "subtopics": [
+            {
+              "subtopic_id": "dishonesty_to_third_parties",
+              "subtopic_heading": "Prohibition on Dishonesty to Third Parties",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 7.2-1",
+                "Rule 2.1-1"
+              ],
+              "common_misconceptions": [
+                "Students think a lawyer's duty of advocacy permits deception of opposing counsel or third parties",
+                "Students forget that misleading a third party is professional misconduct even if the client instructs it"
+              ],
+              "notes_for_generation": "Rule 7.2-1: a lawyer must not make a knowingly false or misleading statement to another person. This applies to opposing counsel, the court, witnesses, and the public. The duty to the client does not override the duty not to deceive third parties. PR angle: lawyer who sends a misleading letter to a witness to discourage their testimony."
+            },
+            {
+              "subtopic_id": "sharp_practice",
+              "subtopic_heading": "Prohibition on Sharp Practice",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Rules of Professional Conduct (LSO)",
+              "key_sections": [
+                "Rule 7.2-2",
+                "Rule 7.2-3"
+              ],
+              "common_misconceptions": [
+                "Students confuse zealous advocacy with sharp practice",
+                "Students think all aggressive tactics are permissible if they benefit the client"
+              ],
+              "notes_for_generation": "Sharp practice: taking unfair advantage of another party's procedural mistakes, surprising a party in bad faith, or using tactics designed to harass or oppress. A lawyer must not take advantage of another lawyer's failure to observe the requirements of the Rules if doing so brings the administration of justice into disrepute. Exam trap: opposing counsel sends a document with an obvious drafting error — must the lawyer point it out? Depends on whether it is a typographical error or a substantive error."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

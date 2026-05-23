@@ -1,0 +1,1288 @@
+{
+  "subject_key": "criminal_law",
+  "subject_label": "Criminal Law",
+  "subject_code": "crim",
+  "lso_weight_percent": 25,
+  "total_target_questions": 180,
+  "total_minimum_questions": 105,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Classification of Offences and Jurisdiction",
+      "chapter_slug": "ch01-classification",
+      "lso_dtoc_ref": "Ch. 1",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "offence_classification",
+          "topic_heading": "Summary, Indictable, and Hybrid Offences",
+          "subtopics": [
+            {
+              "subtopic_id": "summary_indictable_hybrid",
+              "subtopic_heading": "Summary, Indictable, and Hybrid Offences — Classification",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 469",
+                "s. 553",
+                "s. 785"
+              ],
+              "common_misconceptions": [
+                "Students forget that hybrid offences are treated as indictable until the Crown elects",
+                "Students confuse s. 469 (exclusive SCJ) with s. 553 (absolute jurisdiction provincial)"
+              ],
+              "notes_for_generation": "Three categories: summary (minor, tried in provincial court), indictable (serious, various election options), hybrid (Crown elects, treated as indictable until election). Test: identify the category from the offence described and then determine where it can be tried."
+            },
+            {
+              "subtopic_id": "absolute_exclusive_jurisdiction",
+              "subtopic_heading": "Absolute and Exclusive Jurisdiction",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 469",
+                "s. 553",
+                "s. 554"
+              ],
+              "common_misconceptions": [
+                "Students think murder can be tried in provincial court",
+                "Students confuse absolute jurisdiction (s. 553, no election by accused) with exclusive jurisdiction (s. 469, SCJ only)"
+              ],
+              "notes_for_generation": "Section 469: exclusive SCJ jurisdiction (murder, treason, etc.) — no election. Section 553: absolute provincial court jurisdiction (theft under $5,000, etc.) — no election. Section 554: remaining indictable offences — accused elects. Exam trap: accused charged with robbery — can they elect provincial court?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+      "chapter_slug": "ch02-charter-arrest",
+      "lso_dtoc_ref": "Ch. 2",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "arrest_powers",
+          "topic_heading": "Powers of Arrest",
+          "subtopics": [
+            {
+              "subtopic_id": "arrest_without_warrant",
+              "subtopic_heading": "Arrest Without Warrant — Peace Officer Powers",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 495(1)",
+                "s. 495(2)"
+              ],
+              "common_misconceptions": [
+                "Students think a peace officer can arrest for any indictable offence without warrant",
+                "Students forget s. 495(2) imposes a duty NOT to arrest if public interest can be served by appearance notice"
+              ],
+              "notes_for_generation": "Section 495(1): peace officer may arrest without warrant for indictable offence (any), hybrid (treated as indictable), or found committing any offence. Section 495(2): SHALL NOT arrest (for certain offences) if public interest can be met by compelling appearance by other means. Exam trap: officer has grounds but also has time to get a warrant — must they?"
+            },
+            {
+              "subtopic_id": "citizen_arrest",
+              "subtopic_heading": "Citizen's Power of Arrest",
+              "target_question_count": 3,
+              "minimum_question_count": 1,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 494(1)",
+                "s. 494(2)",
+                "s. 494(3)"
+              ],
+              "common_misconceptions": [
+                "Students think citizen's arrest applies to any criminal act",
+                "Students forget the citizen arrest must be for an indictable offence committed or being committed"
+              ],
+              "notes_for_generation": "Section 494(1): anyone may arrest without warrant a person found committing an indictable offence. Section 494(2): property owner may also arrest where offence is committed on their property. Duty to deliver arrested person to a peace officer without delay. PR angle: lawyer who advises a client on whether to conduct a citizen's arrest."
+            }
+          ]
+        },
+        {
+          "topic_id": "charter_detention",
+          "topic_heading": "Detention and Right to Counsel — Charter ss. 9, 10",
+          "subtopics": [
+            {
+              "subtopic_id": "section9_arbitrary_detention",
+              "subtopic_heading": "s. 9 — Arbitrary Detention",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982",
+              "key_sections": [
+                "s. 9"
+              ],
+              "common_misconceptions": [
+                "Students confuse arbitrary detention with all detention",
+                "Students forget that a lawful investigative detention is still a detention but may not be arbitrary"
+              ],
+              "notes_for_generation": "Arbitrary detention: detention not authorized by law, or authorized but arbitrary in its application (no reasonable grounds). Investigative detention (Mann test): reasonable grounds to suspect (not believe) the person is connected to a crime, and the detention is reasonably necessary. Test: is a 'stop-and-identify' demand a detention?"
+            },
+            {
+              "subtopic_id": "section10b_right_counsel",
+              "subtopic_heading": "s. 10(b) — Right to Retain and Instruct Counsel",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982",
+              "key_sections": [
+                "s. 10(b)"
+              ],
+              "common_misconceptions": [
+                "Students think the right to counsel arises only on formal arrest",
+                "Students forget the implementational duties (facilitating access, ceasing questioning)",
+                "Students confuse informational duty with implementational duty"
+              ],
+              "notes_for_generation": "Two duties on police: (1) informational — inform of right to retain and instruct counsel without delay, (2) implementational — provide reasonable opportunity to exercise the right, cease questioning/taking samples until waiver or opportunity given. Exam trap: accused says 'I don't need a lawyer' — is that a valid waiver? Must be informed and voluntary."
+            },
+            {
+              "subtopic_id": "section8_search_seizure",
+              "subtopic_heading": "s. 8 — Unreasonable Search and Seizure",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982",
+              "key_sections": [
+                "s. 8"
+              ],
+              "common_misconceptions": [
+                "Students think all warrantless searches are automatically unreasonable",
+                "Students forget the reasonable expectation of privacy is the threshold question",
+                "Students confuse the grounds for a warrant (reasonable grounds to believe) with investigative detention (reasonable grounds to suspect)"
+              ],
+              "notes_for_generation": "Section 8 protects against unreasonable search and seizure. Requires: (1) reasonable expectation of privacy, (2) search must be authorized by law, (3) law authorizing search must itself be reasonable, (4) search must be conducted reasonably. Warrantless searches are presumptively unreasonable. Exceptions: search incident to arrest, consent, exigent circumstances."
+            }
+          ]
+        },
+        {
+          "topic_id": "search_warrants",
+          "topic_heading": "Search Warrants — Obtaining and Executing",
+          "subtopics": [
+            {
+              "subtopic_id": "search_warrant_issuance",
+              "subtopic_heading": "Search Warrant Issuance — s. 487",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 487(1)",
+                "s. 487(2)"
+              ],
+              "common_misconceptions": [
+                "Students think police can search anywhere authorized by the warrant",
+                "Students forget the informant must appear before a justice in person (telewarrants are a separate provision)",
+                "Students confuse ITO (information to obtain) requirements"
+              ],
+              "notes_for_generation": "Section 487(1): justice may issue search warrant on sworn information showing reasonable grounds to believe: offence committed, evidence will be found at the place. ITO must contain sufficient grounds — bald assertions insufficient. Test: ITO with stale information — does it still support the warrant?"
+            },
+            {
+              "subtopic_id": "search_incident_arrest",
+              "subtopic_heading": "Search Incident to Arrest",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 494",
+                "s. 495"
+              ],
+              "common_misconceptions": [
+                "Students think police can search anywhere incident to arrest",
+                "Students forget the search must be truly incident to the arrest — connected in purpose"
+              ],
+              "notes_for_generation": "Common law power: upon valid arrest, police may search the person and their immediate surroundings for weapons, evidence, or escape tools. Must be truly incident (temporal and causal connection). Exam trap: arrest made outside house, then police search the house — is this incident to arrest? Generally no."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Bail — Judicial Interim Release",
+      "chapter_slug": "ch03-bail",
+      "lso_dtoc_ref": "Ch. 3",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "bail_hearing",
+          "topic_heading": "Bail Hearing — Show Cause Hearing",
+          "subtopics": [
+            {
+              "subtopic_id": "grounds_for_detention",
+              "subtopic_heading": "Three Grounds for Pre-Trial Detention",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 515(10)(a)",
+                "s. 515(10)(b)",
+                "s. 515(10)(c)"
+              ],
+              "common_misconceptions": [
+                "Students confuse the three grounds and describe them imprecisely",
+                "Students forget that the tertiary ground (public confidence) requires a balancing test",
+                "Students think detention under the tertiary ground is routine"
+              ],
+              "notes_for_generation": "Primary: ensure court attendance. Secondary: protection of the public (substantial likelihood of committing further offence or interfering with witnesses). Tertiary: maintain public confidence in justice system (not routine — reserved for serious offences where release would shake public confidence). Exam trap: Crown relies on tertiary ground for a minor offence — is it available?"
+            },
+            {
+              "subtopic_id": "reverse_onus_bail",
+              "subtopic_heading": "Reverse Onus Situations",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 515(6)"
+              ],
+              "common_misconceptions": [
+                "Students think reverse onus applies to all serious offences",
+                "Students forget the specific offences listed in s. 515(6)"
+              ],
+              "notes_for_generation": "Section 515(6): the accused bears the burden of showing cause for release (not the Crown) for specific offences including: charged while on another release, drug trafficking, terrorism, firearm offences. Test: identify whether the charge triggers reverse onus."
+            },
+            {
+              "subtopic_id": "bail_conditions",
+              "subtopic_heading": "Conditions of Release — Ladder Principle",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 515(1)",
+                "s. 515(2)",
+                "s. 515(3)"
+              ],
+              "common_misconceptions": [
+                "Students think the court can impose any conditions it deems appropriate",
+                "Students forget the ladder principle — least restrictive first"
+              ],
+              "notes_for_generation": "Ladder principle: the justice must start at the least restrictive option and only escalate if necessary. Order of escalation: (1) release on undertaking with no conditions, (2) with conditions, (3) with surety. PR angle: lawyer who agrees to onerous conditions without negotiating less restrictive alternatives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Disclosure",
+      "chapter_slug": "ch04-disclosure",
+      "lso_dtoc_ref": "Ch. 4",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "crown_disclosure",
+          "topic_heading": "Crown Disclosure Obligations",
+          "subtopics": [
+            {
+              "subtopic_id": "stinchcombe_obligations",
+              "subtopic_heading": "Crown Duty to Disclose — Stinchcombe Principles",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 7",
+                "s. 11(b)"
+              ],
+              "common_misconceptions": [
+                "Students think the Crown must disclose only what it plans to use at trial",
+                "Students forget disclosure is a constitutional obligation (ss. 7, 11(b) Charter)"
+              ],
+              "notes_for_generation": "Stinchcombe: Crown must disclose all information in its possession that is relevant, whether it intends to use it or not, and whether it is inculpatory or exculpatory. Two exceptions: clearly irrelevant, and privilege. Disclosure is an ongoing obligation. PR angle: Crown counsel who fails to disclose exculpatory evidence."
+            },
+            {
+              "subtopic_id": "third_party_records",
+              "subtopic_heading": "Third Party Records and Privacy (O'Connor, Mills)",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 278.1",
+                "s. 278.2",
+                "s. 278.3",
+                "s. 278.5",
+                "s. 278.7"
+              ],
+              "common_misconceptions": [
+                "Students apply O'Connor procedure to all third party records",
+                "Students forget that ss. 278.1-278.91 govern records of complainants in sexual offence proceedings"
+              ],
+              "notes_for_generation": "For records relating to complainant's personal history in sexual offences: ss. 278.1-278.91 regime (more stringent — accused must show likely relevant, must not rely on rape myths). For other third party records: O'Connor procedure (judge reviews in camera, weighs competing interests). PR angle: defence lawyer who improperly seeks complainant's therapy records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Election and Plea",
+      "chapter_slug": "ch05-election-plea",
+      "lso_dtoc_ref": "Ch. 5",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "election",
+          "topic_heading": "Election of Mode of Trial",
+          "subtopics": [
+            {
+              "subtopic_id": "accused_election",
+              "subtopic_heading": "Accused's Election — Three Options",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 536(2)",
+                "s. 536(3)"
+              ],
+              "common_misconceptions": [
+                "Students forget that not all indictable offences allow an election",
+                "Students confuse re-election procedures"
+              ],
+              "notes_for_generation": "For non-s.469, non-s.553 indictable offences: accused may elect (1) judge alone in provincial court, (2) judge alone in SCJ, (3) judge and jury in SCJ. Re-election: accused may re-elect with consent of Crown. PR angle: lawyer who fails to properly advise on the advantages and disadvantages of each mode."
+            },
+            {
+              "subtopic_id": "guilty_plea_requirements",
+              "subtopic_heading": "Guilty Plea — Requirements for Validity",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 606(1.1)"
+              ],
+              "common_misconceptions": [
+                "Students think any guilty plea is automatically valid",
+                "Students forget the judge must be satisfied on three conditions before accepting a guilty plea",
+                "Students forget the plea must be to a specific charge"
+              ],
+              "notes_for_generation": "Section 606(1.1): the court shall not accept a guilty plea unless satisfied that the accused: (a) is making the plea voluntarily, (b) understands the nature of the charge, (c) understands the consequences of the plea, and (d) understands that by pleading guilty they are admitting the essential elements. PR angle: lawyer who coaches a client to plead guilty to a charge they did not commit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Trial Procedure",
+      "chapter_slug": "ch06-trial",
+      "lso_dtoc_ref": "Ch. 6",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "trial_process",
+          "topic_heading": "Trial Process and Procedure",
+          "subtopics": [
+            {
+              "subtopic_id": "burden_standard_proof",
+              "subtopic_heading": "Burden and Standard of Proof",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 11(d)"
+              ],
+              "common_misconceptions": [
+                "Students confuse the standard of proof between civil and criminal",
+                "Students think reasonable doubt is the same as balance of probabilities",
+                "Students forget that neither guilt nor innocence need be proved — only that the Crown has not proved guilt beyond reasonable doubt"
+              ],
+              "notes_for_generation": "Charter s. 11(d): presumption of innocence until proved guilty according to law. Standard: beyond a reasonable doubt — not absolute certainty, not balance of probabilities. Crown bears the burden. Exam trap: if the jury thinks it's 60% likely the accused committed the offence, must they convict? No — reasonable doubt exists."
+            },
+            {
+              "subtopic_id": "voir_dire",
+              "subtopic_heading": "Voir Dire — Admissibility Hearings",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 645(5)"
+              ],
+              "common_misconceptions": [
+                "Students think a voir dire can only be held to determine voluntariness of a statement",
+                "Students forget the jury is absent during a voir dire"
+              ],
+              "notes_for_generation": "A voir dire is a trial within a trial to determine the admissibility of evidence. Jury is excluded. Common uses: admissibility of a confession (voluntariness), admissibility of evidence obtained by Charter breach. PR angle: defence counsel who does not request a voir dire when a statement's voluntariness is in question."
+            },
+            {
+              "subtopic_id": "charter_remedies_24",
+              "subtopic_heading": "Charter Remedies — s. 24(1) and s. 24(2)",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982",
+              "key_sections": [
+                "s. 24(1)",
+                "s. 24(2)"
+              ],
+              "common_misconceptions": [
+                "Students think all Charter breaches result in exclusion of evidence",
+                "Students apply the wrong test — they omit the 'bring administration of justice into disrepute' analysis",
+                "Students confuse s. 24(1) (any remedy) with s. 24(2) (exclusion of evidence)"
+              ],
+              "notes_for_generation": "Section 24(1): any remedy the court considers appropriate and just (stay of proceedings, declaratory relief, damages). Section 24(2): evidence obtained in breach of Charter shall be excluded if admission would bring the administration of justice into disrepute. Grant test (2009): three factors — seriousness of the breach, impact on the accused's Charter-protected interests, society's interest in adjudication on the merits. Exam trap: minor administrative breach — automatic exclusion? No — apply Grant test."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Evidence in Criminal Proceedings",
+      "chapter_slug": "ch07-evidence",
+      "lso_dtoc_ref": "Ch. 7",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "hearsay",
+          "topic_heading": "Hearsay Evidence",
+          "subtopics": [
+            {
+              "subtopic_id": "hearsay_definition_exceptions",
+              "subtopic_heading": "Hearsay — Definition and Common Exceptions",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Canada Evidence Act, R.S.C. 1985, c. C-5",
+              "key_sections": [
+                "s. 4",
+                "s. 9"
+              ],
+              "common_misconceptions": [
+                "Students think hearsay is any out-of-court statement",
+                "Students forget the definition requires: out of court, offered for the truth of its contents",
+                "Students confuse hearsay exceptions with principled exceptions"
+              ],
+              "notes_for_generation": "Hearsay: out-of-court statement tendered to prove the truth of its contents. Principled approach (Khelawon): exceptions justified by necessity and reliability. Traditional exceptions: admissions by a party, dying declarations, prior inconsistent statements, business records. Test: is this statement being used for its truth or for another purpose (e.g., to show the statement was made)?"
+            },
+            {
+              "subtopic_id": "prior_inconsistent_statements",
+              "subtopic_heading": "Prior Inconsistent Statements",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Canada Evidence Act, R.S.C. 1985, c. C-5",
+              "key_sections": [
+                "s. 9(1)",
+                "s. 9(2)"
+              ],
+              "common_misconceptions": [
+                "Students think a prior inconsistent statement is automatically evidence of its truth",
+                "Students confuse using the statement to impeach vs. as substantive evidence"
+              ],
+              "notes_for_generation": "Section 9(1): a party may cross-examine their own witness on a prior inconsistent statement if they are declared adverse. Section 9(2): if the prior statement was made under oath in a judicial proceeding, it may be used as substantive evidence (not just for impeachment). Exam trap: witness at trial says something different from what they said in a police statement — what can defence counsel do?"
+            }
+          ]
+        },
+        {
+          "topic_id": "sexual_assault_evidence",
+          "topic_heading": "Sexual Assault Evidence Restrictions",
+          "subtopics": [
+            {
+              "subtopic_id": "section276_restrictions",
+              "subtopic_heading": "s. 276 — Prior Sexual Activity Evidence",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 276(1)",
+                "s. 276(2)",
+                "s. 276(3)"
+              ],
+              "common_misconceptions": [
+                "Students think prior sexual activity between complainant and accused is always admissible",
+                "Students forget the mandatory hearing under s. 276(2) before the evidence can be admitted",
+                "Students forget the twin myths that s. 276 is designed to exclude"
+              ],
+              "notes_for_generation": "Section 276(1): evidence of complainant's prior sexual activity is not admissible to support an inference that the complainant (a) consented, or (b) is less credible. Section 276(2): the accused must apply for a hearing; the court must determine admissibility before the evidence can be adduced. The two forbidden inferences are the 'twin myths'. PR angle: defence counsel who attempts to elicit this evidence without a s. 276 hearing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Defences",
+      "chapter_slug": "ch08-defences",
+      "lso_dtoc_ref": "Ch. 8",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "mental_disorder",
+          "topic_heading": "Mental Disorder — NCR and Fitness",
+          "subtopics": [
+            {
+              "subtopic_id": "ncr_defence",
+              "subtopic_heading": "Not Criminally Responsible — s. 16",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 16(1)",
+                "s. 16(2)",
+                "s. 16(3)"
+              ],
+              "common_misconceptions": [
+                "Students confuse NCR (at the time of the act) with unfit to stand trial (at time of trial)",
+                "Students forget the NCR verdict is not an acquittal — the Review Board takes over",
+                "Students think the burden of proof on the NCR defence is on the Crown"
+              ],
+              "notes_for_generation": "Section 16(1): not criminally responsible if, at the time of the act, suffering from a mental disorder that rendered the person incapable of: (a) appreciating the nature and quality of the act, OR (b) knowing that it was wrong. Burden: on the party raising the defence — balance of probabilities. If NCR: not an acquittal — Review Board makes a disposition (absolute discharge, conditional discharge, or custody)."
+            },
+            {
+              "subtopic_id": "fitness_to_stand_trial",
+              "subtopic_heading": "Fitness to Stand Trial",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 2",
+                "s. 672.22",
+                "s. 672.23"
+              ],
+              "common_misconceptions": [
+                "Students confuse fitness (current — at time of trial) with NCR (past — at time of act)",
+                "Students think a finding of unfitness is a final determination"
+              ],
+              "notes_for_generation": "Fitness: ability at the time of trial to understand the nature of the proceedings and communicate with counsel. Test can be raised at any time by any party. If unfit: stay of proceedings, treatment order to restore fitness. Distinguished from NCR: NCR looks at state of mind at the time of the offence."
+            }
+          ]
+        },
+        {
+          "topic_id": "other_defences",
+          "topic_heading": "Other Criminal Defences",
+          "subtopics": [
+            {
+              "subtopic_id": "self_defence",
+              "subtopic_heading": "Self-Defence — s. 34",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 34(1)",
+                "s. 34(2)"
+              ],
+              "common_misconceptions": [
+                "Students apply the old three-part subjective test rather than the reformed s. 34",
+                "Students forget the proportionality factor"
+              ],
+              "notes_for_generation": "Modern s. 34: three elements — (1) belief on reasonable grounds that force is being used or threatened, (2) act committed for the purpose of defending themselves or another, (3) act is reasonable in the circumstances. Reasonableness assessed on all circumstances (s. 34(2)). The list of factors is not exhaustive. Exam trap: excessive force — does s. 34 still apply?"
+            },
+            {
+              "subtopic_id": "necessity_duress",
+              "subtopic_heading": "Necessity and Duress",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 17"
+              ],
+              "common_misconceptions": [
+                "Students confuse necessity (no human threat) with duress (threat from a person)",
+                "Students think s. 17 codifies all duress — but common law duress (from another person) coexists with s. 17"
+              ],
+              "notes_for_generation": "Necessity (common law): imminent peril or danger, no reasonable legal alternative, proportionality between harm avoided and harm caused. Duress (s. 17 + common law): explicit threat of death or bodily harm, present and imminent, no safe avenue of escape. Section 17 is narrowly construed. Distinguish: car thief forced at gunpoint (duress) vs. driver who runs red light to get to hospital (necessity)."
+            },
+            {
+              "subtopic_id": "intoxication",
+              "subtopic_heading": "Intoxication as a Defence",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 33.1"
+              ],
+              "common_misconceptions": [
+                "Students think intoxication is a full defence to any offence",
+                "Students forget the distinction between specific and general intent offences"
+              ],
+              "notes_for_generation": "Intoxication is only available for specific intent offences (murder, robbery, etc.) — not general intent offences (assault, sexual assault). Section 33.1: extreme intoxication (automatism-level) is not available as a defence to general intent offences involving violence after the Neumann/Sullivan analysis. Exam trap: accused is severely intoxicated during sexual assault — can they raise intoxication?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Sentencing",
+      "chapter_slug": "ch09-sentencing",
+      "lso_dtoc_ref": "Ch. 9",
+      "priority_weight": 5,
+      "topics": [
+        {
+          "topic_id": "sentencing_principles",
+          "topic_heading": "Principles and Objectives of Sentencing",
+          "subtopics": [
+            {
+              "subtopic_id": "fundamental_purpose",
+              "subtopic_heading": "Fundamental Purpose and Principles — s. 718",
+              "target_question_count": 5,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 5,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 718",
+                "s. 718.1",
+                "s. 718.2"
+              ],
+              "common_misconceptions": [
+                "Students list deterrence as the fundamental purpose — it is one of many objectives, not the fundamental purpose",
+                "Students forget s. 718.1 proportionality is the fundamental principle"
+              ],
+              "notes_for_generation": "Fundamental purpose (s. 718): protect society and contribute to a just, peaceful, safe society. Objectives: denunciation, deterrence, separation, rehabilitation, reparations, promoting a sense of responsibility. Fundamental principle (s. 718.1): sentence must be proportionate to the gravity of the offence and the degree of responsibility. Aggravating/mitigating factors (s. 718.2). PR angle: counsel who fails to make submissions on all relevant mitigating factors."
+            },
+            {
+              "subtopic_id": "sentencing_options",
+              "subtopic_heading": "Sentencing Options — Range and Types",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 731",
+                "s. 732",
+                "s. 733.1",
+                "s. 742.1",
+                "s. 745"
+              ],
+              "common_misconceptions": [
+                "Students forget conditional sentence orders are not available for offences with mandatory minimums",
+                "Students confuse absolute discharge (no conviction recorded) with conditional discharge (conviction recorded if conditions breached)"
+              ],
+              "notes_for_generation": "Options in ascending order: absolute discharge, conditional discharge, suspended sentence with probation, fine, conditional sentence order (served in community), imprisonment. Conditional sentences (s. 742.1): sentence under 2 years, judge satisfied the offender's serving in community does not endanger public safety, no mandatory minimum. Exam trap: client gets 18-month conditional sentence — is a conviction registered? Yes."
+            },
+            {
+              "subtopic_id": "victim_impact",
+              "subtopic_heading": "Victim Impact Statements and Restitution",
+              "target_question_count": 3,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 3,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 722",
+                "s. 738"
+              ],
+              "common_misconceptions": [
+                "Students think victim impact statements must be considered by the sentencing judge",
+                "Students forget restitution is an order on the offender, not a civil judgment"
+              ],
+              "notes_for_generation": "Victim impact statement: the court shall consider it if presented (s. 722). Restitution order (s. 738): court may order the offender to pay restitution for financial loss caused by the offence. PR angle: counsel who does not advise a victim-client about the right to make a victim impact statement."
+            }
+          ]
+        },
+        {
+          "topic_id": "sentencing_procedure",
+          "topic_heading": "Sentencing Procedure and Disputed Facts",
+          "subtopics": [
+            {
+              "subtopic_id": "newton_hearing",
+              "subtopic_heading": "Disputed Facts at Sentencing — Newton Hearing",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 724(3)"
+              ],
+              "common_misconceptions": [
+                "Students think any disputed fact must be proven beyond a reasonable doubt at sentencing",
+                "Students confuse aggravating facts (Crown must prove BARD) with mitigating facts (accused must prove on balance of probabilities)"
+              ],
+              "notes_for_generation": "Section 724(3): disputed aggravating facts must be proven by the Crown beyond a reasonable doubt. Mitigating facts: proven by the offender on a balance of probabilities. A Newton hearing is held when facts are disputed. Exam trap: Crown alleges aggravating circumstances in PSR — defence disputes — what is the standard?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Youth Criminal Justice",
+      "chapter_slug": "ch10-ycja",
+      "lso_dtoc_ref": "Ch. 10",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "ycja_principles",
+          "topic_heading": "YCJA — Principles and Purpose",
+          "subtopics": [
+            {
+              "subtopic_id": "ycja_principles_purpose",
+              "subtopic_heading": "Principles of the YCJA — s. 3",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 5,
+              "primary_statute": "Youth Criminal Justice Act, S.C. 2002, c. 1",
+              "key_sections": [
+                "s. 3(1)",
+                "s. 3(2)"
+              ],
+              "common_misconceptions": [
+                "Students apply adult criminal law principles to youth matters",
+                "Students think deterrence is a primary principle under the YCJA"
+              ],
+              "notes_for_generation": "The YCJA emphasizes: rehabilitation and reintegration, meaningful consequences appropriate to youth's developmental stage, reduced emphasis on deterrence compared to adult system, accountability without stigmatization. Test: a student who says youth should be deterred as adults are — is this consistent with the YCJA?"
+            },
+            {
+              "subtopic_id": "youth_sentencing_options",
+              "subtopic_heading": "Youth Sentencing Options",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Youth Criminal Justice Act, S.C. 2002, c. 1",
+              "key_sections": [
+                "s. 42(2)"
+              ],
+              "common_misconceptions": [
+                "Students think custody is the primary option for serious youth offences",
+                "Students forget extrajudicial measures must be considered first"
+              ],
+              "notes_for_generation": "Youth sentences in s. 42(2): reprimand, absolute discharge, conditional discharge, fine, community service, probation, deferred custody and supervision order, intensive support and supervision, custody and supervision. Extrajudicial measures must be considered before formal proceedings. Adult sentence: requires separate application — youth must be 14+, serious violent offence."
+            },
+            {
+              "subtopic_id": "adult_sentence_application",
+              "subtopic_heading": "Application for Adult Sentence",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Youth Criminal Justice Act, S.C. 2002, c. 1",
+              "key_sections": [
+                "s. 64",
+                "s. 72"
+              ],
+              "common_misconceptions": [
+                "Students think adult sentences are automatically imposed for serious offences",
+                "Students forget the burden is on the Crown to justify an adult sentence"
+              ],
+              "notes_for_generation": "Crown may apply for an adult sentence (accused 14+). Court must first determine whether a youth sentence would be of sufficient length to hold the young person accountable. If not, court may impose adult sentence. Crown bears the burden. Exam trap: 15-year-old charged with attempted murder — is an adult sentence automatic? No — requires application and Crown must satisfy the test."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Criminal Appeals",
+      "chapter_slug": "ch11-appeals",
+      "lso_dtoc_ref": "Ch. 11",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "summary_indictable_appeals",
+          "topic_heading": "Summary Conviction and Indictable Appeals",
+          "subtopics": [
+            {
+              "subtopic_id": "summary_conviction_appeal",
+              "subtopic_heading": "Summary Conviction Appeal — Route and Grounds",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 813",
+                "s. 822",
+                "s. 834"
+              ],
+              "common_misconceptions": [
+                "Students think summary conviction appeals go to the Court of Appeal",
+                "Students forget the appeal from summary conviction goes to SCJ (not ONCA)"
+              ],
+              "notes_for_generation": "Summary conviction appeals: from provincial court judge to SCJ. Grounds: error of law, factual findings unreasonable, miscarriage of justice. Further appeal to ONCA requires leave on a question of law alone (s. 839). Exam trap: client convicted summarily, wants to appeal — where does the appeal go?"
+            },
+            {
+              "subtopic_id": "indictable_appeal_grounds",
+              "subtopic_heading": "Indictable Offence Appeal — Grounds",
+              "target_question_count": 4,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 0,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": true,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code, R.S.C. 1985, c. C-46",
+              "key_sections": [
+                "s. 675",
+                "s. 676",
+                "s. 686(1)"
+              ],
+              "common_misconceptions": [
+                "Students think accused can appeal against conviction on any ground without leave",
+                "Students confuse accused's appeal rights with Crown's more limited rights"
+              ],
+              "notes_for_generation": "Accused may appeal conviction: as of right on questions of law, with leave on mixed law and fact or fact alone. Crown may appeal acquittal: only on questions of law. Powers of Court of Appeal (s. 686(1)): allow appeal (if wrong decision on law, unreasonable verdict, or miscarriage), dismiss appeal, or apply curative proviso (s. 686(1)(b)(iii) — no substantial wrong despite error). PR angle: counsel who fails to advise on grounds for appeal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "DNA Data Bank Orders and Sex Offender Registry",
+      "chapter_slug": "dna-soira",
+      "lso_dtoc_ref": "DNA Identification Act; Criminal Code ss.487.04–487.09; SOIRA ss.490.011–490.032",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "dna_soira",
+          "topic_heading": "Forensic Orders at Sentencing",
+          "subtopics": [
+            {
+              "subtopic_id": "dna_data_bank_orders",
+              "subtopic_heading": "DNA Data Bank Orders — Primary and Secondary Designated Offences",
+              "target_question_count": 6,
+              "minimum_question_count": 5,
+              "difficulty_split": {
+                "easy": 2,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code; DNA Identification Act",
+              "key_sections": [
+                "s.487.04",
+                "s.487.051",
+                "s.487.052",
+                "s.487.055"
+              ],
+              "common_misconceptions": [
+                "Students think the court always has discretion — for primary designated offences on indictment the order is mandatory unless the impact on privacy/dignity is grossly disproportionate.",
+                "Secondary designated offences require the Crown to apply and the court to be satisfied it is in the best interests of the administration of justice.",
+                "Retroactive orders (s.487.055) apply only to dangerous offenders and specific sex offenders already serving sentences."
+              ],
+              "notes_for_generation": "Focus on primary vs secondary distinction, the mandatory/discretionary split, and the grossly disproportionate exception. Exam trap: a s.487.052(2) order for secondary offences is never automatic."
+            },
+            {
+              "subtopic_id": "soira_registration",
+              "subtopic_heading": "Sex Offender Information Registration — SOIRA ss.490.011–490.032",
+              "target_question_count": 5,
+              "minimum_question_count": 4,
+              "difficulty_split": {
+                "easy": 2,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code",
+              "key_sections": [
+                "s.490.011",
+                "s.490.012",
+                "s.490.013",
+                "s.490.016",
+                "s.490.019"
+              ],
+              "common_misconceptions": [
+                "Students confuse the automatic obligation (on conviction for designated sex offence) with the court's discretion to exempt.",
+                "Duration varies: 10 years (max 2 years or less), life (repeat or max 14+ years or life sentence).",
+                "Exemption requires offender to establish registration would be grossly disproportionate to public-interest purpose."
+              ],
+              "notes_for_generation": "Cover mandatory vs discretionary registration, reporting obligations, duration rules, and the exemption application. Distinguish from DNA orders. Flag that failure to comply is a separate Criminal Code offence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 13,
+      "chapter_title": "Dangerous Offenders and Long-Term Offenders",
+      "chapter_slug": "dangerous-offenders",
+      "lso_dtoc_ref": "Criminal Code, Part XXIV, ss.752–761",
+      "priority_weight": 4,
+      "topics": [
+        {
+          "topic_id": "do_lto",
+          "topic_heading": "Preventive Detention and Supervision",
+          "subtopics": [
+            {
+              "subtopic_id": "dangerous_offender_designation",
+              "subtopic_heading": "Dangerous Offender Designation — s.753 Criminal Code",
+              "target_question_count": 6,
+              "minimum_question_count": 5,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 2,
+                "exam_trap": 1
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code",
+              "key_sections": [
+                "s.752",
+                "s.753",
+                "s.753.1",
+                "s.759"
+              ],
+              "common_misconceptions": [
+                "Students think a DO designation automatically means indeterminate detention — the court still has discretion to impose a fixed sentence plus long-term supervision if appropriate.",
+                "The Crown must apply before or at sentencing and must prove the predicate offence is a 'serious personal injury offence' as defined in s.752.",
+                "Exam trap: s.753(4.1) creates a presumption of indeterminate detention once the DO designation is made — the offender must rebut."
+              ],
+              "notes_for_generation": "Emphasise the definition of 'serious personal injury offence', the pattern-of-behaviour requirement, the Crown's burden (beyond a reasonable doubt on the predicate; balance of probabilities on the pattern), and the s.753(4.1) presumption. Distinguish DO from LTO."
+            },
+            {
+              "subtopic_id": "long_term_offender_designation",
+              "subtopic_heading": "Long-Term Offender Designation — s.753.1 Criminal Code",
+              "target_question_count": 4,
+              "minimum_question_count": 3,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 2,
+                "hard": 1,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 4,
+              "primary_statute": "Criminal Code",
+              "key_sections": [
+                "s.753.1",
+                "s.753.2",
+                "s.753.3"
+              ],
+              "common_misconceptions": [
+                "Students confuse LTO supervision (community) with DO indeterminate sentence.",
+                "LTO designation is available only where the court is not satisfied the DO criteria are met but there is a substantial risk of reoffending.",
+                "Supervision period under s.753.2 is up to 10 years and is served in the community after the custodial sentence."
+              ],
+              "notes_for_generation": "Focus on criteria distinguishing LTO from DO, the 10-year supervision maximum, and breach consequences under s.753.3. Note the court may impose LTO as an alternative to DO where appropriate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 14,
+      "chapter_title": "Proceeds of Crime and Asset Forfeiture",
+      "chapter_slug": "proceeds-of-crime",
+      "lso_dtoc_ref": "Criminal Code, Part XII.2, ss.462.3–462.5",
+      "priority_weight": 3,
+      "topics": [
+        {
+          "topic_id": "proceeds_crime",
+          "topic_heading": "Restraint and Forfeiture of Proceeds",
+          "subtopics": [
+            {
+              "subtopic_id": "restraint_orders",
+              "subtopic_heading": "Restraint Orders and Preservation of Proceeds — s.462.33",
+              "target_question_count": 2,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 1,
+                "hard": 0,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Criminal Code",
+              "key_sections": [
+                "s.462.3",
+                "s.462.33",
+                "s.462.34"
+              ],
+              "common_misconceptions": [
+                "Students think restraint requires a conviction — it is available pre-trial on application by the Attorney General.",
+                "Third parties with legitimate interest in restrained property may apply to vary the order under s.462.34."
+              ],
+              "notes_for_generation": "Cover the ex parte application basis, the required reasonable grounds, third-party variance rights, and the effect of a restraint order on dealing with property."
+            },
+            {
+              "subtopic_id": "forfeiture_orders",
+              "subtopic_heading": "Forfeiture Orders at Sentencing — ss.462.37 and 462.38",
+              "target_question_count": 2,
+              "minimum_question_count": 2,
+              "difficulty_split": {
+                "easy": 1,
+                "medium": 1,
+                "hard": 0,
+                "exam_trap": 0
+              },
+              "pr_angle_possible": false,
+              "priority_weight": 3,
+              "primary_statute": "Criminal Code",
+              "key_sections": [
+                "s.462.37",
+                "s.462.38",
+                "s.462.41"
+              ],
+              "common_misconceptions": [
+                "Students think forfeiture is automatic on conviction for a designated offence — the Crown must still apply and prove proceeds beyond reasonable doubt.",
+                "Fine in lieu of forfeiture under s.462.37(3) applies where property cannot be made subject to forfeiture (already dissipated)."
+              ],
+              "notes_for_generation": "Distinguish mandatory forfeiture (where property is proved to be proceeds of a designated offence) from discretionary forfeiture. Cover fine-in-lieu and the notice requirement to third parties under s.462.41."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
