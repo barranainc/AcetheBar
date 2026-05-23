@@ -1,0 +1,180 @@
+{
+  "_meta": {
+    "description": "Top-level index of all five Ontario Barrister Licensing Examination subjects",
+    "exam": "LSO Barrister Licensing Examination 2026",
+    "version": "1.0",
+    "last_updated": "2026-05-18",
+    "total_exam_questions": 220,
+    "exam_duration_minutes": 270,
+    "passing_score_percent": 65,
+    "source": "Law Society of Ontario — 2026 Barrister Licensing Examination"
+  },
+
+  "subjects": [
+    {
+      "subject_key": "civil_litigation",
+      "subject_label": "Civil Litigation",
+      "subject_code": "civ",
+      "blueprint_file": "data/blueprints/civil-litigation.json",
+      "questions_dir": "data/questions/civil-litigation/",
+      "lso_weight_percent": 25,
+      "approximate_exam_questions": 55,
+      "total_target_questions": 220,
+      "total_minimum_questions": 100,
+      "blueprint_status": "pending",
+      "notes": "Covers Ontario Rules of Civil Procedure, Courts of Justice Act, Class Proceedings Act, Limitations Act 2002, Libel and Slander Act, Execution Act, Juries Act. Heavy emphasis on procedural steps, timelines, and motion practice.",
+      "primary_statutes": [
+        "Rules of Civil Procedure, R.R.O. 1990, Reg. 194",
+        "Courts of Justice Act, R.S.O. 1990, c. C.43",
+        "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B",
+        "Class Proceedings Act, 1992, S.O. 1992, c. 6",
+        "Juries Act, R.S.O. 1990, c. J.3",
+        "Execution Act, R.S.O. 1990, c. E.24",
+        "Libel and Slander Act, R.S.O. 1990, c. L.12"
+      ],
+      "high_priority_topics": [
+        "Limitation periods",
+        "Examination for discovery",
+        "Summary judgment (Rule 20)",
+        "Motions practice",
+        "Appeals",
+        "Costs",
+        "Enforcement of orders",
+        "Service of documents"
+      ]
+    },
+
+    {
+      "subject_key": "criminal_law",
+      "subject_label": "Criminal Law",
+      "subject_code": "crim",
+      "blueprint_file": "data/blueprints/criminal-law.json",
+      "questions_dir": "data/questions/criminal-law/",
+      "lso_weight_percent": 25,
+      "approximate_exam_questions": 55,
+      "total_target_questions": 220,
+      "total_minimum_questions": 100,
+      "blueprint_status": "pending",
+      "notes": "Covers Criminal Code of Canada, Charter of Rights and Freedoms (criminal context), Canada Evidence Act, Youth Criminal Justice Act. Heavy emphasis on procedure, admissibility, bail, sentencing, and Charter remedies.",
+      "primary_statutes": [
+        "Criminal Code, R.S.C. 1985, c. C-46",
+        "Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982",
+        "Canada Evidence Act, R.S.C. 1985, c. C-5",
+        "Youth Criminal Justice Act, S.C. 2002, c. 1"
+      ],
+      "high_priority_topics": [
+        "Charter rights on arrest and detention (ss. 8, 9, 10)",
+        "Bail and judicial interim release (s. 515)",
+        "Election and plea",
+        "Evidence admissibility",
+        "Sexual assault (ss. 271, 276)",
+        "Sentencing principles",
+        "Not criminally responsible (s. 16)",
+        "YCJA procedure and sentencing"
+      ]
+    },
+
+    {
+      "subject_key": "family_law",
+      "subject_label": "Family Law",
+      "subject_code": "fam",
+      "blueprint_file": "data/blueprints/family-law.json",
+      "questions_dir": "data/questions/family-law/",
+      "lso_weight_percent": 25,
+      "approximate_exam_questions": 55,
+      "total_target_questions": 220,
+      "total_minimum_questions": 100,
+      "blueprint_status": "pending",
+      "notes": "Covers Family Law Act, Divorce Act, Children's Law Reform Act, Child Youth and Family Services Act 2017, Federal Child Support Guidelines, Family Responsibility and Support Arrears Enforcement Act, Change of Name Act, Income Tax implications. Heavy emphasis on property, support, parenting, and child protection.",
+      "primary_statutes": [
+        "Family Law Act, R.S.O. 1990, c. F.3",
+        "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.)",
+        "Children's Law Reform Act, R.S.O. 1990, c. C.12",
+        "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1",
+        "Federal Child Support Guidelines, SOR/97-175",
+        "Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31",
+        "Change of Name Act, R.S.O. 1990, c. C.7",
+        "Family Law Rules, O. Reg. 114/99"
+      ],
+      "high_priority_topics": [
+        "Net family property and equalization",
+        "Matrimonial home",
+        "Child support (table amount and s. 7 expenses)",
+        "Spousal support",
+        "Parenting orders and decision-making",
+        "Child protection proceedings",
+        "Domestic contracts",
+        "Limitation periods in family law"
+      ]
+    },
+
+    {
+      "subject_key": "public_law",
+      "subject_label": "Public Law",
+      "subject_code": "pub",
+      "blueprint_file": "data/blueprints/public-law.json",
+      "questions_dir": "data/questions/public-law/",
+      "lso_weight_percent": 15,
+      "approximate_exam_questions": 33,
+      "total_target_questions": 150,
+      "total_minimum_questions": 70,
+      "blueprint_status": "pending",
+      "notes": "Covers constitutional law, administrative law, judicial review, human rights, privacy, Aboriginal law. Includes Judicial Review Procedure Act, SPPA, FIPPA, PIPEDA, Crown Liability and Proceedings Act 2019, Residential Tenancies Act. High variance in topics — prepare broad coverage.",
+      "primary_statutes": [
+        "Canadian Charter of Rights and Freedoms",
+        "Constitution Act, 1982",
+        "Judicial Review Procedure Act, R.S.O. 1990, c. J.1",
+        "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22",
+        "Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31",
+        "Personal Information Protection and Electronic Documents Act, S.C. 2000, c. 5",
+        "Crown Liability and Proceedings Act, 2019, S.O. 2019, c. 7, Sched. 17",
+        "Residential Tenancies Act, 2006, S.O. 2006, c. 17",
+        "Human Rights Code, R.S.O. 1990, c. H.19",
+        "Federal Courts Act, R.S.C. 1985, c. F-7",
+        "Access to Information Act, R.S.C. 1985, c. A-1"
+      ],
+      "high_priority_topics": [
+        "Charter s. 1 (Oakes test)",
+        "Charter ss. 7, 8, 15",
+        "Judicial review — standard of review",
+        "Administrative tribunal jurisdiction",
+        "SPPA procedural rights",
+        "Privacy Commissioner powers (PIPEDA)",
+        "Crown immunity and liability",
+        "Aboriginal title and s. 35"
+      ]
+    },
+
+    {
+      "subject_key": "professional_responsibility",
+      "subject_label": "Professional Responsibility",
+      "subject_code": "pr",
+      "blueprint_file": "data/blueprints/professional-responsibility.json",
+      "questions_dir": "data/questions/professional-responsibility/",
+      "lso_weight_percent": 10,
+      "approximate_exam_questions": 22,
+      "total_target_questions": 120,
+      "total_minimum_questions": 60,
+      "blueprint_status": "pending",
+      "notes": "Covers LSO Rules of Professional Conduct, Law Society Act 1998, By-Laws 7 and 9, OHSA obligations for lawyers, PIPEDA obligations for law offices. PR also appears as an overlay in all other subjects — set pr_angle.applicable = true on cross-subject questions. Do not limit PR questions to standalone Professional Responsibility drills.",
+      "primary_statutes": [
+        "Law Society Act, 1998, S.O. 1998, c. 21, Sched.",
+        "Rules of Professional Conduct (LSO)",
+        "By-Law 7 (Financial Transactions and Records)",
+        "By-Law 9 (Trust Accounts and Financial Records)",
+        "Occupational Health and Safety Act, R.S.O. 1990, c. O.1",
+        "Personal Information Protection and Electronic Documents Act, S.C. 2000, c. 5"
+      ],
+      "high_priority_topics": [
+        "Conflicts of interest (Rule 3.4)",
+        "Confidentiality and exceptions (Rule 3.3)",
+        "Duties to the court (Rule 5.1)",
+        "Trust accounting (By-Law 9)",
+        "Withdrawal (Rule 3.7)",
+        "Communication with represented parties (Rule 7.2)",
+        "Competence (Rule 3.1)",
+        "LSO disciplinary process and appeal rights"
+      ]
+    }
+  ]
+}
