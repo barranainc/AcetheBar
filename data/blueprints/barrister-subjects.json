@@ -4,12 +4,12 @@
     "exam": "LSO Barrister Licensing Examination 2026",
     "version": "1.0",
     "last_updated": "2026-05-23",
-    "total_exam_questions": 220,
+    "total_exam_questions": 160,
     "exam_duration_minutes": 270,
     "passing_score_percent": 65,
-    "source": "Law Society of Ontario — 2026 Barrister Licensing Examination"
+    "source": "Law Society of Ontario — 2026 Barrister Licensing Examination",
+    "notes": "total_exam_questions=160 reflects the actual LSO Barrister exam. Professional Responsibility is not a standalone block in the 160-question mixed exam; it appears as embedded PR-angle questions across all four substantive subjects, AND as a separate PR standalone drill mode."
   },
-
   "subjects": [
     {
       "subject_key": "civil_litigation",
@@ -18,7 +18,7 @@
       "blueprint_file": "data/blueprints/civil-litigation.json",
       "questions_dir": "data/questions/civil-litigation/",
       "lso_weight_percent": 25,
-      "approximate_exam_questions": 55,
+      "approximate_exam_questions": 43,
       "total_target_questions": 250,
       "total_minimum_questions": 135,
       "blueprint_status": "complete",
@@ -43,7 +43,6 @@
         "Service of documents"
       ]
     },
-
     {
       "subject_key": "criminal_law",
       "subject_label": "Criminal Law",
@@ -51,7 +50,7 @@
       "blueprint_file": "data/blueprints/criminal-law.json",
       "questions_dir": "data/questions/criminal-law/",
       "lso_weight_percent": 25,
-      "approximate_exam_questions": 55,
+      "approximate_exam_questions": 43,
       "total_target_questions": 180,
       "total_minimum_questions": 105,
       "blueprint_status": "complete",
@@ -73,7 +72,6 @@
         "YCJA procedure and sentencing"
       ]
     },
-
     {
       "subject_key": "family_law",
       "subject_label": "Family Law",
@@ -81,7 +79,7 @@
       "blueprint_file": "data/blueprints/family-law.json",
       "questions_dir": "data/questions/family-law/",
       "lso_weight_percent": 25,
-      "approximate_exam_questions": 55,
+      "approximate_exam_questions": 39,
       "total_target_questions": 181,
       "total_minimum_questions": 104,
       "blueprint_status": "complete",
@@ -107,7 +105,6 @@
         "Limitation periods in family law"
       ]
     },
-
     {
       "subject_key": "public_law",
       "subject_label": "Public Law",
@@ -115,7 +112,7 @@
       "blueprint_file": "data/blueprints/public-law.json",
       "questions_dir": "data/questions/public-law/",
       "lso_weight_percent": 15,
-      "approximate_exam_questions": 33,
+      "approximate_exam_questions": 35,
       "total_target_questions": 120,
       "total_minimum_questions": 65,
       "blueprint_status": "complete",
@@ -144,7 +141,6 @@
         "Aboriginal title and s. 35"
       ]
     },
-
     {
       "subject_key": "professional_responsibility",
       "subject_label": "Professional Responsibility",
@@ -152,9 +148,8 @@
       "blueprint_file": "data/blueprints/professional-responsibility.json",
       "questions_dir": "data/questions/professional-responsibility/",
       "lso_weight_percent": 10,
-      "approximate_exam_questions": 22,
       "total_target_questions": 159,
-      "total_minimum_questions": 70,
+      "total_minimum_questions": 87,
       "blueprint_status": "complete",
       "notes": "Covers LSO Rules of Professional Conduct, Law Society Act 1998, By-Laws 7 and 9, OHSA obligations for lawyers, PIPEDA obligations for law offices. PR also appears as an overlay in all other subjects — set pr_angle.applicable = true on cross-subject questions. Do not limit PR questions to standalone Professional Responsibility drills.",
       "primary_statutes": [
@@ -174,7 +169,44 @@
         "Communication with represented parties (Rule 7.2)",
         "Competence (Rule 3.1)",
         "LSO disciplinary process and appeal rights"
-      ]
+      ],
+      "exam_mode": "PR questions are not a standalone block in the 160-question mixed Barrister exam. Use: (1) pr_standalone_drill for dedicated PR study; (2) pr_overlay_exam to surface PR angles across all subjects; (3) subject_drill for a full PR question-bank drill."
     }
-  ]
+  ],
+  "exam_assembly_rules": {
+    "full_barrister_exam": {
+      "description": "160-question mixed exam mirroring the real LSO 2026 Barrister exam format. Questions are drawn from the four substantive subject banks.",
+      "total_questions": 160,
+      "allocation": {
+        "civil_litigation": 43,
+        "criminal_law": 43,
+        "family_law": 39,
+        "public_law": 35
+      },
+      "pr_treatment": "embedded_overlay",
+      "pr_overlay_note": "Professional Responsibility questions appear as PR-angle overlays embedded within the four substantive sections (e.g., a civil litigation question that also tests a duty to the court, or a family law question that tests a conflict of interest). pr_angle.applicable=true on a question flags it for inclusion in PR overlay reports. PR is NOT a separate scored section in the 160-question mixed exam."
+    },
+    "subject_drill": {
+      "description": "A timed drill drawing questions from a single subject blueprint. Available for all five subjects including Professional Responsibility.",
+      "recommended_length_questions": 30,
+      "maximum_length_questions": "entire subject bank",
+      "all_five_subjects_available": true
+    },
+    "pr_standalone_drill": {
+      "description": "A dedicated Professional Responsibility drill drawing from data/questions/professional-responsibility/ only.",
+      "recommended_length_questions": 25,
+      "source_subject": "professional_responsibility",
+      "notes": "Suitable for targeted PR study before the actual Barrister exam. Not representative of the mixed 160-question exam format."
+    },
+    "pr_overlay_exam": {
+      "description": "A 160-question exam where every question with pr_angle.applicable=true is preferentially selected from all four substantive subjects. Surfaces the PR dimension of the Barrister exam without changing question text or answer keys.",
+      "selection_criterion": "pr_angle.applicable == true",
+      "implementation_phase": "Phase 6"
+    },
+    "weak_area_drill": {
+      "description": "A targeted drill populated from subtopics where the student has scored below a configured threshold (default 70%) in previous sessions.",
+      "requires": "data/analytics/ session history",
+      "implementation_phase": "Phase 4"
+    }
+  }
 }

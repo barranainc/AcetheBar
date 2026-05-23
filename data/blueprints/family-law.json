@@ -1068,7 +1068,7 @@
               },
               "pr_angle_possible": false,
               "priority_weight": 4,
-              "primary_statute": "Family Law Act",
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
               "key_sections": [
                 "FLA s.29",
                 "FLA s.30",
@@ -1109,7 +1109,7 @@
               },
               "pr_angle_possible": false,
               "priority_weight": 4,
-              "primary_statute": "Family Law Act",
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
               "key_sections": [
                 "FLA s.4(1)",
                 "FLA s.10.1",
@@ -1161,7 +1161,7 @@
               },
               "pr_angle_possible": false,
               "priority_weight": 3,
-              "primary_statute": "Family Law Act",
+              "primary_statute": "Family Law Act, R.S.O. 1990, c. F.3",
               "key_sections": [
                 "FLA s.34(1)(h)",
                 "FLA s.34(4)"
@@ -1296,7 +1296,7 @@
               },
               "pr_angle_possible": false,
               "priority_weight": 3,
-              "primary_statute": "Children's Law Reform Act",
+              "primary_statute": "Children's Law Reform Act, R.S.O. 1990, c. C.12",
               "key_sections": [
                 "CLRA s.21(1)",
                 "CLRA s.24",
