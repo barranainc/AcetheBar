@@ -1,0 +1,277 @@
+[
+  {
+    "id": "crim-04-stinch-001",
+    "subject": "criminal_law",
+    "chapter_number": 4,
+    "chapter_title": "Disclosure",
+    "topic_id": "crown_disclosure",
+    "topic_heading": "Crown Duty to Disclose",
+    "subtopic_id": "stinchcombe_obligations",
+    "subtopic_heading": "Crown Duty to Disclose — Stinchcombe Principles",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The Crown has obtained a signed statement from a witness who says the accused was definitely not at the location where the crime was committed. Crown has decided not to call this witness at trial and has not provided the statement to defence.",
+    "call_of_question": "Is Crown required to disclose this exculpatory witness statement to defence?",
+    "options": {
+      "A": "No — the Crown need only disclose evidence it intends to introduce at trial.",
+      "B": "Yes — under R v Stinchcombe, the Crown must disclose all relevant information regardless of whether it intends to use it at trial, including exculpatory evidence that may assist the defence.",
+      "C": "Only if defence specifically requests the statement in a disclosure application.",
+      "D": "No — a witness statement favourable to the accused is protected by litigation privilege."
+    },
+    "correct_answer": "B",
+    "explanation": "R v Stinchcombe [1991] 3 SCR 326 established the foundational rule that the Crown must disclose all relevant information in its possession — whether inculpatory or exculpatory — to the defence. The obligation is not limited to evidence Crown intends to use at trial. An exculpatory alibi witness statement is precisely the kind of evidence that must be disclosed because it may assist the accused in making a full answer and defence, as guaranteed by s. 7 of the Charter.",
+    "why_A_wrong": "Stinchcombe explicitly rejected limiting disclosure to evidence Crown plans to use. The duty extends to all relevant information, regardless of Crown's intended use.",
+    "why_B_wrong": "This IS the correct answer. Yes — under R v Stinchcombe, the Crown must disclose all relevant information regardless of whether it intends to use it at trial, including exculpatory evidence that may assist the defence.",
+    "why_C_wrong": "Stinchcombe imposes an affirmative and ongoing duty on Crown to disclose relevant material. Defence need not make a specific application for each item; the duty is proactive, not demand-driven.",
+    "why_D_wrong": "Litigation privilege does not shield exculpatory evidence from Stinchcombe disclosure. The duty to make full answer and defence overrides any such claim in the context of relevant evidence.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 4: Disclosure",
+      "heading": "Crown Duty to Disclose — Stinchcombe Principles",
+      "page": "N/A",
+      "rule_or_statute_reference": "R v Stinchcombe, [1991] 3 SCR 326; Canadian Charter of Rights and Freedoms, s. 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Stinchcombe",
+      "disclosure",
+      "exculpatory",
+      "all relevant information",
+      "Crown duty"
+    ],
+    "tested_concepts": [
+      "Stinchcombe disclosure duty",
+      "exculpatory evidence",
+      "all relevant information"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-04-stinch-002",
+    "subject": "criminal_law",
+    "chapter_number": 4,
+    "chapter_title": "Disclosure",
+    "topic_id": "crown_disclosure",
+    "topic_heading": "Crown Duty to Disclose",
+    "subtopic_id": "stinchcombe_obligations",
+    "subtopic_heading": "Crown Duty to Disclose — Stinchcombe Principles",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An accused is charged with aggravated assault. Crown provides a package of initial disclosure two weeks before the scheduled election date. Defence counsel argues that disclosure should have been provided earlier and challenges the timing.",
+    "call_of_question": "When must Stinchcombe disclosure be made to the accused?",
+    "options": {
+      "A": "Disclosure must be provided at the first court appearance.",
+      "B": "Disclosure must be made before the accused is required to elect or enter a plea, and the duty is continuing as new information becomes available.",
+      "C": "Disclosure must be provided at least 60 days before the trial date.",
+      "D": "Crown may wait until the eve of trial to provide disclosure of all but the most critical evidence."
+    },
+    "correct_answer": "B",
+    "explanation": "Stinchcombe held that initial disclosure must be made before the accused is required to elect the mode of trial or enter a plea — because those decisions should be made with knowledge of the evidence. The duty is also explicitly continuing: as new information comes into Crown's possession, it must be disclosed promptly. Providing disclosure two weeks before the election date may be compliant depending on when the election is scheduled, but the core rule is that it must precede election and plea.",
+    "why_A_wrong": "Stinchcombe does not require disclosure at the first appearance, although prompt disclosure is encouraged. The binding requirement is that disclosure precede election or plea.",
+    "why_B_wrong": "This IS the correct answer. Disclosure must be made before the accused is required to elect or enter a plea, and the duty is continuing as new information becomes available.",
+    "why_C_wrong": "There is no fixed 60-day rule in Stinchcombe. The trigger is the election and plea, not a calendar deadline counted from trial.",
+    "why_D_wrong": "Waiting until the eve of trial violates the Stinchcombe rule that disclosure must precede election and plea, and also violates the principle that the duty is continuing and timely.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 4: Disclosure",
+      "heading": "Crown Duty to Disclose — Stinchcombe Principles",
+      "page": "N/A",
+      "rule_or_statute_reference": "R v Stinchcombe, [1991] 3 SCR 326; Canadian Charter of Rights and Freedoms, s. 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "timing of disclosure",
+      "before election",
+      "before plea",
+      "Stinchcombe",
+      "continuing duty"
+    ],
+    "tested_concepts": [
+      "timing of Stinchcombe disclosure",
+      "before election or plea",
+      "continuing duty"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-04-stinch-003",
+    "subject": "criminal_law",
+    "chapter_number": 4,
+    "chapter_title": "Disclosure",
+    "topic_id": "crown_disclosure",
+    "topic_heading": "Crown Duty to Disclose",
+    "subtopic_id": "stinchcombe_obligations",
+    "subtopic_heading": "Crown Duty to Disclose — Stinchcombe Principles",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Police used a confidential informant to gather evidence leading to the accused's arrest for drug trafficking. The informant's tip was central to obtaining the search warrant. Defence brings a Stinchcombe application seeking full disclosure of all information about the informant, including identity.",
+    "call_of_question": "How does informer privilege interact with Crown's Stinchcombe duty to disclose?",
+    "options": {
+      "A": "Stinchcombe always prevails; the Crown must disclose all relevant information including the identity of any confidential informant.",
+      "B": "Informer privilege is a near-absolute common law privilege; the identity of a confidential informant need not be disclosed even if such information is relevant, because the privilege protects informants and the public interest in law enforcement.",
+      "C": "Informant identity is protected for 30 days following the relevant proceedings; after that period, Stinchcombe requires full disclosure.",
+      "D": "Defence may always obtain informant identity disclosure by successfully bringing a Stinchcombe application."
+    },
+    "correct_answer": "B",
+    "explanation": "Informer privilege is one of the recognised exceptions to the Stinchcombe duty to disclose. It is described as a near-absolute privilege at common law, designed to protect the safety of confidential informants and to preserve the public interest in the free flow of information to law enforcement. The Crown is not required to disclose the identity of a confidential informant even where that information is relevant and potentially helpful to the defence. The privilege can be displaced only in the rarest circumstances — notably, the innocence-at-stake exception.",
+    "why_A_wrong": "Stinchcombe itself recognised that the disclosure duty is subject to exceptions, including privilege. Informer privilege is one such exception and can override the general disclosure rule.",
+    "why_B_wrong": "This IS the correct answer. Informer privilege is a near-absolute common law privilege; the identity of a confidential informant need not be disclosed even if such information is relevant, because the privilege protects informants and the public interest in law enforcement.",
+    "why_C_wrong": "There is no 30-day time limit on informer privilege. The privilege persists indefinitely as a matter of law and does not expire after any fixed period.",
+    "why_D_wrong": "A Stinchcombe application does not override informer privilege. Informant identity remains protected unless the accused can establish the innocence-at-stake exception, which is an extremely high threshold.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 4: Disclosure",
+      "heading": "Crown Duty to Disclose — Stinchcombe Principles",
+      "page": "N/A",
+      "rule_or_statute_reference": "R v Stinchcombe, [1991] 3 SCR 326; Canadian Charter of Rights and Freedoms, s. 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "informer privilege",
+      "Stinchcombe exception",
+      "confidential informant",
+      "identity disclosure",
+      "near-absolute privilege"
+    ],
+    "tested_concepts": [
+      "informer privilege",
+      "Stinchcombe exceptions",
+      "innocence-at-stake exception"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-04-stinch-004",
+    "subject": "criminal_law",
+    "chapter_number": 4,
+    "chapter_title": "Disclosure",
+    "topic_id": "crown_disclosure",
+    "topic_heading": "Crown Duty to Disclose",
+    "subtopic_id": "stinchcombe_obligations",
+    "subtopic_heading": "Crown Duty to Disclose — Stinchcombe Principles",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Crown complied fully with its initial Stinchcombe disclosure obligation. Two months before trial, the police laboratory completes a DNA analysis that was not yet available at the time of initial disclosure. The DNA results actually exculpate the accused. Crown does not provide this new report to defence until the morning of the first day of trial.",
+    "call_of_question": "Has Crown violated its disclosure obligations by waiting until the day of trial to disclose the new DNA evidence?",
+    "options": {
+      "A": "No — once initial disclosure is complete, Crown has discharged its obligation and has no further duty to disclose.",
+      "B": "No — evidence obtained after the initial disclosure is exempt from the continuing duty under Stinchcombe.",
+      "C": "Yes — R v Stinchcombe imposes a continuing duty to disclose; the Crown must disclose new relevant evidence promptly as it is obtained, and waiting until the day of trial to disclose exculpatory DNA evidence may prejudice the accused's right to make full answer and defence.",
+      "D": "No — Crown has a discretion to time the disclosure of forensic reports and may choose to disclose on the first day of trial."
+    },
+    "correct_answer": "C",
+    "explanation": "Stinchcombe held that the disclosure duty is explicitly continuing — it does not end with the initial disclosure package. As new relevant information becomes available, it must be disclosed in a timely manner. Waiting two months to disclose exculpatory DNA evidence until the morning of trial is a breach of the continuing duty. Such late disclosure may deprive defence of the opportunity to properly investigate, reconsider the accused's election and plea, or seek a stay of proceedings. Crown has no discretion to strategically time the disclosure of relevant evidence.",
+    "why_A_wrong": "Stinchcombe is explicit that the disclosure obligation continues throughout the proceedings. There is no exhaustion of duty upon completing initial disclosure.",
+    "why_B_wrong": "There is no exemption for evidence obtained after initial disclosure. The continuing duty applies to all relevant information, regardless of when it comes into Crown's hands.",
+    "why_C_wrong": "This IS the correct answer. Yes — R v Stinchcombe imposes a continuing duty to disclose; the Crown must disclose new relevant evidence promptly as it is obtained, and waiting until the day of trial to disclose exculpatory DNA evidence may prejudice the accused's right to make full answer and defence.",
+    "why_D_wrong": "Crown has no discretion to strategically delay disclosure of relevant evidence. The duty is to disclose promptly. Deliberately timing disclosure to reduce defence preparation time would compound the breach.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 4: Disclosure",
+      "heading": "Crown Duty to Disclose — Stinchcombe Principles",
+      "page": "N/A",
+      "rule_or_statute_reference": "R v Stinchcombe, [1991] 3 SCR 326; Canadian Charter of Rights and Freedoms, s. 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "continuing duty",
+      "Stinchcombe",
+      "new evidence",
+      "late disclosure",
+      "exculpatory DNA"
+    ],
+    "tested_concepts": [
+      "continuing disclosure duty",
+      "late disclosure",
+      "exculpatory evidence after initial disclosure"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-04-stinch-005",
+    "subject": "criminal_law",
+    "chapter_number": 4,
+    "chapter_title": "Disclosure",
+    "topic_id": "crown_disclosure",
+    "topic_heading": "Crown Duty to Disclose",
+    "subtopic_id": "stinchcombe_obligations",
+    "subtopic_heading": "Crown Duty to Disclose — Stinchcombe Principles",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "During trial, Crown discloses for the first time a key police officer's notebook containing notes that undermine the officer's credibility. Defence had been unaware of the notes. Defence seeks a stay of proceedings on the basis of Crown's non-disclosure. The trial judge notes that the notes can be reviewed overnight and trial can resume the next day.",
+    "call_of_question": "What is the appropriate remedy for Crown's non-disclosure, and in what circumstances will a stay of proceedings be granted?",
+    "options": {
+      "A": "A stay of proceedings is the automatic and mandatory remedy for any breach of Crown's Stinchcombe disclosure obligations.",
+      "B": "The accused can never obtain a stay for non-disclosure; the only remedy is an adjournment.",
+      "C": "The primary remedy is an adjournment to allow the accused to review the disclosed material; a stay of proceedings is reserved for cases where the non-disclosure has caused irreparable prejudice to the accused's right to make full answer and defence.",
+      "D": "Crown is immune from any sanction for non-disclosure where the omission was inadvertent rather than deliberate."
+    },
+    "correct_answer": "C",
+    "explanation": "The courts have established a spectrum of remedies for Crown non-disclosure. An adjournment to review newly disclosed material is the most common and least drastic remedy, appropriate where the prejudice can be cured by additional time. A stay of proceedings is the most serious Charter remedy and is reserved for cases where the accused has suffered irreparable prejudice to the right to make full answer and defence — prejudice that cannot be cured by any lesser remedy. On these facts, an overnight adjournment appears to cure the prejudice, making a stay inappropriate.",
+    "why_A_wrong": "A stay is not automatic. It is the most exceptional remedy available and requires a finding of irreparable prejudice that cannot be remedied by less drastic measures.",
+    "why_B_wrong": "A stay is available in extreme cases of non-disclosure where the prejudice is genuinely irreparable. It is not categorically unavailable — it is simply reserved for the most serious situations.",
+    "why_C_wrong": "This IS the correct answer. The primary remedy is an adjournment to allow the accused to review the disclosed material; a stay of proceedings is reserved for cases where the non-disclosure has caused irreparable prejudice to the accused's right to make full answer and defence.",
+    "why_D_wrong": "The availability of a Charter remedy for non-disclosure does not depend on Crown's intent. Inadvertent non-disclosure can still result in an adjournment or, in extreme cases, a stay, depending on the prejudice caused.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 4: Disclosure",
+      "heading": "Crown Duty to Disclose — Stinchcombe Principles",
+      "page": "N/A",
+      "rule_or_statute_reference": "R v Stinchcombe, [1991] 3 SCR 326; Canadian Charter of Rights and Freedoms, s. 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "stay of proceedings",
+      "non-disclosure remedy",
+      "adjournment",
+      "irreparable prejudice",
+      "full answer and defence"
+    ],
+    "tested_concepts": [
+      "remedies for non-disclosure",
+      "stay of proceedings threshold",
+      "adjournment as primary remedy"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  }
+]

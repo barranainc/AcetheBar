@@ -1,0 +1,276 @@
+[
+  {
+    "id": "civ-07-summ-judg-001",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_motion",
+    "topic_heading": "Summary Judgment",
+    "subtopic_id": "genuine_issue_test",
+    "subtopic_heading": "No Genuine Issue Requiring a Trial",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A defendant moves for summary judgment, arguing that the plaintiff's claim has no merit and should be dismissed without trial. The plaintiff has not filed any responding evidence.",
+    "call_of_question": "What is the legal test a motion judge applies on a summary judgment motion under the Rules of Civil Procedure?",
+    "options": {
+      "A": "Whether the plaintiff's claim has less than a 50% probability of success at trial.",
+      "B": "Whether there is a genuine issue requiring a trial, assessed by asking whether the court can make a fair and just determination on the record under the Hryniak v Mauldin framework.",
+      "C": "Whether the defendant can prove its defence on a balance of probabilities.",
+      "D": "Whether the plaintiff can establish a prima facie case for its claim at the motion stage."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 20.04(2)(b) of the Rules of Civil Procedure provides that the court shall grant summary judgment if it is satisfied there is no genuine issue requiring a trial. In Hryniak v Mauldin, 2014 SCC 7, the Supreme Court of Canada confirmed that the governing question is whether the motion judge can achieve a fair and just adjudication on the motion record — a culture shift toward proportionate, accessible, and timely justice.",
+    "why_A_wrong": "Summary judgment does not ask whether the plaintiff is likely to succeed. The question is whether a trial is needed, not the predicted outcome of trial.",
+    "why_B_wrong": "This IS the correct answer. The Hryniak framework asks whether there is a genuine issue requiring a trial and whether the court can make a fair and just determination on the record.",
+    "why_C_wrong": "Summary judgment is not a mini-trial on the merits. The defendant does not need to prove its defence; the question is whether a trial is required.",
+    "why_D_wrong": "Prima facie case is not the summary judgment test. The test focuses on whether there is a genuine issue requiring a trial.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 7 — Summary Judgment",
+      "heading": "No Genuine Issue Requiring a Trial",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, r. 20.04(2)(b); Hryniak v Mauldin, 2014 SCC 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "summary judgment",
+      "genuine issue",
+      "trial",
+      "Hryniak",
+      "r. 20.04"
+    ],
+    "tested_concepts": [
+      "r. 20.04(2)(b) test",
+      "Hryniak v Mauldin framework",
+      "fair and just determination"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-07-summ-judg-002",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_motion",
+    "topic_heading": "Summary Judgment",
+    "subtopic_id": "genuine_issue_test",
+    "subtopic_heading": "No Genuine Issue Requiring a Trial",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "On a summary judgment motion, the motion judge is presented with competing affidavit evidence. The judge prefers the defendant's evidence on a key factual issue and wishes to resolve the dispute without sending it to trial.",
+    "call_of_question": "Under what circumstances may a motion judge weigh evidence and assess credibility on a summary judgment motion?",
+    "options": {
+      "A": "A motion judge may never weigh evidence; if there is conflicting evidence on a material fact, the case must proceed to trial.",
+      "B": "A motion judge may always weigh evidence and assess credibility on a summary judgment motion without any restriction.",
+      "C": "Under r. 20.04(2.1) of the Rules of Civil Procedure, a motion judge may weigh evidence, evaluate credibility, and draw reasonable inferences, but only if doing so would not be unjust.",
+      "D": "A motion judge may weigh evidence and assess credibility only if both parties expressly consent to this approach."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 20.04(2.1) of the Rules of Civil Procedure grants motion judges expanded powers on summary judgment, including the ability to weigh evidence, draw reasonable inferences from the evidence, and evaluate credibility of deponents. However, these powers may be exercised only if it would not be unjust to do so. This threshold reflects the Hryniak v Mauldin, 2014 SCC 7 principle that summary judgment should be granted where it can be done fairly and justly, but not at the expense of a party's right to a full hearing on a genuinely contested credibility issue.",
+    "why_A_wrong": "This was the pre-Hryniak position. After Hryniak v Mauldin and the amendment introducing r. 20.04(2.1), motion judges now have express power to weigh evidence and assess credibility.",
+    "why_B_wrong": "The expanded powers under r. 20.04(2.1) are subject to the condition that exercising them would not be unjust. There is a threshold that must be met.",
+    "why_C_wrong": "This IS the correct answer. Rule 20.04(2.1) permits weighing evidence and assessing credibility if it would not be unjust to do so.",
+    "why_D_wrong": "Consent of the parties is not required for a motion judge to exercise the expanded powers under r. 20.04(2.1).",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 7 — Summary Judgment",
+      "heading": "No Genuine Issue Requiring a Trial",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, r. 20.04(2.1); Hryniak v Mauldin, 2014 SCC 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "weigh evidence",
+      "credibility",
+      "r. 20.04(2.1)",
+      "unjust",
+      "Hryniak"
+    ],
+    "tested_concepts": [
+      "r. 20.04(2.1) expanded powers",
+      "unjust threshold",
+      "credibility on summary judgment"
+    ],
+    "estimated_time_seconds": 105,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-07-summ-judg-003",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_motion",
+    "topic_heading": "Summary Judgment",
+    "subtopic_id": "genuine_issue_test",
+    "subtopic_heading": "No Genuine Issue Requiring a Trial",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The plaintiff successfully moves for summary judgment on the issue of liability. However, the parties dispute the quantum of damages, and the motion judge finds there is a genuine issue requiring a trial on that question.",
+    "call_of_question": "Can the court grant summary judgment on the issue of liability alone and direct that the issue of damages proceed to trial?",
+    "options": {
+      "A": "No — summary judgment must resolve all issues in the action or it cannot be granted at all.",
+      "B": "Yes — r. 20.04(3) of the Rules of Civil Procedure permits the court to grant judgment on some issues while directing a trial on the remaining issues.",
+      "C": "No — granting judgment on liability alone would deprive the defendant of the right to a full trial on all issues in the action.",
+      "D": "Only if both parties consent to bifurcating liability and damages."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 20.04(3) of the Rules of Civil Procedure expressly permits partial summary judgment. The court may grant judgment in respect of some claims or some parties and direct a trial for the remaining issues. This allows courts to resolve discrete issues efficiently while preserving the right to a trial on genuinely contested questions. Partial summary judgment on liability, with damages to be determined at trial, is a recognized and permitted procedure.",
+    "why_A_wrong": "Rule 20.04(3) expressly provides for partial summary judgment. Summary judgment need not resolve every issue in the action.",
+    "why_B_wrong": "This IS the correct answer. Rule 20.04(3) authorizes the court to grant judgment on some issues and direct a trial on others.",
+    "why_C_wrong": "There is no absolute right to a full trial on all issues when some can be fairly resolved by summary judgment. Partial summary judgment under r. 20.04(3) is expressly authorized.",
+    "why_D_wrong": "Consent of the parties is not required for partial summary judgment under r. 20.04(3). The court may grant partial judgment on its own assessment of the record.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 7 — Summary Judgment",
+      "heading": "No Genuine Issue Requiring a Trial",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, r. 20.04(3)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "partial summary judgment",
+      "r. 20.04(3)",
+      "liability",
+      "damages",
+      "bifurcation"
+    ],
+    "tested_concepts": [
+      "r. 20.04(3) partial summary judgment",
+      "liability vs. quantum bifurcation",
+      "no consent required"
+    ],
+    "estimated_time_seconds": 100,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-07-summ-judg-004",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_motion",
+    "topic_heading": "Summary Judgment",
+    "subtopic_id": "genuine_issue_test",
+    "subtopic_heading": "No Genuine Issue Requiring a Trial",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A defendant is served with a summary judgment motion. The defendant receives proper notice of the motion but fails to file any responding evidence. The plaintiff's evidence is detailed and uncontradicted.",
+    "call_of_question": "What should the court do in these circumstances?",
+    "options": {
+      "A": "Adjourn the motion to give the defendant a further opportunity to respond.",
+      "B": "Dismiss the motion because summary judgment requires the consent of both parties.",
+      "C": "Deny summary judgment automatically because every defendant has an absolute right to a trial.",
+      "D": "Grant summary judgment if the plaintiff's uncontradicted evidence establishes there is no genuine issue requiring a trial."
+    },
+    "correct_answer": "D",
+    "explanation": "Where a defendant has been properly served with a summary judgment motion and fails to file responding evidence, the court may proceed on the motion. If the plaintiff's uncontradicted evidence demonstrates there is no genuine issue requiring a trial, the court may grant summary judgment under r. 20.04(2)(b). The defendant's failure to put its best foot forward does not automatically result in an adjournment or dismissal of the motion.",
+    "why_A_wrong": "The court is not required to adjourn when the defendant has received proper notice. If the record supports summary judgment, the motion may proceed to determination.",
+    "why_B_wrong": "Summary judgment does not require consent of both parties. It is available at the instance of one party where the legal test is satisfied.",
+    "why_C_wrong": "There is no absolute right to a trial in civil proceedings. Summary judgment exists precisely to resolve cases where a trial is not necessary.",
+    "why_D_wrong": "This IS the correct answer. Uncontradicted evidence that establishes no genuine issue requiring a trial supports granting summary judgment.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 7 — Summary Judgment",
+      "heading": "No Genuine Issue Requiring a Trial",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, r. 20.04(2)(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "uncontradicted evidence",
+      "no responding evidence",
+      "summary judgment",
+      "genuine issue"
+    ],
+    "tested_concepts": [
+      "uncontradicted evidence supports summary judgment",
+      "no absolute right to trial",
+      "r. 20.04(2)(b)"
+    ],
+    "estimated_time_seconds": 85,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-07-summ-judg-005",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_motion",
+    "topic_heading": "Summary Judgment",
+    "subtopic_id": "genuine_issue_test",
+    "subtopic_heading": "No Genuine Issue Requiring a Trial",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "On a summary judgment motion, the defendant argues that because the affiants on each side give conflicting accounts of the same events, a credibility dispute exists that makes a trial mandatory. The defendant relies on pre-Hryniak case law for this proposition.",
+    "call_of_question": "Is the defendant's argument correct after Hryniak v Mauldin, 2014 SCC 7?",
+    "options": {
+      "A": "Yes — credibility disputes between affiants always require a trial in Ontario.",
+      "B": "No — after Hryniak v Mauldin, 2014 SCC 7, a credibility dispute does not automatically preclude summary judgment; the motion judge may assess credibility under r. 20.04(2.1) if it would not be unjust to do so.",
+      "C": "Yes — the Canadian Charter of Rights and Freedoms guarantees the right to present live testimony before any adverse credibility finding is made.",
+      "D": "No — but the motion judge may assess credibility only if the opposing party has waived its right to cross-examine the affiants."
+    },
+    "correct_answer": "B",
+    "explanation": "Before Hryniak v Mauldin, 2014 SCC 7, it was widely accepted in Ontario that credibility disputes automatically necessitated a trial. Hryniak changed this. The Supreme Court held that motion judges, exercising the expanded powers under r. 20.04(2.1), may assess credibility on a summary judgment motion if doing so would not be unjust. A credibility dispute is therefore not an automatic bar to summary judgment; the motion judge must assess whether resolving the credibility issue without a trial would be fair in the circumstances.",
+    "why_A_wrong": "This was the pre-Hryniak position. Hryniak v Mauldin expressly changed the law — credibility disputes no longer automatically require a trial.",
+    "why_B_wrong": "This IS the correct answer. Hryniak and r. 20.04(2.1) allow a motion judge to assess credibility if it would not be unjust to do so.",
+    "why_C_wrong": "The Canadian Charter of Rights and Freedoms does not guarantee a right to present live testimony in civil summary judgment proceedings. The Charter's fair hearing protections apply differently in civil and administrative contexts.",
+    "why_D_wrong": "There is no requirement that the opposing party waive its right to cross-examine before a motion judge can assess credibility under r. 20.04(2.1).",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 7 — Summary Judgment",
+      "heading": "No Genuine Issue Requiring a Trial",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, r. 20.04(2.1); Hryniak v Mauldin, 2014 SCC 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "credibility",
+      "Hryniak",
+      "r. 20.04(2.1)",
+      "automatically preclude",
+      "trial mandatory"
+    ],
+    "tested_concepts": [
+      "Hryniak changed credibility rule",
+      "r. 20.04(2.1) credibility assessment",
+      "credibility not automatic bar to summary judgment"
+    ],
+    "estimated_time_seconds": 110,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  }
+]

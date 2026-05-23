@@ -1,0 +1,835 @@
+[
+  {
+    "id": "crim-02-arrest-war-001",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "arrest_without_warrant",
+    "subtopic_heading": "Arrest Without Warrant — Peace Officer Powers",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A police officer on patrol witnesses the accused punch a victim in a public park. The offence of assault is a hybrid offence. The officer did not obtain a warrant prior to the incident.",
+    "call_of_question": "May the officer arrest the accused without a warrant?",
+    "options": {
+      "A": "No — the officer needs a warrant to arrest for a hybrid offence.",
+      "B": "Yes — s. 495(1)(b) of the Criminal Code permits a peace officer to arrest without warrant a person found committing a criminal offence.",
+      "C": "Only if the Crown has already elected to proceed by indictment.",
+      "D": "Only for indictable offences committed in the officer's presence."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 495(1)(b) of the Criminal Code authorizes a peace officer to arrest without a warrant a person who is found committing a criminal offence. The power applies to any criminal offence — indictable, summary, or hybrid — when the officer directly witnesses the offence being committed. No warrant is required, and no prior Crown election is necessary.",
+    "why_A_wrong": "Section 495(1)(b) expressly authorizes warrantless arrest of a person found committing a criminal offence. The hybrid nature of the offence does not require a warrant when the officer personally witnesses the act.",
+    "why_B_wrong": "This IS the correct answer. Yes — s. 495(1)(b) of the Criminal Code permits a peace officer to arrest without warrant a person found committing a criminal offence.",
+    "why_C_wrong": "Crown election is irrelevant to the arrest power under s. 495(1). The officer may arrest the moment the criminal offence is being committed in their presence, regardless of how the Crown subsequently proceeds.",
+    "why_D_wrong": "Section 495(1)(b) covers any criminal offence observed in the officer's presence, not solely indictable offences. Summary and hybrid offences are included when the officer finds the person committing them.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "Arrest Without Warrant — Peace Officer Powers",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 495(1) and s. 495(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "arrest without warrant",
+      "s. 495(1)",
+      "found committing",
+      "hybrid offence"
+    ],
+    "tested_concepts": [
+      "s. 495(1)(b) arrest power",
+      "warrantless arrest",
+      "hybrid offence at scene"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-arrest-war-002",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "arrest_without_warrant",
+    "subtopic_heading": "Arrest Without Warrant — Peace Officer Powers",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A police officer receives a tip from an informant with no established track record that a named suspect robbed a bank 30 minutes ago. The officer has no direct evidence, no corroboration, and has never used this informant before. The officer locates the suspect walking two blocks from the bank.",
+    "call_of_question": "Can the officer arrest the suspect without a warrant based solely on the unvetted tip?",
+    "options": {
+      "A": "Yes — any information received by an officer can form the basis for a warrantless arrest.",
+      "B": "Yes — as long as the officer subjectively believes the informant, the arrest is lawful.",
+      "C": "No — a peace officer must have reasonable grounds to believe the person committed an indictable offence; an unvetted tip without corroboration typically does not satisfy the objective standard required by R v Storrey.",
+      "D": "No — warrantless arrest for robbery requires the officer to have personally witnessed the offence."
+    },
+    "correct_answer": "C",
+    "explanation": "R v Storrey [1990] 1 SCR 241 established that the arresting officer must subjectively have reasonable and probable grounds to believe the suspect committed the offence, and those grounds must be justifiable from an objective standpoint. Mere suspicion is insufficient. A tip from an informant with no track record and no corroborating evidence does not ordinarily rise to the level of objectively reasonable grounds, making a warrantless arrest based solely on that tip unlawful.",
+    "why_A_wrong": "Storrey expressly rejected the notion that any information suffices. The standard requires objectively reasonable grounds, not just receipt of information.",
+    "why_B_wrong": "Storrey requires both subjective belief and objective justifiability. Subjective belief alone — even a sincere one — does not satisfy the standard for a valid warrantless arrest.",
+    "why_C_wrong": "This IS the correct answer. No — a peace officer must have reasonable grounds to believe the person committed an indictable offence; an unvetted tip without corroboration typically does not satisfy the objective standard required by R v Storrey.",
+    "why_D_wrong": "Section 495(1)(b) allows arrest based on reasonable grounds that a person has committed an indictable offence without requiring the officer to witness it. The issue here is not the witnessing requirement but the insufficiency of grounds.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "Arrest Without Warrant — Peace Officer Powers",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 495(1) and s. 495(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "reasonable grounds",
+      "mere suspicion",
+      "Storrey",
+      "informant",
+      "warrantless arrest"
+    ],
+    "tested_concepts": [
+      "R v Storrey standard",
+      "objective reasonable grounds",
+      "unvetted informant tip"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-arrest-war-003",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "arrest_without_warrant",
+    "subtopic_heading": "Arrest Without Warrant — Peace Officer Powers",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An officer observes someone shoplifting merchandise valued at $80 from a convenience store (theft under $5,000, a hybrid offence). The person immediately provides valid government-issued identification, lives in the neighbourhood, has no criminal record, and agrees in writing to appear in court. The officer has no reason to believe the person will continue offending, destroy evidence, or flee.",
+    "call_of_question": "What does s. 495(2) of the Criminal Code require the officer to do in this situation?",
+    "options": {
+      "A": "The officer may arrest because the person committed a criminal offence.",
+      "B": "The officer shall not arrest; s. 495(2) prohibits arrest where no ground from the enumerated list is present for a hybrid or summary offence.",
+      "C": "The officer must arrest and then release the person on a recognizance at the station.",
+      "D": "The officer may arrest at discretion regardless of s. 495(2)."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 495(2) of the Criminal Code mandates that a peace officer shall not arrest without warrant a person who has committed only a summary conviction offence or a hybrid offence (where Crown has not yet elected) unless arrest is necessary to: (i) establish the person's identity, (ii) secure or preserve evidence, (iii) prevent continuation or repetition of the offence, or (iv) ensure court appearance. Because none of those grounds exist on these facts — identity is confirmed, appearance agreed to, no evidence risk — the officer is prohibited from arresting and should instead issue an appearance notice or obtain a summons.",
+    "why_A_wrong": "Section 495(2) expressly limits the arrest power even where a criminal offence has been committed, when the offence is summary or hybrid and none of the enumerated necessity grounds are met.",
+    "why_B_wrong": "This IS the correct answer. The officer shall not arrest; s. 495(2) prohibits arrest where no ground from the enumerated list is present for a hybrid or summary offence.",
+    "why_C_wrong": "Section 495(2) prevents the arrest from occurring at all; it is not a provision that requires arrest followed by station release. The appropriate route is an appearance notice or summons.",
+    "why_D_wrong": "Section 495(2) removes officer discretion in the circumstances described — it is a mandatory prohibition, not a permissive guideline.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "Arrest Without Warrant — Peace Officer Powers",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 495(1) and s. 495(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 495(2)",
+      "shall not arrest",
+      "hybrid offence",
+      "summary offence",
+      "appearance notice"
+    ],
+    "tested_concepts": [
+      "s. 495(2) mandatory limitation",
+      "enumerated grounds for arrest",
+      "hybrid offence procedure"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-arrest-war-004",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "arrest_without_warrant",
+    "subtopic_heading": "Arrest Without Warrant — Peace Officer Powers",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A store owner watches a shoplifter take merchandise and leave the store. By the time the store owner can react, the shoplifter has walked half a block away and is still visible. The store owner runs after and catches the shoplifter on the public sidewalk, detaining him until police arrive.",
+    "call_of_question": "Under s. 494 of the Criminal Code, was the store owner's citizen's arrest lawful?",
+    "options": {
+      "A": "No — only peace officers can arrest once an offender has left the scene.",
+      "B": "No — the right of citizen's arrest expires the moment the offender leaves the property.",
+      "C": "Yes — under s. 494(2), an owner or person in lawful possession of property may arrest a person found committing a criminal offence on or in relation to that property; s. 494(1)(b) also authorizes arrest of a person who has committed an indictable offence and is escaping and freshly pursued.",
+      "D": "Yes — but only if the store owner holds a valid security guard licence."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 494 of the Criminal Code grants non-peace officers the right to make a citizen's arrest in specific circumstances. Under s. 494(2), an owner of property or a person lawfully in possession of property may arrest a person who they find committing a criminal offence on or in relation to that property. Furthermore, s. 494(1)(b) allows any person to arrest without warrant someone who has committed an indictable offence and is escaping and freshly pursued. The store owner witnessed the shoplifting (a criminal offence on or in relation to the property) and pursued immediately, satisfying both provisions. The person arrested must be delivered to a peace officer without unreasonable delay.",
+    "why_A_wrong": "Section 494 expressly grants citizen's arrest powers. The law does not restrict arrest authority to peace officers once an offender leaves the immediate scene.",
+    "why_B_wrong": "The right of citizen's arrest under s. 494(2) attaches to persons found committing a criminal offence on or in relation to the property. Fresh pursuit following immediate observation extends the power; departure from the property alone does not extinguish it.",
+    "why_C_wrong": "This IS the correct answer. Yes — under s. 494(2), an owner or person in lawful possession of property may arrest a person found committing a criminal offence on or in relation to that property; s. 494(1)(b) also authorizes arrest of a person who has committed an indictable offence and is escaping and freshly pursued.",
+    "why_D_wrong": "Section 494 imposes no licensing requirement. The citizen's arrest power belongs to any person meeting the statutory criteria, not only licensed security professionals.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "Arrest Without Warrant — Peace Officer Powers",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 495(1) and s. 495(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "citizen's arrest",
+      "s. 494",
+      "property owner",
+      "fresh pursuit",
+      "found committing"
+    ],
+    "tested_concepts": [
+      "s. 494 citizen's arrest",
+      "property owner powers",
+      "fresh pursuit doctrine"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-arrest-war-005",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "arrest_without_warrant",
+    "subtopic_heading": "Arrest Without Warrant — Peace Officer Powers",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Ten minutes after a bank robbery, an officer receives a radio dispatch describing the suspect as a heavyset male, approximately 6'1\", wearing a blue jacket and grey cap. The officer spots a man matching this description precisely, three blocks from the bank, walking quickly away. The officer has no other information but the description is a close match to the person in front of her.",
+    "call_of_question": "Does this information meet the standard for a warrantless arrest under s. 495(1) as set out in R v Storrey?",
+    "options": {
+      "A": "No — the officer must be certain the person committed the offence before arresting without a warrant.",
+      "B": "No — a description match alone can never constitute reasonable grounds for a warrantless arrest.",
+      "C": "Yes — if the officer has an objectively reasonable belief based on the matching description and surrounding circumstances that the person committed the robbery; R v Storrey requires more than mere suspicion but does not require certainty.",
+      "D": "Yes — any suspicion of an indictable offence justifies a warrantless arrest."
+    },
+    "correct_answer": "C",
+    "explanation": "R v Storrey [1990] 1 SCR 241 held that a warrantless arrest under s. 495(1) requires the officer to have subjectively reasonable grounds that are also justifiable from an objective standpoint — more than mere suspicion but less than certainty. A close description match, combined with the temporal and geographic proximity to the robbery, can collectively constitute objectively reasonable grounds. The court examines the totality of the circumstances, not whether any single factor alone is conclusive.",
+    "why_A_wrong": "Storrey does not require certainty. The standard is objectively reasonable grounds to believe — a materially lower threshold than certainty.",
+    "why_B_wrong": "A description match can contribute to reasonable grounds when considered alongside other circumstances such as timing and proximity. No single factor is categorically sufficient or insufficient in isolation.",
+    "why_C_wrong": "This IS the correct answer. Yes — if the officer has an objectively reasonable belief based on the matching description and surrounding circumstances that the person committed the robbery; R v Storrey requires more than mere suspicion but does not require certainty.",
+    "why_D_wrong": "Storrey explicitly rejected mere suspicion as a sufficient basis for warrantless arrest. The objective reasonable grounds standard requires more than a hunch or suspicion.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "Arrest Without Warrant — Peace Officer Powers",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 495(1) and s. 495(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Storrey",
+      "reasonable grounds",
+      "description match",
+      "warrantless arrest",
+      "objectively reasonable"
+    ],
+    "tested_concepts": [
+      "R v Storrey standard",
+      "subjective and objective components",
+      "totality of circumstances"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-s10b-001",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "section10b_right_counsel",
+    "subtopic_heading": "s. 10(b) — Right to Retain and Instruct Counsel",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Immediately upon arresting Kwame for fraud, police begin asking him detailed questions about the alleged scheme before saying anything about his right to a lawyer.",
+    "call_of_question": "Which Charter right has been violated?",
+    "options": {
+      "A": "Section 7 — the right to life, liberty, and security of the person.",
+      "B": "Section 10(b) — the right to retain and instruct counsel without delay and to be informed of that right.",
+      "C": "Section 9 — the right against arbitrary detention.",
+      "D": "Section 11(c) — the right not to be compelled to be a witness against oneself."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 10(b) of the Charter guarantees that everyone who is arrested or detained has the right to retain and instruct counsel without delay and to be informed of that right. The Supreme Court in R v Manninen [1987] 1 SCR 1233 held that police have both an informational duty (to advise of the right) and an implementational duty (to hold off questioning until the person has had a reasonable opportunity to contact counsel). Beginning questioning before providing the s. 10(b) caution violates both duties.",
+    "why_A_wrong": "Section 7 is a broader right that can be engaged, but s. 10(b) is the specific provision addressing the right to counsel upon arrest or detention and is the right most directly violated on these facts.",
+    "why_B_wrong": "This IS the correct answer. Section 10(b) — the right to retain and instruct counsel without delay and to be informed of that right.",
+    "why_C_wrong": "Section 9 concerns whether the detention itself is arbitrary. Here, the arrest may be lawful; the violation is the failure to inform and implement the right to counsel.",
+    "why_D_wrong": "Section 11(c) protects against being compelled to testify against oneself in criminal proceedings. Section 10(b) is the specific pre-trial right to counsel that applies at the time of arrest.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "s. 10(b) — Right to Retain and Instruct Counsel",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 10(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 10(b)",
+      "right to counsel",
+      "without delay",
+      "informed",
+      "arrest"
+    ],
+    "tested_concepts": [
+      "s. 10(b) Charter right",
+      "informational duty",
+      "implementational duty",
+      "R v Manninen"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-s10b-002",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "section10b_right_counsel",
+    "subtopic_heading": "s. 10(b) — Right to Retain and Instruct Counsel",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Upon arresting Farrukh, Constable Rodriguez reads the standard Charter caution from a card, informing Farrukh of his right to retain and instruct counsel without delay. Farrukh says, 'I understand my rights and I don't need a lawyer. I want to talk.' Police then conduct a full interview. Farrukh later challenges the admissibility of his statement.",
+    "call_of_question": "Has s. 10(b) of the Charter been complied with?",
+    "options": {
+      "A": "No — police must still wait a fixed period before questioning even if the accused waives the right to counsel.",
+      "B": "Yes — provided Farrukh's waiver of his right to counsel was informed, voluntary, and unequivocal.",
+      "C": "No — s. 10(b) requires that an accused actually consult a lawyer before any questioning can occur.",
+      "D": "No — a waiver of s. 10(b) rights must be in writing to be legally valid."
+    },
+    "correct_answer": "B",
+    "explanation": "The right to counsel under s. 10(b) can be waived by an accused, provided the waiver is informed, voluntary, and unequivocal. Once a valid waiver is established, police are entitled to proceed with questioning. The caution was properly given, and Farrukh expressed clear and unequivocal willingness to speak without a lawyer. There is no fixed mandatory waiting period and no requirement that the accused actually speak with a lawyer before any questioning — what matters is that the opportunity was genuinely afforded and voluntarily declined.",
+    "why_A_wrong": "There is no fixed mandatory waiting period under s. 10(b) once the accused has been informed of the right and validly waives it. The duty is to provide a reasonable opportunity, not to wait a prescribed time.",
+    "why_B_wrong": "This IS the correct answer. Yes — provided Farrukh's waiver of his right to counsel was informed, voluntary, and unequivocal.",
+    "why_C_wrong": "The right to counsel can be waived. The accused is not required to actually speak with a lawyer; what is required is that the right be meaningfully offered and the opportunity genuinely available.",
+    "why_D_wrong": "There is no writing requirement for a waiver of s. 10(b) rights. An oral, unequivocal waiver that is informed and voluntary is legally sufficient.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "s. 10(b) — Right to Retain and Instruct Counsel",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 10(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "waiver",
+      "s. 10(b)",
+      "informed",
+      "voluntary",
+      "unequivocal",
+      "right to counsel"
+    ],
+    "tested_concepts": [
+      "valid waiver of s. 10(b)",
+      "three-part waiver test",
+      "no writing requirement"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-s10b-003",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "section10b_right_counsel",
+    "subtopic_heading": "s. 10(b) — Right to Retain and Instruct Counsel",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A suspect is detained and invokes the right to counsel. She speaks with duty counsel for about 10 minutes and is then placed in an interview room. Police begin questioning her about a minor theft. Midway through the interview, the detective shifts the questioning and asks her about a homicide that occurred the previous night, for which she is now a suspect.",
+    "call_of_question": "Does the shift from questioning about the minor theft to questioning about a homicide re-trigger the accused's right to counsel under s. 10(b)?",
+    "options": {
+      "A": "No — once the accused has spoken with counsel, the right to counsel is fully satisfied for the entire duration of the interrogation.",
+      "B": "No — police may change the subject matter of questioning at will without re-triggering the right to counsel.",
+      "C": "Yes — under R v Sinclair, 2010 SCC 35, a material change in the accused's jeopardy — such as shifting from a minor theft to a homicide — constitutes a new circumstance that re-triggers the right to counsel.",
+      "D": "Only if the accused specifically requests a second consultation with counsel at that moment."
+    },
+    "correct_answer": "C",
+    "explanation": "R v Sinclair 2010 SCC 35 held that while s. 10(b) does not provide an ongoing right to have counsel present during interrogation, the right can be re-triggered by a change in circumstances. A material change in the nature or extent of the accused's jeopardy — such as moving from questioning about a minor theft to a homicide — is precisely the kind of changed circumstance that requires police to re-advise and provide a renewed opportunity to consult counsel before continuing.",
+    "why_A_wrong": "Sinclair explicitly recognised that a single consultation does not permanently satisfy s. 10(b) where circumstances materially change. The right is event-specific, not a one-time satisfaction.",
+    "why_B_wrong": "A change in the nature of jeopardy — not merely the topic — can re-trigger s. 10(b). Shifting questioning from a petty offence to a homicide plainly alters the accused's legal exposure materially.",
+    "why_C_wrong": "This IS the correct answer. Yes — under R v Sinclair, 2010 SCC 35, a material change in the accused's jeopardy — such as shifting from a minor theft to a homicide — constitutes a new circumstance that re-triggers the right to counsel.",
+    "why_D_wrong": "Under Sinclair, the obligation to re-advise is triggered by the objective change in circumstances, not contingent solely on the accused making a request. Police have a proactive duty when jeopardy materially changes.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "s. 10(b) — Right to Retain and Instruct Counsel",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 10(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Sinclair",
+      "re-trigger",
+      "material change",
+      "jeopardy",
+      "s. 10(b)",
+      "homicide"
+    ],
+    "tested_concepts": [
+      "R v Sinclair re-triggering",
+      "changed circumstances",
+      "material change in jeopardy"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-s10b-004",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "section10b_right_counsel",
+    "subtopic_heading": "s. 10(b) — Right to Retain and Instruct Counsel",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Police arrest an accused and inform him of his right to counsel. He asks to speak with a specific lawyer. Over the next 45 minutes, officers attempt to reach that lawyer without success. Police do not offer duty counsel as an alternative. They then proceed to question the accused without any consultation with counsel having taken place.",
+    "call_of_question": "Was s. 10(b) of the Charter satisfied when police proceeded to question the accused after 45 minutes?",
+    "options": {
+      "A": "Yes — 45 minutes is always a reasonable waiting period under s. 10(b).",
+      "B": "Yes — police fulfilled their implementational duty by informing the accused and waiting 45 minutes.",
+      "C": "No — police can never question an accused who has not reached their chosen lawyer.",
+      "D": "It depends — the accused must be given a reasonable opportunity to reach counsel, including being offered duty counsel as an alternative; failure to offer duty counsel when the chosen lawyer is unavailable likely renders the implementational duty unsatisfied."
+    },
+    "correct_answer": "D",
+    "explanation": "The implementational duty under s. 10(b) requires police to hold off questioning until the accused has had a reasonable opportunity to contact counsel. Where the chosen counsel is unavailable, police should offer duty counsel as an alternative. The accused also has a corresponding duty to diligently exercise the right. Simply waiting 45 minutes without offering any alternative and then proceeding is unlikely to satisfy the implementational duty. There is no fixed time limit — reasonableness depends on all circumstances including whether alternatives were offered.",
+    "why_A_wrong": "No fixed time period satisfies s. 10(b). Reasonableness is assessed contextually. Forty-five minutes of waiting is meaningless if the accused was not offered any alternative such as duty counsel.",
+    "why_B_wrong": "The implementational duty requires more than waiting. Police should have offered duty counsel when the specific lawyer was unavailable. Proceeding without doing so likely breaches s. 10(b).",
+    "why_C_wrong": "The right to a specific lawyer is not absolute. If the chosen counsel is unavailable after reasonable attempts and duty counsel is offered and declined, police may proceed. The accused cannot indefinitely delay questioning by insisting only on an unavailable lawyer.",
+    "why_D_wrong": "This IS the correct answer. It depends — the accused must be given a reasonable opportunity to reach counsel, including being offered duty counsel as an alternative; failure to offer duty counsel when the chosen lawyer is unavailable likely renders the implementational duty unsatisfied.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "s. 10(b) — Right to Retain and Instruct Counsel",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 10(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "implementational duty",
+      "duty counsel",
+      "unavailable lawyer",
+      "reasonable opportunity",
+      "s. 10(b)"
+    ],
+    "tested_concepts": [
+      "implementational duty",
+      "duty counsel alternative",
+      "diligent exercise of right"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-s10b-005",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "section10b_right_counsel",
+    "subtopic_heading": "s. 10(b) — Right to Retain and Instruct Counsel",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Police arrest a suspect and read a standard s. 10(b) caution advising of the right to retain and instruct counsel. The caution does not mention Legal Aid or duty counsel. The suspect, who cannot afford a private lawyer, says nothing and does not invoke the right. Police proceed with questioning.",
+    "call_of_question": "Has the informational component of s. 10(b) been fully complied with?",
+    "options": {
+      "A": "Yes — s. 10(b) only requires informing the accused of the right to retain and instruct counsel; there is no duty to mention Legal Aid.",
+      "B": "No — under R v Brydges, police must inform detained persons of the availability of Legal Aid and duty counsel programs; failure to do so violates the informational component of s. 10(b).",
+      "C": "No — s. 10(b) requires that the accused be provided with a lawyer at government expense immediately upon request.",
+      "D": "Yes — the duty to inform of Legal Aid only arises if the accused expressly states they cannot afford a lawyer."
+    },
+    "correct_answer": "B",
+    "explanation": "R v Brydges [1990] 1 SCR 190 expanded the informational duty under s. 10(b) to require that police inform detained persons of the availability of Legal Aid and duty counsel. This obligation is proactive and does not depend on the accused asking or disclosing financial need. The standard caution that omits reference to these programs is therefore incomplete and constitutes a breach of the informational component of s. 10(b).",
+    "why_A_wrong": "Brydges held that the informational duty is broader than a bare reference to the right to retain and instruct counsel. It includes advising of the availability of Legal Aid and duty counsel.",
+    "why_B_wrong": "This IS the correct answer. No — under R v Brydges, police must inform detained persons of the availability of Legal Aid and duty counsel programs; failure to do so violates the informational component of s. 10(b).",
+    "why_C_wrong": "Section 10(b) does not guarantee immediate government-funded private counsel. What it requires is that the accused be informed about the existence of duty counsel and Legal Aid and be given a reasonable opportunity to access them.",
+    "why_D_wrong": "The Brydges duty to disclose information about Legal Aid and duty counsel is proactive and automatic. Police may not wait for the accused to declare financial need before providing this information.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "s. 10(b) — Right to Retain and Instruct Counsel",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 10(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Brydges",
+      "Legal Aid",
+      "duty counsel",
+      "informational duty",
+      "s. 10(b)"
+    ],
+    "tested_concepts": [
+      "R v Brydges",
+      "expanded informational duty",
+      "duty counsel availability"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-s8-search-001",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "section8_search_seizure",
+    "subtopic_heading": "s. 8 — Unreasonable Search and Seizure",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Acting solely on a tip from an anonymous neighbour, police break into a private residence without a search warrant to look for stolen electronics. They find nothing of evidentiary value.",
+    "call_of_question": "Which statement correctly describes the s. 8 Charter requirement for a valid search of a private residence?",
+    "options": {
+      "A": "A warrantless search is valid as long as the searching officer believes a crime has been committed.",
+      "B": "A search is valid if it ultimately produces evidence of a crime, regardless of the manner in which it was conducted.",
+      "C": "Generally, a valid search of a private residence requires prior judicial authorization based on reasonable and probable grounds; a warrantless search is presumptively unreasonable under Hunter v Southam.",
+      "D": "Police may always search a home without a warrant if they have objectively reasonable grounds to believe evidence is present."
+    },
+    "correct_answer": "C",
+    "explanation": "Hunter v Southam Inc [1984] 2 SCR 145 established that the standard for a reasonable search under s. 8 of the Charter ordinarily requires prior judicial authorization — a warrant — based on reasonable and probable grounds established on oath. A warrantless search is presumptively unreasonable, and the Crown bears the burden of rebutting that presumption. An anonymous tip without more falls well short of the grounds needed even if a warrant were sought.",
+    "why_A_wrong": "Hunter v Southam rejected the notion that an officer's subjective belief alone justifies a warrantless search. Prior judicial authorization is the baseline requirement.",
+    "why_B_wrong": "The Charter does not assess the reasonableness of a search based on its results. Reasonableness is judged at the time the search is conducted, not by what is found.",
+    "why_C_wrong": "This IS the correct answer. Generally, a valid search of a private residence requires prior judicial authorization based on reasonable and probable grounds; a warrantless search is presumptively unreasonable under Hunter v Southam.",
+    "why_D_wrong": "For dwelling houses, prior judicial authorisation is generally required even if grounds exist. Reasonable grounds enable a warrant application; they do not license a warrantless search of a home.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "s. 8 — Unreasonable Search and Seizure",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 8"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 8",
+      "unreasonable search",
+      "prior judicial authorization",
+      "Hunter v Southam",
+      "warrantless search presumptively unreasonable"
+    ],
+    "tested_concepts": [
+      "s. 8 standard",
+      "Hunter v Southam",
+      "prior judicial authorization",
+      "presumptively unreasonable"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-s8-search-002",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "section8_search_seizure",
+    "subtopic_heading": "s. 8 — Unreasonable Search and Seizure",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An officer lawfully arrests a suspect in a public parking lot for drug trafficking. As part of the arrest, and at the scene, the officer searches the suspect's jacket and finds a bag of cocaine in an inside pocket. No warrant was obtained.",
+    "call_of_question": "Is the warrantless search of the suspect's jacket valid under s. 8 of the Charter?",
+    "options": {
+      "A": "No — a warrant is required to search a person's clothing even if they have been lawfully arrested.",
+      "B": "Yes — under the common law power of search incident to arrest, an officer may search the person arrested and the area within their immediate control; finding cocaine in the jacket falls within this scope.",
+      "C": "Only if the officer had independent and specific grounds to believe drugs would be found in the jacket.",
+      "D": "Yes, but only if the search was conducted at the police station rather than at the scene of arrest."
+    },
+    "correct_answer": "B",
+    "explanation": "Search incident to arrest (SITA) is a well-established common law exception to the s. 8 warrant requirement. When a person is lawfully arrested, police may search the person, their clothing, and items within their immediate control without additional grounds — provided the search is truly incidental to the arrest and not the other way around. A search of the arrested person's jacket at the time and place of arrest plainly falls within the recognized scope of SITA.",
+    "why_A_wrong": "SITA is a recognized common law exception to the warrant requirement for searches of the arrested person's clothing and immediate area. No separate warrant is needed.",
+    "why_B_wrong": "This IS the correct answer. Yes — under the common law power of search incident to arrest, an officer may search the person arrested and the area within their immediate control; finding cocaine in the jacket falls within this scope.",
+    "why_C_wrong": "SITA does not require additional specific grounds beyond the lawful arrest itself. The authority to search flows from the arrest, not from an independent basis to believe a specific item will be found.",
+    "why_D_wrong": "Search incident to arrest occurs at the time and location of the arrest. There is no requirement that the search wait until the suspect reaches a police station.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "s. 8 — Unreasonable Search and Seizure",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 8"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "search incident to arrest",
+      "SITA",
+      "s. 8",
+      "warrantless search",
+      "lawful arrest"
+    ],
+    "tested_concepts": [
+      "search incident to arrest doctrine",
+      "scope of SITA",
+      "no additional grounds required"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-s8-search-003",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "section8_search_seizure",
+    "subtopic_heading": "s. 8 — Unreasonable Search and Seizure",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An officer lawfully arrests a suspect for trafficking in cocaine. Invoking search incident to arrest, the officer seizes the suspect's locked smartphone at the scene and, without a warrant, conducts an extensive review of the phone's text messages, photos, and contacts over the following hour. This search reveals a text message network used to coordinate drug sales.",
+    "call_of_question": "What does R v Fearon say about the validity of this cell phone search as a search incident to arrest?",
+    "options": {
+      "A": "SITA cannot apply to cell phones in any circumstances; a warrant is always required to search a phone.",
+      "B": "SITA applies to cell phones on the same basis as any other item seized; a comprehensive search is permissible.",
+      "C": "Under R v Fearon, SITA of a cell phone is permitted only where the search is truly incidental to the arrest, involves minimal intrusion, and police promptly record the reasons for the search and what was examined.",
+      "D": "SITA of a cell phone is lawful only if the accused consents to the search."
+    },
+    "correct_answer": "C",
+    "explanation": "R v Fearon 2014 SCC 77 held that SITA can apply to cell phones but subject to stricter constraints than apply to physical items, given the volume and sensitivity of personal information phones contain. The search must be: (1) truly incidental to the arrest — i.e., undertaken to find evidence related to the offence of arrest; (2) limited in scope to what is genuinely necessary; and (3) accompanied by detailed contemporaneous notes of what was searched, why, and what was found. An extensive hour-long review without documentation likely exceeds the permissible scope under Fearon.",
+    "why_A_wrong": "Fearon expressly permits SITA of cell phones in defined circumstances. A warrant is not categorically required for every cell phone search incident to a lawful arrest.",
+    "why_B_wrong": "Fearon specifically rejected treating cell phones identically to physical containers. The unique informational sensitivity of phones demands additional constraints not applicable to most physical items.",
+    "why_C_wrong": "This IS the correct answer. Under R v Fearon, SITA of a cell phone is permitted only where the search is truly incidental to the arrest, involves minimal intrusion, and police promptly record the reasons for the search and what was examined.",
+    "why_D_wrong": "SITA is a warrantless exception that does not require consent. However, the Fearon constraints — true incidentality, minimal intrusion, and documentation — must be satisfied.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "s. 8 — Unreasonable Search and Seizure",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 8"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Fearon",
+      "cell phone",
+      "SITA",
+      "search incident to arrest",
+      "minimal intrusion",
+      "notes"
+    ],
+    "tested_concepts": [
+      "R v Fearon",
+      "SITA cell phone limits",
+      "truly incidental requirement",
+      "contemporaneous notes"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-s8-search-004",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "section8_search_seizure",
+    "subtopic_heading": "s. 8 — Unreasonable Search and Seizure",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Police execute a valid search warrant for stolen electronics at a private residence. While searching in plain view within the living room — the area specified by the warrant — an officer sees an unsealed bag containing what appears to be heroin sitting on a coffee table. The heroin was not mentioned in the warrant. The officer seizes the bag.",
+    "call_of_question": "Is the seizure of the heroin admissible, and does it violate s. 8 of the Charter?",
+    "options": {
+      "A": "No — items not specifically listed in a search warrant are always inadmissible and the seizure violates s. 8.",
+      "B": "No — the warrant only authorises seizure of electronics; seizing anything else requires a new warrant.",
+      "C": "Yes — any item discovered during a lawful search is automatically admissible without further analysis.",
+      "D": "Likely yes — the plain view doctrine permits seizure of items not listed in a warrant when the officer is lawfully in the area, the item is in plain view, and there are reasonable grounds to believe it is evidence of a crime."
+    },
+    "correct_answer": "D",
+    "explanation": "The plain view doctrine is a recognized exception under Canadian law that permits officers to seize items not listed in a warrant where: (1) the officer is lawfully in the area where the item is observed (execution of a valid warrant satisfies this); (2) the incriminating character of the item is immediately apparent; and (3) the officer has lawful authority to access the item. An unsealed bag of heroin sitting in plain view during lawful execution of a warrant satisfies these conditions. The seizure would not violate s. 8 in these circumstances.",
+    "why_A_wrong": "The plain view doctrine creates an exception to the general rule that items must be listed in a warrant. It permits seizure of items with apparent evidentiary value discovered during lawful searches.",
+    "why_B_wrong": "The plain view doctrine removes the requirement for an additional warrant when the item is in plain view during lawful execution of the existing warrant. A new warrant is not needed in plain view situations.",
+    "why_C_wrong": "Not everything discovered during a lawful search is automatically admissible. Plain view requires that the incriminating nature of the item be immediately apparent; a search that uncovers items by rummaging through containers beyond the warrant's scope would be different.",
+    "why_D_wrong": "This IS the correct answer. Likely yes — the plain view doctrine permits seizure of items not listed in a warrant when the officer is lawfully in the area, the item is in plain view, and there are reasonable grounds to believe it is evidence of a crime.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "s. 8 — Unreasonable Search and Seizure",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 8"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "plain view",
+      "search warrant",
+      "s. 8",
+      "seizure",
+      "not listed in warrant"
+    ],
+    "tested_concepts": [
+      "plain view doctrine",
+      "lawful presence requirement",
+      "incriminating character",
+      "s. 8 exceptions"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-s8-search-005",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "section8_search_seizure",
+    "subtopic_heading": "s. 8 — Unreasonable Search and Seizure",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Detectives have an arrest warrant for a suspect believed to be inside his sister's home. Without seeking any additional judicial authorisation, they enter the home to arrest him. They find him inside and arrest him. The suspect moves to exclude evidence obtained as a result of the entry.",
+    "call_of_question": "Does the warrantless entry into the dwelling house violate s. 8 of the Charter?",
+    "options": {
+      "A": "No — an arrest warrant authorises entry into any premises, including a private dwelling, to effect the arrest.",
+      "B": "No — reasonable grounds to arrest always justify entry into private premises without additional authorisation.",
+      "C": "Yes — under R v Feeney and the subsequent enactment of s. 529.1 of the Criminal Code, entry into a dwelling house to effect an arrest requires specific prior judicial authorisation; a regular arrest warrant does not suffice and warrantless entry absent exigent circumstances violates s. 8.",
+      "D": "Yes — but only if the suspect is ultimately acquitted of the offence for which he was arrested."
+    },
+    "correct_answer": "C",
+    "explanation": "R v Feeney [1997] 2 SCR 13 held that entry into a private dwelling to effect an arrest requires specific prior judicial authorisation beyond a standard arrest warrant. Following Feeney, Parliament enacted s. 529.1 of the Criminal Code, which authorises a justice to issue a warrant to enter a dwelling house for the purpose of arrest. Entry into a third party's home on the strength of an arrest warrant alone — absent exigent circumstances — is a warrantless entry that violates s. 8.",
+    "why_A_wrong": "R v Feeney specifically held that a regular arrest warrant does not authorise forcible entry into a private dwelling. A Feeney warrant under s. 529.1 is required.",
+    "why_B_wrong": "Feeney rejected the broad proposition that reasonable grounds to arrest justify entry into a home. The heightened privacy interest in a dwelling requires specific judicial authorisation.",
+    "why_C_wrong": "This IS the correct answer. Yes — under R v Feeney and the subsequent enactment of s. 529.1 of the Criminal Code, entry into a dwelling house to effect an arrest requires specific prior judicial authorisation; a regular arrest warrant does not suffice and warrantless entry absent exigent circumstances violates s. 8.",
+    "why_D_wrong": "Charter analysis does not depend on the accused's guilt or innocence. The lawfulness of the entry is assessed at the time it occurred, regardless of the trial outcome.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "s. 8 — Unreasonable Search and Seizure",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 8"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Feeney",
+      "dwelling house",
+      "s. 529.1",
+      "Feeney warrant",
+      "s. 8",
+      "entry to arrest"
+    ],
+    "tested_concepts": [
+      "R v Feeney",
+      "s. 529.1 Feeney warrant",
+      "dwelling house entry",
+      "regular arrest warrant insufficient"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  }
+]

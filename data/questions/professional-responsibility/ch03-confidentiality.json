@@ -1,0 +1,543 @@
+[
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-03-confid-scope-001",
+    "chapter_number": 3,
+    "chapter_title": "Confidentiality",
+    "topic_id": "confidentiality",
+    "topic_heading": "Duty of Confidentiality — Rule 3.3",
+    "subtopic_id": "duty_to_keep_confidential",
+    "subtopic_heading": "Duty to Keep Confidential — Scope and Duration",
+    "difficulty": "easy",
+    "fact_pattern": "Fatima represented a corporate client in commercial negotiations two years ago. During that retainer she learned that the client was pursuing a major acquisition deal that was never publicly announced. The retainer ended amicably one year ago. A competitor of Fatima's former client now contacts her seeking information about the client's historic business dealings.",
+    "call_of_question": "Does the duty of confidentiality under Rule 3.3-1 continue after the retainer ends?",
+    "options": {
+      "A": "No — confidentiality obligations are coextensive with the retainer and end when the lawyer-client relationship concludes.",
+      "B": "Yes — the duty of confidentiality continues indefinitely after the retainer ends; Fatima cannot disclose information acquired during the professional relationship even though the retainer is over.",
+      "C": "Yes, but only for five years after the retainer ends, after which the information is no longer protected.",
+      "D": "Yes, but only if the client specifically requested during the retainer that Fatima keep the information confidential."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.3-1 imposes a permanent duty of confidentiality that survives the end of the professional relationship. There is no time limit and no requirement that the client make a specific request. The duty attaches automatically to all information acquired in the course of the professional relationship.",
+    "why_A_wrong": "Incorrect. Rule 3.3-1 expressly applies 'at all times' — the duty is permanent and does not end with the retainer.",
+    "why_B_wrong": "This IS the correct answer. Yes — the duty of confidentiality continues indefinitely after the retainer ends; Fatima cannot disclose information acquired during the professional relationship even though the retainer is over.",
+    "why_C_wrong": "Incorrect. There is no five-year or any other time limitation on the duty of confidentiality under Rule 3.3-1.",
+    "why_D_wrong": "Incorrect. No specific request from the client is required. The duty is inherent in the professional relationship and attaches automatically.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 3",
+      "heading": "Confidentiality",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.3-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "confidentiality"
+    },
+    "exam_trigger_words": [
+      "former client",
+      "after retainer",
+      "still confidential",
+      "past relationship"
+    ],
+    "tested_concepts": [
+      "Rule 3.3-1 — permanence of confidentiality obligation",
+      "duty survives end of retainer",
+      "no time limit on confidentiality"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-03-confid-scope-002",
+    "chapter_number": 3,
+    "chapter_title": "Confidentiality",
+    "topic_id": "confidentiality",
+    "topic_heading": "Duty of Confidentiality — Rule 3.3",
+    "subtopic_id": "duty_to_keep_confidential",
+    "subtopic_heading": "Duty to Keep Confidential — Scope and Duration",
+    "difficulty": "medium",
+    "fact_pattern": "George is a criminal defence lawyer. At a community dinner party, a non-lawyer acquaintance asks him whether he has ever represented a prominent local businessperson who is the subject of media speculation. George is unsure whether confirming or denying the representation would breach any obligation.",
+    "call_of_question": "Is the identity of a client — that is, the fact that a person is or was a client — covered by the duty of confidentiality under Rule 3.3-1?",
+    "options": {
+      "A": "No — the identity of a client is a matter of public record and is not confidential information.",
+      "B": "No — Rule 3.3-1 only protects the substance of what clients communicate to the lawyer, not who the client is.",
+      "C": "Yes — the fact that a person is or was a client is itself confidential information under Rule 3.3-1; George cannot confirm or deny representing the person without the client's consent, unless the information is already publicly known.",
+      "D": "Only if the businessperson specifically instructed George to keep the representation confidential."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.3-1 covers all information concerning the business and affairs of a client acquired in the course of the professional relationship. This includes the fact of the retainer itself — the client's identity is confidential. George should not confirm or deny the representation unless the client consents or the information is already publicly known (e.g., through court records openly available).",
+    "why_A_wrong": "Incorrect. Unless the client's identity as a represented person is already publicly known, it is confidential under Rule 3.3-1.",
+    "why_B_wrong": "Incorrect. Rule 3.3-1 is broader than solicitor-client privilege. It covers all information acquired in the professional relationship, including the fact of the retainer.",
+    "why_C_wrong": "This IS the correct answer. Yes — the fact that a person is or was a client is itself confidential information under Rule 3.3-1; George cannot confirm or deny representing the person without the client's consent, unless the information is already publicly known.",
+    "why_D_wrong": "Incorrect. No specific instruction is required. The protection attaches automatically to all information, including the identity of the client.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 3",
+      "heading": "Confidentiality",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.3-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "confidentiality"
+    },
+    "exam_trigger_words": [
+      "identity of client",
+      "fact of retainer",
+      "who the client is",
+      "confirm or deny"
+    ],
+    "tested_concepts": [
+      "Rule 3.3-1 — identity of client is confidential",
+      "fact of retainer is protected information",
+      "scope of confidentiality broader than privilege"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-03-confid-scope-003",
+    "chapter_number": 3,
+    "chapter_title": "Confidentiality",
+    "topic_id": "confidentiality",
+    "topic_heading": "Duty of Confidentiality — Rule 3.3",
+    "subtopic_id": "duty_to_keep_confidential",
+    "subtopic_heading": "Duty to Keep Confidential — Scope and Duration",
+    "difficulty": "hard",
+    "fact_pattern": "Hina is a civil litigator. She receives an email that was clearly intended for opposing counsel, containing confidential solicitor-client communications from the opposing party. Hina reads the email before realizing the error. She is uncertain about her obligations.",
+    "call_of_question": "What are Hina's professional obligations upon inadvertently receiving confidential communications intended for opposing counsel?",
+    "options": {
+      "A": "Hina may use the information because she received it without any wrongdoing on her part — inadvertent receipt does not create an obligation.",
+      "B": "Hina must immediately delete the email and say nothing to protect her client's tactical advantage.",
+      "C": "Hina must immediately notify the sender of the inadvertent disclosure, must not read further than necessary to determine that the communication was not intended for her, must not use the confidential information, and must follow the instructions of the sender or the Law Society regarding the communication.",
+      "D": "Hina must report the sender's law firm to the Law Society of Ontario for the inadvertent disclosure."
+    },
+    "correct_answer": "C",
+    "explanation": "When a lawyer inadvertently receives confidential communications intended for another lawyer, professional obligations require immediate notification of the sender, cessation of further review, non-use of the information, and compliance with the sender's instructions regarding the document. Using the information would violate the opposing party's confidentiality and privilege. Reporting to the LSO is not the required response — notification to the sender is.",
+    "why_A_wrong": "Incorrect. Inadvertent receipt does not authorize use. Hina must notify the sender and refrain from using the confidential information.",
+    "why_B_wrong": "Incorrect. Deleting the email without notification is insufficient. Hina must notify the sender so the sender can take appropriate steps.",
+    "why_C_wrong": "This IS the correct answer. Hina must immediately notify the sender of the inadvertent disclosure, must not read further than necessary to determine that the communication was not intended for her, must not use the confidential information, and must follow the instructions of the sender or the Law Society regarding the communication.",
+    "why_D_wrong": "Incorrect. The primary obligation is to notify the sender, not to file a complaint with the LSO. An inadvertent disclosure does not necessarily constitute misconduct by the sender.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 3",
+      "heading": "Confidentiality",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.3-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "confidentiality"
+    },
+    "exam_trigger_words": [
+      "inadvertent disclosure",
+      "misdirected email",
+      "opposing party communications"
+    ],
+    "tested_concepts": [
+      "inadvertent receipt of confidential communications",
+      "obligation to notify sender",
+      "no use of inadvertently received information"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-03-confid-scope-004",
+    "chapter_number": 3,
+    "chapter_title": "Confidentiality",
+    "topic_id": "confidentiality",
+    "topic_heading": "Duty of Confidentiality — Rule 3.3",
+    "subtopic_id": "duty_to_keep_confidential",
+    "subtopic_heading": "Duty to Keep Confidential — Scope and Duration",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Ivan represents a defendant in a fraud prosecution. During a privileged consultation, the defendant discloses to Ivan that, unrelated to the current charges, he committed a separate fraud two years ago involving different victims. The police, investigating the unrelated fraud, later approach Ivan and ask whether his client ever admitted to any fraudulent conduct.",
+    "call_of_question": "Is the defendant's disclosure to Ivan privileged, merely confidential, or both — and what is the practical effect on Ivan's obligation to the police?",
+    "options": {
+      "A": "Only confidential, not privileged — Ivan may disclose it to the police if he receives a formal request.",
+      "B": "Both solicitor-client privileged and confidential — Ivan cannot disclose the information even if subpoenaed, unless the innocence-at-stake exception or another recognized exception applies.",
+      "C": "Not protected at all because the disclosure relates to criminal conduct, which falls outside the protection of solicitor-client privilege.",
+      "D": "Only privileged if Ivan had a signed retainer agreement in place at the time of the admission."
+    },
+    "correct_answer": "B",
+    "explanation": "A communication made to a lawyer in the course of the professional relationship for the purpose of seeking legal advice is protected by solicitor-client privilege — which is also the highest form of confidentiality. Admissions of past crimes, even serious ones, are fully protected because the crime-fraud exception only applies where the client seeks to use the lawyer to facilitate a future crime. Ivan cannot disclose the admission. Privilege protection does not depend on a signed retainer.",
+    "why_A_wrong": "Incorrect. This communication was made for the purpose of seeking legal advice and is therefore solicitor-client privileged — the strongest protection, not merely confidential.",
+    "why_B_wrong": "This IS the correct answer. Both solicitor-client privileged and confidential — Ivan cannot disclose the information even if subpoenaed, unless the innocence-at-stake exception or another recognized exception applies.",
+    "why_C_wrong": "Incorrect. Past criminal admissions made to a lawyer for legal advice purposes are fully protected. The crime-fraud exception applies only to communications made to facilitate future criminal or fraudulent acts.",
+    "why_D_wrong": "Incorrect. Solicitor-client privilege and the duty of confidentiality attach to communications within the professional relationship. A signed formal retainer is not a prerequisite.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 3",
+      "heading": "Confidentiality",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.3-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "confidentiality"
+    },
+    "exam_trigger_words": [
+      "past crime",
+      "solicitor-client privilege",
+      "crime-fraud exception",
+      "police inquiry"
+    ],
+    "tested_concepts": [
+      "solicitor-client privilege vs. confidentiality",
+      "past crime admissions are privileged",
+      "crime-fraud exception limited to future crimes"
+    ],
+    "estimated_time_seconds": 180
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-03-confid-scope-005",
+    "chapter_number": 3,
+    "chapter_title": "Confidentiality",
+    "topic_id": "confidentiality",
+    "topic_heading": "Duty of Confidentiality — Rule 3.3",
+    "subtopic_id": "duty_to_keep_confidential",
+    "subtopic_heading": "Duty to Keep Confidential — Scope and Duration",
+    "difficulty": "medium",
+    "fact_pattern": "Javeria was the long-time solicitor for a client who has recently died. The deceased's estate executor now approaches Javeria and formally requests all communications between Javeria and the deceased, stating that the communications are needed to assist with estate administration and to resolve a dispute about the deceased's intentions.",
+    "call_of_question": "Does the duty of confidentiality survive the client's death, and who — if anyone — may authorize disclosure to the executor?",
+    "options": {
+      "A": "No — the duty of confidentiality ends upon the client's death because the purpose of the duty is to protect a living client.",
+      "B": "Yes — confidentiality survives death absolutely; no one can authorize disclosure of the deceased client's communications.",
+      "C": "Yes — confidentiality and privilege survive death; however, the executor, as the legal representative of the deceased client's estate, is entitled to waive confidentiality and privilege for purposes of estate administration; Javeria may disclose to the executor who has proper legal authority to waive.",
+      "D": "Yes — confidentiality survives death, and only a court order can compel disclosure; the executor has no authority to waive privilege or confidentiality."
+    },
+    "correct_answer": "C",
+    "explanation": "Confidentiality and solicitor-client privilege generally survive the death of the client. However, the executor of the estate steps into the shoes of the deceased for purposes of the estate and can waive privilege and confidentiality on behalf of the estate. This allows the executor to access communications relevant to the administration of the estate without requiring a court order.",
+    "why_A_wrong": "Incorrect. The duty of confidentiality survives death. The rationale for the duty extends beyond protecting the living client to maintaining trust in the legal profession.",
+    "why_B_wrong": "Incorrect. While confidentiality survives death, it is not absolute — the legal representative of the estate can waive it for proper estate administration purposes.",
+    "why_C_wrong": "This IS the correct answer. Yes — confidentiality and privilege survive death; however, the executor, as the legal representative of the deceased client's estate, is entitled to waive confidentiality and privilege for purposes of estate administration; Javeria may disclose to the executor who has proper legal authority to waive.",
+    "why_D_wrong": "Incorrect. A court order is not required when the estate's legal representative has the authority to waive and exercises that authority properly.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 3",
+      "heading": "Confidentiality",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.3-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "confidentiality"
+    },
+    "exam_trigger_words": [
+      "deceased client",
+      "executor",
+      "survives death",
+      "estate administration"
+    ],
+    "tested_concepts": [
+      "confidentiality survives death",
+      "executor can waive privilege/confidentiality",
+      "no court order required for executor waiver"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-03-confid-excep-001",
+    "chapter_number": 3,
+    "chapter_title": "Confidentiality",
+    "topic_id": "confidentiality",
+    "topic_heading": "Duty of Confidentiality — Rule 3.3",
+    "subtopic_id": "exceptions_to_confidentiality",
+    "subtopic_heading": "Exceptions to Confidentiality — Rule 3.3-3 to 3.3-7",
+    "difficulty": "easy",
+    "fact_pattern": "Kenji's current client, a former business associate, tells Kenji in confidence that an unrelated third party has been orchestrating a massive fraud for several years, causing approximately five million dollars in losses to victims. Kenji's client is not involved in the fraud but has detailed insider knowledge. Local business groups ask Kenji informally whether he knows anything about the fraud to help prevent further economic losses to the community.",
+    "call_of_question": "May Kenji disclose the information his client shared about the ongoing fraud in order to prevent further economic harm to victims?",
+    "options": {
+      "A": "Yes — Kenji may always disclose confidential information to prevent ongoing criminal acts, regardless of the nature of the harm.",
+      "B": "No — Kenji must keep this information confidential; the permissive exception under Rule 3.3-3 applies only to criminal acts likely to result in death or serious bodily harm, not to economic harm.",
+      "C": "Yes — as an officer of the court, Kenji has an affirmative obligation to report ongoing criminal fraud to the authorities regardless of confidentiality.",
+      "D": "Yes, but only if the fraud victims formally request that Kenji disclose the information."
+    },
+    "correct_answer": "B",
+    "explanation": "The permissive exception to confidentiality under Rule 3.3-3 is limited to situations where the lawyer believes on reasonable grounds that disclosure is necessary to prevent a criminal act likely to result in death or serious bodily harm. Economic harm, no matter how substantial, does not meet this threshold. Kenji must maintain confidentiality.",
+    "why_A_wrong": "Incorrect. The permissive exception is not unlimited. It is specifically confined to criminal acts likely to result in death or serious bodily harm.",
+    "why_B_wrong": "This IS the correct answer. No — Kenji must keep this information confidential; the permissive exception under Rule 3.3-3 applies only to criminal acts likely to result in death or serious bodily harm, not to economic harm.",
+    "why_C_wrong": "Incorrect. Lawyers do not have a general obligation as officers of the court to report criminal conduct learned in confidence. The confidentiality obligation prevails absent a statutory override or the specific permissive exception.",
+    "why_D_wrong": "Incorrect. Victim requests do not create an exception to the duty of confidentiality.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 3",
+      "heading": "Confidentiality",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rules 3.3-3, 3.3-4, 3.3-5"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "confidentiality — exceptions"
+    },
+    "exam_trigger_words": [
+      "economic harm",
+      "fraud",
+      "permissive exception",
+      "death or serious bodily harm"
+    ],
+    "tested_concepts": [
+      "Rule 3.3-3 — permissive exception threshold",
+      "economic harm does not qualify",
+      "disclosure limited to death or serious bodily harm"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-03-confid-excep-002",
+    "chapter_number": 3,
+    "chapter_title": "Confidentiality",
+    "topic_id": "confidentiality",
+    "topic_heading": "Duty of Confidentiality — Rule 3.3",
+    "subtopic_id": "exceptions_to_confidentiality",
+    "subtopic_heading": "Exceptions to Confidentiality — Rule 3.3-3 to 3.3-7",
+    "difficulty": "medium",
+    "fact_pattern": "Lola is a criminal defence lawyer. During a privileged consultation, her current client states that he intends to kill his former business partner tomorrow, providing details that make the threat credible. Lola believes the threat is genuine and imminent. She considers her options.",
+    "call_of_question": "What does Rule 3.3-3 permit Lola to do in response to this credible threat?",
+    "options": {
+      "A": "Lola must immediately disclose all information about her client to the police, including the client's full history and the details of the current retainer.",
+      "B": "Lola must first attempt to persuade the client not to carry out the threat before she is permitted to make any disclosure.",
+      "C": "Lola may, under Rule 3.3-3, disclose confidential information to the extent reasonably necessary to prevent the criminal act likely to result in death; the disclosure is permissive (not mandatory) and must be limited to what is necessary to prevent the act.",
+      "D": "Lola cannot disclose because the threatened act has not yet been carried out and harm remains speculative."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.3-3 creates a permissive — not mandatory — exception allowing a lawyer to disclose confidential information where the lawyer reasonably believes disclosure is necessary to prevent a criminal act likely to result in death or serious bodily harm. The disclosure must be limited to what is necessary to prevent the act. There is no requirement to first attempt to persuade the client, though that may be prudent.",
+    "why_A_wrong": "Incorrect. Disclosure must be limited to what is necessary to prevent the specific criminal act. Wholesale disclosure of all client information exceeds the permissive exception.",
+    "why_B_wrong": "Incorrect. While attempting to dissuade the client may be prudent, the Rules do not make it a prerequisite to disclosure under Rule 3.3-3.",
+    "why_C_wrong": "This IS the correct answer. Lola may, under Rule 3.3-3, disclose confidential information to the extent reasonably necessary to prevent the criminal act likely to result in death; the disclosure is permissive (not mandatory) and must be limited to what is necessary to prevent the act.",
+    "why_D_wrong": "Incorrect. The exception applies prospectively — to prevent a threatened act that has not yet occurred. Waiting until the act is carried out defeats the purpose.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 3",
+      "heading": "Confidentiality",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rules 3.3-3, 3.3-4, 3.3-5"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "confidentiality — exceptions"
+    },
+    "exam_trigger_words": [
+      "threat",
+      "imminent harm",
+      "death",
+      "permissive disclosure",
+      "necessary to prevent"
+    ],
+    "tested_concepts": [
+      "Rule 3.3-3 — permissive exception for death or serious bodily harm",
+      "disclosure is permissive not mandatory",
+      "disclosure limited to what is necessary"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-03-confid-excep-003",
+    "chapter_number": 3,
+    "chapter_title": "Confidentiality",
+    "topic_id": "confidentiality",
+    "topic_heading": "Duty of Confidentiality — Rule 3.3",
+    "subtopic_id": "exceptions_to_confidentiality",
+    "subtopic_heading": "Exceptions to Confidentiality — Rule 3.3-3 to 3.3-7",
+    "difficulty": "hard",
+    "fact_pattern": "Moira is acting for a client in a contested custody and access dispute. During a consultation, the client mentions, as background, that the client's new romantic partner has been physically abusing the client's eight-year-old child. Moira is uncertain whether her duty of confidentiality prevents her from acting on this information.",
+    "call_of_question": "What obligation does the Child, Youth and Family Services Act, 2017 impose on Moira regarding this information?",
+    "options": {
+      "A": "Moira is not required to report because her duty of confidentiality under the Rules of Professional Conduct prevails over the reporting requirements of the CYFSA.",
+      "B": "Moira may report the suspected abuse to the Children's Aid Society if she chooses, but is not legally required to do so.",
+      "C": "Under section 125 of the Child, Youth and Family Services Act, 2017, Moira has a mandatory obligation to report her suspicion that the child may be in need of protection; this statutory obligation overrides both solicitor-client privilege and the Rules of Professional Conduct duty of confidentiality.",
+      "D": "The reporting obligation under CYFSA applies only to regulated professionals such as teachers, social workers, and physicians — not to lawyers."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 125 of the Child, Youth and Family Services Act, 2017 imposes a mandatory reporting obligation on every person, including lawyers, who has reasonable grounds to suspect that a child is or may be in need of protection. The legislation expressly overrides solicitor-client privilege and the Rules of Professional Conduct duty of confidentiality. The obligation is not discretionary.",
+    "why_A_wrong": "Incorrect. CYFSA s.125 expressly overrides the Rules of Professional Conduct confidentiality obligation. The statute takes precedence.",
+    "why_B_wrong": "Incorrect. The obligation under CYFSA s.125 is mandatory, not discretionary. Every person with reasonable grounds to suspect must report.",
+    "why_C_wrong": "This IS the correct answer. Under section 125 of the Child, Youth and Family Services Act, 2017, Moira has a mandatory obligation to report her suspicion that the child may be in need of protection; this statutory obligation overrides both solicitor-client privilege and the Rules of Professional Conduct duty of confidentiality.",
+    "why_D_wrong": "Incorrect. CYFSA s.125 applies to every person, including lawyers. There is no professional exemption.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 3",
+      "heading": "Confidentiality",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rules 3.3-3, 3.3-4, 3.3-5"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "confidentiality — exceptions"
+    },
+    "exam_trigger_words": [
+      "child abuse",
+      "CYFSA",
+      "mandatory reporting",
+      "in need of protection"
+    ],
+    "tested_concepts": [
+      "CYFSA s.125 mandatory reporting obligation",
+      "overrides solicitor-client privilege",
+      "applies to lawyers"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-03-confid-excep-004",
+    "chapter_number": 3,
+    "chapter_title": "Confidentiality",
+    "topic_id": "confidentiality",
+    "topic_heading": "Duty of Confidentiality — Rule 3.3",
+    "subtopic_id": "exceptions_to_confidentiality",
+    "subtopic_heading": "Exceptions to Confidentiality — Rule 3.3-3 to 3.3-7",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Nathan is acting for a client in a commercial litigation matter. During the retainer, the client discloses that for the past three years it has been filing fraudulent tax returns and hiding significant assets from the Canada Revenue Agency. The fraud is ongoing. Nathan is considering whether any exception to confidentiality permits or requires him to disclose this to the CRA.",
+    "call_of_question": "Which exception to confidentiality, if any, applies to permit or require Nathan to disclose the ongoing tax fraud to the CRA?",
+    "options": {
+      "A": "Nathan may disclose to the CRA to prevent ongoing economic harm because the crime-fraud exception permits disclosure of ongoing criminal conduct.",
+      "B": "Nathan may disclose because ongoing criminal activity by a client automatically removes the protection of confidentiality under the Rules.",
+      "C": "Nathan cannot disclose — the ongoing tax fraud causes only economic harm, which does not meet the threshold for the permissive disclosure exception under Rule 3.3-3; the information remains confidential unless Nathan is required to disclose by law.",
+      "D": "Nathan must disclose because lawyers have an affirmative duty to prevent ongoing crime, particularly tax fraud that harms the public fisc."
+    },
+    "correct_answer": "C",
+    "explanation": "The permissive exception under Rule 3.3-3 applies only where the criminal act is likely to result in death or serious bodily harm. Tax fraud causes economic harm but not death or serious bodily harm. The crime-fraud exception in privilege law operates to deny privilege where the client sought advice to facilitate future crime — it does not create a positive duty or permission to disclose. Unless Nathan is required by law to disclose (e.g., by a court order), the information remains confidential.",
+    "why_A_wrong": "Incorrect. The crime-fraud exception in privilege law is a reason to deny privilege protection for communications made to facilitate future crime — it is not a permission to disclose past or ongoing crimes to authorities.",
+    "why_B_wrong": "Incorrect. Ongoing criminal activity does not automatically lift confidentiality. The specific threshold (death or serious bodily harm) must be met for the permissive exception.",
+    "why_C_wrong": "This IS the correct answer. Nathan cannot disclose — the ongoing tax fraud causes only economic harm, which does not meet the threshold for the permissive disclosure exception under Rule 3.3-3; the information remains confidential unless Nathan is required to disclose by law.",
+    "why_D_wrong": "Incorrect. There is no general affirmative duty under the Rules to prevent ongoing crime. The permissive exception requires the specific threshold of death or serious bodily harm.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 3",
+      "heading": "Confidentiality",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rules 3.3-3, 3.3-4, 3.3-5"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "confidentiality — exceptions"
+    },
+    "exam_trigger_words": [
+      "tax fraud",
+      "CRA",
+      "ongoing crime",
+      "economic harm",
+      "crime-fraud exception"
+    ],
+    "tested_concepts": [
+      "Rule 3.3-3 — economic harm insufficient for permissive exception",
+      "crime-fraud exception does not create disclosure right",
+      "no general duty to report ongoing crime"
+    ],
+    "estimated_time_seconds": 180
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-03-confid-excep-005",
+    "chapter_number": 3,
+    "chapter_title": "Confidentiality",
+    "topic_id": "confidentiality",
+    "topic_heading": "Duty of Confidentiality — Rule 3.3",
+    "subtopic_id": "exceptions_to_confidentiality",
+    "subtopic_heading": "Exceptions to Confidentiality — Rule 3.3-3 to 3.3-7",
+    "difficulty": "medium",
+    "fact_pattern": "Olivia acts for a defendant in civil litigation. The plaintiff, through litigation counsel, obtains a court order compelling production of documents held by Olivia in confidence. The documents include confidential communications. A privilege claim was raised by Olivia and adjudicated by the court, which ruled that the documents are not privileged and must be produced. The court order has issued.",
+    "call_of_question": "Is Olivia required to comply with the court order despite her general duty of confidentiality under Rule 3.3-1?",
+    "options": {
+      "A": "No — the general duty of confidentiality under Rule 3.3-1 takes precedence over any court order to produce documents.",
+      "B": "No — Olivia must continue to resist production to protect her client's interests, regardless of the court order.",
+      "C": "Yes — where a court has properly ordered production of documents after any privilege claim has been adjudicated, Olivia is required by law to comply; a valid court order constitutes a legal requirement that overrides the general duty of confidentiality.",
+      "D": "Only if the client consents to production — a court order cannot override the client's right to confidentiality without client consent."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.3-1 permits disclosure where required by law. A valid court order, issued after a proper hearing on any privilege claims, is a legal requirement that overrides the general duty of confidentiality. Willful non-compliance with a court order would constitute contempt. Client consent is not required once a court has ordered production.",
+    "why_A_wrong": "Incorrect. Rule 3.3-1 itself recognizes that disclosure 'required by law' is an exception. A court order qualifies as a legal requirement.",
+    "why_B_wrong": "Incorrect. Once privilege has been properly adjudicated and a court order has issued, continuing to withhold documents would constitute contempt of court.",
+    "why_C_wrong": "This IS the correct answer. Yes — where a court has properly ordered production of documents after any privilege claim has been adjudicated, Olivia is required by law to comply; a valid court order constitutes a legal requirement that overrides the general duty of confidentiality.",
+    "why_D_wrong": "Incorrect. A court order does not require client consent to be enforceable. The court's authority to compel production exists independently of client wishes.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 3",
+      "heading": "Confidentiality",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rules 3.3-3, 3.3-4, 3.3-5"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "confidentiality — exceptions"
+    },
+    "exam_trigger_words": [
+      "court order",
+      "required by law",
+      "production",
+      "comply despite confidentiality"
+    ],
+    "tested_concepts": [
+      "Rule 3.3-1 — required by law exception",
+      "court order overrides confidentiality",
+      "compliance with valid court order"
+    ],
+    "estimated_time_seconds": 120
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "id": "crim-03-bail-grnds-001",
+    "subject": "criminal_law",
+    "chapter_number": 3,
+    "chapter_title": "Bail — Judicial Interim Release",
+    "topic_id": "judicial_interim_release",
+    "topic_heading": "Bail and Judicial Interim Release",
+    "subtopic_id": "grounds_for_detention",
+    "subtopic_heading": "Three Grounds for Pre-Trial Detention",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An accused has been charged with theft over $5,000. At the bail hearing, the Crown introduces evidence showing the accused failed to appear in court on three separate occasions in the past five years in relation to other charges.",
+    "call_of_question": "Which ground of detention under s. 515(10) of the Criminal Code is the Crown relying on?",
+    "options": {
+      "A": "Secondary ground — the likelihood of the accused committing further offences.",
+      "B": "Primary ground — detention is necessary to ensure the accused's attendance in court under s. 515(10)(a).",
+      "C": "Tertiary ground — maintaining public confidence in the administration of justice.",
+      "D": "The Crown cannot rely on prior failures to appear for the purposes of a bail determination."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 515(10)(a) of the Criminal Code — the primary ground — permits detention where it is necessary to ensure the accused's attendance in court. A history of failures to appear is directly and squarely relevant to this ground as it demonstrates a pattern of non-compliance with court obligations, suggesting future non-appearance is a genuine risk.",
+    "why_A_wrong": "The secondary ground under s. 515(10)(b) concerns the substantial likelihood that the accused will commit a criminal offence or interfere with the administration of justice if released. It is not directed at the risk of flight or non-appearance.",
+    "why_B_wrong": "This IS the correct answer. Primary ground — detention is necessary to ensure the accused's attendance in court under s. 515(10)(a).",
+    "why_C_wrong": "The tertiary ground under s. 515(10)(c) addresses maintaining public confidence in the justice system by reference to factors like the strength of the evidence and the gravity of the offence. It is not the primary vehicle for addressing flight risk.",
+    "why_D_wrong": "Prior failures to appear are directly relevant to bail determinations and are a key factor under the primary ground. There is no rule preventing the Crown from relying on this history.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 3: Bail — Judicial Interim Release",
+      "heading": "Three Grounds for Pre-Trial Detention",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(10)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "primary ground",
+      "s. 515(10)(a)",
+      "failure to appear",
+      "attendance in court",
+      "bail"
+    ],
+    "tested_concepts": [
+      "three grounds for detention",
+      "primary ground s. 515(10)(a)",
+      "failure to appear history"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-03-bail-grnds-002",
+    "subject": "criminal_law",
+    "chapter_number": 3,
+    "chapter_title": "Bail — Judicial Interim Release",
+    "topic_id": "judicial_interim_release",
+    "topic_heading": "Bail and Judicial Interim Release",
+    "subtopic_id": "grounds_for_detention",
+    "subtopic_heading": "Three Grounds for Pre-Trial Detention",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The Crown seeks to detain an accused who has been charged with multiple counts of sexual assault. The Crown presents evidence that the accused has a prior conviction for a similar offence and the psychological report tendered indicates an ongoing risk of reoffending. The Crown argues the accused should be detained to protect potential future victims.",
+    "call_of_question": "Which ground of detention applies and what must the Crown establish?",
+    "options": {
+      "A": "Primary ground — there is a risk the accused will flee the jurisdiction before trial.",
+      "B": "Secondary ground — under s. 515(10)(b), the Crown must establish a substantial likelihood that the accused, if released, will commit a criminal offence or will interfere with the administration of justice.",
+      "C": "Tertiary ground — because sexual assault is a particularly serious offence, detention is automatically justified.",
+      "D": "No ground applies — bail cannot be refused for sexual assault until the accused is convicted."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 515(10)(b) — the secondary ground — permits detention where there is a substantial likelihood that the accused will commit a criminal offence or interfere with the administration of justice if released. The Crown must establish this on a substantial likelihood standard — not mere possibility. The prior conviction for a similar offence and the psychological risk assessment directly support the secondary ground by demonstrating an ongoing danger to the public.",
+    "why_A_wrong": "The primary ground under s. 515(10)(a) addresses appearance risk. There is no suggestion on these facts that the accused is at risk of fleeing.",
+    "why_B_wrong": "This IS the correct answer. Secondary ground — under s. 515(10)(b), the Crown must establish a substantial likelihood that the accused, if released, will commit a criminal offence or will interfere with the administration of justice.",
+    "why_C_wrong": "The tertiary ground under s. 515(10)(c) may be available in serious cases but requires consideration of specific factors including strength of evidence, gravity, and public confidence. Gravity alone does not make detention automatic under the tertiary ground.",
+    "why_D_wrong": "Bail determinations occur before any finding of guilt. The grounds for detention are evaluated at the pre-trial stage and routinely apply to serious charges including sexual assault.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 3: Bail — Judicial Interim Release",
+      "heading": "Three Grounds for Pre-Trial Detention",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(10)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "secondary ground",
+      "s. 515(10)(b)",
+      "substantial likelihood",
+      "protect public",
+      "reoffending"
+    ],
+    "tested_concepts": [
+      "secondary ground s. 515(10)(b)",
+      "substantial likelihood standard",
+      "public protection"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-03-bail-grnds-003",
+    "subject": "criminal_law",
+    "chapter_number": 3,
+    "chapter_title": "Bail — Judicial Interim Release",
+    "topic_id": "judicial_interim_release",
+    "topic_heading": "Bail and Judicial Interim Release",
+    "subtopic_id": "grounds_for_detention",
+    "subtopic_heading": "Three Grounds for Pre-Trial Detention",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An accused is charged with first-degree murder. The Crown's evidence includes security footage appearing to show the accused committing the act, a matching DNA profile, and a witness who claims to have seen the accused flee the scene. The killing involved particular cruelty. The accused has strong community ties and no prior record.",
+    "call_of_question": "Which ground of detention under s. 515(10) is most appropriate, and what factors does the court consider?",
+    "options": {
+      "A": "Primary ground — persons charged with murder always present a serious flight risk.",
+      "B": "Secondary ground — persons charged with murder are presumed to be a danger to the public.",
+      "C": "Tertiary ground — s. 515(10)(c) — considering the strength of the prosecution's case, the gravity of the offence, the circumstances of the killing, and the potential sentence; detention may be justified if release would undermine public confidence in the administration of justice.",
+      "D": "The court cannot detain an accused charged with first-degree murder without a special statutory hearing separate from a standard bail hearing."
+    },
+    "correct_answer": "C",
+    "explanation": "The tertiary ground under s. 515(10)(c) — upheld as constitutional in R v Hall 2002 SCC 64 — permits detention where it is necessary to maintain confidence in the administration of justice. The court must consider: the apparent strength of the prosecution's case, the gravity of the offence, the circumstances surrounding the offence (including any use of violence), and the potential sentence upon conviction. On these facts — overwhelming evidence, first-degree murder, particular cruelty, life imprisonment — the tertiary ground is plainly engaged even though the accused has community ties and no prior record.",
+    "why_A_wrong": "The primary ground is fact-specific; community ties and a lack of prior record weigh against a flight risk finding. There is no automatic presumption of flight for murder charges.",
+    "why_B_wrong": "The secondary ground requires a substantial likelihood of specific future offending. It does not operate by presumption based on the severity of the charge.",
+    "why_C_wrong": "This IS the correct answer. Tertiary ground — s. 515(10)(c) — considering the strength of the prosecution's case, the gravity of the offence, the circumstances of the killing, and the potential sentence; detention may be justified if release would undermine public confidence in the administration of justice.",
+    "why_D_wrong": "First-degree murder accused are entitled to a bail hearing through the standard process. There is no separate special statutory hearing requirement, although the superior court has jurisdiction for certain charges.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 3: Bail — Judicial Interim Release",
+      "heading": "Three Grounds for Pre-Trial Detention",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(10)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "tertiary ground",
+      "s. 515(10)(c)",
+      "public confidence",
+      "R v Hall",
+      "gravity",
+      "strength of evidence"
+    ],
+    "tested_concepts": [
+      "tertiary ground s. 515(10)(c)",
+      "R v Hall",
+      "public confidence test",
+      "first-degree murder bail"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-03-bail-grnds-004",
+    "subject": "criminal_law",
+    "chapter_number": 3,
+    "chapter_title": "Bail — Judicial Interim Release",
+    "topic_id": "judicial_interim_release",
+    "topic_heading": "Bail and Judicial Interim Release",
+    "subtopic_id": "grounds_for_detention",
+    "subtopic_heading": "Three Grounds for Pre-Trial Detention",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An accused is currently released on a recognizance for a robbery charge. While on that release, he is arrested and charged with possessing a prohibited firearm, an indictable offence. The Crown seeks detention and argues the accused should be required to show cause why detention is not justified.",
+    "call_of_question": "Does s. 515(6) of the Criminal Code create a reverse onus on these facts, and if so, what must the accused establish?",
+    "options": {
+      "A": "No — the Crown always bears the burden of justifying pre-trial detention regardless of circumstances.",
+      "B": "No — reverse onus under s. 515(6) applies only to drug trafficking offences.",
+      "C": "Yes — under s. 515(6)(a), where an accused is charged with an indictable offence alleged to have been committed while on release for another indictable offence, the accused must show cause why their detention is not justified.",
+      "D": "Yes, but only if the previous charge has already resulted in a conviction at the time of the bail hearing."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 515(6)(a) of the Criminal Code reverses the ordinary onus at a bail hearing. Where an accused is charged with an indictable offence that is alleged to have been committed while the accused was on release in respect of another indictable offence, the accused bears the burden of showing cause why their detention is not justified. The accused is 'on release' for the robbery charge (an indictable offence), and the prohibited firearm charge is a fresh indictable offence committed during that release — precisely the scenario s. 515(6)(a) addresses.",
+    "why_A_wrong": "Section 515(6) is an express statutory exception to the ordinary Crown burden. In the specified circumstances, Parliament has reversed the onus.",
+    "why_B_wrong": "Section 515(6) covers multiple categories beyond drug trafficking, including — under s. 515(6)(a) — any indictable offence committed while on release for another indictable offence.",
+    "why_C_wrong": "This IS the correct answer. Yes — under s. 515(6)(a), where an accused is charged with an indictable offence alleged to have been committed while on release for another indictable offence, the accused must show cause why their detention is not justified.",
+    "why_D_wrong": "Section 515(6)(a) requires that the accused be 'on release' in respect of the prior charge — not that the prior charge has resulted in conviction. The reverse onus applies at the pre-conviction stage.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 3: Bail — Judicial Interim Release",
+      "heading": "Three Grounds for Pre-Trial Detention",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(10)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "reverse onus",
+      "s. 515(6)",
+      "show cause",
+      "on release",
+      "indictable offence"
+    ],
+    "tested_concepts": [
+      "s. 515(6)(a) reverse onus",
+      "show cause hearing",
+      "charged while on release"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-03-bail-grnds-005",
+    "subject": "criminal_law",
+    "chapter_number": 3,
+    "chapter_title": "Bail — Judicial Interim Release",
+    "topic_id": "judicial_interim_release",
+    "topic_heading": "Bail and Judicial Interim Release",
+    "subtopic_id": "grounds_for_detention",
+    "subtopic_heading": "Three Grounds for Pre-Trial Detention",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At a bail hearing for an accused charged with fraud over $5,000, defence counsel argues for release on the accused's own recognizance with no conditions. The Crown requests a $10,000 cash deposit and a number of stringent conditions including a curfew and electronic monitoring.",
+    "call_of_question": "What principle governs how a justice approaches the setting of bail conditions?",
+    "options": {
+      "A": "The court must always require a cash deposit for charges of moderate seriousness.",
+      "B": "The ladder principle applies: the court begins with the least restrictive form of release and escalates only as necessary to address the relevant ground for detention.",
+      "C": "Once the Crown requests a cash deposit, the court cannot impose a lesser condition.",
+      "D": "The court must accept whichever conditions the Crown proposes as long as the Crown has filed the request in writing."
+    },
+    "correct_answer": "B",
+    "explanation": "The ladder principle (also referred to as the principle of escalating conditions) requires a justice to begin at the lowest rung of the release ladder — release on one's own recognizance with no conditions — and move to more restrictive forms of release only to the extent necessary to address the relevant ground for detention. The court retains full discretion and is not bound by the Crown's proposed conditions. Cash deposits and stringent conditions are available but should be imposed only where lesser measures are insufficient.",
+    "why_A_wrong": "There is no rule requiring a cash deposit for fraud or for charges of any particular level of seriousness. The ladder principle requires the least restrictive appropriate form of release.",
+    "why_B_wrong": "This IS the correct answer. The ladder principle applies: the court begins with the least restrictive form of release and escalates only as necessary to address the relevant ground for detention.",
+    "why_C_wrong": "The court exercises independent judicial discretion over bail conditions. The Crown's request is a submission, not a binding directive. The court may impose conditions that are less, more, or different from what either party proposes.",
+    "why_D_wrong": "The court is not bound by Crown submissions on bail conditions, whether written or oral. Judicial discretion governs the entire bail determination.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 3: Bail — Judicial Interim Release",
+      "heading": "Three Grounds for Pre-Trial Detention",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(10)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "ladder principle",
+      "least restrictive",
+      "bail conditions",
+      "own recognizance",
+      "escalating"
+    ],
+    "tested_concepts": [
+      "ladder principle",
+      "least restrictive release",
+      "judicial discretion on conditions"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "id": "civ-09-disc-scope-001",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "examination_for_discovery",
+    "topic_heading": "Examination for Discovery",
+    "subtopic_id": "scope_of_examination",
+    "subtopic_heading": "Scope — Relevance to Any Matter in Issue",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "During examination for discovery in a personal injury action, the plaintiff's lawyer asks the defendant driver about a prior driving incident that occurred two years before the accident in question. Defense counsel objects on the ground that the prior incident was not pleaded in either party's pleadings.",
+    "call_of_question": "Which statement best describes the proper scope of questions at an examination for discovery under the Rules of Civil Procedure?",
+    "options": {
+      "A": "Questions must be limited to the specific facts pleaded in the statement of claim and statement of defence.",
+      "B": "A party may be examined on any matter relevant to any matter in issue in the action, which may extend beyond the specific facts pleaded in the pleadings.",
+      "C": "Questions may cover any matter the examining party considers helpful to its case, with no relevance requirement.",
+      "D": "Examination for discovery is limited to facts the opposing party indicated in its will-say statements that it intends to rely on at trial."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 31.06(1) of the Rules of Civil Procedure provides that a party examined for discovery shall answer questions concerning any matter that is relevant to any matter in issue between or among the parties in the action. The scope is broader than the specific facts pleaded — it extends to any matter relevant to an issue in the action. However, relevance to an issue in the action remains the touchstone; pure fishing expeditions are not permitted.",
+    "why_A_wrong": "Rule 31.06(1) is broader than the four corners of the pleadings. A matter may be relevant to an issue in the action even if not specifically pleaded.",
+    "why_B_wrong": "This IS the correct answer. Rule 31.06(1) permits examination on any matter relevant to any issue in the action, not just pleaded facts.",
+    "why_C_wrong": "Relevance to a matter in issue in the action is required. Discovery is not unlimited; pure fishing expeditions without a relevance connection to an issue are not permitted.",
+    "why_D_wrong": "Examination for discovery is not limited to will-say statements. The scope is defined by r. 31.06(1) — relevance to any matter in issue.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 9 — Examination for Discovery",
+      "heading": "Scope — Relevance to Any Matter in Issue",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, r. 31.06(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "examination for discovery",
+      "scope",
+      "relevance",
+      "r. 31.06",
+      "pleadings"
+    ],
+    "tested_concepts": [
+      "r. 31.06(1) scope of discovery",
+      "broader than pleadings",
+      "relevance to any issue"
+    ],
+    "estimated_time_seconds": 80,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-09-disc-scope-002",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "examination_for_discovery",
+    "topic_heading": "Examination for Discovery",
+    "subtopic_id": "scope_of_examination",
+    "subtopic_heading": "Scope — Relevance to Any Matter in Issue",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "In a contract dispute, the plaintiff asks the defendant during examination for discovery about conversations the defendant had with third-party suppliers that may reveal the basis for the contract price. The defendant refuses to answer, arguing that these conversations are irrelevant because they are not specifically pleaded in either party's pleadings.",
+    "call_of_question": "How should the defendant's refusal to answer be assessed?",
+    "options": {
+      "A": "The refusal is proper because parties are only required to answer questions about facts specifically pleaded in their pleadings.",
+      "B": "The refusal is proper if the conversations are not listed in the defendant's affidavit of documents.",
+      "C": "If the conversations are relevant to any issue in the action — such as the meaning of the contract or the quantum of damages — the refusal is improper under r. 31.06(1).",
+      "D": "The refusal is proper unless the defendant previously identified the conversations in a will-say statement filed before trial."
+    },
+    "correct_answer": "C",
+    "explanation": "The scope of examination for discovery under r. 31.06(1) is not limited to pleaded facts. If the defendant's conversations with third-party suppliers are relevant to an issue in the action — such as the proper interpretation of the contract or the quantum of the plaintiff's damages — the defendant is obliged to answer questions about them. The refusal to answer is improper if relevance to a matter in issue can be established.",
+    "why_A_wrong": "Rule 31.06(1) is broader than pleaded facts. Questions are proper if they relate to any matter in issue in the action, even if not specifically pleaded.",
+    "why_B_wrong": "Documentary production obligations and examination for discovery obligations are separate. Failure to list something in the affidavit of documents does not make oral examination on the topic improper — it may indicate a production deficiency.",
+    "why_C_wrong": "This IS the correct answer. If the conversations are relevant to any issue in the action, the refusal to answer is improper under r. 31.06(1).",
+    "why_D_wrong": "There is no requirement that the defendant identify a topic in a will-say statement for it to be a proper subject of examination for discovery.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 9 — Examination for Discovery",
+      "heading": "Scope — Relevance to Any Matter in Issue",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, r. 31.06(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "refusal to answer",
+      "relevance",
+      "examination for discovery",
+      "r. 31.06(1)",
+      "contract dispute"
+    ],
+    "tested_concepts": [
+      "r. 31.06(1) scope — broader than pleadings",
+      "relevance test for discovery questions",
+      "improper refusal to answer"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-09-disc-scope-003",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "examination_for_discovery",
+    "topic_heading": "Examination for Discovery",
+    "subtopic_id": "scope_of_examination",
+    "subtopic_heading": "Scope — Relevance to Any Matter in Issue",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "During examination for discovery, the plaintiff's counsel asks the defendant about a memorandum prepared by the defendant's solicitor in connection with the litigation. The plaintiff acknowledges the memorandum is likely subject to solicitor-client privilege but asks whether the memorandum exists and what its general subject matter is.",
+    "call_of_question": "Must the defendant disclose the existence and general subject matter of the privileged memorandum?",
+    "options": {
+      "A": "No — solicitor-client privilege protects both the existence and the content of a privileged document from disclosure.",
+      "B": "No — the plaintiff cannot ask any questions that touch on a potentially privileged document.",
+      "C": "Yes — under r. 31.06(2) of the Rules of Civil Procedure, a party must answer questions about the existence, content, and location of relevant documents even if those documents are privileged; privilege protects the content from disclosure, not the existence.",
+      "D": "Only if the court has first ordered production of the document after reviewing it in camera."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 31.06(2) of the Rules of Civil Procedure expressly provides that a person may be questioned about the existence and location of documents that are relevant to a matter in issue, even if those documents are privileged. Solicitor-client privilege protects the content of the communication from disclosure; it does not shield the mere existence of the document from being acknowledged. The defendant must confirm the memorandum exists and identify its general subject matter, but may claim privilege over its contents.",
+    "why_A_wrong": "Solicitor-client privilege protects the content of privileged communications, not the fact that a document exists. Rule 31.06(2) specifically requires disclosure of the existence of privileged documents.",
+    "why_B_wrong": "A party may ask about the existence of a potentially privileged document. It is only the content that is shielded by privilege.",
+    "why_C_wrong": "This IS the correct answer. Rule 31.06(2) requires disclosure of the existence of relevant documents even if privileged; privilege protects content, not existence.",
+    "why_D_wrong": "No court order is required before a party must acknowledge the existence of a privileged document. The obligation arises directly from r. 31.06(2).",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 9 — Examination for Discovery",
+      "heading": "Scope — Relevance to Any Matter in Issue",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, r. 31.06(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "solicitor-client privilege",
+      "existence of document",
+      "r. 31.06(2)",
+      "privileged memorandum"
+    ],
+    "tested_concepts": [
+      "r. 31.06(2) — existence of privileged documents must be disclosed",
+      "privilege protects content not existence",
+      "examination for discovery and privilege"
+    ],
+    "estimated_time_seconds": 105,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-09-disc-scope-004",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "examination_for_discovery",
+    "topic_heading": "Examination for Discovery",
+    "subtopic_id": "scope_of_examination",
+    "subtopic_heading": "Scope — Relevance to Any Matter in Issue",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The defendant in an action is a corporation. The plaintiff wishes to examine the corporation's CEO at examination for discovery, as the CEO has direct personal knowledge of the disputed contractual transaction. The corporation has designated its Vice-President of Finance as its representative for discovery.",
+    "call_of_question": "How is examination for discovery of a corporation conducted in Ontario, and may the plaintiff compel examination of the CEO?",
+    "options": {
+      "A": "The plaintiff may examine any officer or director of the corporation it chooses, because they are all representatives of the defendant.",
+      "B": "Only the CEO can be examined because he has the most direct personal knowledge of the disputed transaction.",
+      "C": "The corporation designates the officer or employee to be examined on its behalf; the plaintiff does not have the right to choose the representative, although the court may order examination of a specific person if the designated representative is unsuitable.",
+      "D": "The plaintiff must examine the corporation through written questions only, and cannot compel an oral examination of any individual."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r. 31.03 of the Rules of Civil Procedure, where a party to be examined is a corporation, it shall be examined through an officer, director, or employee designated by the corporation. The plaintiff does not have the right to choose which individual represents the corporation. However, if the designated person does not have knowledge of the relevant matters, the examining party may bring a motion and the court can order that a specific person — such as the CEO — be examined.",
+    "why_A_wrong": "The plaintiff cannot unilaterally choose which corporate officer or director to examine. The corporation designates its representative under r. 31.03.",
+    "why_B_wrong": "Personal knowledge of the disputed facts does not automatically make someone the required examination representative. The corporation designates who will be examined on its behalf.",
+    "why_C_wrong": "This IS the correct answer. The corporation designates under r. 31.03; the plaintiff cannot choose, but may bring a motion if the designate is unsuitable.",
+    "why_D_wrong": "Oral examination is the default and standard procedure for examinations for discovery in Ontario. Written questions are an alternative available under r. 35, not the only option.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 9 — Examination for Discovery",
+      "heading": "Scope — Relevance to Any Matter in Issue",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, r. 31.03"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "corporate defendant",
+      "r. 31.03",
+      "designate",
+      "CEO",
+      "officer or director"
+    ],
+    "tested_concepts": [
+      "r. 31.03 — corporation designates its representative",
+      "plaintiff cannot choose corporate examinees",
+      "court may order specific person"
+    ],
+    "estimated_time_seconds": 100,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-09-disc-scope-005",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "examination_for_discovery",
+    "topic_heading": "Examination for Discovery",
+    "subtopic_id": "scope_of_examination",
+    "subtopic_heading": "Scope — Relevance to Any Matter in Issue",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "During examination for discovery, the defendant's counsel gives several undertakings to produce documents and provide additional information after the examination. After the examination is complete, new information arises that contradicts one of the undertakings that was given.",
+    "call_of_question": "What obligation does a party have with respect to undertakings given at examination for discovery?",
+    "options": {
+      "A": "Undertakings are voluntary commitments; a party may decline to honour them if circumstances change after the examination.",
+      "B": "Undertakings given at examination for discovery are binding obligations that must be fulfilled within the time agreed or, if not agreed, within a reasonable time; failure to comply may result in a motion for an order compelling compliance.",
+      "C": "An undertaking becomes void if subsequent information contradicts the undertaking, releasing the party from its obligation.",
+      "D": "Undertakings are binding only if they were confirmed in writing and signed by counsel after the examination."
+    },
+    "correct_answer": "B",
+    "explanation": "Undertakings given at examination for discovery are binding obligations on the party that gave them. They must be fulfilled within the time agreed at the discovery, or within a reasonable time if no deadline was set. Failure to honour undertakings is a serious procedural default that can result in a motion to compel, costs sanctions, or other remedies. If subsequent information contradicts an undertaking, the party must disclose this contradiction and comply with its underlying obligation — the subsequent information does not void the undertaking.",
+    "why_A_wrong": "Undertakings are not voluntary. They are binding obligations. Changing circumstances do not entitle a party to ignore an undertaking.",
+    "why_B_wrong": "This IS the correct answer. Undertakings are binding, must be fulfilled within agreed or reasonable time, and failure to comply may result in a motion.",
+    "why_C_wrong": "Subsequent contradictory information does not void an undertaking. The party must disclose the contradiction and still comply with the substance of its obligation.",
+    "why_D_wrong": "Verbal undertakings given at examination for discovery are binding. There is no requirement that they be confirmed in writing after the examination to be enforceable.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 9 — Examination for Discovery",
+      "heading": "Scope — Relevance to Any Matter in Issue",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, r. 31.06; discovery undertakings practice"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "undertakings",
+      "examination for discovery",
+      "binding",
+      "comply",
+      "motion to compel"
+    ],
+    "tested_concepts": [
+      "undertakings are binding",
+      "reasonable time to comply",
+      "motion to compel undertakings",
+      "verbal undertakings binding"
+    ],
+    "estimated_time_seconds": 85,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  }
+]

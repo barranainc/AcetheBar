@@ -1,0 +1,281 @@
+[
+  {
+    "id": "fam-05-spse-supp-001",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 5,
+    "chapter_title": "Spousal Support",
+    "topic_id": "spousal_support",
+    "topic_heading": "Spousal Support — Entitlement, Amount, and Duration",
+    "subtopic_id": "entitlement_grounds",
+    "subtopic_heading": "Entitlement Grounds Under FLA and Divorce Act",
+    "difficulty": "easy",
+    "fact_pattern": "The wife gave up her career as a licensed engineer to care for the couple’s three children for 12 years. On separation, she has no income and limited prospects for re-entering the engineering profession at her former level. She seeks spousal support.",
+    "call_of_question": "What ground of spousal support entitlement does this fact pattern most clearly engage?",
+    "options": {
+      "A": "Contractual — the wife must show a written agreement obligating the husband to pay support.",
+      "B": "Non-compensatory (need-based) — because the wife currently has no income.",
+      "C": "Compensatory — the wife suffered economic disadvantage from the marriage and its breakdown by foregoing her engineering career to assume primary child care responsibilities, engaging FLA s.33(8)(a) and the Moge v Moge compensatory framework.",
+      "D": "No entitlement — a spouse cannot claim support if she voluntarily left the workforce."
+    },
+    "correct_answer": "C",
+    "explanation": "A spouse who sacrificed a career to care for children during the marriage has suffered an economic disadvantage caused by the marriage and its breakdown. This is the paradigm case of compensatory support recognized in Moge v Moge, [1992] 3 SCR 813, and reflected in FLA s.33(8)(a) (spouse left employment to care for children or home) and Divorce Act s.15.2(6)(a)(b). The primary basis here is compensatory, not need-based or contractual.",
+    "why_A_wrong": "Contractual entitlement requires a pre-existing agreement to pay support. This fact pattern involves a statutory entitlement, not a contractual one.",
+    "why_B_wrong": "While the wife has need (no income), the predominant basis is compensatory: the economic disadvantage flows from the division of labour during the marriage. Non-compensatory support is the better fit where the disadvantage is not tied to the marriage (see Bracklow).",
+    "why_C_wrong": "This IS the correct answer. Career sacrifice for child care is the paradigm compensatory support case under Moge v Moge and FLA s.33(8)(a).",
+    "why_D_wrong": "Voluntarily leaving the workforce to care for children is precisely the situation FLA s.33(8)(a) addresses. There is no ‘voluntary choice’ bar to compensatory support in these circumstances.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 5 — Spousal Support",
+      "heading": "Entitlement Grounds — FLA s.33(8) and Divorce Act s.15.2(6)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 33(8); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2(6)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "career sacrifice",
+      "child care",
+      "compensatory support",
+      "Moge",
+      "s.33(8)(a)"
+    ],
+    "tested_concepts": [
+      "compensatory support",
+      "Moge v Moge",
+      "FLA s.33(8)(a)",
+      "economic disadvantage from marriage"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "fam-05-spse-supp-002",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 5,
+    "chapter_title": "Spousal Support",
+    "topic_id": "spousal_support",
+    "topic_heading": "Spousal Support — Entitlement, Amount, and Duration",
+    "subtopic_id": "entitlement_grounds",
+    "subtopic_heading": "Entitlement Grounds Under FLA and Divorce Act",
+    "difficulty": "medium",
+    "fact_pattern": "Husband and wife both worked throughout their 20-year marriage and maintained equal incomes. Near the end of the marriage, the wife developed a serious illness that left her permanently unable to work. The illness was not caused by or related to the marriage. On separation, the wife seeks spousal support.",
+    "call_of_question": "What ground of spousal support entitlement most appropriately applies?",
+    "options": {
+      "A": "Compensatory — because the marriage caused the illness.",
+      "B": "No entitlement — a spouse cannot claim support for a medical condition unrelated to the marriage.",
+      "C": "Non-compensatory — under Bracklow v Bracklow, 1999 SCC, support may be awarded on a non-compensatory basis where the spouse has a need arising from the marriage and its breakdown, grounded in the relationship of mutual interdependency, even where the marriage did not cause the economic disadvantage.",
+      "D": "Contractual — the wife needs a pre-existing support agreement to establish entitlement."
+    },
+    "correct_answer": "C",
+    "explanation": "Where there is no economic disadvantage caused by the marriage (the illness was not marriage-related), compensatory support does not apply. Bracklow v Bracklow, [1999] 1 SCR 420 recognized that support may also be awarded on a non-compensatory basis, reflecting the social obligation and mutual interdependency arising from marriage. The wife’s need resulting from a disability arising near the end of a long marriage may engage this ground.",
+    "why_A_wrong": "The illness was not caused by or related to the marriage, so there is no economic disadvantage from the marriage to compensate. The compensatory basis requires a causal link to the marriage.",
+    "why_B_wrong": "Bracklow expressly recognizes non-compensatory support based on need and mutual interdependency, even where the marriage did not cause the disadvantage. A medical disability creating need is not an automatic bar to support.",
+    "why_C_wrong": "This IS the correct answer. Bracklow non-compensatory support applies where need arises from the breakdown of a marriage relationship of interdependency.",
+    "why_D_wrong": "Contractual entitlement requires a pre-existing agreement. The Bracklow non-compensatory ground is a statutory, not contractual, basis.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 5 — Spousal Support",
+      "heading": "Entitlement Grounds — FLA s.33(8) and Divorce Act s.15.2(6)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 33(8); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2(6)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "non-compensatory support",
+      "Bracklow",
+      "disability",
+      "mutual interdependency",
+      "need-based"
+    ],
+    "tested_concepts": [
+      "non-compensatory support",
+      "Bracklow v Bracklow",
+      "need not caused by marriage",
+      "mutual interdependency"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "id": "fam-05-spse-supp-003",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 5,
+    "chapter_title": "Spousal Support",
+    "topic_id": "spousal_support",
+    "topic_heading": "Spousal Support — Entitlement, Amount, and Duration",
+    "subtopic_id": "entitlement_grounds",
+    "subtopic_heading": "Entitlement Grounds Under FLA and Divorce Act",
+    "difficulty": "hard",
+    "fact_pattern": "The parties were married for four years and have no children. Both worked throughout the marriage in similar professional roles. On separation, the husband earns $200,000 per year and the wife earns $190,000 per year. The wife applies for spousal support.",
+    "call_of_question": "Is the wife entitled to spousal support in these circumstances?",
+    "options": {
+      "A": "Yes — any spouse may apply for and receive support on separation regardless of need or the nature of the marriage.",
+      "B": "Yes — the $10,000 income difference alone creates an entitlement to support.",
+      "C": "Likely no — given the short marriage, absence of children, and near-equal incomes, there is no apparent compensatory basis (no career sacrifice or economic disadvantage from the marriage) and no strong non-compensatory basis (no significant need or dependency); a court would likely find no entitlement.",
+      "D": "Yes — a spouse who earns less than the other is always entitled to receive spousal support."
+    },
+    "correct_answer": "C",
+    "explanation": "Entitlement to spousal support requires a basis in compensation, need/interdependency, or contract. A short marriage (4 years) with no children, equal careers, and near-equal incomes does not typically give rise to compensatory support (no career sacrifice or economic disadvantage caused by the marriage) or non-compensatory support (no significant need or dependency, given the high income). The income difference of $10,000 is not itself determinative of entitlement.",
+    "why_A_wrong": "Entitlement to spousal support must be established on one of the recognized grounds (compensatory, non-compensatory, contractual). A right to apply is not the same as a right to receive support.",
+    "why_B_wrong": "An income difference alone does not create spousal support entitlement. The analysis requires examining whether the income disparity is attributable to the marriage and its roles, or reflects pre-existing or unrelated factors.",
+    "why_C_wrong": "This IS the correct answer. Short marriage, no children, equal careers, and near-equal incomes produce no identifiable compensatory or non-compensatory ground for support.",
+    "why_D_wrong": "An income differential does not automatically create an entitlement to support. The court must find an applicable ground of entitlement before addressing amount and duration.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 5 — Spousal Support",
+      "heading": "Entitlement Grounds — FLA s.33(8) and Divorce Act s.15.2(6)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 33(8); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2(6)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "short marriage",
+      "no children",
+      "equal incomes",
+      "entitlement",
+      "spousal support"
+    ],
+    "tested_concepts": [
+      "spousal support entitlement threshold",
+      "short marriage no entitlement",
+      "income difference insufficient alone"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "id": "fam-05-spse-supp-004",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 5,
+    "chapter_title": "Spousal Support",
+    "topic_id": "spousal_support",
+    "topic_heading": "Spousal Support — Entitlement, Amount, and Duration",
+    "subtopic_id": "entitlement_grounds",
+    "subtopic_heading": "Entitlement Grounds Under FLA and Divorce Act",
+    "difficulty": "exam_trap",
+    "fact_pattern": "A court has found that the wife is entitled to spousal support. The husband argues that the finding of entitlement automatically determines both the amount and duration of support.",
+    "call_of_question": "Does a finding of entitlement to spousal support automatically determine the amount and duration of the support award?",
+    "options": {
+      "A": "Yes — once entitlement is established, the court must award the maximum amount specified by the Spousal Support Advisory Guidelines.",
+      "B": "Yes — a finding of entitlement automatically entitles the claimant to lifelong spousal support.",
+      "C": "No — establishing entitlement is only the first step; amount and duration are then determined separately using factors under the FLA or Divorce Act, with the SSAG serving as a non-binding reference guide; the court may award a nominal amount or time-limited support even where entitlement exists.",
+      "D": "Yes — once entitled, the court must award an amount equal to one-half the difference in the spouses’ incomes."
+    },
+    "correct_answer": "C",
+    "explanation": "Spousal support analysis has three distinct stages: (1) entitlement, (2) amount, and (3) duration. A finding of entitlement does not predetermine the other two. The SSAG are non-binding guidelines that assist in calculating amount and duration but do not mandate any particular outcome. The court retains discretion and may award a nominal or time-limited amount even where entitlement is clear.",
+    "why_A_wrong": "The SSAG are non-binding advisory guidelines. Even if entitlement is established, the court is not required to award the SSAG maximum. Amount is a separate and discretionary determination.",
+    "why_B_wrong": "Duration is a separate question from entitlement. A finding of entitlement does not automatically lead to lifelong support; duration depends on the length of the marriage, role assumed, and other factors.",
+    "why_C_wrong": "This IS the correct answer. Entitlement, amount, and duration are three separate stages; entitlement does not predetermine the others.",
+    "why_D_wrong": "No such automatic formula exists. The income-splitting approach described in Option D does not reflect the law; amount is determined by multiple factors and the SSAG ranges, not a fixed formula.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 5 — Spousal Support",
+      "heading": "Entitlement Grounds — FLA s.33(8) and Divorce Act s.15.2(6)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 33(8); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2(6)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "entitlement vs amount",
+      "SSAG",
+      "non-binding",
+      "duration",
+      "three-stage analysis"
+    ],
+    "tested_concepts": [
+      "three-stage spousal support analysis",
+      "SSAG non-binding",
+      "entitlement does not determine amount/duration"
+    ],
+    "estimated_time_seconds": 180
+  },
+  {
+    "id": "fam-05-spse-supp-005",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 5,
+    "chapter_title": "Spousal Support",
+    "topic_id": "spousal_support",
+    "topic_heading": "Spousal Support — Entitlement, Amount, and Duration",
+    "subtopic_id": "entitlement_grounds",
+    "subtopic_heading": "Entitlement Grounds Under FLA and Divorce Act",
+    "difficulty": "medium",
+    "fact_pattern": "The wife received spousal support for five years following separation. Her financial circumstances then improved significantly when she remarried a wealthy spouse, leaving her with no financial need. The husband brings an application to terminate the support order.",
+    "call_of_question": "What legal principle governs whether a spousal support order may be varied or terminated?",
+    "options": {
+      "A": "The husband may unilaterally stop making payments once the wife remarries, without a court order.",
+      "B": "Spousal support cannot be varied once ordered unless both parties consent in writing.",
+      "C": "A material change in circumstances since the original order was made allows either party to bring a variation application; the wife’s remarriage and significant improvement in financial circumstances may constitute a material change justifying reduction or termination of support.",
+      "D": "No variation is available during the first 10 years of a spousal support order."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Divorce Act s.17 and FLA s.37, a court may vary or rescind a spousal support order where there has been a material change in circumstances since the order was made. The wife’s remarriage and the elimination of her financial need are circumstances that a court would likely consider to constitute a material change, and the husband may succeed in obtaining a termination or reduction of the support order. Unilateral cessation of payments without a court order is not permitted.",
+    "why_A_wrong": "A court order is required to vary or terminate a spousal support order. Unilateral cessation of payments exposes the husband to enforcement proceedings, including contempt.",
+    "why_B_wrong": "Variation does not require mutual consent. Either party may bring a variation application based on a material change in circumstances under Divorce Act s.17 or FLA s.37.",
+    "why_C_wrong": "This IS the correct answer. Material change in circumstances is the statutory test for variation; remarriage and elimination of need are classic examples.",
+    "why_D_wrong": "No such 10-year moratorium on variation exists in either the FLA or the Divorce Act. Variation may be sought at any time on demonstration of a material change.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 5 — Spousal Support",
+      "heading": "Entitlement Grounds — FLA s.33(8) and Divorce Act s.15.2(6)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 33(8); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2(6)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "variation",
+      "material change",
+      "remarriage",
+      "terminate support",
+      "s.17 Divorce Act",
+      "s.37 FLA"
+    ],
+    "tested_concepts": [
+      "material change in circumstances",
+      "variation of spousal support",
+      "s.17 DA / s.37 FLA",
+      "unilateral termination impermissible"
+    ],
+    "estimated_time_seconds": 120
+  }
+]

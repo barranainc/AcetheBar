@@ -1,0 +1,280 @@
+[
+  {
+    "id": "pub-03-baker-fair-001",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "procedural_fairness",
+    "topic_heading": "The Duty of Procedural Fairness",
+    "subtopic_id": "duty_of_fairness",
+    "subtopic_heading": "The Duty of Fairness and Baker Factors",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An administrative tribunal is considering revoking a dentist's professional licence following a complaint of professional misconduct. Revocation will permanently end the dentist's ability to practice, eliminating his livelihood.",
+    "call_of_question": "According to the Baker framework, which factor most strongly suggests that a high level of procedural fairness is owed to the dentist?",
+    "options": {
+      "A": "Factor 1 — the decision is of a legislative nature, suggesting minimal procedural requirements.",
+      "B": "Factor 3 — the greater the impact of the decision on the individual's rights, interests, or livelihood, the higher the level of procedural fairness required.",
+      "C": "Factor 5 — the tribunal has historically granted broad procedural rights in similar hearings.",
+      "D": "Factor 2 — the enabling statute is detailed and technical, indicating Parliament intended robust procedure."
+    },
+    "correct_answer": "B",
+    "explanation": "Baker v Canada, [1999] 2 SCR 817, identified the importance of the decision to the individual (Factor 3) as a key determinant of the level of procedural fairness required. Licence revocation that ends a person's livelihood has profound personal consequences, strongly supporting higher procedural protection.",
+    "why_A_wrong": "Incorrect. Licence revocation is adjudicative in nature; Factor 1 actually supports higher fairness here because the decision resembles a judicial one.",
+    "why_B_wrong": "This IS the correct answer. Factor 3 — the greater the impact of the decision on the individual's rights, interests, or livelihood, the higher the level of procedural fairness required.",
+    "why_C_wrong": "Incorrect. Factor 5 concerns the decision-maker's own procedural choices, not the impact on the individual.",
+    "why_D_wrong": "Incorrect. Factor 2 concerns the statutory scheme, not the severity of impact on the individual.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "The Duty of Fairness and Baker Factors",
+      "page": "N/A",
+      "rule_or_statute_reference": "Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 3"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Baker",
+      "procedural fairness",
+      "licence revocation",
+      "Factor 3",
+      "livelihood"
+    ],
+    "tested_concepts": [
+      "Baker factors",
+      "Factor 3 importance to individual",
+      "duty of fairness content"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-03-baker-fair-002",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "procedural_fairness",
+    "topic_heading": "The Duty of Procedural Fairness",
+    "subtopic_id": "duty_of_fairness",
+    "subtopic_heading": "The Duty of Fairness and Baker Factors",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A federal immigration officer makes a final decision on a humanitarian and compassionate application for permanent residence through a review of the written file alone. The applicant is not given an opportunity to respond to concerns identified by the officer. The applicant seeks judicial review, arguing the procedure was inadequate.",
+    "call_of_question": "How does the Baker framework determine whether the procedure was adequate in this immigration context?",
+    "options": {
+      "A": "Administrative decisions are never required to include an oral hearing; file review is always procedurally sufficient.",
+      "B": "Citizenship and immigration decisions always require a full oral hearing to satisfy procedural fairness.",
+      "C": "The five Baker factors determine the required level of fairness; given the high importance of the decision to the individual and the nature of the process, the SCC in Baker held that at minimum the applicant required an opportunity to present relevant information, though not necessarily through an oral hearing.",
+      "D": "Baker does not apply to federal immigration decisions; procedural fairness in that context is governed exclusively by statute."
+    },
+    "correct_answer": "C",
+    "explanation": "In Baker itself, the Supreme Court applied the five-factor framework and held that the process was inadequate. The Court required at minimum an opportunity to make written submissions and for an impartial decision-maker to consider them. A full oral hearing was not required, but some opportunity to participate was essential given the importance of the decision to Ms. Baker.",
+    "why_A_wrong": "Incorrect. Baker expressly rejected the notion that file review is always sufficient; the duty of fairness required more in that context.",
+    "why_B_wrong": "Incorrect. Baker did not require an oral hearing; it required an opportunity to present relevant information, which may be in writing.",
+    "why_C_wrong": "This IS the correct answer. The five Baker factors determine the required level of fairness; given the high importance of the decision to the individual and the nature of the process, the SCC in Baker held that at minimum the applicant required an opportunity to present relevant information, though not necessarily through an oral hearing.",
+    "why_D_wrong": "Incorrect. Baker's common law duty of fairness applies to federal administrative decisions; statute may modify but not entirely displace common law fairness.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "The Duty of Fairness and Baker Factors",
+      "page": "N/A",
+      "rule_or_statute_reference": "Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 3"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Baker",
+      "procedural fairness",
+      "immigration",
+      "file review",
+      "written submissions"
+    ],
+    "tested_concepts": [
+      "Baker five factors",
+      "minimum procedural fairness",
+      "oral hearing vs written submissions"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-03-baker-fair-003",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "procedural_fairness",
+    "topic_heading": "The Duty of Procedural Fairness",
+    "subtopic_id": "duty_of_fairness",
+    "subtopic_heading": "The Duty of Fairness and Baker Factors",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A government agency sends a letter to an applicant for a business permit stating that it will provide her with an opportunity to make submissions before any final decision is made. Relying on this letter, the applicant prepares her case. The agency then makes a final decision adverse to her without providing any opportunity to be heard.",
+    "call_of_question": "Which Baker factor is most directly engaged by the agency's conduct, and what is the legal consequence?",
+    "options": {
+      "A": "Factor 3 — the decision must have been important to the applicant, entitling her to a hearing.",
+      "B": "Factor 2 — the statute governing the agency must have required consultation before a final decision.",
+      "C": "Factor 4 — legitimate expectations — the agency's representation that it would provide an opportunity for submissions created a procedural legitimate expectation; proceeding without that opportunity constituted a breach of the duty of fairness.",
+      "D": "No Baker factor is engaged because government representations do not create enforceable procedural rights."
+    },
+    "correct_answer": "C",
+    "explanation": "Baker Factor 4 addresses legitimate expectations: where a public authority has represented, through its conduct or promises, that a particular procedure will be followed, a procedural legitimate expectation arises. The applicant is then entitled to that procedure before an adverse decision is made. The agency's failure to honour its promise breached the duty of fairness.",
+    "why_A_wrong": "Incorrect. Factor 3 concerns the general importance of the decision type to individuals; Factor 4 is directly engaged by the specific representation made to this applicant.",
+    "why_B_wrong": "Incorrect. Factor 2 concerns the statutory scheme, not promises or representations made to the applicant.",
+    "why_C_wrong": "This IS the correct answer. Factor 4 — legitimate expectations — the agency's representation that it would provide an opportunity for submissions created a procedural legitimate expectation; proceeding without that opportunity constituted a breach of the duty of fairness.",
+    "why_D_wrong": "Incorrect. Baker expressly recognizes that representations by public authorities can create procedural legitimate expectations that are enforceable.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "The Duty of Fairness and Baker Factors",
+      "page": "N/A",
+      "rule_or_statute_reference": "Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 3"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Baker",
+      "legitimate expectations",
+      "Factor 4",
+      "representation",
+      "procedural fairness"
+    ],
+    "tested_concepts": [
+      "legitimate expectations",
+      "Baker Factor 4",
+      "procedural representation",
+      "duty of fairness breach"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-03-baker-fair-004",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "procedural_fairness",
+    "topic_heading": "The Duty of Procedural Fairness",
+    "subtopic_id": "duty_of_fairness",
+    "subtopic_heading": "The Duty of Fairness and Baker Factors",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A statutory tribunal that adjudicates environmental permit applications has an applicant arguing that the Baker factors, particularly Factors 1 and 3, mandate the highest level of procedural fairness. The applicant claims this requires a full oral hearing with oral reasons rendered from the bench immediately after the hearing.",
+    "call_of_question": "Does a finding that Baker factors favour a high level of procedural fairness automatically require a full oral hearing with immediate oral reasons?",
+    "options": {
+      "A": "Yes. Where Baker factors point to the highest level of fairness, the tribunal must replicate full court-like procedure, including oral reasons delivered immediately.",
+      "B": "No. Even where Baker factors support a high level of fairness, the specific procedural requirements remain contextual; written reasons delivered after the hearing may satisfy the duty of fairness.",
+      "C": "Yes. Once the highest level of Baker fairness is triggered, the administrative proceeding must mirror a Superior Court trial.",
+      "D": "No. Where Baker factors are high, no reasons at all are required because requiring reasons would place an undue burden on administrative decision-makers."
+    },
+    "correct_answer": "B",
+    "explanation": "Baker establishes a spectrum of procedural fairness, not a binary choice. Even where the factors point to a higher level of fairness, the specific procedural requirements are determined contextually. Written reasons, provided after deliberation, can satisfy the duty of fairness even in high-stakes cases. The administrative context is distinct from a court proceeding.",
+    "why_A_wrong": "Incorrect. High Baker factors do not automatically require court-like oral reasons delivered from the bench.",
+    "why_B_wrong": "This IS the correct answer. No. Even where Baker factors support a high level of fairness, the specific procedural requirements remain contextual; written reasons delivered after the hearing may satisfy the duty of fairness.",
+    "why_C_wrong": "Incorrect. Administrative fairness is distinct from judicial procedure; even at the highest level, administrative proceedings need not mirror a Superior Court trial.",
+    "why_D_wrong": "Incorrect. At higher levels of fairness, reasons may well be required; the issue is the form of those reasons, not whether they are required at all.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "The Duty of Fairness and Baker Factors",
+      "page": "N/A",
+      "rule_or_statute_reference": "Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 3"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Baker",
+      "oral hearing",
+      "reasons",
+      "high fairness",
+      "contextual",
+      "spectrum"
+    ],
+    "tested_concepts": [
+      "Baker spectrum of fairness",
+      "oral vs written reasons",
+      "administrative vs judicial procedure"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-03-baker-fair-005",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "procedural_fairness",
+    "topic_heading": "The Duty of Procedural Fairness",
+    "subtopic_id": "duty_of_fairness",
+    "subtopic_heading": "The Duty of Fairness and Baker Factors",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A specialized immigration tribunal has developed an internal procedure for processing a particular class of refugee claims efficiently, using a streamlined paper-based process. An applicant argues that this procedure is insufficient given the importance of the decision (Baker Factor 1 and Factor 3) and requests a full oral hearing.",
+    "call_of_question": "How does Baker Factor 5 — the decision-maker's own procedural choices — interact with the other Baker factors?",
+    "options": {
+      "A": "The decision-maker's own procedural choices always prevail over and displace the requirements indicated by the other Baker factors.",
+      "B": "Factor 5 has no independent weight; courts apply only Factors 1 through 4 when assessing procedural fairness.",
+      "C": "Factor 5 — the decision-maker's choice of procedure — is one of five relevant factors and will be given some deference, particularly where the tribunal has specialized procedural expertise; however, it cannot override the minimum level of fairness required by the other factors combined.",
+      "D": "If the decision-maker adopted its procedure in good faith and for legitimate administrative reasons, that automatically satisfies the Baker duty of fairness."
+    },
+    "correct_answer": "C",
+    "explanation": "Baker identified five factors, all of which are weighed together. Factor 5 — the decision-maker's own procedural choices — is relevant and courts will give it some deference, particularly for specialized tribunals. However, it is one factor among five and cannot override the minimum procedural fairness required by the overall balancing exercise. A decision-maker cannot contract out of the duty of fairness through an internal policy.",
+    "why_A_wrong": "Incorrect. Factor 5 is one of five; it does not categorically trump the other factors.",
+    "why_B_wrong": "Incorrect. Baker expressly identifies Factor 5 as a relevant consideration; all five factors are to be considered.",
+    "why_C_wrong": "This IS the correct answer. Factor 5 — the decision-maker's choice of procedure — is one of five relevant factors and will be given some deference, particularly where the tribunal has specialized procedural expertise; however, it cannot override the minimum level of fairness required by the other factors combined.",
+    "why_D_wrong": "Incorrect. Good faith in designing a procedure is not the legal standard; the procedure must actually meet the level of fairness required by the five-factor analysis.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "The Duty of Fairness and Baker Factors",
+      "page": "N/A",
+      "rule_or_statute_reference": "Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 3"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Baker",
+      "Factor 5",
+      "procedural choice",
+      "deference",
+      "minimum fairness"
+    ],
+    "tested_concepts": [
+      "Baker Factor 5",
+      "interaction of Baker factors",
+      "tribunal procedural autonomy",
+      "duty of fairness minimum"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  }
+]

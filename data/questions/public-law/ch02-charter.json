@@ -1,0 +1,827 @@
+[
+  {
+    "id": "pub-02-oakes-test-001",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "oakes_test",
+    "subtopic_heading": "The Oakes Test — Two-Stage Analysis",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A provincial law prohibiting certain political advertising during election periods is challenged under the Charter. The government argues the law is a valid limit on freedom of expression.",
+    "call_of_question": "Who bears the burden of justifying a limit on a Charter right under s. 1 of the Canadian Charter of Rights and Freedoms?",
+    "options": {
+      "A": "The individual claimant must prove the law is unjustified.",
+      "B": "The burden is shared equally between the government and the claimant.",
+      "C": "The government bears the burden of demonstrating, on a balance of probabilities, that the limitation on the Charter right is reasonable and justified in a free and democratic society.",
+      "D": "No burden of proof applies under s. 1; the court assesses the law objectively."
+    },
+    "correct_answer": "C",
+    "explanation": "Under s. 1 of the Charter and as confirmed in R v Oakes, [1986] 1 SCR 103, the government bears the onus of proving, on a balance of probabilities, that a Charter infringement is a reasonable limit that is demonstrably justified in a free and democratic society.",
+    "why_A_wrong": "Incorrect. The burden does not fall on the claimant to disprove justification; once a Charter breach is established, the government must justify it.",
+    "why_B_wrong": "Incorrect. The burden is not shared. It rests exclusively on the government to demonstrate the limit is justified.",
+    "why_C_wrong": "This IS the correct answer. The government bears the burden of demonstrating, on a balance of probabilities, that the limitation on the Charter right is reasonable and justified in a free and democratic society.",
+    "why_D_wrong": "Incorrect. s. 1 analysis is not objective and burden-free; the government must affirmatively justify the infringement.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "The Oakes Test — Two-Stage Analysis",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 1; R v Oakes, [1986] 1 SCR 103"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 1",
+      "reasonable limit",
+      "burden",
+      "justification",
+      "Oakes"
+    ],
+    "tested_concepts": [
+      "s. 1 burden of proof",
+      "Charter justification",
+      "Oakes test stage 1"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-oakes-test-002",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "oakes_test",
+    "subtopic_heading": "The Oakes Test — Two-Stage Analysis",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A provincial law imposing a comprehensive ban on tobacco advertising is challenged under the Charter. The government seeks to justify the ban under s. 1. The court must first assess Stage 1 of the Oakes test.",
+    "call_of_question": "What does the 'pressing and substantial' requirement at Stage 1 of the Oakes test demand of the government's objective?",
+    "options": {
+      "A": "Any government objective is pressing and substantial by definition because it was enacted through the democratic process.",
+      "B": "The objective must specifically aim to protect national security.",
+      "C": "The government's objective must be sufficiently important to warrant overriding a constitutionally protected right; Oakes held the objective must address a real and pressing concern and must not be trivial or merely convenient.",
+      "D": "Pressing and substantial simply means the law must have been passed with a legislative majority."
+    },
+    "correct_answer": "C",
+    "explanation": "At Stage 1, the Oakes test requires the government to demonstrate its objective is of sufficient importance to override a Charter right. Trivial, minimal, or pretextual objectives fail this threshold. The objective must address a genuine societal concern.",
+    "why_A_wrong": "Incorrect. Democratic enactment alone does not satisfy Stage 1; the objective must be substantively important.",
+    "why_B_wrong": "Incorrect. Pressing and substantial encompasses a wide range of government goals; it is not limited to national security.",
+    "why_C_wrong": "This IS the correct answer. The government's objective must be sufficiently important to warrant overriding a constitutionally protected right; Oakes held the objective must address a real and pressing concern and must not be trivial or merely convenient.",
+    "why_D_wrong": "Incorrect. Legislative majority is a procedural fact, not a measure of whether the objective is pressing and substantial.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "The Oakes Test — Two-Stage Analysis",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 1; R v Oakes, [1986] 1 SCR 103"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "pressing and substantial",
+      "Stage 1",
+      "objective",
+      "Oakes"
+    ],
+    "tested_concepts": [
+      "Oakes Stage 1",
+      "pressing and substantial objective",
+      "Charter s. 1"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-oakes-test-003",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "oakes_test",
+    "subtopic_heading": "The Oakes Test — Two-Stage Analysis",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The government passes a law requiring all licensed gun retailers to record ammunition sales and retain the records for five years. The stated objective is reducing gun violence. A gun store owner challenges the law under the Charter. The government establishes a pressing and substantial objective. At Stage 2, the owner argues there is no rational connection because criminals will ignore the record-keeping requirement.",
+    "call_of_question": "Does the rational connection branch of the Oakes proportionality test require the government to prove its measure will perfectly achieve the legislative objective?",
+    "options": {
+      "A": "Yes. If criminals will not comply with the record-keeping requirement, the law cannot be rationally connected to reducing gun crime.",
+      "B": "No. The rational connection test asks only whether there is a logical link between the objective and the means chosen; a measure may be imperfect or partially effective and still be rationally connected.",
+      "C": "Yes. The government must produce empirical evidence demonstrating the measure will measurably reduce gun violence.",
+      "D": "No. Rational connection is automatically satisfied once a pressing and substantial objective is established."
+    },
+    "correct_answer": "B",
+    "explanation": "The rational connection test requires that the means not be arbitrary, unfair, or based on irrational considerations; they must be logically designed to further the objective. Perfect effectiveness is not required. Mandatory record-keeping may deter some sales and aid investigation, maintaining a logical link even if non-compliant criminals exist.",
+    "why_A_wrong": "Incorrect. The rational connection test does not require that the law be effective against all possible non-compliant actors.",
+    "why_B_wrong": "This IS the correct answer. No. The rational connection test asks only whether there is a logical link between the objective and the means chosen; a measure may be imperfect or partially effective and still be rationally connected.",
+    "why_C_wrong": "Incorrect. Empirical certainty of effectiveness is not the standard; logical connection is sufficient.",
+    "why_D_wrong": "Incorrect. Rational connection is a separate and distinct branch of the proportionality analysis; it is not automatically satisfied by Stage 1.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "The Oakes Test — Two-Stage Analysis",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 1; R v Oakes, [1986] 1 SCR 103"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "rational connection",
+      "proportionality",
+      "Oakes Stage 2",
+      "arbitrary"
+    ],
+    "tested_concepts": [
+      "rational connection",
+      "Oakes proportionality",
+      "Stage 2(a)"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-oakes-test-004",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "oakes_test",
+    "subtopic_heading": "The Oakes Test — Two-Stage Analysis",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A law prohibits the publication of any information that could identify a crime victim, with no exceptions. A news organization challenges the law as an unjustified limit on freedom of expression. The government concedes the law has a pressing and substantial objective and that the measure is rationally connected to that objective. The remaining dispute is whether the law is the least restrictive option.",
+    "call_of_question": "Which branch of the Oakes proportionality analysis is most directly engaged by the argument that the blanket prohibition with no exceptions is excessive?",
+    "options": {
+      "A": "Rational connection — whether publication of victims' names is logically connected to victim protection.",
+      "B": "Pressing and substantial — whether protecting crime victims is an important enough objective.",
+      "C": "Minimal impairment — the government must show the law impairs freedom of expression as little as reasonably possible; a blanket prohibition with no exceptions may fail because a more tailored approach could achieve the same objective with less constitutional cost.",
+      "D": "Proportionality of effects — whether the law's benefits to victims outweigh its effects on the news organization."
+    },
+    "correct_answer": "C",
+    "explanation": "Minimal impairment (Stage 2(b)) asks whether the government could have achieved its objective through a less restrictive means that was reasonably available. A blanket prohibition with no exceptions is the classic scenario for minimal impairment analysis: if a more tailored rule (e.g., discretionary exceptions for public interest) could achieve the same protection, the law may fail this branch.",
+    "why_A_wrong": "Incorrect. Rational connection was conceded; it asks whether the means logically further the objective, not whether the restriction is too sweeping.",
+    "why_B_wrong": "Incorrect. Pressing and substantial is Stage 1 and was conceded; it is not a branch of proportionality.",
+    "why_C_wrong": "This IS the correct answer. Minimal impairment — the government must show the law impairs freedom of expression as little as reasonably possible; a blanket prohibition with no exceptions may fail because a more tailored approach could achieve the same objective with less constitutional cost.",
+    "why_D_wrong": "Incorrect. Proportionality of effects (Stage 2(c)) is relevant but the 'no exceptions' argument most directly targets minimal impairment.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "The Oakes Test — Two-Stage Analysis",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 1; R v Oakes, [1986] 1 SCR 103"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "minimal impairment",
+      "blanket prohibition",
+      "no exceptions",
+      "least restrictive"
+    ],
+    "tested_concepts": [
+      "minimal impairment",
+      "Stage 2(b)",
+      "Oakes proportionality",
+      "freedom of expression"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-oakes-test-005",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "oakes_test",
+    "subtopic_heading": "The Oakes Test — Two-Stage Analysis",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "After a full Charter challenge, a court finds that a provincial law restricting Sunday business hours infringes freedom of religion but that the government has satisfied every element of the Oakes test: the objective is pressing and substantial, and the measures are rationally connected, minimally impairing, and proportionate in their effects.",
+    "call_of_question": "What is the legal effect when a government successfully satisfies all elements of the Oakes test under s. 1 of the Charter?",
+    "options": {
+      "A": "The law is struck down and must be redrafted to fully eliminate the Charter infringement.",
+      "B": "The court must refer the matter to the legislature for review before the law can be upheld.",
+      "C": "The Charter infringement is justified under s. 1; the law is saved and upheld as constitutional.",
+      "D": "The court upholds the law but must order the government to compensate those whose rights were limited."
+    },
+    "correct_answer": "C",
+    "explanation": "When a court finds a Charter infringement but the government satisfies all elements of the Oakes test, the limitation is 'demonstrably justified in a free and democratic society' under s. 1. The law is upheld as constitutional and no remedy is granted.",
+    "why_A_wrong": "Incorrect. A law that passes the Oakes test is saved, not struck down.",
+    "why_B_wrong": "Incorrect. Courts do not refer matters to the legislature after a successful s. 1 justification; they uphold the law.",
+    "why_C_wrong": "This IS the correct answer. The Charter infringement is justified under s. 1; the law is saved and upheld as constitutional.",
+    "why_D_wrong": "Incorrect. Successful s. 1 justification ends the constitutional analysis; there is no automatic requirement to compensate rights-holders.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "The Oakes Test — Two-Stage Analysis",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 1; R v Oakes, [1986] 1 SCR 103"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 1 saved",
+      "Oakes satisfied",
+      "constitutional",
+      "Charter remedy"
+    ],
+    "tested_concepts": [
+      "effect of passing Oakes test",
+      "s. 1 justification",
+      "Charter remedies"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-s15-equal-001",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "section15_equality",
+    "subtopic_heading": "s. 15 — Equality Rights and the Andrews Test",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A provincial law requires applicants for a certain government administrative position to be Canadian citizens. A permanent resident who is otherwise qualified is denied the position solely because of their immigration status. They challenge the law under s. 15 of the Charter.",
+    "call_of_question": "Is citizenship an enumerated or analogous ground for the purposes of s. 15 of the Charter?",
+    "options": {
+      "A": "No. Only the grounds explicitly listed in s. 15(1) qualify; citizenship is not among them.",
+      "B": "Yes. Citizenship is an analogous ground established in Andrews v Law Society of British Columbia; a distinction based on citizenship can engage s. 15(1).",
+      "C": "Citizenship is an analogous ground only when it overlaps with national or ethnic origin.",
+      "D": "The law is automatically constitutional because citizenship is a matter of federal jurisdiction."
+    },
+    "correct_answer": "B",
+    "explanation": "In Andrews v Law Society of British Columbia, [1989] 1 SCR 143, the Supreme Court of Canada recognized citizenship as an analogous ground under s. 15. Analogous grounds are personal characteristics that are immutable or changeable only at unacceptable personal cost, rendering the group politically powerless.",
+    "why_A_wrong": "Incorrect. s. 15 extends beyond enumerated grounds to analogous grounds identified through case law.",
+    "why_B_wrong": "This IS the correct answer. Yes. Citizenship is an analogous ground established in Andrews v Law Society of British Columbia; a distinction based on citizenship can engage s. 15(1).",
+    "why_C_wrong": "Incorrect. Citizenship is recognized as a standalone analogous ground and need not coincide with national or ethnic origin.",
+    "why_D_wrong": "Incorrect. Federal jurisdiction over a subject matter does not shield a law from Charter scrutiny.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 15 — Equality Rights and the Andrews Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 15; Andrews v Law Society of British Columbia, [1989] 1 SCR 143"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 15",
+      "analogous ground",
+      "citizenship",
+      "Andrews",
+      "equality"
+    ],
+    "tested_concepts": [
+      "analogous grounds",
+      "s. 15 engagement",
+      "Andrews v Law Society of BC"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-s15-equal-002",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "section15_equality",
+    "subtopic_heading": "s. 15 — Equality Rights and the Andrews Test",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A government benefit program provides enhanced monthly payments to individuals under age 65 and a reduced amount to those 65 and over. A 66-year-old man receives the lower benefit and challenges the program under s. 15 of the Charter, arguing age-based discrimination.",
+    "call_of_question": "What two elements must the man establish to make out a prima facie s. 15 violation?",
+    "options": {
+      "A": "He must show the law is unfair and that he is treated worse than any other individual under the program.",
+      "B": "He must prove the legislature enacted the program with the intent to discriminate against seniors.",
+      "C": "He must establish: (1) the law draws a distinction based on an enumerated or analogous ground (here, age under s. 15(1)); and (2) the distinction creates a disadvantage by perpetuating prejudice or stereotyping against him.",
+      "D": "He need only show that he receives a lesser benefit than younger recipients, without more."
+    },
+    "correct_answer": "C",
+    "explanation": "The modern s. 15 test from R v Kapp, 2008 SCC 41, and Withler v Canada, 2011 SCC 12, requires: (1) the law creates a distinction based on an enumerated or analogous ground; and (2) the distinction is discriminatory in that it perpetuates prejudice or stereotyping. Age is an enumerated ground under s. 15(1).",
+    "why_A_wrong": "Incorrect. Unfairness alone is not the test; the distinction must be grounded in an enumerated or analogous ground.",
+    "why_B_wrong": "Incorrect. Discriminatory intent is not required under s. 15; the analysis focuses on the law's effects.",
+    "why_C_wrong": "This IS the correct answer. He must establish: (1) the law draws a distinction based on an enumerated or analogous ground (here, age under s. 15(1)); and (2) the distinction creates a disadvantage by perpetuating prejudice or stereotyping against him.",
+    "why_D_wrong": "Incorrect. Receiving less is not sufficient without connecting the differential treatment to an enumerated or analogous ground.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 15 — Equality Rights and the Andrews Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 15; Andrews v Law Society of British Columbia, [1989] 1 SCR 143"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 15",
+      "prima facie",
+      "discrimination",
+      "age",
+      "Kapp",
+      "Withler"
+    ],
+    "tested_concepts": [
+      "s. 15 two-part test",
+      "R v Kapp",
+      "Withler",
+      "enumerated ground",
+      "prejudice or stereotyping"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-s15-equal-003",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "section15_equality",
+    "subtopic_heading": "s. 15 — Equality Rights and the Andrews Test",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A provincial statute provides a monthly child-care subsidy only to single mothers. A single father with a similar income and child-care needs applies for the subsidy and is refused. He challenges the law under s. 15 of the Charter, alleging discrimination on the basis of sex.",
+    "call_of_question": "Does the single father have a potentially valid s. 15 claim?",
+    "options": {
+      "A": "No. s. 15 was designed only to protect historically disadvantaged groups, and men are not such a group.",
+      "B": "No. Sex-based distinctions that favour women are automatically protected by s. 15(2) as ameliorative programs.",
+      "C": "Possibly yes. The law draws a distinction based on sex, an enumerated ground; single fathers denied the benefit may establish a s. 15 violation if the distinction perpetuates prejudice or stereotyping; s. 15(2) may protect the program only if it genuinely ameliorates the conditions of a disadvantaged group.",
+      "D": "Yes. Any sex-based distinction automatically violates s. 15."
+    },
+    "correct_answer": "C",
+    "explanation": "s. 15 prohibits discrimination on the basis of sex and applies to both men and women. The claimant must still satisfy the two-part test: (1) distinction on sex (an enumerated ground), and (2) the distinction perpetuates prejudice or stereotyping. The government may rely on s. 15(2) if the program is a genuine ameliorative program targeting a disadvantaged group, but s. 15(2) is not a blanket shield for all sex-based distinctions in favour of women.",
+    "why_A_wrong": "Incorrect. s. 15 is not limited to protecting historically disadvantaged groups; men may claim s. 15 protection, though historical disadvantage is a factor in the discrimination analysis.",
+    "why_B_wrong": "Incorrect. s. 15(2) does not automatically protect all sex-based distinctions that favour women; the program must genuinely ameliorate disadvantage.",
+    "why_C_wrong": "This IS the correct answer. Possibly yes. The law draws a distinction based on sex, an enumerated ground; single fathers denied the benefit may establish a s. 15 violation if the distinction perpetuates prejudice or stereotyping; s. 15(2) may protect the program only if it genuinely ameliorates the conditions of a disadvantaged group.",
+    "why_D_wrong": "Incorrect. A sex-based distinction does not automatically constitute s. 15 discrimination; the full two-part test must be satisfied.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 15 — Equality Rights and the Andrews Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 15; Andrews v Law Society of British Columbia, [1989] 1 SCR 143"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 15",
+      "sex discrimination",
+      "single father",
+      "s. 15(2)",
+      "ameliorative"
+    ],
+    "tested_concepts": [
+      "s. 15 sex discrimination",
+      "s. 15(2) ameliorative programs",
+      "enumerated ground"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-s15-equal-004",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "section15_equality",
+    "subtopic_heading": "s. 15 — Equality Rights and the Andrews Test",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The government administers a program that provides additional employment supports to persons with disabilities. An able-bodied individual argues the program discriminates against him on the basis of disability by providing greater benefits to persons with disabilities. The government argues s. 15(2) of the Charter protects the program from s. 15(1) scrutiny.",
+    "call_of_question": "Is s. 15(2) a defence under s. 1, or does it operate at the s. 15 stage?",
+    "options": {
+      "A": "s. 15(2) is a defence under s. 1 that the government must prove after a s. 15 violation is established.",
+      "B": "s. 15(2) prevents any judicial review of ameliorative programs; courts have no jurisdiction to scrutinize them.",
+      "C": "Under s. 15(2), laws or programs designed to ameliorate the conditions of disadvantaged individuals or groups are not discriminatory under s. 15(1); the government does not need to invoke s. 1, but courts will examine whether the program genuinely ameliorates disadvantage.",
+      "D": "s. 15(2) applies only to programs that exclusively benefit persons with physical disabilities."
+    },
+    "correct_answer": "C",
+    "explanation": "s. 15(2) operates at the s. 15 stage, not under s. 1. If a program genuinely ameliorates the conditions of a disadvantaged group, it is not a s. 15(1) violation at all. Courts retain the ability to review whether the program is genuinely ameliorative and targets an actually disadvantaged group.",
+    "why_A_wrong": "Incorrect. s. 15(2) is not a s. 1 defence; it prevents a s. 15(1) finding in the first place.",
+    "why_B_wrong": "Incorrect. Courts can still review whether the program genuinely ameliorates disadvantage and targets a disadvantaged group.",
+    "why_C_wrong": "This IS the correct answer. Under s. 15(2), laws or programs designed to ameliorate the conditions of disadvantaged individuals or groups are not discriminatory under s. 15(1); the government does not need to invoke s. 1, but courts will examine whether the program genuinely ameliorates disadvantage.",
+    "why_D_wrong": "Incorrect. s. 15(2) covers a broad range of disadvantaged groups; it is not limited to physical disability.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 15 — Equality Rights and the Andrews Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 15; Andrews v Law Society of British Columbia, [1989] 1 SCR 143"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 15(2)",
+      "ameliorative",
+      "affirmative action",
+      "s. 1 defence",
+      "disadvantaged group"
+    ],
+    "tested_concepts": [
+      "s. 15(2) operation",
+      "ameliorative programs",
+      "Charter stage analysis"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-s15-equal-005",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "section15_equality",
+    "subtopic_heading": "s. 15 — Equality Rights and the Andrews Test",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A government program provides generous income support to single parents. A person argues that the program implicitly excludes non-binary individuals because its application form does not recognize a non-binary gender category, making it effectively impossible for them to apply. No explicit exclusion appears in the statute.",
+    "call_of_question": "Can the omission of a group from a government benefits program constitute a violation of s. 15 of the Charter?",
+    "options": {
+      "A": "No. s. 15 applies only to laws that contain an explicit discriminatory classification.",
+      "B": "No. The government is not constitutionally required to create any benefit; if it creates a benefit and someone is excluded, s. 15 cannot apply.",
+      "C": "Yes. Where a law creates a benefit but fails to extend it to a group on the basis of an enumerated or analogous ground, the resulting underinclusion can deny the 'equal benefit of the law' protected by s. 15(1).",
+      "D": "No. Individuals seeking inclusion in a benefit program must proceed under s. 7, not s. 15."
+    },
+    "correct_answer": "C",
+    "explanation": "s. 15(1) guarantees the 'equal benefit of the law.' Underinclusion — where a law extends benefits to some groups but excludes others on the basis of an enumerated or analogous ground — is a recognized form of s. 15 discrimination. The absence of an explicit exclusion is not a defence if the practical effect is discriminatory.",
+    "why_A_wrong": "Incorrect. s. 15 captures both explicit discrimination and underinclusion; an explicit discriminatory clause is not required.",
+    "why_B_wrong": "Incorrect. Once a benefit is created, the government must extend it on an equal basis; exclusion on a prohibited ground violates s. 15.",
+    "why_C_wrong": "This IS the correct answer. Yes. Where a law creates a benefit but fails to extend it to a group on the basis of an enumerated or analogous ground, the resulting underinclusion can deny the 'equal benefit of the law' protected by s. 15(1).",
+    "why_D_wrong": "Incorrect. s. 15, not s. 7, is the appropriate provision for equality-based underinclusion claims in government benefit programs.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 15 — Equality Rights and the Andrews Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 15; Andrews v Law Society of British Columbia, [1989] 1 SCR 143"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "underinclusion",
+      "equal benefit",
+      "s. 15",
+      "omission",
+      "benefit program"
+    ],
+    "tested_concepts": [
+      "underinclusion and s. 15",
+      "equal benefit of the law",
+      "Charter equality rights"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-s7-fundjust-001",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "section7_fundamental_justice",
+    "subtopic_heading": "s. 7 — Life, Liberty, and Security of the Person",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Parliament enacts legislation imposing a mandatory minimum custodial sentence of one year for possession of cannabis for the purpose of trafficking. An offender convicted under the provision argues it violates s. 7 of the Charter because the mandatory minimum removes judicial discretion.",
+    "call_of_question": "What threshold must be established before a court undertakes a s. 7 analysis?",
+    "options": {
+      "A": "The law must first be found to violate s. 12 of the Charter (cruel and unusual treatment) before s. 7 analysis is triggered.",
+      "B": "The government's conduct must deprive the individual of life, liberty, or security of the person; a mandatory term of imprisonment clearly engages the liberty interest under s. 7.",
+      "C": "s. 7 is only engaged if the deprivation is caused by direct physical force by a state actor.",
+      "D": "s. 7 is only engaged if the mandatory sentence exceeds five years of imprisonment."
+    },
+    "correct_answer": "B",
+    "explanation": "Before the principles of fundamental justice are examined, the court must first find that the impugned state action deprives the person of life, liberty, or security of the person. Imprisonment — including a mandatory minimum — clearly constitutes a deprivation of liberty, engaging s. 7.",
+    "why_A_wrong": "Incorrect. s. 7 and s. 12 are independent Charter provisions; a s. 12 finding is not a prerequisite for s. 7 analysis.",
+    "why_B_wrong": "This IS the correct answer. The government's conduct must deprive the individual of life, liberty, or security of the person; a mandatory term of imprisonment clearly engages the liberty interest under s. 7.",
+    "why_C_wrong": "Incorrect. A court-ordered deprivation of liberty through imprisonment also engages s. 7, even without direct physical force.",
+    "why_D_wrong": "Incorrect. Any term of imprisonment, regardless of length, engages the liberty interest under s. 7.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 7 — Life, Liberty, and Security of the Person",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 7",
+      "liberty",
+      "mandatory minimum",
+      "deprivation",
+      "threshold"
+    ],
+    "tested_concepts": [
+      "s. 7 threshold",
+      "liberty interest",
+      "imprisonment and s. 7"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-s7-fundjust-002",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "section7_fundamental_justice",
+    "subtopic_heading": "s. 7 — Life, Liberty, and Security of the Person",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A provincial public health regulation requires individuals to submit to a mandatory medical examination conducted by a public health officer, without their consent and without prior judicial authorization, under penalty of a fine. An individual refuses and challenges the regulation under s. 7 of the Charter.",
+    "call_of_question": "Does the mandatory medical examination engage 'security of the person' under s. 7 of the Charter?",
+    "options": {
+      "A": "No. Security of the person under s. 7 protects only against criminal punishment such as imprisonment.",
+      "B": "Yes. Security of the person includes the right to control what happens to one's body; a state-compelled medical examination without consent constitutes a deprivation of bodily integrity that engages s. 7.",
+      "C": "No. Security of the person is only relevant where the penalty for non-compliance is imprisonment.",
+      "D": "Only if the examination involves an invasive surgical procedure."
+    },
+    "correct_answer": "B",
+    "explanation": "Security of the person under s. 7 encompasses bodily integrity and the right to make decisions about one's own body. As established in R v Morgentaler, [1988] 1 SCR 30, state interference with bodily integrity and serious psychological effects of state action can constitute a deprivation of security of the person. Mandatory medical examination without consent engages s. 7.",
+    "why_A_wrong": "Incorrect. s. 7 security of person extends well beyond criminal punishment and includes bodily integrity.",
+    "why_B_wrong": "This IS the correct answer. Yes. Security of the person includes the right to control what happens to one's body; a state-compelled medical examination without consent constitutes a deprivation of bodily integrity that engages s. 7.",
+    "why_C_wrong": "Incorrect. The penalty of a fine does not prevent s. 7 from being engaged; it is the compelled bodily interference that engages security of the person.",
+    "why_D_wrong": "Incorrect. Any forced bodily interference — not just surgical procedures — can engage security of the person.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 7 — Life, Liberty, and Security of the Person",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 7",
+      "security of the person",
+      "bodily integrity",
+      "mandatory examination"
+    ],
+    "tested_concepts": [
+      "security of the person",
+      "bodily integrity",
+      "R v Morgentaler"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-s7-fundjust-003",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "section7_fundamental_justice",
+    "subtopic_heading": "s. 7 — Life, Liberty, and Security of the Person",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A federal statute makes it an offence for anyone to assist a person in living near a drug injection site, regardless of whether the person assisted is actually a drug user. The government argues the law is not overbroad because it does catch some drug dealers and genuine enablers of addiction. The claimants argue the law captures innocent bystanders and family members.",
+    "call_of_question": "What is the correct overbreadth analysis under s. 7 of the Charter as articulated in R v Bedford?",
+    "options": {
+      "A": "A law is overbroad under s. 7 only if it has absolutely no application to legitimate targets.",
+      "B": "A law is overbroad only if the legislature subjectively intended to capture more people than the objective requires.",
+      "C": "Under R v Bedford, a law is overbroad if it is broader than necessary to achieve the state's objective; even if the law applies to some legitimate targets, it may be overbroad where it captures substantial amounts of innocent conduct not connected to the legislative purpose.",
+      "D": "A law is overbroad under s. 7 only if it simultaneously violates another Charter right."
+    },
+    "correct_answer": "C",
+    "explanation": "R v Bedford, 2013 SCC 72, established that overbreadth examines whether the law captures conduct or persons beyond what is necessary to achieve the legislative purpose. The existence of some legitimate targets does not save a law from overbreadth if it also captures substantial amounts of innocent conduct unconnected to its objective.",
+    "why_A_wrong": "Incorrect. Overbreadth does not require zero legitimate targets; a law can be overbroad even if it has some valid applications.",
+    "why_B_wrong": "Incorrect. Overbreadth is an effects-based analysis; the legislature's subjective intent is not determinative.",
+    "why_C_wrong": "This IS the correct answer. Under R v Bedford, a law is overbroad if it is broader than necessary to achieve the state's objective; even if the law applies to some legitimate targets, it may be overbroad where it captures substantial amounts of innocent conduct not connected to the legislative purpose.",
+    "why_D_wrong": "Incorrect. Overbreadth is a self-contained principle of fundamental justice under s. 7; it need not coincide with other Charter breaches.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 7 — Life, Liberty, and Security of the Person",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "overbreadth",
+      "s. 7",
+      "R v Bedford",
+      "fundamental justice",
+      "innocent conduct"
+    ],
+    "tested_concepts": [
+      "overbreadth",
+      "R v Bedford",
+      "principles of fundamental justice",
+      "s. 7"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-s7-fundjust-004",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "section7_fundamental_justice",
+    "subtopic_heading": "s. 7 — Life, Liberty, and Security of the Person",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A provincial statute requires all individuals who wish to practice as real estate agents to hold a provincial licence. An unlicensed individual is fined and barred from practice. The individual argues the licensing requirement violates their liberty under s. 7 of the Charter because it prevents them from earning a living.",
+    "call_of_question": "Does a professional licensing requirement engage the 'liberty' interest under s. 7 of the Charter?",
+    "options": {
+      "A": "Yes. Any restriction on a person's ability to earn a livelihood engages liberty under s. 7.",
+      "B": "Yes. Liberty under s. 7 includes the freedom to pursue any lawful occupation without government restriction.",
+      "C": "Generally no. Liberty under s. 7 is not engaged by economic rights such as the ability to practice a profession; s. 7 is concerned with physical freedom and personal autonomy in fundamental life choices, not purely economic restrictions.",
+      "D": "Yes, but only if the penalty for practicing without a licence includes a term of imprisonment."
+    },
+    "correct_answer": "C",
+    "explanation": "Canadian courts have consistently held that s. 7 liberty does not protect purely economic interests such as the right to earn a living or practice a profession. Liberty under s. 7 is concerned with freedom from physical restraint and personal autonomy in fundamental life decisions, not economic freedom. The right to practice real estate without a licence is an economic right that does not engage s. 7.",
+    "why_A_wrong": "Incorrect. Economic liberty — including the right to earn a livelihood — does not engage s. 7 liberty.",
+    "why_B_wrong": "Incorrect. This overly broad reading of liberty has been rejected; s. 7 liberty does not include the freedom to practice any occupation.",
+    "why_C_wrong": "This IS the correct answer. Generally no. Liberty under s. 7 is not engaged by economic rights such as the ability to practice a profession; s. 7 is concerned with physical freedom and personal autonomy in fundamental life choices, not purely economic restrictions.",
+    "why_D_wrong": "Incorrect. Even if imprisonment were a penalty, the underlying right to practice a profession is not a liberty interest under s. 7; moreover, the imprisonment itself would engage s. 7, not the licensing restriction.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 7 — Life, Liberty, and Security of the Person",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 7",
+      "liberty",
+      "economic rights",
+      "professional licensing",
+      "livelihood"
+    ],
+    "tested_concepts": [
+      "s. 7 liberty scope",
+      "economic rights excluded from s. 7",
+      "fundamental life choices"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-s7-fundjust-005",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights and the Section 1 Oakes Test",
+    "subtopic_id": "section7_fundamental_justice",
+    "subtopic_heading": "s. 7 — Life, Liberty, and Security of the Person",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A court finds that a federal law violates s. 7 of the Charter because it is arbitrary — there is no real connection between the law and its stated objective. The government argues that the violation should be saved under s. 1 because the law serves an important societal goal.",
+    "call_of_question": "Can a violation of s. 7 principles of fundamental justice be justified under s. 1 of the Charter?",
+    "options": {
+      "A": "Yes. All Charter violations, including s. 7 violations, can be saved under s. 1 through the Oakes test.",
+      "B": "No. s. 1 can never apply to s. 7; s. 7 violations are automatically unconstitutional without possibility of justification.",
+      "C": "In theory s. 1 applies to all Charter rights including s. 7, but courts have consistently held that a law which violates the principles of fundamental justice — such as being arbitrary, overbroad, or grossly disproportionate — will almost never be saved under s. 1, as such a law cannot constitute a reasonable limit in a free and democratic society.",
+      "D": "Yes. The government need only establish a pressing and substantial objective to save a s. 7 violation under s. 1."
+    },
+    "correct_answer": "C",
+    "explanation": "While s. 1 technically applies to all Charter rights, courts have consistently recognized that a law violating fundamental justice (i.e., being arbitrary, overbroad, or grossly disproportionate) is virtually impossible to justify under s. 1. A law that is arbitrary, for example, cannot be a 'reasonable limit' in a free and democratic society. This near-impossibility reflects the foundational importance of fundamental justice.",
+    "why_A_wrong": "Incorrect. While s. 1 technically applies, courts treat s. 7 violations as almost never saved by s. 1.",
+    "why_B_wrong": "Incorrect. s. 1 is not categorically excluded from applying to s. 7; the issue is that justification is extremely difficult to establish.",
+    "why_C_wrong": "This IS the correct answer. In theory s. 1 applies to all Charter rights including s. 7, but courts have consistently held that a law which violates the principles of fundamental justice — such as being arbitrary, overbroad, or grossly disproportionate — will almost never be saved under s. 1, as such a law cannot constitute a reasonable limit in a free and democratic society.",
+    "why_D_wrong": "Incorrect. Pressing and substantial is only Stage 1 of the Oakes test; the full Oakes analysis applies, and the near-impossibility of justifying s. 7 violations persists through all stages.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "public_law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 7 — Life, Liberty, and Security of the Person",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 7",
+      "s. 1 justification",
+      "arbitrary",
+      "fundamental justice",
+      "Oakes"
+    ],
+    "tested_concepts": [
+      "s. 7 and s. 1 interaction",
+      "arbitrary law",
+      "principles of fundamental justice"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-02-competence-001",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1",
+    "subtopic_id": "competence_obligations",
+    "subtopic_heading": "Competence Obligations — Rule 3.1-2",
+    "difficulty": "easy",
+    "fact_pattern": "Ahmad is a family law lawyer with a strong and loyal client base. A longtime client whom Ahmad has represented in several family matters now asks Ahmad to handle a complex immigration matter involving a refugee claim. Ahmad has never practiced immigration law and has no training in it.",
+    "call_of_question": "What must Ahmad do to comply with Rule 3.1-2 of the Rules of Professional Conduct?",
+    "options": {
+      "A": "Accept the matter because his loyalty to a longtime client overrides the competence requirement.",
+      "B": "Accept the matter but bill at a reduced rate to reflect his inexperience in immigration law.",
+      "C": "Ahmad must either acquire the requisite knowledge and skill through adequate preparation and study, associate with a lawyer who has competence in immigration law, or decline the matter and refer the client to a qualified immigration lawyer; Rule 3.1-2 requires competence on all legal services undertaken.",
+      "D": "Accept the matter and explain to the client that he is learning on the job and may need to consult outside resources."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.1-2 requires a lawyer to perform all legal services competently. Where a lawyer lacks the required knowledge or skill, the lawyer must either acquire it through adequate preparation, associate with a competent lawyer, or decline and refer the client. Client loyalty does not override the competence obligation, and transparency about inexperience does not satisfy the rule.",
+    "why_A_wrong": "Incorrect. Client loyalty is not an exception to the competence obligation under Rule 3.1-2. Accepting incompetent work harms the client regardless of the relationship's length.",
+    "why_B_wrong": "Incorrect. Billing at a reduced rate does not satisfy the competence requirement. The client is entitled to competent legal services, not merely discounted incompetent ones.",
+    "why_C_wrong": "This IS the correct answer. Ahmad must either acquire the requisite knowledge and skill through adequate preparation and study, associate with a lawyer who has competence in immigration law, or decline the matter and refer the client to a qualified immigration lawyer; Rule 3.1-2 requires competence on all legal services undertaken.",
+    "why_D_wrong": "Incorrect. Informing the client of inexperience does not cure the competence deficiency. Rule 3.1-2 requires competent performance, not merely candour about limitations.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "competence"
+    },
+    "exam_trigger_words": [
+      "competence",
+      "outside expertise",
+      "referral",
+      "never practiced"
+    ],
+    "tested_concepts": [
+      "Rule 3.1-2 — competence obligation",
+      "referral as competence option",
+      "acquiring competence through preparation"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-02-competence-002",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1",
+    "subtopic_id": "competence_obligations",
+    "subtopic_heading": "Competence Obligations — Rule 3.1-2",
+    "difficulty": "medium",
+    "fact_pattern": "Beatrice is a senior litigation partner. She assigns a complex interlocutory motion to her articling student, providing no instructions, no checklist, and no supervision. The articling student files a factum that is legally deficient and fails to address the key issues. As a result, the client's motion is dismissed and the client suffers significant procedural prejudice.",
+    "call_of_question": "Which statement best describes Beatrice's obligations under Rule 3.1-2?",
+    "options": {
+      "A": "Only the articling student is responsible for the inadequate factum because the student was the one who drafted it.",
+      "B": "Beatrice breaches Rule 3.1-2 by failing to supervise the articling student; a lawyer must ensure that work performed by subordinate staff meets the standard of competence required of the lawyer directly performing the work.",
+      "C": "Beatrice has no obligation to supervise articling students who are separately overseen by the Law Society of Ontario through the licensing process.",
+      "D": "Beatrice's competence obligation is satisfied because she was available to review the factum if the student had asked."
+    },
+    "correct_answer": "B",
+    "explanation": "The competence obligation under Rule 3.1-2 extends to work delegated to subordinate staff. A lawyer who delegates legal work remains responsible for ensuring it meets the standard of competence. Failure to provide supervision or instructions when delegating complex work is itself a breach of the competence rule.",
+    "why_A_wrong": "Incorrect. The supervising lawyer is responsible for work delegated to subordinate staff. The student's direct responsibility does not extinguish Beatrice's obligation.",
+    "why_B_wrong": "This IS the correct answer. Beatrice breaches Rule 3.1-2 by failing to supervise the articling student; a lawyer must ensure that work performed by subordinate staff meets the standard of competence required of the lawyer directly performing the work.",
+    "why_C_wrong": "Incorrect. LSO oversight of articling students through the licensing process is separate from the principal lawyer's obligation to supervise the student's work on client matters.",
+    "why_D_wrong": "Incorrect. Passive availability is not meaningful supervision. Rule 3.1-2 requires active oversight commensurate with the complexity of the delegated work.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "competence"
+    },
+    "exam_trigger_words": [
+      "delegation",
+      "supervision",
+      "articling student",
+      "subordinate"
+    ],
+    "tested_concepts": [
+      "Rule 3.1-2 — supervision of subordinate staff",
+      "delegation does not discharge competence obligation",
+      "lawyer responsibility for delegated work"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-02-competence-003",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1",
+    "subtopic_id": "competence_obligations",
+    "subtopic_heading": "Competence Obligations — Rule 3.1-2",
+    "difficulty": "hard",
+    "fact_pattern": "Cartier is retained for a high-stakes commercial litigation matter. He conducts thorough initial research and prepares a litigation strategy. During the proceedings, the Supreme Court of Canada releases a landmark decision that fundamentally alters the applicable legal test. Cartier is unaware of the decision because he did not update his research after the initial preparation stage. He argues his original position at trial, which is now legally untenable.",
+    "call_of_question": "Has Cartier breached his competence obligation under Rule 3.1-2?",
+    "options": {
+      "A": "No — a lawyer cannot be expected to know about all Supreme Court decisions immediately upon their release, and initial thorough research is sufficient.",
+      "B": "Yes — Rule 3.1-2 includes an obligation to remain current with relevant changes in the law; failure to be aware of a significant Supreme Court decision that materially affects the client's case is a breach of the competence obligation.",
+      "C": "No — Cartier's competence obligation was discharged when he completed thorough initial research; subsequent legal developments are beyond the scope of that duty.",
+      "D": "No — a breach would only arise if Cartier were specifically informed of the Supreme Court decision and chose to ignore it."
+    },
+    "correct_answer": "B",
+    "explanation": "Competence under Rule 3.1-2 is a continuing obligation throughout the retainer. The Commentary to Rule 3.1-2 confirms that a competent lawyer keeps current with developments in the law relevant to the matter. The obligation to remain up to date does not depend on being notified by a third party — it is a proactive duty.",
+    "why_A_wrong": "Incorrect. Competence requires keeping current with relevant developments. A landmark SCC decision on the applicable legal test is exactly the type of development a competent litigator must track.",
+    "why_B_wrong": "This IS the correct answer. Yes — Rule 3.1-2 includes an obligation to remain current with relevant changes in the law; failure to be aware of a significant Supreme Court decision that materially affects the client's case is a breach of the competence obligation.",
+    "why_C_wrong": "Incorrect. Competence is not discharged at the end of the research phase. It is a continuing duty throughout the retainer.",
+    "why_D_wrong": "Incorrect. The duty to keep current is proactive, not reactive. A lawyer cannot wait to be told about significant legal developments.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "competence"
+    },
+    "exam_trigger_words": [
+      "legal developments",
+      "Supreme Court",
+      "keeping current",
+      "update research"
+    ],
+    "tested_concepts": [
+      "Rule 3.1-2 — continuing competence obligation",
+      "keeping current with the law",
+      "proactive duty to monitor legal developments"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-02-competence-004",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1",
+    "subtopic_id": "competence_obligations",
+    "subtopic_heading": "Competence Obligations — Rule 3.1-2",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Dumont is an experienced family law lawyer. Her client is separating from a spouse and asks Dumont to also review and advise on a complicated commercial lease of a family business as part of the overall separation matter. Dumont has no training or experience in commercial real estate law. Believing she can 'figure it out,' she reviews the lease and advises the client without consulting a commercial real estate lawyer. Her advice is incorrect on a key commercial lease provision, causing the client to suffer significant financial loss.",
+    "call_of_question": "Can Dumont defend herself by arguing that the lease review was merely incidental to the family law matter and therefore not subject to the full competence standard?",
+    "options": {
+      "A": "Yes — services that are incidental to a lawyer's primary retainer area are not subject to Rule 3.1-2.",
+      "B": "Yes — the client should have retained a commercial real estate lawyer separately if specialist advice was needed.",
+      "C": "No — Rule 3.1-2 applies to all legal services undertaken on behalf of a client, not only services within the lawyer's primary area of practice; if Dumont was not competent to review the lease she should have referred that aspect to a competent lawyer or associated with one.",
+      "D": "Yes — Dumont can rely on the defence that the client knew she was a family law specialist and assumed the risk of receiving non-specialist advice on the lease."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.1-2 applies to all legal services undertaken, regardless of whether they fall within or outside the lawyer's primary area. Once Dumont agreed to advise on the lease, she assumed the competence obligation for that service. The fact that the lease review was ancillary to a family law matter provides no exemption. The proper course was to refer that aspect of the work or associate with a competent commercial real estate lawyer.",
+    "why_A_wrong": "Incorrect. There is no 'incidental services' exception to Rule 3.1-2. The rule applies to all legal services undertaken.",
+    "why_B_wrong": "Incorrect. Once Dumont undertook the lease review, the competence obligation attached to her. The client's option to retain another lawyer is irrelevant once Dumont accepted the work.",
+    "why_C_wrong": "This IS the correct answer. No — Rule 3.1-2 applies to all legal services undertaken on behalf of a client, not only services within the lawyer's primary area of practice; if Dumont was not competent to review the lease she should have referred that aspect to a competent lawyer or associated with one.",
+    "why_D_wrong": "Incorrect. Client assumption of risk is not a defence to a breach of the Rules of Professional Conduct. The competence standard is not waivable.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "competence"
+    },
+    "exam_trigger_words": [
+      "incidental service",
+      "outside expertise",
+      "primary area",
+      "assumption of risk"
+    ],
+    "tested_concepts": [
+      "Rule 3.1-2 — applies to all services undertaken",
+      "no incidental services exception",
+      "referral or association when lacking competence"
+    ],
+    "estimated_time_seconds": 180
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-02-competence-005",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1",
+    "subtopic_id": "competence_obligations",
+    "subtopic_heading": "Competence Obligations — Rule 3.1-2",
+    "difficulty": "medium",
+    "fact_pattern": "Edwina is representing a plaintiff in a civil trial. During the trial, Edwina realizes she failed to serve a critical expert report within the required time limits at an earlier stage of the proceedings. The oversight may have prejudiced her client's ability to rely on the expert's evidence. Edwina is uncertain whether she should tell the client about the error.",
+    "call_of_question": "Does the competence obligation under Rule 3.1-2, together with the duty of candour, require Edwina to advise the client of her error?",
+    "options": {
+      "A": "No — lawyers are not required to self-report errors to clients, particularly during ongoing litigation where disclosure could disrupt the proceedings.",
+      "B": "No — reporting the error could constitute an admission that may harm the client's case by undermining client confidence mid-trial.",
+      "C": "Yes — the competence obligation and the duty of candour together require a lawyer to promptly advise the client of any error or omission that may be relevant to the client's interests or that may give rise to a claim against the lawyer; the client must be given the opportunity to seek independent legal advice.",
+      "D": "Only if the error results in a final adverse judgment — until then, there is no reporting obligation because the impact of the error remains speculative."
+    },
+    "correct_answer": "C",
+    "explanation": "A lawyer's competence obligation and duty of candour require prompt disclosure to the client of any error or omission that may affect the client's interests or give rise to a professional liability claim. The client needs this information to protect their interests, including the ability to seek independent legal advice about any claim against Edwina. The obligation arises when the error is discovered, not upon a final adverse outcome.",
+    "why_A_wrong": "Incorrect. The obligation to report errors to clients is well-established under the combined effect of Rule 3.1-2 (competence) and the duty of candour.",
+    "why_B_wrong": "Incorrect. The client's right to know of errors affecting their interests takes precedence. The client needs the information to seek independent advice and protect themselves.",
+    "why_C_wrong": "This IS the correct answer. Yes — the competence obligation and the duty of candour together require a lawyer to promptly advise the client of any error or omission that may be relevant to the client's interests or that may give rise to a claim against the lawyer; the client must be given the opportunity to seek independent legal advice.",
+    "why_D_wrong": "Incorrect. The obligation to disclose the error arises as soon as it is discovered, not upon a final adverse judgment. Waiting may further prejudice the client.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "competence"
+    },
+    "exam_trigger_words": [
+      "error",
+      "omission",
+      "self-reporting",
+      "candour",
+      "professional liability"
+    ],
+    "tested_concepts": [
+      "Rule 3.1-2 — competence and candour on errors",
+      "duty to report own errors to client",
+      "client right to seek independent advice"
+    ],
+    "estimated_time_seconds": 120
+  }
+]

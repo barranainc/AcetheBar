@@ -1,0 +1,274 @@
+[
+  {
+    "id": "civ-06-injunction-001",
+    "subject": "civil_litigation",
+    "chapter_number": 6,
+    "chapter_title": "Motions",
+    "topic_id": "interlocutory_injunctions",
+    "topic_heading": "Interlocutory Injunctions",
+    "subtopic_id": "interlocutory_injunctions",
+    "subtopic_heading": "Interlocutory Injunctions — RJR-MacDonald Test",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Priya seeks an interlocutory injunction to prevent a competitor from using her confidential client list pending the outcome of the trial. The motion is heard by a judge in the Ontario Superior Court of Justice.",
+    "call_of_question": "What three-part test must Priya satisfy to obtain the interlocutory injunction?",
+    "options": {
+      "A": "She must prove on a balance of probabilities that she will succeed at trial.",
+      "B": "She must satisfy the three-part test from RJR-MacDonald Inc v Canada (AG): (1) serious question to be tried, (2) irreparable harm if the injunction is refused, and (3) the balance of convenience favours granting the injunction.",
+      "C": "She must prove her right to the relief claimed beyond a reasonable doubt.",
+      "D": "She must establish a prima facie case for the relief claimed and demonstrate a preponderance of evidence in her favour."
+    },
+    "correct_answer": "B",
+    "explanation": "The governing test for an interlocutory injunction in Ontario is the three-part test established by the Supreme Court of Canada in RJR-MacDonald Inc v Canada (AG), [1994] 1 SCR 311: (1) Is there a serious question to be tried? (2) Will the moving party suffer irreparable harm if the injunction is refused? (3) Does the balance of convenience favour granting or refusing the injunction?",
+    "why_A_wrong": "The interlocutory injunction test does not require proof on a balance of probabilities that the moving party will succeed at trial. The 'serious question' branch is a deliberately low threshold.",
+    "why_B_wrong": "This IS the correct answer. The three-part RJR-MacDonald test is the applicable framework for interlocutory injunctions.",
+    "why_C_wrong": "Beyond a reasonable doubt is the criminal standard of proof and has no application to civil interlocutory injunction motions.",
+    "why_D_wrong": "Prima facie case and preponderance of evidence are not the correct formulation of the interlocutory injunction test under RJR-MacDonald.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 6 — Motions",
+      "heading": "Interlocutory Injunctions — RJR-MacDonald Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "RJR-MacDonald Inc v Canada (AG), [1994] 1 SCR 311"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "interlocutory injunction",
+      "RJR-MacDonald",
+      "serious question",
+      "irreparable harm",
+      "balance of convenience"
+    ],
+    "tested_concepts": [
+      "RJR-MacDonald three-part test",
+      "interlocutory injunction",
+      "serious question threshold"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-06-injunction-002",
+    "subject": "civil_litigation",
+    "chapter_number": 6,
+    "chapter_title": "Motions",
+    "topic_id": "interlocutory_injunctions",
+    "topic_heading": "Interlocutory Injunctions",
+    "subtopic_id": "interlocutory_injunctions",
+    "subtopic_heading": "Interlocutory Injunctions — RJR-MacDonald Test",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "On a motion for an interlocutory injunction, the defendant argues that the plaintiff must demonstrate it is more likely than not to succeed at trial in order to satisfy the first branch of the RJR-MacDonald test.",
+    "call_of_question": "Which statement correctly describes the 'serious question to be tried' branch of the RJR-MacDonald test?",
+    "options": {
+      "A": "The plaintiff must show it is more likely than not to succeed at the trial of the action.",
+      "B": "The plaintiff must show its claim is not frivolous or vexatious; this is a deliberately low threshold that does not require the court to assess the merits in any depth.",
+      "C": "The plaintiff must establish a strong prima facie case, demonstrating that it would likely obtain a permanent injunction at trial.",
+      "D": "The plaintiff must produce evidence that would be sufficient to convince a jury of the facts underlying the claim."
+    },
+    "correct_answer": "B",
+    "explanation": "The Supreme Court of Canada in RJR-MacDonald confirmed that the 'serious question to be tried' is a low threshold. The moving party need only show that the claim is neither frivolous nor vexatious. The court is not to engage in an extensive review of the merits at this stage. A probability of success is not required. The strong prima facie case standard is reserved for mandatory injunctions and certain exceptional categories.",
+    "why_A_wrong": "Probability of success is not required at the serious question stage. RJR-MacDonald sets a deliberately low threshold — the claim must merely not be frivolous or vexatious.",
+    "why_B_wrong": "This IS the correct answer. The serious question branch is a low threshold requiring only that the claim is not frivolous or vexatious.",
+    "why_C_wrong": "A strong prima facie case is the higher threshold applied to mandatory injunctions, not the standard interlocutory (prohibitive) injunction test.",
+    "why_D_wrong": "The serious question test does not require the kind of evidence needed to convince a jury. It is assessed on the motion record and applies a low threshold.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 6 — Motions",
+      "heading": "Interlocutory Injunctions — RJR-MacDonald Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "RJR-MacDonald Inc v Canada (AG), [1994] 1 SCR 311"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "serious question",
+      "not frivolous",
+      "low threshold",
+      "merits"
+    ],
+    "tested_concepts": [
+      "serious question to be tried",
+      "low threshold",
+      "mandatory vs. prohibitive injunction distinction"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-06-injunction-003",
+    "subject": "civil_litigation",
+    "chapter_number": 6,
+    "chapter_title": "Motions",
+    "topic_id": "interlocutory_injunctions",
+    "topic_heading": "Interlocutory Injunctions",
+    "subtopic_id": "interlocutory_injunctions",
+    "subtopic_heading": "Interlocutory Injunctions — RJR-MacDonald Test",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Kwame seeks an interlocutory injunction to prevent a buyer from taking possession of his business, which he alleges was sold under duress. The defendant argues that any loss Kwame suffers before trial can be fully compensated by a damages award.",
+    "call_of_question": "How does the 'irreparable harm' requirement of the RJR-MacDonald test apply in this situation?",
+    "options": {
+      "A": "Irreparable harm is satisfied by showing that any harm will occur before trial, regardless of whether damages would be adequate.",
+      "B": "The court should grant the injunction to preserve the status quo regardless of whether a damages award would adequately compensate Kwame.",
+      "C": "Irreparable harm exists only where the physical harm to the moving party is permanent and cannot be undone.",
+      "D": "Kwame must show that the harm he will suffer cannot be adequately compensated by an award of damages at trial; if damages would be adequate, he does not satisfy this branch of the test."
+    },
+    "correct_answer": "D",
+    "explanation": "The 'irreparable harm' branch of the RJR-MacDonald test requires the moving party to demonstrate that, if the injunction is refused, the harm suffered pending trial cannot be adequately remedied by damages. If a damages award at trial would fully compensate the moving party, the harm is not 'irreparable' and this branch is not satisfied. The court is not required to preserve the status quo in all cases; the adequacy of damages is the central question.",
+    "why_A_wrong": "The mere fact that harm will occur before trial does not satisfy the irreparable harm branch. The critical question is whether damages would be an adequate remedy.",
+    "why_B_wrong": "Courts do not grant injunctions solely to maintain the status quo. The moving party must satisfy all three RJR-MacDonald branches, including showing that damages are inadequate.",
+    "why_C_wrong": "'Irreparable harm' does not require physical permanence. It means that damages would not be an adequate remedy — for example, because loss of goodwill, confidential information, or unique business opportunities cannot be fully monetized.",
+    "why_D_wrong": "This IS the correct answer. The irreparable harm branch asks whether damages are an adequate remedy; if they are, the branch is not satisfied.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 6 — Motions",
+      "heading": "Interlocutory Injunctions — RJR-MacDonald Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "RJR-MacDonald Inc v Canada (AG), [1994] 1 SCR 311"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "irreparable harm",
+      "adequacy of damages",
+      "status quo",
+      "compensate"
+    ],
+    "tested_concepts": [
+      "irreparable harm — adequacy of damages",
+      "damages as adequate remedy defeats injunction",
+      "RJR-MacDonald second branch"
+    ],
+    "estimated_time_seconds": 100,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-06-injunction-004",
+    "subject": "civil_litigation",
+    "chapter_number": 6,
+    "chapter_title": "Motions",
+    "topic_id": "interlocutory_injunctions",
+    "topic_heading": "Interlocutory Injunctions",
+    "subtopic_id": "interlocutory_injunctions",
+    "subtopic_heading": "Interlocutory Injunctions — RJR-MacDonald Test",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A defendant moves to discharge an interlocutory injunction previously granted ex parte. The plaintiff has demonstrated a serious question to be tried and irreparable harm, but the balance of convenience between the parties is genuinely uncertain — both sides would suffer significant harm depending on the outcome.",
+    "call_of_question": "What should the court do when assessing the balance of convenience in these circumstances?",
+    "options": {
+      "A": "Discharge the injunction automatically because the plaintiff has failed to clearly satisfy all three elements.",
+      "B": "Maintain the injunction for the plaintiff because the first two elements are satisfied and the balance element cannot override an otherwise valid case.",
+      "C": "The court weighs the relative harm to each party from granting or refusing the injunction; where the balance is genuinely equal, courts generally favour maintaining the status quo pending trial.",
+      "D": "Refer the question of the injunction to the trial judge for determination at the merits stage."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the third branch of the RJR-MacDonald test, the court weighs which party would suffer greater harm from the grant or refusal of the injunction. The court considers all relevant factors. Where the balance of convenience is genuinely equal — neither side would suffer significantly more than the other — courts have recognized that maintaining the status quo pending trial is generally appropriate, as this avoids irreversible changes while the case awaits resolution on its merits.",
+    "why_A_wrong": "The three RJR-MacDonald elements are not required to be 'clearly' proven. The balance of convenience is weighed, and an unclear balance does not automatically result in discharge.",
+    "why_B_wrong": "All three branches must be weighed. Satisfying the first two does not guarantee the injunction is maintained; the balance of convenience must also favour the moving party.",
+    "why_C_wrong": "This IS the correct answer. When the balance of convenience is genuinely equal, courts favour maintaining the status quo pending trial.",
+    "why_D_wrong": "Interlocutory injunctions are decided on the motion, not deferred to trial. Referring the injunction question to the trial judge is not the appropriate response.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 6 — Motions",
+      "heading": "Interlocutory Injunctions — RJR-MacDonald Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "RJR-MacDonald Inc v Canada (AG), [1994] 1 SCR 311"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "balance of convenience",
+      "status quo",
+      "discharge",
+      "harm to parties"
+    ],
+    "tested_concepts": [
+      "balance of convenience — equal balance favours status quo",
+      "RJR-MacDonald third branch",
+      "weighing harm"
+    ],
+    "estimated_time_seconds": 105,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-06-injunction-005",
+    "subject": "civil_litigation",
+    "chapter_number": 6,
+    "chapter_title": "Motions",
+    "topic_id": "interlocutory_injunctions",
+    "topic_heading": "Interlocutory Injunctions",
+    "subtopic_id": "interlocutory_injunctions",
+    "subtopic_heading": "Interlocutory Injunctions — RJR-MacDonald Test",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Amara seeks an ex parte interlocutory injunction — without prior notice to the other side — to freeze her former business partner's bank account. She believes the partner is about to transfer assets out of the jurisdiction.",
+    "call_of_question": "What additional considerations apply when a moving party seeks an ex parte interlocutory injunction?",
+    "options": {
+      "A": "Ex parte injunctions are not available in commercial disputes; Amara must give notice to the other side.",
+      "B": "On an ex parte motion, the moving party need only satisfy the regular RJR-MacDonald test because the other side can bring a motion to set aside the order if it disagrees.",
+      "C": "On an ex parte motion, the moving party must demonstrate urgency making prior notice impracticable and must make full and frank disclosure of all material facts, including facts that may favour the other side.",
+      "D": "Ex parte injunctions are permanent orders unless the opposing party obtains a court order to vary or set them aside."
+    },
+    "correct_answer": "C",
+    "explanation": "Ex parte injunctions are exceptional because they are granted without hearing from the opposing party. Two additional duties attach beyond the standard RJR-MacDonald test. First, the moving party must demonstrate urgency sufficient to justify dispensing with notice — typically that giving notice would cause irreparable harm (e.g., dissipation of assets). Second, and critically, the moving party owes a duty of full and frank disclosure to the court: it must disclose all material facts, including those that favour the opposing party, because the court cannot hear the other side. Breach of this duty can result in the injunction being set aside.",
+    "why_A_wrong": "Ex parte injunctions are available in commercial disputes, including asset-freeze orders (Mareva injunctions). They are exceptional but not categorically unavailable.",
+    "why_B_wrong": "The ability to move to set aside an ex parte order does not reduce the moving party's obligations. The duty of full and frank disclosure and the urgency requirement are additional requirements beyond the standard RJR-MacDonald test.",
+    "why_C_wrong": "This IS the correct answer. The moving party on an ex parte motion must show urgency justifying no notice and must make full and frank disclosure of all material facts.",
+    "why_D_wrong": "Ex parte injunctions are temporary orders, typically returnable within a short time (often within days) so the opposing party can be heard. They are not permanent orders.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 6 — Motions",
+      "heading": "Interlocutory Injunctions — RJR-MacDonald Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "RJR-MacDonald Inc v Canada (AG), [1994] 1 SCR 311; Rules of Civil Procedure, r. 37.07"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "ex parte",
+      "without notice",
+      "full and frank disclosure",
+      "urgency",
+      "Mareva"
+    ],
+    "tested_concepts": [
+      "ex parte injunction requirements",
+      "full and frank disclosure duty",
+      "urgency for ex parte relief"
+    ],
+    "estimated_time_seconds": 95,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-04-conflict-def-001",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "conflict_definition",
+    "subtopic_heading": "Conflict of Interest — Definition and Test",
+    "difficulty": "easy",
+    "fact_pattern": "Paula is a business lawyer. Two friends who are planning to form a partnership approach her together and ask her to represent both of them in drafting the partnership agreement. The partners are currently cooperative, have no disagreements, and present a united front. Paula wonders whether a conflict exists.",
+    "call_of_question": "Under Rule 3.4-1, is there a conflict of interest when Paula is asked to represent two clients in forming a partnership, even if they are currently cooperative?",
+    "options": {
+      "A": "No — there is only a conflict of interest if the parties are actively disagreeing at the time of the retainer.",
+      "B": "Potentially yes — even without current disagreement, the risk that the partners' interests will diverge during or after the representation creates a substantial risk under Rule 3.4-1; Paula must carefully assess whether that risk is substantial before accepting the joint retainer.",
+      "C": "No — clients always consent to any resulting conflict by choosing to seek joint representation; consent is implied from the outset.",
+      "D": "Yes — it is always a non-consentable conflict to represent two parties in any business formation transaction."
+    },
+    "correct_answer": "B",
+    "explanation": "The test under Rule 3.4-1 is whether there is a 'substantial risk' that the lawyer's representation of one client will be materially and adversely affected by duties to the other. Even cooperative parties forming a partnership may have diverging interests as the negotiation proceeds — for example, on profit sharing, exit rights, or decision-making authority. Paula must assess this risk before accepting the joint retainer, following the disclosure requirements of Rule 3.4-5.",
+    "why_A_wrong": "Incorrect. The conflict analysis focuses on substantial risk of future divergence, not merely current disagreement. Parties who are cooperative at the outset may have conflicting interests on specific terms.",
+    "why_B_wrong": "This IS the correct answer. Potentially yes — even without current disagreement, the risk that the partners' interests will diverge during or after the representation creates a substantial risk under Rule 3.4-1; Paula must carefully assess whether that risk is substantial before accepting the joint retainer.",
+    "why_C_wrong": "Incorrect. Implied consent does not eliminate the need for conflict analysis. The lawyer must assess the risk and make appropriate disclosures before relying on consent.",
+    "why_D_wrong": "Incorrect. Joint retainers in business formation transactions are not automatically non-consentable. With proper disclosure and genuine informed consent, a joint retainer may be permissible.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict of interest"
+    },
+    "exam_trigger_words": [
+      "joint representation",
+      "cooperative parties",
+      "substantial risk",
+      "partnership formation"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-1 — conflict definition and test",
+      "substantial risk of material adverse effect",
+      "conflict analysis not limited to current disagreement"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-04-conflict-def-002",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "conflict_definition",
+    "subtopic_heading": "Conflict of Interest — Definition and Test",
+    "difficulty": "medium",
+    "fact_pattern": "Quincy is acting for a buyer in a residential real estate transaction. Before the deal closes, the seller's lawyer withdraws and the seller asks Quincy to also represent the seller in completing the same transaction. Both parties want the deal to close quickly.",
+    "call_of_question": "What is the nature of the conflict and how should Quincy respond to the seller's request?",
+    "options": {
+      "A": "Quincy may act for both buyer and seller if both parties provide informed consent, since they have the same goal of completing the transaction.",
+      "B": "Quincy must decline to act for the seller; in the same real estate transaction, buyer and seller have directly adverse interests regarding price, conditions, deposit, representations, and risk allocation; this is a conflict that cannot be resolved by consent.",
+      "C": "Quincy may act for both if he uses separate files and ensures he does not share confidential information between the two clients.",
+      "D": "There is no conflict because both parties want the transaction to close; their shared objective means their interests are aligned."
+    },
+    "correct_answer": "B",
+    "explanation": "In the same real estate transaction, the buyer and seller have directly adverse interests on key terms including price, deposit conditions, representations and warranties, and risk allocation. This is a paradigmatic example of a non-consentable conflict. A lawyer cannot act for both buyer and seller in the same transaction regardless of their consent, because the lawyer cannot provide undivided loyalty to both simultaneously. Information barriers are ineffective when the same lawyer acts for opposing parties in the same matter.",
+    "why_A_wrong": "Incorrect. Sharing the goal of completing the transaction does not eliminate the direct conflict on the terms of the transaction. This is a non-consentable conflict.",
+    "why_B_wrong": "This IS the correct answer. Quincy must decline to act for the seller; in the same real estate transaction, buyer and seller have directly adverse interests regarding price, conditions, deposit, representations, and risk allocation; this is a conflict that cannot be resolved by consent.",
+    "why_C_wrong": "Incorrect. Separate files and information barriers cannot cure the fundamental conflict when the same lawyer represents opposing parties in the same transaction.",
+    "why_D_wrong": "Incorrect. Sharing a common goal (deal completion) does not eliminate the adversarial nature of the parties' interests on the specific terms of the transaction.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict of interest"
+    },
+    "exam_trigger_words": [
+      "buyer and seller",
+      "same transaction",
+      "directly adverse",
+      "non-consentable"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-1 — directly adverse interests",
+      "non-consentable conflict",
+      "buyer vs. seller same transaction"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-04-conflict-def-003",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "conflict_definition",
+    "subtopic_heading": "Conflict of Interest — Definition and Test",
+    "difficulty": "hard",
+    "fact_pattern": "Rashida is a corporate lawyer who personally holds a significant equity interest in TechStart Inc., a startup company. A client approaches Rashida and asks her to provide legal advice on whether the client should invest in TechStart Inc. in its next funding round. The client wants independent advice on the merits of the investment.",
+    "call_of_question": "What type of conflict exists and how is it assessed under Rule 3.4-1?",
+    "options": {
+      "A": "No conflict exists — Rashida and the client have aligned interests because they both want TechStart to succeed; aligned interests cannot constitute a conflict.",
+      "B": "Rashida has an own-interest conflict under Rule 3.4-1; her personal financial stake in TechStart creates a substantial risk that her advice to the client about whether to invest may be materially affected by her own desire for the startup to raise funds.",
+      "C": "No conflict — lawyers are routinely permitted to have personal investments in client businesses without disclosure or consent obligations.",
+      "D": "A conflict exists only if Rashida actually profits from the client's investment decision — until profit is realized, the conflict is merely theoretical."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.4-1 identifies own-interest conflicts as a type of conflict where the lawyer's personal interests may materially and adversely affect the representation. Rashida's financial stake in TechStart creates a substantial risk that she will not provide fully objective advice about whether the client should invest — her personal interest in the startup's fundraising success will colour her analysis. This conflict must be disclosed and may require declining the retainer.",
+    "why_A_wrong": "Incorrect. Apparent alignment on the ultimate outcome (startup success) does not eliminate the conflict. Rashida cannot give fully independent advice about an investment in a company where she has a personal financial stake.",
+    "why_B_wrong": "This IS the correct answer. Rashida has an own-interest conflict under Rule 3.4-1; her personal financial stake in TechStart creates a substantial risk that her advice to the client about whether to invest may be materially affected by her own desire for the startup to raise funds.",
+    "why_C_wrong": "Incorrect. Lawyers who have personal investments in matters on which they advise have own-interest conflicts that require disclosure and assessment, not automatic permission.",
+    "why_D_wrong": "Incorrect. The substantial risk of impaired objectivity exists at the time of the advice, regardless of whether profit is ultimately realized.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict of interest"
+    },
+    "exam_trigger_words": [
+      "own-interest conflict",
+      "personal investment",
+      "objective advice",
+      "financial stake"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-1 — own-interest conflict",
+      "personal financial interest impairs objectivity",
+      "conflict exists even with aligned outcomes"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-04-conflict-def-004",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "conflict_definition",
+    "subtopic_heading": "Conflict of Interest — Definition and Test",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Sienna is a personal injury lawyer who currently represents Client A in a slip and fall action against a municipality. Client B, a technology company unrelated to Client A or the municipality, approaches Sienna and asks her to represent it in a corporate restructuring. The two matters involve entirely different facts, legal issues, and parties.",
+    "call_of_question": "Does a conflict of interest exist between Client A and Client B under Rule 3.4-1?",
+    "options": {
+      "A": "Yes — a lawyer can never represent two different clients simultaneously without risking a conflict of interest.",
+      "B": "Yes — any time a lawyer acts for two clients at the same time, the lawyer's divided loyalties constitute a conflict under Rule 3.4-1.",
+      "C": "Likely no — there is no conflict if the two representations do not involve adverse interests and confidential information from one matter will not be used against the other client; concurrent representation of clients in unrelated matters is generally permissible.",
+      "D": "Yes — because Sienna will inevitably apply knowledge and skills gained from Client A's file when representing Client B, which constitutes a use of one client's information against the other."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.4-1 requires a 'substantial risk' that the representation of one client will be 'materially and adversely affected' by duties to the other. Where two clients have entirely unrelated matters and no adverse interests to each other, concurrent representation is generally permissible and does not constitute a conflict. Lawyers routinely represent multiple unrelated clients simultaneously.",
+    "why_A_wrong": "Incorrect. Concurrent representation of multiple clients with no adverse interests is a standard practice. Rule 3.4-1 requires a substantial risk of material adverse effect, not the mere existence of two retainers.",
+    "why_B_wrong": "Incorrect. Divided loyalties do not arise where the clients have no adverse interests and their matters are entirely unrelated.",
+    "why_C_wrong": "This IS the correct answer. Likely no — there is no conflict if the two representations do not involve adverse interests and confidential information from one matter will not be used against the other client; concurrent representation of clients in unrelated matters is generally permissible.",
+    "why_D_wrong": "Incorrect. General knowledge, skills, and experience gained from representing clients are not 'confidential information' of one client being used against another. The confidentiality obligation protects specific confidential information, not general legal skills.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict of interest"
+    },
+    "exam_trigger_words": [
+      "concurrent representation",
+      "unrelated matters",
+      "no adverse interests",
+      "two clients"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-1 — substantial risk test",
+      "concurrent representation of unrelated clients permissible",
+      "conflict requires adverse interests not mere co-existence of retainers"
+    ],
+    "estimated_time_seconds": 180
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-04-conflict-def-005",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "conflict_definition",
+    "subtopic_heading": "Conflict of Interest — Definition and Test",
+    "difficulty": "medium",
+    "fact_pattern": "Tobias obtained informed consent from two clients to act in a joint retainer despite a conflict, following full disclosure. Partway through the matter, the conflict becomes significantly more serious than it appeared at the outset — the clients' positions have hardened and they are now in direct opposition on the key issue. Tobias is considering whether the initial consent continues to authorize his representation.",
+    "call_of_question": "Can informed consent at the outset cure any conflict that subsequently develops, and what must Tobias do?",
+    "options": {
+      "A": "Yes — once clients provide informed consent to a conflict, the consent is irrevocable and binds the clients for the remainder of the matter.",
+      "B": "Yes — all conflicts under the Rules of Professional Conduct can be cured by informed consent; no conflict is non-consentable.",
+      "C": "No — consent can only resolve consentable conflicts; if the conflict has become non-consentable or circumstances have materially changed, Tobias must reassess and may need to withdraw from representing one or both clients.",
+      "D": "No — consent is never effective for any conflict under the Rules of Professional Conduct; Tobias should never have obtained consent to act despite the conflict."
+    },
+    "correct_answer": "C",
+    "explanation": "Informed consent can resolve consentable conflicts, but it does not operate irrevocably. If circumstances change materially — for example, if the conflict escalates to the point where the lawyer cannot continue to provide competent and loyal representation to both clients — the lawyer must reassess. A non-consentable conflict cannot be resolved by consent, regardless of when it arises.",
+    "why_A_wrong": "Incorrect. Consent is not irrevocable. Changed circumstances may require the lawyer to reassess and potentially withdraw.",
+    "why_B_wrong": "Incorrect. Some conflicts are non-consentable. For example, acting against a current client in any matter is a non-consentable conflict.",
+    "why_C_wrong": "This IS the correct answer. No — consent can only resolve consentable conflicts; if the conflict has become non-consentable or circumstances have materially changed, Tobias must reassess and may need to withdraw from representing one or both clients.",
+    "why_D_wrong": "Incorrect. Consent is a recognized mechanism to resolve consentable conflicts. The issue is distinguishing consentable from non-consentable conflicts.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict of interest"
+    },
+    "exam_trigger_words": [
+      "informed consent",
+      "irrevocable",
+      "non-consentable",
+      "conflict escalated"
+    ],
+    "tested_concepts": [
+      "consentable vs. non-consentable conflicts",
+      "consent is not irrevocable",
+      "changed circumstances require reassessment"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-04-joint-ret-001",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "joint_retainer",
+    "subtopic_heading": "Joint Retainer — Requirements and Risks",
+    "difficulty": "easy",
+    "fact_pattern": "Uma is a family lawyer. Two unmarried partners who are about to move in together ask Uma to draft a cohabitation agreement for both of them. Uma is aware that their interests in the agreement will need to be balanced. She is considering how to proceed.",
+    "call_of_question": "What must Uma do before accepting the joint retainer under Rule 3.4-5?",
+    "options": {
+      "A": "Simply proceed if both parties orally agree at the first meeting that they are comfortable with joint representation.",
+      "B": "Before acting, Uma must advise both clients that: (1) she has been asked to act for both of them; (2) no information received from one client in connection with the matter can be treated as confidential from the other; (3) if a conflict develops that cannot be resolved, Uma may have to withdraw from acting for both; and (4) each client should consider obtaining independent legal advice.",
+      "C": "Accept the joint retainer and manage any confidentiality or conflict issues as they arise during the course of the matter.",
+      "D": "Advise only the client who contacted her first; the second client is deemed to be on notice of the joint retainer nature."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.4-5 imposes specific disclosure obligations that must be fulfilled before the lawyer acts in a joint retainer. Each client must be advised of all four elements: the joint nature of the retainer, the absence of confidentiality between clients, the risk of withdrawal, and the recommendation of independent legal advice. These disclosures must be made before the retainer begins, not managed reactively.",
+    "why_A_wrong": "Incorrect. Oral agreement is insufficient. Rule 3.4-5 requires specific substantive disclosures on each of the four elements.",
+    "why_B_wrong": "This IS the correct answer. Before acting, Uma must advise both clients that: (1) she has been asked to act for both of them; (2) no information received from one client in connection with the matter can be treated as confidential from the other; (3) if a conflict develops that cannot be resolved, Uma may have to withdraw from acting for both; and (4) each client should consider obtaining independent legal advice.",
+    "why_C_wrong": "Incorrect. The required disclosures must be made before the retainer commences. A reactive approach does not satisfy Rule 3.4-5.",
+    "why_D_wrong": "Incorrect. Both clients must receive the full disclosure required by Rule 3.4-5. No client is deemed to be on notice based on the other's contact with the lawyer.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-5"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict of interest — joint retainer"
+    },
+    "exam_trigger_words": [
+      "joint retainer",
+      "cohabitation agreement",
+      "before acting",
+      "Rule 3.4-5"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-5 — four required disclosures",
+      "disclosure before retainer begins",
+      "both clients must receive disclosure"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-04-joint-ret-002",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "joint_retainer",
+    "subtopic_heading": "Joint Retainer — Requirements and Risks",
+    "difficulty": "medium",
+    "fact_pattern": "Vijay is acting for a husband and wife who are jointly purchasing an investment property. Midway through the transaction, the wife calls Vijay privately and tells him that she is concerned the husband may be concealing debts that could affect the property purchase and their financial future. She asks Vijay to keep this concern just between them.",
+    "call_of_question": "What is Vijay's obligation regarding the wife's private disclosure under a joint retainer?",
+    "options": {
+      "A": "Vijay must keep the wife's disclosure confidential because she communicated it to him privately, and privacy of communication creates confidentiality.",
+      "B": "In a joint retainer, information received from one joint client in connection with the matter cannot be treated as confidential from the other joint client; Vijay cannot keep the wife's concern secret from the husband; if the situation creates an irresolvable conflict, Vijay may need to withdraw from representing both.",
+      "C": "Vijay may keep the information confidential by creating separate file sections for each spouse and implementing an internal information barrier.",
+      "D": "Vijay must immediately report the wife's concern to the Law Society of Ontario because it may indicate potential misconduct by the husband."
+    },
+    "correct_answer": "B",
+    "explanation": "A fundamental characteristic of the joint retainer under Rule 3.4-5 is that no information received from one joint client in connection with the matter can be treated as confidential from the other joint client. The wife's private communication to Vijay is therefore not confidential as against the husband. Vijay cannot maintain the confidence, and if the situation creates an irresolvable conflict (e.g., he cannot fulfill his duties to the husband without disclosing what the wife told him), he must withdraw from the joint retainer.",
+    "why_A_wrong": "Incorrect. Privacy of communication does not create confidentiality in a joint retainer. Rule 3.4-5 expressly provides that no information from one joint client can be kept confidential from the other.",
+    "why_B_wrong": "This IS the correct answer. In a joint retainer, information received from one joint client in connection with the matter cannot be treated as confidential from the other joint client; Vijay cannot keep the wife's concern secret from the husband; if the situation creates an irresolvable conflict, Vijay may need to withdraw from representing both.",
+    "why_C_wrong": "Incorrect. Information barriers are ineffective between joint clients. The rule against confidentiality between joint clients applies regardless of internal file management practices.",
+    "why_D_wrong": "Incorrect. Reporting to the LSO is not the appropriate response. The obligation is to manage the joint retainer properly and potentially withdraw if a conflict arises.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-5"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict of interest — joint retainer"
+    },
+    "exam_trigger_words": [
+      "private disclosure",
+      "joint retainer",
+      "no confidentiality between clients",
+      "withdrawal"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-5 — no confidentiality between joint clients",
+      "private communication not protected from other joint client",
+      "withdrawal when irresolvable conflict arises"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-04-joint-ret-003",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "joint_retainer",
+    "subtopic_heading": "Joint Retainer — Requirements and Risks",
+    "difficulty": "hard",
+    "fact_pattern": "Nadira is acting for three siblings in selling a family-owned commercial property they inherited jointly. Midway through the transaction, a serious dispute arises between two of the siblings and the third about how to allocate the sale proceeds. The dispute cannot be resolved by negotiation, and each sibling is now asserting incompatible legal positions.",
+    "call_of_question": "What must Nadira do when an irresolvable conflict arises between joint clients in the middle of a joint retainer?",
+    "options": {
+      "A": "Nadira may continue acting for the two siblings whose position appears legally stronger and withdraw from the third.",
+      "B": "Nadira may continue acting for the sibling who retained her first and withdraw from the other two.",
+      "C": "Nadira must withdraw from acting for all three clients; if a conflict arises in a joint retainer that cannot be resolved, the lawyer cannot continue to act for any of the clients because doing so would require using confidential information obtained from one client against another.",
+      "D": "Nadira may continue to act for all three clients in a purely facilitative role, helping them negotiate a resolution, without providing legal advice to any of them."
+    },
+    "correct_answer": "C",
+    "explanation": "When an irresolvable conflict arises in a joint retainer, the lawyer must withdraw from representing all joint clients. The lawyer cannot take sides because all joint clients shared information freely in the expectation that the lawyer acted for all of them. Acting for some against others would constitute a misuse of confidential information obtained in the context of the joint retainer.",
+    "why_A_wrong": "Incorrect. There is no 'stronger position' basis for choosing which joint client to continue representing. The lawyer must withdraw from all.",
+    "why_B_wrong": "Incorrect. There is no seniority rule in joint retainers. The chronological order of retention does not determine who the lawyer may continue to represent.",
+    "why_C_wrong": "This IS the correct answer. Nadira must withdraw from acting for all three clients; if a conflict arises in a joint retainer that cannot be resolved, the lawyer cannot continue to act for any of the clients because doing so would require using confidential information obtained from one client against another.",
+    "why_D_wrong": "Incorrect. A purely facilitative role without legal advice is not a permissible continuation of a legal retainer. Once a legal retainer exists, the lawyer cannot unilaterally convert to a facilitative role to avoid the withdrawal obligation.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-5"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict of interest — joint retainer"
+    },
+    "exam_trigger_words": [
+      "irresolvable conflict",
+      "joint retainer",
+      "withdraw from all",
+      "cannot continue"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-5 — irresolvable conflict requires withdrawal from all joint clients",
+      "no seniority rule for joint retainers",
+      "cannot use joint client information against another"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-04-joint-ret-004",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "joint_retainer",
+    "subtopic_heading": "Joint Retainer — Requirements and Risks",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Wendy is asked to act for two siblings purchasing a property as joint tenants. The transaction is simple and the siblings are cooperative. Wendy's assistant prepares a single retainer letter addressed to 'The Clients' describing the scope of services and fees. Both siblings sign the letter. No other specific joint retainer disclosures are made. The transaction closes without incident.",
+    "call_of_question": "Has Wendy fulfilled her Rule 3.4-5 obligations by having both clients sign a single retainer letter addressed to 'The Clients'?",
+    "options": {
+      "A": "Yes — a single retainer letter signed by both clients satisfies Rule 3.4-5 as long as both signatures are obtained.",
+      "B": "No — Rule 3.4-5 requires that each client be separately and individually advised of the joint retainer nature, the loss of confidentiality between them, the risk of withdrawal, and the recommendation of independent legal advice; a generic letter to 'The Clients' may not constitute adequate individual disclosure to each client.",
+      "C": "Yes — because the transaction proceeded smoothly without any conflict, the absence of specific joint retainer disclosure is immaterial.",
+      "D": "No — Rule 3.4-5 prohibits a lawyer from acting for two siblings in the same property purchase transaction under any circumstances."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.4-5 requires that each client be individually advised of all four elements of the joint retainer disclosure. A generic letter addressed to 'The Clients' that does not specifically set out the required disclosures is likely insufficient even if both clients sign it. The smooth completion of the transaction does not retroactively satisfy the disclosure requirement — the obligation is procedural and must be fulfilled at the outset.",
+    "why_A_wrong": "Incorrect. Obtaining signatures on a generic letter does not satisfy the substantive disclosure requirements of Rule 3.4-5. The specific content of the disclosure matters.",
+    "why_B_wrong": "This IS the correct answer. No — Rule 3.4-5 requires that each client be separately and individually advised of the joint retainer nature, the loss of confidentiality between them, the risk of withdrawal, and the recommendation of independent legal advice; a generic letter to 'The Clients' may not constitute adequate individual disclosure to each client.",
+    "why_C_wrong": "Incorrect. The disclosure obligation is not outcome-dependent. It must be fulfilled regardless of whether problems ultimately arise.",
+    "why_D_wrong": "Incorrect. Siblings in a cooperative joint purchase may validly proceed with a joint retainer — Rule 3.4-5 does not categorically prohibit such arrangements.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-5"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict of interest — joint retainer"
+    },
+    "exam_trigger_words": [
+      "single retainer letter",
+      "joint disclosure",
+      "The Clients",
+      "adequate disclosure"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-5 — each client must receive individual disclosure",
+      "generic letter to 'the clients' may be insufficient",
+      "disclosure requirement is procedural and substantive"
+    ],
+    "estimated_time_seconds": 180
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "question_type": "single_best_answer",
+    "id": "pr-04-joint-ret-005",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "joint_retainer",
+    "subtopic_heading": "Joint Retainer — Requirements and Risks",
+    "difficulty": "medium",
+    "fact_pattern": "Xandra is acting for both a corporate lender and an individual borrower in documenting a commercial loan. Both clients consented to the joint retainer after receiving the full Rule 3.4-5 disclosure and signed a joint retainer agreement. During the retainer, the borrower contacts Xandra privately and discloses that she is currently insolvent and has no realistic prospect of repaying the loan she is about to sign.",
+    "call_of_question": "What must Xandra do upon receiving the borrower's private disclosure of insolvency in the context of this joint retainer?",
+    "options": {
+      "A": "Xandra may continue acting for the lender only and withdraw from representing the borrower — she is entitled to choose which joint client to continue representing.",
+      "B": "Xandra may keep the borrower's insolvency disclosure confidential and continue acting for both clients, since the borrower told her in confidence.",
+      "C": "Xandra cannot treat the borrower's insolvency disclosure as confidential from the lender in the context of this joint retainer; she cannot continue to act for either client in this matter and must withdraw from the joint retainer, advising both clients to seek independent legal advice.",
+      "D": "Xandra may disclose the borrower's insolvency to the lender and then continue acting for the lender alone to protect its interests."
+    },
+    "correct_answer": "C",
+    "explanation": "In a joint retainer, information received from one joint client cannot be treated as confidential from the other. The borrower's insolvency is directly material to the lender's interests in the joint retainer matter. Xandra cannot keep it from the lender, but she also cannot use it against the borrower by continuing to act for the lender. The irresolvable conflict requires withdrawal from both clients, with advice that each seek independent counsel.",
+    "why_A_wrong": "Incorrect. Xandra cannot choose sides in a joint retainer. She must withdraw from representing all joint clients when an irresolvable conflict arises.",
+    "why_B_wrong": "Incorrect. There is no confidentiality between joint clients in a joint retainer on matters related to the retainer. Xandra cannot keep material information from the lender.",
+    "why_C_wrong": "This IS the correct answer. Xandra cannot treat the borrower's insolvency disclosure as confidential from the lender in the context of this joint retainer; she cannot continue to act for either client in this matter and must withdraw from the joint retainer, advising both clients to seek independent legal advice.",
+    "why_D_wrong": "Incorrect. While disclosure to the lender may be required, Xandra cannot then continue acting for the lender alone. The joint retainer must end and both clients must seek independent advice.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "professional_responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-5"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict of interest — joint retainer"
+    },
+    "exam_trigger_words": [
+      "insolvency",
+      "joint retainer",
+      "withdraw from both",
+      "independent legal advice"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-5 — no confidentiality between joint clients",
+      "irresolvable conflict requires withdrawal from all",
+      "cannot continue for one joint client against the other"
+    ],
+    "estimated_time_seconds": 120
+  }
+]

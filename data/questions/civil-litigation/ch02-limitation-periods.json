@@ -1,0 +1,545 @@
+[
+  {
+    "id": "civ-02-basic-lim-001",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "two_year_period",
+    "subtopic_heading": "The Basic Two-Year Limitation Period",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Takeshi slips and falls at a grocery store on April 15, 2024 and sustains personal injuries. He decides to consult a lawyer on November 1, 2025.",
+    "call_of_question": "What is the last day Takeshi may commence a proceeding for his personal injury claim, assuming he discovered his claim on the date of the fall?",
+    "options": {
+      "A": "April 15, 2026",
+      "B": "November 1, 2027",
+      "C": "April 15, 2025",
+      "D": "There is no limitation period for personal injury claims in Ontario"
+    },
+    "correct_answer": "A",
+    "explanation": "Under s. 4 of the Limitations Act, 2002, a proceeding must be commenced within two years of the day the claim was discovered. Takeshi discovered his claim on April 15, 2024 (the date of the fall), so the limitation period expires on April 15, 2026. His decision to consult a lawyer on November 1, 2025 does not affect the calculation.",
+    "why_A_wrong": "This IS the correct answer. April 15, 2026 is exactly two years after the date of discovery (April 15, 2024) under s. 4 of the Limitations Act, 2002.",
+    "why_B_wrong": "November 1, 2027 is two years after the lawyer consultation. The limitation period runs from the date of discovery, not from the date of legal consultation.",
+    "why_C_wrong": "April 15, 2025 would be only one year after the fall. The basic limitation period is two years, not one year.",
+    "why_D_wrong": "The general two-year limitation period in s. 4 of the Limitations Act, 2002 applies to personal injury claims. There is no blanket exception for personal injury.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 2 — Limitation Periods",
+      "heading": "The Basic Two-Year Limitation Period",
+      "page": "N/A",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 4"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "limitation period",
+      "two years",
+      "when to sue",
+      "last day"
+    ],
+    "tested_concepts": [
+      "basic two-year limitation period",
+      "s. 4 Limitations Act",
+      "discovery date"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-02-basic-lim-002",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "two_year_period",
+    "subtopic_heading": "The Basic Two-Year Limitation Period",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Sylviane operates a catering business. Her supplier breached a contract on June 1, 2023, and she discovered the breach on the same day. She did not commence an action. In January 2025, her accountant told her she should sue to recover her losses. Sylviane commences a breach of contract action on June 15, 2025.",
+    "call_of_question": "Which statement is correct regarding Sylviane's action?",
+    "options": {
+      "A": "The action is not statute-barred because the accountant's advice in January 2025 restarted the limitation period.",
+      "B": "The action is statute-barred because more than two years passed since the claim was discovered on June 1, 2023.",
+      "C": "A six-year limitation period applies to breach of contract claims in Ontario.",
+      "D": "The limitation period was suspended while Sylviane sought professional advice about whether to sue."
+    },
+    "correct_answer": "B",
+    "explanation": "Sylviane discovered her breach of contract claim on June 1, 2023. Under s. 4 of the Limitations Act, 2002, she had two years — until June 1, 2025 — to commence proceedings. Commencing on June 15, 2025 is 14 days after the expiry of the limitation period. The action is therefore statute-barred. An accountant's advice does not restart or suspend the limitation period.",
+    "why_A_wrong": "Professional advice does not restart, toll, or otherwise affect the running of the limitation period under the Limitations Act, 2002.",
+    "why_B_wrong": "This IS the correct answer. The claim was discovered on June 1, 2023; the two-year period expired June 1, 2025; commencement on June 15, 2025 is out of time.",
+    "why_C_wrong": "The Limitations Act, 2002 abolished the prior six-year limitation period for most contract claims. The general two-year period now applies.",
+    "why_D_wrong": "There is no provision in the Limitations Act, 2002 that suspends the limitation period while a party seeks accounting or professional advice.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 2 — Limitation Periods",
+      "heading": "The Basic Two-Year Limitation Period",
+      "page": "N/A",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 4"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "statute-barred",
+      "limitation period",
+      "breach of contract",
+      "two years"
+    ],
+    "tested_concepts": [
+      "basic two-year limitation period",
+      "discovery date",
+      "professional advice does not toll limitation"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-02-basic-lim-003",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "two_year_period",
+    "subtopic_heading": "The Basic Two-Year Limitation Period",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Priya was sexually assaulted by her employer in 2015. She did not report the assault at the time. In 2024, following therapy, she comes to understand the full psychological harm caused to her and wishes to bring a civil claim.",
+    "call_of_question": "Which statement best describes the applicable limitation period for Priya's claim?",
+    "options": {
+      "A": "The claim is statute-barred because more than two years have passed since the assault occurred in 2015.",
+      "B": "No limitation period applies to Priya's claim because sexual assault falls within s. 16(1)(h) of the Limitations Act, 2002.",
+      "C": "The discoverability principle defers the start of the two-year period to 2024, so Priya has until 2026 to commence her action.",
+      "D": "A 15-year ultimate limitation period applies to Priya's claim, which will expire in 2030."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 16(1)(h) of the Limitations Act, 2002 provides that there is no limitation period with respect to a claim based on a sexual assault. This removes the limitation period entirely — not merely defers it via discoverability. Furthermore, s. 16(1)(h) also excludes such claims from the 15-year ultimate limitation period in s. 15 of the Act. Priya may commence her claim at any time.",
+    "why_A_wrong": "Section 16(1)(h) of the Limitations Act, 2002 creates an exception for sexual assault claims. The two-year period in s. 4 does not apply.",
+    "why_B_wrong": "This IS the correct answer. Section 16(1)(h) provides that no limitation period applies to a claim based on sexual assault.",
+    "why_C_wrong": "While the discoverability principle in s. 5 could theoretically defer the start of the limitation period, s. 16(1)(h) goes further — it eliminates the limitation period entirely for sexual assault claims.",
+    "why_D_wrong": "The 15-year ultimate limitation period in s. 15 does not apply to claims exempted under s. 16, which includes sexual assault claims under s. 16(1)(h).",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 2 — Limitation Periods",
+      "heading": "Claims with No Limitation Period",
+      "page": "N/A",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 16(1)(h)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "sexual assault",
+      "no limitation period",
+      "s. 16",
+      "employer"
+    ],
+    "tested_concepts": [
+      "s. 16(1)(h) sexual assault exception",
+      "no limitation period",
+      "15-year ultimate limitation does not apply"
+    ],
+    "estimated_time_seconds": 105,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-02-basic-lim-004",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "two_year_period",
+    "subtopic_heading": "The Basic Two-Year Limitation Period",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Reuben is owed $10,000 under a contract made in 2000. He never commenced an action to recover the debt. It is now 2026. Reuben argues that the Limitations Act, 2002 does not apply to his claim because the contract was made before the Act came into force on January 1, 2004.",
+    "call_of_question": "Which is the most accurate statement regarding Reuben's claim?",
+    "options": {
+      "A": "The former Limitations Act (with its six-year limitation period) applies to contracts made before January 1, 2004, so Reuben may still have time to sue.",
+      "B": "The Limitations Act, 2002 does not apply retroactively to claims that arose before January 1, 2004.",
+      "C": "Reuben's claim is statute-barred; the Limitations Act, 2002 and its transitional rules extinguished pre-existing claims where the applicable limitation period had already expired.",
+      "D": "Reuben can rely on an acknowledgment of the debt made by the debtor at any time to restart the limitation period, even now."
+    },
+    "correct_answer": "C",
+    "explanation": "The Limitations Act, 2002 contains transitional provisions that address pre-existing claims. Even applying the former six-year limitation period to a 2000 contract claim, that period would have expired by 2006 at the latest. By 2026, Reuben's claim is long extinguished. Moreover, once a limitation period has expired and a claim is statute-barred, a subsequent acknowledgment of the debt cannot revive it — acknowledgment must occur within the running limitation period to restart the clock.",
+    "why_A_wrong": "Even under the former six-year limitation period, a contract claim from 2000 would have expired by 2006. Reuben's claim is extinguished regardless of which Act applies.",
+    "why_B_wrong": "The Limitations Act, 2002 does contain transitional provisions that apply to pre-existing claims. The claim is not preserved simply because it arose before 2004.",
+    "why_C_wrong": "This IS the correct answer. Under either the former or current limitations regime, Reuben's claim is long statute-barred and extinguished.",
+    "why_D_wrong": "Acknowledgment of a debt can restart a limitation period only if it is made while the limitation period is still running. Once a claim is extinguished, acknowledgment cannot revive it.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 2 — Limitation Periods",
+      "heading": "The Basic Two-Year Limitation Period",
+      "page": "N/A",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 4; transitional provisions"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "pre-2004",
+      "transitional",
+      "extinguished",
+      "acknowledgment",
+      "retroactive"
+    ],
+    "tested_concepts": [
+      "transitional provisions",
+      "claim extinguished",
+      "acknowledgment must occur during running period"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-02-basic-lim-005",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "two_year_period",
+    "subtopic_heading": "The Basic Two-Year Limitation Period",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Farah loaned $25,000 to her sister Leila on January 15, 2020, repayable on demand. Farah made a written demand for repayment on March 1, 2023. Leila did not repay the loan.",
+    "call_of_question": "What is the last day Farah may commence a court proceeding to recover the loan?",
+    "options": {
+      "A": "January 15, 2022",
+      "B": "March 1, 2025",
+      "C": "There is no limitation period because this is a family loan.",
+      "D": "January 15, 2025"
+    },
+    "correct_answer": "B",
+    "explanation": "For demand obligations, the discoverability provisions of s. 5 of the Limitations Act, 2002 operate so that the limitation period begins to run when demand is made (and not paid), because it is only at that point that the claimant knows a proceeding would be an appropriate means to seek to remedy the failure. Farah made demand on March 1, 2023; two years from that date is March 1, 2025.",
+    "why_A_wrong": "January 15, 2022 is two years after the loan was made. For demand loans, the limitation period does not run from the date of the loan but from the date demand is made.",
+    "why_B_wrong": "This IS the correct answer. The two-year limitation period for a demand obligation begins when demand is made and refused. Demand was made March 1, 2023, so the period expires March 1, 2025.",
+    "why_C_wrong": "The Limitations Act, 2002 contains no exception for family loans. The general two-year limitation period applies.",
+    "why_D_wrong": "January 15, 2025 is two years from the loan date, not from the demand date. For demand obligations, the clock runs from the date of demand.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 2 — Limitation Periods",
+      "heading": "The Basic Two-Year Limitation Period",
+      "page": "N/A",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, ss. 4, 5"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "demand loan",
+      "repayable on demand",
+      "last day",
+      "family loan"
+    ],
+    "tested_concepts": [
+      "demand obligations",
+      "limitation period starts from demand",
+      "s. 5 discoverability"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-02-discov-001",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "discoverability",
+    "subtopic_heading": "Discoverability — When a Claim is Discovered",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Marco fell from scaffolding at a construction site on May 1, 2022 and was hospitalized with serious injuries. He knew immediately that the contractor had erected the scaffolding and that the fall had caused his injuries. He was not aware until January 10, 2024 that the contractor had violated OSHA regulations.",
+    "call_of_question": "On what date was Marco's claim against the contractor 'discovered' for the purposes of the Limitations Act, 2002?",
+    "options": {
+      "A": "May 1, 2022",
+      "B": "January 10, 2024",
+      "C": "The date his lawyer first advised him to sue",
+      "D": "The date an OSHA investigation report was issued"
+    },
+    "correct_answer": "A",
+    "explanation": "Under s. 5(1) of the Limitations Act, 2002, a claim is discovered on the day the person first knew or ought to have known: (a) the injury occurred; (b) the injury was caused by the act or omission of the defendant; (c) the identity of the defendant; and (d) that a proceeding would be an appropriate means to remedy the harm. Marco knew all four elements on May 1, 2022: he was injured, the contractor caused his injury, he knew the contractor's identity, and a proceeding was appropriate. Knowledge of a specific OSHA violation is not a required element of discovery.",
+    "why_A_wrong": "This IS the correct answer. All four elements of s. 5(1) were satisfied on May 1, 2022 — Marco knew the injury, the cause, the defendant's identity, and that a proceeding was appropriate.",
+    "why_B_wrong": "Knowledge of OSHA regulatory violations is not a required element of s. 5(1) discovery. Marco knew enough on May 1, 2022 to satisfy all four branches.",
+    "why_C_wrong": "Legal advice is not a prescribed element of s. 5(1) discovery. The date a lawyer advises a client to sue does not determine when the claim was discovered.",
+    "why_D_wrong": "An OSHA investigation report is not required under s. 5(1). Marco already had knowledge of all relevant elements on the date of the fall.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 2 — Limitation Periods",
+      "heading": "Discoverability — Section 5",
+      "page": "N/A",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 5(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "discovered",
+      "s. 5",
+      "discoverability",
+      "OSHA",
+      "knew"
+    ],
+    "tested_concepts": [
+      "s. 5(1) four-part discovery test",
+      "OSHA violation not a discovery element",
+      "date of discovery"
+    ],
+    "estimated_time_seconds": 80,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-02-discov-002",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "discoverability",
+    "subtopic_heading": "Discoverability — When a Claim is Discovered",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Nadia underwent abdominal surgery in February 2020. She recovered and had no reason to suspect anything was wrong. In March 2023, she began experiencing severe pain. A specialist informed her in March 2023 that a surgical sponge had been left inside her during the 2020 surgery and was the cause of her pain. She had no reason to suspect a problem before March 2023.",
+    "call_of_question": "When was Nadia's medical malpractice claim 'discovered' for the purposes of the Limitations Act, 2002?",
+    "options": {
+      "A": "February 2020, when the surgery was performed and the sponge was left inside her",
+      "B": "March 2023, when she first knew that her injury was caused by the surgeon's act or omission",
+      "C": "The date the surgical sponge was inserted, because the act occurred then",
+      "D": "Six years after the surgery, under the former limitation period for medical malpractice"
+    },
+    "correct_answer": "B",
+    "explanation": "Under s. 5(1)(b) of the Limitations Act, 2002, a claim is not discovered until the claimant knew or ought to have known that the injury was caused by an act or omission of the defendant. Nadia had no symptoms and no reason to investigate until March 2023. The s. 5(2) presumption (that the claim was discovered on the day of the act) is rebutted because she did not know and could not reasonably have known before March 2023. Discovery therefore occurred in March 2023.",
+    "why_A_wrong": "The s. 5(2) presumption that the claim was discovered on the date of the act is rebutted here. Nadia had no symptoms and no reason to suspect a problem in February 2020.",
+    "why_B_wrong": "This IS the correct answer. Nadia first knew the cause of her injury — the retained sponge — in March 2023, satisfying s. 5(1)(b).",
+    "why_C_wrong": "The date of the act and the date of discovery are the same when the claimant knows of the act. Here, Nadia did not know the sponge was left inside her until March 2023.",
+    "why_D_wrong": "The former six-year limitation period for most claims was abolished by the Limitations Act, 2002. The general two-year period applies, running from the date of discovery.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 2 — Limitation Periods",
+      "heading": "Discoverability — Section 5",
+      "page": "N/A",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, ss. 5(1), 5(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "medical malpractice",
+      "discovered",
+      "causation",
+      "s. 5(1)(b)"
+    ],
+    "tested_concepts": [
+      "s. 5(1)(b) causation element",
+      "rebutting s. 5(2) presumption",
+      "discovery in latent injury cases"
+    ],
+    "estimated_time_seconds": 95,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-02-discov-003",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "discoverability",
+    "subtopic_heading": "Discoverability — When a Claim is Discovered",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Obiageli was injured in a hit-and-run car accident in 2021. She knew immediately that she was injured and that a vehicle had struck her, but the driver fled the scene. Obiageli spent approximately eight months working with police and her insurer trying to identify the driver before she gave up. She finally identified the driver through a witness in July 2023.",
+    "call_of_question": "When did Obiageli's claim against the driver likely become 'discovered' under s. 5(1) of the Limitations Act, 2002?",
+    "options": {
+      "A": "The day of the accident in 2021, because she knew she was injured and that a vehicle caused the injury",
+      "B": "Eight months after the accident, when she stopped investigating, because she ought to have discovered the defendant's identity by then",
+      "C": "July 2023, when she actually identified the driver, because s. 5(1)(c) requires knowledge of the identity of the defendant",
+      "D": "She has no viable claim because she failed to sue within two years of the accident"
+    },
+    "correct_answer": "C",
+    "explanation": "Section 5(1)(c) of the Limitations Act, 2002 provides that a claim is not discovered until the claimant knows or ought to know the identity of the defendant. Obiageli could not have commenced proceedings against an unknown defendant. She diligently investigated and identified the driver in July 2023. Under s. 5(1)(c), discovery occurred when she identified the driver. She then has two years from July 2023 to commence her action.",
+    "why_A_wrong": "Knowing that injury occurred and that a vehicle caused it does not satisfy s. 5(1)(c), which requires knowledge of the defendant's identity. Obiageli did not know who the driver was in 2021.",
+    "why_B_wrong": "Simply stopping an investigation does not mean a claimant 'ought to have known' the defendant's identity if reasonable investigation did not reveal it. The objective standard considers what a reasonable person could discover with diligent effort.",
+    "why_C_wrong": "This IS the correct answer. Section 5(1)(c) requires knowledge of the defendant's identity, which was not obtained until July 2023.",
+    "why_D_wrong": "Section 5(1)(c) postpones discovery — and therefore the start of the two-year period — until the defendant's identity is known or ought to be known. Obiageli's claim is not necessarily extinguished.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 2 — Limitation Periods",
+      "heading": "Discoverability — Section 5",
+      "page": "N/A",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 5(1)(c)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "identity of defendant",
+      "s. 5(1)(c)",
+      "hit and run",
+      "discovered"
+    ],
+    "tested_concepts": [
+      "s. 5(1)(c) identity element",
+      "discovery postponed until defendant identified",
+      "objective 'ought to know' standard"
+    ],
+    "estimated_time_seconds": 110,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-02-discov-004",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "discoverability",
+    "subtopic_heading": "Discoverability — When a Claim is Discovered",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Gideon believed he was defrauded by his investment advisor in 2020 when his portfolio lost value through suspicious trades. He consulted a lawyer in 2020 who told him he had no case. Gideon did not investigate further. In 2024, a second lawyer reviewed the same facts and told Gideon he clearly had a strong fraud claim.",
+    "call_of_question": "Which statement best describes when Gideon's claim against the investment advisor was 'discovered' for the purposes of the Limitations Act, 2002?",
+    "options": {
+      "A": "2024, when the second lawyer confirmed he had a viable claim",
+      "B": "Likely 2020, because the 'ought to know' standard in s. 5(1) is objective and a reasonable person with Gideon's knowledge would have known enough to commence proceedings, despite the first lawyer's incorrect advice",
+      "C": "The date the first lawyer gave incorrect advice, which paused the running of the limitation period",
+      "D": "2026, because reliance on a lawyer's advice always suspends the limitation period"
+    },
+    "correct_answer": "B",
+    "explanation": "The discoverability standard in s. 5(1) of the Limitations Act, 2002 includes both a subjective and objective element: the claimant must know or ought to know the relevant facts. The 'ought to know' test is objective — it asks what a reasonable person with the claimant's abilities and circumstances would have known. Gideon was aware of the suspicious trades in 2020. A reasonable person in his position would have known enough to recognize that a proceeding was appropriate. Incorrect legal advice does not toll or suspend the limitation period. Discovery likely occurred in 2020, and the two-year period would have expired in 2022.",
+    "why_A_wrong": "Subjective confirmation by a lawyer that a claim exists is not the test. The objective 'ought to know' standard applies, and Gideon likely knew enough in 2020.",
+    "why_B_wrong": "This IS the correct answer. The objective standard in s. 5(1) applies regardless of incorrect legal advice; discovery likely occurred in 2020.",
+    "why_C_wrong": "Incorrect legal advice does not pause, toll, or suspend the running of a limitation period under the Limitations Act, 2002.",
+    "why_D_wrong": "There is no provision in the Limitations Act, 2002 that suspends the limitation period based on reliance on legal advice, whether correct or incorrect.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 2 — Limitation Periods",
+      "heading": "Discoverability — Section 5",
+      "page": "N/A",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 5(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "ought to know",
+      "objective standard",
+      "legal advice",
+      "fraud",
+      "discovered"
+    ],
+    "tested_concepts": [
+      "objective 'ought to know' standard",
+      "incorrect legal advice does not toll limitation",
+      "s. 5(1) discovery"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-02-discov-005",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "discoverability",
+    "subtopic_heading": "Discoverability — When a Claim is Discovered",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A defendant in a civil action argues that the plaintiff's claim is statute-barred because the alleged act or omission occurred more than two years ago. The plaintiff argues that she did not discover her claim until more recently.",
+    "call_of_question": "Who bears the burden of proving that the claim was discovered on a date later than the date the act or omission occurred?",
+    "options": {
+      "A": "The defendant must prove the claim was discovered on or before the date of the act or omission",
+      "B": "Neither party; the court determines the date of discovery independently based on the evidence",
+      "C": "The plaintiff, who must rebut the presumption in s. 5(2) of the Limitations Act, 2002 that the claim was discovered on the day the act or omission occurred",
+      "D": "The burden shifts between the parties depending on which party has better access to the relevant evidence"
+    },
+    "correct_answer": "C",
+    "explanation": "Section 5(2) of the Limitations Act, 2002 creates a presumption that a claim is presumed to have been discovered on the day the act or omission occurred. A plaintiff who wishes to rely on a later discovery date must rebut this presumption. The burden therefore rests on the plaintiff to establish that she did not know and could not reasonably have known the relevant facts on the earlier date.",
+    "why_A_wrong": "Section 5(2) creates a presumption favouring the defendant (i.e., that discovery occurred on the date of the act). The plaintiff must rebut it, not the defendant.",
+    "why_B_wrong": "Courts do not determine discovery independently without regard to who bears the burden. Section 5(2) expressly places the onus on the plaintiff to rebut the presumption.",
+    "why_C_wrong": "This IS the correct answer. The plaintiff bears the burden of rebutting the s. 5(2) presumption to establish a later discovery date.",
+    "why_D_wrong": "There is no shifting burden based on access to evidence in the Limitations Act, 2002. The statutory presumption places the burden squarely on the plaintiff.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 2 — Limitation Periods",
+      "heading": "Discoverability — Section 5",
+      "page": "N/A",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 5(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "burden of proof",
+      "s. 5(2)",
+      "presumption",
+      "discovery"
+    ],
+    "tested_concepts": [
+      "s. 5(2) presumption",
+      "plaintiff bears burden to rebut",
+      "date of discovery vs. act or omission"
+    ],
+    "estimated_time_seconds": 85,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23"
+  }
+]

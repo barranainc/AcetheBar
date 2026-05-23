@@ -1,0 +1,549 @@
+[
+  {
+    "id": "fam-03-nfp-formula-001",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 3,
+    "chapter_title": "Net Family Property and Equalization",
+    "topic_id": "nfp_equalization",
+    "topic_heading": "Net Family Property and Equalization Payment",
+    "subtopic_id": "nfp_formula",
+    "subtopic_heading": "The NFP Formula — Assets, Debts, Deductions",
+    "difficulty": "easy",
+    "fact_pattern": "On the valuation date, a husband has total assets of $300,000 and debts of $50,000. On the date of marriage he owned property worth $80,000 (not the matrimonial home) and had no debts at that time.",
+    "call_of_question": "What is the husband’s net family property?",
+    "options": {
+      "A": "The husband's NFP is $300,000",
+      "B": "The husband's NFP is $250,000",
+      "C": "The husband's NFP is $170,000",
+      "D": "The husband's NFP is $220,000"
+    },
+    "correct_answer": "C",
+    "explanation": "Under FLA s.4(1), net family property = (assets on valuation date) − (debts on valuation date) − (value of property other than the matrimonial home owned on the date of marriage, minus debts at marriage). Here: $300,000 − $50,000 − ($80,000 − $0) = $170,000.",
+    "why_A_wrong": "$300,000 ignores both the valuation-date debts and the marriage-date deduction; it simply states gross assets.",
+    "why_B_wrong": "$250,000 subtracts the $50,000 in debts but fails to apply the $80,000 marriage-date deduction required by s.4(1)(b).",
+    "why_C_wrong": "This IS the correct answer. $300,000 − $50,000 − $80,000 = $170,000 correctly applies the full s.4(1) formula.",
+    "why_D_wrong": "$220,000 deducts the $80,000 marriage-date property from the gross assets but does not subtract the $50,000 in valuation-date debts.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 3 — Net Family Property and Equalization",
+      "heading": "The NFP Formula",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "net family property",
+      "valuation date",
+      "marriage-date deduction",
+      "NFP formula"
+    ],
+    "tested_concepts": [
+      "NFP calculation",
+      "s.4(1) formula",
+      "marriage-date deduction",
+      "valuation-date debts"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "fam-03-nfp-formula-002",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 3,
+    "chapter_title": "Net Family Property and Equalization",
+    "topic_id": "nfp_equalization",
+    "topic_heading": "Net Family Property and Equalization Payment",
+    "subtopic_id": "nfp_formula",
+    "subtopic_heading": "The NFP Formula — Assets, Debts, Deductions",
+    "difficulty": "medium",
+    "fact_pattern": "At the date of marriage, the wife had savings of $40,000 and no debts. She spent the savings during the marriage on a vacation. On the valuation date her total assets are $200,000 and her debts are $30,000. The husband challenges whether the wife may still deduct the $40,000.",
+    "call_of_question": "Is the wife entitled to deduct the $40,000 marriage-date savings from her net family property even though the savings no longer exist?",
+    "options": {
+      "A": "No — the deduction is only available if the property still exists on the valuation date.",
+      "B": "No — she voluntarily dissipated the assets, forfeiting the deduction.",
+      "C": "Yes — FLA s.4(1)(b) deducts the value of property owned at the date of marriage regardless of whether that property still exists on the valuation date; the wife may deduct $40,000.",
+      "D": "Yes — but only if she can prove she would have retained the savings absent the marriage."
+    },
+    "correct_answer": "C",
+    "explanation": "The marriage-date deduction under FLA s.4(1)(b) is fixed at the value of property owned on the date of marriage. The FLA does not require the property to still exist at the valuation date, and there is no dissipation rule that forfeits the deduction. The wife may therefore deduct $40,000 in calculating her NFP.",
+    "why_A_wrong": "The deduction is based on the value at the date of marriage, not on whether the asset still exists at the valuation date. Continued existence is not a requirement.",
+    "why_B_wrong": "There is no statutory rule that forfeits the marriage-date deduction because the property was voluntarily spent during the marriage. The dissipation concept is distinct and does not override s.4(1)(b).",
+    "why_C_wrong": "This IS the correct answer. FLA s.4(1)(b) fixes the deduction at the value of property owned at the date of marriage, regardless of whether it still exists on the valuation date.",
+    "why_D_wrong": "No such counterfactual requirement exists in the FLA. The deduction is available as of right based on what was owned at marriage.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 3 — Net Family Property and Equalization",
+      "heading": "The NFP Formula",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "marriage-date deduction",
+      "property no longer exists",
+      "dissipation",
+      "NFP"
+    ],
+    "tested_concepts": [
+      "s.4(1)(b) marriage-date deduction",
+      "property existence requirement",
+      "dissipation rule (absence of)"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "id": "fam-03-nfp-formula-003",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 3,
+    "chapter_title": "Net Family Property and Equalization",
+    "topic_id": "nfp_equalization",
+    "topic_heading": "Net Family Property and Equalization Payment",
+    "subtopic_id": "nfp_formula",
+    "subtopic_heading": "The NFP Formula — Assets, Debts, Deductions",
+    "difficulty": "hard",
+    "fact_pattern": "During the marriage, the husband received an inheritance of $150,000. He deposited the entire amount into a joint bank account he shared with his wife, where it commingled with other family funds. On the valuation date, $80,000 remains in the account. The husband argues the inheritance is excluded property under FLA s.4(2)(c).",
+    "call_of_question": "Is the inheritance excluded from the husband’s net family property?",
+    "options": {
+      "A": "Yes — all inheritances received during the marriage are automatically excluded from NFP under s.4(2)(c) regardless of how they are held.",
+      "B": "No — inheritances are never excluded from NFP.",
+      "C": "Likely no — FLA s.4(2)(c) excludes property received by inheritance during the marriage, but only if it remains traceable; depositing the inheritance into a joint account with the spouse likely destroys the exclusion by commingling it with other assets.",
+      "D": "Yes — but only the original $150,000; growth or income earned on excluded property is included in NFP."
+    },
+    "correct_answer": "C",
+    "explanation": "FLA s.4(2)(c) excludes property received by gift or inheritance during the marriage, but the exclusion requires the property to be traceable. When excluded property is deposited into a joint account and commingled with other funds, traceability is typically lost, defeating the exclusion. The commingling issue must be resolved before any growth/income analysis under the last paragraph of s.4(2) becomes relevant.",
+    "why_A_wrong": "Inheritances are not automatically excluded regardless of how they are held. The exclusion under s.4(2)(c) requires the property to remain traceable; commingling destroys traceability.",
+    "why_B_wrong": "This overstates the rule. FLA s.4(2)(c) does permit exclusion of inheritances received during the marriage, subject to the traceability requirement.",
+    "why_C_wrong": "This IS the correct answer. The exclusion is available but requires traceability; commingling in a joint account defeats it.",
+    "why_D_wrong": "Option D presupposes the exclusion applies, but the commingling issue defeats the exclusion before any income/growth analysis is reached.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 3 — Net Family Property and Equalization",
+      "heading": "Excluded Property and Traceability",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(2)(c)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "inheritance",
+      "excluded property",
+      "commingling",
+      "traceability",
+      "joint account",
+      "s.4(2)"
+    ],
+    "tested_concepts": [
+      "s.4(2)(c) exclusion",
+      "traceability requirement",
+      "commingling",
+      "joint account"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "id": "fam-03-nfp-formula-004",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 3,
+    "chapter_title": "Net Family Property and Equalization",
+    "topic_id": "nfp_equalization",
+    "topic_heading": "Net Family Property and Equalization Payment",
+    "subtopic_id": "nfp_formula",
+    "subtopic_heading": "The NFP Formula — Assets, Debts, Deductions",
+    "difficulty": "exam_trap",
+    "fact_pattern": "The husband owned the matrimonial home before the marriage. On the date of marriage, the home was worth $200,000. On the valuation date, the home is worth $550,000. The husband seeks to deduct the $200,000 pre-marriage value from his NFP, arguing he brought that value into the marriage.",
+    "call_of_question": "Can the husband deduct the $200,000 pre-marriage value of the matrimonial home from his net family property?",
+    "options": {
+      "A": "Yes — the marriage-date deduction applies to all property including the matrimonial home.",
+      "B": "Yes — he may deduct $200,000 because he owned the home before the marriage.",
+      "C": "No — under FLA s.4(1)(b), the marriage-date deduction applies to all property ‘other than a matrimonial home’; the matrimonial home cannot be deducted even if owned before marriage, so the full value of $550,000 is included in the husband’s NFP without the marriage deduction.",
+      "D": "Yes — he may deduct $200,000 because only the appreciation during the marriage should be shared."
+    },
+    "correct_answer": "C",
+    "explanation": "FLA s.4(1)(b) expressly carves out the matrimonial home from the marriage-date deduction. The formula reads: deduct the value of property owned at the date of marriage ‘other than a matrimonial home.’ This means that even if a spouse owned the matrimonial home before marriage, no deduction is available for its pre-marriage value. The entire $550,000 is included in the husband’s NFP.",
+    "why_A_wrong": "The matrimonial home is expressly excluded from the marriage-date deduction by the words ‘other than a matrimonial home’ in s.4(1)(b). The deduction does not apply to the matrimonial home.",
+    "why_B_wrong": "Pre-marriage ownership of the matrimonial home does not give rise to a marriage-date deduction. FLA s.4(1)(b) specifically prevents this deduction for the matrimonial home.",
+    "why_C_wrong": "This IS the correct answer. FLA s.4(1)(b) excludes the matrimonial home from the marriage-date deduction; the full $550,000 enters NFP.",
+    "why_D_wrong": "The policy argument that only appreciation should be shared is understandable, but the FLA drafts the rule categorically: the matrimonial home receives no marriage-date deduction regardless of pre-marital ownership.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 3 — Net Family Property and Equalization",
+      "heading": "Matrimonial Home Exception to Marriage-Date Deduction",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(1)(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "matrimonial home",
+      "marriage-date deduction",
+      "pre-marriage ownership",
+      "NFP",
+      "s.4(1)(b)"
+    ],
+    "tested_concepts": [
+      "matrimonial home exception to marriage-date deduction",
+      "s.4(1)(b)",
+      "NFP formula"
+    ],
+    "estimated_time_seconds": 180
+  },
+  {
+    "id": "fam-03-nfp-formula-005",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 3,
+    "chapter_title": "Net Family Property and Equalization",
+    "topic_id": "nfp_equalization",
+    "topic_heading": "Net Family Property and Equalization Payment",
+    "subtopic_id": "nfp_formula",
+    "subtopic_heading": "The NFP Formula — Assets, Debts, Deductions",
+    "difficulty": "medium",
+    "fact_pattern": "On the valuation date, the wife’s NFP calculates to negative $30,000 because her debts exceed her assets. The husband’s NFP is $200,000. The parties dispute the equalization payment.",
+    "call_of_question": "What equalization payment is payable and by whom?",
+    "options": {
+      "A": "The wife pays the husband $15,000 (one-half of the negative NFP).",
+      "B": "No equalization payment is payable because the wife has no positive NFP.",
+      "C": "The husband pays the wife $100,000 — the wife’s NFP is treated as zero under FLA s.4(5) because NFP cannot fall below zero; the equalization payment is ($200,000 − $0) ÷ 2 = $100,000.",
+      "D": "The husband pays the wife $115,000 (one-half of $200,000 minus $30,000)."
+    },
+    "correct_answer": "C",
+    "explanation": "FLA s.4(5) provides that if the application of the NFP formula would result in a negative amount, the amount is deemed to be zero. The wife’s NFP is therefore $0, not −$30,000. The equalization payment under s.5(1) is one-half of the difference between the spouses’ NFPs: ($200,000 − $0) ÷ 2 = $100,000, payable by the husband to the wife.",
+    "why_A_wrong": "The wife does not owe the husband money. NFP cannot be negative under s.4(5); the equalization payment flows from the higher-NFP spouse to the lower-NFP spouse.",
+    "why_B_wrong": "Equalization is calculated on the difference between the two NFPs. Treating the wife’s NFP as zero (per s.4(5)) still produces a difference of $200,000, entitling the wife to a payment.",
+    "why_C_wrong": "This IS the correct answer. s.4(5) floors the wife’s NFP at zero; the husband pays the wife ($200,000 − $0) ÷ 2 = $100,000.",
+    "why_D_wrong": "$115,000 uses the negative NFP figure (−$30,000) in the calculation, which is impermissible; s.4(5) treats any negative NFP as zero.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 3 — Net Family Property and Equalization",
+      "heading": "Equalization Payment and NFP Floor",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(5) and s. 5(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "negative NFP",
+      "NFP floor",
+      "equalization payment",
+      "s.4(5)",
+      "s.5(1)"
+    ],
+    "tested_concepts": [
+      "NFP cannot be negative",
+      "s.4(5) floor",
+      "equalization payment calculation"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "id": "fam-03-deduct-marr-001",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 3,
+    "chapter_title": "Net Family Property and Equalization",
+    "topic_id": "nfp_equalization",
+    "topic_heading": "Net Family Property and Equalization Payment",
+    "subtopic_id": "deductions_at_marriage",
+    "subtopic_heading": "Property Owned at Date of Marriage — Deduction",
+    "difficulty": "easy",
+    "fact_pattern": "A husband and wife are calculating their respective NFPs on separation. Both owned property at the date of marriage. The husband asks why the FLA allows a deduction for property owned at the date of marriage.",
+    "call_of_question": "What is the purpose of the marriage-date deduction in the NFP formula?",
+    "options": {
+      "A": "To penalize spouses who entered the marriage with greater wealth.",
+      "B": "To ensure that only wealth accumulated during the marriage is subject to equalization on breakdown, not pre-marital assets.",
+      "C": "To ensure both spouses have equal NFP at the end of the marriage.",
+      "D": "To prevent the non-owning spouse from making any claim against property owned before the marriage date."
+    },
+    "correct_answer": "B",
+    "explanation": "The marriage-date deduction reflects the legislative intent that equalization should share only the wealth accumulated during the marriage through the combined efforts and shared life of the spouses. Property owned before the marriage represents the individual wealth each spouse brought in, which is not intended to be shared through the equalization regime.",
+    "why_A_wrong": "The deduction has no punitive purpose. It equally reduces the NFP of any spouse who owned property at marriage, regardless of their relative wealth.",
+    "why_B_wrong": "This IS the correct answer. The deduction ensures equalization captures only marital accumulation, not pre-marital wealth.",
+    "why_C_wrong": "The deduction does not equalize the spouses’ NFPs; it reduces each spouse’s NFP by their own pre-marital property. The resulting NFPs will differ if marital accumulations differ.",
+    "why_D_wrong": "The non-owning spouse has no claim against the other’s pre-marital property in any case. The deduction operates within the NFP formula to reduce the equalization base; it is not a bar to claims.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 3 — Net Family Property and Equalization",
+      "heading": "Property Owned at Date of Marriage",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(1)(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "marriage-date deduction",
+      "purpose",
+      "equalization",
+      "pre-marital assets"
+    ],
+    "tested_concepts": [
+      "purpose of marriage-date deduction",
+      "equalization of marital accumulation"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "fam-03-deduct-marr-002",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 3,
+    "chapter_title": "Net Family Property and Equalization",
+    "topic_id": "nfp_equalization",
+    "topic_heading": "Net Family Property and Equalization Payment",
+    "subtopic_id": "deductions_at_marriage",
+    "subtopic_heading": "Property Owned at Date of Marriage — Deduction",
+    "difficulty": "medium",
+    "fact_pattern": "On the date of marriage, the wife owned a car worth $18,000 and RRSP savings of $32,000, with no debts. By the valuation date, the car is worth $0 (it was scrapped years ago) and the RRSP has grown to $75,000. The wife claims a marriage-date deduction.",
+    "call_of_question": "What is the wife’s marriage-date deduction under FLA s.4(1)(b)?",
+    "options": {
+      "A": "$32,000 — only the RRSP value at marriage, since the car no longer exists.",
+      "B": "$75,000 — the current value of the RRSP.",
+      "C": "$50,000 — the total value of property owned at the date of marriage ($18,000 car + $32,000 RRSP), regardless of whether those assets still exist on the valuation date.",
+      "D": "$0 — because the car no longer exists, no deduction is available."
+    },
+    "correct_answer": "C",
+    "explanation": "FLA s.4(1)(b) deducts the value of property other than the matrimonial home that was owned on the date of marriage, calculated at its marriage-date value. Neither the continued existence of the asset nor its current value is relevant. The wife deducts $18,000 (car) + $32,000 (RRSP) = $50,000.",
+    "why_A_wrong": "The car’s non-existence on the valuation date is irrelevant. The deduction is calculated at marriage-date values, and the car was worth $18,000 at marriage, so it counts.",
+    "why_B_wrong": "$75,000 reflects the current RRSP value, not the marriage-date value of $32,000. The deduction uses marriage-date values, not current values.",
+    "why_C_wrong": "This IS the correct answer. $18,000 + $32,000 = $50,000, based on values at the date of marriage.",
+    "why_D_wrong": "The car’s destruction does not eliminate the $18,000 marriage-date deduction. The deduction is fixed at the date of marriage.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 3 — Net Family Property and Equalization",
+      "heading": "Property Owned at Date of Marriage",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(1)(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "marriage-date deduction",
+      "property no longer exists",
+      "RRSP",
+      "valuation date",
+      "s.4(1)(b)"
+    ],
+    "tested_concepts": [
+      "marriage-date deduction calculation",
+      "asset existence irrelevant",
+      "marriage-date values"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "id": "fam-03-deduct-marr-003",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 3,
+    "chapter_title": "Net Family Property and Equalization",
+    "topic_id": "nfp_equalization",
+    "topic_heading": "Net Family Property and Equalization Payment",
+    "subtopic_id": "deductions_at_marriage",
+    "subtopic_heading": "Property Owned at Date of Marriage — Deduction",
+    "difficulty": "hard",
+    "fact_pattern": "During the marriage, the husband received a gift of $50,000 from his parents. He used the entire gift to pay down the mortgage on the matrimonial home. On the valuation date, he claims $50,000 as excluded property under FLA s.4(2)(c).",
+    "call_of_question": "Can the husband exclude the $50,000 gift from his net family property?",
+    "options": {
+      "A": "Yes — all gifts received during the marriage are excluded under s.4(2)(c) regardless of how they are used.",
+      "B": "Yes — but only if the husband can prove the gift was received from his parents.",
+      "C": "No — once the gift was used to pay down the mortgage on the matrimonial home (which itself cannot be deducted), the gift value is absorbed into the home’s equity and cannot be separately excluded; the home’s full value enters NFP without deduction.",
+      "D": "Yes — but only the original $50,000; any appreciation in the home attributable to the gift is included in NFP."
+    },
+    "correct_answer": "C",
+    "explanation": "FLA s.4(2)(c) excludes property received by gift during the marriage, but the exclusion applies to the property itself in its traceable form. When the gift money was used to pay down the mortgage on the matrimonial home, it became equity in the home. The matrimonial home cannot receive a marriage-date deduction (s.4(1)(b)), and its full value enters NFP. The gift, once absorbed into the home’s equity, loses its identifiable excluded character and cannot be separately carved out.",
+    "why_A_wrong": "Gifts are not automatically excluded in all circumstances. The exclusion requires the property to remain identifiable and traceable. Using the gift to pay down the matrimonial home mortgage means it is absorbed into the home’s equity, losing its excluded status.",
+    "why_B_wrong": "The provenance of the gift is not the only issue. Even if proven to have come from the husband’s parents, the gift lost its excluded character by being applied to the matrimonial home mortgage.",
+    "why_C_wrong": "This IS the correct answer. The gift absorbed into matrimonial home equity cannot be separately excluded, consistent with the rule that the matrimonial home receives no marriage-date deduction.",
+    "why_D_wrong": "Option D presupposes the exclusion applies. But the commingling of the gift with the matrimonial home defeats the exclusion before any apportionment of appreciation becomes relevant.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 3 — Net Family Property and Equalization",
+      "heading": "Excluded Property — Gifts and Matrimonial Home Interaction",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(2)(c) and s. 4(1)(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "gift exclusion",
+      "matrimonial home",
+      "mortgage paydown",
+      "excluded property",
+      "traceability"
+    ],
+    "tested_concepts": [
+      "s.4(2)(c) gift exclusion",
+      "matrimonial home no deduction",
+      "absorbed into home equity"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "id": "fam-03-deduct-marr-004",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 3,
+    "chapter_title": "Net Family Property and Equalization",
+    "topic_id": "nfp_equalization",
+    "topic_heading": "Net Family Property and Equalization Payment",
+    "subtopic_id": "deductions_at_marriage",
+    "subtopic_heading": "Property Owned at Date of Marriage — Deduction",
+    "difficulty": "exam_trap",
+    "fact_pattern": "The husband’s parents gave him $100,000 at the time of marriage. The gift deed expressly stated that any income earned on the gift was also to be excluded from the husband’s NFP. During the marriage, the husband invested the $100,000 and it earned $40,000 in dividends. On the valuation date the account holds $165,000 (original $100,000 plus $40,000 dividends plus $25,000 in capital gains).",
+    "call_of_question": "What amount may the husband exclude from his net family property?",
+    "options": {
+      "A": "Nothing — gifts received at the time of marriage are not gifts received ‘during’ the marriage.",
+      "B": "$100,000 only — income on excluded property is always included in NFP regardless of what the donor states.",
+      "C": "$140,000 — the original $100,000 gift plus the $40,000 in dividends, because FLA s.4(2) provides that income on excluded property is also excluded where the donor expressly states it; the gift deed did so here.",
+      "D": "$165,000 — the entire account is excluded because the initial contribution was a qualifying gift."
+    },
+    "correct_answer": "C",
+    "explanation": "FLA s.4(2) excludes gifts and inheritances received during the marriage, and its final paragraph provides that income from excluded property is also excluded ‘if the donor or testator expressly provides.’ The gift deed here expressly excluded income, so the $40,000 in dividends is excluded along with the $100,000 principal. The $25,000 in capital gains is not identified as ‘income’ in the same sense and would likely not qualify unless the deed also addressed capital appreciation; on exam facts as given, $140,000 is the excludable amount.",
+    "why_A_wrong": "Gifts made at the time of marriage (i.e., in contemplation of marriage or on the wedding day) are generally treated as gifts received during the marriage for s.4(2) purposes. This argument would not typically succeed.",
+    "why_B_wrong": "FLA s.4(2) final paragraph expressly allows income on excluded property to also be excluded where the donor provides for this. Option B misstates the law.",
+    "why_C_wrong": "This IS the correct answer. $100,000 (gift) + $40,000 (income expressly excluded by donor) = $140,000.",
+    "why_D_wrong": "$165,000 would include the $25,000 in capital gains. Capital gains may not qualify as ‘income’ under s.4(2) unless the deed specifically addressed capital appreciation, which the facts do not establish.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 3 — Net Family Property and Equalization",
+      "heading": "Excluded Property — Income on Gifts",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "gift exclusion",
+      "income on excluded property",
+      "donor expressly provides",
+      "s.4(2)",
+      "dividends"
+    ],
+    "tested_concepts": [
+      "s.4(2) income exclusion on gifts",
+      "donor express provision",
+      "capital gains vs income distinction"
+    ],
+    "estimated_time_seconds": 180
+  },
+  {
+    "id": "fam-03-deduct-marr-005",
+    "subject": "family_law",
+    "question_type": "single_best_answer",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-23",
+    "updated_at": "2026-05-23",
+    "chapter_number": 3,
+    "chapter_title": "Net Family Property and Equalization",
+    "topic_id": "nfp_equalization",
+    "topic_heading": "Net Family Property and Equalization Payment",
+    "subtopic_id": "deductions_at_marriage",
+    "subtopic_heading": "Property Owned at Date of Marriage — Deduction",
+    "difficulty": "medium",
+    "fact_pattern": "Husband and wife both owned property at the date of marriage: the husband owned a portfolio worth $120,000 and the wife owned a car and savings totalling $45,000. Neither held the matrimonial home at marriage. They separate 12 years later and both claim the marriage-date deduction.",
+    "call_of_question": "Is the marriage-date deduction available to both spouses?",
+    "options": {
+      "A": "No — only the higher-earning spouse is entitled to the marriage-date deduction.",
+      "B": "No — the marriage-date deduction is available only to the spouse who initiates the equalization claim.",
+      "C": "Yes — each spouse independently calculates their own NFP; each is entitled to deduct from their own NFP the value of non-matrimonial-home property they owned at the date of marriage.",
+      "D": "No — the deduction is shared between the spouses and cannot be claimed by both simultaneously."
+    },
+    "correct_answer": "C",
+    "explanation": "FLA s.4(1) requires each spouse to calculate their own NFP independently using the formula. The marriage-date deduction is applied by each spouse against their own pre-marital assets. There is no rule limiting the deduction to only one spouse, to the higher earner, or to the party initiating the claim. Each spouse deducts their own marriage-date property from their own NFP.",
+    "why_A_wrong": "The FLA does not tie the deduction to income level. Each spouse applies the deduction based on what they individually owned at the date of marriage.",
+    "why_B_wrong": "The deduction is not a litigation tool limited to the claimant. Both spouses calculate their own NFP; the equalization payment flows from whichever spouse has the higher NFP to the other.",
+    "why_C_wrong": "This IS the correct answer. Each spouse independently claims the deduction for their own marriage-date assets.",
+    "why_D_wrong": "The marriage-date deduction is not a shared pool. Each spouse applies it to their own NFP calculation independently.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Family Law",
+      "chapter": "Chapter 3 — Net Family Property and Equalization",
+      "heading": "Property Owned at Date of Marriage",
+      "page": "N/A",
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(1)(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "marriage-date deduction",
+      "both spouses",
+      "independent calculation",
+      "NFP"
+    ],
+    "tested_concepts": [
+      "independent NFP calculation per spouse",
+      "marriage-date deduction availability"
+    ],
+    "estimated_time_seconds": 120
+  }
+]
