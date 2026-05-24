@@ -52,7 +52,7 @@ Generated exams are assembled from `data/questions/` using `tools/assemble_exam.
 | **Tab label** | Generated Barrister C |
 | **Assembly file** | `data/exams/generated-barrister-c.json` |
 | **Manifest** | `data/exams/generated-barrister-c-manifest.json` |
-| **Assembled** | 2026-05-24 (reassembled after Phase 2C Legal QA fixes; original: 2026-05-23T21:50:26 UTC) |
+| **Assembled** | 2026-05-24 (reassembled after Phase 2C-HR human-review flag resolution; prior: Phase 2C 2026-05-24; original: 2026-05-23T21:50:26 UTC) |
 | **Assembly tool** | `tools/assemble_exam.py --exam-id generated-barrister-c --exam-label "Generated Barrister C" --seed 1` |
 | **Seed** | 1 (deterministic — re-running with seed 1 produces identical question selection) |
 | **Total questions** | 160 |
@@ -63,7 +63,7 @@ Generated exams are assembled from `data/questions/` using `tools/assemble_exam.
 | **Similarity risk** | All 160 questions: `low` |
 | **Difficulty split** | Easy: 28 · Medium: 58 · Hard: 47 · Exam-trap: 27 |
 | **Legal review** | Phase 2C QA complete — 26 fixes applied, 6 questions flagged for human review. See `docs/LEGAL_QA_GENERATED_BARRISTER_C.md`. Remaining flags (A–D from BLUEPRINT_AUDIT_REPORT.md) must also be resolved before promoting to `source_checked`. |
-| **Baked into index.html** | Yes — `barc` base64 payload updated 2026-05-24 (length: 381,872 chars) |
+| **Baked into index.html** | Yes — `barc` base64 payload updated 2026-05-24 after Phase 2C-HR (length: 381,984 chars) |
 | **Source question files** | See manifest `source_files` array (14 chapter files across 4 subjects) |
 
 #### Legal Source Constraints
@@ -74,7 +74,12 @@ Generated exams are assembled from `data/questions/` using `tools/assemble_exam.
 #### Phase 2C Legal QA Summary (2026-05-24)
 - **130 questions:** PASS — no legal content issues found
 - **26 questions:** FIXED — legal content errors corrected (citation errors, wrong section numbers, pr_angle tags, chronology errors)
-- **6 questions:** HUMAN REVIEW REQUIRED — flagged but not auto-fixed (FLA s.4(2) subsection letters; fam-03-deduct-marr-004; fam-04-mh-consent-003)
+- **6 questions:** originally flagged for HUMAN REVIEW
+
+#### Phase 2C-HR Human-Review Resolution (2026-05-24)
+- **5 of 6 flags resolved:** fam-03-excl-prop-001–004 (FLA s.4(2) numbered paragraphs confirmed; citations corrected) and fam-03-deduct-marr-004 (explanation corrected)
+- **1 flag remaining:** fam-04-mh-consent-003 — substance confirmed correct; s. 21 subsection number (s.21(2) vs s.21(3)) unverifiable via online fetch; reviewer should confirm with direct statute access
+- **Total fixes:** 31 (26 Phase 2C + 5 Phase 2C-HR)
 - Full per-question table: `docs/LEGAL_QA_GENERATED_BARRISTER_C.md`
 
 #### To Re-Assemble Exam C

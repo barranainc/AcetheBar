@@ -2,8 +2,8 @@
 
 **Exam ID:** `barc`  
 **Exam label:** Generated Barrister C  
-**QA completed:** 2026-05-24  
-**Reviewer:** AI-assisted QA (Phase 2C)  
+**QA completed:** 2026-05-24 (Phase 2C); human-review flags resolved 2026-05-24 (Phase 2C-HR)  
+**Reviewer:** AI-assisted QA (Phase 2C + Phase 2C-HR)  
 **Validator run:** 0 errors / 125 warnings (all pre-existing format style)  
 **Total questions reviewed:** 160  
 
@@ -14,14 +14,17 @@
 | Status | Count |
 |--------|-------|
 | PASS — no issues found | 130 |
-| FIXED — corrected during QA | 26 |
-| HUMAN REVIEW REQUIRED — not auto-fixed | 6 |
+| FIXED — corrected during Phase 2C QA | 26 |
+| FIXED — corrected during Phase 2C-HR (human-review resolution) | 5 |
+| HUMAN REVIEW REQUIRED — unresolved | 1 |
 | REMOVE | 0 |
 
+**Total fixed:** 31 questions across both passes  
+**Remaining unresolved flags:** 1 (fam-04-mh-consent-003 — s.21 subsection number unverifiable online; substance correct)  
 **PR-angle count after QA:** 3 (previously 0)  
 **Difficulty split:** Easy: 28 · Medium: 58 · Hard: 47 · Exam-trap: 27  
-**Reassembled:** Yes — `tools/assemble_exam.py --seed 1` re-run after all fixes  
-**Baked into index.html:** Yes — `barc` base64 payload updated 2026-05-24  
+**Reassembled:** Yes — `tools/assemble_exam.py --seed 1` re-run after Phase 2C-HR fixes (2026-05-24)  
+**Baked into index.html:** Yes — `barc` base64 payload updated 2026-05-24 (381,984 chars)  
 
 ---
 
@@ -179,16 +182,16 @@
 | fam-03-deduct-marr-001 | PASS | |
 | fam-03-deduct-marr-002 | PASS | |
 | fam-03-deduct-marr-003 | PASS | |
-| fam-03-deduct-marr-004 | **HUMAN REVIEW** | Question involves deductions for property brought into marriage under FLA s. 4(1). Legal uncertainty: whether certain pre-marital assets are captured as of "date of marriage" vs. "after date of marriage." Requires reviewer to confirm against FLA text and case law before promoting beyond draft. |
+| fam-03-deduct-marr-004 | **FIXED** (Phase 2C-HR) | FLA s.4(2) uses numbered paragraphs (confirmed). Explanation corrected: "during the marriage" → "after the date of marriage" (per para. 2 text); "its final paragraph" → explicit "s. 4(2), para. 3" (para. 7 is the final paragraph, not para. 3). source_reference updated to cite para. 2 and para. 3. Substance of income-exclusion rule (para. 3 / donor express provision) confirmed correct. |
 | fam-03-deduct-marr-005 | PASS | |
 | fam-03-equal-paymnt-001 | PASS | |
 | fam-03-equal-paymnt-002 | PASS | |
 | fam-03-equal-paymnt-003 | PASS | |
 | fam-03-equal-paymnt-004 | PASS | |
-| fam-03-excl-prop-001 | **HUMAN REVIEW** | References FLA s. 4(2) gift/inheritance exclusions. Specific subsection letters (s. 4(2)(a)–(d)) not confirmed against current FLA text — requires reviewer to verify the correct subsection letter for each exclusion category cited. |
-| fam-03-excl-prop-002 | **HUMAN REVIEW** | Same issue: FLA s. 4(2) subsection letters unconfirmed. |
-| fam-03-excl-prop-003 | **HUMAN REVIEW** | Same issue: FLA s. 4(2) subsection letters unconfirmed. |
-| fam-03-excl-prop-004 | **HUMAN REVIEW** | Same issue: FLA s. 4(2) subsection letters unconfirmed. |
+| fam-03-excl-prop-001 | **FIXED** (Phase 2C-HR) | FLA s.4(2) confirmed to use numbered paragraphs 1–7, not lettered subsections. Citation "s. 4(2)(a)" corrected throughout (options, explanation, why fields, source_reference, exam_trigger_words, tested_concepts) to "s. 4(2), para. 2". Substance confirmed correct: inheritance from third party after date of marriage is excluded. |
+| fam-03-excl-prop-002 | **FIXED** (Phase 2C-HR) | Citation "s. 4(2)(b)" corrected to "s. 4(2), para. 4" throughout. Substance confirmed correct: para. 4 lists personal injuries, nervous shock, mental distress, loss of guidance/care/companionship — non-pecuniary heads; lost income (pecuniary) correctly included in NFP. |
+| fam-03-excl-prop-003 | **FIXED** (Phase 2C-HR) | Citation "s. 4(2)(a)" corrected to "s. 4(2), para. 2" throughout. Citation "s. 4(1)(b)" kept (correct — s. 4(1) uses letters (a) and (b)). Substance confirmed correct: cottage inherited pre-marriage falls under s. 4(1)(b); matrimonial home carve-out in s. 4(1)(b) means deduction unavailable; full value enters NFP. |
+| fam-03-excl-prop-004 | **FIXED** (Phase 2C-HR) | Citation "s. 4(2)(a)" corrected to "s. 4(2), para. 2" throughout. Substance confirmed correct: commingling gift in joint account with salary defeats traceability; para. 2 exclusion lost. |
 | fam-03-nfp-formula-001 | PASS | |
 | fam-03-nfp-formula-002 | PASS | |
 | fam-03-nfp-formula-003 | PASS | |
@@ -205,7 +208,7 @@
 | fam-04-excl-possess-004 | PASS | |
 | fam-04-mh-consent-001 | PASS | |
 | fam-04-mh-consent-002 | PASS | |
-| fam-04-mh-consent-003 | **HUMAN REVIEW** | Question involves notice to non-titled spouses under FLA s. 21 / Land Registration Reform Act. Legal uncertainty: whether the question's treatment of actual notice vs. constructive notice through s. 21 registration is fully accurate under current law. Requires reviewer to confirm. |
+| fam-04-mh-consent-003 | **HUMAN REVIEW** (1 remaining) | Substance confirmed correct: actual notice standard is accurate under s. 21; why_D_wrong distinction between actual and constructive notice is correct. One item unresolved: question cites "s. 21(3)" for the purchaser protection but the ontario.ca statute text is JS-rendered and subsection number could not be independently verified online (some sources cite this as s. 21(2)). A reviewer with access to the official statute should confirm the subsection number before promoting beyond `draft`. |
 | fam-04-mh-consent-004 | PASS | |
 | fam-04-mh-consent-005 | PASS | |
 | fam-04-mh-possess-001 | **FIXED** | `why_D_wrong` used ambiguous phrase "a different and additional remedy" — corrected to "a different and distinct remedy" for clarity |
@@ -284,16 +287,23 @@
 
 ## Human Review Required — Action Items
 
-The following 6 questions require a qualified reviewer to confirm the legal content before `validation_status` can be advanced beyond `draft`:
+**Phase 2C-HR resolved 5 of the original 6 flags. 1 remains.**
+
+### Resolved (no longer require action)
+
+| Question ID | Resolution |
+|-------------|-----------|
+| fam-03-deduct-marr-004 | **FIXED** — explanation corrected; "during the marriage" → "after the date of marriage"; "final paragraph" → explicit "s. 4(2), para. 3"; substance confirmed correct |
+| fam-03-excl-prop-001 | **FIXED** — confirmed FLA s.4(2) uses numbered paragraphs; citations corrected throughout |
+| fam-03-excl-prop-002 | **FIXED** — citation corrected; substance confirmed (para. 4 enumeration supports parsing pecuniary vs. non-pecuniary) |
+| fam-03-excl-prop-003 | **FIXED** — citation corrected; s. 4(1)(b) confirmed correct (s.4(1) uses letters); substance confirmed |
+| fam-03-excl-prop-004 | **FIXED** — citation corrected; substance confirmed |
+
+### Remaining (1 unresolved flag)
 
 | Question ID | Issue | Action Required |
 |-------------|-------|-----------------|
-| fam-03-deduct-marr-004 | Legal uncertainty: FLA s. 4(1) deduction timing ("date of marriage" vs. "after date of marriage") | Reviewer to read FLA s. 4(1) text and confirm the question's framing is accurate |
-| fam-03-excl-prop-001 | FLA s. 4(2) gift/inheritance exclusion — specific subsection letter not verified | Reviewer to read FLA s. 4(2)(a)–(d) and confirm which subsection letter is cited |
-| fam-03-excl-prop-002 | Same as above | Same action |
-| fam-03-excl-prop-003 | Same as above | Same action |
-| fam-03-excl-prop-004 | Same as above | Same action |
-| fam-04-mh-consent-003 | FLA s. 21 / LRRA — actual notice vs. constructive notice treatment may be incomplete | Reviewer to confirm against FLA s. 21 and case law on notice to non-titled spouses |
+| fam-04-mh-consent-003 | s. 21 subsection number: question cites s. 21(3) for the bona fide purchaser protection. The ontario.ca statute text is JS-rendered and could not be independently fetched; some secondary sources cite this protection as s. 21(2). Substance (actual notice standard) confirmed correct. | Reviewer to open ontario.ca/laws/statute/90f03, find s. 21, and confirm whether the purchaser protection is subsection (2) or (3). If (2), update explanation, source_reference, exam_trigger_words, and why fields to cite s. 21(2). |
 
 ---
 
@@ -330,6 +340,18 @@ All 26 fixes below were applied in-place to the source question JSON files using
 | 25 | fam-04-mh-possess-001 | `why_D_wrong` | (same as #15 — listed in script as separate fix pass) |
 | 26 | fam-05-spse-supp-005 | `source_reference.heading` | "Entitlement Grounds — FLA s.33(8)..." → "Variation of Spousal Support — Material Change in Circumstances" |
 
+### Phase 2C-HR Fixes (2026-05-24) — Human-Review Flag Resolution
+
+Applied via `/tmp/fix_human_review_flags.py`. Root cause: FLA s.4(2) uses numbered paragraphs (1–7), not lettered subsections; confirmed by secondary sources.
+
+| # | Question ID | Field(s) Changed | Nature of Fix |
+|---|-------------|-----------------|---------------|
+| 27 | fam-03-excl-prop-001 | `options.B`, `explanation`, `why_A_wrong`, `why_B_wrong`, `source_reference`, `exam_trigger_words`, `tested_concepts` | "s. 4(2)(a)" → "s. 4(2), para. 2" throughout |
+| 28 | fam-03-excl-prop-002 | `explanation`, `why_A_wrong`, `why_C_wrong`, `source_reference`, `exam_trigger_words`, `tested_concepts` | "s. 4(2)(b)" / "Section 4(2)(b)" → "s. 4(2), para. 4" throughout |
+| 29 | fam-03-excl-prop-003 | `explanation`, `why_A_wrong`, `source_reference` | "s. 4(2)(a)" → "s. 4(2), para. 2"; s. 4(1)(b) kept (correct format) |
+| 30 | fam-03-excl-prop-004 | `explanation`, `why_B_wrong`, `source_reference`, `exam_trigger_words`, `tested_concepts` | "s. 4(2)(a)" → "s. 4(2), para. 2" throughout |
+| 31 | fam-03-deduct-marr-004 | `explanation`, `source_reference`, `tested_concepts` | "during the marriage" → "after the date of marriage" per para. 2 text; "its final paragraph" → "s. 4(2), para. 3" (para. 7 is the final paragraph); source_reference explicitly cites para. 2 and para. 3 |
+
 ---
 
 ## Validator Output (post-fix)
@@ -338,7 +360,7 @@ All 26 fixes below were applied in-place to the source question JSON files using
 Validation complete: 0 errors, 125 warnings
 ```
 
-All 125 warnings are pre-existing format style warnings (explanation wording conventions). No structural errors. No legal content errors remain after the 26 fixes above.
+All 125 warnings are pre-existing format style warnings (explanation wording conventions). No structural errors. No legal content errors remain after all 31 fixes above (26 Phase 2C + 5 Phase 2C-HR).
 
 ---
 

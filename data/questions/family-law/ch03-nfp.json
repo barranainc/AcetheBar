@@ -445,7 +445,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23",
+    "updated_at": "2026-05-24",
     "chapter_number": 3,
     "chapter_title": "Net Family Property and Equalization",
     "topic_id": "nfp_equalization",
@@ -462,7 +462,7 @@
       "D": "$165,000 — the entire account is excluded because the initial contribution was a qualifying gift."
     },
     "correct_answer": "C",
-    "explanation": "FLA s.4(2) excludes gifts and inheritances received during the marriage, and its final paragraph provides that income from excluded property is also excluded 'if the donor or testator expressly provides.' The gift deed here expressly excluded income, so the $40,000 in dividends is excluded along with the $100,000 principal. The $25,000 in capital gains is not identified as 'income' in the same sense and would likely not qualify unless the deed also addressed capital appreciation; on exam facts as given, $140,000 is the excludable amount.",
+    "explanation": "FLA s. 4(2), para. 2 excludes gifts and inheritances received after the date of marriage. s. 4(2), para. 3 provides that income from excluded property is also excluded 'if the donor or testator expressly provides.' The gift deed here expressly excluded income, so the $40,000 in dividends is excluded along with the $100,000 principal. The $25,000 in capital gains is not identified as 'income' in the same sense and would likely not qualify unless the deed also addressed capital appreciation; on exam facts as given, $140,000 is the excludable amount.",
     "why_A_wrong": "Gifts made at the time of marriage (i.e., in contemplation of marriage or on the wedding day) are generally treated as gifts received during the marriage for s.4(2) purposes. This argument would not typically succeed.",
     "why_B_wrong": "FLA s.4(2) final paragraph expressly allows income on excluded property to also be excluded where the donor provides for this. Option B misstates the law.",
     "why_C_wrong": "This IS the correct answer. $100,000 (gift) + $40,000 (income expressly excluded by donor) = $140,000.",
@@ -473,7 +473,7 @@
       "chapter": "Chapter 3 — Net Family Property and Equalization",
       "heading": "Excluded Property — Income on Gifts",
       "page": "N/A",
-      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(2)"
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(2), para. 2 and para. 3"
     },
     "pr_angle": {
       "applicable": false,
@@ -487,7 +487,7 @@
       "dividends"
     ],
     "tested_concepts": [
-      "s.4(2) income exclusion on gifts",
+      "s. 4(2), para. 3 income exclusion on gifts",
       "donor express provision",
       "capital gains vs income distinction"
     ],
@@ -579,9 +579,21 @@
       "page": "see blueprint",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 5(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["equalization payment", "s. 5(1)", "half the difference", "higher NFP"],
-    "tested_concepts": ["equalization formula", "direction of payment", "s. 5(1) calculation"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "equalization payment",
+      "s. 5(1)",
+      "half the difference",
+      "higher NFP"
+    ],
+    "tested_concepts": [
+      "equalization formula",
+      "direction of payment",
+      "s. 5(1) calculation"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -621,9 +633,22 @@
       "page": "see blueprint",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 5(1) and s. 9(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["equalization payment", "debt not property transfer", "s. 9", "court order", "satisfy payment"],
-    "tested_concepts": ["equalization as debt", "s. 9 property transfer to satisfy equalization", "court discretion"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "equalization payment",
+      "debt not property transfer",
+      "s. 9",
+      "court order",
+      "satisfy payment"
+    ],
+    "tested_concepts": [
+      "equalization as debt",
+      "s. 9 property transfer to satisfy equalization",
+      "court discretion"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -663,9 +688,22 @@
       "page": "see blueprint",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 5(6)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["unconscionability", "s. 5(6)", "reckless dissipation", "unequal equalization", "increase equalization"],
-    "tested_concepts": ["s. 5(6) unconscionability exception", "reckless depletion of NFP", "court power to increase or decrease equalization"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "unconscionability",
+      "s. 5(6)",
+      "reckless dissipation",
+      "unequal equalization",
+      "increase equalization"
+    ],
+    "tested_concepts": [
+      "s. 5(6) unconscionability exception",
+      "reckless depletion of NFP",
+      "court power to increase or decrease equalization"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -705,9 +743,20 @@
       "page": "see blueprint",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 5(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["equal NFPs", "zero equalization", "s. 5(1)", "half the difference"],
-    "tested_concepts": ["equalization formula with equal NFPs", "no payment when difference is zero"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "equal NFPs",
+      "zero equalization",
+      "s. 5(1)",
+      "half the difference"
+    ],
+    "tested_concepts": [
+      "equalization formula with equal NFPs",
+      "no payment when difference is zero"
+    ],
     "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -729,14 +778,14 @@
     "call_of_question": "Is the $75,000 inheritance excluded from Beatrice's net family property?",
     "options": {
       "A": "No — inheritances received during the marriage are always included in NFP because they represent wealth accumulated during the marriage.",
-      "B": "Yes — FLA s. 4(2)(a) excludes property received by way of gift or inheritance from a third party received after the date of marriage, and the $75,000 is identifiable and traceable in a dedicated account.",
+      "B": "Yes — FLA s. 4(2), para. 2 excludes property received by way of gift or inheritance from a third party received after the date of marriage, and the $75,000 is identifiable and traceable in a dedicated account.",
       "C": "No — only gifts from a spouse's parents are excluded; gifts from aunts are not covered by s. 4(2)(a).",
       "D": "Yes — but only if Beatrice can prove the inheritance was not used for family purposes during the marriage."
     },
     "correct_answer": "B",
-    "explanation": "Under the Family Law Act, R.S.O. 1990, c. F.3, s. 4(2)(a), property received by way of gift or inheritance from a third party after the date of marriage is excluded from the recipient spouse's net family property. The bequest from the aunt qualifies as an inheritance from a third party. Because Beatrice kept the funds in a dedicated account with no commingling, the property remains traceable and identifiable. The exclusion applies, and $75,000 is excluded from her NFP.",
-    "why_A_wrong": "FLA s. 4(2)(a) expressly excludes inheritances received after the date of marriage from NFP. Inheritances are a statutory exclusion, not an inclusion.",
-    "why_B_wrong": "This IS the correct answer. The aunt's bequest is an inheritance from a third party under s. 4(2)(a), kept in an identifiable dedicated account with full traceability.",
+    "explanation": "Under the Family Law Act, R.S.O. 1990, c. F.3, s. 4(2), para. 2, property received by way of gift or inheritance from a third party after the date of marriage is excluded from the recipient spouse's net family property. The bequest from the aunt qualifies as an inheritance from a third party. Because Beatrice kept the funds in a dedicated account with no commingling, the property remains traceable and identifiable. The exclusion applies, and $75,000 is excluded from her NFP.",
+    "why_A_wrong": "s. 4(2), para. 2 expressly excludes inheritances received after the date of marriage from NFP. Inheritances are a statutory exclusion, not an inclusion.",
+    "why_B_wrong": "This IS the correct answer. The aunt's bequest is an inheritance from a third party under s. 4(2), para. 2, kept in an identifiable dedicated account with full traceability.",
     "why_C_wrong": "Section 4(2)(a) excludes gifts and inheritances from 'a third party.' It does not restrict the type of third-party donor. An aunt is a third party for this purpose.",
     "why_D_wrong": "There is no requirement that excluded property be kept apart from family use. The exclusion is based on the source of the property (gift or inheritance) and its traceability, not on how the recipient uses it.",
     "source_reference": {
@@ -745,16 +794,29 @@
       "chapter": "Net Family Property and Equalization",
       "heading": "Excluded Property Under FLA s. 4(2)",
       "page": "see blueprint",
-      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(2)(a)"
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(2), para. 2"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["excluded property", "inheritance", "third party", "s. 4(2)(a)", "traceable"],
-    "tested_concepts": ["s. 4(2)(a) inheritance exclusion", "third-party donor", "traceability"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "excluded property",
+      "inheritance",
+      "third party",
+      "s. 4(2), para. 2",
+      "traceable"
+    ],
+    "tested_concepts": [
+      "s. 4(2), para. 2 inheritance exclusion",
+      "third-party donor",
+      "traceability"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   },
   {
     "id": "fam-03-excl-prop-002",
@@ -776,10 +838,10 @@
       "D": "Only the $70,000 for lost future income is excluded because income is the primary purpose of FLA spousal protection."
     },
     "correct_answer": "B",
-    "explanation": "Under the Family Law Act, R.S.O. 1990, c. F.3, s. 4(2)(b), damages or a right to damages for personal injury are excluded from NFP, but only to the extent they represent compensation for non-pecuniary loss (pain and suffering, loss of amenities) and not for lost income or other income-replacement components. The $80,000 for pain and suffering qualifies as excluded property. The $70,000 for lost future income is a substitute for income that would have formed part of the marital economy and is included. The $50,000 for future care costs is similarly a pecuniary loss component not covered by the personal injury exclusion.",
-    "why_A_wrong": "Not all components of a personal injury award are excluded under s. 4(2)(b). The exclusion applies to compensation for personal injury itself (pain and suffering), not to income-replacement or pecuniary components of the award.",
+    "explanation": "Under the Family Law Act, R.S.O. 1990, c. F.3, s. 4(2), para. 4, damages or a right to damages for personal injury are excluded from NFP, but only to the extent they represent compensation for non-pecuniary loss (pain and suffering, loss of amenities) and not for lost income or other income-replacement components. The $80,000 for pain and suffering qualifies as excluded property. The $70,000 for lost future income is a substitute for income that would have formed part of the marital economy and is included. The $50,000 for future care costs is similarly a pecuniary loss component not covered by the personal injury exclusion.",
+    "why_A_wrong": "Not all components of a personal injury award are excluded under s. 4(2), para. 4. The exclusion applies to compensation for personal injury itself (pain and suffering), not to income-replacement or pecuniary components of the award.",
     "why_B_wrong": "This IS the correct answer. Only the $80,000 for pain and suffering is excluded under s. 4(2)(b); the income and care components are included in NFP.",
-    "why_C_wrong": "Section 4(2)(b) expressly excludes damages for personal injury from NFP. The statement that all damages are included overstates the law.",
+    "why_C_wrong": "s. 4(2), para. 4 expressly excludes damages for personal injury from NFP. The statement that all damages are included overstates the law.",
     "why_D_wrong": "Lost income is not excluded — it is precisely the opposite. Lost income is a substitute for income that would have been part of the marital estate; it is included in NFP, not excluded.",
     "source_reference": {
       "lso_material": "2026 LSO Barrister Examination Materials",
@@ -787,16 +849,29 @@
       "chapter": "Net Family Property and Equalization",
       "heading": "Excluded Property Under FLA s. 4(2)",
       "page": "see blueprint",
-      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(2)(b)"
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(2), para. 4"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["personal injury damages", "pain and suffering", "lost income", "s. 4(2)(b)", "excluded property"],
-    "tested_concepts": ["s. 4(2)(b) personal injury exclusion", "pain and suffering excluded", "lost income included in NFP"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "personal injury damages",
+      "pain and suffering",
+      "lost income",
+      "s. 4(2), para. 4",
+      "excluded property"
+    ],
+    "tested_concepts": [
+      "s. 4(2), para. 4 personal injury exclusion",
+      "pain and suffering excluded",
+      "lost income included in NFP"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   },
   {
     "id": "fam-03-excl-prop-003",
@@ -818,8 +893,8 @@
       "D": "Yes — the cottage is excluded as an inheritance regardless of whether it later became the matrimonial home, because the exclusion attached at the time it was received."
     },
     "correct_answer": "C",
-    "explanation": "Under the Family Law Act, R.S.O. 1990, c. F.3, s. 4(2), the general rule excludes property received by gift or inheritance after the date of marriage. However, s. 4(2) contains a proviso that the matrimonial home is not excluded from NFP even if received as a gift or inheritance. The cottage, though inherited, was used as the couple's primary family home throughout the marriage, making it the matrimonial home. The matrimonial home exception to the exclusion rule applies, and the full value of $620,000 enters Nadia's NFP without exclusion. Note also that because it was inherited before the marriage, it is treated as property owned at the date of marriage (not excluded under s. 4(2)(a), which applies to post-marriage receipts); instead, a marriage-date deduction under s. 4(1)(b) would be unavailable because it is the matrimonial home.",
-    "why_A_wrong": "The cottage was inherited before marriage, so s. 4(2)(a) post-marriage inheritance exclusion does not directly apply. However, the marriage-date deduction under s. 4(1)(b) is also unavailable because it excludes the matrimonial home from the deduction. The full value enters NFP.",
+    "explanation": "Under the Family Law Act, R.S.O. 1990, c. F.3, s. 4(2), the general rule excludes property received by gift or inheritance after the date of marriage. However, s. 4(2) contains a proviso that the matrimonial home is not excluded from NFP even if received as a gift or inheritance. The cottage, though inherited, was used as the couple's primary family home throughout the marriage, making it the matrimonial home. The matrimonial home exception to the exclusion rule applies, and the full value of $620,000 enters Nadia's NFP without exclusion. Note also that because it was inherited before the marriage, it is treated as property owned at the date of marriage (not excluded under s. 4(2), para. 2, which applies to post-marriage receipts); instead, a marriage-date deduction under s. 4(1)(b) would be unavailable because it is the matrimonial home.",
+    "why_A_wrong": "The cottage was inherited before marriage, so s. 4(2), para. 2 post-marriage inheritance exclusion does not directly apply. However, the marriage-date deduction under s. 4(1)(b) is also unavailable because it excludes the matrimonial home from the deduction. The full value enters NFP.",
     "why_B_wrong": "This option correctly identifies that no exclusion applies, but gives the wrong reason. Pre-marriage property does qualify for the marriage-date deduction under s. 4(1)(b) — except the matrimonial home is carved out of that deduction, producing the same result (full value in NFP) but for the right reasons.",
     "why_C_wrong": "This IS the correct answer. The matrimonial home cannot be excluded from NFP even if received as an inheritance; the proviso in s. 4(2) and the matrimonial home carve-out in s. 4(1)(b) together mean the full value enters NFP.",
     "why_D_wrong": "The exclusion under s. 4(2) does not attach irrevocably at receipt. The proviso for the matrimonial home applies regardless of when the property was received or its origin. Once a property becomes the matrimonial home, it cannot be excluded from NFP.",
@@ -829,16 +904,29 @@
       "chapter": "Net Family Property and Equalization",
       "heading": "Excluded Property Under FLA s. 4(2)",
       "page": "see blueprint",
-      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(2)(a) and s. 4(1)(b)"
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(2), para. 2 and s. 4(1)(b)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["matrimonial home", "inherited", "excluded property", "s. 4(2) proviso", "no exclusion for matrimonial home"],
-    "tested_concepts": ["matrimonial home cannot be excluded even if inherited", "s. 4(2) proviso", "no marriage-date deduction for matrimonial home"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "matrimonial home",
+      "inherited",
+      "excluded property",
+      "s. 4(2) proviso",
+      "no exclusion for matrimonial home"
+    ],
+    "tested_concepts": [
+      "matrimonial home cannot be excluded even if inherited",
+      "s. 4(2) proviso",
+      "no marriage-date deduction for matrimonial home"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   },
   {
     "id": "fam-03-excl-prop-004",
@@ -860,9 +948,9 @@
       "D": "The $120,000 is excluded in its entirety because the verbal condition makes it a resulting trust and not a gift at all, so the NFP analysis does not apply."
     },
     "correct_answer": "C",
-    "explanation": "Under the Family Law Act, R.S.O. 1990, c. F.3, s. 4(2)(a), property received by way of gift from a third party after the date of marriage is excluded from NFP. However, the exclusion requires the property to be traceable at the valuation date. When Cheryl deposited the $120,000 into a joint chequing account where it commingled with salary and household expenses over several years, the funds lost their traceable character. Only $15,000 remains in the account, and it cannot be identified as the gift proceeds. The verbal condition attached to the gift does not satisfy the traceability requirement and does not independently preserve the exclusion.",
+    "explanation": "Under the Family Law Act, R.S.O. 1990, c. F.3, s. 4(2), para. 2, property received by way of gift from a third party after the date of marriage is excluded from NFP. However, the exclusion requires the property to be traceable at the valuation date. When Cheryl deposited the $120,000 into a joint chequing account where it commingled with salary and household expenses over several years, the funds lost their traceable character. Only $15,000 remains in the account, and it cannot be identified as the gift proceeds. The verbal condition attached to the gift does not satisfy the traceability requirement and does not independently preserve the exclusion.",
     "why_A_wrong": "A verbal donor expectation does not preserve the excluded status of a gift that has been commingled and is no longer traceable. The FLA exclusion depends on traceability of the asset, not on the donor's unwritten intentions.",
-    "why_B_wrong": "Gifts from family members during the marriage qualify for exclusion under s. 4(2)(a), but the exclusion is not automatic regardless of what happened to them. The traceability requirement must be satisfied. Commingling in a joint account defeats traceability.",
+    "why_B_wrong": "Gifts from family members during the marriage qualify for exclusion under s. 4(2), para. 2, but the exclusion is not automatic regardless of what happened to them. The traceability requirement must be satisfied. Commingling in a joint account defeats traceability.",
     "why_C_wrong": "This IS the correct answer. Commingling the $120,000 gift into a joint account with salary and household funds destroys traceability, defeating the s. 4(2)(a) exclusion.",
     "why_D_wrong": "A resulting trust analysis requires more than a verbal donor expectation. The verbal condition expressed by Cheryl's mother does not on these facts give rise to a resulting trust sufficient to take the property outside the NFP analysis entirely. Even if it did, the analysis would require court proceedings, not an automatic exclusion.",
     "source_reference": {
@@ -871,15 +959,29 @@
       "chapter": "Net Family Property and Equalization",
       "heading": "Excluded Property Under FLA s. 4(2)",
       "page": "see blueprint",
-      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(2)(a)"
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 4(2), para. 2"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["excluded property", "commingling", "joint account", "traceability lost", "gift s. 4(2)(a)"],
-    "tested_concepts": ["s. 4(2)(a) gift exclusion", "traceability requirement", "commingling destroys exclusion", "verbal donor condition insufficient"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "excluded property",
+      "commingling",
+      "joint account",
+      "traceability lost",
+      "gift s. 4(2), para. 2"
+    ],
+    "tested_concepts": [
+      "s. 4(2), para. 2 gift exclusion",
+      "traceability requirement",
+      "commingling destroys exclusion",
+      "verbal donor condition insufficient"
+    ],
     "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   }
 ]
