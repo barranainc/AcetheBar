@@ -187,7 +187,7 @@
       "D": "Yes — any email that contains even a single reference to regulatory risk qualifies as a communication for the purpose of legal advice, protecting the entire email."
     },
     "correct_answer": "C",
-    "explanation": "Under the law confirmed in Lavallee, Rackel & Heintz v Canada (AG), 2002 SCC 61 and applied to in-house counsel, solicitor-client privilege applies to communications with in-house counsel only where the lawyer was acting in their legal capacity — giving or seeking legal advice — and the communication was intended to be confidential. Where in-house counsel acts in a business, strategic, or commercial capacity, the communications are not privileged. Courts undertake a document-by-document or communication-by-communication analysis to separate legal advice components from business advice components. The emails where Dr. Osei-Bonsu acted as a business strategist on pricing are not privileged; those where he provided legal advice on regulatory risk may be privileged. A brief regulatory reference embedded in a predominantly business communication does not automatically make the full email privileged.",
+    "explanation": "Under the law confirmed in Pritchard v Ontario (Human Rights Commission), 2004 SCC 31 as applied to in-house counsel, solicitor-client privilege applies to communications with in-house counsel only where the lawyer was acting in their legal capacity — giving or seeking legal advice — and the communication was intended to be confidential. Where in-house counsel acts in a business, strategic, or commercial capacity, the communications are not privileged. Courts undertake a document-by-document or communication-by-communication analysis to separate legal advice components from business advice components. The emails where Dr. Osei-Bonsu acted as a business strategist on pricing are not privileged; those where he provided legal advice on regulatory risk may be privileged. A brief regulatory reference embedded in a predominantly business communication does not automatically make the full email privileged.",
     "why_A_wrong": "LSO membership does not automatically confer privilege on all communications. The privilege requires the lawyer to be acting in their legal capacity giving legal advice, and the communication to be confidential. In-house counsel acting in a business role are not covered.",
     "why_B_wrong": "In-house counsel can give rise to solicitor-client privilege. Employment by the client does not negate the privilege. What matters is whether the lawyer was acting in a legal capacity, not independence per se.",
     "why_C_wrong": "This IS the correct answer. Privilege applies only where Dr. Osei-Bonsu was acting in his legal advisory capacity. Communications where he functioned as a business strategist are not privileged, even if he happens to hold a law degree.",
@@ -198,7 +198,7 @@
       "chapter": "Documentary Discovery",
       "heading": "Solicitor-Client Privilege in Discovery",
       "page": "see blueprint",
-      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 30.03(2); Lavallee, Rackel & Heintz v Canada (AG), 2002 SCC 61"
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 30.03(2); Pritchard v Ontario (Human Rights Commission), 2004 SCC 31"
     },
     "pr_angle": {
       "applicable": false,
@@ -209,11 +209,11 @@
       "solicitor-client privilege",
       "legal capacity",
       "business strategist",
-      "Lavallee"
+      "Pritchard"
     ],
     "tested_concepts": [
       "in-house counsel privilege — legal vs business capacity",
-      "Lavallee, Rackel & Heintz",
+      "Pritchard v Ontario (Human Rights Commission), 2004 SCC 31",
       "communication-by-communication analysis",
       "business advice not privileged"
     ],

@@ -133,7 +133,7 @@
     "why_A_wrong": "The primary ground is fact-specific; community ties and a lack of prior record weigh against a flight risk finding. There is no automatic presumption of flight for murder charges.",
     "why_B_wrong": "The secondary ground requires a substantial likelihood of specific future offending. It does not operate by presumption based on the severity of the charge.",
     "why_C_wrong": "This IS the correct answer. Tertiary ground — s. 515(10)(c) — considering the strength of the prosecution's case, the gravity of the offence, the circumstances of the killing, and the potential sentence; detention may be justified if release would undermine public confidence in the administration of justice.",
-    "why_D_wrong": "First-degree murder accused are entitled to a bail hearing through the standard process. There is no separate special statutory hearing requirement, although the superior court has jurisdiction for certain charges.",
+    "why_D_wrong": "First-degree murder accused are entitled to a bail hearing through the standard process. There is no separate special statutory hearing requirement, although for murder (s. 469 offences), s. 522 of the Criminal Code provides that only a superior court judge may conduct the bail hearing.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
@@ -197,7 +197,7 @@
       "chapter": "Chapter 3: Bail — Judicial Interim Release",
       "heading": "Three Grounds for Pre-Trial Detention",
       "page": "N/A",
-      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(10)"
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(6)(a)"
     },
     "pr_angle": {
       "applicable": false,
@@ -252,7 +252,7 @@
       "chapter": "Chapter 3: Bail — Judicial Interim Release",
       "heading": "Three Grounds for Pre-Trial Detention",
       "page": "N/A",
-      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(10)"
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(3)"
     },
     "pr_angle": {
       "applicable": false,

@@ -19,7 +19,7 @@
       "D": "Whether the plaintiff can establish a prima facie case for its claim at the motion stage."
     },
     "correct_answer": "B",
-    "explanation": "Rule 20.04(2)(b) of the Rules of Civil Procedure provides that the court shall grant summary judgment if it is satisfied there is no genuine issue requiring a trial. In Hryniak v Mauldin, 2014 SCC 7, the Supreme Court of Canada confirmed that the governing question is whether the motion judge can achieve a fair and just adjudication on the motion record — a culture shift toward proportionate, accessible, and timely justice.",
+    "explanation": "Rule 20.04(2)(a) of the Rules of Civil Procedure provides that the court shall grant summary judgment if it is satisfied there is no genuine issue requiring a trial. In Hryniak v Mauldin, 2014 SCC 7, the Supreme Court of Canada confirmed that the governing question is whether the motion judge can achieve a fair and just adjudication on the motion record — a culture shift toward proportionate, accessible, and timely justice.",
     "why_A_wrong": "Summary judgment does not ask whether the plaintiff is likely to succeed. The question is whether a trial is needed, not the predicted outcome of trial.",
     "why_B_wrong": "This IS the correct answer. The Hryniak framework asks whether there is a genuine issue requiring a trial and whether the court can make a fair and just determination on the record.",
     "why_C_wrong": "Summary judgment is not a mini-trial on the merits. The defendant does not need to prove its defence; the question is whether a trial is required.",
@@ -30,7 +30,7 @@
       "chapter": "Chapter 7 — Summary Judgment",
       "heading": "No Genuine Issue Requiring a Trial",
       "page": "N/A",
-      "rule_or_statute_reference": "Rules of Civil Procedure, r. 20.04(2)(b); Hryniak v Mauldin, 2014 SCC 7"
+      "rule_or_statute_reference": "Rules of Civil Procedure, r. 20.04(2)(a); Hryniak v Mauldin, 2014 SCC 7"
     },
     "pr_angle": {
       "applicable": false,
@@ -44,7 +44,7 @@
       "r. 20.04"
     ],
     "tested_concepts": [
-      "r. 20.04(2)(b) test",
+      "r. 20.04(2)(a) test",
       "Hryniak v Mauldin framework",
       "fair and just determination"
     ],
@@ -103,11 +103,11 @@
       "unjust threshold",
       "credibility on summary judgment"
     ],
-    "estimated_time_seconds": 105,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   },
   {
     "id": "civ-07-summ-judg-003",
@@ -158,11 +158,11 @@
       "liability vs. quantum bifurcation",
       "no consent required"
     ],
-    "estimated_time_seconds": 100,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   },
   {
     "id": "civ-07-summ-judg-004",
@@ -184,7 +184,7 @@
       "D": "Grant summary judgment if the plaintiff's uncontradicted evidence establishes there is no genuine issue requiring a trial."
     },
     "correct_answer": "D",
-    "explanation": "Where a defendant has been properly served with a summary judgment motion and fails to file responding evidence, the court may proceed on the motion. If the plaintiff's uncontradicted evidence demonstrates there is no genuine issue requiring a trial, the court may grant summary judgment under r. 20.04(2)(b). The defendant's failure to put its best foot forward does not automatically result in an adjournment or dismissal of the motion.",
+    "explanation": "Where a defendant has been properly served with a summary judgment motion and fails to file responding evidence, the court may proceed on the motion. If the plaintiff's uncontradicted evidence demonstrates there is no genuine issue requiring a trial, the court may grant summary judgment under r. 20.04(2)(a). The defendant's failure to put its best foot forward does not automatically result in an adjournment or dismissal of the motion.",
     "why_A_wrong": "The court is not required to adjourn when the defendant has received proper notice. If the record supports summary judgment, the motion may proceed to determination.",
     "why_B_wrong": "Summary judgment does not require consent of both parties. It is available at the instance of one party where the legal test is satisfied.",
     "why_C_wrong": "There is no absolute right to a trial in civil proceedings. Summary judgment exists precisely to resolve cases where a trial is not necessary.",
@@ -195,7 +195,7 @@
       "chapter": "Chapter 7 — Summary Judgment",
       "heading": "No Genuine Issue Requiring a Trial",
       "page": "N/A",
-      "rule_or_statute_reference": "Rules of Civil Procedure, r. 20.04(2)(b)"
+      "rule_or_statute_reference": "Rules of Civil Procedure, r. 20.04(2)(a)"
     },
     "pr_angle": {
       "applicable": false,
@@ -210,13 +210,13 @@
     "tested_concepts": [
       "uncontradicted evidence supports summary judgment",
       "no absolute right to trial",
-      "r. 20.04(2)(b)"
+      "r. 20.04(2)(a)"
     ],
-    "estimated_time_seconds": 85,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   },
   {
     "id": "civ-07-summ-judg-005",
@@ -267,11 +267,11 @@
       "r. 20.04(2.1) credibility assessment",
       "credibility not automatic bar to summary judgment"
     ],
-    "estimated_time_seconds": 110,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   },
   {
     "id": "civ-07-sumj-ev-001",
@@ -473,8 +473,8 @@
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 20.02(2); Hryniak v Mauldin, 2014 SCC 7"
     },
     "pr_angle": {
-      "applicable": false,
-      "pr_issue_type": null
+      "applicable": true,
+      "pr_issue_type": "duty of candour to tribunal / improper litigation strategy"
     },
     "exam_trigger_words": [
       "best foot forward",

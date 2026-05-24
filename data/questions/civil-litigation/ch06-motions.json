@@ -156,11 +156,11 @@
       "damages as adequate remedy defeats injunction",
       "RJR-MacDonald second branch"
     ],
-    "estimated_time_seconds": 100,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   },
   {
     "id": "civ-06-injunction-004",
@@ -210,11 +210,11 @@
       "RJR-MacDonald third branch",
       "weighing harm"
     ],
-    "estimated_time_seconds": 105,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   },
   {
     "id": "civ-06-injunction-005",
@@ -250,8 +250,8 @@
       "rule_or_statute_reference": "RJR-MacDonald Inc v Canada (AG), [1994] 1 SCR 311; Rules of Civil Procedure, r. 37.07"
     },
     "pr_angle": {
-      "applicable": false,
-      "pr_issue_type": null
+      "applicable": true,
+      "pr_issue_type": "duty of candour to the court / ex parte disclosure obligations"
     },
     "exam_trigger_words": [
       "ex parte",

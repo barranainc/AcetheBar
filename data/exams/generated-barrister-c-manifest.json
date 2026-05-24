@@ -1,7 +1,7 @@
 {
   "exam_id": "generated-barrister-c",
   "exam_label": "Generated Barrister C",
-  "generated_at": "2026-05-23T21:50:26.435185+00:00",
+  "generated_at": "2026-05-24T06:32:49.818429+00:00",
   "seed": 1,
   "total_questions": 160,
   "subject_allocation": {
@@ -205,7 +205,7 @@
     "data/questions/public-law/ch03-admin-law.json",
     "data/questions/public-law/ch04-judicial-review.json"
   ],
-  "pr_angle_count": 0,
+  "pr_angle_count": 3,
   "difficulty_distribution": {
     "medium": 58,
     "hard": 47,

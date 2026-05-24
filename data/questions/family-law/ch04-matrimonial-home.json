@@ -27,7 +27,7 @@
     "why_A_wrong": "Ownership is irrelevant to the s.19 possession right. The FLA specifically grants the right to both spouses regardless of who holds legal title.",
     "why_B_wrong": "This IS the correct answer. FLA s.19(1) grants equal possession rights to both spouses regardless of ownership.",
     "why_C_wrong": "No financial contribution to the mortgage is required. The s.19 right arises from marriage and the property's status as a matrimonial home, not from financial contributions.",
-    "why_D_wrong": "The s.19 right arises automatically by statute. A court order is relevant if one spouse seeks exclusive possession under s.24, which is a different and additional remedy.",
+    "why_D_wrong": "The s.19 right arises automatically by statute. A court order is relevant if one spouse seeks exclusive possession under s.24, which is a different and distinct remedy.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Family Law",
@@ -582,9 +582,21 @@
       "page": "see blueprint",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 24(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["exclusive possession", "s. 24(1)", "regardless of ownership", "non-owner spouse"],
-    "tested_concepts": ["s. 24(1) exclusive possession jurisdiction", "ownership not determinative", "non-owner may receive order"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "exclusive possession",
+      "s. 24(1)",
+      "regardless of ownership",
+      "non-owner spouse"
+    ],
+    "tested_concepts": [
+      "s. 24(1) exclusive possession jurisdiction",
+      "ownership not determinative",
+      "non-owner may receive order"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -624,9 +636,22 @@
       "page": "see blueprint",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 24(3)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["s. 24(3)", "best interests of children", "financial position", "exclusive possession factors"],
-    "tested_concepts": ["s. 24(3) multi-factor test", "children's best interests", "financial disparity", "alternative accommodation"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 24(3)",
+      "best interests of children",
+      "financial position",
+      "exclusive possession factors"
+    ],
+    "tested_concepts": [
+      "s. 24(3) multi-factor test",
+      "children's best interests",
+      "financial disparity",
+      "alternative accommodation"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -666,9 +691,22 @@
       "page": "see blueprint",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 24(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["exclusive possession", "not title transfer", "temporary occupation", "s. 24(1)", "ownership unchanged"],
-    "tested_concepts": ["exclusive possession is not a title transfer", "temporary occupation right", "ownership unaffected by s. 24 order"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "exclusive possession",
+      "not title transfer",
+      "temporary occupation",
+      "s. 24(1)",
+      "ownership unchanged"
+    ],
+    "tested_concepts": [
+      "exclusive possession is not a title transfer",
+      "temporary occupation right",
+      "ownership unaffected by s. 24 order"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -708,9 +746,23 @@
       "page": "see blueprint",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 24(3)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["s. 24(3)", "no single factor determinative", "violence not required", "income alone insufficient", "exclusive possession"],
-    "tested_concepts": ["s. 24(3) balancing test", "violence not a prerequisite", "income disparity not conclusive", "multi-factor discretionary analysis"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 24(3)",
+      "no single factor determinative",
+      "violence not required",
+      "income alone insufficient",
+      "exclusive possession"
+    ],
+    "tested_concepts": [
+      "s. 24(3) balancing test",
+      "violence not a prerequisite",
+      "income disparity not conclusive",
+      "multi-factor discretionary analysis"
+    ],
     "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",

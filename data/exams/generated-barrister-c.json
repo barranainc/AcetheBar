@@ -220,8 +220,8 @@
       "Whether the plaintiff can establish a prima facie case for its claim at the motion stage."
     ],
     "ans": 1,
-    "expl": "Rule 20.04(2)(b) of the Rules of Civil Procedure provides that the court shall grant summary judgment if it is satisfied there is no genuine issue requiring a trial. In Hryniak v Mauldin, 2014 SCC 7, the Supreme Court of Canada confirmed that the governing question is whether the motion judge can achieve a fair and just adjudication on the motion record — a culture shift toward proportionate, accessible, and timely justice.",
-    "caseRef": "Rules of Civil Procedure, r. 20.04(2)(b); Hryniak v Mauldin, 2014 SCC 7",
+    "expl": "Rule 20.04(2)(a) of the Rules of Civil Procedure provides that the court shall grant summary judgment if it is satisfied there is no genuine issue requiring a trial. In Hryniak v Mauldin, 2014 SCC 7, the Supreme Court of Canada confirmed that the governing question is whether the motion judge can achieve a fair and just adjudication on the motion record — a culture shift toward proportionate, accessible, and timely justice.",
+    "caseRef": "Rules of Civil Procedure, r. 20.04(2)(a); Hryniak v Mauldin, 2014 SCC 7",
     "lso": "LSO Barrister 2026 Study Materials | Chapter 7 — Summary Judgment | No Genuine Issue Requiring a Trial"
   },
   {
@@ -280,8 +280,8 @@
       "Grant summary judgment if the plaintiff's uncontradicted evidence establishes there is no genuine issue requiring a trial."
     ],
     "ans": 3,
-    "expl": "Where a defendant has been properly served with a summary judgment motion and fails to file responding evidence, the court may proceed on the motion. If the plaintiff's uncontradicted evidence demonstrates there is no genuine issue requiring a trial, the court may grant summary judgment under r. 20.04(2)(b). The defendant's failure to put its best foot forward does not automatically result in an adjournment or dismissal of the motion.",
-    "caseRef": "Rules of Civil Procedure, r. 20.04(2)(b)",
+    "expl": "Where a defendant has been properly served with a summary judgment motion and fails to file responding evidence, the court may proceed on the motion. If the plaintiff's uncontradicted evidence demonstrates there is no genuine issue requiring a trial, the court may grant summary judgment under r. 20.04(2)(a). The defendant's failure to put its best foot forward does not automatically result in an adjournment or dismissal of the motion.",
+    "caseRef": "Rules of Civil Procedure, r. 20.04(2)(a)",
     "lso": "LSO Barrister 2026 Study Materials | Chapter 7 — Summary Judgment | No Genuine Issue Requiring a Trial"
   },
   {
@@ -565,8 +565,8 @@
       "Yes — any email that contains even a single reference to regulatory risk qualifies as a communication for the purpose of legal advice, protecting the entire email."
     ],
     "ans": 2,
-    "expl": "Under the law confirmed in Lavallee, Rackel & Heintz v Canada (AG), 2002 SCC 61 and applied to in-house counsel, solicitor-client privilege applies to communications with in-house counsel only where the lawyer was acting in their legal capacity — giving or seeking legal advice — and the communication was intended to be confidential. Where in-house counsel acts in a business, strategic, or commercial capacity, the communications are not privileged. Courts undertake a document-by-document or communication-by-communication analysis to separate legal advice components from business advice components. The emails where Dr. Osei-Bonsu acted as a business strategist on pricing are not privileged; those where he provided legal advice on regulatory risk may be privileged. A brief regulatory reference embedded in a predominantly business communication does not automatically make the full email privileged.",
-    "caseRef": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 30.03(2); Lavallee, Rackel & Heintz v Canada (AG), 2002 SCC 61",
+    "expl": "Under the law confirmed in Pritchard v Ontario (Human Rights Commission), 2004 SCC 31 as applied to in-house counsel, solicitor-client privilege applies to communications with in-house counsel only where the lawyer was acting in their legal capacity — giving or seeking legal advice — and the communication was intended to be confidential. Where in-house counsel acts in a business, strategic, or commercial capacity, the communications are not privileged. Courts undertake a document-by-document or communication-by-communication analysis to separate legal advice components from business advice components. The emails where Dr. Osei-Bonsu acted as a business strategist on pricing are not privileged; those where he provided legal advice on regulatory risk may be privileged. A brief regulatory reference embedded in a predominantly business communication does not automatically make the full email privileged.",
+    "caseRef": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 30.03(2); Pritchard v Ontario (Human Rights Commission), 2004 SCC 31",
     "lso": "2026 LSO Barrister Examination Materials | Documentary Discovery | Solicitor-Client Privilege in Discovery"
   },
   {
@@ -806,7 +806,7 @@
     ],
     "ans": 1,
     "expl": "The ladder principle (also referred to as the principle of escalating conditions) requires a justice to begin at the lowest rung of the release ladder — release on one's own recognizance with no conditions — and move to more restrictive forms of release only to the extent necessary to address the relevant ground for detention. The court retains full discretion and is not bound by the Crown's proposed conditions. Cash deposits and stringent conditions are available but should be imposed only where lesser measures are insufficient.",
-    "caseRef": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(10)",
+    "caseRef": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(3)",
     "lso": "LSO Barrister 2026 Study Materials | Chapter 3: Bail — Judicial Interim Release | Three Grounds for Pre-Trial Detention"
   },
   {
@@ -1106,7 +1106,7 @@
     ],
     "ans": 2,
     "expl": "Section 494 of the Criminal Code grants non-peace officers the right to make a citizen's arrest in specific circumstances. Under s. 494(2), an owner of property or a person lawfully in possession of property may arrest a person who they find committing a criminal offence on or in relation to that property. Furthermore, s. 494(1)(b) allows any person to arrest without warrant someone who has committed an indictable offence and is escaping and freshly pursued. The store owner witnessed the shoplifting (a criminal offence on or in relation to the property) and pursued immediately, satisfying both provisions. The person arrested must be delivered to a peace officer without unreasonable delay.",
-    "caseRef": "Criminal Code, R.S.C. 1985, c. C-46, s. 495(1) and s. 495(2)",
+    "caseRef": "Criminal Code, R.S.C. 1985, c. C-46, s. 494(1)(b) and s. 494(2)",
     "lso": "LSO Barrister 2026 Study Materials | Chapter 2: Charter Rights — Arrest, Detention, and Search | Arrest Without Warrant — Peace Officer Powers"
   },
   {
@@ -1120,7 +1120,7 @@
       "Crown may wait until the eve of trial to provide disclosure of all but the most critical evidence."
     ],
     "ans": 1,
-    "expl": "Stinchcombe held that initial disclosure must be made before the accused is required to elect the mode of trial or enter a plea — because those decisions should be made with knowledge of the evidence. The duty is also explicitly continuing: as new information comes into Crown's possession, it must be disclosed promptly. Providing disclosure two weeks before the election date may be compliant depending on when the election is scheduled, but the core rule is that it must precede election and plea.",
+    "expl": "Stinchcombe held that initial disclosure must be made at the first reasonable opportunity and in any event before the accused is required to elect the mode of trial or enter a plea — because those decisions should be made with knowledge of the evidence. The duty is also explicitly continuing: as new information comes into Crown's possession, it must be disclosed promptly. Providing disclosure two weeks before the election date may be compliant depending on when the election is scheduled, but the core rule is that it must precede election and plea.",
     "caseRef": "R v Stinchcombe, [1991] 3 SCR 326; Canadian Charter of Rights and Freedoms, s. 7",
     "lso": "LSO Barrister 2026 Study Materials | Chapter 4: Disclosure | Crown Duty to Disclose — Stinchcombe Principles"
   },
@@ -1211,7 +1211,7 @@
     ],
     "ans": 2,
     "expl": "Section 515(6)(a) of the Criminal Code reverses the ordinary onus at a bail hearing. Where an accused is charged with an indictable offence that is alleged to have been committed while the accused was on release in respect of another indictable offence, the accused bears the burden of showing cause why their detention is not justified. The accused is 'on release' for the robbery charge (an indictable offence), and the prohibited firearm charge is a fresh indictable offence committed during that release — precisely the scenario s. 515(6)(a) addresses.",
-    "caseRef": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(10)",
+    "caseRef": "Criminal Code, R.S.C. 1985, c. C-46, s. 515(6)(a)",
     "lso": "LSO Barrister 2026 Study Materials | Chapter 3: Bail — Judicial Interim Release | Three Grounds for Pre-Trial Detention"
   },
   {
@@ -1236,7 +1236,7 @@
     "opts": [
       "Defence must bring a Stinchcombe application requiring the Crown to obtain the records through the police.",
       "Defence must apply under ss. 278.1–278.91 of the Criminal Code because those provisions apply to all third party records sought in criminal proceedings.",
-      "Defence must bring an application under the procedure established in R v O'Connor, 1995 CanLII 51 (SCC), seeking production from the third party; the court will assess likely relevance and balance the accused's right to make full answer and defence against the privacy interests of the complainant.",
+      "Defence must bring an application under the procedure established in R v O'Connor, [1995] 4 SCR 411, seeking production from the third party; the court will assess likely relevance and balance the accused's right to make full answer and defence against the privacy interests of the complainant.",
       "Defence is not entitled to any third party records held by private employers unless the Crown first discloses them."
     ],
     "ans": 2,
@@ -1316,7 +1316,7 @@
     ],
     "ans": 1,
     "expl": "The Spousal Support Advisory Guidelines provide two distinct formulas. The without-child formula applies to marriages without dependent children (or post-secondary adult children). The with-child formula applies where there are dependent children living primarily with the support recipient. The with-child formula is more complex — it takes into account the parenting arrangements, the child support paid, and typically produces a higher range of spousal support to reflect the combined economic impact of child-rearing responsibilities. The fact that child support has been separately agreed does not convert a with-child case into a without-child case; the formula depends on the presence of dependent children in the recipient's primary care.",
-    "caseRef": "Spousal Support Advisory Guidelines (2008, revised 2016); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2",
+    "caseRef": "Spousal Support Advisory Guidelines (2008, revised 2021); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2",
     "lso": "2026 LSO Barrister Examination Materials | Spousal Support | Spousal Support Advisory Guidelines (SSAG)"
   },
   {
@@ -1346,7 +1346,7 @@
     ],
     "ans": 1,
     "expl": "The Spousal Support Advisory Guidelines are advisory only. They were developed as a non-legislative tool to promote consistency and predictability in spousal support quantum and duration. Courts are not required to follow the SSAG but regularly consult them as a useful reference. Departure from the range is permitted where the circumstances of the case warrant a different result. The SSAG have not been enacted as legislation and have no binding statutory force.",
-    "caseRef": "Spousal Support Advisory Guidelines (2008, revised 2016); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2",
+    "caseRef": "Spousal Support Advisory Guidelines (2008, revised 2021); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2",
     "lso": "2026 LSO Barrister Examination Materials | Spousal Support | Spousal Support Advisory Guidelines (SSAG)"
   },
   {
@@ -1406,8 +1406,8 @@
     ],
     "ans": 2,
     "expl": "Under Divorce Act s.17 and FLA s.37, a court may vary or rescind a spousal support order where there has been a material change in circumstances since the order was made. The wife's remarriage and the elimination of her financial need are circumstances that a court would likely consider to constitute a material change, and the husband may succeed in obtaining a termination or reduction of the support order. Unilateral cessation of payments without a court order is not permitted.",
-    "caseRef": "Family Law Act, R.S.O. 1990, c. F.3, s. 33(8); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2(6)",
-    "lso": "LSO Barrister 2026 Study Materials | Chapter 5 — Spousal Support | Entitlement Grounds — FLA s.33(8) and Divorce Act s.15.2(6)"
+    "caseRef": "Family Law Act, R.S.O. 1990, c. F.3, s. 37; Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 17",
+    "lso": "LSO Barrister 2026 Study Materials | Chapter 5 — Spousal Support | Variation of Spousal Support — Material Change in Circumstances"
   },
   {
     "id": 95,
@@ -1945,7 +1945,7 @@
       "The court must apply correctness review to any legal test a tribunal derives from its home statute, because legal interpretation is a judicial function."
     ],
     "ans": 2,
-    "expl": "Under Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, and as affirmed in Dunsmuir v New Brunswick, 2008 SCC 9, reasonableness review asks whether the decision falls within a range of possible acceptable outcomes that are defensible in respect of the facts and law. The court does not substitute its own preferred interpretation; the existence of multiple defensible interpretations of a statute is precisely the situation where deference to the tribunal's expertise is appropriate, provided the interpretation can be justified with reference to the text, purpose, and context of the statute.",
+    "expl": "Under Dunsmuir v New Brunswick, 2008 SCC 9, and as refined by Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, reasonableness review asks whether the decision falls within a range of possible acceptable outcomes that are defensible in respect of the facts and law. The court does not substitute its own preferred interpretation; the existence of multiple defensible interpretations of a statute is precisely the situation where deference to the tribunal's expertise is appropriate, provided the interpretation can be justified with reference to the text, purpose, and context of the statute.",
     "caseRef": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65",
     "lso": "2026 LSO Barrister Examination Materials | Judicial Review | Reasonableness Standard of Review"
   },
@@ -2051,7 +2051,7 @@
     ],
     "ans": 2,
     "expl": "s. 15(1) guarantees the 'equal benefit of the law.' Underinclusion — where a law extends benefits to some groups but excludes others on the basis of an enumerated or analogous ground — is a recognized form of s. 15 discrimination. The absence of an explicit exclusion is not a defence if the practical effect is discriminatory.",
-    "caseRef": "Canadian Charter of Rights and Freedoms, s. 15; Andrews v Law Society of British Columbia, [1989] 1 SCR 143",
+    "caseRef": "Canadian Charter of Rights and Freedoms, s. 15; Andrews v Law Society of British Columbia, [1989] 1 SCR 143; Eldridge v British Columbia (AG), [1997] 3 SCR 624",
     "lso": "LSO Barrister 2026 Study Materials | Chapter 2 — Charter Rights | s. 15 — Equality Rights and the Andrews Test"
   },
   {
@@ -2066,7 +2066,7 @@
     ],
     "ans": 2,
     "expl": "s. 15(2) operates at the s. 15 stage, not under s. 1. If a program genuinely ameliorates the conditions of a disadvantaged group, it is not a s. 15(1) violation at all. Courts retain the ability to review whether the program is genuinely ameliorative and targets an actually disadvantaged group.",
-    "caseRef": "Canadian Charter of Rights and Freedoms, s. 15; Andrews v Law Society of British Columbia, [1989] 1 SCR 143",
+    "caseRef": "Canadian Charter of Rights and Freedoms, s. 15; Andrews v Law Society of British Columbia, [1989] 1 SCR 143; R v Kapp, 2008 SCC 41; Withler v Canada (Attorney General), 2011 SCC 12",
     "lso": "LSO Barrister 2026 Study Materials | Chapter 2 — Charter Rights | s. 15 — Equality Rights and the Andrews Test"
   },
   {
@@ -2111,7 +2111,7 @@
     ],
     "ans": 2,
     "expl": "s. 15 prohibits discrimination on the basis of sex and applies to both men and women. The claimant must still satisfy the two-part test: (1) distinction on sex (an enumerated ground), and (2) the distinction perpetuates prejudice or stereotyping. The government may rely on s. 15(2) if the program is a genuine ameliorative program targeting a disadvantaged group, but s. 15(2) is not a blanket shield for all sex-based distinctions in favour of women.",
-    "caseRef": "Canadian Charter of Rights and Freedoms, s. 15; Andrews v Law Society of British Columbia, [1989] 1 SCR 143",
+    "caseRef": "Canadian Charter of Rights and Freedoms, s. 15; Andrews v Law Society of British Columbia, [1989] 1 SCR 143; R v Kapp, 2008 SCC 41; Withler v Canada (Attorney General), 2011 SCC 12",
     "lso": "LSO Barrister 2026 Study Materials | Chapter 2 — Charter Rights | s. 15 — Equality Rights and the Andrews Test"
   },
   {
@@ -2306,7 +2306,7 @@
     ],
     "ans": 2,
     "expl": "The modern s. 15 test from R v Kapp, 2008 SCC 41, and Withler v Canada, 2011 SCC 12, requires: (1) the law creates a distinction based on an enumerated or analogous ground; and (2) the distinction is discriminatory in that it perpetuates prejudice or stereotyping. Age is an enumerated ground under s. 15(1).",
-    "caseRef": "Canadian Charter of Rights and Freedoms, s. 15; Andrews v Law Society of British Columbia, [1989] 1 SCR 143",
+    "caseRef": "Canadian Charter of Rights and Freedoms, s. 15; Andrews v Law Society of British Columbia, [1989] 1 SCR 143; R v Kapp, 2008 SCC 41; Withler v Canada (Attorney General), 2011 SCC 12",
     "lso": "LSO Barrister 2026 Study Materials | Chapter 2 — Charter Rights | s. 15 — Equality Rights and the Andrews Test"
   },
   {

@@ -157,11 +157,11 @@
       "privilege protects content not existence",
       "examination for discovery and privilege"
     ],
-    "estimated_time_seconds": 105,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   },
   {
     "id": "civ-09-disc-scope-004",
@@ -212,11 +212,11 @@
       "plaintiff cannot choose corporate examinees",
       "court may order specific person"
     ],
-    "estimated_time_seconds": 100,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   },
   {
     "id": "civ-09-disc-scope-005",
@@ -268,11 +268,11 @@
       "motion to compel undertakings",
       "verbal undertakings binding"
     ],
-    "estimated_time_seconds": 85,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   },
   {
     "id": "civ-09-ref-und-001",

@@ -74,7 +74,7 @@
       "D": "Crown may wait until the eve of trial to provide disclosure of all but the most critical evidence."
     },
     "correct_answer": "B",
-    "explanation": "Stinchcombe held that initial disclosure must be made before the accused is required to elect the mode of trial or enter a plea — because those decisions should be made with knowledge of the evidence. The duty is also explicitly continuing: as new information comes into Crown's possession, it must be disclosed promptly. Providing disclosure two weeks before the election date may be compliant depending on when the election is scheduled, but the core rule is that it must precede election and plea.",
+    "explanation": "Stinchcombe held that initial disclosure must be made at the first reasonable opportunity and in any event before the accused is required to elect the mode of trial or enter a plea — because those decisions should be made with knowledge of the evidence. The duty is also explicitly continuing: as new information comes into Crown's possession, it must be disclosed promptly. Providing disclosure two weeks before the election date may be compliant depending on when the election is scheduled, but the core rule is that it must precede election and plea.",
     "why_A_wrong": "Stinchcombe does not require disclosure at the first appearance, although prompt disclosure is encouraged. The binding requirement is that disclosure precede election or plea.",
     "why_B_wrong": "This IS the correct answer. Disclosure must be made before the accused is required to elect or enter a plea, and the duty is continuing as new information becomes available.",
     "why_C_wrong": "There is no fixed 60-day rule in Stinchcombe. The trigger is the election and plea, not a calendar deadline counted from trial.",
@@ -346,14 +346,14 @@
     "options": {
       "A": "Defence must bring a Stinchcombe application requiring the Crown to obtain the records through the police.",
       "B": "Defence must apply under ss. 278.1–278.91 of the Criminal Code because those provisions apply to all third party records sought in criminal proceedings.",
-      "C": "Defence must bring an application under the procedure established in R v O'Connor, 1995 CanLII 51 (SCC), seeking production from the third party; the court will assess likely relevance and balance the accused's right to make full answer and defence against the privacy interests of the complainant.",
+      "C": "Defence must bring an application under the procedure established in R v O'Connor, [1995] 4 SCR 411, seeking production from the third party; the court will assess likely relevance and balance the accused's right to make full answer and defence against the privacy interests of the complainant.",
       "D": "Defence is not entitled to any third party records held by private employers unless the Crown first discloses them."
     },
     "correct_answer": "C",
     "explanation": "The two-stage procedure from R v O'Connor, [1995] 4 SCR 411, governs production of third party records in non-sexual offence proceedings. Under O'Connor, at the first stage the accused must satisfy the court that the records are likely relevant. If this threshold is met, the records are produced to the judge for review. At the second stage, the judge balances the accused's s. 7 right to make full answer and defence against privacy rights and other competing interests, and determines what, if any, portion should be produced to the accused. The ss. 278.1–278.91 regime does not apply here because this is not a sexual offence case.",
     "why_A_wrong": "Stinchcombe only governs materials the Crown already has or can reasonably obtain through the police investigation. Third party records held by an employer require a separate O'Connor application, not a Crown disclosure order.",
     "why_B_wrong": "Sections 278.1–278.91 of the Criminal Code apply exclusively to records relating to a complainant in a sexual offence proceeding. An assault charge in a workplace dispute is not a sexual offence, and that regime does not govern.",
-    "why_C_wrong": "This IS the correct answer. Defence must bring an application under the procedure established in R v O'Connor, 1995 CanLII 51 (SCC), seeking production from the third party; the court will assess likely relevance and balance the accused's right to make full answer and defence against the privacy interests of the complainant.",
+    "why_C_wrong": "This IS the correct answer. Defence must bring an application under the procedure established in R v O'Connor, [1995] 4 SCR 411, seeking production from the third party; the court will assess likely relevance and balance the accused's right to make full answer and defence against the privacy interests of the complainant.",
     "why_D_wrong": "Defence may apply directly for third party records through the O'Connor procedure without requiring Crown to first disclose them. The Crown's failure to possess records does not preclude the accused from seeking them from the holder.",
     "source_reference": {
       "lso_material": "2026 LSO Barrister Examination Materials",

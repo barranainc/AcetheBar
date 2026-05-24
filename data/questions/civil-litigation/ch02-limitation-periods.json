@@ -155,11 +155,11 @@
       "no limitation period",
       "15-year ultimate limitation does not apply"
     ],
-    "estimated_time_seconds": 105,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   },
   {
     "id": "civ-02-basic-lim-004",
@@ -427,11 +427,11 @@
       "discovery postponed until defendant identified",
       "objective 'ought to know' standard"
     ],
-    "estimated_time_seconds": 110,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   },
   {
     "id": "civ-02-discov-004",
@@ -536,10 +536,10 @@
       "plaintiff bears burden to rebut",
       "date of discovery vs. act or omission"
     ],
-    "estimated_time_seconds": 85,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-24"
   }
 ]

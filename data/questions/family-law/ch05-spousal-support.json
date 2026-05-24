@@ -254,9 +254,9 @@
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Family Law",
       "chapter": "Chapter 5 — Spousal Support",
-      "heading": "Entitlement Grounds — FLA s.33(8) and Divorce Act s.15.2(6)",
+      "heading": "Variation of Spousal Support — Material Change in Circumstances",
       "page": "N/A",
-      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 33(8); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2(6)"
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 37; Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 17"
     },
     "pr_angle": {
       "applicable": false,
@@ -309,11 +309,25 @@
       "chapter": "Spousal Support",
       "heading": "Spousal Support Advisory Guidelines (SSAG)",
       "page": "see blueprint",
-      "rule_or_statute_reference": "Spousal Support Advisory Guidelines (2008, revised 2016); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2"
+      "rule_or_statute_reference": "Spousal Support Advisory Guidelines (2008, revised 2021); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["SSAG", "advisory guidelines", "not binding", "quantum and duration", "without child formula"],
-    "tested_concepts": ["SSAG advisory status", "SSAG not legislation", "SSAG apply to quantum and duration not entitlement", "court may depart from range"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "SSAG",
+      "advisory guidelines",
+      "not binding",
+      "quantum and duration",
+      "without child formula"
+    ],
+    "tested_concepts": [
+      "SSAG advisory status",
+      "SSAG not legislation",
+      "SSAG apply to quantum and duration not entitlement",
+      "court may depart from range"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -351,11 +365,26 @@
       "chapter": "Spousal Support",
       "heading": "Spousal Support Advisory Guidelines (SSAG)",
       "page": "see blueprint",
-      "rule_or_statute_reference": "Spousal Support Advisory Guidelines (2008, revised 2016); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2"
+      "rule_or_statute_reference": "Spousal Support Advisory Guidelines (2008, revised 2021); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["SSAG", "with-child formula", "without-child formula", "dependent children", "primary care", "custodial arrangements"],
-    "tested_concepts": ["SSAG with-child vs without-child formula", "dependent children trigger with-child formula", "with-child formula produces higher amounts", "formula selection"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "SSAG",
+      "with-child formula",
+      "without-child formula",
+      "dependent children",
+      "primary care",
+      "custodial arrangements"
+    ],
+    "tested_concepts": [
+      "SSAG with-child vs without-child formula",
+      "dependent children trigger with-child formula",
+      "with-child formula produces higher amounts",
+      "formula selection"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",

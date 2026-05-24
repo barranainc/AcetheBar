@@ -1,7 +1,7 @@
 # Generated Exam Register
 
 **Project:** AcetheBar — LSO Barrister Licensing Examination Practice System  
-**Last updated:** 2026-05-23
+**Last updated:** 2026-05-24
 
 ---
 
@@ -52,22 +52,30 @@ Generated exams are assembled from `data/questions/` using `tools/assemble_exam.
 | **Tab label** | Generated Barrister C |
 | **Assembly file** | `data/exams/generated-barrister-c.json` |
 | **Manifest** | `data/exams/generated-barrister-c-manifest.json` |
-| **Assembled** | 2026-05-23T21:50:26 UTC |
+| **Assembled** | 2026-05-24 (reassembled after Phase 2C Legal QA fixes; original: 2026-05-23T21:50:26 UTC) |
 | **Assembly tool** | `tools/assemble_exam.py --exam-id generated-barrister-c --exam-label "Generated Barrister C" --seed 1` |
 | **Seed** | 1 (deterministic — re-running with seed 1 produces identical question selection) |
 | **Total questions** | 160 |
 | **Subject allocation** | Civil Litigation: 43 · Criminal Law: 43 · Family Law: 39 · Public Law: 35 |
 | **PR treatment** | Embedded overlay (pr_angle.applicable) — PR is not a separate section |
+| **PR-angle count** | 3 (civ-06-injunction-005, civ-07-sumj-ev-004, crim-02-s9-detent-004) |
 | **Validation status** | All 160 questions: `draft` |
 | **Similarity risk** | All 160 questions: `low` |
 | **Difficulty split** | Easy: 28 · Medium: 58 · Hard: 47 · Exam-trap: 27 |
-| **Legal review** | Pending — Flags A–D from BLUEPRINT_AUDIT_REPORT.md must be resolved before promoting to `source_checked` |
+| **Legal review** | Phase 2C QA complete — 26 fixes applied, 6 questions flagged for human review. See `docs/LEGAL_QA_GENERATED_BARRISTER_C.md`. Remaining flags (A–D from BLUEPRINT_AUDIT_REPORT.md) must also be resolved before promoting to `source_checked`. |
+| **Baked into index.html** | Yes — `barc` base64 payload updated 2026-05-24 (length: 381,872 chars) |
 | **Source question files** | See manifest `source_files` array (14 chapter files across 4 subjects) |
 
 #### Legal Source Constraints
 - All questions draw exclusively from official 2026 LSO Barrister materials
 - No questions are sourced from Access the Bar, Brigham, or any third-party prep provider
 - Flagged subtopics (Blueprint Audit Flags A–D) are included in this exam; their legal citations require reviewer confirmation before the exam is promoted beyond `draft`
+
+#### Phase 2C Legal QA Summary (2026-05-24)
+- **130 questions:** PASS — no legal content issues found
+- **26 questions:** FIXED — legal content errors corrected (citation errors, wrong section numbers, pr_angle tags, chronology errors)
+- **6 questions:** HUMAN REVIEW REQUIRED — flagged but not auto-fixed (FLA s.4(2) subsection letters; fam-03-deduct-marr-004; fam-04-mh-consent-003)
+- Full per-question table: `docs/LEGAL_QA_GENERATED_BARRISTER_C.md`
 
 #### To Re-Assemble Exam C
 ```bash

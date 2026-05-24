@@ -77,7 +77,7 @@
     "why_A_wrong": "Storrey expressly rejected the notion that any information suffices. The standard requires objectively reasonable grounds, not just receipt of information.",
     "why_B_wrong": "Storrey requires both subjective belief and objective justifiability. Subjective belief alone — even a sincere one — does not satisfy the standard for a valid warrantless arrest.",
     "why_C_wrong": "This IS the correct answer. No — a peace officer must have reasonable grounds to believe the person committed an indictable offence; an unvetted tip without corroboration typically does not satisfy the objective standard required by R v Storrey.",
-    "why_D_wrong": "Section 495(1)(b) allows arrest based on reasonable grounds that a person has committed an indictable offence without requiring the officer to witness it. The issue here is not the witnessing requirement but the insufficiency of grounds.",
+    "why_D_wrong": "Section 495(1)(a) allows arrest based on reasonable grounds that a person has committed an indictable offence without requiring the officer to witness it. The issue here is not the witnessing requirement but the insufficiency of grounds.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
@@ -194,7 +194,7 @@
       "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
       "heading": "Arrest Without Warrant — Peace Officer Powers",
       "page": "N/A",
-      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 495(1) and s. 495(2)"
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 494(1)(b) and s. 494(2)"
     },
     "pr_angle": {
       "applicable": false,
@@ -409,7 +409,7 @@
     "why_A_wrong": "Sinclair explicitly recognised that a single consultation does not permanently satisfy s. 10(b) where circumstances materially change. The right is event-specific, not a one-time satisfaction.",
     "why_B_wrong": "A change in the nature of jeopardy — not merely the topic — can re-trigger s. 10(b). Shifting questioning from a petty offence to a homicide plainly alters the accused's legal exposure materially.",
     "why_C_wrong": "This IS the correct answer. Yes — under R v Sinclair, 2010 SCC 35, a material change in the accused's jeopardy — such as shifting from a minor theft to a homicide — constitutes a new circumstance that re-triggers the right to counsel.",
-    "why_D_wrong": "Under Sinclair, the obligation to re-advise is triggered by the objective change in circumstances, not contingent solely on the accused making a request. Police have a proactive duty when jeopardy materially changes.",
+    "why_D_wrong": "Under Sinclair, the obligation to re-advise is triggered by the objective change in circumstances, not contingent solely on the accused making a request. Police may be required to re-advise when jeopardy materially changes (Sinclair, 2010 SCC 35, was a 5-4 decision).",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
@@ -1199,8 +1199,8 @@
       "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 9; R v Mann, 2004 SCC 52"
     },
     "pr_angle": {
-      "applicable": false,
-      "pr_issue_type": null
+      "applicable": true,
+      "pr_issue_type": "racial profiling / arbitrary detention"
     },
     "exam_trigger_words": [
       "arbitrary detention",
