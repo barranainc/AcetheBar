@@ -139,14 +139,62 @@ Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
 
 ---
 
+### Generated Barrister E
+
+| Field | Value |
+|-------|-------|
+| **Exam key** | `bare` |
+| **Tab label** | Generated Barrister E |
+| **Assembly file** | `data/exams/generated-barrister-e.json` |
+| **Manifest** | `data/exams/generated-barrister-e-manifest.json` |
+| **Assembled** | 2026-05-24 (Phase 2G) |
+| **Assembly tool** | `tools/assemble_exam.py --exam-id generated-barrister-e --exam-label "Generated Barrister E" --seed 3 --exclude data/exams/generated-barrister-c-manifest.json --exclude data/exams/generated-barrister-d-manifest.json` |
+| **Seed** | 3 (deterministic — re-running with seed 3 and same exclusions produces identical selection) |
+| **Total questions** | 160 |
+| **Subject allocation** | Civil Litigation: 43 · Criminal Law: 43 · Family Law: 39 · Public Law: 35 |
+| **PR treatment** | Embedded overlay (pr_angle.applicable) — PR is not a separate section |
+| **PR-angle count** | 3 |
+| **Validation status** | All 160 questions: `draft` |
+| **Similarity risk** | All 160 questions: `low` |
+| **Difficulty split** | Easy: 10 · Medium: 72 · Hard: 65 · Exam-trap: 13 |
+| **Legal review** | Phase 2G-QA not yet started — all questions remain `draft` |
+| **Baked into index.html** | Yes — `bare` base64 payload baked 2026-05-24 (length: 467,732 chars) |
+| **Source question files** | See manifest `source_files` array (across 4 subjects) |
+| **Overlap with C** | 0 questions — verified via set intersection of question_ids_used |
+| **Overlap with D** | 0 questions — verified via set intersection of question_ids_used |
+
+#### Legal Source Constraints
+- All questions draw exclusively from official 2026 LSO Barrister materials
+- No questions are sourced from Access the Bar, Brigham, or any third-party prep provider
+- Excluded all 160 questions used in Generated Barrister C
+- Excluded all 160 questions used in Generated Barrister D
+
+#### Phase 2G Assembly Notes (2026-05-24)
+- `tools/assemble_exam.py` updated to support multiple `--exclude` flags (`action='append'`)
+- Pool available after C+D exclusions: 148 CIV / 153 CRIM / 134 FAM / 121 PUB
+- All 160 selected questions: validation_status=draft, similarity_risk=low
+- Legal QA (Phase 2G-QA) not yet run — exam is draft only; do not present as study-ready
+
+#### To Re-Assemble Exam E
+```bash
+python3 tools/assemble_exam.py \
+  --exam-id generated-barrister-e \
+  --exam-label "Generated Barrister E" \
+  --seed 3 \
+  --exclude data/exams/generated-barrister-c-manifest.json \
+  --exclude data/exams/generated-barrister-d-manifest.json
+```
+Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
+
+---
+
 ## Section 3 — Future Generated Exams (Not Yet Built)
 
 | Planned ID | Label | Target allocation | Seed | Status |
 |------------|-------|-------------------|------|--------|
-| `bare` | Generated Barrister E | 43/43/39/35 | 3 | Not yet generated — requires Phase 2F question generation |
-| `barf` | Generated Barrister F | 43/43/39/35 | 4 | Not yet generated |
+| `barf` | Generated Barrister F | 43/43/39/35 | 4 | Not yet generated — requires Phase 2H question generation |
 
-**Note:** Exams E, F will exclude questions already used in Exams C and D (via `--exclude` flag on `tools/assemble_exam.py`). Each will require sufficient question bank depth beyond the current baseline.
+**Note:** Exam F will exclude questions already used in Exams C, D, and E (three `--exclude` flags on `tools/assemble_exam.py`). Each will require sufficient question bank depth beyond the current baseline.
 
 ---
 

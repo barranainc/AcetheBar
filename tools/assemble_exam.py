@@ -249,21 +249,22 @@ def main():
     parser.add_argument("--exam-id",    default="generated-barrister-c",  help="Short exam identifier")
     parser.add_argument("--exam-label", default="Generated Barrister C",   help="Human-readable label")
     parser.add_argument("--seed",       type=int, default=1,               help="RNG seed for deterministic selection")
-    parser.add_argument("--exclude",    metavar="MANIFEST",                help="Manifest file whose used_ids are excluded")
+    parser.add_argument("--exclude",    metavar="MANIFEST", action="append", help="Manifest file whose used_ids are excluded (repeatable)")
     parser.add_argument("--out-dir",    default="data/exams",              help="Output directory")
     parser.add_argument("--dry-run",    action="store_true",               help="Print summary, do not write files")
     args = parser.parse_args()
 
-    # Excluded IDs
+    # Excluded IDs — accumulate from all --exclude manifests
     excluded_ids: set[str] = set()
-    if args.exclude:
-        exc_path = Path(args.exclude)
+    for exc_file in (args.exclude or []):
+        exc_path = Path(exc_file)
         if not exc_path.exists():
             print(f"❌ Exclude manifest not found: {exc_path}", file=sys.stderr)
             sys.exit(2)
         exc_manifest = json.loads(exc_path.read_text(encoding="utf-8"))
-        excluded_ids = set(exc_manifest.get("question_ids_used", []))
-        print(f"  Excluding {len(excluded_ids)} IDs from {exc_path.name}")
+        these_ids = set(exc_manifest.get("question_ids_used", []))
+        excluded_ids |= these_ids
+        print(f"  Excluding {len(these_ids)} IDs from {exc_path.name}")
 
     rng = random.Random(args.seed)
 
