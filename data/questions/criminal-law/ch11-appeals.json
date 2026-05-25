@@ -1,0 +1,232 @@
+[
+  {
+    "id": "crim-11-sum-app-001",
+    "subject": "criminal_law",
+    "chapter_number": 11,
+    "chapter_title": "Appeals",
+    "topic_id": "criminal_appeals",
+    "topic_heading": "Criminal Appeals",
+    "subtopic_id": "summary_conviction_appeal",
+    "subtopic_heading": "Summary Conviction Appeals — s. 813 Criminal Code",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is convicted of a summary conviction offence in the Ontario Court of Justice. He wishes to appeal the conviction on the basis that the trial judge misapplied the law.",
+    "call_of_question": "Under s. 813 of the Criminal Code, to which court does the accused appeal from a summary conviction?",
+    "options": {
+      "A": "The Court of Appeal for Ontario.",
+      "B": "The Superior Court of Justice (as a summary conviction appeal court).",
+      "C": "The Supreme Court of Canada.",
+      "D": "The Divisional Court, which has exclusive jurisdiction over all criminal appeals."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 813 of the Criminal Code provides that the defendant or the informant may appeal to the summary conviction appeal court against a conviction, acquittal, or sentence. In Ontario, the summary conviction appeal court is the Superior Court of Justice (pursuant to the provincial designation). The appeal from a summary conviction goes first to the Superior Court of Justice, not to the Court of Appeal. A further appeal on a question of law lies to the Court of Appeal for Ontario with leave, under s. 839 of the Criminal Code.",
+    "why_A_wrong": "The Court of Appeal is not the first-level appeal court for summary convictions. Summary conviction appeals go to the summary conviction appeal court (Superior Court of Justice in Ontario). The Court of Appeal hears further appeals on questions of law with leave under s. 839.",
+    "why_B_wrong": "This IS the correct answer. Under s. 813, the summary conviction appeal court in Ontario is the Superior Court of Justice.",
+    "why_C_wrong": "The Supreme Court of Canada is not a first-level appeal court for summary convictions. It hears appeals only on questions of law of public importance with leave, typically after the Court of Appeal has considered the matter.",
+    "why_D_wrong": "The Divisional Court does not have jurisdiction over criminal appeals. The Divisional Court handles civil appeals and judicial review of administrative decisions. Criminal summary conviction appeals go to the Superior Court of Justice acting as a summary conviction appeal court.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 11: Appeals",
+      "heading": "Summary Conviction Appeals — s. 813",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 813, s. 839"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "summary conviction appeal",
+      "s. 813",
+      "Superior Court of Justice",
+      "appeal court",
+      "summary conviction appeal court"
+    ],
+    "tested_concepts": [
+      "s. 813 summary conviction appeal court",
+      "Superior Court of Justice as appeal court for summary convictions",
+      "further appeal to Court of Appeal (s. 839)"
+    ],
+    "estimated_time_seconds": 60,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-11-ind-app-001",
+    "subject": "criminal_law",
+    "chapter_number": 11,
+    "chapter_title": "Appeals",
+    "topic_id": "criminal_appeals",
+    "topic_heading": "Criminal Appeals",
+    "subtopic_id": "indictable_appeal",
+    "subtopic_heading": "Indictable Offence Appeals — s. 675 and s. 676",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is convicted of robbery (an indictable offence) after a jury trial. He seeks to appeal his conviction to the Court of Appeal for Ontario.",
+    "call_of_question": "Under s. 675 of the Criminal Code, on what grounds may the accused appeal a conviction entered after a jury trial?",
+    "options": {
+      "A": "On any ground, including both questions of law and questions of fact, as of right.",
+      "B": "On a question of law as of right; on a question of fact or mixed fact and law only with leave of the Court of Appeal.",
+      "C": "On a question of law only, with leave of the Court of Appeal; no appeal on questions of fact is available.",
+      "D": "Only if the sentence imposed was manifestly excessive."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 675(1) of the Criminal Code provides that a person convicted of an indictable offence may appeal to the Court of Appeal: (a) on any ground of appeal that involves a question of law alone, as of right; (b) on any ground of appeal that involves a question of fact alone, or a question of mixed law and fact, with leave of the Court of Appeal or on the certification of the trial judge; and (c) on any ground that appears to the Court of Appeal to be a sufficient ground, with leave. After a jury trial, s.675(1.1) limits grounds to: question of law as of right; question of fact with leave. The fundamental structure is: questions of law — as of right; questions of fact — with leave.",
+    "why_A_wrong": "An appeal on questions of fact is not available as of right under s.675. It requires leave of the Court of Appeal. The as-of-right appeal is limited to questions of law alone.",
+    "why_B_wrong": "This IS the correct answer. Section 675(1) permits appeals on questions of law as of right, and on questions of fact or mixed fact and law with leave of the Court of Appeal.",
+    "why_C_wrong": "Appeals on questions of fact are not categorically barred under s.675 — they require leave but are available. The statement that 'no appeal on questions of fact is available' is incorrect.",
+    "why_D_wrong": "Section 675 does not limit appeals to cases of manifestly excessive sentences. Sentence appeals are governed by s.675(1)(b.1), which permits sentence appeals with leave on grounds of sentence only. The conviction appeal grounds include questions of law and (with leave) questions of fact.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 11: Appeals",
+      "heading": "Indictable Conviction Appeal — s. 675",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 675(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 675",
+      "indictable appeal",
+      "question of law",
+      "question of fact",
+      "as of right",
+      "leave",
+      "Court of Appeal"
+    ],
+    "tested_concepts": [
+      "s. 675 indictable appeal grounds",
+      "questions of law as of right",
+      "questions of fact with leave",
+      "jury trial appeal grounds"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-11-fresh-ev-001",
+    "subject": "criminal_law",
+    "chapter_number": 11,
+    "chapter_title": "Appeals",
+    "topic_id": "criminal_appeals",
+    "topic_heading": "Criminal Appeals",
+    "subtopic_id": "fresh_evidence",
+    "subtopic_heading": "Fresh Evidence on Appeal — Palmer Test",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused was convicted of fraud at trial. On appeal, he seeks to introduce new affidavit evidence from a forensic accountant who was retained after the trial. The forensic accountant's opinion contradicts the Crown's expert evidence at trial. The accused did not call an expert accountant at trial even though defence counsel was aware such evidence might be helpful.",
+    "call_of_question": "Under the Palmer test for fresh evidence on criminal appeals, which requirement is MOST likely to defeat the accused's application to introduce this evidence?",
+    "options": {
+      "A": "The evidence must be credible in the sense that it is reasonably capable of belief.",
+      "B": "The evidence must be relevant and bear on a decisive or potentially decisive issue.",
+      "C": "The evidence could not have been obtained with reasonable diligence at trial — the due diligence requirement.",
+      "D": "The evidence must, if believed, have affected the verdict."
+    },
+    "correct_answer": "C",
+    "explanation": "In Palmer v. The Queen, [1980] 1 SCR 759, the Supreme Court set out the four-part test for admitting fresh evidence on appeal: (1) the evidence could not, by the exercise of reasonable diligence, have been obtained for use at trial (due diligence); (2) the evidence must be relevant in the sense that it bears on a decisive or potentially decisive issue; (3) the evidence must be credible in the sense that it is reasonably capable of belief; and (4) the evidence, if believed, could reasonably be expected to have affected the result. On these facts, the due diligence requirement is the most problematic criterion. Defence counsel was aware of the potential need for a forensic accountant but did not retain one. The failure to call available expert evidence at trial is a strategic choice that the accused cannot revisit on appeal under the guise of fresh evidence.",
+    "why_A_wrong": "Credibility (requirement 3 of Palmer) is not the most challenging requirement on these facts. The forensic accountant's evidence would likely be credible as expert opinion. The failing is the due diligence requirement, not credibility.",
+    "why_B_wrong": "Relevance (requirement 2 of Palmer) is not the most challenging requirement here. Evidence that directly contradicts the Crown's expert on the key issue is clearly relevant. The problem is due diligence — the evidence was available at trial.",
+    "why_C_wrong": "This IS the correct answer. The due diligence requirement is the most likely defeat for this fresh evidence application because defence counsel was aware of the potential value of expert accounting evidence but chose not to retain one at trial. This defeats the 'could not have been obtained with reasonable diligence' requirement.",
+    "why_D_wrong": "Whether the evidence could have affected the verdict (requirement 4) is not the most challenging criterion. Contradicting the Crown's expert on fraud accounting could well affect the verdict. The due diligence failure is the primary bar.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 11: Appeals",
+      "heading": "Fresh Evidence on Appeal — Palmer Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Palmer v. The Queen, [1980] 1 SCR 759; Criminal Code, R.S.C. 1985, c. C-46, s. 683(1)(d)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "fresh evidence",
+      "Palmer test",
+      "due diligence",
+      "could not have been obtained",
+      "affect the result",
+      "credible",
+      "relevant"
+    ],
+    "tested_concepts": [
+      "Palmer four-part fresh evidence test",
+      "due diligence requirement",
+      "strategic choice vs fresh evidence",
+      "credibility and relevance of fresh evidence"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-11-crown-app-001",
+    "subject": "criminal_law",
+    "chapter_number": 11,
+    "chapter_title": "Appeals",
+    "topic_id": "criminal_appeals",
+    "topic_heading": "Criminal Appeals",
+    "subtopic_id": "crown_appeal",
+    "subtopic_heading": "Crown Appeals — s. 676 Criminal Code",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is acquitted by a jury of first degree murder after the trial judge incorrectly directed the jury on the law of mens rea. The Crown wishes to appeal the acquittal.",
+    "call_of_question": "Under s. 676 of the Criminal Code, on what grounds may the Crown appeal an acquittal by a jury?",
+    "options": {
+      "A": "The Crown may appeal on any ground — questions of law, fact, or mixed fact and law — as of right.",
+      "B": "The Crown may appeal only on a question of law, as of right.",
+      "C": "The Crown may not appeal a jury acquittal in Canada because of the constitutional prohibition against double jeopardy.",
+      "D": "The Crown may appeal on any ground with leave of the Court of Appeal, including questions of fact."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 676(1) of the Criminal Code provides that the Attorney General or counsel acting on behalf of the Attorney General may appeal against a verdict of acquittal or a judgment in favour of the accused on any ground of appeal that involves a question of law alone. The Crown's right to appeal an acquittal is significantly more restricted than the accused's appeal rights. The Crown may appeal a jury acquittal only on a question of law (including a legal error in the trial judge's charge to the jury), and this is an as-of-right appeal. The Crown cannot appeal on questions of fact, mixed fact and law, or on the ground that the verdict was unreasonable. If the Crown's appeal is successful, the Court of Appeal may set aside the acquittal and enter a conviction, order a new trial, or make any other order that justice requires (s. 686(4)).",
+    "why_A_wrong": "The Crown's appeal rights under s.676 are more limited than the accused's. The Crown may not appeal on questions of fact or mixed fact and law from a jury acquittal. The Crown's appeal is restricted to questions of law alone.",
+    "why_B_wrong": "This IS the correct answer. Under s.676(1), the Crown may appeal a jury acquittal on a question of law alone, as of right.",
+    "why_C_wrong": "The Charter's s.11(h) protection against double jeopardy is not an absolute bar to Crown appeals in Canada. The Criminal Code expressly provides for Crown appeals against acquittals on questions of law (s.676), and the SCC has upheld this as consistent with the Charter.",
+    "why_D_wrong": "The Crown does not need leave to appeal a jury acquittal on a question of law — it is an as-of-right appeal. However, the Crown cannot appeal on questions of fact even with leave. The Crown's appeal right is limited to questions of law alone.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 11: Appeals",
+      "heading": "Crown Appeal of Acquittal — s. 676",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 676(1), s. 686(4); Canadian Charter of Rights and Freedoms, s. 11(h)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Crown appeal",
+      "acquittal",
+      "s. 676",
+      "question of law",
+      "jury acquittal",
+      "as of right",
+      "double jeopardy"
+    ],
+    "tested_concepts": [
+      "s. 676 Crown appeal of acquittal",
+      "questions of law only for Crown",
+      "as-of-right Crown appeal on law",
+      "distinction from accused appeal rights",
+      "s. 11(h) Charter double jeopardy"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

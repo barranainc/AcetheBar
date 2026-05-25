@@ -30,7 +30,7 @@
     "why_D_wrong": "Incorrect. Informing the client of inexperience does not cure the competence deficiency. Rule 3.1-2 requires competent performance, not merely candour about limitations.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 2",
       "heading": "Competence and Quality of Service",
       "page": "N/A",
@@ -84,7 +84,7 @@
     "why_D_wrong": "Incorrect. Passive availability is not meaningful supervision. Rule 3.1-2 requires active oversight commensurate with the complexity of the delegated work.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 2",
       "heading": "Competence and Quality of Service",
       "page": "N/A",
@@ -138,7 +138,7 @@
     "why_D_wrong": "Incorrect. The duty to keep current is proactive, not reactive. A lawyer cannot wait to be told about significant legal developments.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 2",
       "heading": "Competence and Quality of Service",
       "page": "N/A",
@@ -192,7 +192,7 @@
     "why_D_wrong": "Incorrect. Client assumption of risk is not a defence to a breach of the Rules of Professional Conduct. The competence standard is not waivable.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 2",
       "heading": "Competence and Quality of Service",
       "page": "N/A",
@@ -246,7 +246,7 @@
     "why_D_wrong": "Incorrect. The obligation to disclose the error arises as soon as it is discovered, not upon a final adverse judgment. Waiting may further prejudice the client.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 2",
       "heading": "Competence and Quality of Service",
       "page": "N/A",
@@ -269,5 +269,170 @@
       "client right to seek independent advice"
     ],
     "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-02-superv-001",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1 and Supervision — Rule 5.01",
+    "subtopic_id": "supervision_obligations",
+    "subtopic_heading": "Supervision of Non-Lawyers — Rule 5.01",
+    "difficulty": "medium",
+    "fact_pattern": "Fatima is a sole practitioner who employs two legal assistants. She is very busy and has instructed her legal assistants to handle initial client intake calls, assess whether matters are urgent, and draft routine correspondence to send to opposing parties. She does not review the assistants' correspondence before it is sent. One of the assistants sends an opposing party a letter containing an incorrect legal position that prejudices Fatima's client. Fatima learns of it when the opposing party responds.",
+    "call_of_question": "Which of the following best describes Fatima's obligations and potential liability under Rule 5.01 of the Rules of Professional Conduct?",
+    "options": {
+      "A": "Fatima is not liable because non-lawyers act independently and bear their own responsibility for errors they commit.",
+      "B": "Fatima is solely liable for the incorrect letter only if she specifically directed the legal assistant to write it.",
+      "C": "Under Rule 5.01(1), a lawyer must ensure that non-lawyers working under their supervision comply with the Rules of Professional Conduct; Fatima has breached this obligation by failing to review outgoing correspondence prepared by her assistants, making her professionally responsible for the error.",
+      "D": "Fatima is not liable because she properly delegated the task and the legal assistant was at fault for not seeking clarification."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 5.01(1) of the LSO Rules of Professional Conduct requires a lawyer to ensure that non-lawyers working under the lawyer's supervision comply with the Rules of Professional Conduct. The Commentary to Rule 5.01 makes clear that a lawyer must implement systems to review and supervise non-lawyer work. Fatima's failure to review correspondence before it is sent on her behalf is a breach of her supervision obligation — she cannot delegate professional responsibility to unqualified staff.",
+    "why_A_wrong": "Incorrect. Non-lawyers are not independent practitioners and do not bear separate professional responsibility under the Rules. The supervising lawyer remains accountable for their work.",
+    "why_B_wrong": "Incorrect. The supervision obligation is not limited to matters Fatima specifically directed. She is responsible for the supervision system as a whole, including review of outgoing correspondence.",
+    "why_C_wrong": "This IS the correct answer. Under Rule 5.01(1), a lawyer must ensure that non-lawyers working under their supervision comply with the Rules of Professional Conduct; Fatima has breached this obligation by failing to review outgoing correspondence prepared by her assistants, making her professionally responsible for the error.",
+    "why_D_wrong": "Incorrect. Delegation does not discharge the lawyer's supervision obligation. Rule 5.01 places the responsibility on the lawyer to ensure compliance, not merely to assign tasks.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.01(1)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "supervision of non-lawyers"
+    },
+    "exam_trigger_words": [
+      "legal assistant",
+      "non-lawyer",
+      "supervision",
+      "Rule 5.01",
+      "delegated task"
+    ],
+    "tested_concepts": [
+      "Rule 5.01(1) — duty to supervise non-lawyers",
+      "lawyer responsible for non-lawyer errors",
+      "delegation does not discharge supervision obligation"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-02-superv-002",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1 and Supervision — Rule 5.01",
+    "subtopic_id": "supervision_obligations",
+    "subtopic_heading": "Supervision of Associate Lawyers — Rule 5.01",
+    "difficulty": "hard",
+    "fact_pattern": "Gregory is the managing partner of a mid-size litigation firm. The firm has a policy of assigning junior associate lawyers to manage files with minimal oversight once the file is opened. Associate Harriet, who was called to the bar eight months ago, is assigned a complex commercial arbitration matter without any partner review of her strategy, pleadings, or correspondence. A critical arbitration deadline is missed due to Harriet's unfamiliarity with the arbitration timeline rules, causing the client's claim to be struck. Gregory argues that Harriet is a licensed lawyer and therefore solely responsible for her own file management.",
+    "call_of_question": "Is Gregory correct that Harriet, as a licensed lawyer, bears sole responsibility for the missed deadline?",
+    "options": {
+      "A": "Yes — once a lawyer is licensed, they are independently responsible for their own files and the firm bears no supervisory obligation.",
+      "B": "Yes — Gregory's obligation to supervise only applies to non-lawyer staff, not to junior associate lawyers.",
+      "C": "No — Rule 5.01 requires responsible lawyers at a firm to ensure that associate lawyers under their supervision have adequate guidance and oversight; Gregory's firm's policy of minimal oversight for junior associates on complex matters is a breach of the supervision obligation.",
+      "D": "No — but Harriet's liability is reduced because the firm's culture of minimal oversight constitutes a mitigating factor in her discipline proceedings."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 5.01 applies to supervision of both non-lawyers and associate lawyers. The obligation to supervise does not disappear simply because an associate holds a law licence. The Commentary to Rule 5.01 recognizes that responsible lawyers must ensure associates have adequate guidance, especially for complex matters. A firm-wide policy that systematically deprives junior associates of supervision on complex files exposes the responsible lawyers to professional liability. Both Harriet and Gregory may bear responsibility.",
+    "why_A_wrong": "Incorrect. Licensing does not make an associate lawyer immune from the firm's supervision obligations. Responsible partners retain obligations to ensure adequate oversight of junior lawyers' work.",
+    "why_B_wrong": "Incorrect. Rule 5.01 applies to both non-lawyers and associate lawyers working under a responsible lawyer's supervision.",
+    "why_C_wrong": "This IS the correct answer. No — Rule 5.01 requires responsible lawyers at a firm to ensure that associate lawyers under their supervision have adequate guidance and oversight; Gregory's firm's policy of minimal oversight for junior associates on complex matters is a breach of the supervision obligation.",
+    "why_D_wrong": "Incorrect. The question is whether Gregory is liable, not whether Harriet's liability is mitigated. The supervision obligation is positive — it requires active oversight, not merely a cultural factor in mitigation.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.01"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "supervision of associate lawyers"
+    },
+    "exam_trigger_words": [
+      "associate lawyer",
+      "managing partner",
+      "supervision",
+      "junior lawyer",
+      "Rule 5.01"
+    ],
+    "tested_concepts": [
+      "Rule 5.01 — supervision applies to associate lawyers",
+      "licensing does not eliminate firm supervision obligation",
+      "responsible lawyer accountable for supervised lawyers' work"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-02-superv-003",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1 and Supervision — Rule 5.01",
+    "subtopic_id": "supervision_obligations",
+    "subtopic_heading": "Responsibility for Support Staff Errors — Rule 5.01(2)",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Ingrid is a real estate lawyer. Her law clerk, who has worked with the firm for twelve years and is highly experienced, conducts closings with minimal lawyer oversight as a matter of firm practice. During one closing, the law clerk makes a significant error in calculating the mortgage payout figure, resulting in an underpayment to the lender and a shortfall in the trust account. Ingrid argues that she cannot be responsible because the law clerk is an experienced professional who acted independently.",
+    "call_of_question": "Which of the following is the most accurate statement of the professional responsibility outcome under Rule 5.01?",
+    "options": {
+      "A": "The law clerk bears sole professional responsibility because of the clerk's experience and track record; Ingrid can rely on the clerk's expertise.",
+      "B": "Ingrid is not responsible because law clerks are professionals governed by their own institute and owe duties to their own regulatory body.",
+      "C": "Ingrid bears professional responsibility for the law clerk's error under Rule 5.01; the experience and seniority of the non-lawyer do not discharge the lawyer's obligation to ensure adequate supervision and to put in place systems that would catch errors such as a miscalculated mortgage payout.",
+      "D": "Ingrid bears professional responsibility only if she was physically present during the closing when the error was made."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 5.01(2) requires a lawyer to ensure that non-lawyers under the lawyer's supervision comply with the Rules of Professional Conduct. The duty of supervision includes putting in place adequate systems and checks for tasks such as mortgage payout calculations that carry significant financial risk. The experience level of the non-lawyer does not eliminate the lawyer's obligation to have appropriate oversight mechanisms in place. Relying on a clerk's reputation as a substitute for supervision is insufficient.",
+    "why_A_wrong": "Incorrect. Non-lawyers cannot bear professional responsibility under the Rules of Professional Conduct — that obligation belongs to the supervising lawyer. Experience level is not a substitute for supervision systems.",
+    "why_B_wrong": "Incorrect. Law clerks may be members of professional institutes, but that does not create an independent sphere of professional responsibility that insulates the supervising lawyer from their obligations under Rule 5.01.",
+    "why_C_wrong": "This IS the correct answer. Ingrid bears professional responsibility for the law clerk's error under Rule 5.01; the experience and seniority of the non-lawyer do not discharge the lawyer's obligation to ensure adequate supervision and to put in place systems that would catch errors such as a miscalculated mortgage payout.",
+    "why_D_wrong": "Incorrect. Physical presence during a closing is not the test. The supervision obligation requires adequate systems and oversight, not necessarily the lawyer's personal presence at every step.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.01(2)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "supervision of non-lawyers — support staff errors"
+    },
+    "exam_trigger_words": [
+      "law clerk",
+      "experienced",
+      "supervision",
+      "trust account",
+      "Rule 5.01"
+    ],
+    "tested_concepts": [
+      "Rule 5.01(2) — supervision obligation persists regardless of non-lawyer experience",
+      "lawyer must implement error-checking systems",
+      "non-lawyers cannot hold professional responsibility"
+    ],
+    "estimated_time_seconds": 150
   }
 ]

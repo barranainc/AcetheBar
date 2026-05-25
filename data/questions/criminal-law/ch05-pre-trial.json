@@ -1,0 +1,285 @@
+[
+  {
+    "id": "crim-05-plea-001",
+    "subject": "criminal_law",
+    "chapter_number": 5,
+    "chapter_title": "Pre-Trial Procedure",
+    "topic_id": "pre_trial_procedure",
+    "topic_heading": "Pre-Trial Procedure — Guilty Pleas and Election",
+    "subtopic_id": "guilty_plea_requirements",
+    "subtopic_heading": "Guilty Plea Requirements — s. 606 Criminal Code",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Marcus is charged with fraud over $5,000. At his first appearance in the Ontario Court of Justice, he tells the judge he wants to plead guilty. Defence counsel advises that the court must conduct an inquiry before accepting the plea.",
+    "call_of_question": "Under s. 606(1.1) of the Criminal Code, which of the following must the court be satisfied of before accepting a guilty plea?",
+    "options": {
+      "A": "That the accused has obtained independent legal advice and that the Crown consents to the plea.",
+      "B": "That the accused is making the plea voluntarily, understands the nature of the charge, understands the consequences of the plea, and that the facts admitted are sufficient to support a conviction.",
+      "C": "That the accused's counsel has reviewed the disclosure and that the accused has no outstanding Charter applications.",
+      "D": "That the accused understands the nature of the charge and that the Crown has provided a sentencing recommendation."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 606(1.1) of the Criminal Code requires the court to be satisfied of four things before accepting a guilty plea: (a) the accused is making the plea voluntarily; (b) the accused understands the nature of the charge; (c) the accused understands that the plea is an admission of the essential elements of the offence; (d) the accused understands the nature and consequences of the plea, including any direct consequences. The court must also be satisfied that the facts admitted by the accused are sufficient to support a conviction for the offence to which the accused is pleading guilty. Crown consent and independent legal advice are not statutory prerequisites under s. 606(1.1).",
+    "why_A_wrong": "Section 606(1.1) does not require proof of independent legal advice or Crown consent as conditions for accepting a guilty plea. The section focuses on the voluntariness and comprehension of the accused, not procedural consent mechanisms.",
+    "why_B_wrong": "This IS the correct answer. Section 606(1.1) requires the court to confirm voluntariness, understanding of the charge, understanding of the consequences, and factual sufficiency before accepting a guilty plea.",
+    "why_C_wrong": "Disclosure review and the absence of outstanding Charter applications are not preconditions under s. 606(1.1). The inquiry centres on the accused's understanding and voluntariness, not on the state of the proceedings.",
+    "why_D_wrong": "While the court inquires about the accused's understanding of the charge, a Crown sentencing recommendation is not a precondition under s. 606(1.1). The four requirements focus on the accused's subjective comprehension and voluntariness.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 5: Pre-Trial Procedure",
+      "heading": "Guilty Plea Requirements — s. 606",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 606(1) and s. 606(1.1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "guilty plea",
+      "s. 606",
+      "voluntarily",
+      "understands the nature",
+      "sufficient to support a conviction",
+      "court must be satisfied"
+    ],
+    "tested_concepts": [
+      "s. 606(1.1) four-part guilty plea inquiry",
+      "voluntariness of guilty plea",
+      "factual basis requirement",
+      "understanding nature and consequences of plea"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-05-plea-002",
+    "subject": "criminal_law",
+    "chapter_number": 5,
+    "chapter_title": "Pre-Trial Procedure",
+    "topic_id": "pre_trial_procedure",
+    "topic_heading": "Pre-Trial Procedure — Guilty Pleas and Election",
+    "subtopic_id": "guilty_plea_requirements",
+    "subtopic_heading": "Guilty Plea Requirements — s. 606 Criminal Code",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Priya is charged with assault causing bodily harm. She wishes to plead guilty to the lesser offence of common assault. The Crown opposes the proposed plea to the lesser offence.",
+    "call_of_question": "Under the Criminal Code, may the court accept Priya's guilty plea to the lesser offence of common assault over the Crown's objection?",
+    "options": {
+      "A": "Yes — the court has an inherent jurisdiction to accept any plea the accused offers, regardless of Crown consent.",
+      "B": "Yes — s. 606(4) permits the court to accept a plea to a lesser included offence at any time, without requiring Crown consent.",
+      "C": "No — under s. 606(4), acceptance of a guilty plea to a lesser or included offence requires the consent of the Crown.",
+      "D": "No — the court must enter a not guilty plea on behalf of the accused and proceed to trial if the Crown refuses to consent."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 606(4) of the Criminal Code provides that if an accused pleads not guilty to the offence charged but guilty to some other offence arising out of the same transaction, whether or not it is an included offence, the court may, with the consent of the Crown, accept such a plea. Crown consent is a mandatory prerequisite under s. 606(4). The court cannot impose acceptance of the lesser plea over the Crown's objection. If Crown consent is withheld, the court enters a plea of not guilty to the charge as laid.",
+    "why_A_wrong": "Inherent jurisdiction does not override the express statutory requirement in s. 606(4) that Crown consent is required for acceptance of a plea to a lesser or included offence. The statute governs.",
+    "why_B_wrong": "Section 606(4) does require Crown consent. The court does not have unilateral authority to accept a plea to a lesser included offence over the Crown's objection.",
+    "why_C_wrong": "This IS the correct answer. Section 606(4) requires Crown consent before the court may accept a guilty plea to a lesser or included offence. The Crown's refusal here blocks acceptance of the common assault plea.",
+    "why_D_wrong": "The court does not automatically enter a not guilty plea when the Crown withholds consent to a lesser offence plea. The accused may simply plead not guilty to the charge as laid, or the matter proceeds on the original charge. The court does not manufacture a not guilty plea; the accused makes that election.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 5: Pre-Trial Procedure",
+      "heading": "Guilty Plea to Lesser Offence — s. 606(4)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 606(4)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "lesser included offence",
+      "guilty plea",
+      "Crown consent",
+      "s. 606(4)",
+      "plea to lesser offence"
+    ],
+    "tested_concepts": [
+      "s. 606(4) plea to lesser included offence",
+      "Crown consent requirement",
+      "limits of court's acceptance of guilty pleas"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-05-elect-001",
+    "subject": "criminal_law",
+    "chapter_number": 5,
+    "chapter_title": "Pre-Trial Procedure",
+    "topic_id": "pre_trial_procedure",
+    "topic_heading": "Pre-Trial Procedure — Guilty Pleas and Election",
+    "subtopic_id": "mode_of_trial_election",
+    "subtopic_heading": "Mode of Trial Election — s. 536 Criminal Code",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "David is charged with robbery (an offence not listed in s. 553 or s. 469 of the Criminal Code). At his first appearance in the Ontario Court of Justice, the judge asks David how he elects to be tried.",
+    "call_of_question": "Under s. 536(2) of the Criminal Code, which of the following correctly describes the three modes of trial available to David?",
+    "options": {
+      "A": "Provincial court judge alone; Superior Court judge alone; Superior Court judge and jury.",
+      "B": "Provincial court judge alone; Superior Court judge and jury; Court of Appeal.",
+      "C": "Ontario Court of Justice jury; Superior Court judge alone; Superior Court judge and jury.",
+      "D": "Federal court judge alone; Superior Court judge alone; Superior Court judge and jury."
+    },
+    "correct_answer": "A",
+    "explanation": "Section 536(2) of the Criminal Code provides that an accused charged with an indictable offence (other than one listed in s. 553 or s. 469) may elect to be tried by: (1) a provincial court judge (Ontario Court of Justice) sitting alone; (2) a judge of a superior court of criminal jurisdiction sitting alone (without a jury); or (3) a court composed of a judge of a superior court and a jury. These are the only three modes available under s. 536. The Court of Appeal, federal courts, and provincial court juries are not modes of trial election under s. 536.",
+    "why_A_wrong": "This IS the correct answer. Section 536(2) provides three modes: provincial court judge alone, superior court judge alone, and superior court judge and jury.",
+    "why_B_wrong": "The Court of Appeal is an appellate tribunal, not a mode of first-instance trial election. Section 536(2) offers three trial modes, none of which is the Court of Appeal.",
+    "why_C_wrong": "Provincial courts in Ontario do not have jury trial jurisdiction. Jury trials occur only in the Superior Court. The three modes under s. 536(2) do not include a provincial court jury option.",
+    "why_D_wrong": "Federal courts are not part of the criminal trial election framework under s. 536. The provincial court (Ontario Court of Justice) and the Superior Court of Justice are the relevant trial courts in Ontario.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 5: Pre-Trial Procedure",
+      "heading": "Mode of Trial Election — s. 536",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 536(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "election",
+      "mode of trial",
+      "s. 536",
+      "provincial court judge",
+      "superior court judge alone",
+      "judge and jury"
+    ],
+    "tested_concepts": [
+      "s. 536(2) three modes of trial",
+      "provincial court judge alone",
+      "superior court judge alone",
+      "superior court judge and jury"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-05-elect-002",
+    "subject": "criminal_law",
+    "chapter_number": 5,
+    "chapter_title": "Pre-Trial Procedure",
+    "topic_id": "pre_trial_procedure",
+    "topic_heading": "Pre-Trial Procedure — Guilty Pleas and Election",
+    "subtopic_id": "mode_of_trial_election",
+    "subtopic_heading": "Mode of Trial Election — s. 536 Criminal Code",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Fatima is charged with an offence listed in s. 536(2) of the Criminal Code. She initially elects trial by provincial court judge. Four months later, before the preliminary inquiry stage has concluded, she wishes to change her election to trial by superior court judge alone.",
+    "call_of_question": "Under the Criminal Code, may Fatima change her election, and if so, what is required?",
+    "options": {
+      "A": "No — an election is irrevocable once made; Fatima must proceed before the provincial court judge.",
+      "B": "Yes — Fatima may re-elect as of right at any time before the trial commences, without conditions.",
+      "C": "Yes — under s. 561, Fatima may re-elect to a superior court mode before the end of the preliminary inquiry with the consent of the Crown, or after the preliminary inquiry is complete.",
+      "D": "Yes — Fatima may re-elect at any time after indictment, but only with leave of the court."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 561 of the Criminal Code governs re-election of mode of trial. An accused who has elected trial by provincial court judge may re-elect to a superior court mode (judge alone or judge and jury) at various stages. Where a preliminary inquiry has not been waived, s. 561 permits re-election before the end of the preliminary inquiry with the consent of the Crown, or without Crown consent after the preliminary inquiry is completed and before the trial begins. The precise procedural steps and timing are governed by s. 561 and related provisions. An election is not irrevocable; however, re-election requires compliance with the statutory process in s. 561, not an unrestricted as-of-right change at any time.",
+    "why_A_wrong": "Elections under s. 536 are not irrevocable. Section 561 provides a statutory mechanism for re-election, subject to timing and consent requirements.",
+    "why_B_wrong": "Re-election is not available as of right at any time. Section 561 imposes conditions — in particular, Crown consent may be required depending on the stage of proceedings — and the process must comply with the prescribed procedure.",
+    "why_C_wrong": "This IS the correct answer. Section 561 governs re-election and permits it before the end of the preliminary inquiry with Crown consent, or after the preliminary inquiry without Crown consent, subject to timing rules.",
+    "why_D_wrong": "Re-election under s. 561 does not require leave of the court. The mechanism is statutory and depends on Crown consent at certain stages, not judicial leave. Linking re-election to post-indictment timing as the exclusive window is also incorrect.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 5: Pre-Trial Procedure",
+      "heading": "Re-Election of Mode of Trial — s. 561",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 536(2), s. 561"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "re-election",
+      "change election",
+      "s. 561",
+      "Crown consent",
+      "preliminary inquiry",
+      "mode of trial"
+    ],
+    "tested_concepts": [
+      "s. 561 re-election procedure",
+      "Crown consent for re-election before PI ends",
+      "re-election after preliminary inquiry",
+      "irrevocability misconception"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-05-prelim-001",
+    "subject": "criminal_law",
+    "chapter_number": 5,
+    "chapter_title": "Pre-Trial Procedure",
+    "topic_id": "pre_trial_procedure",
+    "topic_heading": "Pre-Trial Procedure — Guilty Pleas and Election",
+    "subtopic_id": "preliminary_inquiry",
+    "subtopic_heading": "Preliminary Inquiry — Purpose and Committal Standard",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At the conclusion of a preliminary inquiry for a murder charge, defence counsel argues that the Crown's evidence is insufficient to commit the accused to trial. The presiding judge reviews the evidence and concludes that a properly instructed jury, acting reasonably, could return a verdict of guilty.",
+    "call_of_question": "Based on this conclusion, what order must the preliminary inquiry judge make?",
+    "options": {
+      "A": "Discharge the accused, because the evidence does not prove guilt beyond a reasonable doubt.",
+      "B": "Commit the accused to stand trial, because the evidence meets the standard of whether a properly instructed jury could return a verdict of guilty.",
+      "C": "Adjourn the hearing and direct the Crown to produce additional evidence before a committal order may be made.",
+      "D": "Reserve judgment and refer the matter to the Superior Court for a determination of sufficiency."
+    },
+    "correct_answer": "B",
+    "explanation": "The committal standard at a preliminary inquiry is not proof beyond a reasonable doubt. Under s. 548(1) of the Criminal Code, the justice shall order the accused to stand trial if there is sufficient evidence — meaning evidence that, if believed, a jury properly instructed could return a verdict of guilty. The standard is whether the evidence is capable of supporting a conviction, not whether it will or should do so. Because the judge concluded that a properly instructed jury acting reasonably could convict, the committal standard is met and the accused must be committed to stand trial.",
+    "why_A_wrong": "Discharge is appropriate only if the evidence is insufficient to commit — i.e., no reasonable jury could convict on the evidence presented. The beyond-a-reasonable-doubt standard applies at trial, not at the preliminary inquiry stage.",
+    "why_B_wrong": "This IS the correct answer. The committal standard under s. 548(1) is whether the evidence, if believed, could support a verdict of guilty. The judge's conclusion meets this standard, mandating committal.",
+    "why_C_wrong": "The preliminary inquiry judge has no authority to direct the Crown to produce additional evidence as a precondition to committal. The inquiry is conducted on the evidence adduced; if the committal standard is met, the accused is committed.",
+    "why_D_wrong": "The preliminary inquiry judge makes the committal determination independently. There is no mechanism to refer the sufficiency question to the Superior Court. The PI judge's role is to apply the s. 548(1) standard to the evidence before them.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 5: Pre-Trial Procedure",
+      "heading": "Preliminary Inquiry — Committal Standard",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 548(1); United States of America v. Shephard, [1977] 2 SCR 1067"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "preliminary inquiry",
+      "committal standard",
+      "s. 548",
+      "properly instructed jury",
+      "discharge",
+      "commit to stand trial"
+    ],
+    "tested_concepts": [
+      "s. 548(1) committal standard",
+      "reasonable jury could convict test",
+      "distinction between PI standard and trial standard",
+      "discharge vs. committal"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

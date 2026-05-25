@@ -1,0 +1,443 @@
+[
+  {
+    "id": "civ-03-soc-001",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "statement_of_claim",
+    "topic_heading": "Statement of Claim",
+    "subtopic_id": "statement_of_claim",
+    "subtopic_heading": "Statement of Claim — Required Contents",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Counsel is drafting a statement of claim on behalf of a client who suffered injuries in a motor vehicle accident. Counsel wants to ensure the pleading meets all requirements under the Rules of Civil Procedure.",
+    "call_of_question": "Under r.25.06 of the Rules of Civil Procedure, which of the following is a requirement for a statement of claim?",
+    "options": {
+      "A": "The statement of claim must contain the evidence that the plaintiff intends to rely upon at trial.",
+      "B": "The statement of claim must contain a concise statement of the material facts on which the party relies for the claim, but not the evidence by which those facts are to be proved.",
+      "C": "The statement of claim must include a summary of all documentary evidence the plaintiff intends to produce.",
+      "D": "The statement of claim must be accompanied by affidavit evidence sworn by the plaintiff confirming the facts alleged."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.25.06(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), every pleading shall contain a concise statement of the material facts on which the party relies for the claim or defence, but not the evidence by which those facts are to be proved. This is the fundamental distinction between pleadings and evidence: a statement of claim states what happened (material facts), not how those facts will be proven (evidence). This rule applies equally to all pleadings in Ontario civil proceedings.",
+    "why_A_wrong": "A statement of claim must not contain the evidence by which facts are to be proved. Rule 25.06(1) expressly distinguishes between material facts (which must be pleaded) and evidence (which must not be pleaded).",
+    "why_B_wrong": "This IS the correct answer. Rule 25.06(1) requires a concise statement of material facts but expressly excludes the evidence by which those facts are to be proved.",
+    "why_C_wrong": "Documentary evidence is not to be summarized in the statement of claim. Documents will be dealt with through the affidavit of documents and discovery process, not in the pleadings.",
+    "why_D_wrong": "A statement of claim is not accompanied by affidavit evidence. Affidavit evidence is used in motion proceedings. A statement of claim is a pleading, not a sworn document.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 3 — Pleadings",
+      "heading": "Statement of Claim — Required Contents",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.25.06(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "statement of claim",
+      "material facts",
+      "evidence",
+      "r.25.06",
+      "pleadings"
+    ],
+    "tested_concepts": [
+      "pleading material facts not evidence — r.25.06(1)",
+      "statement of claim required contents",
+      "facts vs evidence distinction in pleadings"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-soc-002",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "statement_of_claim",
+    "topic_heading": "Statement of Claim",
+    "subtopic_id": "statement_of_claim",
+    "subtopic_heading": "Statement of Claim — Time to Serve After Issue",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A plaintiff's lawyer issues a statement of claim on March 1, 2026. Due to difficulties locating the defendant, the plaintiff does not serve the claim until August 20, 2026 — which is 172 days after issuance. The defendant moves to have the claim dismissed as having been served out of time.",
+    "call_of_question": "Is the statement of claim served out of time, and what is the applicable rule?",
+    "options": {
+      "A": "Yes — r.14.08 of the Rules of Civil Procedure requires a statement of claim to be served within 30 days of issuance; 172 days is far too late.",
+      "B": "No — there is no deadline for serving a statement of claim after it is issued; the plaintiff can serve it at any time.",
+      "C": "Yes — r.14.08 of the Rules of Civil Procedure requires a statement of claim to be served within 6 months of the date it was issued; service at 172 days is within this period so the motion should be dismissed.",
+      "D": "Yes — the Rules require service within 90 days of issuance; 172 days exceeds this deadline."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.14.08 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a statement of claim shall be served within 6 months after the date it is issued. Six months from March 1, 2026 is September 1, 2026. Service on August 20, 2026 — which is 172 days after issuance — falls within the 6-month period and is therefore timely. The defendant's motion should be dismissed. If service had not been effected within 6 months, the plaintiff would need to obtain an order renewing the claim under r.14.08(2).",
+    "why_A_wrong": "There is no 30-day service deadline for a statement of claim. Rule 14.08 provides a 6-month period for service after the date of issuance.",
+    "why_B_wrong": "There is a service deadline: r.14.08 requires service within 6 months of issuance. A statement of claim cannot be served at any indefinite future time without renewal of the claim.",
+    "why_C_wrong": "This IS the correct answer. Rule 14.08 requires service within 6 months of issuance. Service at 172 days (approximately 5.7 months) is within this period and is timely.",
+    "why_D_wrong": "There is no 90-day service deadline for a statement of claim. The applicable period under r.14.08 is 6 months.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 3 — Pleadings",
+      "heading": "Statement of Claim — Time to Serve After Issue",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.14.08"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "statement of claim",
+      "6 months",
+      "service deadline",
+      "r.14.08",
+      "issued"
+    ],
+    "tested_concepts": [
+      "service deadline for statement of claim — 6 months from issuance",
+      "r.14.08",
+      "renewal of claim if not served in time"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-sod-001",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "statement_of_defence",
+    "topic_heading": "Statement of Defence",
+    "subtopic_id": "statement_of_defence",
+    "subtopic_heading": "Statement of Defence — Time to Deliver",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A defendant corporation was personally served with a statement of claim in Toronto on Monday, May 4, 2026. The defendant's counsel asks how many days the corporation has to deliver a statement of defence.",
+    "call_of_question": "Under r.18.01 of the Rules of Civil Procedure, how many days does a defendant served in Ontario have to deliver a statement of defence?",
+    "options": {
+      "A": "10 days after service of the statement of claim.",
+      "B": "20 days after service of the statement of claim.",
+      "C": "30 days after service of the statement of claim.",
+      "D": "60 days after service of the statement of claim."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.18.01 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a defendant who has been served with a statement of claim in Ontario must deliver a statement of defence within 20 days after service. Service occurred on May 4, 2026, so the defendant has until May 24, 2026 to deliver the statement of defence. If the defendant fails to deliver a statement of defence within the prescribed time, the plaintiff may note the defendant in default under r.19.01.",
+    "why_A_wrong": "The time to deliver a statement of defence for a defendant served in Ontario is 20 days, not 10 days. Ten days is too short.",
+    "why_B_wrong": "This IS the correct answer. Rule 18.01 provides 20 days after service in Ontario to deliver a statement of defence.",
+    "why_C_wrong": "The deadline for a defendant served in Ontario is 20 days, not 30 days. Forty days applies to defendants served outside Ontario (r.18.01(b)).",
+    "why_D_wrong": "60 days is not the applicable time period for a defendant served in Ontario. The correct period under r.18.01 is 20 days.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 3 — Pleadings",
+      "heading": "Statement of Defence — Time to Deliver",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.18.01"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "statement of defence",
+      "20 days",
+      "r.18.01",
+      "served in Ontario",
+      "time to deliver"
+    ],
+    "tested_concepts": [
+      "time to deliver statement of defence — 20 days in Ontario",
+      "r.18.01",
+      "consequences of failing to defend"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-amend-001",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "amendment_of_pleadings",
+    "topic_heading": "Amendment of Pleadings",
+    "subtopic_id": "amendment_of_pleadings",
+    "subtopic_heading": "Amendment of Pleadings — As of Right vs With Leave",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A plaintiff issued a statement of claim on February 10, 2026. The defendant delivered a statement of defence on March 12, 2026. The plaintiff has not yet replied to the defence and pleadings are not yet closed. On April 15, 2026, the plaintiff wishes to amend the statement of claim to add an additional defendant and a new cause of action.",
+    "call_of_question": "Under r.26.01 of the Rules of Civil Procedure, may the plaintiff amend the statement of claim without court leave at this stage?",
+    "options": {
+      "A": "No — a plaintiff may only amend a statement of claim with leave of the court once a statement of defence has been delivered.",
+      "B": "Yes — under r.26.01, a party may amend a pleading once without leave at any time before the close of pleadings.",
+      "C": "No — a plaintiff may never amend a statement of claim to add a new party; a separate action must be commenced.",
+      "D": "Yes — but only if all parties consent to the amendment in writing."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.26.01 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a party may amend a pleading once without leave before the close of pleadings. Pleadings are not yet closed here — the plaintiff has not yet replied to the statement of defence, so the pleadings remain open. The plaintiff may therefore amend the statement of claim once as of right, without obtaining court leave or the consent of other parties. After the close of pleadings, or after the right to amend as of right has been exercised, leave of the court is required under r.26.01.",
+    "why_A_wrong": "Rule 26.01 permits one amendment as of right before the close of pleadings. Delivery of the statement of defence does not trigger a requirement for court leave; the right to amend as of right continues until pleadings close.",
+    "why_B_wrong": "This IS the correct answer. Rule 26.01 permits one amendment as of right before the close of pleadings; no court leave or consent is required at this stage.",
+    "why_C_wrong": "A plaintiff may add a new party by amendment. Adding parties by amendment to an existing proceeding is permitted; a separate action is not required as long as applicable limitations periods and procedural rules are satisfied.",
+    "why_D_wrong": "Written consent of all parties is not required for an amendment as of right under r.26.01. The right to amend once without leave operates independently of the other parties' consent.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 3 — Pleadings",
+      "heading": "Amendment of Pleadings — As of Right vs With Leave",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.26.01"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "amendment",
+      "r.26.01",
+      "as of right",
+      "close of pleadings",
+      "leave"
+    ],
+    "tested_concepts": [
+      "amendment as of right before close of pleadings — r.26.01",
+      "close of pleadings timing",
+      "when court leave is required to amend"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-amend-002",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "amendment_of_pleadings",
+    "topic_heading": "Amendment of Pleadings",
+    "subtopic_id": "amendment_of_pleadings",
+    "subtopic_heading": "Amendment of Pleadings — Leave to Amend After Close of Pleadings",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The trial in a construction dispute is scheduled for six weeks' time. The plaintiff brings a motion for leave to amend the statement of claim to add a new head of damages that was not originally pleaded, relying on newly obtained expert evidence. The defendant argues that leave should be refused because the trial is imminent and the amendment would cause prejudice.",
+    "call_of_question": "Under r.26.01 of the Rules of Civil Procedure, what is the governing principle when a court considers whether to grant leave to amend a pleading, and how does prejudice factor into the analysis?",
+    "options": {
+      "A": "The court must refuse leave to amend once the trial has been scheduled; no amendments are permitted within 90 days of trial.",
+      "B": "The court has an absolute discretion to grant or refuse leave to amend and applies no particular principle; each case is decided on its own unique facts.",
+      "C": "Under r.26.01, leave to amend shall be granted on such terms as are just unless the amendment would result in prejudice to the other party that could not be compensated by costs.",
+      "D": "The court will grant leave to amend only if the moving party demonstrates the proposed amendment raises a new cause of action that could not have been pleaded earlier."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.26.01 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), on motion at any stage of an action, the court shall grant leave to amend a pleading on such terms as are just unless the amendment would result in prejudice to the other party that could not be compensated by costs. The governing principle favours granting leave to amend; the threshold is whether the opposing party would suffer non-compensable prejudice. Delay and the imminence of trial are factors that may bear on the prejudice analysis, but they do not automatically defeat an amendment motion. If the defendant's prejudice can be addressed by an adjournment and an award of costs thrown away, the amendment will generally be permitted.",
+    "why_A_wrong": "There is no automatic rule prohibiting amendments within 90 days of trial. Rule 26.01 permits amendments at any stage on such terms as are just, with the key question being whether prejudice can be compensated by costs.",
+    "why_B_wrong": "The court's discretion under r.26.01 is not unguided. The rule establishes that leave shall be granted unless the amendment causes non-compensable prejudice — there is a clear governing principle.",
+    "why_C_wrong": "This IS the correct answer. Rule 26.01 requires the court to grant leave to amend on just terms unless the amendment would result in prejudice to the other party that cannot be compensated by costs.",
+    "why_D_wrong": "There is no requirement that the proposed amendment raise a new cause of action or that it could not have been pleaded earlier. The relevant consideration is prejudice that cannot be compensated by costs.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 3 — Pleadings",
+      "heading": "Amendment of Pleadings — Leave to Amend After Close of Pleadings",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.26.01"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "leave to amend",
+      "r.26.01",
+      "prejudice",
+      "compensated by costs",
+      "amendment after close of pleadings"
+    ],
+    "tested_concepts": [
+      "leave to amend — governed by prejudice compensable by costs",
+      "r.26.01 — shall grant leave unless non-compensable prejudice",
+      "amendment at any stage of action"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-spec-001",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "particulars",
+    "topic_heading": "Particulars",
+    "subtopic_id": "particulars",
+    "subtopic_heading": "Particulars — Demand and Court Order",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The defendant in a fraud action receives the plaintiff's statement of claim but finds the allegations of fraud are stated in general terms without identifying specific representations, dates, or amounts alleged to have been fraudulently misrepresented. The defendant wants more detail before being required to plead.",
+    "call_of_question": "What procedural step should the defendant take under the Rules of Civil Procedure to obtain more detailed information about the allegations?",
+    "options": {
+      "A": "The defendant should bring a motion to strike the statement of claim under r.25.11 because the pleading is deficient.",
+      "B": "The defendant should demand particulars from the plaintiff under r.25.10; if the plaintiff fails to supply them, the defendant may move for a court order compelling particulars.",
+      "C": "The defendant should simply file a statement of defence denying all allegations and seek particulars at the examination for discovery stage.",
+      "D": "The defendant should bring a motion for summary judgment immediately on the grounds that the plaintiff's claim has no merit."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.25.10 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a party may demand particulars of another party's pleading. A party who requires clarification of the details of another party's pleading may demand particulars in writing. If the other party fails to supply adequate particulars, the demanding party may bring a motion for a court order compelling production of particulars. Particulars are especially important in fraud allegations, which under r.25.06(8) must be pleaded with full particulars of the circumstances said to constitute fraud.",
+    "why_A_wrong": "A motion to strike under r.25.11 is appropriate where the pleading is scandalous, frivolous, vexatious, or an abuse of process. A general pleading of fraud is not automatically grounds to strike — the appropriate remedy is to demand particulars under r.25.10.",
+    "why_B_wrong": "This IS the correct answer. The defendant should demand particulars under r.25.10, and if the plaintiff fails to comply, move for a court order compelling particulars.",
+    "why_C_wrong": "While the defendant must eventually plead, waiting until discovery to seek particulars is inefficient and may waive the right to particulars before pleading. The Rules provide the specific mechanism of r.25.10 for this purpose.",
+    "why_D_wrong": "A motion for summary judgment is not the appropriate remedy where the pleading lacks detail. Summary judgment addresses the merits of the claim; particulars address the adequacy of the pleading.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 3 — Pleadings",
+      "heading": "Particulars — Demand and Court Order",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.25.10; r.25.06(8)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "particulars",
+      "r.25.10",
+      "demand for particulars",
+      "fraud",
+      "pleading deficiency"
+    ],
+    "tested_concepts": [
+      "demand for particulars under r.25.10",
+      "court order for particulars",
+      "fraud must be pleaded with full particulars — r.25.06(8)"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-strike-001",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "striking_pleadings",
+    "topic_heading": "Striking Out Pleadings",
+    "subtopic_id": "striking_pleadings",
+    "subtopic_heading": "Striking Out Pleadings — No Reasonable Cause of Action (r.21.01)",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A defendant brings a motion under r.21.01(1)(b) of the Rules of Civil Procedure to strike the plaintiff's statement of claim on the grounds that it discloses no reasonable cause of action. The plaintiff's claim is novel and has not been recognised by Ontario courts, but is not clearly without foundation. No evidence is filed on the motion.",
+    "call_of_question": "What is the test on a r.21.01(1)(b) motion to strike for no reasonable cause of action, and what is the outcome if the claim is novel?",
+    "options": {
+      "A": "The court will strike the claim unless the plaintiff proves on a balance of probabilities that the cause of action is well-established in Ontario law.",
+      "B": "The court applies the test from Hunt v. Carey Canada Inc.: the claim will be struck only if it is plain and obvious, assuming all facts pleaded to be true, that the pleading discloses no reasonable cause of action; a novel but arguable claim should not be struck.",
+      "C": "A motion under r.21.01(1)(b) must be supported by evidence; if no evidence is filed, the motion must be dismissed.",
+      "D": "The court will strike any claim that has not been previously recognised by Ontario courts because such a claim has no reasonable prospect of success."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.21.01(1)(b) of the Rules of Civil Procedure, the applicable test is from Hunt v. Carey Canada Inc., [1990] 2 SCR 959: the claim will be struck only if it is plain and obvious, assuming the facts as pleaded are true, that the pleading discloses no reasonable cause of action. The court assumes all facts pleaded to be true and gives the claim the most generous reading possible. No evidence is admissible on a r.21.01(1)(b) motion. A novel claim that raises an arguable point of law that has not been authoritatively settled should not be struck, as such claims deserve to be adjudicated at trial.",
+    "why_A_wrong": "The plaintiff is not required to prove its case on a balance of probabilities on a r.21.01(1)(b) motion. All facts pleaded are assumed to be true; the only question is whether the pleading discloses a reasonable cause of action.",
+    "why_B_wrong": "This IS the correct answer. The Hunt v. Carey test requires the claim be struck only if it is plain and obvious, on assumed facts, that no reasonable cause of action is disclosed. Novel claims survive the test.",
+    "why_C_wrong": "No evidence is admissible on a r.21.01(1)(b) motion to strike. The motion is determined solely on the basis of the pleadings, with all facts assumed to be true.",
+    "why_D_wrong": "Novelty alone is not grounds to strike. The Supreme Court in Hunt v. Carey confirmed that novel claims that raise arguable legal questions should not be struck — the law must be permitted to develop.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 3 — Pleadings",
+      "heading": "Striking Out Pleadings — No Reasonable Cause of Action",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.21.01(1)(b); Hunt v. Carey Canada Inc., [1990] 2 SCR 959"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "strike",
+      "r.21.01",
+      "no reasonable cause of action",
+      "plain and obvious",
+      "Hunt v Carey"
+    ],
+    "tested_concepts": [
+      "plain and obvious test — r.21.01(1)(b)",
+      "Hunt v. Carey Canada Inc. [1990] 2 SCR 959",
+      "no evidence on r.21.01 motion",
+      "novel claims survive r.21.01 motions"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-strike-002",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "striking_pleadings",
+    "topic_heading": "Striking Out Pleadings",
+    "subtopic_id": "striking_pleadings",
+    "subtopic_heading": "Striking Out Pleadings — Scandalous, Frivolous, or Vexatious (r.25.11)",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A defendant's statement of defence contains a passage that makes personal attacks on the plaintiff's character, accuses the plaintiff's counsel of professional misconduct without any factual basis, and includes scandalous allegations irrelevant to any issue in the proceedings. The plaintiff brings a motion to strike those portions of the defence.",
+    "call_of_question": "Under which rule may a court strike out portions of a pleading that are scandalous, frivolous, vexatious, or an abuse of process?",
+    "options": {
+      "A": "Rule 21.01(1)(b) — the court may strike the entire pleading if any portion discloses no reasonable cause of action.",
+      "B": "Rule 25.11 — the court may strike out all or part of a pleading if it is scandalous, frivolous, vexatious, or may prejudice, embarrass or delay the fair trial of the action.",
+      "C": "Rule 26.01 — the court may require the party to amend the offending portions as a condition of proceeding.",
+      "D": "Rule 37.14 — the court may set aside any order arising from improper pleadings on motion."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.25.11 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the court may strike out or expunge all or part of a pleading (with or without leave to amend) on the grounds that it is scandalous, frivolous, or vexatious, or that it may prejudice or delay the fair trial of the action, or that it is otherwise an abuse of the process of the court. This rule addresses the content of pleadings — it targets material that should never have appeared in a pleading — as distinct from r.21.01, which addresses whether the pleading discloses a legally recognisable cause of action.",
+    "why_A_wrong": "Rule 21.01(1)(b) addresses motions to strike an entire pleading for disclosing no reasonable cause of action. It does not target scandalous or irrelevant content within an otherwise valid pleading. Rule 25.11 is the appropriate rule.",
+    "why_B_wrong": "This IS the correct answer. Rule 25.11 allows the court to strike out portions of a pleading that are scandalous, frivolous, vexatious, or would prejudice the fair trial of the action.",
+    "why_C_wrong": "Rule 26.01 governs amendments to pleadings. While the court could order an amendment to cure a deficient pleading, the specific power to strike scandalous content is in r.25.11.",
+    "why_D_wrong": "Rule 37.14 governs setting aside orders made by the court or a registrar. It does not address the striking of objectionable content from pleadings.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 3 — Pleadings",
+      "heading": "Striking Out Pleadings — Scandalous, Frivolous, or Vexatious",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.25.11"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "strike",
+      "r.25.11",
+      "scandalous",
+      "frivolous",
+      "vexatious"
+    ],
+    "tested_concepts": [
+      "striking scandalous or vexatious pleadings — r.25.11",
+      "distinction between r.25.11 and r.21.01",
+      "court power to strike portions of pleading"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

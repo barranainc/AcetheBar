@@ -1,0 +1,167 @@
+[
+  {
+    "id": "civ-16-cert-001",
+    "subject": "civil_litigation",
+    "chapter_number": 16,
+    "chapter_title": "Class Proceedings",
+    "topic_id": "class_proceedings",
+    "topic_heading": "Class Proceedings in Ontario",
+    "subtopic_id": "certification",
+    "subtopic_heading": "Certification — Five-Part Test Under s.5 of the Class Proceedings Act",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A proposed class action is brought against a pharmaceutical company alleging that a widely-distributed medication caused harmful side effects. The plaintiff moves for certification under the Class Proceedings Act, 1992. The defendant argues that the proceeding should not be certified.",
+    "call_of_question": "Under s.5 of the Class Proceedings Act, 1992 (Ontario), what are the five criteria that must be satisfied for a class proceeding to be certified?",
+    "options": {
+      "A": "The court must find: (1) the claim is meritorious; (2) the class size exceeds 100 persons; (3) the representative plaintiff has legal standing; (4) all class members have identical claims; and (5) a class proceeding is less expensive than individual litigation.",
+      "B": "The court must find: (1) the pleadings disclose a cause of action; (2) there is an identifiable class of two or more persons; (3) the claims raise common issues; (4) a class proceeding would be the preferable procedure; and (5) there is a representative plaintiff who would fairly and adequately represent the class.",
+      "C": "The court must find: (1) the plaintiff has suffered damages; (2) the defendant was negligent; (3) there are more than 50 class members; (4) common issues predominate over individual issues; and (5) the plaintiff has resources to fund the litigation.",
+      "D": "The court must find: (1) the pleadings are not frivolous; (2) there is a certified class representative; (3) the defendant has insurance coverage for the claim; (4) all class members are Ontario residents; and (5) the class action will proceed to trial within three years."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s.5(1) of the Class Proceedings Act, 1992, S.O. 1992, c. 6, the court shall certify a class proceeding if: (a) the pleadings disclose a cause of action; (b) there is an identifiable class of two or more persons who would be represented by the representative plaintiff; (c) the claims of the class members raise common issues, whether or not those common issues predominate over issues affecting only individual class members; (d) a class proceeding would be the preferable procedure for the resolution of the common issues; and (e) there is a representative plaintiff who would fairly and adequately represent the interests of the class, has produced a plan for the proceeding, and does not have a conflict of interest with other class members on the common issues.",
+    "why_A_wrong": "The certification test does not require that claims be identical, that the class size exceed 100, or that the proceeding be less expensive. These are not among the five criteria in s.5(1) of the CPA.",
+    "why_B_wrong": "This IS the correct answer. Section 5(1) of the Class Proceedings Act, 1992 sets out the five-part certification test: cause of action, identifiable class, common issues, preferable procedure, and representative plaintiff.",
+    "why_C_wrong": "The certification stage does not assess the merits of the plaintiff's claim (whether the defendant was negligent or the plaintiff suffered damages). Causation and merit are not certification criteria under s.5(1) of the CPA.",
+    "why_D_wrong": "None of the items listed in option D are correct certification criteria under s.5(1) of the CPA. Insurance coverage, Ontario residency, trial timing, and a 'certified representative' are not part of the five-part statutory test.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 16 — Class Proceedings",
+      "heading": "Certification — Five-Part Test Under s.5 of the Class Proceedings Act",
+      "page": "N/A",
+      "rule_or_statute_reference": "Class Proceedings Act, 1992, S.O. 1992, c. 6, s.5(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "certification",
+      "s.5",
+      "Class Proceedings Act",
+      "five-part test",
+      "common issues"
+    ],
+    "tested_concepts": [
+      "five-part certification test — s.5(1) CPA 1992",
+      "cause of action, identifiable class, common issues, preferable procedure, representative plaintiff",
+      "certification does not assess merits"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-16-cert-002",
+    "subject": "civil_litigation",
+    "chapter_number": 16,
+    "chapter_title": "Class Proceedings",
+    "topic_id": "class_proceedings",
+    "topic_heading": "Class Proceedings in Ontario",
+    "subtopic_id": "common_issues",
+    "subtopic_heading": "Common Issues — What Qualifies as a Common Issue",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "In a proposed class action against a bank for mis-selling investment products, the plaintiff argues that whether the bank owed a duty of care to all class members is a common issue. The defendant argues that because individual class members had different levels of financial sophistication and different conversations with bank advisors, there can be no common issues and certification must be refused.",
+    "call_of_question": "Under s.5(1)(c) of the Class Proceedings Act, 1992 and the guidance from Hollick v. Toronto (City), what qualifies as a 'common issue' for purposes of certification?",
+    "options": {
+      "A": "A common issue exists only where all class members have identical claims and the resolution of the issue would be identical for every class member.",
+      "B": "A common issue is an issue of fact or law that, if decided, would advance the claims of all class members in a material way; common issues need not be identical across all class members and need not predominate over individual issues.",
+      "C": "A common issue must be the predominant issue in the class action; if individual issues predominate, the certification must be refused regardless of whether there are some common issues.",
+      "D": "A common issue exists only where the defendant's conduct was uniform and identical with respect to every class member."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the test confirmed by the Supreme Court of Canada in Hollick v. Toronto (City), [2001] 3 SCR 158, a common issue is an issue of fact or law that, if decided, would advance the claims of class members in a material way. The test does not require that all class members have identical claims or that the resolution be identical for each member. Section 5(1)(c) of the Class Proceedings Act, 1992 expressly states that common issues may be certified 'whether or not those common issues predominate over issues affecting only individual class members.' Whether the bank owed a duty of care to customers is a question whose resolution would advance the claims of all class members, even if the breach analysis differs by individual circumstances.",
+    "why_A_wrong": "Common issues do not need to be resolved identically for every class member. The test is whether resolution of the issue would advance the claims of class members in a material way, not whether outcomes are identical.",
+    "why_B_wrong": "This IS the correct answer. Under s.5(1)(c) of the CPA and Hollick, a common issue is one that, if decided, would advance class members' claims in a material way; it need not be identical or predominant.",
+    "why_C_wrong": "The Class Proceedings Act, 1992 expressly states that common issues may qualify whether or not they predominate over individual issues. Predominance is not required for certification of common issues.",
+    "why_D_wrong": "Uniformity of the defendant's conduct is not required. The duty of care question may still be a common issue even if the bank's specific conduct varied by customer, as long as its resolution would advance the class members' claims in a material way.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 16 — Class Proceedings",
+      "heading": "Common Issues — What Qualifies as a Common Issue",
+      "page": "N/A",
+      "rule_or_statute_reference": "Class Proceedings Act, 1992, S.O. 1992, c. 6, s.5(1)(c); Hollick v. Toronto (City), [2001] 3 SCR 158"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "common issue",
+      "s.5(1)(c)",
+      "Hollick",
+      "material way",
+      "predominate"
+    ],
+    "tested_concepts": [
+      "common issue — advances claims in material way",
+      "Hollick v. Toronto [2001] 3 SCR 158",
+      "common issues need not predominate — s.5(1)(c) CPA"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-16-opt-001",
+    "subject": "civil_litigation",
+    "chapter_number": 16,
+    "chapter_title": "Class Proceedings",
+    "topic_id": "class_proceedings",
+    "topic_heading": "Class Proceedings in Ontario",
+    "subtopic_id": "opt_out",
+    "subtopic_heading": "Opt-Out Right — Notice and Procedure Under s.9 of the CPA",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A class action against a national retailer for privacy breaches has been certified. The court approves a notice plan to inform class members of their rights. A class member, Darius, receives the notice and wants to pursue his own individual lawsuit against the retailer rather than participate in the class action.",
+    "call_of_question": "Under s.9 of the Class Proceedings Act, 1992, what right does Darius have and what must he do to exercise it?",
+    "options": {
+      "A": "Darius has no right to opt out of a certified class proceeding; once certified, all members of the defined class are automatically bound.",
+      "B": "Darius may opt out of the class proceeding by giving notice to the defendant's counsel within the opt-out period specified in the court's notice order; upon opting out, he is no longer bound by any judgment in the class proceeding.",
+      "C": "Darius may opt out of the class proceeding by filing a notice of opt-out with the court administrator within the opt-out period set by the court; upon opting out, he is not bound by any judgment in the class action and may pursue his own individual claim.",
+      "D": "Darius may opt out but only with the permission of the court, which will grant permission only if Darius can demonstrate that his individual claim has a higher value than the class average."
+    },
+    "correct_answer": "C",
+    "explanation": "Under s.9(1) of the Class Proceedings Act, 1992, S.O. 1992, c. 6, any member of a class may opt out of the class proceeding by giving notice of election to opt out in the manner and within the time specified in the notice. The court's notice order sets out the opt-out period and the method for exercising the opt-out right. A class member who opts out is not bound by any judgment in the class proceeding — whether favourable or unfavourable — and retains the right to pursue an individual claim, subject to any applicable limitation period. The opt-out notice is typically filed with the class counsel or an administrator designated by the court, not with opposing counsel.",
+    "why_A_wrong": "Section 9 of the CPA expressly provides class members with the right to opt out. Members are not automatically and irrevocably bound upon certification.",
+    "why_B_wrong": "The opt-out notice is not filed with the defendant's counsel. It is given in the manner specified by the court's notice order, typically to class counsel or the court-appointed administrator.",
+    "why_C_wrong": "This IS the correct answer. Under s.9 of the CPA, Darius may opt out by filing a notice of opt-out in the manner and within the time specified by the court's notice order; he then retains the right to pursue his individual claim.",
+    "why_D_wrong": "No court permission is required to exercise the opt-out right. Section 9 of the CPA provides an automatic right to opt out within the specified period; no justification related to claim value is required.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 16 — Class Proceedings",
+      "heading": "Opt-Out Right — Notice and Procedure Under s.9 of the CPA",
+      "page": "N/A",
+      "rule_or_statute_reference": "Class Proceedings Act, 1992, S.O. 1992, c. 6, s.9"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "opt out",
+      "s.9",
+      "Class Proceedings Act",
+      "notice period",
+      "individual claim"
+    ],
+    "tested_concepts": [
+      "opt-out right — s.9 CPA 1992",
+      "opt-out within notice period — not bound by judgment",
+      "automatic right — no court permission needed"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

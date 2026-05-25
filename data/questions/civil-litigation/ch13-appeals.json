@@ -1,0 +1,277 @@
+[
+  {
+    "id": "civ-13-app-001",
+    "subject": "civil_litigation",
+    "chapter_number": 13,
+    "chapter_title": "Appeals",
+    "topic_id": "appeals",
+    "topic_heading": "Appeals in Civil Proceedings",
+    "subtopic_id": "appeal_jurisdiction",
+    "subtopic_heading": "Appeal Routes — Court of Appeal vs Divisional Court",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A party loses a final judgment in the Superior Court of Justice in a commercial action where the amount in dispute is $350,000. The party wishes to appeal. Counsel must determine whether the appeal goes to the Divisional Court or the Court of Appeal.",
+    "call_of_question": "Which court has jurisdiction to hear an appeal from a final order of the Superior Court of Justice where the amount in dispute exceeds $50,000?",
+    "options": {
+      "A": "The Divisional Court hears all appeals from the Superior Court of Justice regardless of the amount.",
+      "B": "The Court of Appeal for Ontario has jurisdiction under s.6 of the Courts of Justice Act to hear appeals from final orders of the Superior Court where the amount in dispute exceeds $50,000.",
+      "C": "The Supreme Court of Canada has direct jurisdiction to hear appeals from the Superior Court of Justice in commercial matters over $50,000.",
+      "D": "The Court of Appeal and the Divisional Court share concurrent jurisdiction over all appeals from the Superior Court of Justice."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s.6(1)(b) of the Courts of Justice Act, R.S.O. 1990, c. C.43, an appeal lies to the Court of Appeal from a final order of the Superior Court of Justice in a proceeding where the amount in dispute is more than $50,000. The Divisional Court's appellate jurisdiction under s.19 of the Courts of Justice Act is limited to appeals from final orders of the Superior Court where the amount in dispute does not exceed $50,000, and to interlocutory orders with leave. With $350,000 in dispute, the Court of Appeal is the correct appellate forum.",
+    "why_A_wrong": "The Divisional Court does not hear all appeals from the Superior Court. Its jurisdiction under s.19 of the Courts of Justice Act is limited to final orders under $50,000 (and interlocutory orders with leave). The Court of Appeal has jurisdiction for final orders above $50,000.",
+    "why_B_wrong": "This IS the correct answer. Section 6 of the Courts of Justice Act gives the Court of Appeal jurisdiction over appeals from Superior Court final orders where the amount exceeds $50,000.",
+    "why_C_wrong": "The Supreme Court of Canada does not have direct jurisdiction to hear appeals from the Superior Court of Justice. It hears appeals from provincial courts of appeal only, by leave.",
+    "why_D_wrong": "The Court of Appeal and the Divisional Court do not share concurrent jurisdiction over all Superior Court appeals. Their respective jurisdictions are defined by the amount in dispute under ss.6 and 19 of the Courts of Justice Act.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 13 — Appeals",
+      "heading": "Appeal Routes — Court of Appeal vs Divisional Court",
+      "page": "N/A",
+      "rule_or_statute_reference": "Courts of Justice Act, R.S.O. 1990, c. C.43, s.6(1)(b); s.19; Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.61"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Court of Appeal",
+      "Divisional Court",
+      "s.6",
+      "$50,000",
+      "appeal jurisdiction"
+    ],
+    "tested_concepts": [
+      "Court of Appeal jurisdiction — s.6 CJA over $50,000",
+      "Divisional Court jurisdiction — s.19 CJA under $50,000",
+      "correct appellate forum for final Superior Court orders"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-13-app-002",
+    "subject": "civil_litigation",
+    "chapter_number": 13,
+    "chapter_title": "Appeals",
+    "topic_id": "appeals",
+    "topic_heading": "Appeals in Civil Proceedings",
+    "subtopic_id": "leave_to_appeal",
+    "subtopic_heading": "Leave to Appeal — When Required and the Test",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A party wishes to appeal an interlocutory order of the Superior Court of Justice. Counsel advises that leave to appeal is required. The party asks what test the appellate court applies when determining whether to grant leave to appeal from an interlocutory order.",
+    "call_of_question": "Under s.19(1)(b) of the Courts of Justice Act, what is the test for obtaining leave to appeal an interlocutory order of the Superior Court of Justice to the Divisional Court?",
+    "options": {
+      "A": "Leave is granted as a matter of right for all interlocutory orders; the only requirement is that the appeal be filed within 30 days.",
+      "B": "Leave is granted where the proposed appeal raises an arguable point of law of general importance that ought to be decided by an appellate court, or there are conflicting decisions that need to be resolved.",
+      "C": "Leave is granted only where the interlocutory order causes irreparable harm to the moving party pending trial.",
+      "D": "Leave to appeal is not available for interlocutory orders; only final orders of the Superior Court may be appealed."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 19(1)(b) of the Courts of Justice Act, R.S.O. 1990, c. C.43 provides that an appeal lies to the Divisional Court from an interlocutory order of the Superior Court of Justice, with leave. Courts have consistently applied a test for leave that asks whether the proposed appeal raises an arguable point of law of general importance to the administration of justice, or whether there are conflicting decisions among trial courts that ought to be resolved, or whether the order is clearly wrong. The test is designed to filter out appeals that do not raise issues of broader importance while permitting genuine legal questions to proceed.",
+    "why_A_wrong": "Leave to appeal interlocutory orders is not granted as of right. Section 19(1)(b) of the Courts of Justice Act requires the moving party to obtain leave, applying a discretionary test.",
+    "why_B_wrong": "This IS the correct answer. The test for leave to appeal an interlocutory order asks whether the appeal raises an arguable point of law of general importance or presents conflicting decisions that need resolution.",
+    "why_C_wrong": "Irreparable harm is a factor in interlocutory injunction motions, not the test for leave to appeal an interlocutory order. The leave test focuses on legal importance and arguability.",
+    "why_D_wrong": "Interlocutory orders are appealable to the Divisional Court with leave under s.19(1)(b) of the Courts of Justice Act. Leave to appeal is available for interlocutory orders.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 13 — Appeals",
+      "heading": "Leave to Appeal — When Required and the Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Courts of Justice Act, R.S.O. 1990, c. C.43, s.6(1)(b); s.19(1)(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "leave to appeal",
+      "interlocutory order",
+      "s.19",
+      "arguable point of law",
+      "general importance"
+    ],
+    "tested_concepts": [
+      "leave to appeal interlocutory orders — s.19(1)(b) CJA",
+      "test for leave — arguable point of general importance",
+      "filtering interlocutory appeals"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-13-stand-001",
+    "subject": "civil_litigation",
+    "chapter_number": 13,
+    "chapter_title": "Appeals",
+    "topic_id": "appeals",
+    "topic_heading": "Appeals in Civil Proceedings",
+    "subtopic_id": "standard_of_review",
+    "subtopic_heading": "Standard of Review on Appeal — Questions of Law vs Fact",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "On appeal, the appellant argues that the trial judge made two errors: (1) incorrectly applying the legal test for breach of fiduciary duty — a question of law; and (2) incorrectly finding that the defendant was aware of the plaintiff's reliance — a finding of fact. Counsel must advise on the appropriate standard of review for each issue.",
+    "call_of_question": "Under Housen v. Nikolaisen, 2002 SCC 33, what standard of review applies to questions of law on appeal compared to questions of fact?",
+    "options": {
+      "A": "Both questions of law and questions of fact are reviewed on a standard of correctness on appeal.",
+      "B": "Questions of law are reviewed on a standard of reasonableness, while questions of fact are reviewed on a standard of correctness.",
+      "C": "Questions of law are reviewed on a standard of correctness; questions of fact are reviewed on a standard of palpable and overriding error, which is a highly deferential standard.",
+      "D": "Both questions of law and questions of fact are reviewed on a standard of palpable and overriding error."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the standard of review framework established by the Supreme Court of Canada in Housen v. Nikolaisen, 2002 SCC 33, questions of law are reviewed on correctness — the appellate court owes no deference to the trial judge's legal conclusions and may substitute its own view. Questions of fact are reviewed on a standard of palpable and overriding error — the appellate court must identify a clear, plain, and determinative error that has affected the outcome before overturning a factual finding. This is a highly deferential standard that reflects the trial judge's privileged position as fact-finder.",
+    "why_A_wrong": "Only questions of law are reviewed on correctness. Questions of fact attract the more deferential palpable and overriding error standard under Housen v. Nikolaisen.",
+    "why_B_wrong": "The standards are reversed in this option. Questions of law are reviewed on correctness (not reasonableness); questions of fact are reviewed on palpable and overriding error (not correctness).",
+    "why_C_wrong": "This IS the correct answer. Under Housen v. Nikolaisen: questions of law are reviewed on correctness; questions of fact are reviewed on the deferential palpable and overriding error standard.",
+    "why_D_wrong": "Questions of law are not reviewed on palpable and overriding error. Only factual findings attract this deferential standard. Legal questions are reviewed on correctness under Housen.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 13 — Appeals",
+      "heading": "Standard of Review on Appeal — Questions of Law vs Fact",
+      "page": "N/A",
+      "rule_or_statute_reference": "Housen v. Nikolaisen, 2002 SCC 33; Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.61"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "standard of review",
+      "Housen v Nikolaisen",
+      "correctness",
+      "palpable and overriding error",
+      "question of law vs fact"
+    ],
+    "tested_concepts": [
+      "Housen v. Nikolaisen 2002 SCC 33 — standards of review",
+      "questions of law — correctness standard",
+      "questions of fact — palpable and overriding error"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-13-stand-002",
+    "subject": "civil_litigation",
+    "chapter_number": 13,
+    "chapter_title": "Appeals",
+    "topic_id": "appeals",
+    "topic_heading": "Appeals in Civil Proceedings",
+    "subtopic_id": "standard_of_review",
+    "subtopic_heading": "Standard of Review — Mixed Questions of Fact and Law",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "On appeal, the appellant challenges the trial judge's determination that the defendant's conduct constituted negligence. The trial judge applied the correct legal test for negligence (duty, breach, causation, damage) but the appellant argues the judge misapplied the test to the specific facts found. Counsel must identify the applicable standard of review.",
+    "call_of_question": "Under Housen v. Nikolaisen, 2002 SCC 33, what standard of review applies to mixed questions of fact and law?",
+    "options": {
+      "A": "Mixed questions of fact and law are always reviewed on a correctness standard because they involve an element of legal reasoning.",
+      "B": "Mixed questions of fact and law are reviewed on the palpable and overriding error standard as a default; however, if a legal error can be extracted and isolated from the factual findings, that extracted legal question is reviewed on correctness.",
+      "C": "Mixed questions of fact and law are reviewed on the reasonableness standard, giving deference to the trial judge's balancing of legal and factual considerations.",
+      "D": "Mixed questions of fact and law are reviewed on a balance of probabilities standard by the appellate court."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the framework in Housen v. Nikolaisen, 2002 SCC 33, mixed questions of fact and law are reviewed on palpable and overriding error as the default standard, because such questions are typically dominated by factual findings and trial courts are best positioned to make them. However, where an extricable legal question can be isolated from the factual findings — for example, where the trial judge has incorrectly defined the legal test or applied an incorrect legal principle — that extracted legal question is reviewed on correctness. The challenge in the fact pattern involves the application of a correct legal test to facts, which is a classic mixed question reviewed on palpable and overriding error absent an extricable legal error.",
+    "why_A_wrong": "Mixed questions of fact and law are not always reviewed on correctness. The default is palpable and overriding error; correctness applies only where an extricable legal question can be isolated.",
+    "why_B_wrong": "This IS the correct answer. The default standard for mixed questions is palpable and overriding error, with correctness applying only to extricable legal questions isolated from the factual findings.",
+    "why_C_wrong": "Reasonableness is the standard in administrative law review, not in civil appellate review. Housen v. Nikolaisen does not apply a reasonableness standard to mixed questions in civil appeals.",
+    "why_D_wrong": "Balance of probabilities is a standard of proof at trial, not a standard of appellate review. Appellate courts do not re-weigh evidence on a balance of probabilities standard.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 13 — Appeals",
+      "heading": "Standard of Review — Mixed Questions of Fact and Law",
+      "page": "N/A",
+      "rule_or_statute_reference": "Housen v. Nikolaisen, 2002 SCC 33"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "mixed question",
+      "Housen",
+      "palpable and overriding error",
+      "extricable legal question",
+      "correctness"
+    ],
+    "tested_concepts": [
+      "mixed questions default — palpable and overriding error",
+      "extricable legal question reviewed on correctness",
+      "Housen v. Nikolaisen 2002 SCC 33"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-13-fresh-001",
+    "subject": "civil_litigation",
+    "chapter_number": 13,
+    "chapter_title": "Appeals",
+    "topic_id": "appeals",
+    "topic_heading": "Appeals in Civil Proceedings",
+    "subtopic_id": "fresh_evidence",
+    "subtopic_heading": "Fresh Evidence on Appeal — Palmer Test",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "After losing at trial, the appellant discovers a document that was not produced at trial and now seeks to introduce it on appeal as fresh evidence. The document was in the possession of a third party and was not obtained by the appellant before trial, although the appellant acknowledges that a request for it could have been made during discovery.",
+    "call_of_question": "Under the Palmer test for the admission of fresh evidence on appeal, which criterion is the appellant most likely to fail to satisfy?",
+    "options": {
+      "A": "The credibility criterion — the fresh evidence must be credible and probably accurate.",
+      "B": "The relevance criterion — the fresh evidence must be relevant to a decisive issue at trial.",
+      "C": "The due diligence criterion — the fresh evidence could not have been obtained with reasonable diligence before trial; the appellant's failure to request the document during discovery means this criterion is not met.",
+      "D": "The decisive criterion — the fresh evidence must be conclusive on a key issue and is therefore too speculative to meet the standard."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Palmer test, derived from Palmer v. The Queen, [1980] 1 SCR 759 and applied in Ontario civil appeals, fresh evidence must satisfy four criteria to be admitted on appeal: (1) due diligence — the evidence could not have been obtained with reasonable diligence before trial; (2) relevance — the evidence must be relevant to a decisive issue; (3) credibility — the evidence must be apparently credible; and (4) decisiveness — the evidence must be such that if believed it could reasonably be expected to have affected the result. In the scenario, the appellant acknowledges that a request for the document could have been made during discovery. This failure to exercise due diligence is fatal to the first Palmer criterion and will likely result in refusal to admit the fresh evidence.",
+    "why_A_wrong": "The credibility criterion requires the fresh evidence to be apparently credible. This is often the easiest Palmer criterion to satisfy for a document, as documents are generally credible on their face. The due diligence criterion is the one most likely to be failed here.",
+    "why_B_wrong": "The relevance criterion requires the evidence to relate to a decisive issue. Whether the document is relevant depends on its content, but the fact pattern does not suggest it lacks relevance. The due diligence failure is the critical problem.",
+    "why_C_wrong": "This IS the correct answer. The Palmer test requires due diligence — the evidence must not have been obtainable with reasonable effort before trial. Acknowledging the document could have been requested during discovery defeats this criterion.",
+    "why_D_wrong": "The decisive criterion requires that the fresh evidence, if believed, could reasonably be expected to have affected the result. This is a reasonable threshold, not a requirement that the evidence be conclusive or certain. The due diligence failure is the critical barrier.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 13 — Appeals",
+      "heading": "Fresh Evidence on Appeal — Palmer Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Palmer v. The Queen, [1980] 1 SCR 759; Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.61"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "fresh evidence",
+      "Palmer test",
+      "due diligence",
+      "appeal",
+      "could not have been obtained"
+    ],
+    "tested_concepts": [
+      "Palmer test for fresh evidence on appeal",
+      "four criteria: due diligence, relevance, credibility, decisiveness",
+      "due diligence — failure to request in discovery is fatal"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

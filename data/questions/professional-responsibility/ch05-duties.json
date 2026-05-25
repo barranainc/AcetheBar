@@ -1,0 +1,277 @@
+[
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-05-fees-001",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fees and Disbursements — Rule 3.6",
+    "subtopic_id": "reasonable_fees",
+    "subtopic_heading": "Fair and Reasonable Fees — Rule 3.6-1",
+    "difficulty": "medium",
+    "fact_pattern": "Hakim is a criminal defence lawyer. A client charged with robbery asks Hakim to represent him. Hakim proposes a fee arrangement where he will receive 25% of any monetary award or settlement obtained for the client. The client agrees and signs a retainer agreement reflecting this arrangement.",
+    "call_of_question": "Is Hakim's proposed contingency fee arrangement permissible under the Rules of Professional Conduct?",
+    "options": {
+      "A": "Yes — contingency fee agreements are permitted in all areas of law and are entirely a matter of agreement between the lawyer and client.",
+      "B": "No — contingency fee arrangements are prohibited in criminal law matters; Hakim cannot take a percentage of any outcome in a criminal prosecution.",
+      "C": "Yes — contingency fees are permissible in criminal matters as long as they do not exceed 33% of the outcome.",
+      "D": "Yes — provided the client receives independent legal advice before signing the contingency fee agreement."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.6-2 of the LSO Rules of Professional Conduct provides that a lawyer must not enter into a contingency fee arrangement in criminal law matters. The policy rationale is that criminal defence should not be influenced by financial incentives tied to outcomes, as this could compromise the quality and independence of the representation. Contingency fees are permitted in civil matters, but not in criminal proceedings.",
+    "why_A_wrong": "Incorrect. Contingency fee agreements are not permitted in all areas of law. Rule 3.6-2 explicitly prohibits them in criminal matters.",
+    "why_B_wrong": "This IS the correct answer. No — contingency fee arrangements are prohibited in criminal law matters; Hakim cannot take a percentage of any outcome in a criminal prosecution.",
+    "why_C_wrong": "Incorrect. There is no percentage cap that makes contingency fees permissible in criminal matters. The prohibition is absolute for criminal proceedings.",
+    "why_D_wrong": "Incorrect. Independent legal advice about the fee arrangement does not cure the prohibition on contingency fees in criminal matters. The prohibition is categorical.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.6-1, Rule 3.6-2"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "fee arrangement — contingency fee in criminal matter"
+    },
+    "exam_trigger_words": [
+      "contingency fee",
+      "criminal matter",
+      "percentage",
+      "fee arrangement",
+      "Rule 3.6-2"
+    ],
+    "tested_concepts": [
+      "Rule 3.6-2 — contingency fees prohibited in criminal matters",
+      "criminal defence independence",
+      "contingency fees permissible only in civil matters"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-05-fees-002",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fees and Disbursements — Rule 3.6",
+    "subtopic_id": "contingency_fees",
+    "subtopic_heading": "Contingency Fee Agreements — Rule 3.6-2",
+    "difficulty": "hard",
+    "fact_pattern": "Indira is a personal injury lawyer. She enters into a contingency fee agreement with a client injured in a car accident. The agreement, signed by both parties, provides that Indira will receive 33% of any recovery. The agreement is in writing and sets out the method for calculating the fee but does not describe the potential legal costs that may be recovered from the defendant and how those recovered costs will be handled. The matter settles for $300,000.",
+    "call_of_question": "What formal requirements for contingency fee agreements are imposed under the Rules of Professional Conduct and related legislation, and has Indira satisfied them?",
+    "options": {
+      "A": "A contingency fee agreement need only be signed by the client; no description of how recovered costs will be treated is required.",
+      "B": "Contingency fee agreements must be in writing, signed by both parties, and must also address how legal costs recovered from the opposing party will be applied; Indira's agreement may be deficient for omitting this information.",
+      "C": "The only requirement for a valid contingency fee agreement is that it must not exceed 40% of the recovery.",
+      "D": "Contingency fee agreements require pre-approval by the Law Society of Ontario before they are binding on the client."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.6-2 and the Solicitors Act (R.S.O. 1990, c. S.15) require that contingency fee agreements be in writing and signed by the client and the lawyer. The agreement must also disclose how any legal costs recovered from the opposing party will be treated — whether they offset the contingency percentage or are paid in addition to it. This disclosure protects clients from unexpected fee arrangements at settlement. Indira's agreement is deficient because it does not address how recovered costs will be handled.",
+    "why_A_wrong": "Incorrect. Both parties must sign the agreement, and the treatment of recovered costs must be addressed. An agreement signed only by the client and silent on costs is incomplete.",
+    "why_B_wrong": "This IS the correct answer. Contingency fee agreements must be in writing, signed by both parties, and must also address how legal costs recovered from the opposing party will be applied; Indira's agreement may be deficient for omitting this information.",
+    "why_C_wrong": "Incorrect. There is no universal 40% cap that, if respected, satisfies all formal requirements. The agreement must meet all required formal elements.",
+    "why_D_wrong": "Incorrect. Contingency fee agreements do not require pre-approval by the Law Society. They must meet the formal requirements of Rule 3.6-2 and the Solicitors Act.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.6-2; Solicitors Act, R.S.O. 1990, c. S.15"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "contingency fee — formal requirements"
+    },
+    "exam_trigger_words": [
+      "contingency fee agreement",
+      "formal requirements",
+      "recovered costs",
+      "Solicitors Act",
+      "in writing"
+    ],
+    "tested_concepts": [
+      "Rule 3.6-2 — formal requirements for contingency fee agreements",
+      "treatment of recovered costs must be addressed",
+      "Solicitors Act contingency fee provisions"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-05-fees-003",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fees and Disbursements — Rule 3.6",
+    "subtopic_id": "retainer_funds",
+    "subtopic_heading": "Retainer — Unearned Retainer vs. Earned on Receipt",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Jonas asks his client to pay $5,000 upfront before he commences work. Jonas's retainer letter says the funds are a 'general retainer' and will be treated as 'earned on receipt' immediately upon payment, to be deposited to his general account rather than his trust account.",
+    "call_of_question": "Which of the following is the most accurate statement about how Jonas must treat the $5,000?",
+    "options": {
+      "A": "Because Jonas labelled the funds 'earned on receipt' in his retainer letter, he is entitled to deposit them directly into his general account without restriction.",
+      "B": "All client funds must always go into trust regardless of any agreement, and earned-on-receipt provisions are never valid.",
+      "C": "Unless the $5,000 is a true flat fee for a defined scope of completed work (earned on receipt by agreement), funds paid in advance that are not yet earned must be deposited to the trust account; Jonas cannot simply designate unearned funds as 'earned' by a label in the retainer letter.",
+      "D": "Jonas may deposit the funds to his general account because a general retainer is distinct from a trust retainer and has always been exempt from trust accounting rules."
+    },
+    "correct_answer": "C",
+    "explanation": "By-Law 9 and the LSO Rules of Professional Conduct require that funds received from clients that are not yet earned be deposited to the trust account. A lawyer may enter into a flat fee or earned-on-receipt arrangement for a specific scope of completed work, in which case those funds may be treated as earned. However, simply labelling a general advance as 'earned on receipt' without a defined and completed scope of work does not convert unearned client funds into lawyer's own money. Jonas must deposit the $5,000 to trust and transfer amounts to his general account only as fees are actually earned.",
+    "why_A_wrong": "Incorrect. Labelling funds 'earned on receipt' in a retainer letter does not make unearned funds the lawyer's property. The trust obligation attaches to unearned client funds regardless of labels.",
+    "why_B_wrong": "Incorrect. Earned-on-receipt arrangements are valid in appropriate circumstances — for example, a flat fee for a fully defined scope of work that is agreed to be earned immediately. The issue is whether the label accurately reflects reality.",
+    "why_C_wrong": "This IS the correct answer. Unless the $5,000 is a true flat fee for a defined scope of completed work (earned on receipt by agreement), funds paid in advance that are not yet earned must be deposited to the trust account; Jonas cannot simply designate unearned funds as 'earned' by a label in the retainer letter.",
+    "why_D_wrong": "Incorrect. A general retainer is not categorically exempt from trust accounting rules. Unearned funds from a general retainer must go to trust.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (Financial Transactions and Records of Licensees); Rules of Professional Conduct (LSO), Rule 3.6"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — unearned retainer vs. earned on receipt"
+    },
+    "exam_trigger_words": [
+      "earned on receipt",
+      "general retainer",
+      "trust account",
+      "unearned funds",
+      "By-Law 9"
+    ],
+    "tested_concepts": [
+      "By-Law 9 — unearned client funds go to trust",
+      "earned on receipt must reflect true flat fee arrangement",
+      "cannot convert unearned funds to earned by labelling"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-05-fees-004",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fees and Disbursements — Rule 3.6",
+    "subtopic_id": "account_assessment",
+    "subtopic_heading": "Delivering an Account and Assessment of Solicitor's Bill",
+    "difficulty": "medium",
+    "fact_pattern": "Kira retained a lawyer to handle a complex business acquisition. The matter concluded and the lawyer rendered a final account for $45,000. Kira believes the account is unreasonably high and disputes several of the fee items. The lawyer insists the account is fair and refuses to reduce it. Kira wants to challenge the account formally.",
+    "call_of_question": "What formal mechanism is available to Kira to challenge the lawyer's account, and within what general time frame must she act?",
+    "options": {
+      "A": "Kira must file a complaint with the Law Society of Ontario; there is no separate process for disputing a lawyer's fee.",
+      "B": "Kira may apply for an assessment of the lawyer's account under the Solicitors Act, R.S.O. 1990, c. S.15; an assessment must generally be applied for within one month after the account was delivered (or within a year in some circumstances) and is conducted by an Assessment Officer.",
+      "C": "Kira may bring an action in Small Claims Court to recover any overpayment; the Solicitors Act assessment process only applies to hourly-rate matters.",
+      "D": "Kira may refuse to pay the account; once a client refuses payment, the lawyer cannot take steps to collect it."
+    },
+    "correct_answer": "B",
+    "explanation": "The Solicitors Act, R.S.O. 1990, c. S.15 provides a formal mechanism for clients to challenge a lawyer's account through an assessment process. The client applies to have the account assessed by an Assessment Officer, who reviews whether the fees charged are fair and reasonable. There are time limits — a client who has paid the account must apply within one month after delivery; if unpaid, there are longer periods. A complaint to the LSO addresses misconduct but does not result in a fee adjustment; the Solicitors Act assessment is the appropriate fee dispute mechanism.",
+    "why_A_wrong": "Incorrect. An LSO complaint addresses professional misconduct, not fee disputes. The Solicitors Act provides the specific mechanism for challenging the amount of a legal account.",
+    "why_B_wrong": "This IS the correct answer. Kira may apply for an assessment of the lawyer's account under the Solicitors Act, R.S.O. 1990, c. S.15; an assessment must generally be applied for within one month after the account was delivered (or within a year in some circumstances) and is conducted by an Assessment Officer.",
+    "why_C_wrong": "Incorrect. Small Claims Court is not the proper forum for disputing a lawyer's account. The Solicitors Act assessment process applies to all types of legal accounts, not only hourly-rate matters.",
+    "why_D_wrong": "Incorrect. A client's refusal to pay does not prevent the lawyer from pursuing collection. The appropriate step for disputing the account is to apply for assessment under the Solicitors Act.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Solicitors Act, R.S.O. 1990, c. S.15 (assessment of accounts)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "fee dispute — assessment of solicitor's account"
+    },
+    "exam_trigger_words": [
+      "assessment",
+      "Solicitors Act",
+      "dispute account",
+      "Assessment Officer",
+      "fee dispute"
+    ],
+    "tested_concepts": [
+      "Solicitors Act — assessment of solicitor's accounts",
+      "assessment vs. LSO complaint for fee disputes",
+      "time limits for seeking assessment"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-05-fees-005",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Financial Dealings with Clients — Borrowing",
+    "subtopic_id": "borrowing_from_client",
+    "subtopic_heading": "Borrowing from Clients — Restrictions",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Leon is in financial difficulty. His client, a wealthy retiree, offers to lend Leon $50,000 to help him stabilize his practice. Leon is the client's only lawyer and has managed the client's legal affairs for many years. The client insists he is happy to help and sees it as supporting a trusted advisor. Leon is considering accepting the loan.",
+    "call_of_question": "What must Leon do to comply with the Rules of Professional Conduct before accepting a loan from his client?",
+    "options": {
+      "A": "Leon may accept the loan if the client freely offers it and the loan terms are documented in a signed agreement.",
+      "B": "Leon must disclose the loan to the Law Society of Ontario and obtain pre-approval before borrowing from a client.",
+      "C": "Borrowing from a client creates an own-interest conflict under Rule 3.4-1; Leon should not borrow from his client, and if he does, the client must at minimum receive independent legal advice from another lawyer who can advise on the wisdom and terms of the loan, and Leon must ensure the loan terms are fair.",
+      "D": "Leon may accept the loan because the client is making the offer voluntarily and Leon has a longstanding relationship with him, which eliminates any conflict of interest."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.4-1 identifies borrowing money from a client as an own-interest conflict because the lawyer's financial interests as a borrower may conflict with the client's interests as a lender and as a person relying on the lawyer for legal advice. The lawyer's position of trust and the client's potential vulnerability to the lawyer's influence make independent legal advice for the client essential. The client's willingness or the length of the relationship does not eliminate the conflict — it may in fact reflect the very trust imbalance that creates the concern.",
+    "why_A_wrong": "Incorrect. Documentation of the loan terms does not cure the own-interest conflict. The client's independent advice requirement must be satisfied.",
+    "why_B_wrong": "Incorrect. There is no LSO pre-approval regime for borrowing from clients. The obligation is to manage the conflict under Rule 3.4-1 by ensuring the client receives independent legal advice.",
+    "why_C_wrong": "This IS the correct answer. Borrowing from a client creates an own-interest conflict under Rule 3.4-1; Leon should not borrow from his client, and if he does, the client must at minimum receive independent legal advice from another lawyer who can advise on the wisdom and terms of the loan, and Leon must ensure the loan terms are fair.",
+    "why_D_wrong": "Incorrect. A long-standing relationship and the client's willingness to lend do not eliminate the conflict — they may actually intensify the concern about undue influence and the client's inability to objectively assess the transaction.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-1; LSO By-Law 9"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "borrowing from client — own-interest conflict"
+    },
+    "exam_trigger_words": [
+      "borrowing from client",
+      "loan",
+      "own-interest conflict",
+      "independent legal advice",
+      "Rule 3.4-1"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-1 — borrowing from client is own-interest conflict",
+      "independent legal advice required",
+      "long relationship does not eliminate conflict"
+    ],
+    "estimated_time_seconds": 120
+  }
+]

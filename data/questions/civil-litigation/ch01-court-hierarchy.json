@@ -1,0 +1,167 @@
+[
+  {
+    "id": "civ-01-hier-001",
+    "subject": "civil_litigation",
+    "chapter_number": 1,
+    "chapter_title": "Court Jurisdiction and Court Hierarchy",
+    "topic_id": "court_hierarchy",
+    "topic_heading": "Court Hierarchy in Ontario",
+    "subtopic_id": "superior_court",
+    "subtopic_heading": "Superior Court of Justice — Inherent Jurisdiction and Monetary Threshold",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A plaintiff brings a claim against a corporation for $4.2 million in compensatory damages arising from an alleged breach of a commercial lease. The defendant argues that the Superior Court of Justice does not have jurisdiction to hear the claim because the amount exceeds some monetary cap.",
+    "call_of_question": "Which statement correctly describes the monetary jurisdiction of the Ontario Superior Court of Justice?",
+    "options": {
+      "A": "The Superior Court of Justice has jurisdiction only over claims between $35,000 and $200,000.",
+      "B": "The Superior Court of Justice has unlimited monetary jurisdiction and may hear any civil claim regardless of the amount in dispute, pursuant to s.11 of the Courts of Justice Act.",
+      "C": "The Superior Court of Justice has a monetary cap of $500,000 for breach of contract claims; larger claims must proceed in the Court of Appeal.",
+      "D": "The Superior Court of Justice shares jurisdiction equally with the Divisional Court for claims over $35,000."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s.11 of the Courts of Justice Act, R.S.O. 1990, c. C.43, the Superior Court of Justice is vested with inherent jurisdiction as a superior court of record. Unlike the Small Claims Court, the Superior Court has no upper monetary limit on the claims it may adjudicate. The defendant's argument has no basis in law; a $4.2 million commercial claim is squarely within the Superior Court's jurisdiction. The Superior Court's inherent jurisdiction also includes the power to grant equitable remedies and orders not expressly granted by statute.",
+    "why_A_wrong": "The Superior Court of Justice has no lower or upper monetary limit for civil claims. The $35,000 figure is the monetary limit of the Small Claims Court, not a threshold for the Superior Court.",
+    "why_B_wrong": "This IS the correct answer. Section 11 of the Courts of Justice Act gives the Superior Court of Justice unlimited monetary jurisdiction over civil claims.",
+    "why_C_wrong": "There is no $500,000 cap on Superior Court jurisdiction for any category of civil claim. The Superior Court has unlimited monetary jurisdiction.",
+    "why_D_wrong": "The Divisional Court is a division of the Superior Court with specific appellate jurisdiction under s.19 of the Courts of Justice Act, not concurrent first-instance jurisdiction for claims over $35,000.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 1 — Court Jurisdiction and Court Hierarchy",
+      "heading": "Superior Court of Justice — Inherent Jurisdiction and Monetary Threshold",
+      "page": "N/A",
+      "rule_or_statute_reference": "Courts of Justice Act, R.S.O. 1990, c. C.43, s.11"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Superior Court of Justice",
+      "inherent jurisdiction",
+      "monetary limit",
+      "s.11",
+      "Courts of Justice Act"
+    ],
+    "tested_concepts": [
+      "Superior Court of Justice — unlimited monetary jurisdiction",
+      "Courts of Justice Act s.11",
+      "inherent jurisdiction of superior courts"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-01-hier-002",
+    "subject": "civil_litigation",
+    "chapter_number": 1,
+    "chapter_title": "Court Jurisdiction and Court Hierarchy",
+    "topic_id": "court_hierarchy",
+    "topic_heading": "Court Hierarchy in Ontario",
+    "subtopic_id": "small_claims_court",
+    "subtopic_heading": "Small Claims Court — Monetary Limit and Appeals",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Maria has a claim against her former contractor for $28,000 in deficient renovation work. She is considering whether to bring the claim in Small Claims Court or in the Superior Court of Justice. Her friend tells her she cannot use Small Claims Court because her claim is 'too large.'",
+    "call_of_question": "Is her friend's advice correct, and what is the monetary limit of the Small Claims Court in Ontario?",
+    "options": {
+      "A": "Her friend is correct — the Small Claims Court monetary limit is $25,000, so a $28,000 claim must be brought in the Superior Court of Justice.",
+      "B": "Her friend is incorrect — the Small Claims Court has no monetary limit and Maria can bring any claim there for efficiency.",
+      "C": "Her friend is incorrect — the Small Claims Court monetary limit is $35,000 under s.22 of the Courts of Justice Act, so a $28,000 claim is within the court's jurisdiction.",
+      "D": "Her friend is incorrect — the Small Claims Court monetary limit is $50,000, and a $28,000 claim is well within that limit."
+    },
+    "correct_answer": "C",
+    "explanation": "Under s.22 of the Courts of Justice Act, R.S.O. 1990, c. C.43 (as amended by O. Reg. 626/00), the monetary jurisdiction of the Small Claims Court is set at $35,000. A claim for $28,000 falls within this limit, so Maria can bring her claim in Small Claims Court. Her friend's advice is incorrect. The Small Claims Court offers a simplified and less expensive procedure designed for self-represented parties and smaller disputes. If Maria's damages exceeded $35,000, she would need to either reduce her claim to $35,000 or proceed in the Superior Court of Justice.",
+    "why_A_wrong": "The $25,000 limit is outdated. The current monetary limit of the Small Claims Court is $35,000 under s.22 of the Courts of Justice Act, as amended.",
+    "why_B_wrong": "The Small Claims Court has a monetary limit of $35,000. It does not have unlimited jurisdiction. Claims exceeding this amount must be brought in the Superior Court of Justice.",
+    "why_C_wrong": "This IS the correct answer. The Small Claims Court limit is $35,000 under s.22 of the Courts of Justice Act; a $28,000 claim is within the court's jurisdiction.",
+    "why_D_wrong": "The Small Claims Court monetary limit is $35,000, not $50,000. A $50,000 claim would need to be brought in the Superior Court of Justice.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 1 — Court Jurisdiction and Court Hierarchy",
+      "heading": "Small Claims Court — Monetary Limit and Appeals",
+      "page": "N/A",
+      "rule_or_statute_reference": "Courts of Justice Act, R.S.O. 1990, c. C.43, s.22; O. Reg. 626/00"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Small Claims Court",
+      "$35,000",
+      "monetary limit",
+      "s.22",
+      "Courts of Justice Act"
+    ],
+    "tested_concepts": [
+      "Small Claims Court monetary limit — $35,000",
+      "Courts of Justice Act s.22",
+      "when to use Small Claims Court vs Superior Court"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-01-hier-003",
+    "subject": "civil_litigation",
+    "chapter_number": 1,
+    "chapter_title": "Court Jurisdiction and Court Hierarchy",
+    "topic_id": "court_hierarchy",
+    "topic_heading": "Court Hierarchy in Ontario",
+    "subtopic_id": "divisional_court",
+    "subtopic_heading": "Divisional Court — Jurisdiction and Appeals",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A party loses a motion in the Superior Court of Justice for an amount of $42,000. The losing party wants to appeal the order. Counsel advises that the appeal must go to the Divisional Court, not the Court of Appeal.",
+    "call_of_question": "Which statement correctly describes the Divisional Court's jurisdiction over appeals from the Superior Court of Justice?",
+    "options": {
+      "A": "The Divisional Court has jurisdiction to hear all appeals from the Superior Court of Justice regardless of the amount in dispute.",
+      "B": "The Divisional Court has jurisdiction under s.19 of the Courts of Justice Act to hear appeals from the Superior Court where the amount in dispute is under $50,000 (for final orders), as well as judicial review applications from administrative tribunals.",
+      "C": "The Divisional Court is a separate court from the Superior Court and therefore can only hear appeals by leave of the Court of Appeal.",
+      "D": "The Divisional Court hears only judicial reviews of administrative tribunal decisions; all appeals from the Superior Court go to the Court of Appeal."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s.19 of the Courts of Justice Act, R.S.O. 1990, c. C.43, the Divisional Court is established as a branch of the Superior Court of Justice. The Divisional Court has jurisdiction to hear appeals from final orders of the Superior Court in proceedings where the amount in dispute does not exceed $50,000, as well as appeals from interlocutory orders with leave. The Divisional Court also has jurisdiction to hear judicial review applications from decisions of administrative tribunals under s.2 of the Judicial Review Procedure Act. The Court of Appeal hears appeals from final orders of the Superior Court where the amount exceeds $50,000.",
+    "why_A_wrong": "The Divisional Court does not hear all appeals from the Superior Court. Appeals from final orders exceeding $50,000 in dispute go to the Court of Appeal under s.6 of the Courts of Justice Act.",
+    "why_B_wrong": "This IS the correct answer. Section 19 of the Courts of Justice Act gives the Divisional Court jurisdiction over appeals from Superior Court orders where the amount in dispute is under $50,000 and over judicial review applications.",
+    "why_C_wrong": "The Divisional Court is a branch of the Superior Court of Justice, not a separate court. It does not require leave from the Court of Appeal to hear appeals within its s.19 jurisdiction.",
+    "why_D_wrong": "The Divisional Court hears both appeals from Superior Court orders (within its monetary threshold) and judicial reviews. It is not limited to judicial reviews only.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 1 — Court Jurisdiction and Court Hierarchy",
+      "heading": "Divisional Court — Jurisdiction and Appeals",
+      "page": "N/A",
+      "rule_or_statute_reference": "Courts of Justice Act, R.S.O. 1990, c. C.43, s.19"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Divisional Court",
+      "s.19",
+      "appeal",
+      "$50,000",
+      "judicial review"
+    ],
+    "tested_concepts": [
+      "Divisional Court jurisdiction — s.19 Courts of Justice Act",
+      "appeals from Superior Court under $50,000",
+      "Divisional Court as branch of Superior Court"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

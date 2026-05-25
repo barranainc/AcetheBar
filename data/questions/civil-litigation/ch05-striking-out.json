@@ -1,0 +1,332 @@
+[
+  {
+    "id": "civ-05-def-001",
+    "subject": "civil_litigation",
+    "chapter_number": 5,
+    "chapter_title": "Default Proceedings and Dismissal for Delay",
+    "topic_id": "default_proceedings",
+    "topic_heading": "Default Proceedings",
+    "subtopic_id": "default_proceedings",
+    "subtopic_heading": "Default Proceedings — Noting in Default and Default Judgment",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A plaintiff served a statement of claim on the defendant on April 1, 2026. The defendant, served in Ontario, failed to deliver a statement of defence within the prescribed time. The plaintiff wishes to obtain a default judgment.",
+    "call_of_question": "What procedural steps must the plaintiff take under the Rules of Civil Procedure before a default judgment can be signed?",
+    "options": {
+      "A": "The plaintiff may immediately obtain a default judgment from the court without any prior steps once 20 days have passed from service.",
+      "B": "Under r.19.01, the plaintiff must first have the registrar note the defendant in default; once noted in default, the plaintiff may then seek to obtain a default judgment under r.19.02 or r.19.04.",
+      "C": "The plaintiff must bring a motion before a judge to obtain an order that the defendant is in default before any default judgment can be issued.",
+      "D": "The plaintiff must serve a notice of default on the defendant and wait a further 10 days before any default judgment can be obtained."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.19.01 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), where a defendant fails to deliver a statement of defence within the prescribed time, the plaintiff may have the registrar note the defendant in default. This notation is the necessary prerequisite to obtaining a default judgment. Once the defendant has been noted in default, the plaintiff may seek default judgment — either by filing a requisition with the registrar (for liquidated claims under r.19.02) or by bringing a motion to the court (for unliquidated claims under r.19.04).",
+    "why_A_wrong": "A plaintiff cannot obtain a default judgment immediately and automatically once time has passed. The prescribed step under r.19.01 is to have the registrar note the defendant in default before pursuing default judgment.",
+    "why_B_wrong": "This IS the correct answer. Rule 19.01 requires the registrar to note the defendant in default as a prerequisite; the plaintiff then proceeds to default judgment under r.19.02 or r.19.04.",
+    "why_C_wrong": "Noting in default is done by the registrar on requisition, not by a judge on a motion. A motion to a judge is required only for unliquidated claims (r.19.04) after the defendant has been noted in default.",
+    "why_D_wrong": "There is no requirement to serve a 'notice of default' and wait a further 10 days before noting the defendant in default. Once the time to defend has expired, the plaintiff may immediately requisition notation in default.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 5 — Default Proceedings and Dismissal for Delay",
+      "heading": "Default Proceedings — Noting in Default and Default Judgment",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.19.01; r.19.02; r.19.04"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "default",
+      "noted in default",
+      "r.19.01",
+      "default judgment",
+      "registrar"
+    ],
+    "tested_concepts": [
+      "noting in default — r.19.01 prerequisite to default judgment",
+      "registrar notes in default on requisition",
+      "default judgment for liquidated vs unliquidated claims"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-05-def-002",
+    "subject": "civil_litigation",
+    "chapter_number": 5,
+    "chapter_title": "Default Proceedings and Dismissal for Delay",
+    "topic_id": "default_proceedings",
+    "topic_heading": "Default Proceedings",
+    "subtopic_id": "default_proceedings",
+    "subtopic_heading": "Setting Aside Noting in Default — r.19.05",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A defendant was noted in default after failing to deliver a statement of defence. Before a default judgment was signed, the defendant brings a motion under r.19.05 to set aside the noting in default. The defendant explains that the delay was caused by a serious illness that rendered the defendant unable to communicate with counsel for six weeks. The defendant's proposed statement of defence raises a credible limitation period defence.",
+    "call_of_question": "Under r.19.05, what factors will the court consider on a motion to set aside a noting in default?",
+    "options": {
+      "A": "The court will only set aside a noting in default if the defendant can prove the service of the statement of claim was invalid.",
+      "B": "The court will automatically set aside any noting in default if it is brought before a default judgment has been signed.",
+      "C": "The court may set aside a noting in default on such terms as are just, considering whether: there is a reasonable explanation for the default, the defendant has an arguable defence on the merits, and whether the plaintiff would suffer prejudice.",
+      "D": "The court will not set aside a noting in default once the prescribed time to deliver a defence has expired by more than 30 days."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.19.05 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the court may set aside a noting of default on such terms as are just. Courts have consistently applied a three-part analysis: (1) whether there is a reasonable explanation for the default (here, a serious illness is a compelling excuse); (2) whether the defendant has an arguable defence on the merits (here, the limitation period defence is credible); and (3) whether granting the order would cause prejudice to the plaintiff that cannot be compensated by costs. Courts are generally inclined to set aside a noting in default before judgment is signed, as the objective of the Rules is to decide cases on their merits.",
+    "why_A_wrong": "The validity of service is not the criterion for r.19.05. The motion to set aside a noting in default considers explanation for the default, merits of the defence, and prejudice to the plaintiff.",
+    "why_B_wrong": "There is no automatic rule that a noting in default is set aside simply because a motion is brought before judgment. The court applies a discretionary analysis under r.19.05.",
+    "why_C_wrong": "This IS the correct answer. Rule 19.05 gives the court discretion on terms as are just; courts consider explanation for the default, arguable defence on the merits, and prejudice to the plaintiff.",
+    "why_D_wrong": "There is no 30-day rule that bars setting aside a noting in default. The court may set aside a noting in default at any time before or after judgment, though it is easier to do so before judgment is signed.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 5 — Default Proceedings and Dismissal for Delay",
+      "heading": "Setting Aside Noting in Default — r.19.05",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.19.05"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "set aside",
+      "noting in default",
+      "r.19.05",
+      "reasonable explanation",
+      "arguable defence"
+    ],
+    "tested_concepts": [
+      "setting aside noting in default — r.19.05",
+      "three-part analysis: explanation, merits, prejudice",
+      "court discretion on just terms"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-05-dis-001",
+    "subject": "civil_litigation",
+    "chapter_number": 5,
+    "chapter_title": "Default Proceedings and Dismissal for Delay",
+    "topic_id": "dismissal_for_delay",
+    "topic_heading": "Dismissal for Delay",
+    "subtopic_id": "dismissal_for_delay",
+    "subtopic_heading": "Dismissal for Delay — Status Notice and r.48.14",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An action was commenced in 2022 and has been proceeding very slowly. No steps have been taken in the action for more than two years. The registrar issues a status notice to the parties. The plaintiff's counsel is unsure what will happen if no further steps are taken.",
+    "call_of_question": "Under r.48.14 of the Rules of Civil Procedure, what occurs if no step is taken in the action for two years and the parties fail to respond adequately to a status notice?",
+    "options": {
+      "A": "The action is automatically stayed until the plaintiff brings a motion to restore it to the active list.",
+      "B": "The registrar will dismiss the action for delay without further notice if no step is taken in the action for two years and the parties fail to file a timetable or otherwise respond adequately to the status notice.",
+      "C": "The court will schedule a case management conference to review the status of the action before any dismissal order is made.",
+      "D": "The action will be struck from the trial list but not dismissed; the plaintiff may restart the action by paying an additional court fee."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.48.14 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), where no step has been taken in an action for two years, the registrar may issue a status notice. If the parties do not respond to the status notice by filing a timetable or otherwise demonstrating that the action is being actively pursued, the registrar may dismiss the action for delay. This automatic dismissal mechanism is designed to clear dormant cases from the court's docket. A plaintiff who receives a status notice must act promptly to restore the action and file the required documents.",
+    "why_A_wrong": "The action is not merely stayed upon failure to respond to a status notice. Rule 48.14 provides that the registrar may dismiss the action for delay, not merely stay it.",
+    "why_B_wrong": "This IS the correct answer. Under r.48.14, where no step is taken for two years and the parties do not respond adequately to the status notice, the registrar may dismiss the action for delay.",
+    "why_C_wrong": "There is no automatic requirement for a case management conference before dismissal under r.48.14. The registrar may dismiss without such a conference if the status notice requirements are not met.",
+    "why_D_wrong": "The action is not merely struck from a trial list — it is dismissed. There is no mechanism to restart a dismissed action by paying an additional fee; a dismissed action must be set aside on proper motion.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 5 — Default Proceedings and Dismissal for Delay",
+      "heading": "Dismissal for Delay — Status Notice and r.48.14",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.48.14; r.24.01"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "dismissal for delay",
+      "r.48.14",
+      "status notice",
+      "two years",
+      "registrar"
+    ],
+    "tested_concepts": [
+      "dismissal for delay — r.48.14",
+      "status notice triggers after 2 years of inaction",
+      "registrar may dismiss without further notice"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-05-dis-002",
+    "subject": "civil_litigation",
+    "chapter_number": 5,
+    "chapter_title": "Default Proceedings and Dismissal for Delay",
+    "topic_id": "dismissal_for_delay",
+    "topic_heading": "Dismissal for Delay",
+    "subtopic_id": "dismissal_for_delay",
+    "subtopic_heading": "Dismissal for Delay — Motion to Dismiss by Defendant",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A defendant is frustrated by the plaintiff's failure to advance a personal injury action for the past three years. No discoveries have been completed, no trial date has been scheduled, and the plaintiff has taken no steps despite repeated requests. The defendant wants to have the action dismissed for delay.",
+    "call_of_question": "Apart from the registrar's automatic dismissal process under r.48.14, what avenue does the defendant have to seek dismissal of the action for delay?",
+    "options": {
+      "A": "The defendant may bring a motion under r.24.01 to dismiss the action for delay where the plaintiff has not taken steps in the action as required and the delay is unreasonable.",
+      "B": "The defendant must wait for the registrar to issue a status notice before any motion to dismiss for delay can be brought.",
+      "C": "The defendant cannot bring a motion to dismiss for delay; only the registrar can dismiss an action under the Rules.",
+      "D": "The defendant may bring a motion for summary judgment on the grounds that the delay is evidence that the plaintiff has abandoned the claim."
+    },
+    "correct_answer": "A",
+    "explanation": "Under r.24.01 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a defendant may bring a motion to have an action dismissed for delay where the plaintiff has failed to take the steps required to bring the action to trial as required by the Rules. This motion is available independently of the registrar's automatic process under r.48.14. The court will consider the length and reasons for the delay, whether the defendant has been prejudiced, and the merits of the action. The power of a party to move to dismiss for delay under r.24.01 is in addition to — not a replacement for — the registrar's automatic process.",
+    "why_A_wrong": "This IS the correct answer. Rule 24.01 permits a defendant to bring a motion to dismiss for delay independently of the registrar's automatic dismissal process under r.48.14.",
+    "why_B_wrong": "A defendant need not wait for the registrar to issue a status notice before bringing a r.24.01 motion. The defendant's right to move for dismissal for delay is independent of the registrar's process.",
+    "why_C_wrong": "Both the registrar (r.48.14) and a party (r.24.01) may seek dismissal for delay. The registrar's process is not the exclusive mechanism.",
+    "why_D_wrong": "Summary judgment under r.20 addresses the merits of the claim. Delay alone is not a proper basis for a summary judgment motion; the specific remedy for delay is dismissal under r.24.01 or r.48.14.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 5 — Default Proceedings and Dismissal for Delay",
+      "heading": "Dismissal for Delay — Motion to Dismiss by Defendant",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.24.01"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "dismissal for delay",
+      "r.24.01",
+      "defendant motion",
+      "unreasonable delay",
+      "party motion"
+    ],
+    "tested_concepts": [
+      "r.24.01 — defendant motion to dismiss for delay",
+      "r.24.01 vs r.48.14 registrar dismissal",
+      "grounds for dismissal for delay"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-05-roc-001",
+    "subject": "civil_litigation",
+    "chapter_number": 5,
+    "chapter_title": "Default Proceedings and Dismissal for Delay",
+    "topic_id": "dismissal_for_delay",
+    "topic_heading": "Dismissal for Delay",
+    "subtopic_id": "dismissal_for_delay",
+    "subtopic_heading": "Registrar's Dismissal vs Motion to Dismiss — Comparison",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An action has been dormant for 18 months. No status notice has been issued by the registrar. The defendant's counsel is considering whether to wait for the registrar to issue a status notice or to bring a r.24.01 motion to dismiss for delay immediately.",
+    "call_of_question": "Which of the following correctly distinguishes between the registrar's power to dismiss under r.48.14 and a party's right to move for dismissal under r.24.01?",
+    "options": {
+      "A": "Under r.48.14, the registrar may dismiss an action after two years of inaction following a status notice; under r.24.01, any party may bring a motion to dismiss for delay at any time, regardless of how long the delay has been.",
+      "B": "Under r.48.14, only the plaintiff can trigger the registrar's process; under r.24.01, only the defendant can bring a motion.",
+      "C": "Under r.48.14, the registrar dismisses an action automatically without notice; under r.24.01, the motion requires the filing of expert evidence on the issue of delay.",
+      "D": "Under r.48.14 and r.24.01, the standard for dismissal is identical; the only difference is who initiates the process."
+    },
+    "correct_answer": "A",
+    "explanation": "Under r.48.14 of the Rules of Civil Procedure, a registrar-initiated process applies after the action has been dormant for two years and the parties have failed to respond to a status notice; the registrar may then dismiss the action. Rule 24.01, by contrast, provides a party-initiated right to bring a motion to dismiss for delay at any time without waiting for the two-year mark or a status notice. The standards applied may differ: r.24.01 requires the court to consider all circumstances of the delay and prejudice, while r.48.14 is a more administrative process triggered by passage of time and non-response to the status notice. The defendant in the scenario can bring a r.24.01 motion without waiting 18 additional months for the registrar's process to mature.",
+    "why_A_wrong": "This IS the correct answer. The registrar's r.48.14 process requires two years of inaction and a status notice; a party's r.24.01 motion may be brought at any time upon a showing of unreasonable delay.",
+    "why_B_wrong": "Rule 24.01 is not limited to defendants — any party may bring a motion for dismissal for delay. Rule 48.14 is initiated by the registrar, not restricted to the plaintiff.",
+    "why_C_wrong": "The registrar does not dismiss automatically without notice; a status notice is issued and the parties have an opportunity to respond before dismissal under r.48.14. A r.24.01 motion does not require expert evidence.",
+    "why_D_wrong": "The standards under r.48.14 and r.24.01 are not identical. Rule 48.14 is a time-based administrative process; r.24.01 requires a judicial assessment of delay, prejudice, and all circumstances of the case.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 5 — Default Proceedings and Dismissal for Delay",
+      "heading": "Registrar's Dismissal vs Motion to Dismiss — Comparison",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.24.01; r.48.14"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "r.24.01",
+      "r.48.14",
+      "registrar",
+      "dismissal for delay",
+      "distinction"
+    ],
+    "tested_concepts": [
+      "r.48.14 registrar process vs r.24.01 party motion",
+      "two-year trigger for r.48.14 status notice",
+      "r.24.01 available at any time"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-05-set-001",
+    "subject": "civil_litigation",
+    "chapter_number": 5,
+    "chapter_title": "Default Proceedings and Dismissal for Delay",
+    "topic_id": "dismissal_for_delay",
+    "topic_heading": "Dismissal for Delay",
+    "subtopic_id": "dismissal_for_delay",
+    "subtopic_heading": "Setting Aside Dismissal Order — r.37.14",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The registrar dismissed an action for delay under r.48.14 after the plaintiff failed to respond to a status notice. The plaintiff's new counsel discovers the dismissal order two months later and brings a motion under r.37.14 to set aside the dismissal order and restore the action.",
+    "call_of_question": "On a motion to set aside the registrar's dismissal order under r.37.14, what factors will the court consider?",
+    "options": {
+      "A": "The court will automatically restore the action because a registrar's order can always be set aside by a judge on motion without showing any grounds.",
+      "B": "The court will refuse to set aside the order because a registrar's dismissal for delay under r.48.14 is final and cannot be appealed or set aside.",
+      "C": "The court will consider whether there is a reasonable explanation for the failure that led to dismissal, whether the action has merit, and whether restoring the action would cause prejudice to the defendant that cannot be compensated by costs.",
+      "D": "The court will only set aside the dismissal if the plaintiff can prove it was caused by the defendant's misconduct."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.37.14 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a party may move to set aside or vary an order made by the registrar, or by the court on a motion without notice. On a motion to set aside a registrar's dismissal for delay, courts have consistently applied an analysis that considers: (1) whether there is a reasonable explanation for the default that led to dismissal; (2) whether the action has merit; and (3) whether restoring the action would cause prejudice to the defendant that cannot be compensated by costs. The court exercises discretion; the failure to respond to the status notice must be satisfactorily explained.",
+    "why_A_wrong": "A registrar's order is not automatically set aside on motion to a judge. Rule 37.14 requires the moving party to demonstrate grounds for setting aside the order; the court exercises discretion.",
+    "why_B_wrong": "A registrar's dismissal order can be set aside under r.37.14. It is not a final, unappealable order. The moving party must satisfy the court that there are grounds to restore the action.",
+    "why_C_wrong": "This IS the correct answer. The court applies a three-part analysis under r.37.14: explanation for the default, merits of the action, and prejudice to the defendant.",
+    "why_D_wrong": "The plaintiff need not prove the delay was caused by the defendant's misconduct. The analysis under r.37.14 focuses on the plaintiff's own explanation for the default, the action's merits, and prejudice.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 5 — Default Proceedings and Dismissal for Delay",
+      "heading": "Setting Aside Dismissal Order — r.37.14",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.37.14; r.48.14"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "set aside dismissal",
+      "r.37.14",
+      "registrar order",
+      "restore action",
+      "explanation merits prejudice"
+    ],
+    "tested_concepts": [
+      "setting aside registrar's dismissal — r.37.14",
+      "three-factor analysis: explanation, merits, prejudice",
+      "r.37.14 — motion to set aside registrar's order"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

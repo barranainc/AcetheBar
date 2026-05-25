@@ -1,0 +1,222 @@
+[
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-07-candour-001",
+    "chapter_number": 7,
+    "chapter_title": "Duties to Tribunals and Third Parties",
+    "topic_id": "duties_tribunals",
+    "topic_heading": "Duties as Advocate — Rule 5.1-2",
+    "subtopic_id": "duty_candour",
+    "subtopic_heading": "Duty of Candour to the Tribunal — Rule 5.1-2",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Rosa is representing a defendant in a civil action. During her opening statement, she tells the judge that a particular witness is available to testify and will provide key evidence. Before the witness testifies, Rosa learns that the witness has left the country and will not be returning in time for trial. Rosa decides not to inform the court because she fears it will weaken her client's position and hopes the matter resolves before the issue arises.",
+    "call_of_question": "Has Rosa breached her duty of candour to the tribunal under Rule 5.1-2?",
+    "options": {
+      "A": "No — Rosa's opening statement was made in good faith at the time and she has no obligation to correct information that has since become inaccurate.",
+      "B": "No — the duty of candour applies only to written submissions, not to oral statements made during trial.",
+      "C": "Yes — Rule 5.1-2 prohibits a lawyer from knowingly making false statements to the tribunal and requires the lawyer to correct a false statement previously made; Rosa must inform the court that the witness will not be available.",
+      "D": "No — strategic decision-making about what information to share with the court is within the scope of the advocate's discretion."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 5.1-2 of the LSO Rules of Professional Conduct imposes a duty of candour on lawyers appearing before tribunals. This duty includes not knowingly making false or misleading statements to the tribunal and, critically, correcting any false statement previously made to the court. Rosa initially represented to the judge that the witness would be available. Having learned this is no longer true, she is obligated to correct that representation. Allowing the court to proceed on a false basis violates her duty of candour and constitutes a breach of Rule 5.1-2.",
+    "why_A_wrong": "Incorrect. The duty of candour includes a positive obligation to correct false statements previously made to the tribunal. The fact that the statement was made in good faith at the time does not eliminate the duty to correct once the lawyer becomes aware of the falsehood.",
+    "why_B_wrong": "Incorrect. The duty of candour applies to all communications with the tribunal, including oral statements made during trial. It is not limited to written submissions.",
+    "why_C_wrong": "This IS the correct answer. Yes — Rule 5.1-2 prohibits a lawyer from knowingly making false statements to the tribunal and requires the lawyer to correct a false statement previously made; Rosa must inform the court that the witness will not be available.",
+    "why_D_wrong": "Incorrect. The duty of candour is not subject to override by strategic advocacy considerations. A lawyer's obligations to the court take precedence over tactical client interests when a false statement has been made.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 7",
+      "heading": "Duties to Tribunals and Third Parties",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.1-2"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "duty of candour — correcting false statement to court"
+    },
+    "exam_trigger_words": [
+      "candour",
+      "false statement",
+      "correct",
+      "tribunal",
+      "Rule 5.1-2"
+    ],
+    "tested_concepts": [
+      "Rule 5.1-2 — duty of candour to tribunal",
+      "obligation to correct false statement previously made",
+      "duty of candour applies to oral and written submissions"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-07-candour-002",
+    "chapter_number": 7,
+    "chapter_title": "Duties to Tribunals and Third Parties",
+    "topic_id": "duties_tribunals",
+    "topic_heading": "Duties as Advocate — Rule 5.1-2",
+    "subtopic_id": "duty_candour",
+    "subtopic_heading": "Misleading the Court by Omission — Citing Contrary Authorities",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Stephan is researching a motion for summary judgment. He finds a recent Ontario Court of Appeal decision that directly contradicts the position he is advancing for his client. He also finds an older Superior Court decision that supports his client's position. Stephan decides to cite only the Superior Court decision in his factum and omit any reference to the Court of Appeal decision, hoping opposing counsel will not find it.",
+    "call_of_question": "Does Stephan's failure to cite the contrary Court of Appeal decision in his factum violate the Rules of Professional Conduct?",
+    "options": {
+      "A": "No — a lawyer is under no obligation to assist the opposing party by citing authorities that harm the client's position; adversarial practice permits selective citation.",
+      "B": "No — the duty to cite contrary authorities only arises if the opposing party has specifically requested disclosure of adverse case law.",
+      "C": "Yes — Rule 5.1-2 requires a lawyer as advocate to cite any directly relevant authorities of which the lawyer is aware even if they are unfavourable to the lawyer's position; failure to disclose a directly contrary Court of Appeal decision misleads the court by omission.",
+      "D": "No — the duty to cite contrary authority applies only in courts of final resort, not in motions before the Superior Court."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 5.1-2 of the LSO Rules of Professional Conduct provides that a lawyer, as advocate, must not deliberately fail to advise the tribunal of binding authorities that are directly relevant to the matter, even if they are unfavourable to the client's position. A recent Ontario Court of Appeal decision that directly contradicts the argument being made is exactly the type of authority that must be disclosed. Deliberately omitting it to mislead the court constitutes a breach of the duty of candour.",
+    "why_A_wrong": "Incorrect. The adversarial system does not permit selective citation designed to mislead the court. Rule 5.1-2 imposes an obligation to cite directly contrary binding authorities regardless of their impact on the client's position.",
+    "why_B_wrong": "Incorrect. The duty to disclose contrary authorities is not contingent on a request from opposing counsel. It is a positive and proactive obligation under Rule 5.1-2.",
+    "why_C_wrong": "This IS the correct answer. Yes — Rule 5.1-2 requires a lawyer as advocate to cite any directly relevant authorities of which the lawyer is aware even if they are unfavourable to the lawyer's position; failure to disclose a directly contrary Court of Appeal decision misleads the court by omission.",
+    "why_D_wrong": "Incorrect. The duty to disclose contrary binding authorities applies in all courts and tribunals before which a lawyer appears, not only in courts of final resort.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 7",
+      "heading": "Duties to Tribunals and Third Parties",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.1-2"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "duty of candour — failure to cite contrary authority"
+    },
+    "exam_trigger_words": [
+      "contrary authority",
+      "candour",
+      "omission",
+      "factum",
+      "Rule 5.1-2"
+    ],
+    "tested_concepts": [
+      "Rule 5.1-2 — duty to cite directly contrary binding authorities",
+      "misleading the court by omission",
+      "candour applies even when authority hurts client"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-07-frivolous-001",
+    "chapter_number": 7,
+    "chapter_title": "Duties to Tribunals and Third Parties",
+    "topic_id": "duties_tribunals",
+    "topic_heading": "Duties as Advocate — Rule 5.1-2",
+    "subtopic_id": "no_frivolous_proceedings",
+    "subtopic_heading": "Duty Not to Bring Frivolous Proceedings — Rule 5.1-2(e)",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Teresa is consulted by a client who wants to sue a neighbour for $500 for an alleged breach of a verbal agreement. The client acknowledges that the verbal agreement is not provable and that no loss was actually suffered — the client simply wants to use the lawsuit to harass the neighbour following a personal dispute. Teresa considers filing the claim.",
+    "call_of_question": "What are Teresa's obligations under Rule 5.1-2 and the Rules of Professional Conduct regarding the proposed action?",
+    "options": {
+      "A": "Teresa must file the claim because a lawyer is obligated to advance whatever position the client instructs.",
+      "B": "Teresa must file the claim because the client has a right of access to courts and the merits of the claim are for a judge to assess.",
+      "C": "Teresa must not commence proceedings that have no merit and are brought for an improper purpose; Rule 5.1-2(e) prohibits a lawyer from bringing proceedings that are without a reasonable basis and intended to abuse the court process.",
+      "D": "Teresa may file the claim as long as she informs the client that the claim is unlikely to succeed."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 5.1-2(e) of the LSO Rules of Professional Conduct provides that a lawyer must not knowingly assist or permit a client to do anything that the lawyer considers to be dishonest or dishonourable, and more specifically, must not institute proceedings that have no merit and are brought for an improper purpose. A lawsuit filed to harass rather than to vindicate a legitimate legal right is frivolous and an abuse of process. Teresa must decline to commence this action.",
+    "why_A_wrong": "Incorrect. A lawyer is not obligated to advance any position a client instructs. The duty to not bring frivolous or harassing proceedings is a constraint on the lawyer's role as advocate.",
+    "why_B_wrong": "Incorrect. The right of access to courts does not include the right to use courts as instruments of harassment. Rule 5.1-2 limits what a lawyer may do even if a client demands it.",
+    "why_C_wrong": "This IS the correct answer. Teresa must not commence proceedings that have no merit and are brought for an improper purpose; Rule 5.1-2(e) prohibits a lawyer from bringing proceedings that are without a reasonable basis and intended to abuse the court process.",
+    "why_D_wrong": "Incorrect. Informing the client of the low likelihood of success does not cure the problem. The proceeding is improper regardless of whether the client is warned, and Teresa must decline to file it.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 7",
+      "heading": "Duties to Tribunals and Third Parties",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.1-2(e)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "no frivolous proceedings — abuse of process"
+    },
+    "exam_trigger_words": [
+      "frivolous",
+      "harass",
+      "no merit",
+      "improper purpose",
+      "Rule 5.1-2"
+    ],
+    "tested_concepts": [
+      "Rule 5.1-2(e) — no frivolous or harassing proceedings",
+      "lawyer cannot file claims for improper purpose",
+      "client instruction does not override duty to court"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-07-unmerit-001",
+    "chapter_number": 7,
+    "chapter_title": "Duties to Tribunals and Third Parties",
+    "topic_id": "duties_tribunals",
+    "topic_heading": "Duties as Advocate — Rule 5.1-2",
+    "subtopic_id": "unmeritorious_defence",
+    "subtopic_heading": "Duty Not to Assert Position Without Foundation — Rule 5.1-2",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Ulrich is defending a commercial landlord in a wrongful eviction action. The tenant has strong evidence of the eviction. Ulrich's client instructs him to raise every possible defence, including defences that Ulrich knows have absolutely no legal or factual foundation, simply to delay the proceedings and impose maximum costs on the tenant. Ulrich proceeds as instructed.",
+    "call_of_question": "Has Ulrich acted in accordance with his duties under the Rules of Professional Conduct?",
+    "options": {
+      "A": "Yes — a defence lawyer's duty is to zealously advocate for the client by raising all possible defences; Ulrich is obligated to follow his client's instructions.",
+      "B": "Yes — the court can assess costs against the landlord at the end of the proceedings, which is the appropriate mechanism to address unfounded defences.",
+      "C": "No — Rule 5.1-2 prohibits a lawyer from asserting a position in proceedings where the lawyer knows the position is not supported by law and has no merit; using unfounded defences to delay proceedings and harass the opposing party is a breach of the advocate's duty.",
+      "D": "Yes — as long as the unfounded defences are technically available at law, raising them is a legitimate tactical decision within the advocate's discretion."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 5.1-2 of the LSO Rules of Professional Conduct limits the advocate's role by prohibiting the assertion of positions in proceedings that the lawyer knows to be without merit. A lawyer cannot use litigation as a tool of delay and harassment by pleading defences that have no legal or factual foundation. Zealous advocacy does not extend to advancing knowingly baseless positions. The availability of costs as a remedy at the end of proceedings does not excuse the lawyer from complying with Rule 5.1-2 during the proceedings.",
+    "why_A_wrong": "Incorrect. Zealous advocacy does not include advancing positions the lawyer knows to have no merit. Rule 5.1-2 restricts the advocate's role regardless of client instructions.",
+    "why_B_wrong": "Incorrect. The availability of a costs remedy does not authorize conduct that violates Rule 5.1-2 during the proceedings. The obligation is a constraint on the lawyer's conduct, not a matter to be remedied at the end.",
+    "why_C_wrong": "This IS the correct answer. No — Rule 5.1-2 prohibits a lawyer from asserting a position in proceedings where the lawyer knows the position is not supported by law and has no merit; using unfounded defences to delay proceedings and harass the opposing party is a breach of the advocate's duty.",
+    "why_D_wrong": "Incorrect. Technical legal availability does not make a defence appropriate to raise when the lawyer knows it has no merit. Rule 5.1-2 requires that positions advanced must have a reasonable legal and factual basis.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 7",
+      "heading": "Duties to Tribunals and Third Parties",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.1-2"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "unmeritorious defence — asserting position without foundation"
+    },
+    "exam_trigger_words": [
+      "unmeritorious",
+      "no foundation",
+      "delay",
+      "all possible defences",
+      "Rule 5.1-2"
+    ],
+    "tested_concepts": [
+      "Rule 5.1-2 — no positions without legal/factual foundation",
+      "zealous advocacy has limits",
+      "lawyer cannot follow client instruction to raise baseless defences"
+    ],
+    "estimated_time_seconds": 150
+  }
+]

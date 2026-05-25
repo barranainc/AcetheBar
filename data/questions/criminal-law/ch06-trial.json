@@ -1,0 +1,453 @@
+[
+  {
+    "id": "crim-06-burden-001",
+    "subject": "criminal_law",
+    "chapter_number": 6,
+    "chapter_title": "Trial — Procedure and Evidence",
+    "topic_id": "trial_procedure_evidence",
+    "topic_heading": "Trial Procedure and Evidence",
+    "subtopic_id": "burden_proof",
+    "subtopic_heading": "Burden of Proof and Reasonable Doubt",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is charged with break and enter. At the close of the Crown's case, all witnesses have testified. The trial judge must instruct the jury on the standard of proof required for a conviction.",
+    "call_of_question": "What standard of proof must the Crown satisfy to obtain a conviction in a criminal trial?",
+    "options": {
+      "A": "Balance of probabilities — the Crown must show it is more likely than not that the accused committed the offence.",
+      "B": "Clear and convincing evidence — the Crown must satisfy the jury with a high degree of certainty.",
+      "C": "Proof beyond a reasonable doubt — the highest standard in Canadian law, falling short of absolute certainty.",
+      "D": "Prima facie case — the Crown need only establish enough evidence to go to the jury."
+    },
+    "correct_answer": "C",
+    "explanation": "In criminal proceedings, the Crown bears the burden of proving every element of the offence beyond a reasonable doubt. As the Supreme Court of Canada held in R. v. Lifchus, [1997] 3 SCR 320, proof beyond a reasonable doubt is not based on sympathy or prejudice but on reason and common sense. It is not proof to an absolute certainty — because that is impossible in most cases — but it falls far short of a balance of probabilities. A reasonable doubt is a doubt based on reason and common sense, logically connected to the evidence.",
+    "why_A_wrong": "Balance of probabilities is the civil standard. In criminal proceedings, the Crown must meet the higher standard of proof beyond a reasonable doubt. Proof of mere probability is insufficient for conviction.",
+    "why_B_wrong": "'Clear and convincing evidence' is an American standard that does not exist in Canadian criminal law. Canadian law uses only two standards: balance of probabilities (civil) and proof beyond a reasonable doubt (criminal).",
+    "why_C_wrong": "This IS the correct answer. Proof beyond a reasonable doubt is the criminal standard required of the Crown, as affirmed in R. v. Lifchus and R. v. Starr.",
+    "why_D_wrong": "Prima facie case is the standard for committing an accused to stand trial at a preliminary inquiry, not the standard at trial. At trial, the Crown must prove every element beyond a reasonable doubt.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 6: Trial — Procedure and Evidence",
+      "heading": "Burden of Proof",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 11(d); R. v. Lifchus, [1997] 3 SCR 320; R. v. Woolmington v. DPP, [1935] AC 462"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "burden of proof",
+      "reasonable doubt",
+      "standard of proof",
+      "beyond a reasonable doubt"
+    ],
+    "tested_concepts": [
+      "criminal burden of proof",
+      "beyond a reasonable doubt standard",
+      "Lifchus direction",
+      "distinction from civil standard"
+    ],
+    "estimated_time_seconds": 60,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-06-burden-002",
+    "subject": "criminal_law",
+    "chapter_number": 6,
+    "chapter_title": "Trial — Procedure and Evidence",
+    "topic_id": "trial_procedure_evidence",
+    "topic_heading": "Trial Procedure and Evidence",
+    "subtopic_id": "burden_proof",
+    "subtopic_heading": "Burden of Proof and Reasonable Doubt",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is charged with assault. She raises self-defence. The trial judge instructs the jury: 'If you believe on a balance of probabilities that the accused acted in self-defence, you must acquit.' Defence counsel objects to this instruction.",
+    "call_of_question": "Is the trial judge's instruction on self-defence correct?",
+    "options": {
+      "A": "Yes — the accused bears the burden of proving an affirmative defence on a balance of probabilities.",
+      "B": "Yes — once the accused raises a defence, the jury may acquit on a balance of probabilities.",
+      "C": "No — the accused bears only an evidential burden to raise the defence; the Crown then bears the persuasive burden of disproving self-defence beyond a reasonable doubt.",
+      "D": "No — the accused must prove self-defence beyond a reasonable doubt to satisfy the jury."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Criminal Code s.34 (self-defence), the accused need only raise an air of reality to the defence — an evidential burden, not a persuasive burden. Once the defence has an air of reality, the Crown must disprove the defence beyond a reasonable doubt. The instruction that the jury must acquit on a balance of probabilities is incorrect because it places the persuasive burden on the accused rather than requiring the Crown to disprove the defence beyond a reasonable doubt. The Woolmington principle (as applied in Canada through the Charter, s.11(d)) requires that the Crown disprove defences it cannot exclude beyond a reasonable doubt.",
+    "why_A_wrong": "The accused does not bear a persuasive burden on most common-law or Criminal Code defences including self-defence. The accused need only raise an air of reality; the Crown must then disprove it beyond a reasonable doubt.",
+    "why_B_wrong": "The balance of probabilities standard does not apply to defences in criminal proceedings. Once the accused raises an air of reality, the Crown must disprove the defence to the criminal standard (beyond a reasonable doubt).",
+    "why_C_wrong": "This IS the correct answer. The accused bears only the evidential burden (air of reality) for self-defence. The persuasive burden remains with the Crown throughout.",
+    "why_D_wrong": "The accused is never required to prove a defence beyond a reasonable doubt. That would be an impossible standard that inverts the presumption of innocence. The accused's burden, where it exists, is only the evidential burden (air of reality).",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 6: Trial — Procedure and Evidence",
+      "heading": "Burden of Proof — Defences",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 34; Canadian Charter of Rights and Freedoms, s. 11(d); R. v. Cinous, [2002] 2 SCR 3 (air of reality test)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "burden of proof",
+      "self-defence",
+      "air of reality",
+      "evidential burden",
+      "persuasive burden"
+    ],
+    "tested_concepts": [
+      "evidential vs persuasive burden",
+      "air of reality test",
+      "Crown's burden to disprove defences",
+      "Woolmington principle"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-06-grant-001",
+    "subject": "criminal_law",
+    "chapter_number": 6,
+    "chapter_title": "Trial — Procedure and Evidence",
+    "topic_id": "trial_procedure_evidence",
+    "topic_heading": "Trial Procedure and Evidence",
+    "subtopic_id": "section24_2_exclusion",
+    "subtopic_heading": "Exclusion of Evidence — s. 24(2) Charter and the Grant Test",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Police stop a driver for a minor traffic infraction. Without any basis for suspicion of impairment, the officer demands the driver blow into a screening device. The driver registers a 'warn.' He is then arrested for impaired driving and his blood alcohol content is later measured at 145 mg/100 ml. The accused applies to exclude the breath evidence under s. 24(2) of the Charter, arguing the roadside demand violated s. 9 (arbitrary detention).",
+    "call_of_question": "Under the Grant test (R. v. Grant, 2009 SCC 32), which of the following is NOT one of the three lines of inquiry for s. 24(2)?",
+    "options": {
+      "A": "The seriousness of the Charter-infringing conduct.",
+      "B": "The impact of the breach on the Charter-protected interests of the accused.",
+      "C": "Society's interest in the adjudication on the merits.",
+      "D": "The subjective intent of the police officer who committed the breach."
+    },
+    "correct_answer": "D",
+    "explanation": "In R. v. Grant, 2009 SCC 32, the Supreme Court of Canada replaced the Collins/Stillman test with a three-part balancing framework for s. 24(2). The three lines of inquiry are: (1) the seriousness of the Charter-infringing conduct (was the conduct deliberate, wilful, or flagrant?); (2) the impact of the breach on the Charter-protected interests of the accused (the more serious the impact on the accused's dignity, bodily integrity, or privacy, the more exclusion is favoured); and (3) society's interest in the adjudication on the merits (the truth-seeking interest, reliability of evidence, and importance of the evidence to the Crown's case). The subjective intent of the specific officer is not a freestanding line of inquiry; rather, good or bad faith is a factor under the first line (seriousness of breach), not a separate criterion.",
+    "why_A_wrong": "The seriousness of the Charter-infringing conduct IS one of the three Grant lines of inquiry. Courts examine whether the conduct was deliberate, wilful, or a good-faith mistake, as part of assessing the seriousness of the breach.",
+    "why_B_wrong": "The impact on the Charter-protected interests of the accused IS the second Grant line of inquiry. Courts assess whether the breach intruded on the accused's physical, bodily, or informational privacy, and the degree of that intrusion.",
+    "why_C_wrong": "Society's interest in the adjudication on the merits IS the third Grant line of inquiry. This includes the importance of the evidence, its reliability, and whether exclusion would bring the administration of justice into disrepute by letting the accused escape on a 'technicality.'",
+    "why_D_wrong": "This IS the correct answer. The subjective intent of the police officer is NOT a freestanding Grant line of inquiry. Police good or bad faith is a factor within the first line (seriousness of the breach), but it is not an independent criterion.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 6: Trial — Procedure and Evidence",
+      "heading": "Exclusion of Evidence — s. 24(2) Grant Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 24(2); R. v. Grant, 2009 SCC 32"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 24(2)",
+      "Grant test",
+      "exclusion of evidence",
+      "Charter breach",
+      "three lines of inquiry"
+    ],
+    "tested_concepts": [
+      "Grant three-part test",
+      "seriousness of breach",
+      "impact on Charter-protected interests",
+      "society's interest in adjudication on merits"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-06-grant-002",
+    "subject": "criminal_law",
+    "chapter_number": 6,
+    "chapter_title": "Trial — Procedure and Evidence",
+    "topic_id": "trial_procedure_evidence",
+    "topic_heading": "Trial Procedure and Evidence",
+    "subtopic_id": "section24_2_exclusion",
+    "subtopic_heading": "Exclusion of Evidence — s. 24(2) Charter and the Grant Test",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Officers conducted a warrantless search of the accused's home, finding a significant quantity of cocaine. The Charter breach (s.8) was serious — the officers knew they needed a warrant and deliberately proceeded without one. The cocaine is reliable evidence of a serious drug trafficking offence. The accused applies to exclude the cocaine under s. 24(2).",
+    "call_of_question": "Applying the Grant framework, which factor most strongly favours exclusion of the evidence in this scenario?",
+    "options": {
+      "A": "The reliability of the evidence, because real evidence is always more reliable than testimonial evidence.",
+      "B": "The seriousness of the Charter breach — deliberate police disregard of the warrant requirement is highly culpable state conduct.",
+      "C": "Society's interest in adjudicating on the merits — the cocaine is critical to the Crown's case.",
+      "D": "The impact on the accused's rights is minimal because the accused had no reasonable expectation of privacy in cocaine."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Grant framework's first line of inquiry, the seriousness of the Charter-infringing conduct weighs heavily toward exclusion when officers deliberately disregard a known constitutional requirement. Wilful or flagrant police misconduct — knowingly proceeding without a warrant — is treated as more serious than a good-faith error. The SCC in Grant noted that admitting evidence obtained through deliberate, wilful breach risks bringing the administration of justice into disrepute by appearing to condone flagrant state misconduct. While the importance of the evidence (third line) and reliability (also third line) generally favour admission for real evidence, they are outweighed in cases of deliberate, egregious breach. The most strongly pro-exclusion factor on these facts is the deliberate, wilful nature of the breach.",
+    "why_A_wrong": "Reliability of evidence is a factor under the third Grant line (society's interest in adjudication on the merits) and generally favours admission of reliable real evidence. It does not strongly favour exclusion on these facts.",
+    "why_B_wrong": "This IS the correct answer. Deliberate, wilful police disregard of the warrant requirement is the most egregious form of Charter breach and most strongly favours exclusion under the first Grant line.",
+    "why_C_wrong": "Society's interest in adjudicating on the merits — including the importance of the cocaine evidence — favours admission, not exclusion. It weighs against the accused's exclusion application on these facts.",
+    "why_D_wrong": "Persons have a high reasonable expectation of privacy in their homes under s.8 of the Charter. The accused's home is accorded the highest privacy protection in Canadian law. The impact on the accused's s.8 right is significant, not minimal.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 6: Trial — Procedure and Evidence",
+      "heading": "Exclusion of Evidence — s. 24(2) Grant Analysis",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 8, s. 24(2); R. v. Grant, 2009 SCC 32; R. v. Côté, 2011 SCC 46"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "wilful breach",
+      "deliberate",
+      "s. 24(2)",
+      "Grant",
+      "exclusion",
+      "seriousness of conduct"
+    ],
+    "tested_concepts": [
+      "Grant first line — seriousness of breach",
+      "deliberate vs good-faith breach",
+      "balancing exclusion factors",
+      "home search s.8 expectation of privacy"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-06-vdir-001",
+    "subject": "criminal_law",
+    "chapter_number": 6,
+    "chapter_title": "Trial — Procedure and Evidence",
+    "topic_id": "trial_procedure_evidence",
+    "topic_heading": "Trial Procedure and Evidence",
+    "subtopic_id": "voir_dire_confession",
+    "subtopic_heading": "Voir Dire — Voluntariness of Confessions",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused, while in police custody, made an inculpatory statement to police. The Crown seeks to introduce the statement at trial. Defence counsel objects, arguing the statement was made involuntarily because the accused was held in a small room for six hours without food or water, and police told him that 'things would go easier' for him if he cooperated.",
+    "call_of_question": "What procedural step must the trial judge take before admitting the accused's statement into evidence?",
+    "options": {
+      "A": "The trial judge must instruct the jury to disregard the statement if the jury finds the accused was not properly cautioned.",
+      "B": "The trial judge must conduct a voir dire to determine whether the statement was voluntarily made, applying the confessions rule.",
+      "C": "The trial judge may admit the statement provisionally and leave the question of voluntariness to the jury.",
+      "D": "The trial judge must exclude the statement as a matter of law whenever police made a promise or threat during an interrogation."
+    },
+    "correct_answer": "B",
+    "explanation": "When the admissibility of an accused's out-of-court statement to a person in authority is challenged, the trial judge must conduct a voir dire — a trial within a trial — to determine whether the statement was voluntarily made. The confessions rule (R. v. Oickle, 2000 SCC 38) requires the Crown to prove voluntariness beyond a reasonable doubt. The judge considers whether the statement was obtained by threats, promises, oppression, operating mind, or police trickery. Only if the judge finds the statement voluntary on the voir dire may it be admitted into evidence. The trier of fact (jury or judge) does not determine voluntariness.",
+    "why_A_wrong": "Voluntariness is a question of admissibility for the trial judge to decide on a voir dire, not an instruction to the jury. The jury does not determine whether the confession was voluntary; that is the judge's function as gatekeeper.",
+    "why_B_wrong": "This IS the correct answer. The trial judge must hold a voir dire to determine whether the statement was voluntarily made before it may be admitted, applying the confessions rule from R. v. Oickle.",
+    "why_C_wrong": "Admitting the statement provisionally and leaving the question to the jury would be an error of law. Voluntariness is a threshold admissibility question for the judge, not a credibility or weight question for the jury.",
+    "why_D_wrong": "Not every promise or threat automatically excludes a statement. The confessions rule requires a contextual analysis (Oickle). A statement may still be voluntary if the accused's will to remain silent was not overborne, and minor inducements do not necessarily render a statement involuntary.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 6: Trial — Procedure and Evidence",
+      "heading": "Voir Dire — Confessions Rule",
+      "page": "N/A",
+      "rule_or_statute_reference": "R. v. Oickle, 2000 SCC 38; R. v. Ibrahim, [1914] AC 599; Criminal Code, R.S.C. 1985, c. C-46"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "voir dire",
+      "voluntariness",
+      "confessions rule",
+      "statement to person in authority",
+      "Oickle"
+    ],
+    "tested_concepts": [
+      "voir dire requirement for accused statements",
+      "confessions rule",
+      "Crown's burden on voluntariness (beyond reasonable doubt)",
+      "Oickle factors — threats, promises, oppression, operating mind"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-06-vdir-002",
+    "subject": "criminal_law",
+    "chapter_number": 6,
+    "chapter_title": "Trial — Procedure and Evidence",
+    "topic_id": "trial_procedure_evidence",
+    "topic_heading": "Trial Procedure and Evidence",
+    "subtopic_id": "voir_dire_confession",
+    "subtopic_heading": "Voir Dire — Voluntariness of Confessions",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "During a voir dire, the Crown proves that police told the accused: 'If you give us a statement, we'll put in a good word with the Crown attorney about your cooperation.' The accused then made a detailed inculpatory statement. The trial judge must decide whether the statement is admissible.",
+    "call_of_question": "Under the Oickle confessions rule, what is the legal effect of this police promise on the admissibility of the accused's statement?",
+    "options": {
+      "A": "The statement is automatically inadmissible because any promise by police renders a statement involuntary as a matter of law.",
+      "B": "The statement is admissible because the police promise related only to cooperation, not to the sentence itself.",
+      "C": "The statement is admissible unless the accused can show the promise actually caused the confession.",
+      "D": "The promise is a relevant factor that may render the statement inadmissible if, viewed objectively, it was sufficient to raise a reasonable doubt about voluntariness — the Crown must disprove the coercive effect beyond a reasonable doubt."
+    },
+    "correct_answer": "D",
+    "explanation": "Under R. v. Oickle, 2000 SCC 38, no single factor automatically renders a statement involuntary. A promise or inducement — such as promising to 'put in a good word' — is a significant factor but not an automatic bar to admissibility. The trial judge must assess all the circumstances: the nature of the promise, the accused's vulnerability, the duration and conditions of detention, and the overall atmosphere of the interrogation. The Crown bears the burden of proving voluntariness beyond a reasonable doubt. If, considering all the circumstances, a reasonable doubt arises as to whether the accused's will to remain silent was overborne by the promise, the statement must be excluded. The test is not automatic exclusion for any promise, but contextual assessment of whether the promise overbore the accused's free will.",
+    "why_A_wrong": "Oickle rejected automatic exclusion for any inducement. A promise is a relevant factor in the contextual analysis, but the court must assess whether it actually overbore the accused's will. Minor or ambiguous inducements may not render a statement involuntary.",
+    "why_B_wrong": "The nature of the promise — whether it relates to sentence, cooperation, or a 'good word' — is part of the contextual analysis, but the framing of the promise as 'only cooperation' does not automatically make the statement voluntary. Even informal promises can overbear a vulnerable accused's will.",
+    "why_C_wrong": "The burden of proof is on the Crown to prove voluntariness beyond a reasonable doubt, not on the accused to prove causation. The accused need not show the promise caused the confession; the Crown must disprove coercive effect beyond a reasonable doubt.",
+    "why_D_wrong": "This IS the correct answer. A police promise is a contextual factor under Oickle. The Crown must prove voluntariness beyond a reasonable doubt, and the judge must assess whether the promise overbore the accused's will in all the circumstances.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 6: Trial — Procedure and Evidence",
+      "heading": "Confessions Rule — Oickle Factors",
+      "page": "N/A",
+      "rule_or_statute_reference": "R. v. Oickle, 2000 SCC 38; R. v. Spencer, 2007 SCC 11"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "police promise",
+      "inducement",
+      "voluntariness",
+      "Oickle",
+      "confessions rule",
+      "overbore will"
+    ],
+    "tested_concepts": [
+      "Oickle contextual analysis",
+      "promise as inducement",
+      "Crown's burden on voluntariness",
+      "no automatic exclusion for inducements"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-06-dir-verd-001",
+    "subject": "criminal_law",
+    "chapter_number": 6,
+    "chapter_title": "Trial — Procedure and Evidence",
+    "topic_id": "trial_procedure_evidence",
+    "topic_heading": "Trial Procedure and Evidence",
+    "subtopic_id": "directed_verdict",
+    "subtopic_heading": "Directed Verdict of Acquittal",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At the close of the Crown's case in a jury trial for robbery, defence counsel brings a motion for a directed verdict of acquittal. Counsel argues that the Crown has led no direct evidence that the accused used or threatened violence, which is an essential element of robbery.",
+    "call_of_question": "What standard does the trial judge apply when deciding a motion for a directed verdict of acquittal?",
+    "options": {
+      "A": "Whether the Crown has proved every element of the offence beyond a reasonable doubt.",
+      "B": "Whether there is any evidence — no matter how weak — on which a properly instructed jury could return a verdict of guilty.",
+      "C": "Whether the Crown's evidence, if believed, makes a conviction more likely than not.",
+      "D": "Whether the Crown has led direct evidence on every essential element of the offence."
+    },
+    "correct_answer": "B",
+    "explanation": "On a motion for a directed verdict of acquittal, the trial judge applies the standard from United States of America v. Shephard and R. v. Monteleone: whether there is any evidence — which, if believed by a properly instructed jury acting reasonably, could support a verdict of guilty on every essential element of the offence. The test is not whether the evidence is strong, credible, or sufficient to convict; it is whether there is any evidence on which a verdict of guilty could rationally be based. If the answer is yes, the motion must be dismissed and the case goes to the jury. Only if there is a complete absence of evidence on an essential element must the judge direct an acquittal.",
+    "why_A_wrong": "Proof beyond a reasonable doubt is the standard for the jury's verdict at the end of trial, not the standard for a directed verdict motion. The directed verdict test is lower — whether there is any evidence capable of supporting a conviction.",
+    "why_B_wrong": "This IS the correct answer. The directed verdict standard is whether there is any evidence on which a properly instructed jury acting reasonably could return a verdict of guilty on every essential element.",
+    "why_C_wrong": "Balance of probabilities (more likely than not) is the civil standard and has no application to directed verdicts in criminal proceedings. The criminal directed verdict test does not require a majority chance of conviction.",
+    "why_D_wrong": "The Crown need not lead direct evidence on every element. Circumstantial evidence is sufficient to withstand a directed verdict motion, provided the circumstantial evidence (if believed) could rationally support an inference of guilt on each essential element.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 6: Trial — Procedure and Evidence",
+      "heading": "Directed Verdict of Acquittal",
+      "page": "N/A",
+      "rule_or_statute_reference": "R. v. Monteleone, [1987] 2 SCR 154; United States of America v. Shephard, [1977] 2 SCR 1067"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "directed verdict",
+      "close of Crown's case",
+      "essential element",
+      "no evidence",
+      "motion for acquittal"
+    ],
+    "tested_concepts": [
+      "directed verdict standard",
+      "any evidence test",
+      "distinction from proof beyond reasonable doubt",
+      "Monteleone test"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-06-vdir-003",
+    "subject": "criminal_law",
+    "chapter_number": 6,
+    "chapter_title": "Trial — Procedure and Evidence",
+    "topic_id": "trial_procedure_evidence",
+    "topic_heading": "Trial Procedure and Evidence",
+    "subtopic_id": "voir_dire_confession",
+    "subtopic_heading": "Voir Dire — Voluntariness of Confessions",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused made a statement to an undercover police officer who was posing as a fellow prisoner in a cellblock. The officer did not identify himself as police. The statement was made freely and without any threats or promises. At trial, the Crown seeks to admit the statement.",
+    "call_of_question": "Is the confessions rule (voluntariness) applicable to the accused's statement made to the undercover officer?",
+    "options": {
+      "A": "Yes — the confessions rule applies to all statements made by an accused while in custody, regardless of who the recipient is.",
+      "B": "No — the confessions rule only applies to statements made to known peace officers; statements to undercover agents are governed by the s. 7 Charter right against self-incrimination under R. v. Hebert.",
+      "C": "Yes — the use of undercover agents in cellblocks is never permissible under the Charter regardless of what was said.",
+      "D": "No — the accused's statement to the undercover officer is always admissible because the accused was not detained at the time."
+    },
+    "correct_answer": "B",
+    "explanation": "The confessions rule (R. v. Oickle) applies to statements made to a 'person in authority' — someone the accused reasonably believes has authority over them or can influence their prosecution, such as a known police officer or Crown attorney. An undercover police officer posing as a fellow prisoner is not subjectively perceived by the accused as a person in authority, so the common-law confessions rule does not apply. However, the statement is subject to scrutiny under s.7 of the Charter and the right to silence developed in R. v. Hebert, [1990] 2 SCR 151. Under Hebert, police may not use active elicitation by undercover operatives to deliberately undermine the accused's right to remain silent. If the undercover officer merely listened without actively questioning or eliciting, the statement may be admissible; if the officer actively elicited the statement, it may be excluded under s.7.",
+    "why_A_wrong": "The confessions rule does not apply to all custodial statements regardless of recipient. It applies only to statements made to a person in authority — someone the accused subjectively perceives as having authority over their prosecution. An undercover officer posing as a cellmate does not meet this threshold.",
+    "why_B_wrong": "This IS the correct answer. The confessions rule does not apply to statements to undercover agents not perceived as persons in authority. The relevant framework is s.7 Charter (right to silence) per R. v. Hebert, and the distinction between passive observation and active elicitation.",
+    "why_C_wrong": "Use of undercover agents in custodial settings is not categorically prohibited. It depends on whether the agent actively elicited statements or merely passively received them. Passive receipt without active questioning does not violate s.7.",
+    "why_D_wrong": "The accused was in custody (in a cellblock) and therefore detained. The detention status is relevant to the s.7 analysis. The claim that the accused was 'not detained' is factually incorrect; custodial undercover operations by definition occur while the accused is detained.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 6: Trial — Procedure and Evidence",
+      "heading": "Confessions Rule — Person in Authority; Undercover Operations",
+      "page": "N/A",
+      "rule_or_statute_reference": "R. v. Oickle, 2000 SCC 38; R. v. Hebert, [1990] 2 SCR 151; R. v. Liew, [1999] 3 SCR 227 (person in authority)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "undercover officer",
+      "person in authority",
+      "confessions rule",
+      "Hebert",
+      "right to silence",
+      "active elicitation"
+    ],
+    "tested_concepts": [
+      "person in authority definition",
+      "confessions rule limitations",
+      "s.7 right to silence",
+      "Hebert active elicitation vs passive receipt",
+      "undercover cellblock operations"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

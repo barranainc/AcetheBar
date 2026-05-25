@@ -1,0 +1,387 @@
+[
+  {
+    "id": "civ-12-cost-001",
+    "subject": "civil_litigation",
+    "chapter_number": 12,
+    "chapter_title": "Costs",
+    "topic_id": "costs",
+    "topic_heading": "Costs in Civil Litigation",
+    "subtopic_id": "partial_indemnity_costs",
+    "subtopic_heading": "Partial Indemnity Costs — Factors Under r.57.01",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At the conclusion of a commercial trial, the judge must fix the costs award payable by the defendant to the successful plaintiff. Counsel for both parties have filed their respective costs outlines. The defendant argues that the plaintiff's claimed costs are excessive and asks the court to reduce them significantly.",
+    "call_of_question": "Under r.57.01 of the Rules of Civil Procedure, which of the following factors may the court consider when fixing costs?",
+    "options": {
+      "A": "The court may only consider the hourly rate charged by counsel; all other factors are irrelevant to the quantum of costs.",
+      "B": "The court may consider the amount claimed and the amount recovered in the proceeding, the complexity of the issues, the importance of the matter to the parties, the conduct of any party that tended to shorten or lengthen the proceedings, and whether any step in the proceeding was improper or unnecessary.",
+      "C": "The court may only consider the Tariff A amounts prescribed for each step in the proceeding; it has no discretion to depart from those amounts.",
+      "D": "The court may consider only whether the successful party was represented by senior or junior counsel."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.57.01(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the court shall consider a non-exhaustive list of factors when exercising its discretion to award costs. These include: the amount claimed and the amount recovered, the complexity of the issues, the importance of the matter to the parties, the conduct of any party that tended to shorten or lengthen the proceedings, whether any step was improper or unnecessary, the experience of counsel, the time spent by counsel, and the result achieved. The court has broad discretion and is not limited to considering only counsel rates or Tariff A amounts.",
+    "why_A_wrong": "The hourly rate charged by counsel is only one of many factors under r.57.01(1). The court considers the full range of factors set out in the rule and exercises broad discretion.",
+    "why_B_wrong": "This IS the correct answer. Rule 57.01(1) lists multiple factors the court shall consider, including amount recovered, complexity, importance, conduct of parties, and whether steps were improper.",
+    "why_C_wrong": "The court is not strictly limited to Tariff A amounts. While Tariff A provides a starting point for partial indemnity costs, the court has discretion to depart from those amounts based on the r.57.01 factors.",
+    "why_D_wrong": "Seniority of counsel is one factor in costs, but r.57.01(1) provides a much broader list. The court considers all relevant factors, not only the seniority of counsel.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 12 — Costs",
+      "heading": "Partial Indemnity Costs — Factors Under r.57.01",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "costs",
+      "r.57.01",
+      "fixing costs",
+      "partial indemnity",
+      "factors"
+    ],
+    "tested_concepts": [
+      "r.57.01(1) — factors for fixing costs",
+      "court's broad discretion on costs",
+      "amount recovered, complexity, conduct, importance"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-12-cost-002",
+    "subject": "civil_litigation",
+    "chapter_number": 12,
+    "chapter_title": "Costs",
+    "topic_id": "costs",
+    "topic_heading": "Costs in Civil Litigation",
+    "subtopic_id": "bill_of_costs",
+    "subtopic_heading": "Bill of Costs and Assessment — r.58.02",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A successful plaintiff has obtained a costs order at trial. Rather than having the court fix costs immediately, the judge directs the plaintiff to proceed to assessment of costs. The plaintiff's counsel is preparing the documentation required for the assessment process.",
+    "call_of_question": "Under r.58.02 of the Rules of Civil Procedure, what document must a party prepare to initiate an assessment of costs?",
+    "options": {
+      "A": "A costs outline setting out an estimate of anticipated fees and disbursements.",
+      "B": "A bill of costs, which is a detailed statement of all services performed and disbursements incurred by the party entitled to costs.",
+      "C": "An affidavit from the client confirming the legal fees actually paid.",
+      "D": "A request for assessment, accompanied by a copy of the order granting costs, filed directly with the Court of Appeal."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.58.02 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a party who is entitled to costs of a proceeding shall prepare a bill of costs, which is assessed by an assessment officer. The bill of costs is a detailed itemized statement setting out all services performed by counsel and all disbursements incurred in the proceeding, to be assessed against the applicable tariff or as ordered by the court. The assessment officer reviews the bill of costs and issues a certificate of assessment.",
+    "why_A_wrong": "A costs outline is prepared for the purpose of a judge fixing costs summarily at the conclusion of a hearing. A bill of costs is the document required for formal assessment under r.58.02.",
+    "why_B_wrong": "This IS the correct answer. Rule 58.02 requires a bill of costs — a detailed itemized statement of services and disbursements — for the formal assessment process.",
+    "why_C_wrong": "An affidavit from the client confirming amounts paid is not the required document for assessment under r.58.02. The bill of costs is the required document, prepared by counsel.",
+    "why_D_wrong": "Assessment of costs is conducted by an assessment officer at the trial court level, not the Court of Appeal. The document filed is a bill of costs under r.58.02, not a request for assessment to the Court of Appeal.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 12 — Costs",
+      "heading": "Bill of Costs and Assessment — r.58.02",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.58.02"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "bill of costs",
+      "r.58.02",
+      "assessment",
+      "assessment officer",
+      "detailed statement"
+    ],
+    "tested_concepts": [
+      "bill of costs required for assessment — r.58.02",
+      "assessment officer reviews bill of costs",
+      "costs outline vs bill of costs distinction"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-12-si-001",
+    "subject": "civil_litigation",
+    "chapter_number": 12,
+    "chapter_title": "Costs",
+    "topic_id": "costs",
+    "topic_heading": "Costs in Civil Litigation",
+    "subtopic_id": "substantial_indemnity_costs",
+    "subtopic_heading": "Substantial Indemnity Costs — When Awarded",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A plaintiff in a fraud action was deliberately misled by the defendant, who maintained a false defence throughout the proceedings — even after internal documents proved the fraud. At trial, the judge finds in favour of the plaintiff and determines that the defendant's litigation conduct was reprehensible and deserving of sanction.",
+    "call_of_question": "In what circumstances will a court award substantial indemnity costs rather than partial indemnity costs, and approximately what scale does substantial indemnity represent?",
+    "options": {
+      "A": "Substantial indemnity costs are awarded whenever the plaintiff succeeds on any ground; they represent 100% of actual legal fees.",
+      "B": "Substantial indemnity costs are awarded in circumstances such as reprehensible, scandalous, or outrageous conduct by a party; they represent approximately 1.5 times the partial indemnity rate.",
+      "C": "Substantial indemnity costs are awarded only when the court makes a contempt of court finding; they represent the same quantum as solicitor-client costs.",
+      "D": "Substantial indemnity costs are awarded whenever a party beats a settlement offer under r.49.10; in all other cases only partial indemnity is available."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.57.01(1) of the Rules of Civil Procedure and the associated practice directives, substantial indemnity costs are awarded in circumstances where a party's conduct in the litigation has been reprehensible, scandalous, or outrageous — conduct that deserves judicial sanction beyond the ordinary partial indemnity scale. Substantial indemnity costs represent approximately 1.5 times the partial indemnity rate. They may also be awarded pursuant to the cost consequences of r.49.10(2) when a plaintiff beats their own offer to settle. The deliberate maintenance of a fraudulent defence in the face of contrary evidence is a paradigm case for substantial indemnity costs.",
+    "why_A_wrong": "Substantial indemnity costs are not automatically awarded whenever a plaintiff succeeds. They are reserved for cases of reprehensible conduct or specific triggering circumstances (like r.49.10(2)). They do not represent 100% of actual fees — that is solicitor-client costs.",
+    "why_B_wrong": "This IS the correct answer. Substantial indemnity costs are awarded for reprehensible or outrageous conduct and represent approximately 1.5 times partial indemnity costs.",
+    "why_C_wrong": "Substantial indemnity costs are not limited to contempt findings. Reprehensible litigation conduct — including maintaining a fraudulent defence — is a recognised ground. Substantial indemnity is less than solicitor-client (full indemnity) costs.",
+    "why_D_wrong": "While r.49.10(2) is one trigger for substantial indemnity costs, it is not the only one. Reprehensible conduct independently justifies substantial indemnity costs under r.57.01.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 12 — Costs",
+      "heading": "Substantial Indemnity Costs — When Awarded",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "substantial indemnity",
+      "reprehensible conduct",
+      "1.5 times",
+      "r.57.01",
+      "costs scale"
+    ],
+    "tested_concepts": [
+      "substantial indemnity costs — reprehensible conduct",
+      "approximately 1.5 times partial indemnity",
+      "substantial indemnity vs solicitor-client costs"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-12-soli-001",
+    "subject": "civil_litigation",
+    "chapter_number": 12,
+    "chapter_title": "Costs",
+    "topic_id": "costs",
+    "topic_heading": "Costs in Civil Litigation",
+    "subtopic_id": "solicitor_client_costs",
+    "subtopic_heading": "Solicitor-Client Costs — Full Indemnity and Improper Conduct",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Counsel for the plaintiff makes a series of highly inflammatory and irrelevant accusations against opposing counsel in written submissions to the court. The accusations are unfounded and appear to be designed to harass the defendant's counsel. The defendant brings a motion for solicitor-client costs against the plaintiff's counsel personally.",
+    "call_of_question": "Under r.57.07 of the Rules of Civil Procedure, in what circumstances may the court order that costs be paid personally by a lawyer, and what is the costs scale that may be awarded?",
+    "options": {
+      "A": "A lawyer may be ordered to pay costs personally only where the lawyer has been found in contempt of court by a judge.",
+      "B": "Under r.57.07, a court may order a lawyer to personally pay costs — including on a solicitor-client basis — where the lawyer has caused costs to be incurred without reasonable cause or to be wasted by failing to provide legal services with reasonable care, skill, and efficiency, or by engaging in improper or abusive conduct.",
+      "C": "A lawyer may be ordered to pay costs personally, but only partial indemnity costs; solicitor-client costs cannot be ordered against a lawyer.",
+      "D": "A lawyer may only be required to pay costs personally through a Law Society complaint process, not through a court order."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.57.07 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the court has power to order that a lawyer personally pay costs where the lawyer has caused costs to be incurred without reasonable cause or to be wasted by unreasonable conduct, or by failing to provide legal services with reasonable competence. This includes situations where a lawyer engages in inflammatory, irrelevant, or abusive litigation conduct. The costs may be ordered on a solicitor-client basis, representing full indemnity for the costs caused by the lawyer's conduct. This is the most punitive costs sanction available and is reserved for the most egregious conduct.",
+    "why_A_wrong": "A formal contempt finding is not required before a court orders personal costs against a lawyer under r.57.07. The rule applies to improper, wasteful, or incompetent conduct — not only contempt.",
+    "why_B_wrong": "This IS the correct answer. Rule 57.07 empowers the court to order personal costs against a lawyer, including on a solicitor-client basis, for unreasonable or improper conduct that causes unnecessary costs.",
+    "why_C_wrong": "Rule 57.07 expressly contemplates solicitor-client costs being ordered against a lawyer personally. There is no restriction to partial indemnity only.",
+    "why_D_wrong": "A court can and does order costs against lawyers personally under r.57.07. This is a court-ordered remedy distinct from and parallel to any Law Society disciplinary process.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 12 — Costs",
+      "heading": "Solicitor-Client Costs — Full Indemnity and Improper Conduct",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.07"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "lawyer personal costs order for improper litigation conduct"
+    },
+    "exam_trigger_words": [
+      "r.57.07",
+      "personal costs",
+      "solicitor-client costs",
+      "improper conduct",
+      "lawyer personally"
+    ],
+    "tested_concepts": [
+      "r.57.07 — personal costs order against lawyer",
+      "solicitor-client costs for improper conduct",
+      "most punitive costs sanction"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-12-sec-001",
+    "subject": "civil_litigation",
+    "chapter_number": 12,
+    "chapter_title": "Costs",
+    "topic_id": "costs",
+    "topic_heading": "Costs in Civil Litigation",
+    "subtopic_id": "security_for_costs",
+    "subtopic_heading": "Security for Costs — r.56.01",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A defendant in a commercial action brings a motion for security for costs against the corporate plaintiff. The defendant argues that the plaintiff corporation has no assets in Ontario and no realistic prospect of satisfying a costs award if the action is dismissed.",
+    "call_of_question": "Under r.56.01 of the Rules of Civil Procedure, in what circumstances may a court order a plaintiff to post security for costs?",
+    "options": {
+      "A": "Security for costs may be ordered against any plaintiff who is not ordinarily resident in Ontario or who is a corporation without sufficient assets in Ontario to satisfy a costs award.",
+      "B": "Security for costs can only be ordered against foreign corporations; Ontario corporations are exempt.",
+      "C": "Security for costs may only be ordered where the plaintiff has previously been found to be a vexatious litigant by court order.",
+      "D": "Security for costs is ordered automatically whenever a corporate plaintiff fails to post a $50,000 bond with the court at the time the action is commenced."
+    },
+    "correct_answer": "A",
+    "explanation": "Under r.56.01(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a court may order any party to an action to give security for costs, and specifically enumerates grounds including: (a) the plaintiff is ordinarily not resident in Ontario; (b) the plaintiff has another proceeding pending for the same or related claim; (c) the plaintiff is a corporation without sufficient assets in Ontario to satisfy a costs award; (d) the plaintiff appears to be acting as a nominal plaintiff for another person; or (e) there is good reason to believe the action is frivolous and vexatious. The grounds are not limited to foreign corporations; an Ontario corporation with no Ontario assets also qualifies.",
+    "why_A_wrong": "This IS the correct answer. Rule 56.01(1) permits security for costs where the plaintiff is not ordinarily resident in Ontario or is a corporation without sufficient assets in Ontario to satisfy a costs award, among other grounds.",
+    "why_B_wrong": "Ontario corporations may also be ordered to post security for costs if they lack sufficient assets in Ontario to satisfy a potential costs award. The rule is not limited to foreign corporations.",
+    "why_C_wrong": "A prior vexatious litigant finding is one factor, but r.56.01(1) does not require it. Multiple grounds exist for ordering security for costs, including being a non-resident or a corporation without Ontario assets.",
+    "why_D_wrong": "There is no automatic $50,000 bond requirement. Security for costs is a discretionary order under r.56.01 made on a motion by the defendant; it is not automatically required from corporate plaintiffs at the start of an action.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 12 — Costs",
+      "heading": "Security for Costs — r.56.01",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.56.01(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "security for costs",
+      "r.56.01",
+      "non-resident",
+      "no assets",
+      "corporate plaintiff"
+    ],
+    "tested_concepts": [
+      "security for costs — r.56.01(1) grounds",
+      "non-resident plaintiff or corporation without Ontario assets",
+      "discretionary order on motion"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-12-assess-001",
+    "subject": "civil_litigation",
+    "chapter_number": 12,
+    "chapter_title": "Costs",
+    "topic_id": "costs",
+    "topic_heading": "Costs in Civil Litigation",
+    "subtopic_id": "assessment_of_costs",
+    "subtopic_heading": "Assessment of Costs — Assessment Officer and Certificate",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Following a successful trial, the plaintiff has been awarded costs to be assessed. The plaintiff's lawyer files a bill of costs with the court. An assessment officer reviews the bill. The defendant disputes several items in the bill, arguing they were unreasonable or unnecessary.",
+    "call_of_question": "Under Part 58 of the Rules of Civil Procedure, what document does an assessment officer issue at the conclusion of a successful assessment, and what is its significance?",
+    "options": {
+      "A": "The assessment officer issues a final costs order that is equivalent to a trial judgment and is immediately enforceable against the defendant.",
+      "B": "The assessment officer issues a certificate of assessment, which sets out the amount allowed on assessment; the certificate may be filed with the court and has the effect of a court order.",
+      "C": "The assessment officer issues a report to the trial judge recommending the quantum of costs; the trial judge must then issue a separate order confirming the amount.",
+      "D": "The assessment officer's decision is not binding; it is merely an advisory opinion that either party may choose to follow or disregard."
+    },
+    "correct_answer": "B",
+    "explanation": "Under Part 58 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), when an assessment officer completes a review of a bill of costs, the officer issues a certificate of assessment setting out the amount allowed. Under r.58.10, the certificate of assessment may be filed with the registrar and, upon filing, has the same force and effect as an order of the court for the payment of money. This makes it enforceable by any of the normal enforcement mechanisms available for money judgments, including writs of execution and garnishment.",
+    "why_A_wrong": "The assessment officer does not issue a final costs order directly equivalent to a trial judgment. The officer issues a certificate of assessment, which acquires the effect of a court order upon filing with the registrar under r.58.10.",
+    "why_B_wrong": "This IS the correct answer. The assessment officer issues a certificate of assessment, which when filed has the effect of a court order and is enforceable accordingly.",
+    "why_C_wrong": "The assessment officer does not merely make a recommendation to the trial judge. The certificate of assessment is issued by the assessment officer and has its own legal effect upon filing, without requiring a separate judicial confirmation.",
+    "why_D_wrong": "The certificate of assessment is not advisory. Upon filing, it has the force and effect of a court order and is binding and enforceable.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 12 — Costs",
+      "heading": "Assessment of Costs — Assessment Officer and Certificate",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.58; r.58.10"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "certificate of assessment",
+      "assessment officer",
+      "r.58",
+      "effect of court order",
+      "bill of costs"
+    ],
+    "tested_concepts": [
+      "certificate of assessment — r.58.10",
+      "assessment officer's role",
+      "certificate has effect of court order upon filing"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-12-appeal-001",
+    "subject": "civil_litigation",
+    "chapter_number": 12,
+    "chapter_title": "Costs",
+    "topic_id": "costs",
+    "topic_heading": "Costs in Civil Litigation",
+    "subtopic_id": "appeal_of_costs",
+    "subtopic_heading": "Appeal of Costs Order — Leave Required",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A defendant successfully defends a breach of contract action. The trial judge awards costs to the defendant on a partial indemnity basis but fixes the amount at $45,000 rather than the $90,000 sought by the defendant. The defendant's counsel believes the judge made an error in fixing the amount and wishes to appeal the costs order alone — not the dismissal of the action.",
+    "call_of_question": "What procedural requirement must the defendant satisfy to appeal the costs order alone?",
+    "options": {
+      "A": "The defendant may appeal the costs order as of right to the Court of Appeal without seeking leave, as any final order may be appealed.",
+      "B": "Leave to appeal is required to appeal a costs order alone; an appeal that challenges only costs — not the merits of the decision — requires leave of the court because costs orders are discretionary.",
+      "C": "The defendant may not appeal a costs order alone; the defendant must appeal both the costs order and another aspect of the trial decision simultaneously.",
+      "D": "The defendant must first bring a motion at the trial court level to vary the costs order before any appellate court will consider an appeal."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s.133(b) of the Courts of Justice Act, R.S.O. 1990, c. C.43, no appeal lies from an order as to costs only, except by leave of the court to which the appeal is taken. Costs orders are discretionary in nature, and appellate courts grant leave to appeal costs only sparingly. Leave will generally be granted only where there is a strong case that the trial judge erred in principle in exercising the costs discretion, not merely because the appellant disagrees with the quantum fixed. The defendant must therefore seek and obtain leave before the appeal of the costs order alone can proceed.",
+    "why_A_wrong": "An appeal of a costs order alone is not as of right. Section 133(b) of the Courts of Justice Act requires leave of the appellate court before an appeal as to costs only can proceed.",
+    "why_B_wrong": "This IS the correct answer. Section 133(b) of the Courts of Justice Act requires leave to appeal a costs order alone; costs are discretionary and appellate courts grant leave sparingly.",
+    "why_C_wrong": "A party may appeal a costs order alone, but only with leave under s.133(b) of the Courts of Justice Act. There is no requirement that the costs appeal be joined with an appeal of the merits.",
+    "why_D_wrong": "There is no requirement to first bring a variation motion at the trial level before appealing a costs order. However, leave of the appellate court is required under s.133(b) of the Courts of Justice Act.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 12 — Costs",
+      "heading": "Appeal of Costs Order — Leave Required",
+      "page": "N/A",
+      "rule_or_statute_reference": "Courts of Justice Act, R.S.O. 1990, c. C.43, s.133(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "appeal costs",
+      "leave to appeal",
+      "s.133(b)",
+      "costs only",
+      "Courts of Justice Act"
+    ],
+    "tested_concepts": [
+      "appeal of costs order alone requires leave — s.133(b) CJA",
+      "costs orders are discretionary",
+      "leave granted sparingly for costs appeals"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

@@ -1,0 +1,400 @@
+[
+  {
+    "id": "crim-07-hearsay-001",
+    "subject": "criminal_law",
+    "chapter_number": 7,
+    "chapter_title": "Evidence",
+    "topic_id": "criminal_evidence",
+    "topic_heading": "Evidence in Criminal Proceedings",
+    "subtopic_id": "hearsay_principled_approach",
+    "subtopic_heading": "Hearsay — The Principled Approach",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At trial for assault, the Crown seeks to call a witness to testify that the victim told her, one hour after the alleged assault, 'He hit me in the face.' The victim is deceased and unavailable to testify. Defence objects that the statement is hearsay.",
+    "call_of_question": "Under the principled approach to hearsay (R. v. Khan), on what basis may the trial judge admit this out-of-court statement?",
+    "options": {
+      "A": "The statement is automatically admissible because the victim is unavailable to testify.",
+      "B": "The statement may be admitted under the principled approach if the Crown demonstrates that it meets the twin criteria of necessity and threshold reliability.",
+      "C": "The statement is admissible only if it falls within a recognized traditional hearsay exception such as dying declarations.",
+      "D": "The statement must be excluded because the accused has the right under s. 7 of the Charter to confront all witnesses who give evidence against them."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the principled approach to hearsay developed in R. v. Khan, [1990] 2 SCR 531 and refined in R. v. Starr, 2000 SCC 40, out-of-court statements that do not fall within a traditional exception may nonetheless be admitted if the party seeking admission establishes: (1) necessity — the declarant is unavailable or it would be reasonably impractical to call them, and (2) threshold reliability — sufficient guarantees of reliability to justify admission without cross-examination (either circumstantial reliability or procedural reliability). The unavailability of the victim satisfies necessity. The court must then assess threshold reliability based on the circumstances of the statement.",
+    "why_A_wrong": "Unavailability satisfies necessity, but necessity alone does not make hearsay admissible. The principled approach also requires threshold reliability. Automatic admission on the basis of unavailability would admit unreliable hearsay.",
+    "why_B_wrong": "This IS the correct answer. Under the Khan/Starr principled approach, hearsay may be admitted if the Crown demonstrates necessity and threshold reliability.",
+    "why_C_wrong": "The principled approach is not limited to traditional exceptions. Under Khan, courts may admit hearsay outside traditional exceptions if necessity and threshold reliability are established. The rigid categorical approach was replaced by the principled framework.",
+    "why_D_wrong": "Section 7 of the Charter does not create an absolute right to confront every declarant. The principled hearsay approach and the accused's right to cross-examination are balanced: if threshold reliability is high and necessity is established, admission does not automatically violate s.7.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 7: Evidence",
+      "heading": "Hearsay — Principled Approach",
+      "page": "N/A",
+      "rule_or_statute_reference": "R. v. Khan, [1990] 2 SCR 531; R. v. Starr, 2000 SCC 40; R. v. Khelawon, 2006 SCC 57"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "hearsay",
+      "out-of-court statement",
+      "necessity",
+      "threshold reliability",
+      "principled approach",
+      "Khan"
+    ],
+    "tested_concepts": [
+      "Khan principled approach",
+      "necessity criterion",
+      "threshold reliability criterion",
+      "traditional exceptions vs principled approach"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-07-hearsay-002",
+    "subject": "criminal_law",
+    "chapter_number": 7,
+    "chapter_title": "Evidence",
+    "topic_id": "criminal_evidence",
+    "topic_heading": "Evidence in Criminal Proceedings",
+    "subtopic_id": "hearsay_principled_approach",
+    "subtopic_heading": "Hearsay — The Principled Approach",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The Crown seeks to admit a statement that the complainant made to a police officer two days after the alleged sexual assault. The statement was recorded on video. The complainant is alive and available to testify but refuses to cooperate. The trial judge must assess threshold reliability.",
+    "call_of_question": "Under R. v. Khelawon, 2006 SCC 57, which of the following BEST describes how the trial judge should assess threshold reliability?",
+    "options": {
+      "A": "By assessing whether the statement, if true, would be sufficient to prove the offence beyond a reasonable doubt.",
+      "B": "By weighing the ultimate reliability of the statement on the balance of probabilities.",
+      "C": "By examining the circumstances surrounding the making of the statement to determine whether there are adequate substitutes for the oath, presence, and cross-examination that the trier of fact would normally have.",
+      "D": "By considering only whether the statement was made under oath or solemn affirmation."
+    },
+    "correct_answer": "C",
+    "explanation": "In R. v. Khelawon, 2006 SCC 57, the Supreme Court clarified that threshold reliability is assessed by examining the circumstances surrounding the making of the statement — what the court calls 'circumstantial guarantees of reliability.' The question is whether those circumstances provide adequate substitutes for the three traditional safeguards of in-court testimony: the oath, the presence of the trier of fact (who observes demeanour), and cross-examination. Alternatively, the statement may be admitted based on procedural reliability if the accused has the opportunity to test the evidence. The judge does not assess ultimate reliability (that is for the trier of fact) or require proof beyond a reasonable doubt.",
+    "why_A_wrong": "Threshold reliability is not assessed by asking whether the statement proves the offence beyond a reasonable doubt. That conflates the admissibility threshold with the ultimate question for the trier of fact. The judge assesses the circumstances, not the ultimate sufficiency of the evidence.",
+    "why_B_wrong": "The trial judge does not weigh ultimate reliability on a balance of probabilities at the threshold stage. Ultimate reliability is for the trier of fact. Threshold reliability concerns the circumstances providing adequate safeguards for the statement's truth.",
+    "why_C_wrong": "This IS the correct answer. Threshold reliability under Khelawon requires examining the circumstances surrounding the making of the statement for adequate substitutes for the three traditional in-court safeguards.",
+    "why_D_wrong": "Being under oath is one circumstantial factor but not the exclusive test for threshold reliability. Many reliable out-of-court statements are not made under oath. The analysis is holistic and considers all surrounding circumstances.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 7: Evidence",
+      "heading": "Hearsay — Threshold Reliability (Khelawon)",
+      "page": "N/A",
+      "rule_or_statute_reference": "R. v. Khelawon, 2006 SCC 57; R. v. Starr, 2000 SCC 40"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "threshold reliability",
+      "Khelawon",
+      "circumstantial reliability",
+      "procedural reliability",
+      "hearsay admissibility"
+    ],
+    "tested_concepts": [
+      "Khelawon threshold reliability framework",
+      "circumstantial vs procedural reliability",
+      "substitutes for oath, presence, cross-examination",
+      "threshold vs ultimate reliability"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-07-s276-001",
+    "subject": "criminal_law",
+    "chapter_number": 7,
+    "chapter_title": "Evidence",
+    "topic_id": "criminal_evidence",
+    "topic_heading": "Evidence in Criminal Proceedings",
+    "subtopic_id": "prior_sexual_activity",
+    "subtopic_heading": "Prior Sexual Activity Evidence — s. 276 Criminal Code",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is charged with sexual assault. He wishes to introduce evidence at trial that the complainant had consensual sexual intercourse with him on a prior occasion. He argues this prior sexual activity is relevant to whether the complainant consented on the occasion charged.",
+    "call_of_question": "Under s. 276 of the Criminal Code, which of the following is the correct procedure for admitting this evidence?",
+    "options": {
+      "A": "The evidence is automatically admissible because prior consent is directly relevant to the issue of consent on the occasion charged.",
+      "B": "The evidence is automatically inadmissible under s. 276; prior sexual activity can never be adduced in a sexual assault trial.",
+      "C": "The accused must bring a s. 276 application before the trial judge; the judge holds a voir dire and may admit the evidence only if it meets the specific criteria in s. 276(2).",
+      "D": "The accused may adduce the prior sexual activity evidence as long as he gives notice to the Crown at least 7 days before trial."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 276 of the Criminal Code creates a two-step process for prior sexual activity evidence. Section 276(1) prohibits admission of such evidence to support twin myths: (a) that the complainant is more likely to have consented, or (b) that she is less credible. Section 276(2) provides that prior sexual activity evidence is admissible only if: (a) it relates to a specific instance of sexual activity; (b) it is relevant to an issue at trial; (c) it has significant probative value that is not substantially outweighed by the danger of prejudice; and (d) it does not engage the twin myths. The procedure under s. 276.1 requires the accused to bring a written application, serve it on the Crown and complainant's counsel, and the judge holds a voir dire before ruling on admissibility.",
+    "why_A_wrong": "Prior sexual activity is not automatically admissible. Section 276(1) specifically prohibits using it to support the twin myths. Admission requires a s. 276 application and satisfaction of the s. 276(2) criteria.",
+    "why_B_wrong": "Section 276 does not categorically exclude all prior sexual activity evidence. Section 276(2) permits admission in specific circumstances, subject to the prescribed criteria and procedure. The prohibition is against the twin myths, not all prior sexual activity.",
+    "why_C_wrong": "This IS the correct answer. Section 276.1 requires a written application and voir dire before the trial judge, who may admit the evidence only upon satisfaction of s. 276(2) criteria.",
+    "why_D_wrong": "A 7-day notice to the Crown alone is insufficient. Section 276.1 requires a formal written application served on both the Crown and the complainant's counsel, followed by a voir dire in which the judge applies the s. 276(2) criteria before ruling on admissibility.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 7: Evidence",
+      "heading": "Prior Sexual Activity Evidence — s. 276",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 276, s. 276.1, s. 276.2; R. v. Seaboyer, [1991] 2 SCR 577"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 276",
+      "prior sexual activity",
+      "twin myths",
+      "voir dire",
+      "sexual assault",
+      "consent"
+    ],
+    "tested_concepts": [
+      "s. 276 twin myths prohibition",
+      "s. 276(2) admissibility criteria",
+      "s. 276.1 application procedure",
+      "judicial voir dire for prior sexual activity"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-07-s276-002",
+    "subject": "criminal_law",
+    "chapter_number": 7,
+    "chapter_title": "Evidence",
+    "topic_id": "criminal_evidence",
+    "topic_heading": "Evidence in Criminal Proceedings",
+    "subtopic_id": "prior_sexual_activity",
+    "subtopic_heading": "Prior Sexual Activity Evidence — s. 276 Criminal Code",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "In a sexual assault trial, the accused brings a s. 276 application to admit evidence that physical injuries to the complainant's body were caused by her other consensual sexual activity with a third party occurring hours before the alleged assault. The accused argues the evidence directly rebuts the Crown's use of the injuries as proof of non-consensual force.",
+    "call_of_question": "Which s. 276(2) criterion is MOST important to the admissibility of this specific prior sexual activity evidence?",
+    "options": {
+      "A": "That the prior sexual activity involved the same accused.",
+      "B": "That the evidence has significant probative value that is not substantially outweighed by the danger of prejudice to the proper administration of justice.",
+      "C": "That the complainant consented to disclosure of the prior sexual activity.",
+      "D": "That the evidence is corroborated by independent witnesses."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 276(2)(c) requires that the evidence have 'significant probative value that is not substantially outweighed by the danger of prejudice to the proper administration of justice.' On these facts, where the prior sexual activity may directly explain physical evidence used by the Crown as proof of non-consensual force, the probative value of explaining the injuries is highly significant. This is an alternative explanation for physical evidence — not a twin myths argument — and may satisfy s. 276(2)(b) (relevance to an issue at trial) and s. 276(2)(c) (probative value). The balancing of significant probative value against danger of prejudice is the critical criterion in this context, as the defence is not seeking to attack credibility but to rebut specific physical evidence.",
+    "why_A_wrong": "Section 276(2) does not require that the prior sexual activity involved the same accused. The accused may seek to introduce evidence of prior sexual activity with a third party, provided the s. 276(2) criteria are met.",
+    "why_B_wrong": "This IS the correct answer. Section 276(2)(c)'s balancing of significant probative value against danger of prejudice is the most important criterion when the prior sexual activity provides an alternative explanation for physical evidence used by the Crown.",
+    "why_C_wrong": "Section 276(2) does not require the complainant's consent to disclosure. The provision protects the complainant's privacy and dignity interests through the twin myths prohibition and probative/prejudice balancing, but it does not require consent as an admissibility criterion.",
+    "why_D_wrong": "Section 276(2) does not require independent corroboration of the prior sexual activity as a condition of admissibility. The accused's application may rely on the complainant's own accounts or other evidence, without independent corroboration being a prerequisite.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 7: Evidence",
+      "heading": "Prior Sexual Activity — s. 276(2) Criteria",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 276(2)(b), s. 276(2)(c); R. v. Darrach, 2000 SCC 46"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 276(2)",
+      "probative value",
+      "prejudice",
+      "physical evidence rebuttal",
+      "twin myths",
+      "alternative explanation"
+    ],
+    "tested_concepts": [
+      "s. 276(2)(c) probative value vs prejudice balancing",
+      "non-myth use of prior sexual activity",
+      "physical injury alternative explanation",
+      "Darrach application"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-07-pis-001",
+    "subject": "criminal_law",
+    "chapter_number": 7,
+    "chapter_title": "Evidence",
+    "topic_id": "criminal_evidence",
+    "topic_heading": "Evidence in Criminal Proceedings",
+    "subtopic_id": "prior_inconsistent_statements",
+    "subtopic_heading": "Prior Inconsistent Statements",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The Crown calls a key witness who, at trial, gives testimony that contradicts a statement he gave police six months earlier. The Crown wishes to use the earlier police statement to challenge the witness's credibility and potentially to prove the truth of its contents.",
+    "call_of_question": "Under R. v. K.G.B., [1993] 1 SCR 740, under what circumstances may the prior inconsistent statement be used as substantive evidence (i.e., for the truth of its contents)?",
+    "options": {
+      "A": "Never — prior inconsistent statements can only be used to impeach credibility, never for the truth of their contents.",
+      "B": "Only if the witness adopts the prior statement as true at trial.",
+      "C": "If the prior statement was made under oath or solemn affirmation and was video-recorded or otherwise memorialized, and the witness has the opportunity to explain the inconsistency.",
+      "D": "If the trial judge finds, on a balance of probabilities, that the prior statement is more reliable than the in-court testimony."
+    },
+    "correct_answer": "C",
+    "explanation": "In R. v. K.G.B., [1993] 1 SCR 740, the Supreme Court of Canada held that a prior inconsistent statement may be admitted as substantive evidence — for the truth of its contents — under the principled approach to hearsay if two conditions are met: (1) the statement was made under oath or solemn affirmation (or the equivalent), and (2) the statement was video-recorded or there is a reliable record of it; AND the witness has a meaningful opportunity to explain or deny the inconsistency in cross-examination. These requirements are functionally equivalent to the oath, observation by the trier of fact, and the ability to cross-examine — the traditional guarantees of reliability that are absent from simple out-of-court statements. Where these criteria are met, the statement may go to the truth of its contents, not just to impeach credibility.",
+    "why_A_wrong": "After K.G.B., this categorical rule was rejected. Prior inconsistent statements meeting the K.G.B. criteria may be admitted for their truth, not merely to impeach. The old rule that restricted prior inconsistent statements to impeachment was overruled.",
+    "why_B_wrong": "If the witness adopts the prior statement as their current testimony at trial, the statement becomes part of the witness's in-court evidence. But K.G.B. provides a broader route: admission of prior statements for their truth without adoption, provided the oath/record criteria are met.",
+    "why_C_wrong": "This IS the correct answer. Under K.G.B., prior inconsistent statements may be admitted as substantive evidence if they were made under oath/solemn affirmation and were video-recorded (or equivalently memorialized), and the witness has the opportunity to explain the inconsistency.",
+    "why_D_wrong": "The trial judge does not weigh ultimate reliability on a balance of probabilities to admit the prior statement. The K.G.B. criteria are procedural (oath + record); if met, the statement goes to the trier of fact, who weighs its reliability. The judge does not pre-determine which version is more reliable.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 7: Evidence",
+      "heading": "Prior Inconsistent Statements — K.G.B.",
+      "page": "N/A",
+      "rule_or_statute_reference": "R. v. K.G.B., [1993] 1 SCR 740; Canada Evidence Act, R.S.C. 1985, c. C-5, s. 9-11"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "prior inconsistent statement",
+      "K.G.B.",
+      "substantive evidence",
+      "oath",
+      "video-recorded",
+      "truth of contents"
+    ],
+    "tested_concepts": [
+      "K.G.B. requirements for substantive use of prior inconsistent statements",
+      "oath and video-record criteria",
+      "distinction between impeachment and substantive use",
+      "principled approach to prior statements"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-07-pis-002",
+    "subject": "criminal_law",
+    "chapter_number": 7,
+    "chapter_title": "Evidence",
+    "topic_id": "criminal_evidence",
+    "topic_heading": "Evidence in Criminal Proceedings",
+    "subtopic_id": "prior_inconsistent_statements",
+    "subtopic_heading": "Prior Inconsistent Statements",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At trial for robbery, the Crown calls the complainant. The complainant now testifies that he is 'not sure' who robbed him, contradicting a detailed statement he gave police four days after the robbery, which was neither made under oath nor video-recorded. The Crown applies under s. 9(2) of the Canada Evidence Act to cross-examine its own witness on the prior inconsistent statement.",
+    "call_of_question": "If the trial judge permits cross-examination under s. 9(2), to what use may the prior inconsistent statement be put?",
+    "options": {
+      "A": "It may be used as substantive evidence of the truth of its contents, because s. 9(2) operates as a K.G.B. exception.",
+      "B": "It may be used only to impeach the credibility of the Crown's own witness, not for the truth of its contents.",
+      "C": "It may be used for both credibility and substantive purposes if the trial judge finds it more reliable than the in-court testimony.",
+      "D": "It may not be used at all once the witness recants."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 9(2) of the Canada Evidence Act permits the Crown (or any party) to cross-examine its own witness on a prior inconsistent written statement or one proved to have been made, after obtaining leave of the court and establishing the inconsistency. However, a prior inconsistent statement used under s. 9(2) does not automatically become substantive evidence (admitted for the truth of its contents). It may be used only to impeach credibility — to demonstrate that the witness gave a prior inconsistent account and therefore to diminish the reliability of their current testimony. To be used substantively, the statement would need to meet the K.G.B. principled approach criteria (oath + record), which this statement does not, since it was not made under oath or video-recorded.",
+    "why_A_wrong": "Section 9(2) does not make a prior inconsistent statement automatically admissible for the truth of its contents. K.G.B. provides a separate route for substantive admission, requiring oath and video-record (or equivalent). A s. 9(2) statement not meeting K.G.B. criteria may only be used to impeach.",
+    "why_B_wrong": "This IS the correct answer. A prior inconsistent statement admitted under s. 9(2) that does not meet K.G.B. criteria may only be used to impeach the witness's credibility, not for the truth of its contents.",
+    "why_C_wrong": "The trial judge's assessment of which version is 'more reliable' is not the test for substantive use. The K.G.B. criteria (oath, record) are threshold requirements. The judge's reliability preference does not convert a credibility tool into substantive evidence.",
+    "why_D_wrong": "The prior inconsistent statement may still be used even when the witness recants or gives a contradictory account at trial — that is precisely the scenario for which s. 9(2) is available. Recantation triggers the right to apply to cross-examine the witness on the prior statement.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 7: Evidence",
+      "heading": "Prior Inconsistent Statements — s. 9(2) Canada Evidence Act",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canada Evidence Act, R.S.C. 1985, c. C-5, s. 9(2); R. v. K.G.B., [1993] 1 SCR 740; R. v. Milgaard, [1971] 2 CCC (2d) 206"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 9(2)",
+      "Canada Evidence Act",
+      "cross-examine own witness",
+      "prior inconsistent statement",
+      "impeachment",
+      "substantive evidence"
+    ],
+    "tested_concepts": [
+      "s. 9(2) cross-examination of own witness",
+      "impeachment vs substantive use",
+      "K.G.B. criteria not met",
+      "distinction between credibility tool and truth evidence"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-07-char-ev-001",
+    "subject": "criminal_law",
+    "chapter_number": 7,
+    "chapter_title": "Evidence",
+    "topic_id": "criminal_evidence",
+    "topic_heading": "Evidence in Criminal Proceedings",
+    "subtopic_id": "similar_fact_evidence",
+    "subtopic_heading": "Similar Fact Evidence / Character Evidence",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is charged with fraud. The Crown seeks to introduce evidence that the accused committed three similar frauds five years ago for which he was convicted. The Crown argues the evidence is relevant to show a 'system' or 'design' and to rebut the accused's claim that the current alleged fraud was an innocent mistake.",
+    "call_of_question": "Under the similar fact evidence rule (R. v. Handy, 2002 SCC 56), the trial judge must determine whether to admit this evidence. Which of the following correctly states the admissibility test?",
+    "options": {
+      "A": "Similar fact evidence is automatically admissible when the accused has prior convictions for the same type of offence.",
+      "B": "Similar fact evidence is admissible only if the accused takes the stand and puts their character in issue.",
+      "C": "The trial judge must weigh the probative value of the evidence against its prejudicial effect; it is admissible only if the probative value substantially outweighs the prejudicial effect.",
+      "D": "Similar fact evidence is always inadmissible in fraud cases because of the risk of moral reasoning (propensity reasoning)."
+    },
+    "correct_answer": "C",
+    "explanation": "In R. v. Handy, 2002 SCC 56, the Supreme Court of Canada set out the framework for similar fact evidence. The general rule is that evidence of prior bad acts is inadmissible if its only relevance is to show disposition or propensity ('this person did it before; therefore they did it again'). However, similar fact evidence is admissible if its probative value substantially outweighs its prejudicial effect. Probative value includes the strength of the inference the evidence supports beyond mere propensity, such as proving system, design, identity, or rebutting accident/mistake. Prejudicial effect includes the risk that the jury will reason from general bad character rather than the specific evidence. The judge conducts this balancing on a voir dire and admits the evidence only where probative value substantially outweighs prejudice.",
+    "why_A_wrong": "Similar fact evidence is not automatically admissible because of prior convictions for the same type of offence. Prior convictions are subject to the same probative value vs. prejudicial effect balancing test. Automatic admission would impermissibly invite propensity reasoning.",
+    "why_B_wrong": "The Crown may apply to admit similar fact evidence whether or not the accused takes the stand. The similar fact evidence rule operates as an exception to the propensity rule regardless of whether the accused puts their character in issue.",
+    "why_C_wrong": "This IS the correct answer. Under Handy, similar fact evidence is admissible only if its probative value substantially outweighs its prejudicial effect, after a judicial balancing exercise.",
+    "why_D_wrong": "Similar fact evidence is not categorically inadmissible in fraud cases. The Handy balancing test applies to all cases. Evidence that proves 'system' or 'design' in fraud may have substantial probative value and, if it substantially outweighs the prejudicial effect, is admissible.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 7: Evidence",
+      "heading": "Similar Fact Evidence",
+      "page": "N/A",
+      "rule_or_statute_reference": "R. v. Handy, 2002 SCC 56; R. v. Makin, [1894] AC 57"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "similar fact evidence",
+      "Handy",
+      "propensity",
+      "probative value vs prejudicial effect",
+      "system or design",
+      "prior convictions"
+    ],
+    "tested_concepts": [
+      "Handy similar fact evidence test",
+      "probative value substantially outweighs prejudice",
+      "propensity reasoning prohibition",
+      "system/design as permissible use"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

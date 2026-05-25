@@ -1,0 +1,277 @@
+[
+  {
+    "id": "civ-10-ots-001",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "offers_to_settle",
+    "subtopic_heading": "Making an Offer to Settle — Requirements Under r.49.02",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The defendant in a breach of contract action wants to make a formal offer to settle the action. The defendant's counsel is preparing the offer and asks what formal requirements must be satisfied under the Rules of Civil Procedure for the offer to attract the cost consequences under r.49.10.",
+    "call_of_question": "Under r.49.02 of the Rules of Civil Procedure, what are the basic requirements for a valid offer to settle?",
+    "options": {
+      "A": "An offer to settle must be filed with the court and approved by a judge before it is effective.",
+      "B": "An offer to settle may be made orally or in writing; if made in writing, it is effective when delivered to the opposing party's counsel.",
+      "C": "An offer to settle must be in writing, signed by the party or their counsel, and served on the opposing party; it is effective when served.",
+      "D": "An offer to settle must be made before the statement of defence is delivered; offers made after defence cannot attract cost consequences."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.49.02(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a party may make an offer to settle at any time. Rule 49.02(2) requires that an offer to settle be made in writing, and r.49.02(3) provides that an offer to settle is effective when it is served on the other party. The offer must be in writing to attract the cost consequences under r.49.10. An oral offer does not constitute an offer to settle for the purposes of r.49. The offer need not be filed with or approved by the court.",
+    "why_A_wrong": "Offers to settle are not filed with the court and do not require judicial approval. They are served on the opposing party and are effective upon service under r.49.02(3).",
+    "why_B_wrong": "An oral offer does not satisfy the requirements of r.49.02. The offer must be in writing to attract the cost consequences of r.49.10.",
+    "why_C_wrong": "This IS the correct answer. Rule 49.02 requires the offer to be in writing, signed, and served on the other party; it is effective upon service.",
+    "why_D_wrong": "An offer to settle may be made at any time during the proceeding, including before trial, after discovery, or even on the eve of trial. There is no restriction limiting offers to the pre-defence stage.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 10 — Offers to Settle",
+      "heading": "Making an Offer to Settle — Requirements Under r.49.02",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.02"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "offer to settle",
+      "r.49.02",
+      "in writing",
+      "served",
+      "effective"
+    ],
+    "tested_concepts": [
+      "offer to settle must be in writing — r.49.02",
+      "effective upon service",
+      "any party may make offer at any time"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-10-ots-002",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "offers_to_settle",
+    "subtopic_heading": "Withdrawal and Expiry of Offers to Settle — r.49.04",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The plaintiff serves a written offer to settle on the defendant on April 10, 2026. The offer does not state a specific expiry date. On April 19, 2026 — nine days after service — the defendant serves a written acceptance of the offer. The plaintiff argues the offer had already lapsed because more than a week has passed.",
+    "call_of_question": "Under r.49.04 of the Rules of Civil Procedure, when does an offer to settle that does not specify an expiry date expire?",
+    "options": {
+      "A": "An offer expires automatically 7 days after service if no expiry date is stated.",
+      "B": "An offer does not expire if no expiry date is stated; it remains open for acceptance indefinitely until withdrawn.",
+      "C": "An offer expires automatically 10 days after service if no expiry date is stated.",
+      "D": "An offer without an expiry date expires at the commencement of the trial."
+    },
+    "correct_answer": "D",
+    "explanation": "Under r.49.04 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), an offer to settle that does not specify an expiry date may be accepted at any time before the commencement of the hearing (trial). The offer does not automatically expire after 7 days or 10 days merely because no expiry date is stated. In this scenario, the defendant's acceptance on April 19 — nine days after service and before the commencement of trial — is a valid acceptance of the plaintiff's offer. The plaintiff is incorrect that the offer lapsed.",
+    "why_A_wrong": "There is no automatic 7-day expiry rule for an offer that does not specify an expiry date. Rule 49.04 permits acceptance at any time before the commencement of the hearing.",
+    "why_B_wrong": "Offers do have a temporal limit even when no expiry date is specified. Under r.49.04, an offer without an expiry date may only be accepted before the commencement of the hearing (trial).",
+    "why_C_wrong": "There is no automatic 10-day expiry rule for an offer without a stated expiry date. Rule 49.04 specifies that such offers may be accepted until the commencement of the hearing.",
+    "why_D_wrong": "This IS the correct answer. Under r.49.04, an offer without a stated expiry date may be accepted at any time before the commencement of the hearing (trial).",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 10 — Offers to Settle",
+      "heading": "Withdrawal and Expiry of Offers to Settle — r.49.04",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.04"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "offer to settle",
+      "expiry",
+      "r.49.04",
+      "no expiry date",
+      "acceptance"
+    ],
+    "tested_concepts": [
+      "offer without expiry date — open until commencement of hearing",
+      "r.49.04 — expiry of offers",
+      "timing of acceptance of offer to settle"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-10-ots-003",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "costs_consequences_offers",
+    "subtopic_heading": "Cost Consequences — Defendant's Offer Better Than Plaintiff's Recovery",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The defendant serves a written offer to settle for $80,000 on the plaintiff. The plaintiff rejects the offer and proceeds to trial. At trial, the plaintiff is awarded judgment for $70,000 — less than the defendant's offer. The defendant seeks enhanced cost consequences.",
+    "call_of_question": "Under r.49.10 of the Rules of Civil Procedure, what are the cost consequences where the plaintiff fails to obtain a judgment more favourable than the defendant's offer to settle?",
+    "options": {
+      "A": "The plaintiff is entitled to full solicitor-client costs for the entire action because the plaintiff succeeded at trial.",
+      "B": "There are no cost consequences because the plaintiff obtained a judgment; the plaintiff's entitlement to partial indemnity costs for the entire action is unaffected.",
+      "C": "Under r.49.10(1), the plaintiff is entitled to partial indemnity costs to the date of the offer, but the defendant is entitled to partial indemnity costs from the date the offer was made.",
+      "D": "Under r.49.10(1), the plaintiff is entitled to partial indemnity costs to the date the offer was made, but the defendant is entitled to substantial indemnity costs from that date."
+    },
+    "correct_answer": "D",
+    "explanation": "Under r.49.10(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), where the defendant makes an offer to settle that is not accepted, and the plaintiff obtains a judgment that is no more favourable than the terms of the offer, the plaintiff is entitled to partial indemnity costs to the date the offer was made. However, the defendant is entitled to partial indemnity costs from the date the offer was made. This split costs award is designed to incentivise the acceptance of reasonable offers: the plaintiff recovers normal costs up to the offer date but must pay the defendant's partial indemnity costs after that date. Note: under the current Rules, the defendant is entitled to partial indemnity costs (not substantial indemnity costs) unless the court orders otherwise.",
+    "why_A_wrong": "The plaintiff is not entitled to solicitor-client costs simply for succeeding at trial. Moreover, the plaintiff here obtained a judgment less favourable than the defendant's offer, which triggers the adverse cost consequence under r.49.10(1).",
+    "why_B_wrong": "There are significant cost consequences where the plaintiff fails to beat the defendant's offer. Rule 49.10(1) provides the defendant with partial indemnity costs from the date of the offer.",
+    "why_C_wrong": "Under r.49.10(1), it is the defendant who is entitled to partial indemnity costs from the date of the offer. The plaintiff is entitled to partial indemnity costs only up to that date.",
+    "why_D_wrong": "This IS the correct answer. Rule 49.10(1) gives the plaintiff partial indemnity costs to the date of the defendant's offer, and the defendant partial indemnity costs from that date forward.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 10 — Offers to Settle",
+      "heading": "Cost Consequences — Defendant's Offer Better Than Plaintiff's Recovery",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.10(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "r.49.10",
+      "defendant's offer",
+      "fails to beat",
+      "partial indemnity",
+      "cost consequences"
+    ],
+    "tested_concepts": [
+      "r.49.10(1) — defendant's offer not beaten by plaintiff's recovery",
+      "plaintiff gets partial indemnity to date of offer",
+      "defendant gets partial indemnity from date of offer"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-10-ots-004",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "costs_consequences_offers",
+    "subtopic_heading": "Cost Consequences — Plaintiff's Offer Beaten by Plaintiff's Recovery",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The plaintiff served an offer to settle for $150,000. The defendant rejected the offer. At trial, the plaintiff was awarded $175,000 — more than the plaintiff's offer. The plaintiff seeks enhanced costs from the date of the offer.",
+    "call_of_question": "Under r.49.10(2) of the Rules of Civil Procedure, what are the cost consequences where the plaintiff obtains a judgment more favourable than their own offer to settle?",
+    "options": {
+      "A": "The plaintiff is entitled to partial indemnity costs for the entire action from the start to the end of trial.",
+      "B": "The plaintiff is entitled to partial indemnity costs to the date the offer was made, and substantial indemnity costs from the date of the offer to the end of trial.",
+      "C": "The plaintiff is entitled to solicitor-client costs for the entire action because the defendant unreasonably refused the offer.",
+      "D": "There are no additional cost consequences beyond the ordinary partial indemnity costs award; the plaintiff's offer to settle has no relevance to costs."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.49.10(2) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), where the plaintiff makes an offer to settle that is not accepted, and the plaintiff obtains a judgment as favourable as or more favourable than the terms of the offer, the plaintiff is entitled to partial indemnity costs to the date the offer was made, and substantial indemnity costs from the date of the offer to the end of trial. This enhanced cost consequence — the shift from partial to substantial indemnity — is the financial incentive for defendants to accept reasonable plaintiff offers. Substantial indemnity costs are approximately 1.5 times partial indemnity costs.",
+    "why_A_wrong": "The plaintiff does not receive only partial indemnity costs for the entire action. Rule 49.10(2) provides for a split: partial indemnity to the date of offer and substantial indemnity after the offer date.",
+    "why_B_wrong": "This IS the correct answer. Rule 49.10(2) entitles the plaintiff to partial indemnity costs to the date of the offer and substantial indemnity costs from that date, where the plaintiff beats their own offer.",
+    "why_C_wrong": "Solicitor-client costs (full indemnity) are not automatically awarded where a plaintiff beats their offer. Rule 49.10(2) provides substantial indemnity costs from the date of the offer, not solicitor-client costs.",
+    "why_D_wrong": "A plaintiff's offer to settle is highly relevant to costs. Rule 49.10(2) creates a significant cost shift — from partial to substantial indemnity — when the plaintiff beats their own offer.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 10 — Offers to Settle",
+      "heading": "Cost Consequences — Plaintiff's Offer Beaten by Plaintiff's Recovery",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.10(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "r.49.10(2)",
+      "plaintiff's offer",
+      "substantial indemnity",
+      "beats offer",
+      "cost consequences"
+    ],
+    "tested_concepts": [
+      "r.49.10(2) — plaintiff beats their own offer",
+      "partial indemnity to date of offer then substantial indemnity",
+      "substantial indemnity as incentive to accept"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-10-ots-005",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "multiple_offers",
+    "subtopic_heading": "Multiple Offers to Settle — r.49.13",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "During the course of a personal injury action, the plaintiff makes three separate offers to settle: one for $200,000 (declined), one for $175,000 (declined), and one for $150,000 (declined). The defendant also makes one offer for $100,000 (declined). At trial, the plaintiff is awarded $160,000. Both parties seek cost consequences based on their respective offers.",
+    "call_of_question": "Under r.49.13 of the Rules of Civil Procedure, how does the court determine which offer governs the cost consequences where multiple offers have been made?",
+    "options": {
+      "A": "The court applies the cost consequences based on the plaintiff's first offer only; subsequent offers supersede prior offers and are treated as withdrawals.",
+      "B": "The court applies cost consequences based on the most recent offer made before the close of trial.",
+      "C": "Under r.49.13, the court has discretion to take into account any or all of the offers made in determining the appropriate cost consequences; the court is not restricted to a single offer.",
+      "D": "The plaintiff's most recent offer ($150,000) governs exclusively because it is the only offer that was beaten by the trial award."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.49.13 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), despite r.49.10, the court, in exercising its discretion to award costs, may take into account any offer to settle made in writing, the date the offer was made, the terms of the offer, and the reasonableness of the parties' conduct in relation to the offer. Rule 49.13 gives the court broad discretion to consider the totality of the settlement history and all offers made by any party when determining the appropriate cost award. The court is not strictly bound to apply the automatic consequences of r.49.10 where multiple offers complicate the analysis; it can craft a just costs order considering all the circumstances.",
+    "why_A_wrong": "Rule 49.13 does not limit the court to considering only the first offer. The court has discretion to consider all offers made; a subsequent offer does not automatically treat prior offers as withdrawn for cost purposes.",
+    "why_B_wrong": "The court does not automatically apply cost consequences based on the most recent offer. Rule 49.13 gives the court discretion to consider any and all of the offers made and all relevant circumstances.",
+    "why_C_wrong": "This IS the correct answer. Rule 49.13 gives the court discretion to consider any or all of the offers made when determining costs, not restricting it to a single offer or automatic application of r.49.10.",
+    "why_D_wrong": "Rule 49.13 does not require the court to apply consequences based exclusively on the plaintiff's $150,000 offer. The court may consider all three plaintiff offers, the defendant's offer, and all surrounding circumstances.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 10 — Offers to Settle",
+      "heading": "Multiple Offers to Settle — r.49.13",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.13"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "multiple offers",
+      "r.49.13",
+      "court discretion",
+      "cost consequences",
+      "all offers"
+    ],
+    "tested_concepts": [
+      "r.49.13 — court discretion over multiple offers",
+      "court not restricted to single offer for cost consequences",
+      "r.49.13 as override of automatic r.49.10 consequences"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

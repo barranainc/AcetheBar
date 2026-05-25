@@ -1,0 +1,278 @@
+[
+  {
+    "id": "pub-01-pith-001",
+    "subject": "public_law",
+    "chapter_number": 1,
+    "chapter_title": "Division of Powers",
+    "topic_id": "division_of_powers",
+    "topic_heading": "Division of Powers — Characterization of Legislation",
+    "subtopic_id": "pith_and_substance",
+    "subtopic_heading": "Pith and Substance Analysis",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Ontario enacts legislation requiring all handguns sold in the province to undergo a mandatory waiting period of 10 days before transfer to the purchaser. The federal government challenges the legislation, arguing it relates to criminal law under s. 91(27) of the Constitution Act, 1867. Ontario responds that the law is directed at public safety and consumer protection under s. 92(13) (property and civil rights) and s. 92(16) (matters of a merely local or private nature).",
+    "call_of_question": "In determining the constitutional validity of Ontario's waiting period law, what is the first step in the division of powers analysis?",
+    "options": {
+      "A": "Determine whether the law conflicts with existing federal legislation under the federal paramountcy doctrine.",
+      "B": "Determine the pith and substance of the law — its dominant purpose and legal effect — to identify which head of power it falls under.",
+      "C": "Determine whether the law engages s. 7 of the Canadian Charter of Rights and Freedoms.",
+      "D": "Determine whether the law falls under interjurisdictional immunity by assessing whether it affects a vital or essential part of a federal undertaking."
+    },
+    "correct_answer": "B",
+    "explanation": "The pith and substance analysis is the foundational first step in any division of powers analysis. The court identifies the dominant purpose and legal effect of the legislation to characterize it as falling under a federal (s. 91) or provincial (s. 92) head of power. Incidental effects on the other level's jurisdiction do not render a law unconstitutional so long as its dominant character is within the enacting government's jurisdiction. Only after characterization does the court assess paramountcy, interjurisdictional immunity, or Charter compliance.",
+    "why_A_wrong": "Incorrect. Federal paramountcy is analyzed only after the law has been characterized through pith and substance analysis; paramountcy assumes the provincial law is otherwise valid.",
+    "why_B_wrong": "This IS the correct answer. Determine the pith and substance of the law — its dominant purpose and legal effect — to identify which head of power it falls under.",
+    "why_C_wrong": "Incorrect. Charter analysis is separate from the division of powers analysis; the first step in a constitutional challenge based on division of powers is always characterization of the law through pith and substance.",
+    "why_D_wrong": "Incorrect. Interjurisdictional immunity is assessed after characterization and after confirming the law is a valid exercise of provincial power; it is not the first step.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 1 — Division of Powers",
+      "heading": "Pith and Substance Analysis",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92; Canadian Western Bank v Alberta, 2007 SCC 22"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "pith and substance",
+      "dominant purpose",
+      "characterization",
+      "division of powers",
+      "incidental effects"
+    ],
+    "tested_concepts": [
+      "pith and substance as first step",
+      "dominant purpose vs incidental effects",
+      "federal vs provincial heads of power"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-01-param-001",
+    "subject": "public_law",
+    "chapter_number": 1,
+    "chapter_title": "Division of Powers",
+    "topic_id": "division_of_powers",
+    "topic_heading": "Division of Powers — Paramountcy and Double Aspect",
+    "subtopic_id": "federal_paramountcy",
+    "subtopic_heading": "Federal Paramountcy — Express Conflict and Frustration of Federal Purpose",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Parliament enacts the Canada Consumer Product Safety Act, which sets national safety standards for children's toys and expressly states that manufacturers may sell any toy that complies with the federal standards. Ontario subsequently enacts stricter safety standards for children's toys. A manufacturer complies with the federal standards but not the stricter Ontario standards. Ontario attempts to enforce its provincial standards against the manufacturer.",
+    "call_of_question": "Under the federal paramountcy doctrine, which of the following tests determines whether the Ontario law is rendered inoperative by the federal legislation?",
+    "options": {
+      "A": "The Ontario law is rendered inoperative only if it is impossible for a person to comply with both the federal and provincial laws at the same time.",
+      "B": "The Ontario law is rendered inoperative if either there is an express conflict (impossibility of dual compliance) or if the provincial law frustrates the purpose of the federal legislation.",
+      "C": "The Ontario law is rendered inoperative automatically whenever Parliament enacts legislation on the same subject matter, regardless of conflict.",
+      "D": "The Ontario law is rendered inoperative only if the enabling statute expressly states that provincial legislation is displaced."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the federal paramountcy doctrine, a provincial law is rendered inoperative (not invalid) to the extent it conflicts with valid federal legislation. The Supreme Court of Canada has recognized two branches of the paramountcy test: (1) express or operational conflict — where compliance with both laws is impossible; and (2) frustration of federal purpose — where the provincial law, though technically capable of dual compliance, frustrates or contradicts the purpose of the federal scheme. Here, the federal scheme expressly permits manufacturers who meet federal standards to sell nationally; the stricter Ontario standards frustrate this federal purpose and are rendered inoperative.",
+    "why_A_wrong": "Incorrect. This describes only the first branch of paramountcy (operational conflict/impossibility of dual compliance); the Supreme Court has also recognized the broader frustration-of-purpose branch, which applies here.",
+    "why_B_wrong": "This IS the correct answer. The Ontario law is rendered inoperative if either there is an express conflict (impossibility of dual compliance) or if the provincial law frustrates the purpose of the federal legislation.",
+    "why_C_wrong": "Incorrect. Mere coverage of the same subject matter does not trigger paramountcy; the double aspect doctrine allows both levels of government to legislate on the same subject from different angles.",
+    "why_D_wrong": "Incorrect. Federal paramountcy operates by force of constitutional law, not by express statutory direction; federal statutes need not expressly displace provincial laws for paramountcy to apply.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 1 — Division of Powers",
+      "heading": "Federal Paramountcy — Express Conflict and Frustration of Federal Purpose",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92; Canadian Western Bank v Alberta, 2007 SCC 22; Rogers Communications Inc v Chateauguay (City), 2016 SCC 23"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "federal paramountcy",
+      "operational conflict",
+      "frustration of federal purpose",
+      "dual compliance",
+      "inoperative"
+    ],
+    "tested_concepts": [
+      "two branches of federal paramountcy",
+      "operational conflict impossibility of dual compliance",
+      "frustration of federal purpose"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-01-param-002",
+    "subject": "public_law",
+    "chapter_number": 1,
+    "chapter_title": "Division of Powers",
+    "topic_id": "division_of_powers",
+    "topic_heading": "Division of Powers — Paramountcy and Double Aspect",
+    "subtopic_id": "federal_paramountcy",
+    "subtopic_heading": "Double Aspect Doctrine",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Both Parliament and Ontario have enacted laws regulating distracted driving — using a handheld device while operating a vehicle. The federal law is enacted under s. 91(27) (criminal law); Ontario's law is enacted under s. 92(13) (property and civil rights) and s. 92(16). The federal offence carries a criminal record; the provincial offence carries a fine and licence suspension. A driver who uses a phone while driving receives both a federal charge and a provincial charge for the same act.",
+    "call_of_question": "Under the double aspect doctrine, can both the federal and provincial laws validly apply to the same conduct?",
+    "options": {
+      "A": "No. Once Parliament has legislated on a subject, provinces are entirely precluded from legislating on any aspect of the same conduct.",
+      "B": "Yes. The double aspect doctrine recognizes that a single subject of legislation may have both federal and provincial aspects; where each law is valid in pith and substance under its respective head of power, both may validly coexist unless federal paramountcy renders one inoperative.",
+      "C": "Yes, but only if the two laws are enacted simultaneously.",
+      "D": "No. A person cannot be charged under both a federal criminal law and a provincial penal law for the same act without violating s. 11 of the Charter."
+    },
+    "correct_answer": "B",
+    "explanation": "The double aspect doctrine, recognized in Canadian constitutional law, holds that some matters have both federal and provincial aspects and may be validly regulated by both levels of government from their respective constitutional perspectives. The federal law addresses distracted driving as a criminal matter (public safety, moral blameworthiness, criminal record); the provincial law addresses it as a traffic safety and road regulation matter. Both laws are valid in their pith and substance. They will coexist unless and until operational conflict or frustration of federal purpose triggers paramountcy, rendering one inoperative.",
+    "why_A_wrong": "Incorrect. The double aspect doctrine rejects this view; federal legislation on a subject does not automatically preclude all provincial legislation touching the same conduct.",
+    "why_B_wrong": "This IS the correct answer. Yes. The double aspect doctrine recognizes that a single subject of legislation may have both federal and provincial aspects; where each law is valid in pith and substance under its respective head of power, both may validly coexist unless federal paramountcy renders one inoperative.",
+    "why_C_wrong": "Incorrect. The double aspect doctrine does not require simultaneous enactment; both laws can validly coexist regardless of the order in which they were enacted.",
+    "why_D_wrong": "Incorrect. The double aspect doctrine and federal paramountcy are division of powers issues; s. 11 Charter concerns arise separately and do not determine whether both laws can coexist in the division of powers analysis.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 1 — Division of Powers",
+      "heading": "Double Aspect Doctrine",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92; Canadian Western Bank v Alberta, 2007 SCC 22"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "double aspect doctrine",
+      "federal and provincial aspects",
+      "same conduct",
+      "coexist",
+      "paramountcy"
+    ],
+    "tested_concepts": [
+      "double aspect doctrine",
+      "validity of overlapping federal and provincial laws",
+      "paramountcy as the resolution mechanism"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-01-iji-001",
+    "subject": "public_law",
+    "chapter_number": 1,
+    "chapter_title": "Division of Powers",
+    "topic_id": "division_of_powers",
+    "topic_heading": "Division of Powers — Interjurisdictional Immunity",
+    "subtopic_id": "interjurisdictional_immunity",
+    "subtopic_heading": "Interjurisdictional Immunity — Provincial Law Affecting Core of Federal Undertaking",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Rogers Communications Inc. operates a federally regulated telecommunications undertaking in Quebec. The City of Chateauguay attempts to apply its municipal zoning by-law to prevent Rogers from installing telecommunications infrastructure on certain lands. Rogers argues the by-law cannot apply to it as a federal undertaking under the doctrine of interjurisdictional immunity.",
+    "call_of_question": "Under the doctrine of interjurisdictional immunity as clarified in Canadian Western Bank and Rogers Communications, when does a provincial or municipal law become inapplicable to a federal undertaking?",
+    "options": {
+      "A": "Whenever a provincial law regulates any activity that involves a federal undertaking, the law is automatically inapplicable to that undertaking.",
+      "B": "A provincial law is inapplicable to a federal undertaking only where it impairs the vital or essential core of the federal head of power or undertaking; the doctrine of interjurisdictional immunity should be applied with restraint and only where the constitutional text or clear precedent requires it.",
+      "C": "A provincial law always applies to federal undertakings unless Parliament has expressly enacted legislation displacing the provincial law.",
+      "D": "Interjurisdictional immunity applies automatically to all federally regulated industries, including banks, railways, and telecommunications companies, regardless of the nature of the provincial law."
+    },
+    "correct_answer": "B",
+    "explanation": "The Supreme Court of Canada in Canadian Western Bank v Alberta, 2007 SCC 22, and Rogers Communications Inc v Chateauguay (City), 2016 SCC 23, significantly narrowed the doctrine of interjurisdictional immunity. The doctrine applies only where a provincial law impairs the 'core' of a federal head of power or a vital and essential part of a federal undertaking. The Court expressed a preference for the paramountcy doctrine over interjurisdictional immunity and stated that IJI should be applied with restraint to avoid creating watertight compartments of exclusive federal authority. In Rogers, the Court found municipal zoning that prevented telecommunications installation impaired the core of federal telecommunications jurisdiction.",
+    "why_A_wrong": "Incorrect. After Canadian Western Bank and Rogers, the broad approach to IJI (applying it whenever a federal undertaking is 'affected') was rejected; the doctrine requires impairment of the vital or essential core, not mere regulation.",
+    "why_B_wrong": "This IS the correct answer. A provincial law is inapplicable to a federal undertaking only where it impairs the vital or essential core of the federal head of power or undertaking; the doctrine of interjurisdictional immunity should be applied with restraint and only where the constitutional text or clear precedent requires it.",
+    "why_C_wrong": "Incorrect. Interjurisdictional immunity operates by force of constitutional law and does not require an express federal displacement; where the doctrine applies, the provincial law is inapplicable regardless of whether Parliament has addressed the matter.",
+    "why_D_wrong": "Incorrect. IJI is not automatic for all federally regulated industries; it applies only where the specific provincial law impairs a vital or essential part of the particular federal undertaking.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 1 — Division of Powers",
+      "heading": "Interjurisdictional Immunity — Provincial Law Affecting Core of Federal Undertaking",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92; Canadian Western Bank v Alberta, 2007 SCC 22; Rogers Communications Inc v Chateauguay (City), 2016 SCC 23"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "interjurisdictional immunity",
+      "vital or essential core",
+      "federal undertaking",
+      "inapplicable",
+      "Canadian Western Bank"
+    ],
+    "tested_concepts": [
+      "interjurisdictional immunity vital or essential core test",
+      "IJI applied with restraint post-Canadian Western Bank",
+      "preference for paramountcy over IJI"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-01-pogg-001",
+    "subject": "public_law",
+    "chapter_number": 1,
+    "chapter_title": "Division of Powers",
+    "topic_id": "division_of_powers",
+    "topic_heading": "Division of Powers — POGG Power",
+    "subtopic_id": "pogg",
+    "subtopic_heading": "Peace, Order and Good Government — National Concern Branch",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Parliament enacts legislation regulating the dumping of toxic waste into the ocean off Canada's coasts. The legislation is challenged by British Columbia, which argues that environmental regulation of coastal areas falls within provincial jurisdiction under s. 92 of the Constitution Act, 1867. Parliament relies on the Peace, Order and Good Government (POGG) power under s. 91 of the Constitution Act, 1867.",
+    "call_of_question": "Under the national concern branch of the POGG power, what are the criteria that must be satisfied for Parliament to validly legislate on a matter not enumerated in s. 91?",
+    "options": {
+      "A": "Parliament may invoke POGG only during a national emergency; absent a declared emergency, POGG cannot support legislation on matters not enumerated in s. 91.",
+      "B": "Under the national concern branch established in R. v Crown Zellerbach, the matter must have a singleness, distinctiveness, and indivisibility that clearly distinguishes it from matters of provincial concern; and the scale of impact on provincial jurisdiction must be reconcilable with the division of powers.",
+      "C": "POGG allows Parliament to legislate on any matter it considers to be in the national interest, subject only to a test of good faith.",
+      "D": "The national concern branch of POGG applies only to matters that span multiple provinces; it does not apply to ocean dumping, which occurs in federal waters."
+    },
+    "correct_answer": "B",
+    "explanation": "The national concern branch of POGG was established in R. v Crown Zellerbach Canada Ltd., [1988] 1 SCR 401. The Supreme Court held that for a matter to fall under the national concern branch, it must have a singleness, distinctiveness, and indivisibility that clearly distinguishes it from matters of provincial concern, and that the failure of one province to legislate or effectively regulate the matter would have an adverse effect on other provinces or on the country as a whole (the 'provincial inability' test). The court upheld ocean dumping as a matter of national concern given the indivisible nature of marine environmental protection.",
+    "why_A_wrong": "Incorrect. The emergency branch — not the national concern branch — is what applies during a national emergency. The national concern branch is a permanent grant of legislative authority over matters that are national in character, not limited to emergencies.",
+    "why_B_wrong": "This IS the correct answer. Under the national concern branch established in R. v Crown Zellerbach, the matter must have a singleness, distinctiveness, and indivisibility that clearly distinguishes it from matters of provincial concern; and the scale of impact on provincial jurisdiction must be reconcilable with the division of powers.",
+    "why_C_wrong": "Incorrect. POGG is not a general power for Parliament to legislate on any matter it considers nationally important; the national concern branch has specific criteria (singleness, distinctiveness, indivisibility, provincial inability) that must be met.",
+    "why_D_wrong": "Incorrect. The national concern branch is not confined to matters spanning multiple provinces in the geographic sense; it applies to matters having a national dimension — including ocean dumping — regardless of where the physical activity occurs.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 1 — Division of Powers",
+      "heading": "Peace, Order and Good Government — National Concern Branch",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1867, s. 91 (preamble — POGG); R v Crown Zellerbach Canada Ltd., [1988] 1 SCR 401"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "POGG",
+      "national concern",
+      "Crown Zellerbach",
+      "singleness distinctiveness indivisibility",
+      "provincial inability"
+    ],
+    "tested_concepts": [
+      "POGG national concern branch criteria",
+      "Crown Zellerbach test singleness distinctiveness indivisibility",
+      "provincial inability test",
+      "distinction from emergency branch"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

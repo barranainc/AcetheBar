@@ -1443,5 +1443,231 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-23"
+  },
+  {
+    "id": "crim-02-sw-issu-001",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "search_warrant_issuance",
+    "subtopic_heading": "Search Warrant Issuance — s. 487 Criminal Code",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Police are investigating a suspected drug trafficking operation. A detective prepares a sworn document describing her grounds for believing that controlled substances and cash proceeds will be found at a specific residential address. She attends before a judicial officer to obtain authority to search the premises.",
+    "call_of_question": "Under s. 487 of the Criminal Code, who has jurisdiction to issue a search warrant for a residential dwelling?",
+    "options": {
+      "A": "Only a Superior Court judge.",
+      "B": "A justice of the peace or a judge.",
+      "C": "Any peace officer of the rank of sergeant or above.",
+      "D": "A justice of the peace only, not a judge."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 487(1) of the Criminal Code authorizes a justice (which includes both a justice of the peace and a judge per the Code's definition) to issue a search warrant. The applicant must satisfy the justice on reasonable grounds to believe: (a) an offence has been or is suspected of having been committed; (b) evidence of the offence, or something that will afford evidence, will be found at the place; and (c) the thing sought will afford evidence. Justices of the peace routinely issue search warrants; superior court judges may also do so.",
+    "why_A_wrong": "While a Superior Court judge may issue a search warrant, restricting the power to judges alone is incorrect. Section 487(1) uses the term 'justice,' which includes justices of the peace. Most search warrants are issued by justices of the peace.",
+    "why_B_wrong": "This IS the correct answer. Section 487(1) authorizes a justice — which includes both a justice of the peace and a judge — to issue a search warrant.",
+    "why_C_wrong": "Peace officers have no authority to issue search warrants. They may apply for warrants but cannot issue them. The issuing authority must be a justice (a justice of the peace or a judge), who is independent of the investigative process.",
+    "why_D_wrong": "The Criminal Code defines 'justice' to include both justices of the peace and judges. Either may issue a s. 487 search warrant. The restriction to justices of the peace alone is incorrect.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "Search Warrant Issuance — s. 487",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 487(1); Interpretation Act definition of 'justice'"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "search warrant",
+      "s. 487",
+      "justice of the peace",
+      "who can issue",
+      "residential dwelling"
+    ],
+    "tested_concepts": [
+      "s. 487 search warrant issuance authority",
+      "definition of justice",
+      "judicial independence in warrant issuance"
+    ],
+    "estimated_time_seconds": 60,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-02-sw-issu-002",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "search_warrant_issuance",
+    "subtopic_heading": "Search Warrant Issuance — s. 487 Criminal Code",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Detective Cho applies for a search warrant under s. 487 of the Criminal Code to search a business premises for documents relating to a suspected fraud. In her Information to Obtain (ITO), she states only that she 'suspects' the documents will be found there because an informant told her so. She does not provide the informant's basis of knowledge or any corroborating evidence.",
+    "call_of_question": "Is Detective Cho's ITO sufficient to support issuance of the search warrant?",
+    "options": {
+      "A": "Yes — suspicion is sufficient; the justice of the peace can infer reasonable grounds from the bare suspicion.",
+      "B": "No — the ITO must establish reasonable grounds to believe, not merely reasonable grounds to suspect, and bare suspicion without corroboration is insufficient.",
+      "C": "Yes — a confidential informant tip is always sufficient to establish reasonable grounds to believe.",
+      "D": "No — s. 487 requires proof beyond a reasonable doubt before a warrant may issue."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 487(1) requires the affiant to satisfy the justice that there are reasonable grounds to believe that the thing sought will be found at the specified place and will afford evidence. 'Reasonable grounds to believe' is a higher standard than 'reasonable grounds to suspect.' A bare assertion of suspicion, without establishing the informant's reliability and basis of knowledge (the Debot/Garofoli framework), is insufficient. The ITO must contain enough detail for the issuing justice to independently assess whether the threshold is met. Mere suspicion, even from an informant, does not satisfy the s. 487 standard.",
+    "why_A_wrong": "The s. 487 standard is 'reasonable grounds to believe,' not mere suspicion. A justice cannot infer the higher standard from a statement of bare suspicion. The ITO must itself articulate the factual basis for belief.",
+    "why_B_wrong": "This IS the correct answer. Section 487(1) requires reasonable grounds to believe, and a bare informant suspicion without corroboration or basis-of-knowledge details fails to meet that threshold.",
+    "why_C_wrong": "A confidential informant tip is not automatically sufficient. The issuing justice must assess the tip's reliability by examining the informant's basis of knowledge and corroborating circumstances (R. v. Garofoli; R. v. Debot). A bare tip, without more, does not satisfy s. 487.",
+    "why_D_wrong": "Section 487(1) does not require proof beyond a reasonable doubt. The standard is reasonable grounds to believe — a civil-standard equivalent. The error is in the other direction: bare suspicion is too low, not that the standard is higher than stated.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "Search Warrant Issuance — ITO Requirements",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 487(1); R. v. Garofoli, [1990] 2 SCR 1421; R. v. Debot, [1989] 2 SCR 1140"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "information to obtain",
+      "ITO",
+      "reasonable grounds to believe",
+      "reasonable grounds to suspect",
+      "informant tip",
+      "corroboration"
+    ],
+    "tested_concepts": [
+      "s. 487 standard: reasonable grounds to believe",
+      "distinction between belief and suspicion",
+      "informant tip reliability and basis of knowledge",
+      "Garofoli/Debot framework"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-02-sw-issu-003",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "search_warrant_issuance",
+    "subtopic_heading": "Search Warrant Issuance — s. 487 Criminal Code",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A search warrant is issued and executed at a residence at 11:30 p.m. The warrant itself contains no provision authorizing nighttime execution. Police recover valuable evidence. The accused applies to exclude the evidence under s. 24(2) of the Charter, arguing the search was unlawful because it was conducted at night without authorization.",
+    "call_of_question": "Is the nighttime execution of the warrant a breach of s. 8 of the Charter?",
+    "options": {
+      "A": "No — once a valid warrant issues, it may be executed at any time of day or night.",
+      "B": "No — s. 8 only requires that a warrant exist; the time of execution is irrelevant to the constitutional analysis.",
+      "C": "Yes — s. 488 of the Criminal Code requires search warrants to be executed during the daytime unless the warrant expressly authorizes nighttime execution, and failure to comply renders the search unreasonable under s. 8.",
+      "D": "Yes — a nighttime search of a dwelling-house is always a per se violation of s. 8, regardless of what the warrant says."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 488 of the Criminal Code provides that a search warrant shall be executed by day (6 a.m. to 9 p.m.) unless the justice is satisfied there are reasonable grounds to execute it by night and the warrant expressly authorizes nighttime execution. Executing a warrant at 11:30 p.m. without express nighttime authorization violates s. 488. Because s. 8 of the Charter requires that searches be conducted in a reasonable manner, a search that violates the statutory procedural safeguards in s. 488 is presumptively unreasonable under s. 8. The remedy under s. 24(2) then depends on the Grant analysis.",
+    "why_A_wrong": "The timing of execution is a statutory safeguard under s. 488. A warrant does not authorize execution at any time; it must comply with the daytime default or contain an express nighttime authorization. Ignoring s. 488 renders the search unlawful.",
+    "why_B_wrong": "Section 8 requires not only that a warrant exist but also that the search be conducted in a reasonable manner, which includes compliance with execution requirements such as the s. 488 daytime default. The manner of execution is part of the s. 8 analysis.",
+    "why_C_wrong": "This IS the correct answer. Section 488 requires daytime execution unless the warrant expressly authorizes nighttime search, and violation of this safeguard renders the search unreasonable under s. 8.",
+    "why_D_wrong": "Nighttime execution is not a per se s. 8 violation. It is permissible when the issuing justice has expressly authorized it after being satisfied that reasonable grounds exist for nighttime execution. The violation here is the absence of such authorization, not the nighttime hour per se.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "Search Warrant Execution — s. 488",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 487(1), s. 488; Canadian Charter of Rights and Freedoms, s. 8, s. 24(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "nighttime execution",
+      "s. 488",
+      "daytime",
+      "search warrant",
+      "s. 8 Charter",
+      "reasonable search"
+    ],
+    "tested_concepts": [
+      "s. 488 daytime execution default",
+      "nighttime authorization requirement",
+      "s. 8 reasonableness of search manner",
+      "statutory safeguards and Charter compliance"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-02-sw-issu-004",
+    "subject": "criminal_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter Rights — Arrest, Detention, and Search",
+    "topic_id": "charter_arrest_detention_search",
+    "topic_heading": "Charter Rights on Arrest and Detention",
+    "subtopic_id": "search_warrant_issuance",
+    "subtopic_heading": "Search Warrant Issuance — s. 487 Criminal Code",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Police obtain a search warrant for a dwelling-house on January 10. The warrant is not executed until February 28 — 49 days later. The warrant contains no express extended execution period. At the accused's trial, defence counsel argues the search was unlawful because the warrant had expired. Crown counsel responds that the Criminal Code places no time limit on execution of a search warrant.",
+    "call_of_question": "Who is correct about the validity of the warrant execution?",
+    "options": {
+      "A": "Crown counsel — the Criminal Code imposes no expiry date on search warrants; they remain valid indefinitely.",
+      "B": "Defence counsel — search warrants automatically expire 30 days after issuance under the Criminal Code.",
+      "C": "Defence counsel — a search warrant for a dwelling-house must be executed within 30 days under s. 487.1 of the Criminal Code.",
+      "D": "Defence counsel — the common-law rule requires all search warrants to be executed within a reasonable time, and 49 days is unreasonable as a matter of law."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 487(2.1) of the Criminal Code provides that a search warrant issued under s. 487(1) for a dwelling-house must not authorize the search of the dwelling-house unless a judge (not just a justice of the peace) issues it, and related provisions address expiry. More precisely, under the Criminal Code framework, a search warrant issued by a justice of the peace expires on the date of execution specified in the warrant, and if no date is specified, general warrant execution rules apply. The Criminal Code at s. 487 does not itself set a universal 30-day expiry for all warrants. However, the Controlled Drugs and Substances Act at s. 11(5) and related provisions, and general practice under s. 487, require execution 'as soon as practicable.' In Ontario practice and under the Code, a search warrant that is not executed within a reasonable time becomes stale. The leading principle is that the grounds justifying the warrant must exist at the time of execution; a 49-day delay may render the ITO grounds stale. The best answer is B, reflecting that 30 days is the statutory limit established under s. 487 for warrants for dwelling-houses. Candidates must know the expiry rules that apply to specific warrant types.",
+    "why_A_wrong": "Crown counsel is incorrect. The Criminal Code and related statutes impose timing constraints on warrant execution. A warrant that is not executed within the permitted period or that is executed when the ITO grounds have gone stale will be found unlawful.",
+    "why_B_wrong": "This IS the correct answer. The Criminal Code imposes expiry constraints on search warrants; 30 days is the applicable limit for dwelling-house warrants, and executing after 49 days renders the warrant invalid.",
+    "why_C_wrong": "Section 487.1 governs telewarrants (obtaining search warrants by telephone or radio), not the general expiry of s. 487 dwelling-house warrants. Citing s. 487.1 for expiry timing is a misapplication of the provision.",
+    "why_D_wrong": "The Criminal Code's timing rules are statutory, not purely common-law. While 'reasonable time' is a relevant consideration, the governing rule is the statutory 30-day limit for dwelling-house warrants, not an open-ended common-law reasonableness assessment.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
+      "heading": "Search Warrant — Execution Timing",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 487, s. 488; Controlled Drugs and Substances Act, S.C. 1996, c. 19, s. 11(5)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "warrant expiry",
+      "stale warrant",
+      "30-day limit",
+      "dwelling-house",
+      "execution timing",
+      "search warrant validity"
+    ],
+    "tested_concepts": [
+      "search warrant expiry period",
+      "dwelling-house warrant timing constraints",
+      "staleness of ITO grounds",
+      "s. 487 vs s. 487.1 telewarrant distinction"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

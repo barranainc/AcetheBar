@@ -1,0 +1,387 @@
+[
+  {
+    "id": "pub-08-hr-grd-001",
+    "subject": "public_law",
+    "chapter_number": 8,
+    "chapter_title": "Human Rights",
+    "topic_id": "human_rights_code",
+    "topic_heading": "Human Rights Code — Prohibited Grounds and Social Areas",
+    "subtopic_id": "hr_grounds",
+    "subtopic_heading": "Human Rights Code Grounds — Prohibited Grounds and Social Areas",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An employer refuses to hire a qualified applicant after learning during a pre-employment medical examination that the applicant has type 1 diabetes. The employer claims the applicant could not safely perform the essential duties of the position without accommodation. The applicant has not yet been given an opportunity to demonstrate her ability to do the job with accommodation.",
+    "call_of_question": "Under the Ontario Human Rights Code, which prohibited ground of discrimination is most directly engaged by the employer's refusal to hire, and in which social area?",
+    "options": {
+      "A": "Race discrimination under s. 5 of the Code in the area of services.",
+      "B": "Disability discrimination under s. 5 of the Code in the area of employment.",
+      "C": "Sex discrimination under s. 5 of the Code in the area of employment.",
+      "D": "Creed discrimination under s. 5 of the Code in the area of vocational associations."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Human Rights Code, R.S.O. 1990, c. H.19, s. 5(1), every person has a right to equal treatment with respect to employment without discrimination because of, inter alia, disability. Type 1 diabetes is a recognized disability within the meaning of the Code. The employer's refusal to hire the applicant on the basis of her diabetes — without first allowing her to demonstrate her ability to perform the job with accommodation — constitutes prima facie discrimination on the ground of disability in the area of employment under s. 5.",
+    "why_A_wrong": "Incorrect. The fact pattern does not raise race discrimination; the ground engaged is disability. The social area is employment (s. 5), not services (s. 1).",
+    "why_B_wrong": "This IS the correct answer. Disability discrimination under s. 5 of the Code in the area of employment.",
+    "why_C_wrong": "Incorrect. Sex is a separate prohibited ground under the Code; the fact pattern does not indicate sex-based discrimination. The employer's conduct relates solely to the applicant's medical condition (disability).",
+    "why_D_wrong": "Incorrect. Creed relates to religious belief, not medical conditions. Vocational associations is a separate social area under the Code not applicable to this pre-employment hiring scenario.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 8 — Human Rights",
+      "heading": "Human Rights Code Grounds — Prohibited Grounds and Social Areas",
+      "page": "N/A",
+      "rule_or_statute_reference": "Human Rights Code, R.S.O. 1990, c. H.19, s. 5(1) (employment), s. 10 (definitions including disability)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Human Rights Code",
+      "disability",
+      "employment",
+      "s. 5",
+      "prohibited ground"
+    ],
+    "tested_concepts": [
+      "disability as prohibited ground under Code s. 5",
+      "employment as social area under Code s. 5(1)",
+      "prima facie discrimination"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-08-hr-grd-002",
+    "subject": "public_law",
+    "chapter_number": 8,
+    "chapter_title": "Human Rights",
+    "topic_id": "human_rights_code",
+    "topic_heading": "Human Rights Code — Prohibited Grounds and Social Areas",
+    "subtopic_id": "hr_grounds",
+    "subtopic_heading": "Prima Facie Discrimination — Constructive Discrimination",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An employer's workplace policy requires all employees to work Friday evenings and Saturdays. A Jewish employee whose religious observance requires him to abstain from work from sunset Friday to nightfall Saturday asks for an exemption. The employer refuses, stating the policy applies equally to all employees and was not designed to target any religion.",
+    "call_of_question": "Under the Human Rights Code, does a facially neutral employment policy that has an adverse effect on persons sharing a protected characteristic constitute prohibited discrimination?",
+    "options": {
+      "A": "No. A facially neutral policy that applies equally to all employees cannot constitute discrimination; there must be an intention to discriminate based on a prohibited ground.",
+      "B": "Yes. Under s. 11 of the Code (constructive discrimination), a requirement that is not discriminatory on its face but results in adverse treatment of a group identified by a prohibited ground — here, creed — constitutes discrimination; the employer must accommodate the employee to the point of undue hardship.",
+      "C": "No. Religious accommodation applies only where the employer specifically targeted the employee because of his religion; neutral policies with unintended effects are not within the scope of the Code.",
+      "D": "Yes, but the employer has no obligation to accommodate unless the employee submits a written formal request for accommodation using the employer's specific HR procedures."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Human Rights Code, R.S.O. 1990, c. H.19, s. 11 (constructive discrimination), a requirement, qualification, or factor that is not explicitly discriminatory but has an adverse effect on a group of persons identified by a prohibited ground — such as creed — constitutes discrimination. The intent of the employer is irrelevant; adverse effect suffices. A rigid Saturday work requirement adversely impacts employees who observe the Jewish Sabbath, constituting constructive discrimination on the ground of creed. The employer is then required to accommodate to the point of undue hardship under s. 17.",
+    "why_A_wrong": "Incorrect. Human rights law rejects intent as a prerequisite for discrimination; constructive (adverse effect) discrimination under s. 11 does not require proof of discriminatory intent.",
+    "why_B_wrong": "This IS the correct answer. Yes. Under s. 11 of the Code (constructive discrimination), a requirement that is not discriminatory on its face but results in adverse treatment of a group identified by a prohibited ground — here, creed — constitutes discrimination; the employer must accommodate the employee to the point of undue hardship.",
+    "why_C_wrong": "Incorrect. Constructive discrimination under s. 11 does not require targeting; adverse effect on a protected group is sufficient regardless of the employer's intent.",
+    "why_D_wrong": "Incorrect. The duty to accommodate arises under the Code and does not depend on the employee following specific internal HR procedures; once a need is communicated, the duty to accommodate is engaged.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 8 — Human Rights",
+      "heading": "Prima Facie Discrimination — Constructive Discrimination",
+      "page": "N/A",
+      "rule_or_statute_reference": "Human Rights Code, R.S.O. 1990, c. H.19, s. 11 (constructive discrimination), s. 17 (undue hardship)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "constructive discrimination",
+      "adverse effect",
+      "s. 11",
+      "creed",
+      "facially neutral policy"
+    ],
+    "tested_concepts": [
+      "s. 11 constructive discrimination",
+      "adverse effect discrimination no intent required",
+      "Saturday work requirement creed discrimination"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-08-hr-acc-001",
+    "subject": "public_law",
+    "chapter_number": 8,
+    "chapter_title": "Human Rights",
+    "topic_id": "human_rights_code",
+    "topic_heading": "Human Rights Code — Duty to Accommodate",
+    "subtopic_id": "hr_accommodation",
+    "subtopic_heading": "Duty to Accommodate — To the Point of Undue Hardship",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An employee with a back injury needs a modified work schedule and ergonomic equipment. The employer provides ergonomic equipment but refuses to modify the work schedule, arguing that any schedule modification would cause 'significant inconvenience' to customers and result in a small increase in labour costs. The employer argues that this constitutes undue hardship.",
+    "call_of_question": "Under the Human Rights Code and the Meiorin test, does 'significant inconvenience' or minor increases in labour costs constitute undue hardship sufficient to excuse the employer from accommodating the employee?",
+    "options": {
+      "A": "Yes. Any financial cost or operational inconvenience to the employer satisfies the undue hardship defence; accommodation is only required where it is cost-free.",
+      "B": "Yes. Customer inconvenience is always sufficient to establish undue hardship in a service-based industry.",
+      "C": "No. Under the Human Rights Code s. 17 and the Meiorin test, undue hardship is a high threshold; relevant factors include health and safety considerations, cost (assessed in the context of the employer's overall financial capacity), and external sources of funding. Significant inconvenience to customers and minor cost increases, standing alone, do not meet the undue hardship threshold.",
+      "D": "No. The employer must provide every accommodation requested without limitation; the concept of undue hardship has no application to employment accommodation."
+    },
+    "correct_answer": "C",
+    "explanation": "The duty to accommodate to the point of undue hardship is established in British Columbia (Public Service Employee Relations Commission) v BCGSEU (Meiorin), [1999] 3 SCR 3, and codified in s. 17 of the Human Rights Code, R.S.O. 1990, c. H.19. Undue hardship is a high standard; the factors relevant to the assessment include cost (taking into account the employer's overall financial capacity), health and safety, and availability of outside funding. Inconvenience, minor disruption, and small cost increases do not reach the threshold of undue hardship. The employer must demonstrate hardship that is truly unreasonable in the circumstances, not merely inconvenient.",
+    "why_A_wrong": "Incorrect. Any cost or inconvenience does not suffice for undue hardship; the standard is specifically 'undue,' meaning the hardship must be substantial and not merely inconvenient.",
+    "why_B_wrong": "Incorrect. Customer inconvenience alone does not constitute undue hardship; the assessment requires consideration of multiple factors in their totality, including the employer's overall capacity to accommodate.",
+    "why_C_wrong": "This IS the correct answer. No. Under the Human Rights Code s. 17 and the Meiorin test, undue hardship is a high threshold; relevant factors include health and safety considerations, cost (assessed in the context of the employer's overall financial capacity), and external sources of funding. Significant inconvenience to customers and minor cost increases, standing alone, do not meet the undue hardship threshold.",
+    "why_D_wrong": "Incorrect. The duty to accommodate has a defined outer limit — undue hardship — which is part of the Code; the duty is not unlimited.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 8 — Human Rights",
+      "heading": "Duty to Accommodate — To the Point of Undue Hardship",
+      "page": "N/A",
+      "rule_or_statute_reference": "Human Rights Code, R.S.O. 1990, c. H.19, s. 17; British Columbia (Public Service Employee Relations Commission) v BCGSEU (Meiorin), [1999] 3 SCR 3"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "duty to accommodate",
+      "undue hardship",
+      "Meiorin",
+      "s. 17",
+      "cost health safety"
+    ],
+    "tested_concepts": [
+      "undue hardship high threshold",
+      "Meiorin test factors cost health safety",
+      "inconvenience insufficient for undue hardship"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-08-hr-acc-002",
+    "subject": "public_law",
+    "chapter_number": 8,
+    "chapter_title": "Human Rights",
+    "topic_id": "human_rights_code",
+    "topic_heading": "Human Rights Code — Duty to Accommodate",
+    "subtopic_id": "hr_accommodation",
+    "subtopic_heading": "Duty to Accommodate — Meiorin Unified Test",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A fire department has a physical fitness standard requiring all firefighters to run 2.5 km in 11 minutes. A qualified female firefighter passes all other aspects of her annual fitness evaluation but consistently fails to meet this particular running standard despite her best efforts. Statistical evidence shows women on average require more time to complete this distance than men. The department threatens to terminate her employment.",
+    "call_of_question": "Under the unified approach to the duty to accommodate established in Meiorin, what must the employer demonstrate to justify the standard as a bona fide occupational requirement (BFOR)?",
+    "options": {
+      "A": "The employer must prove only that the standard was adopted for safety reasons; once safety is established, no further justification is needed.",
+      "B": "Under the Meiorin unified three-part BFOR test, the employer must demonstrate: (1) the standard was adopted for a purpose rationally connected to the performance of the job; (2) the standard was adopted in an honest and good faith belief that it is necessary for the fulfilment of that legitimate work-related purpose; and (3) the standard is reasonably necessary to accomplish that purpose — meaning the employer cannot accommodate the employee without incurring undue hardship.",
+      "C": "The employer must prove only that the standard applies equally to all employees; equal application alone satisfies the BFOR defence.",
+      "D": "The Meiorin test does not apply to physical fitness standards; those standards are evaluated under a separate legislative regime for safety-critical occupations."
+    },
+    "correct_answer": "B",
+    "explanation": "In British Columbia (Public Service Employee Relations Commission) v BCGSEU (Meiorin), [1999] 3 SCR 3, the Supreme Court of Canada unified the previously separate direct and adverse effect discrimination tests and established a three-part BFOR test for discriminatory standards. The employer must prove: (1) the standard was adopted for a purpose rationally connected to job performance; (2) the standard was adopted in good faith belief it was necessary; and (3) the standard is reasonably necessary — meaning individual accommodation to the point of undue hardship is not possible. A running standard that has an adverse effect on women must be justified under all three parts of this test, including showing that no accommodation short of undue hardship is possible.",
+    "why_A_wrong": "Incorrect. Safety rationale alone does not satisfy the Meiorin BFOR test; the employer must also demonstrate that the standard cannot be modified to accommodate without undue hardship (the third Meiorin element).",
+    "why_B_wrong": "This IS the correct answer. Under the Meiorin unified three-part BFOR test, the employer must demonstrate: (1) the standard was adopted for a purpose rationally connected to the performance of the job; (2) the standard was adopted in an honest and good faith belief that it is necessary for the fulfilment of that legitimate work-related purpose; and (3) the standard is reasonably necessary to accomplish that purpose — meaning the employer cannot accommodate the employee without incurring undue hardship.",
+    "why_C_wrong": "Incorrect. Equal application of a neutral standard is precisely the scenario Meiorin's unified test was designed to address; equal application does not constitute a BFOR defence if the standard has adverse discriminatory effect.",
+    "why_D_wrong": "Incorrect. The Meiorin test applies broadly to all employment standards, including physical fitness standards in safety-critical occupations; there is no separate legislative regime that excludes these from the Meiorin analysis.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 8 — Human Rights",
+      "heading": "Duty to Accommodate — Meiorin Unified Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Human Rights Code, R.S.O. 1990, c. H.19, s. 17; British Columbia (Public Service Employee Relations Commission) v BCGSEU (Meiorin), [1999] 3 SCR 3"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Meiorin",
+      "BFOR",
+      "bona fide occupational requirement",
+      "three-part test",
+      "reasonably necessary"
+    ],
+    "tested_concepts": [
+      "Meiorin three-part BFOR test",
+      "unified test for direct and adverse effect discrimination",
+      "reasonably necessary accommodation element"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-08-hr-proc-001",
+    "subject": "public_law",
+    "chapter_number": 8,
+    "chapter_title": "Human Rights",
+    "topic_id": "human_rights_code",
+    "topic_heading": "Human Rights Code — HRTO Process",
+    "subtopic_id": "hr_process",
+    "subtopic_heading": "HRTO Process — Complaint, Mediation, Hearing, and s. 45.1 Dismissal",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A complainant files an application at the Human Rights Tribunal of Ontario (HRTO) alleging sexual harassment by her manager over a two-year period. The HRTO notifies the parties and offers mediation. The employer's counsel contacts the HRTO and argues the application should be dismissed summarily because the applicant's complaint is frivolous, having no reasonable prospect of success, and was filed purely to harm the reputation of the manager.",
+    "call_of_question": "Under s. 45.1 of the Human Rights Code, on what grounds may the HRTO dismiss an application without a full hearing?",
+    "options": {
+      "A": "The HRTO may dismiss any application where the respondent demonstrates the applicant has filed more than one previous complaint.",
+      "B": "Under s. 45.1 of the Code, the HRTO may dismiss an application, in whole or in part, if the Tribunal is of the opinion that the application or part is frivolous, vexatious, or made in bad faith; or where the Code does not apply; or where the application has already been appropriately dealt with.",
+      "C": "The HRTO may dismiss an application only after a full merits hearing; there is no summary dismissal power under the Code.",
+      "D": "The HRTO may dismiss an application at any time simply if the respondent provides an affidavit denying the allegations."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Human Rights Code, R.S.O. 1990, c. H.19, s. 45.1, the HRTO may dismiss an application without a hearing on the merits if the Tribunal is of the opinion that the application is frivolous, vexatious, or made in bad faith; the Code does not apply to the claim; another proceeding has appropriately dealt with the substance of the application; or where the application was filed past applicable time limits. This summary dismissal power allows the HRTO to screen applications efficiently without requiring a full hearing in cases where the application clearly lacks merit.",
+    "why_A_wrong": "Incorrect. The number of previous complaints filed by the applicant is not a ground for dismissal under s. 45.1; the grounds are frivolous, vexatious, bad faith, Code inapplicability, or prior proceedings.",
+    "why_B_wrong": "This IS the correct answer. Under s. 45.1 of the Code, the HRTO may dismiss an application, in whole or in part, if the Tribunal is of the opinion that the application or part is frivolous, vexatious, or made in bad faith; or where the Code does not apply; or where the application has already been appropriately dealt with.",
+    "why_C_wrong": "Incorrect. Section 45.1 expressly grants the HRTO a summary dismissal power without a full hearing; the HRTO is not required to conduct a full merits hearing in every case before dismissing.",
+    "why_D_wrong": "Incorrect. A respondent's affidavit denying the allegations does not automatically entitle the respondent to dismissal; the HRTO must form the opinion that one of the s. 45.1 grounds is met.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 8 — Human Rights",
+      "heading": "HRTO Process — Complaint, Mediation, Hearing, and s. 45.1 Dismissal",
+      "page": "N/A",
+      "rule_or_statute_reference": "Human Rights Code, R.S.O. 1990, c. H.19, s. 45.1"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "HRTO",
+      "s. 45.1",
+      "dismissal",
+      "frivolous vexatious bad faith",
+      "summary dismissal"
+    ],
+    "tested_concepts": [
+      "HRTO s. 45.1 dismissal grounds",
+      "frivolous vexatious bad faith",
+      "summary dismissal without full hearing"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-08-hr-rem-001",
+    "subject": "public_law",
+    "chapter_number": 8,
+    "chapter_title": "Human Rights",
+    "topic_id": "human_rights_code",
+    "topic_heading": "Human Rights Code — HRTO Remedies",
+    "subtopic_id": "hr_remedies",
+    "subtopic_heading": "HRTO Remedies — Section 45.2",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The Human Rights Tribunal of Ontario finds that an employee was terminated from her employment because of her pregnancy, contrary to s. 5 of the Human Rights Code. The Tribunal awards monetary compensation. The employee argues that in addition to monetary compensation for lost wages, she should also receive compensation for injury to her dignity, feelings, and self-respect. The employer argues the HRTO can only award lost wages and cannot award non-economic damages.",
+    "call_of_question": "Under s. 45.2 of the Human Rights Code, what remedies may the HRTO award following a finding of discrimination?",
+    "options": {
+      "A": "The HRTO may award only monetary compensation for past and future lost wages; it has no power to award non-economic damages.",
+      "B": "Under s. 45.2 of the Code, the HRTO may award monetary compensation for: (i) lost income and any other compensation monetarily quantifiable; and (ii) injury to dignity, feelings, and self-respect (non-economic general damages). The Tribunal may also make orders requiring the respondent to do or refrain from doing something.",
+      "C": "The HRTO may award punitive damages as its primary remedy to deter future discrimination.",
+      "D": "The HRTO has no remedial power; it can only issue declarations of discrimination, leaving monetary relief to the courts."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Human Rights Code, R.S.O. 1990, c. H.19, s. 45.2, the HRTO may, on finding a contravention, order the respondent to pay monetary compensation to the applicant for lost income and other quantifiable losses, and to compensate the applicant for injury to dignity, feelings, and self-respect. Section 45.2 also empowers the HRTO to make orders that the respondent do or refrain from doing anything to implement the Code's purposes. The HRTO does not award punitive damages in the traditional sense, though large awards for injury to dignity may serve a general deterrence function.",
+    "why_A_wrong": "Incorrect. Section 45.2 expressly authorizes the HRTO to award compensation for injury to dignity, feelings, and self-respect — a form of non-economic general damages — in addition to monetary compensation for lost wages.",
+    "why_B_wrong": "This IS the correct answer. Under s. 45.2 of the Code, the HRTO may award monetary compensation for: (i) lost income and any other compensation monetarily quantifiable; and (ii) injury to dignity, feelings, and self-respect (non-economic general damages). The Tribunal may also make orders requiring the respondent to do or refrain from doing something.",
+    "why_C_wrong": "Incorrect. The HRTO does not award punitive damages as its primary remedy; the Code's remedial scheme focuses on compensating the applicant (lost income and injury to dignity) and systemic remedies (orders to do or refrain from doing something).",
+    "why_D_wrong": "Incorrect. Section 45.2 expressly grants the HRTO broad remedial power including monetary awards and systemic orders; the HRTO is not limited to declaratory relief.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 8 — Human Rights",
+      "heading": "HRTO Remedies — Section 45.2",
+      "page": "N/A",
+      "rule_or_statute_reference": "Human Rights Code, R.S.O. 1990, c. H.19, s. 45.2"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "HRTO remedies",
+      "s. 45.2",
+      "injury to dignity",
+      "lost wages",
+      "do or refrain"
+    ],
+    "tested_concepts": [
+      "HRTO s. 45.2 remedial powers",
+      "monetary compensation lost wages and injury to dignity",
+      "orders to do or refrain from doing"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-08-hr-s46-001",
+    "subject": "public_law",
+    "chapter_number": 8,
+    "chapter_title": "Human Rights",
+    "topic_id": "human_rights_code",
+    "topic_heading": "Human Rights Code — Settlement at HRTO",
+    "subtopic_id": "hr_settlement",
+    "subtopic_heading": "Code Section 46 — Settlement Agreement Enforcement",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Following mediation at the HRTO, a complainant and respondent reach a written settlement agreement. The respondent agrees to pay the complainant $25,000 and to implement a workplace anti-harassment training program within 90 days. The HRTO approves the settlement. Four months later, the respondent has paid the money but has not implemented the training program. The complainant asks the HRTO to enforce the settlement.",
+    "call_of_question": "Under the Human Rights Code, how may a party enforce a settlement reached at the HRTO that the other party has partially breached?",
+    "options": {
+      "A": "The complainant must commence a new application at the HRTO re-alleging the original discrimination; the settlement agreement cannot itself be enforced at the HRTO.",
+      "B": "The complainant must bring an action in the Superior Court of Justice to enforce the settlement agreement as a contract.",
+      "C": "Under s. 45 of the Code, a settlement agreement may be filed with the HRTO, which then becomes an order of the Tribunal; an order of the HRTO is enforceable in the same manner as an order of the Superior Court of Justice, allowing enforcement through the court's contempt or enforcement mechanisms.",
+      "D": "A settlement reached at the HRTO is not legally binding; either party may unilaterally resile from the agreement at any time."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Human Rights Code, R.S.O. 1990, c. H.19, s. 45, the Tribunal may make an order giving effect to a settlement. Once filed and made into a Tribunal order, the order has the same force and effect as a Tribunal order made after a hearing and may be filed in the Superior Court of Justice for enforcement purposes. This mechanism allows the aggrieved party to enforce a breached settlement through the court's enforcement machinery (including writs of execution and contempt proceedings) without having to re-litigate the underlying human rights complaint.",
+    "why_A_wrong": "Incorrect. The complainant is not required to re-file a new application alleging original discrimination; the settlement itself, once made into an order of the HRTO, can be directly enforced.",
+    "why_B_wrong": "Incorrect. While a breach of a settlement agreement might theoretically support a contract claim, the Code provides a specific enforcement mechanism through the HRTO's order-making power; this is the more appropriate and direct remedy.",
+    "why_C_wrong": "This IS the correct answer. Under s. 45 of the Code, a settlement agreement may be filed with the HRTO, which then becomes an order of the Tribunal; an order of the HRTO is enforceable in the same manner as an order of the Superior Court of Justice, allowing enforcement through the court's contempt or enforcement mechanisms.",
+    "why_D_wrong": "Incorrect. HRTO-approved settlements are legally binding; once the HRTO approves the settlement and makes it an order, neither party can unilaterally resile from the agreement.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 8 — Human Rights",
+      "heading": "Code Section 46 — Settlement Agreement Enforcement",
+      "page": "N/A",
+      "rule_or_statute_reference": "Human Rights Code, R.S.O. 1990, c. H.19, s. 45 (settlement), s. 45.2 (remedies)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "settlement enforcement",
+      "HRTO order",
+      "s. 45",
+      "Superior Court enforcement",
+      "filed as order"
+    ],
+    "tested_concepts": [
+      "HRTO settlement made into order s. 45",
+      "enforcement as Superior Court order",
+      "settlement binding once approved"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

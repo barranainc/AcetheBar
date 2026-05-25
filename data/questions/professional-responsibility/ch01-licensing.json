@@ -1,0 +1,223 @@
+[
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-01-lic-001",
+    "chapter_number": 1,
+    "chapter_title": "Licensing and Regulation of the Legal Profession",
+    "topic_id": "lso_licensing",
+    "topic_heading": "LSO Licensing Process",
+    "subtopic_id": "licensing_process",
+    "subtopic_heading": "Articling, LPP, and Good Character Requirement",
+    "difficulty": "easy",
+    "fact_pattern": "Candidate Devika has completed law school and is applying for a licence to practise law in Ontario as a barrister and solicitor. She completed the Law Practice Program (LPP) as an alternative to articling. She has a prior criminal record for mischief that was resolved with a conditional discharge five years ago. She is uncertain whether the prior record will affect her application.",
+    "call_of_question": "Which of the following most accurately describes the LSO's good character requirement for licensing as a barrister and solicitor in Ontario?",
+    "options": {
+      "A": "Any prior criminal record automatically disqualifies a candidate from receiving a law licence in Ontario.",
+      "B": "Good character is assessed at the time of licensing; the LSO considers whether the candidate is of good character and repute, taking into account all relevant circumstances including the nature of the conduct, time elapsed, and evidence of rehabilitation; a prior conditional discharge for mischief does not automatically bar licensing.",
+      "C": "The good character requirement only applies to applicants who completed articling, not those who completed the Law Practice Program.",
+      "D": "Good character is presumed if the candidate has completed the LPP and no complaints have been filed against the candidate during the program."
+    },
+    "correct_answer": "B",
+    "explanation": "Under By-Law 4 and the Law Society Act, R.S.O. 1990, c. L.8, all applicants for a licence must satisfy the LSO that they are of good character and repute. The assessment is holistic and considers the nature of past conduct, time elapsed, evidence of rehabilitation, and the circumstances surrounding the event. A prior conditional discharge does not automatically disqualify an applicant — the LSO must assess all the circumstances. Both LPP and articling completers are equally subject to the good character requirement.",
+    "why_A_wrong": "Incorrect. A prior criminal record does not automatically disqualify a candidate. The good character assessment is holistic and considers all relevant circumstances, including time elapsed and rehabilitation.",
+    "why_B_wrong": "This IS the correct answer. Good character is assessed at the time of licensing; the LSO considers whether the candidate is of good character and repute, taking into account all relevant circumstances including the nature of the conduct, time elapsed, and evidence of rehabilitation; a prior conditional discharge for mischief does not automatically bar licensing.",
+    "why_C_wrong": "Incorrect. The good character requirement applies equally to all licensing applicants regardless of whether they completed articling or the LPP.",
+    "why_D_wrong": "Incorrect. Good character is not presumed from completion of the LPP. The LSO conducts an independent assessment of the applicant's character.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 1",
+      "heading": "Licensing and Regulation of the Legal Profession",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8; LSO By-Law 4 (Licensing)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "licensing — good character requirement"
+    },
+    "exam_trigger_words": [
+      "good character",
+      "licensing",
+      "Law Practice Program",
+      "articling",
+      "prior criminal record"
+    ],
+    "tested_concepts": [
+      "By-Law 4 — licensing good character requirement",
+      "holistic character assessment",
+      "LPP and articling both subject to same licensing standards"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-01-lic-002",
+    "chapter_number": 1,
+    "chapter_title": "Licensing and Regulation of the Legal Profession",
+    "topic_id": "lso_regulation",
+    "topic_heading": "LSO Complaints and Discipline Process",
+    "subtopic_id": "complaints_discipline",
+    "subtopic_heading": "LSO Complaints Process and Tribunal Penalties",
+    "difficulty": "medium",
+    "fact_pattern": "A client files a complaint with the Law Society of Ontario alleging that her lawyer, Emilio, mishandled her estate matter and failed to communicate with her for six months. After investigation, the Law Society proceeds with a discipline hearing before the Law Society Tribunal. The Tribunal finds that Emilio committed professional misconduct.",
+    "call_of_question": "Which of the following is NOT a penalty available to the Law Society Tribunal upon a finding of professional misconduct against Emilio?",
+    "options": {
+      "A": "Reprimand.",
+      "B": "Suspension of Emilio's licence for a specified period.",
+      "C": "Revocation of Emilio's licence to practise law.",
+      "D": "Imprisonment of Emilio for a term not exceeding two years."
+    },
+    "correct_answer": "D",
+    "explanation": "The Law Society Tribunal is an administrative tribunal that exercises regulatory powers over licensees under the Law Society Act, R.S.O. 1990, c. L.8. Its penalties upon a finding of professional misconduct include reprimand, suspension (including an order of suspension with conditions), and revocation of the licence. The Tribunal does not have the power to impose criminal penalties such as imprisonment — that is the domain of the criminal courts. Imprisonment is not a regulatory penalty available under the Law Society Act.",
+    "why_A_wrong": "Incorrect. A reprimand is one of the available penalties under the Law Society Act for professional misconduct and is commonly imposed for less serious findings.",
+    "why_B_wrong": "Incorrect. Suspension of a licence for a specified period is a standard penalty available to the Law Society Tribunal upon a finding of professional misconduct.",
+    "why_C_wrong": "Incorrect. Revocation is the most serious penalty available to the Law Society Tribunal and is used in cases of serious misconduct. It terminates the lawyer's right to practise.",
+    "why_D_wrong": "This IS the correct answer. Imprisonment of Emilio for a term not exceeding two years is NOT available to the Law Society Tribunal. The Tribunal is an administrative regulatory body; criminal penalties such as imprisonment can only be imposed by criminal courts under the Criminal Code.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 1",
+      "heading": "Licensing and Regulation of the Legal Profession",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8, ss. 34-49 (discipline)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "LSO discipline — available penalties"
+    },
+    "exam_trigger_words": [
+      "Law Society Tribunal",
+      "professional misconduct",
+      "penalty",
+      "reprimand",
+      "revocation",
+      "suspension"
+    ],
+    "tested_concepts": [
+      "Law Society Act — Tribunal penalties",
+      "reprimand, suspension, revocation as available penalties",
+      "Tribunal is administrative body — no criminal sentencing power"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-01-lic-003",
+    "chapter_number": 1,
+    "chapter_title": "Licensing and Regulation of the Legal Profession",
+    "topic_id": "lso_regulation",
+    "topic_heading": "Unauthorized Practice of Law",
+    "subtopic_id": "unauthorized_practice",
+    "subtopic_heading": "Unauthorized Practice of Law — Law Society Act Offence",
+    "difficulty": "hard",
+    "fact_pattern": "Felix runs a document preparation business. He prepares immigration applications, fills in standard forms, and advises clients on which forms to file and what supporting documents to submit. Felix is not a licensed lawyer or paralegal. He charges a fee for his services and describes himself as an 'immigration consultant.' He has not applied for any exemption under the Law Society Act.",
+    "call_of_question": "Which of the following most accurately describes Felix's legal exposure under the Law Society Act, R.S.O. 1990, c. L.8?",
+    "options": {
+      "A": "Felix's activities are permitted because immigration consulting is a recognized profession separate from the practice of law.",
+      "B": "Felix may provide these services because he is preparing documents, not appearing in court or before a tribunal.",
+      "C": "Felix is engaging in the unauthorized practice of law or provision of legal services contrary to the Law Society Act; advising on which forms to file and what submissions to make in immigration proceedings constitutes the practice of law, which only a licensed lawyer or paralegal may perform; Felix may be prosecuted and enjoined.",
+      "D": "Felix's activities are lawful as long as he does not identify himself as a lawyer or paralegal."
+    },
+    "correct_answer": "C",
+    "explanation": "The Law Society Act, R.S.O. 1990, c. L.8 regulates who may provide legal services in Ontario. Advising clients on immigration law, determining which forms to file, and advising on what submissions to make in an immigration proceeding constitutes the provision of legal services and the practice of law. Only licensed lawyers and licensed paralegals may provide these services. Felix, as an unlicensed individual, is engaging in unauthorized practice and is exposed to prosecution under the Law Society Act, as well as an injunction from the courts. Merely avoiding the title 'lawyer' does not make the conduct lawful.",
+    "why_A_wrong": "Incorrect. Immigration consulting is not a separately recognized profession that confers authority to provide legal services in Ontario. To provide legal advice on immigration matters, one must be licensed by the LSO.",
+    "why_B_wrong": "Incorrect. The practice of law and provision of legal services is not limited to court appearances. Advising clients on legal matters and preparing legal applications constitutes the provision of legal services.",
+    "why_C_wrong": "This IS the correct answer. Felix is engaging in the unauthorized practice of law or provision of legal services contrary to the Law Society Act; advising on which forms to file and what submissions to make in immigration proceedings constitutes the practice of law, which only a licensed lawyer or paralegal may perform; Felix may be prosecuted and enjoined.",
+    "why_D_wrong": "Incorrect. The prohibition is on providing legal services without a licence, not merely on using the title 'lawyer.' Conducting legal work without a licence is unlawful regardless of the title used.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 1",
+      "heading": "Licensing and Regulation of the Legal Profession",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8, s. 26.1 (unauthorized practice)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "unauthorized practice of law"
+    },
+    "exam_trigger_words": [
+      "unauthorized practice",
+      "unlicensed",
+      "immigration consultant",
+      "Law Society Act",
+      "provision of legal services"
+    ],
+    "tested_concepts": [
+      "Law Society Act — unauthorized practice prohibition",
+      "provision of legal services requires LSO licence",
+      "avoiding the title 'lawyer' does not legalize unauthorized practice"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-01-lic-004",
+    "chapter_number": 1,
+    "chapter_title": "Licensing and Regulation of the Legal Profession",
+    "topic_id": "lso_licensing",
+    "topic_heading": "Annual Obligations — Fees and Continuing Professional Development",
+    "subtopic_id": "annual_obligations",
+    "subtopic_heading": "Annual Report, Fees, and CPD Requirements",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Greta has been in practice for twelve years. She takes a year-long leave of absence and fails to file her annual report or pay her annual LSO membership fee by the deadline. She also fails to complete the minimum number of continuing professional development (CPD) hours required by the Law Society. Greta intends to return to practice after her leave. She believes these obligations are suspended during a leave of absence.",
+    "call_of_question": "Is Greta correct that her annual fee, annual report, and CPD obligations are automatically suspended during a leave of absence?",
+    "options": {
+      "A": "Yes — LSO obligations are suspended automatically whenever a lawyer takes a formal leave of absence from practice.",
+      "B": "Yes — CPD requirements are suspended for lawyers who take a leave of absence for health or personal reasons, and fees are reduced proportionally.",
+      "C": "No — unless Greta takes the formal step of applying for and obtaining non-practising status with the LSO, her obligations to pay annual fees, file an annual report, and meet CPD requirements continue; failure to comply may result in administrative suspension of her licence.",
+      "D": "No — but Greta's CPD requirements are automatically waived for the year in which she takes a leave; fee and annual report obligations still apply."
+    },
+    "correct_answer": "C",
+    "explanation": "Annual membership fees, the annual report obligation, and CPD requirements are not automatically suspended by a lawyer taking a personal leave of absence from practice. A lawyer who does not intend to practise may apply for non-practising status, which reduces certain obligations. Without formally obtaining non-practising status, Greta remains subject to all obligations as a practising licensee. Failure to pay fees or comply with CPD can lead to administrative suspension of the licence under the Law Society Act.",
+    "why_A_wrong": "Incorrect. A leave of absence from a firm or employer does not automatically suspend LSO licensing obligations. The lawyer must take affirmative steps to obtain non-practising status.",
+    "why_B_wrong": "Incorrect. CPD requirements and fees are not automatically reduced or waived for informal leaves of absence. Formal non-practising status must be obtained.",
+    "why_C_wrong": "This IS the correct answer. No — unless Greta takes the formal step of applying for and obtaining non-practising status with the LSO, her obligations to pay annual fees, file an annual report, and meet CPD requirements continue; failure to comply may result in administrative suspension of her licence.",
+    "why_D_wrong": "Incorrect. CPD requirements are not automatically waived for informal leaves of absence. All obligations continue unless the lawyer obtains non-practising status.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 1",
+      "heading": "Licensing and Regulation of the Legal Profession",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8; LSO Continuing Professional Development requirements; LSO By-Law 4"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "annual CPD and fee obligations"
+    },
+    "exam_trigger_words": [
+      "CPD",
+      "annual report",
+      "membership fee",
+      "leave of absence",
+      "non-practising status"
+    ],
+    "tested_concepts": [
+      "LSO annual fee and CPD obligations",
+      "non-practising status must be formally obtained",
+      "obligations not automatically suspended by leave of absence"
+    ],
+    "estimated_time_seconds": 90
+  }
+]

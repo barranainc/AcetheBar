@@ -1,0 +1,288 @@
+[
+  {
+    "id": "crim-10-ycja-def-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "young_person_definition",
+    "subtopic_heading": "YCJA — Who is a Young Person",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 17-year-old is arrested and charged with theft over $5,000. The question arises whether the Youth Criminal Justice Act applies to this accused.",
+    "call_of_question": "Under s. 2(1) of the Youth Criminal Justice Act, who qualifies as a 'young person' subject to the Act?",
+    "options": {
+      "A": "A person who is 12 years of age or older but under 16 years of age at the time the alleged offence was committed.",
+      "B": "A person who is 12 years of age or older but under 18 years of age at the time the alleged offence was committed.",
+      "C": "A person who is 14 years of age or older but under 18 years of age at the time the alleged offence was committed.",
+      "D": "A person who is under 18 years of age at the time of sentencing, regardless of age at the time of the offence."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 2(1) of the Youth Criminal Justice Act, S.C. 2002, c. 1 defines 'young person' as a person who is or was, while being proceeded against under the Act, twelve years of age or older but under eighteen years of age. The Act applies based on age at the time the alleged offence was committed, not at the time of trial or sentencing. The minimum age of criminal responsibility in Canada is 12 years — a child under 12 cannot be charged with a criminal offence. A 17-year-old at the time of the offence is a 'young person' within the YCJA.",
+    "why_A_wrong": "The YCJA applies to persons 12 to under 18, not 12 to under 16. There is no upper age limit of 16 in the YCJA definition.",
+    "why_B_wrong": "This IS the correct answer. Under s. 2(1) of the YCJA, a young person is 12 years of age or older but under 18 years of age at the time the alleged offence was committed.",
+    "why_C_wrong": "The minimum age under the YCJA is 12, not 14. A 12- or 13-year-old can be charged under the YCJA. The age range is 12 to under 18.",
+    "why_D_wrong": "The relevant age is the age at the time the alleged offence was committed, not at the time of sentencing. If a person commits an offence while 17 but is sentenced at age 19, the YCJA still governs the proceedings (though adult sentences may be imposed in certain circumstances).",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Definition of Young Person — YCJA s. 2(1)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 2(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "young person",
+      "YCJA",
+      "12 years of age",
+      "under 18",
+      "definition",
+      "youth criminal justice"
+    ],
+    "tested_concepts": [
+      "YCJA definition of young person",
+      "age 12 minimum",
+      "under 18 upper limit",
+      "age at time of offence"
+    ],
+    "estimated_time_seconds": 60,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-10-ycja-ejm-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "extrajudicial_measures",
+    "subtopic_heading": "Extra-Judicial Measures — YCJA s. 4-12",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 14-year-old is caught shoplifting for the first time. The value of the stolen goods was $30. The investigating police officer is considering how to handle the matter without a formal charge.",
+    "call_of_question": "Under the YCJA, which of the following best describes the framework for extra-judicial measures that a police officer may use in this situation?",
+    "options": {
+      "A": "A police officer has no authority to deal with a young person without laying a formal charge; all youth matters must proceed to court.",
+      "B": "Extra-judicial measures are available only if the young person has no prior criminal record.",
+      "C": "Extra-judicial measures — such as warnings, cautions, and referrals to programs — are available and are preferred over charges for first-time and minor offenders; a charge should be a last resort.",
+      "D": "Extra-judicial measures require the consent of the victim before they can be used."
+    },
+    "correct_answer": "C",
+    "explanation": "Sections 4-12 of the YCJA establish a robust framework of extra-judicial measures (EJMs) as the preferred response for young persons, particularly first-time and minor offenders. Section 4 states that extra-judicial measures are often the most appropriate and effective way to address young persons' offending behaviour without formal court proceedings. EJMs include police warnings, police cautions, Crown cautions, referrals to community programs, and extrajudicial sanctions (EJS) for more serious cases. Section 6 emphasizes that police should first consider whether an EJM is sufficient. The YCJA philosophy is that a charge should be a last resort, reserved for cases where EJMs are inadequate.",
+    "why_A_wrong": "Police have broad authority to use EJMs without laying a formal charge. The YCJA expressly directs police to consider EJMs first (s. 6). A formal charge is a last resort, not the default.",
+    "why_B_wrong": "EJMs are available even if the young person has a prior record, though a prior record may affect the appropriate type of EJM. The YCJA does not restrict EJMs to first-time offenders, though first-time status makes EJMs particularly appropriate.",
+    "why_C_wrong": "This IS the correct answer. Sections 4-12 of the YCJA establish EJMs as the preferred response for young persons, particularly first-time and minor offenders, with formal charges as a last resort.",
+    "why_D_wrong": "Victim consent is not a general prerequisite for EJMs. Some EJMs (particularly extrajudicial sanctions involving victim-offender conferencing) may involve victim participation, but victim consent is not required for police warnings, cautions, or referrals.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Extra-Judicial Measures — YCJA s. 4-12",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 4-12"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "extra-judicial measures",
+      "EJM",
+      "YCJA",
+      "police warning",
+      "caution",
+      "referral",
+      "last resort",
+      "first-time offender"
+    ],
+    "tested_concepts": [
+      "YCJA EJM framework",
+      "police discretion to use EJMs",
+      "charge as last resort principle",
+      "types of EJMs",
+      "YCJA rehabilitative philosophy"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-10-ycja-stmt-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "youth_statement",
+    "subtopic_heading": "Statement of a Young Person — YCJA s. 146",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 15-year-old suspect is taken to the police station for questioning regarding an armed robbery. Before questioning begins, police explain the caution and the right to retain and instruct counsel. The youth says he understands but declines a lawyer. He then makes an inculpatory statement.",
+    "call_of_question": "Under s. 146 of the YCJA, what additional step was required before police could take this young person's statement?",
+    "options": {
+      "A": "Police must have a parent or adult relative present during questioning, and if no parent is available, a responsible adult must be contacted.",
+      "B": "No additional steps were required beyond the standard police caution and s. 10(b) Charter right to counsel.",
+      "C": "Police must have obtained written consent from a parent or guardian before questioning a young person.",
+      "D": "Police must advise the young person of the right to have a parent or other adult person present during questioning, and give the young person a reasonable opportunity to consult with that person."
+    },
+    "correct_answer": "D",
+    "explanation": "Section 146(2) of the YCJA establishes specific requirements for a young person's statement to be admissible. Before the statement is made, the person who took the statement must have clearly explained to the young person, in language appropriate to their age and understanding: (a) the nature of the offence and the circumstances giving rise to it, (b) the right to retain and instruct counsel, (c) the right to have a parent or other appropriate person present, and (d) that the statement may be used as evidence. Section 146(2)(b) requires that the young person be given a reasonable opportunity to consult with counsel AND with a parent or other appropriate adult before making the statement. The failure to advise of and provide this opportunity is a basis to exclude the statement.",
+    "why_A_wrong": "Section 146 does not require that a parent or adult actually be present during questioning. It requires that the young person be advised of the right to have such a person present and given a reasonable opportunity to consult. If the young person waives this right, the statement may still be admissible.",
+    "why_B_wrong": "Additional steps beyond the standard caution and Charter right to counsel are required under s. 146 YCJA. The Act provides enhanced protections for young persons, including advisement of the right to have a parent or other adult present and the opportunity to consult with them.",
+    "why_C_wrong": "Written consent from a parent or guardian is not required as a condition for taking a young person's statement under s.146. The requirement is advisement and reasonable opportunity to consult — the young person may waive parental presence. Written parental consent is not the statutory requirement.",
+    "why_D_wrong": "This IS the correct answer. Section 146(2) requires police to advise the young person of the right to have a parent or other adult person present and to give the young person a reasonable opportunity to consult with that person before the statement is made.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Statement of Young Person — YCJA s. 146",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 146(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 146 YCJA",
+      "young person statement",
+      "right to parent present",
+      "reasonable opportunity to consult",
+      "youth statement admissibility"
+    ],
+    "tested_concepts": [
+      "s. 146(2) YCJA requirements for youth statements",
+      "right to have parent/adult present",
+      "reasonable opportunity to consult",
+      "youth-specific protections beyond standard Charter caution"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-10-ycja-sent-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "youth_sentence",
+    "subtopic_heading": "Youth Sentences — YCJA s. 42",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 16-year-old is convicted of robbery under the YCJA. The sentencing judge is deciding among available youth sentences. Crown counsel submits that the appropriate sanction is a custodial youth sentence.",
+    "call_of_question": "Under s. 39(1) of the YCJA, which of the following is the threshold requirement before a youth court may impose a custodial sentence?",
+    "options": {
+      "A": "The young person must have a prior record of at least one previous youth sentence.",
+      "B": "The offence must be a designated violent offence as listed in the schedule to the YCJA.",
+      "C": "The court must be satisfied that the offence is serious enough, the young person has a history that indicates a pattern of offending, or the exceptional circumstances of the case warrant custody; non-custodial sentences must have been considered inadequate.",
+      "D": "The court requires the written consent of the youth's parents before imposing custody."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 39(1) of the YCJA restricts custodial sentences for young persons. A youth court shall not commit a young person to custody unless one of the following conditions is met: (a) the young person has committed a violent offence; (b) the young person has failed to comply with non-custodial sentences; (c) the young person has committed an indictable offence for which an adult would be liable to imprisonment for more than two years and has a history indicating a pattern of extrajudicial sanctions or non-custodial sentences; or (d) in exceptional cases where the young person has committed an indictable offence and the aggravating circumstances of the offence justify custody. Non-custodial sentences must have been considered and found inadequate before custody may be ordered (s.39(2)).",
+    "why_A_wrong": "A prior record is not required before custodial sentences can be imposed. A young person with no prior record who commits a violent offence may receive custody under s.39(1)(a). Conversely, a prior record alone does not automatically lead to custody.",
+    "why_B_wrong": "There is no 'scheduled' list of designated violent offences as a threshold for YCJA custody. The violence requirement is whether the offence is a 'violent offence' as defined in s.2 YCJA (causing, attempting to cause, or threatening to cause bodily harm), not a formal schedule.",
+    "why_C_wrong": "This IS the correct answer. Section 39(1) provides the threshold conditions for custodial youth sentences, and s.39(2) requires the court to consider non-custodial sentences as inadequate before imposing custody.",
+    "why_D_wrong": "Parental consent is not required before a youth court may impose a custodial sentence. The YCJA governs the young person's sentence; parents participate in proceedings (with notification rights) but do not have a veto over sentencing outcomes.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Youth Custodial Sentence Threshold — YCJA s. 39",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 39(1), s. 39(2), s. 42"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "youth custodial sentence",
+      "s. 39 YCJA",
+      "threshold for custody",
+      "violent offence",
+      "non-custodial sentences inadequate"
+    ],
+    "tested_concepts": [
+      "s. 39(1) threshold for youth custody",
+      "non-custodial sentence must be considered inadequate",
+      "violent offence as custody gateway",
+      "YCJA custody restrictions"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-10-ycja-adult-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "adult_sentence",
+    "subtopic_heading": "Adult Sentence Application — YCJA s. 64",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 17-year-old is charged with first degree murder. The Crown applies for an adult sentence under the YCJA, arguing the youth sentence would not be sufficient to hold the accused accountable.",
+    "call_of_question": "Under the YCJA, which party bears the burden of proof on an adult sentence application, and what is the test the court applies?",
+    "options": {
+      "A": "The Crown bears the burden of proving that a youth sentence would not be adequate to hold the young person accountable, on a balance of probabilities.",
+      "B": "The young person bears the burden of proving that a youth sentence is adequate, on a balance of probabilities.",
+      "C": "The burden shifts to the young person once the Crown establishes a prima facie case for adult sentencing.",
+      "D": "There is no burden of proof — the court makes the determination based on the pre-sentence report."
+    },
+    "correct_answer": "A",
+    "explanation": "Under s. 72(1) of the YCJA (as amended), the youth justice court shall order that an adult sentence be imposed if it is satisfied that: (a) the presumption of diminished moral blameworthiness or culpability is rebutted; and (b) a youth sentence imposed under s.42 would not be of sufficient length to hold the young person accountable for their offending behaviour. The burden of proof on an adult sentence application falls on the Crown, who must prove, on a balance of probabilities, that a youth sentence would be inadequate. This reflects the YCJA's presumption that youth sentences are generally appropriate and that adult sentences are the exception.",
+    "why_A_wrong": "This IS the correct answer. Under s. 72(1) YCJA, the Crown bears the burden of proving, on a balance of probabilities, that a youth sentence would be inadequate to hold the young person accountable.",
+    "why_B_wrong": "The burden is not on the young person to prove that a youth sentence is adequate. The YCJA presumes youth sentences are appropriate; the Crown must rebut this by proving adult sentencing is warranted.",
+    "why_C_wrong": "There is no shifting burden mechanism in the YCJA adult sentencing framework. The Crown bears the burden throughout the application. There is no prima facie standard that triggers a shift.",
+    "why_D_wrong": "The court does not operate without a burden of proof at an adult sentencing application. The determination is made on evidence and submissions, with the Crown bearing the balance of probabilities burden. The PSR informs the analysis but does not replace the burden of proof framework.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Adult Sentence Application — YCJA s. 64, s. 72",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 64, s. 72(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "adult sentence",
+      "YCJA s. 64",
+      "Crown burden",
+      "balance of probabilities",
+      "youth sentence inadequate",
+      "adult sentencing application"
+    ],
+    "tested_concepts": [
+      "adult sentence burden on Crown",
+      "balance of probabilities standard",
+      "s. 72(1) test — youth sentence inadequacy",
+      "YCJA presumption of youth sentence appropriateness"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

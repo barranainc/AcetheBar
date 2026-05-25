@@ -1,0 +1,166 @@
+[
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-10-und-001",
+    "chapter_number": 10,
+    "chapter_title": "Undertakings",
+    "topic_id": "undertakings",
+    "topic_heading": "Undertakings — Rule 7.2-11",
+    "subtopic_id": "personal_obligation",
+    "subtopic_heading": "Undertaking as Personal Obligation of the Lawyer",
+    "difficulty": "easy",
+    "fact_pattern": "In a real estate transaction, Lawyer Claude gives a written undertaking to the purchaser's lender that the mortgage funds will be used to discharge all existing encumbrances on the property. After closing, Claude's client (the vendor) refuses to authorize the discharge of one of the encumbrances, leaving it on title. Claude argues to the lender that he cannot fulfill the undertaking because his client refused to cooperate.",
+    "call_of_question": "Is Claude's argument that he cannot perform the undertaking because his client refused to cooperate a valid defence to his obligation?",
+    "options": {
+      "A": "Yes — a lawyer's undertaking is only as binding as the client's instructions; if the client refuses to cooperate, the lawyer is released from the undertaking.",
+      "B": "No — a lawyer's undertaking is the personal obligation of the lawyer giving it, not the client's obligation; Claude is bound to fulfill the undertaking regardless of whether his client cooperates.",
+      "C": "Yes — the undertaking is void because it was conditional on the client's cooperation, which is an implied term.",
+      "D": "No — but Claude is only obligated to make best efforts to perform; if the client refuses, best efforts satisfy the undertaking."
+    },
+    "correct_answer": "B",
+    "explanation": "A lawyer's undertaking is a solemn personal commitment of the lawyer — it is not the client's promise. When a lawyer gives an undertaking, they are personally bound to fulfill it regardless of whether the client cooperates. The LSO's Commentary on undertakings and Rule 7.2-11 make clear that a lawyer must only give an undertaking they are personally able to honor. If fulfillment depends on client cooperation that cannot be guaranteed, the lawyer should not give the undertaking in the first place. Claude's failure to fulfill the undertaking is a breach of a personal professional obligation.",
+    "why_A_wrong": "Incorrect. An undertaking is not the client's promise — it is the lawyer's personal commitment. The lawyer cannot be released from an undertaking simply because the client refuses to cooperate.",
+    "why_B_wrong": "This IS the correct answer. No — a lawyer's undertaking is the personal obligation of the lawyer giving it, not the client's obligation; Claude is bound to fulfill the undertaking regardless of whether his client cooperates.",
+    "why_C_wrong": "Incorrect. Client cooperation is not an implied condition of a lawyer's undertaking. If the lawyer cannot guarantee performance independently of client cooperation, the undertaking should not be given.",
+    "why_D_wrong": "Incorrect. An undertaking is not a best-efforts obligation unless expressly stated. A clear undertaking to discharge encumbrances is an absolute commitment — best efforts do not satisfy it.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 10",
+      "heading": "Undertakings",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-11"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "undertaking — personal obligation of lawyer"
+    },
+    "exam_trigger_words": [
+      "undertaking",
+      "personal obligation",
+      "client refused",
+      "Rule 7.2-11"
+    ],
+    "tested_concepts": [
+      "Rule 7.2-11 — undertaking is lawyer's personal obligation",
+      "client non-cooperation does not excuse non-performance",
+      "lawyer should not give undertaking unless able to honor"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-10-und-002",
+    "chapter_number": 10,
+    "chapter_title": "Undertakings",
+    "topic_id": "undertakings",
+    "topic_heading": "Undertakings — Rule 7.2-11",
+    "subtopic_id": "giving_undertakings",
+    "subtopic_heading": "Requirements for Giving Undertakings — Client vs. Solicitor Undertaking",
+    "difficulty": "hard",
+    "fact_pattern": "In a commercial transaction, opposing counsel asks Lawyer Dmitri to provide a solicitor's undertaking that his client will deliver a specific document within five business days of closing. Dmitri knows that producing the document depends on his client obtaining information from a third party over whom the client has no control. Dmitri's client tells him to give the undertaking anyway.",
+    "call_of_question": "What should Dmitri do in accordance with Rule 7.2-11?",
+    "options": {
+      "A": "Dmitri should give the undertaking because his client has authorized it; client authorization is the only requirement.",
+      "B": "Dmitri should give the undertaking and include a note that performance depends on a third party, which converts it from an absolute undertaking to a conditional undertaking.",
+      "C": "Dmitri must not give the undertaking because he cannot personally guarantee performance; Rule 7.2-11 requires that a lawyer only give an undertaking they are personally able to honour; the appropriate mechanism is a client undertaking or covenant in the agreement, not a solicitor's undertaking.",
+      "D": "Dmitri may give the undertaking and then seek to negotiate an extension once closing occurs if the document is not delivered in time."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 7.2-11 requires a lawyer to give only those undertakings the lawyer is personally able to honor. Since delivery of the document depends on a third party over whom Dmitri's client has no control, Dmitri cannot personally guarantee performance. Giving the undertaking would expose Dmitri to professional misconduct liability if performance fails. The correct approach is to decline to give a solicitor's undertaking and instead have the client give a contractual covenant in the transaction documents, or make delivery conditional on the third party's cooperation with appropriate language.",
+    "why_A_wrong": "Incorrect. Client authorization is not sufficient grounds to give an undertaking. Rule 7.2-11 requires that the lawyer be personally able to honor the undertaking, regardless of client instructions.",
+    "why_B_wrong": "Incorrect. Adding a note about third-party dependence may help clarify the obligation, but if the performance is truly beyond Dmitri's personal control, he should not give a solicitor's undertaking at all. The appropriate mechanism is a client covenant, not a conditional solicitor's undertaking.",
+    "why_C_wrong": "This IS the correct answer. Dmitri must not give the undertaking because he cannot personally guarantee performance; Rule 7.2-11 requires that a lawyer only give an undertaking they are personally able to honour; the appropriate mechanism is a client undertaking or covenant in the agreement, not a solicitor's undertaking.",
+    "why_D_wrong": "Incorrect. Giving an undertaking with a plan to seek an extension later is not an acceptable approach. An undertaking must be performable at the time it is given — it is not appropriate to give an undertaking the lawyer expects may not be fulfilled.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 10",
+      "heading": "Undertakings",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-11"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "giving undertakings — personally able to honour"
+    },
+    "exam_trigger_words": [
+      "solicitor's undertaking",
+      "personally able to honour",
+      "third party",
+      "Rule 7.2-11",
+      "client covenant"
+    ],
+    "tested_concepts": [
+      "Rule 7.2-11 — lawyer must only give undertaking they can personally honour",
+      "client undertaking vs. solicitor's undertaking",
+      "cannot give undertaking dependent on uncontrolled third party"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-10-und-003",
+    "chapter_number": 10,
+    "chapter_title": "Undertakings",
+    "topic_id": "undertakings",
+    "topic_heading": "Undertakings — Rule 7.2-11",
+    "subtopic_id": "breach_undertaking",
+    "subtopic_heading": "Breach of Undertaking — Professional Misconduct and Compensation",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Elise gave a written undertaking to opposing counsel that she would deliver signed transfer documents by a specified date. Elise forgot about the undertaking. The deadline passed without delivery, causing the opposing party to incur additional legal costs and a delay fee from the lender. Elise argues that the breach was inadvertent and therefore does not constitute professional misconduct.",
+    "call_of_question": "Is Elise's argument that inadvertent breach of an undertaking is not professional misconduct correct?",
+    "options": {
+      "A": "Yes — professional misconduct for breach of undertaking requires deliberate refusal to perform; inadvertent failure is merely a civil matter.",
+      "B": "Yes — because the undertaking was not fulfilled due to oversight rather than bad faith, no professional responsibility consequence arises.",
+      "C": "No — a lawyer who breaches an undertaking is generally subject to professional misconduct regardless of whether the breach was deliberate or inadvertent; a lawyer is required to fulfil their undertakings and must have adequate systems to ensure compliance; inadvertence is a mitigating factor, not a complete defence.",
+      "D": "No — but liability for breach of an undertaking only extends to the additional legal costs incurred by opposing counsel, not to other consequential losses."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Rules of Professional Conduct and well-established LSO disciplinary jurisprudence, failure to honor an undertaking constitutes professional misconduct regardless of whether the failure was deliberate or inadvertent. A lawyer is required to put in place adequate systems to track and honor undertakings. Inadvertence may be a mitigating factor in assessing the appropriate penalty, but it is not a complete defence to professional misconduct. Elise's argument is incorrect — she is professionally responsible for the breach and must take steps to remedy the consequences.",
+    "why_A_wrong": "Incorrect. Professional misconduct for breach of undertaking does not require deliberate refusal. Inadvertent breach is also a breach, and adequate systems to track undertakings are required.",
+    "why_B_wrong": "Incorrect. Oversight or inadvertence does not shield a lawyer from professional misconduct for breach of undertaking. It may be a mitigating factor but not a complete defence.",
+    "why_C_wrong": "This IS the correct answer. No — a lawyer who breaches an undertaking is generally subject to professional misconduct regardless of whether the breach was deliberate or inadvertent; a lawyer is required to fulfil their undertakings and must have adequate systems to ensure compliance; inadvertence is a mitigating factor, not a complete defence.",
+    "why_D_wrong": "Incorrect. The scope of the lawyer's liability for consequences of a breach of undertaking is not limited to opposing counsel's legal costs — it may extend to all foreseeable consequences of the breach, and the professional misconduct exposure is separate from civil liability.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 10",
+      "heading": "Undertakings",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-11"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "breach of undertaking — professional misconduct"
+    },
+    "exam_trigger_words": [
+      "breach of undertaking",
+      "inadvertent",
+      "professional misconduct",
+      "systems",
+      "Rule 7.2-11"
+    ],
+    "tested_concepts": [
+      "Rule 7.2-11 — breach of undertaking is professional misconduct",
+      "inadvertence is mitigating factor not complete defence",
+      "lawyer must have systems to track undertakings"
+    ],
+    "estimated_time_seconds": 150
+  }
+]

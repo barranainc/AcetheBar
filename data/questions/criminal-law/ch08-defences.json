@@ -1,0 +1,462 @@
+[
+  {
+    "id": "crim-08-ncr-001",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "ncr_defence",
+    "subtopic_heading": "Not Criminally Responsible — s. 16 Criminal Code",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is charged with assault. At trial, psychiatrists testify that he suffers from a major mental disorder that, at the time of the act, caused him to believe he was defending himself against alien invaders and that he did not appreciate that what he was doing was morally or legally wrong.",
+    "call_of_question": "Under s. 16(1) of the Criminal Code, on what ground is the accused's NCR defence based?",
+    "options": {
+      "A": "The accused did not commit the physical act of the offence (actus reus) because his body was controlled by the mental disorder.",
+      "B": "The accused is not criminally responsible because a mental disorder rendered him incapable of appreciating the nature and quality of the act or of knowing that it was wrong.",
+      "C": "The accused acted in an automatism-like state and therefore lacked the voluntary act required for criminal liability.",
+      "D": "The accused is not criminally responsible because he lacked the motive to commit the assault."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 16(1) of the Criminal Code provides that no person is criminally responsible for an act committed while suffering from a mental disorder that rendered them incapable either of: (a) appreciating the nature and quality of the act or omission, or (b) knowing that the act or omission was wrong. 'Wrong' in this context means morally wrong (R. v. Chaulk, [1990] 3 SCR 1303). On the facts, the accused's delusional belief that he was defending against aliens shows incapacity to know the act was wrong. The defence is NCR (not criminally responsible) by reason of mental disorder, not an absence of actus reus or automatism.",
+    "why_A_wrong": "The NCR defence does not operate by negating the actus reus. The accused committed the physical act; the defence operates at the level of criminal responsibility despite the act being committed. The mental disorder prevents appreciation or knowledge of wrongness.",
+    "why_B_wrong": "This IS the correct answer. Section 16(1) of the Criminal Code establishes the NCR defence where a mental disorder renders the accused incapable of appreciating the nature and quality of the act or knowing it was wrong.",
+    "why_C_wrong": "Automatism (non-insane or insane) addresses situations where the accused's movements were involuntary. Where the mental disorder produces a conscious but deluded actor who commits a voluntary act, the applicable defence is NCR under s.16, not automatism.",
+    "why_D_wrong": "Motive (the reason for committing an act) is not an element of any offence in Canadian criminal law. The NCR defence does not operate through absence of motive; it operates through incapacity to appreciate the act or know it is wrong.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "Not Criminally Responsible by Reason of Mental Disorder — s. 16",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 16(1); R. v. Chaulk, [1990] 3 SCR 1303"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "NCR",
+      "not criminally responsible",
+      "mental disorder",
+      "s. 16",
+      "appreciate nature and quality",
+      "know it was wrong"
+    ],
+    "tested_concepts": [
+      "s. 16(1) NCR criteria",
+      "incapacity to appreciate nature and quality",
+      "incapacity to know act was wrong",
+      "moral vs legal wrongness (Chaulk)"
+    ],
+    "estimated_time_seconds": 60,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-08-ncr-002",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "ncr_defence",
+    "subtopic_heading": "Not Criminally Responsible — s. 16 Criminal Code",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At trial, the accused raises the NCR defence. The judge must instruct the jury on who bears the burden of proving the mental disorder defence.",
+    "call_of_question": "Under s. 16(3) of the Criminal Code, who bears the burden of proving the NCR defence, and to what standard?",
+    "options": {
+      "A": "The Crown bears the burden of disproving the NCR defence beyond a reasonable doubt, once the accused raises an air of reality.",
+      "B": "The party who raises the defence of mental disorder bears the burden of proving it on a balance of probabilities.",
+      "C": "The accused bears the burden of proving the NCR defence beyond a reasonable doubt.",
+      "D": "The Crown bears the burden of proving the accused did not suffer from a mental disorder, on a balance of probabilities."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 16(3) of the Criminal Code provides that the burden of proof that a person was, by reason of mental disorder, exempt from criminal responsibility is on the party who raises that issue — and that the standard is balance of probabilities, not beyond a reasonable doubt. This is an express statutory exception to the general rule in criminal law that the accused need only raise an air of reality for a defence. The Supreme Court upheld the constitutionality of this provision in R. v. Chaulk, finding it justified under s.1 of the Charter. Critically, either the accused or the Crown may raise the NCR defence (s.16(4)), and whichever party raises it bears the balance of probabilities burden.",
+    "why_A_wrong": "The NCR defence is one of the few defences in Canadian criminal law where the accused does not merely bear an evidential burden. Section 16(3) expressly assigns the persuasive burden (balance of probabilities) to the party raising the defence, not the Crown.",
+    "why_B_wrong": "This IS the correct answer. Section 16(3) assigns the burden of proof to the party who raises the mental disorder defence (usually the accused), and the standard is balance of probabilities.",
+    "why_C_wrong": "The standard for the NCR defence is balance of probabilities, not beyond a reasonable doubt. Beyond a reasonable doubt is the Crown's burden to prove guilt; it is not the accused's burden for any defence.",
+    "why_D_wrong": "Once the NCR defence is raised, the Crown does not bear the burden of disproving it. Section 16(3) assigns the burden to the party raising the defence. The Crown's only burden is to prove all elements of the offence beyond a reasonable doubt.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "NCR Defence — Burden of Proof",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 16(3), s. 16(4); R. v. Chaulk, [1990] 3 SCR 1303"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "NCR burden of proof",
+      "s. 16(3)",
+      "balance of probabilities",
+      "mental disorder defence",
+      "who raises the defence"
+    ],
+    "tested_concepts": [
+      "s. 16(3) burden of proof on party raising NCR",
+      "balance of probabilities standard for NCR",
+      "Crown or accused may raise NCR (s.16(4))",
+      "statutory exception to general evidential burden rule"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-08-fitness-001",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "fitness_to_stand_trial",
+    "subtopic_heading": "Fitness to Stand Trial — s. 2 Criminal Code",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is charged with robbery. During pretrial proceedings, the accused's counsel raises concerns about whether the accused understands the proceedings. The court must assess fitness to stand trial.",
+    "call_of_question": "Under s. 2 of the Criminal Code, which of the following is the correct definition of 'unfit to stand trial'?",
+    "options": {
+      "A": "The accused is incapable of understanding the nature and consequences of the criminal proceedings against them due to mental disorder.",
+      "B": "The accused is mentally ill and a danger to themselves or others if they attend court.",
+      "C": "The accused is unable to understand the nature or object of the proceedings, or to understand the possible consequences of the proceedings, or to communicate with counsel because of a mental disorder.",
+      "D": "The accused lacks the general intelligence required to participate meaningfully in their trial."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 2 of the Criminal Code defines 'unfit to stand trial' as unable on account of mental disorder to conduct a defence at any stage of the proceedings before a verdict is rendered, specifically because of inability to: (a) understand the nature or object of the proceedings, (b) understand the possible consequences of the proceedings, or (c) communicate with counsel. All three limbs are in the alternative (inability to satisfy any one is sufficient). The definition focuses on the accused's capacity to participate in their own defence and understand the proceedings, not on dangerousness or general intelligence. The Pritchard criteria from English law have been incorporated into this Canadian statutory definition.",
+    "why_A_wrong": "Option A is incomplete. Section 2 defines unfitness with three specific functional criteria (understand nature, understand consequences, communicate with counsel), not just a general inability to understand 'nature and consequences.' The specific three-limb structure is essential.",
+    "why_B_wrong": "Dangerousness is not a criterion for fitness to stand trial. Fitness concerns the accused's cognitive capacity to participate in the proceedings, not their risk to themselves or others. NCR or dangerous offender provisions address dangerousness, not fitness.",
+    "why_C_wrong": "This IS the correct answer. Section 2 of the Criminal Code defines unfitness as inability to understand the nature or object of the proceedings, to understand the possible consequences, or to communicate with counsel — due to mental disorder.",
+    "why_D_wrong": "General intelligence is not the fitness standard. Many people with below-average intelligence are perfectly fit to stand trial. The test is functional capacity to participate in specific defined ways (understand proceedings, understand consequences, communicate with counsel), not general intellectual capacity.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "Fitness to Stand Trial — s. 2 Definition",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 2 (definition of 'unfit to stand trial'), s. 672.22-672.26; R. v. Taylor (1992), 77 CCC (3d) 551 (Ont. CA)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "fitness to stand trial",
+      "unfit",
+      "s. 2 definition",
+      "mental disorder",
+      "communicate with counsel",
+      "understand nature of proceedings"
+    ],
+    "tested_concepts": [
+      "s. 2 definition of unfit to stand trial",
+      "three-limb fitness criteria",
+      "understand nature/consequences/communicate",
+      "fitness vs NCR distinction"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-08-self-def-001",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "self_defence",
+    "subtopic_heading": "Self-Defence — s. 34 Criminal Code",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "During a bar fight, the accused struck the complainant with his fist, breaking the complainant's jaw. The accused testifies he believed the complainant was about to headbutt him and struck first. He was not the initial aggressor. The trial judge must determine whether the accused's act of self-defence was justified under s. 34.",
+    "call_of_question": "Under s. 34(1) of the Criminal Code, which of the following are the three essential elements the accused must establish to raise self-defence?",
+    "options": {
+      "A": "The accused was not the initial aggressor; the accused believed their life was in danger; the force used was proportionate.",
+      "B": "The accused believed on reasonable grounds that force was being used or threatened against them; the act was committed for the purpose of defending themselves; and the act was reasonable in the circumstances.",
+      "C": "The complainant struck first; the accused believed they would be seriously harmed; the accused used the minimum force necessary.",
+      "D": "The accused had no other option but to use force; the accused acted immediately and without premeditation; the force was not excessive."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 34(1) of the Criminal Code (as amended in 2012) provides that a person is not criminally responsible for an act committed in defence of themselves or another if: (a) they believe on reasonable grounds that force is being used or threatened against them or another; (b) the act that constitutes the offence is committed for the purpose of defending or protecting themselves or the other person from that use or threat of force; and (c) the act committed is reasonable in the circumstances. Section 34(2) lists non-exhaustive factors for assessing reasonableness. The prior requirement of imminence and the initial-aggressor bar have been replaced by the broader 'reasonable in the circumstances' framework.",
+    "why_A_wrong": "Section 34 does not require the accused to have been non-aggressor, and 'life in danger' is too narrow — the section covers any force or threat of force. The proportionality requirement is now part of the overall 'reasonable in the circumstances' assessment under s.34(2), not a standalone element.",
+    "why_B_wrong": "This IS the correct answer. Section 34(1) has three elements: (a) belief on reasonable grounds of force or threat; (b) act committed for the purpose of defending; (c) act was reasonable in the circumstances.",
+    "why_C_wrong": "Section 34 does not require the complainant to have struck first — anticipated force or threatened force is sufficient. Nor does it require 'minimum force necessary' (that is a factor in s.34(2)(g) reasonableness assessment, not a standalone requirement). Serious harm is not required; any threatened force suffices.",
+    "why_D_wrong": "Section 34 does not require that the accused had 'no other option.' The older retreat requirement was abolished. Imminence and absence of alternatives are factors in the s.34(2) reasonableness analysis, not standalone elements of the s.34(1) test.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "Self-Defence — s. 34 (2012 amendment)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 34(1), s. 34(2); R. v. Lavallee, [1990] 1 SCR 852"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "self-defence",
+      "s. 34",
+      "reasonable grounds",
+      "belief of force",
+      "reasonable in the circumstances",
+      "2012 amendment"
+    ],
+    "tested_concepts": [
+      "s. 34(1) three elements of self-defence",
+      "reasonable grounds belief of force",
+      "purpose of defence",
+      "reasonableness in circumstances",
+      "s. 34(2) factors"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-08-duress-001",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "duress_defence",
+    "subtopic_heading": "Duress — s. 17 Criminal Code",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused, acting as a getaway driver for an armed robbery, claims he participated only because his co-accused threatened to kill his family if he refused. He was present at the scene. The accused seeks to rely on the statutory defence of duress under s. 17 of the Criminal Code.",
+    "call_of_question": "Which of the following correctly describes a key limitation on the s. 17 statutory duress defence as it applies to these facts?",
+    "options": {
+      "A": "Section 17 duress is unavailable because the accused was not threatened with immediate death or grievous bodily harm to himself personally.",
+      "B": "Section 17 duress is unavailable to a person who is a party to the offence alongside the person who made the threat.",
+      "C": "Section 17 duress is unavailable because armed robbery is listed as one of the excluded offences for which duress is no defence.",
+      "D": "Section 17 duress is unavailable because the threat was to a third party (the accused's family) and not to the accused himself."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 17 of the Criminal Code provides a statutory duress defence for a person who commits an offence under compulsion by threats of immediate death or grievous bodily harm. However, s. 17 contains an explicit list of excluded offences for which duress is no defence, regardless of the compulsion. Robbery is one of the excluded offences. Because the accused is charged as a party to an armed robbery, s. 17 duress is simply unavailable on the face of the statute. Note also that s. 17 as written requires the threat to be immediate and to apply to the accused or their spouse — threats to other family members may not qualify. The accused may potentially rely on the common-law defence of duress (which is broader than s.17), since s.17 only applies to the principal offender and common-law duress may apply to parties.",
+    "why_A_wrong": "While the immediacy of the threat is a requirement of s.17 duress, that is not the key limitation on these facts. The more fundamental bar is that robbery is an excluded offence under s.17 — duress is simply unavailable as a statutory defence for robbery, regardless of the nature of the threat.",
+    "why_B_wrong": "Section 17 does not exclude persons who are parties alongside the threatener. The common-law duress defence may have such limits, but the s.17 statutory defence's exclusion operates differently. The key bar here is the excluded offences list, not the party status.",
+    "why_C_wrong": "This IS the correct answer. Robbery is listed as an excluded offence in s.17 of the Criminal Code, which means the statutory duress defence is unavailable to the accused on a charge of robbery, regardless of the nature of the compulsion.",
+    "why_D_wrong": "Section 17 as written does refer to threats to the accused or their spouse, not expressly to other family members. However, this is a secondary limitation. The primary bar on these facts is that robbery is an excluded offence under s.17, making the statutory defence entirely unavailable regardless of who was threatened.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "Duress — s. 17 Excluded Offences",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 17; R. v. Ruzic, 2001 SCC 24 (common-law duress)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 17 duress",
+      "excluded offences",
+      "robbery",
+      "compulsion",
+      "statutory duress defence",
+      "immediate death or grievous bodily harm"
+    ],
+    "tested_concepts": [
+      "s. 17 excluded offences list",
+      "robbery as excluded offence",
+      "statutory vs common-law duress",
+      "s. 17 immediacy requirement",
+      "Ruzic common-law duress"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-08-necessity-001",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "necessity_defence",
+    "subtopic_heading": "Necessity Defence",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused was driving a boat and hit a submerged log. The engine failed. A passenger was suffering a severe allergic reaction and would die without immediate medical attention. The nearest dock was on private property and the owner had previously refused access to the accused. The accused docked on the private property without permission, committing trespass, in order to save the passenger's life.",
+    "call_of_question": "Under R. v. Perka, [1984] 2 SCR 232, which of the following correctly describes the three elements of the necessity defence?",
+    "options": {
+      "A": "An imminent peril or danger; no reasonable legal alternative; the harm avoided was proportionate to the harm caused.",
+      "B": "A situation of clear and present danger; no prior fault by the accused; the accused acted instinctively.",
+      "C": "The accused faced a moral dilemma; the harm caused was the lesser evil; the accused obtained judicial approval before acting.",
+      "D": "An emergency beyond the accused's control; the accused consulted with others before acting; the harm avoided substantially outweighed the harm caused."
+    },
+    "correct_answer": "A",
+    "explanation": "In R. v. Perka, [1984] 2 SCR 232, the Supreme Court of Canada recognized necessity as an excuse defence (not a justification) with three requirements: (1) imminent peril or danger — the threat of harm must be imminent, not merely anticipated; (2) no reasonable legal alternative — the accused must have had no lawful way out; and (3) proportionality — the harm inflicted must be proportionate to the harm avoided. All three must be established. On these facts: (1) imminent danger exists (dying passenger); (2) no legal alternative (private property is the only option; public dock is out of reach); (3) trespass is proportionate to saving a life. The defence is available.",
+    "why_A_wrong": "This IS the correct answer. The Perka necessity defence requires imminent peril, no reasonable legal alternative, and proportionality of harm.",
+    "why_B_wrong": "'No prior fault' is not a stated Perka element (though prior fault may defeat the defence). 'Acting instinctively' is not an element. The Perka test focuses on the objective circumstances (imminence, no alternative, proportionality), not the accused's subjective state of mind or prior fault.",
+    "why_C_wrong": "Judicial approval before acting is not a requirement of the necessity defence — it would be self-defeating in genuine emergencies. The 'lesser evil' concept is related to the proportionality element, but the Perka framework does not require 'moral dilemma' as a distinct element.",
+    "why_D_wrong": "The necessity defence does not require consultation with others before acting. Consultation would be impossible in many emergency scenarios. 'Substantially outweighs' overstates the proportionality requirement; Perka requires proportionality, not that the harm avoided substantially outweighs the harm caused.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "Necessity Defence — Perka Elements",
+      "page": "N/A",
+      "rule_or_statute_reference": "R. v. Perka, [1984] 2 SCR 232; R. v. Latimer, 2001 SCC 1"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "necessity",
+      "Perka",
+      "imminent peril",
+      "no reasonable legal alternative",
+      "proportionality",
+      "excuse defence"
+    ],
+    "tested_concepts": [
+      "Perka three-element necessity test",
+      "imminence requirement",
+      "no reasonable legal alternative",
+      "proportionality of harm",
+      "necessity as excuse not justification"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-08-intox-001",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "intoxication_defence",
+    "subtopic_heading": "Intoxication — General vs Specific Intent",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is charged with assault causing bodily harm, which is a general intent offence. He was extremely drunk at the time of the offence. Defence counsel wishes to rely on the accused's intoxication as a defence.",
+    "call_of_question": "In the context of this general intent offence, which of the following correctly states the availability of intoxication as a defence?",
+    "options": {
+      "A": "Intoxication is a complete defence to general intent offences if the accused was so drunk he did not form the minimal intent required.",
+      "B": "Intoxication is not available as a defence to general intent offences, except in cases of extreme intoxication akin to automatism.",
+      "C": "Intoxication is always a complete defence if the accused's blood alcohol concentration exceeded the legal limit for driving.",
+      "D": "Intoxication reduces the charge from assault causing bodily harm to common assault automatically."
+    },
+    "correct_answer": "B",
+    "explanation": "Canadian law draws a distinction between specific intent offences (where intoxication may be raised to negate the specific intent) and general intent offences (where intoxication is generally not available as a defence). For general intent offences, the required mental element (basic intent to commit the act) is so minimal that voluntary intoxication cannot negate it — the accused's act of drinking provides a substitute form of fault (Beard rules as adopted in Canada). However, following R. v. Daviault, [1994] 3 SCR 63, a very narrow exception exists: intoxication akin to automatism (extreme intoxication causing a complete loss of voluntariness) may be a defence to a general intent offence. This exception is extremely narrow and Parliament responded with s. 33.1 of the Criminal Code, which eliminates the Daviault defence for offences involving interference with the bodily integrity of another person.",
+    "why_A_wrong": "For general intent offences, intoxication (even extreme) is not a complete defence simply because the accused lacked the minimal intent. Voluntary intoxication is treated as a form of recklessness that substitutes for the minimal fault required. The defence is not generally available for general intent offences.",
+    "why_B_wrong": "This IS the correct answer. For general intent offences, intoxication is generally not available as a defence, with only the narrow Daviault extreme-intoxication exception (which has been severely limited by s. 33.1 for bodily integrity offences).",
+    "why_C_wrong": "Blood alcohol concentration above the driving limit has no relevance to the intoxication defence in criminal law. The defence depends on the accused's subjective state and the specific/general intent distinction, not any blood alcohol threshold.",
+    "why_D_wrong": "Intoxication does not automatically reduce the charge from assault causing bodily harm to common assault. The specific/general intent distinction determines whether intoxication can negate the mental element; if the offence is a general intent offence, intoxication does not reduce the charge at all.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "Intoxication — General vs Specific Intent",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 33.1; R. v. Daviault, [1994] 3 SCR 63; DPP v. Beard, [1920] AC 479"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "intoxication",
+      "general intent",
+      "specific intent",
+      "s. 33.1",
+      "Daviault",
+      "extreme intoxication",
+      "automatism"
+    ],
+    "tested_concepts": [
+      "general vs specific intent distinction for intoxication defence",
+      "Daviault extreme intoxication exception",
+      "s. 33.1 codification for bodily integrity offences",
+      "intoxication as substitute fault for general intent"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-08-intox-002",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "intoxication_defence",
+    "subtopic_heading": "Intoxication — General vs Specific Intent",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is charged with murder (a specific intent offence). He was heavily intoxicated at the time of the killing. Defence counsel argues that his intoxication prevented him from forming the specific intent to kill (s. 229(a)(i) — intent to cause death).",
+    "call_of_question": "If the jury accepts that the accused's intoxication prevented him from forming the specific intent to cause death, what is the proper verdict?",
+    "options": {
+      "A": "Not guilty — the accused lacked the mens rea for murder and must be acquitted outright.",
+      "B": "Guilty of manslaughter — if the accused lacked the specific intent for murder due to intoxication, the jury may convict of the included general intent offence of manslaughter.",
+      "C": "Not criminally responsible by reason of mental disorder — intoxication is treated as a mental disorder in Canadian law.",
+      "D": "The jury must acquit on murder and the Crown must re-charge the accused with manslaughter in separate proceedings."
+    },
+    "correct_answer": "B",
+    "explanation": "For specific intent offences, voluntary intoxication may negate the specific intent required. However, this does not result in an outright acquittal because the specific intent offence (murder) contains a general intent included offence (manslaughter — unlawful killing without the specific intent for murder). If the jury finds that intoxication prevented the formation of the specific intent to kill, they may (and generally should, if the actus reus is proven) convict of the included offence of manslaughter. Section 662(3) of the Criminal Code provides that if an accused charged with murder is found not guilty of murder but the jury is satisfied the offence of manslaughter was committed, they shall find the accused guilty of manslaughter.",
+    "why_A_wrong": "An outright acquittal is not the proper result when intoxication negates the specific intent for murder. Manslaughter is an included offence, and the accused can be convicted of manslaughter where the specific intent for murder was absent due to intoxication. The actus reus of unlawful killing remains.",
+    "why_B_wrong": "This IS the correct answer. If the jury accepts the accused lacked specific intent for murder due to intoxication, the proper verdict is guilty of manslaughter (the included general intent offence), under s. 662(3) of the Criminal Code.",
+    "why_C_wrong": "Voluntary intoxication is not a mental disorder under Canadian law. The NCR defence requires a 'mental disorder' as defined in s.2 of the Criminal Code (a disease of the mind). Self-induced intoxication is not a disease of the mind for s.16 purposes.",
+    "why_D_wrong": "There is no need for separate proceedings. Section 662(3) of the Criminal Code expressly provides that the jury may convict on the included offence of manslaughter without the accused being re-charged. Manslaughter is included in the murder charge.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "Intoxication — Murder and Included Offences",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 662(3), s. 229(a); R. v. George, [1960] SCR 871; DPP v. Beard, [1920] AC 479"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "intoxication",
+      "specific intent",
+      "murder",
+      "manslaughter",
+      "included offence",
+      "s. 662(3)",
+      "verdict"
+    ],
+    "tested_concepts": [
+      "intoxication negating specific intent for murder",
+      "manslaughter as included offence",
+      "s. 662(3) conviction on included offence",
+      "no outright acquittal when manslaughter established"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-09-mand-001",
+    "chapter_number": 9,
+    "chapter_title": "Withdrawal from Representation",
+    "topic_id": "withdrawal",
+    "topic_heading": "Withdrawal from Representation — Rule 3.7",
+    "subtopic_id": "mandatory_withdrawal",
+    "subtopic_heading": "Mandatory Withdrawal — Rule 3.7-7",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Zara has been representing a client in a fraud matter. During the course of the retainer, Zara discovers that the client has been using Zara's legal services as part of a scheme to commit mortgage fraud — Zara has unknowingly been facilitating fraudulent transactions. Upon discovering this, the client admits the fraud to Zara and instructs her to continue. Zara considers her options.",
+    "call_of_question": "Under Rule 3.7-7 of the Rules of Professional Conduct, is Zara required to withdraw from the retainer?",
+    "options": {
+      "A": "No — Zara may continue because she was not aware of the fraud at the outset of the retainer.",
+      "B": "No — Zara may continue as long as she no longer assists with any new fraudulent transactions and limits her work to legitimate aspects of the retainer.",
+      "C": "Yes — Rule 3.7-7 requires mandatory withdrawal when the client is using or has used the lawyer's services to facilitate crime or fraud; Zara must withdraw immediately and may not continue the retainer.",
+      "D": "Yes — but Zara may continue until she has found replacement counsel for the client, as immediate withdrawal would prejudice the client."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.7-7 of the LSO Rules of Professional Conduct requires a lawyer to withdraw from a retainer if the lawyer discovers that the client has been using the lawyer's services to commit a crime or fraud. This is a mandatory withdrawal ground — it is not optional. Zara must withdraw immediately. The fact that she was unaware of the fraud at the outset does not permit her to continue once the fraud is discovered. Zara must also take care on withdrawal to comply with Rule 3.7-9 (reasonable notice, file transfer) while not facilitating further fraudulent conduct.",
+    "why_A_wrong": "Incorrect. The absence of prior knowledge is not a basis to continue representing a client who is using the lawyer's services for fraud. Rule 3.7-7 triggers mandatory withdrawal upon discovery.",
+    "why_B_wrong": "Incorrect. Compartmentalizing the representation to 'legitimate' aspects while staying in the retainer does not cure the mandatory withdrawal obligation once fraud has been discovered. Zara must fully withdraw.",
+    "why_C_wrong": "This IS the correct answer. Yes — Rule 3.7-7 requires mandatory withdrawal when the client is using or has used the lawyer's services to facilitate crime or fraud; Zara must withdraw immediately and may not continue the retainer.",
+    "why_D_wrong": "Incorrect. While Zara should give reasonable notice of withdrawal under Rule 3.7-9 where possible, the obligation to withdraw is mandatory and is not delayed until replacement counsel is arranged. The requirement to minimize prejudice on withdrawal does not override the obligation to withdraw.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 9",
+      "heading": "Withdrawal from Representation",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.7-7"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "mandatory withdrawal — client using services for crime or fraud"
+    },
+    "exam_trigger_words": [
+      "mandatory withdrawal",
+      "fraud",
+      "crime",
+      "Rule 3.7-7",
+      "using lawyer's services"
+    ],
+    "tested_concepts": [
+      "Rule 3.7-7 — mandatory withdrawal for client fraud",
+      "prior ignorance does not permit continuation",
+      "mandatory vs. optional withdrawal"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-09-opt-001",
+    "chapter_number": 9,
+    "chapter_title": "Withdrawal from Representation",
+    "topic_id": "withdrawal",
+    "topic_heading": "Withdrawal from Representation — Rule 3.7",
+    "subtopic_id": "optional_withdrawal",
+    "subtopic_heading": "Optional Withdrawal — Rule 3.7-1",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Archie has been acting for a client in a complex breach of contract action for 18 months. The trial is scheduled to begin in three weeks. The client has consistently ignored Archie's advice on litigation strategy and has given instructions that Archie believes are not in the client's best interests. The client has also failed to pay Archie's last three invoices totalling $15,000. Archie wants to withdraw from the retainer immediately.",
+    "call_of_question": "Which of the following most accurately describes Archie's rights and obligations regarding withdrawal under Rule 3.7-1?",
+    "options": {
+      "A": "Archie must continue representing the client until the trial concludes because withdrawal this close to trial would prejudice the client, regardless of non-payment or strategic disagreements.",
+      "B": "Archie may withdraw immediately without any obligation to the client because non-payment of fees is an absolute right to withdraw.",
+      "C": "Under Rule 3.7-1, non-payment of fees and loss of confidence in the lawyer-client relationship are grounds for optional withdrawal, but Archie must give reasonable notice and withdraw at an appropriate time in the proceedings to minimize prejudice to the client; a three-week window before trial requires Archie to consider whether immediate withdrawal is appropriate or whether adequate time remains to find replacement counsel.",
+      "D": "Archie cannot withdraw at all because a lawyer must always see a matter to completion once retained."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.7-1 provides grounds for optional withdrawal, including loss of confidence in the lawyer-client relationship and client failure to pay fees. However, the right to withdraw is constrained by the obligation to give reasonable notice and to withdraw at a time and in a manner that minimizes prejudice to the client. With trial three weeks away, Archie must carefully assess whether withdrawal at this stage would prejudice the client's ability to obtain replacement counsel and prepare for trial. The closer to trial, the more compelling the reason for withdrawal must be.",
+    "why_A_wrong": "Incorrect. Rule 3.7-1 permits optional withdrawal even where a trial date exists. However, the timing and manner of withdrawal must minimize prejudice to the client.",
+    "why_B_wrong": "Incorrect. Non-payment is a ground for optional withdrawal but does not give an absolute right to withdraw immediately without regard to the prejudice to the client.",
+    "why_C_wrong": "This IS the correct answer. Under Rule 3.7-1, non-payment of fees and loss of confidence in the lawyer-client relationship are grounds for optional withdrawal, but Archie must give reasonable notice and withdraw at an appropriate time in the proceedings to minimize prejudice to the client; a three-week window before trial requires Archie to consider whether immediate withdrawal is appropriate or whether adequate time remains to find replacement counsel.",
+    "why_D_wrong": "Incorrect. Lawyers are not required to continue to completion in all circumstances. Rule 3.7-1 expressly recognizes grounds for optional withdrawal, and Rule 3.7-7 requires mandatory withdrawal in certain cases.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 9",
+      "heading": "Withdrawal from Representation",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.7-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "optional withdrawal — non-payment and timing"
+    },
+    "exam_trigger_words": [
+      "optional withdrawal",
+      "non-payment",
+      "reasonable notice",
+      "minimize prejudice",
+      "Rule 3.7-1"
+    ],
+    "tested_concepts": [
+      "Rule 3.7-1 — grounds for optional withdrawal",
+      "withdrawal must minimize prejudice to client",
+      "timing of withdrawal near trial is critical"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-09-notice-001",
+    "chapter_number": 9,
+    "chapter_title": "Withdrawal from Representation",
+    "topic_id": "withdrawal",
+    "topic_heading": "Withdrawal from Representation — Rule 3.7",
+    "subtopic_id": "withdrawal_obligations",
+    "subtopic_heading": "Obligations on Withdrawal — Notice and File Transfer — Rule 3.7-9",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Barbara has decided to withdraw from representing a client in an ongoing litigation matter. After giving the client notice of her withdrawal, the client requests the return of all original documents from the file, including documents Barbara received from third parties in the course of the retainer. Barbara wants to retain some documents as security for her unpaid fees.",
+    "call_of_question": "What are Barbara's obligations regarding the client's file upon withdrawal under Rule 3.7-9?",
+    "options": {
+      "A": "Barbara may retain all documents in the file as a solicitor's lien until the client pays all outstanding fees.",
+      "B": "Barbara must return the entire file to the client immediately upon withdrawal and has no right to retain any documents.",
+      "C": "Upon withdrawal, Barbara must return all property belonging to the client and provide sufficient notice to allow the client to retain new counsel; while Barbara may have a solicitor's lien over certain property for unpaid fees, she must not use the withholding of the file as a tool to pressure the client in a way that prejudices the client's legal interests.",
+      "D": "Barbara may retain the entire file permanently because the documents were collected in the course of her retainer and therefore belong to her firm."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.7-9 requires a lawyer who withdraws to give reasonable notice to the client and to take steps to minimize prejudice to the client's interests. Upon withdrawal, the lawyer must return all property belonging to the client. A lawyer may have a solicitor's lien over some property for unpaid fees, but the exercise of that lien must not prejudice the client's legal position in the ongoing matter. The lawyer must carefully balance the lien right against the obligation not to cause prejudice.",
+    "why_A_wrong": "Incorrect. A blanket lien over all documents in the file to secure payment of fees is not automatically available. The solicitor's lien has limits and cannot be used in a way that prejudices the client's legal interests.",
+    "why_B_wrong": "Incorrect. Barbara may have some lien rights over certain property. The obligation is not to return everything with no qualification — it is to protect the client from prejudice while recognizing legitimate lien rights.",
+    "why_C_wrong": "This IS the correct answer. Upon withdrawal, Barbara must return all property belonging to the client and provide sufficient notice to allow the client to retain new counsel; while Barbara may have a solicitor's lien over certain property for unpaid fees, she must not use the withholding of the file as a tool to pressure the client in a way that prejudices the client's legal interests.",
+    "why_D_wrong": "Incorrect. Documents collected in the course of a retainer generally belong to the client, not to the lawyer or the firm. The lawyer holds client documents in trust.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 9",
+      "heading": "Withdrawal from Representation",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.7-9"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "withdrawal obligations — file return and solicitor's lien"
+    },
+    "exam_trigger_words": [
+      "file return",
+      "solicitor's lien",
+      "withdrawal",
+      "no prejudice",
+      "Rule 3.7-9"
+    ],
+    "tested_concepts": [
+      "Rule 3.7-9 — obligations on withdrawal including file return",
+      "solicitor's lien limited by duty not to prejudice client",
+      "documents belong to client not lawyer"
+    ],
+    "estimated_time_seconds": 90
+  }
+]

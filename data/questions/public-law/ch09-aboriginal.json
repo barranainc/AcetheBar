@@ -1,0 +1,222 @@
+[
+  {
+    "id": "pub-09-dtc-001",
+    "subject": "public_law",
+    "chapter_number": 9,
+    "chapter_title": "Indigenous Law and Crown Obligations",
+    "topic_id": "duty_to_consult",
+    "topic_heading": "Duty to Consult and Accommodate — Haida Nation Framework",
+    "subtopic_id": "duty_to_consult",
+    "subtopic_heading": "Duty to Consult — Trigger and Spectrum",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The British Columbia government issues a permit to a logging company to harvest timber in an area where the Haida Nation has a pending but unproven claim to Aboriginal title. The Haida Nation has not yet established its title in court. The Haida seek a declaration that the Crown failed to consult them before issuing the logging permit.",
+    "call_of_question": "Under Haida Nation v British Columbia, what triggers the Crown's duty to consult Indigenous peoples, and does the duty arise even before Aboriginal rights or title have been proven?",
+    "options": {
+      "A": "The duty to consult arises only after Aboriginal title has been legally established by a court; until then, the Crown has no obligation to consult.",
+      "B": "The duty to consult arises where: (1) the Crown has actual or constructive knowledge of a potential Aboriginal claim or right; and (2) the Crown contemplates conduct that might adversely affect the right or claim. The duty arises before rights are proven; the strength of the claim affects the depth of the duty.",
+      "C": "The duty to consult is owed only to First Nations that have signed treaties; non-treaty groups like the Haida have no such right.",
+      "D": "The duty to consult arises only when the Crown proposes legislation that would directly affect Aboriginal peoples, not when issuing administrative permits."
+    },
+    "correct_answer": "B",
+    "explanation": "In Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73, the Supreme Court of Canada established that the Crown's duty to consult and accommodate is triggered when two conditions are met: (1) the Crown has actual or constructive knowledge of the potential existence of an Aboriginal right or title claim; and (2) the Crown contemplates conduct — including administrative decisions like permit issuance — that might adversely affect that right or claim. Critically, the duty arises before rights are proven; the justification is the honour of the Crown and the need to protect Indigenous interests during the period of uncertainty. The scope of the duty (deep or shallow) is calibrated to the strength of the claim.",
+    "why_A_wrong": "Incorrect. The duty to consult arises before rights are proven, not after; requiring proof before consultation would effectively defeat the purpose of the doctrine by allowing the Crown to act before rights are established.",
+    "why_B_wrong": "This IS the correct answer. The duty to consult arises where: (1) the Crown has actual or constructive knowledge of a potential Aboriginal claim or right; and (2) the Crown contemplates conduct that might adversely affect the right or claim. The duty arises before rights are proven; the strength of the claim affects the depth of the duty.",
+    "why_C_wrong": "Incorrect. The duty to consult applies to all First Nations and Indigenous peoples with potential claims or rights, regardless of whether they have signed treaties; Haida Nation itself involved a non-treaty nation.",
+    "why_D_wrong": "Incorrect. The duty to consult extends to administrative decisions including permit and licence issuance, not only to legislation; the Crown's executive actions triggering the duty include regulatory approvals that may adversely affect Aboriginal claims.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 9 — Indigenous Law and Crown Obligations",
+      "heading": "Duty to Consult — Trigger and Spectrum",
+      "page": "N/A",
+      "rule_or_statute_reference": "Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73; Constitution Act, 1982, s. 35"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "duty to consult",
+      "Haida Nation",
+      "Aboriginal title",
+      "knowledge and adverse effect",
+      "before rights proven"
+    ],
+    "tested_concepts": [
+      "Haida Nation two-part trigger for duty to consult",
+      "duty arises before Aboriginal rights proven",
+      "spectrum of consultation calibrated to claim strength"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-09-dtc-002",
+    "subject": "public_law",
+    "chapter_number": 9,
+    "chapter_title": "Indigenous Law and Crown Obligations",
+    "topic_id": "duty_to_consult",
+    "topic_heading": "Duty to Consult and Accommodate — Haida Nation Framework",
+    "subtopic_id": "duty_to_consult",
+    "subtopic_heading": "Depth of the Duty to Consult — Spectrum and Accommodation",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario First Nation has a strong and well-documented claim to Aboriginal title over a large land area. The provincial government proposes to approve a major mineral development project in the heart of that claimed territory. The project would cause significant and potentially irreversible disruption to the land. The government consults with the First Nation but provides only two weeks to respond and does not modify the project to address concerns raised.",
+    "call_of_question": "Under the Haida Nation spectrum, how deep is the duty to consult and accommodate in circumstances involving a strong claim and potentially significant adverse effects?",
+    "options": {
+      "A": "The depth of the duty is always the same regardless of the strength of the claim or the severity of the potential impact; all consultations require a two-week response period.",
+      "B": "Where the claim is strong and the potential adverse effects are significant, the duty to consult sits at the deeper end of the spectrum, requiring meaningful engagement — including a reasonable opportunity to understand and respond to the proposal — and may require accommodation such as altering or delaying the project to address concerns. A two-week consultation period for a major irreversible project may fall short.",
+      "C": "Where Aboriginal title has not been established, the Crown has only a minimal duty to inform the First Nation of the proposed project; no accommodation is required.",
+      "D": "The duty to accommodate means the Crown must obtain the First Nation's veto over any project that affects claimed territory."
+    },
+    "correct_answer": "B",
+    "explanation": "In Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73, the Supreme Court explained that the duty to consult and accommodate exists on a spectrum. At the lower end (weak claim, minor impact), the Crown may satisfy its duty by providing notice and basic information. At the deeper end (strong claim, significant impact), the duty requires meaningful engagement — including a genuine opportunity to understand and respond to the Crown's proposal — and accommodation: modifying the Crown's proposed conduct to address the Aboriginal group's concerns as far as possible without undue hardship. A major, irreversible project in the heart of a strongly supported claimed title area requires deep consultation and likely some form of accommodation.",
+    "why_A_wrong": "Incorrect. The duty is not uniform across all cases; the depth varies along a spectrum calibrated to the strength of the claim and the severity of the potential impact.",
+    "why_B_wrong": "This IS the correct answer. Where the claim is strong and the potential adverse effects are significant, the duty to consult sits at the deeper end of the spectrum, requiring meaningful engagement — including a reasonable opportunity to understand and respond to the proposal — and may require accommodation such as altering or delaying the project to address concerns. A two-week consultation period for a major irreversible project may fall short.",
+    "why_C_wrong": "Incorrect. Even where title has not been legally established, a strong and well-documented claim combined with significant potential adverse effects calls for deep consultation and accommodation, not merely notification.",
+    "why_D_wrong": "Incorrect. The duty to accommodate does not confer a veto; the Crown must engage meaningfully and accommodate concerns as far as possible, but ultimate decision-making authority remains with the Crown subject to the justification test for infringement of proven rights.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 9 — Indigenous Law and Crown Obligations",
+      "heading": "Depth of the Duty to Consult — Spectrum and Accommodation",
+      "page": "N/A",
+      "rule_or_statute_reference": "Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73; Taku River Tlingit First Nation v British Columbia, 2004 SCC 74; Constitution Act, 1982, s. 35"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "spectrum of consultation",
+      "deep end",
+      "accommodation",
+      "strong claim",
+      "significant impact"
+    ],
+    "tested_concepts": [
+      "Haida Nation spectrum deep consultation",
+      "accommodation requirement for strong claims",
+      "no veto but genuine engagement required"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-09-s35-001",
+    "subject": "public_law",
+    "chapter_number": 9,
+    "chapter_title": "Indigenous Law and Crown Obligations",
+    "topic_id": "section_35_rights",
+    "topic_heading": "Section 35 Constitution Act 1982 — Existing Aboriginal Rights",
+    "subtopic_id": "s35_sparrow",
+    "subtopic_heading": "Section 35 — Sparrow Justification Test for Infringement of Aboriginal Rights",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The Musqueam Nation has an established Aboriginal right to fish for food under s. 35 of the Constitution Act, 1982. The federal government enacts a regulation limiting the Musqueam's net length during certain spawning periods to protect the fish stock. The Musqueam challenge the regulation as an unjustified infringement of their s. 35 right.",
+    "call_of_question": "Under R. v Sparrow, what two-part test must the Crown satisfy to justify a regulation that infringes a proven Aboriginal right under s. 35?",
+    "options": {
+      "A": "The Crown must prove: (1) the regulation pursues a pressing and substantial objective; and (2) the regulation is proportionate — rationally connected, minimally impairing, and with proportionate effects — under s. 1 of the Charter.",
+      "B": "The Crown must prove: (1) the infringement is justified by a compelling and substantial legislative objective (such as conservation); and (2) the infringement is consistent with the fiduciary duty the Crown owes to Aboriginal peoples, which includes giving Aboriginal rights priority after conservation needs are met.",
+      "C": "Once the Aboriginal right is proven, the Crown cannot justify any infringement; all regulations affecting s. 35 rights are unconstitutional.",
+      "D": "The Crown must only prove that the regulation applies equally to all Canadians; equal application is a complete justification for any infringement of s. 35 rights."
+    },
+    "correct_answer": "B",
+    "explanation": "In R. v Sparrow, [1990] 1 SCR 1075, the Supreme Court of Canada established the two-part justification framework for s. 35 infringements. First, the Crown must identify a compelling and substantial legislative objective — conservation and management of a natural resource is a valid objective. Second, the Crown's action must be consistent with its fiduciary duty to Aboriginal peoples, which requires, among other things, giving priority to Aboriginal rights after conservation needs are met, minimizing the infringement, and consulting the affected group. This Sparrow justification test is distinct from the Charter s. 1 analysis.",
+    "why_A_wrong": "Incorrect. The s. 1 Charter justification test (Oakes) does not apply to s. 35 rights; s. 35 rights are not subject to the Charter. The Sparrow two-part test applies separately to s. 35 infringement justification.",
+    "why_B_wrong": "This IS the correct answer. The Crown must prove: (1) the infringement is justified by a compelling and substantial legislative objective (such as conservation); and (2) the infringement is consistent with the fiduciary duty the Crown owes to Aboriginal peoples, which includes giving Aboriginal rights priority after conservation needs are met.",
+    "why_C_wrong": "Incorrect. Section 35 rights are not absolute; the Crown may justify an infringement of s. 35 rights by satisfying the Sparrow justification test.",
+    "why_D_wrong": "Incorrect. Equal application of a regulation to all Canadians does not justify infringement of s. 35 rights; equal application may actually constitute adverse discrimination against Aboriginal rights by failing to give priority to those rights.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 9 — Indigenous Law and Crown Obligations",
+      "heading": "Section 35 — Sparrow Justification Test for Infringement of Aboriginal Rights",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1982, s. 35; R v Sparrow, [1990] 1 SCR 1075"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Sparrow",
+      "s. 35",
+      "justification",
+      "compelling substantial objective",
+      "fiduciary duty priority"
+    ],
+    "tested_concepts": [
+      "Sparrow two-part s. 35 justification test",
+      "compelling and substantial objective",
+      "fiduciary duty and Aboriginal priority"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-09-trc-001",
+    "subject": "public_law",
+    "chapter_number": 9,
+    "chapter_title": "Indigenous Law and Crown Obligations",
+    "topic_id": "reconciliation",
+    "topic_heading": "Reconciliation — Honour of the Crown and UNDRIP",
+    "subtopic_id": "trc_reconciliation",
+    "subtopic_heading": "Reconciliation Principle — Honour of the Crown and UNDRIP",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A law student argues to her colleague that the legal concept of the 'honour of the Crown' has no practical legal effect — it is merely a rhetorical flourish that courts use to signal good intentions toward Indigenous peoples without imposing any enforceable obligations.",
+    "call_of_question": "Is the 'honour of the Crown' principle merely rhetorical, or does it impose legally enforceable obligations in the Crown-Indigenous relationship?",
+    "options": {
+      "A": "The honour of the Crown is merely a political and moral concept; it creates no legally enforceable obligations and cannot ground court orders.",
+      "B": "The honour of the Crown is a foundational constitutional principle that has been recognized by the Supreme Court of Canada as imposing enforceable obligations on the Crown; it underpins the duty to consult and accommodate, the fiduciary duty, and the requirement that Crown conduct must not be interpreted to allow the Crown to take unconscionable advantage of its Aboriginal partners.",
+      "C": "The honour of the Crown is a concept that applies only after Aboriginal rights have been fully negotiated through treaty; it has no application during the pre-treaty or litigation phase.",
+      "D": "The honour of the Crown was abolished by the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP), which replaced it with the concept of free, prior, and informed consent."
+    },
+    "correct_answer": "B",
+    "explanation": "The Supreme Court of Canada has consistently held that the honour of the Crown is a foundational constitutional principle with real legal effect. In Haida Nation v British Columbia, 2004 SCC 73, the Court held that the honour of the Crown underpins the duty to consult and accommodate. In R. v Sparrow, [1990] 1 SCR 1075, it informed the fiduciary duty and justification analysis. The principle requires the Crown to act with integrity in all dealings with Indigenous peoples and prohibits the Crown from acting in ways that would take unconscionable advantage of Aboriginal peoples. UNDRIP (adopted by Canada in 2016 and incorporated into Canadian law through legislation) does not replace the honour of the Crown but complements it by affirming the principle of free, prior, and informed consent as a further standard for Crown-Indigenous engagement.",
+    "why_A_wrong": "Incorrect. The Supreme Court of Canada has specifically held that the honour of the Crown is not merely rhetorical; it imposes legally enforceable obligations on the Crown and can ground court orders including orders to consult.",
+    "why_B_wrong": "This IS the correct answer. The honour of the Crown is a foundational constitutional principle that has been recognized by the Supreme Court of Canada as imposing enforceable obligations on the Crown; it underpins the duty to consult and accommodate, the fiduciary duty, and the requirement that Crown conduct must not be interpreted to allow the Crown to take unconscionable advantage of its Aboriginal partners.",
+    "why_C_wrong": "Incorrect. The honour of the Crown operates throughout all phases of the Crown-Indigenous relationship, including before treaties are negotiated, during litigation over claimed rights, and in the implementation of treaty rights.",
+    "why_D_wrong": "Incorrect. UNDRIP complements and reinforces the honour of the Crown principle; it did not abolish it. Free, prior, and informed consent under UNDRIP coexists with the honour of the Crown as a standard informing Crown-Indigenous relations.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 9 — Indigenous Law and Crown Obligations",
+      "heading": "Reconciliation Principle — Honour of the Crown and UNDRIP",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1982, s. 35; Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73; R v Sparrow, [1990] 1 SCR 1075"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "honour of the Crown",
+      "enforceable obligations",
+      "reconciliation",
+      "UNDRIP",
+      "fiduciary duty"
+    ],
+    "tested_concepts": [
+      "honour of the Crown legally enforceable principle",
+      "underpins duty to consult and fiduciary duty",
+      "UNDRIP complements honour of the Crown"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

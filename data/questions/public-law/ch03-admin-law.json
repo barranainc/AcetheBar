@@ -496,5 +496,226 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-03-bias-001",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "natural_justice",
+    "topic_heading": "Natural Justice — The Rule Against Bias",
+    "subtopic_id": "bias",
+    "subtopic_heading": "Reasonable Apprehension of Bias",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A member of a provincial energy regulatory board is assigned to adjudicate a rate application filed by a natural gas company. Before the hearing, the company's lawyer discovers that the board member, prior to his appointment, publicly wrote and circulated an opinion paper strongly advocating for the very rate-setting methodology the company now opposes. The applicant submits a motion to disqualify the board member on grounds of bias.",
+    "call_of_question": "What is the legal test for a reasonable apprehension of bias as established by the Supreme Court of Canada?",
+    "options": {
+      "A": "Whether the decision-maker actually harbours subjective bias against the party seeking disqualification.",
+      "B": "Whether a reasonable and informed person, having thought the matter through, would conclude that it is more likely than not that the decision-maker, whether consciously or unconsciously, would not decide fairly.",
+      "C": "Whether the decision-maker has any prior connection whatsoever to the subject matter of the proceeding.",
+      "D": "Whether there is direct evidence that the decision-maker communicated privately with one party before or during the hearing."
+    },
+    "correct_answer": "B",
+    "explanation": "The test for reasonable apprehension of bias was established in Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369, per de Grandpre J (dissent adopted as the correct test): the question is whether a reasonable and informed person, having thought the matter through, would apprehend that the decision-maker, consciously or unconsciously, would not decide fairly. This is an objective test measured from the perspective of a reasonable and fully informed observer — not whether actual bias exists.",
+    "why_A_wrong": "Incorrect. The test is objective, not subjective; actual bias need not be proven. A reasonable apprehension of bias is sufficient to ground disqualification.",
+    "why_B_wrong": "This IS the correct answer. Whether a reasonable and informed person, having thought the matter through, would conclude that it is more likely than not that the decision-maker, whether consciously or unconsciously, would not decide fairly.",
+    "why_C_wrong": "Incorrect. Prior connection alone does not establish reasonable apprehension of bias; the test requires that such connection, viewed objectively, would cause a reasonable informed person to apprehend unfairness in the adjudication.",
+    "why_D_wrong": "Incorrect. Ex parte communication with one party is evidence of bias, but the reasonable apprehension test does not require direct evidence of bias — it asks whether a reasonable person would apprehend a lack of impartiality on the available facts.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "Reasonable Apprehension of Bias",
+      "page": "N/A",
+      "rule_or_statute_reference": "Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369; Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Statutory Powers Procedure Act, R.S.O. 1990, c. S.22"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "reasonable apprehension of bias",
+      "Committee for Justice and Liberty",
+      "informed person",
+      "objective test",
+      "disqualification"
+    ],
+    "tested_concepts": [
+      "reasonable apprehension of bias test",
+      "objective standard",
+      "Committee for Justice and Liberty test",
+      "prior connection to subject matter"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-03-bias-002",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "natural_justice",
+    "topic_heading": "Natural Justice — The Rule Against Bias",
+    "subtopic_id": "bias",
+    "subtopic_heading": "Actual Bias vs Reasonable Apprehension of Bias",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A physician undergoing a fitness-to-practise inquiry before a disciplinary committee submits an affidavit from a witness who attended a committee pre-hearing meeting. The witness swears that she heard a committee member say: 'We all know this doctor is guilty; let's get the hearing over with quickly.' The physician applies to quash the proceeding, arguing both actual bias and reasonable apprehension of bias.",
+    "call_of_question": "What is the legal distinction between actual bias and reasonable apprehension of bias, and what is the practical consequence for this disciplinary proceeding?",
+    "options": {
+      "A": "Actual bias requires proof of a financial interest in the outcome; reasonable apprehension of bias requires proof of personal animosity. Both are difficult to establish and rarely succeed.",
+      "B": "Actual bias means the decision-maker has already formed a definitive view on the merits, rendering the proceeding a sham; reasonable apprehension of bias is an objective test that may be established without proof of actual prejudgment. Both grounds, if established, disqualify the decision-maker and vitiate any resulting decision.",
+      "C": "Actual bias is only relevant in criminal proceedings; in administrative law only reasonable apprehension of bias applies.",
+      "D": "Reasonable apprehension of bias requires a higher standard of proof than actual bias; proof of actual bias is therefore easier to establish."
+    },
+    "correct_answer": "B",
+    "explanation": "Actual bias — where a decision-maker has pre-judged the outcome or cannot approach the matter with an open mind — is a distinct and more serious ground than reasonable apprehension of bias. Reasonable apprehension of bias, as established in Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369, requires only that a reasonable and informed observer would apprehend a lack of impartiality; proof of actual closed-mindedness is not required. Both grounds invalidate the proceeding and any decision rendered by the biased adjudicator. Here, the committee member's statement constitutes compelling evidence of actual bias (prejudgment) and would also satisfy the reasonable apprehension test.",
+    "why_A_wrong": "Incorrect. Actual bias is not limited to financial interest; it includes prejudgment of the merits. Reasonable apprehension of bias does not require proof of personal animosity.",
+    "why_B_wrong": "This IS the correct answer. Actual bias means the decision-maker has already formed a definitive view on the merits, rendering the proceeding a sham; reasonable apprehension of bias is an objective test that may be established without proof of actual prejudgment. Both grounds, if established, disqualify the decision-maker and vitiate any resulting decision.",
+    "why_C_wrong": "Incorrect. Both actual bias and reasonable apprehension of bias are recognized grounds for disqualification in administrative law proceedings; neither is confined to criminal proceedings.",
+    "why_D_wrong": "Incorrect. The standard of proof is not higher for reasonable apprehension of bias; in fact, because reasonable apprehension requires only that a reasonable person would perceive a risk of unfairness — without proof of actual bias — it is generally easier to establish than actual bias.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "Actual Bias vs Reasonable Apprehension of Bias",
+      "page": "N/A",
+      "rule_or_statute_reference": "Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369; Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Statutory Powers Procedure Act, R.S.O. 1990, c. S.22"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "actual bias",
+      "reasonable apprehension of bias",
+      "prejudgment",
+      "disqualification",
+      "vitiate"
+    ],
+    "tested_concepts": [
+      "distinction between actual bias and reasonable apprehension",
+      "prejudgment as actual bias",
+      "consequence of established bias"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-03-bias-003",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "natural_justice",
+    "topic_heading": "Natural Justice — The Rule Against Bias",
+    "subtopic_id": "bias",
+    "subtopic_heading": "Institutional Independence — Valente Factors",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario occupational health and safety tribunal has its members appointed to renewable one-year terms by Order in Council. Members' salaries are set by Cabinet order and are not protected against reduction. The tribunal's administrative support, including scheduling and document management, is provided by the ministry whose decisions the tribunal reviews. A regulated employer argues that the tribunal lacks the institutional independence required by procedural fairness.",
+    "call_of_question": "Which of the Valente factors is most clearly violated by the circumstances described, and what is the legal consequence?",
+    "options": {
+      "A": "Administrative independence — the fact that the ministry provides administrative support to the tribunal that reviews its decisions creates at minimum a reasonable apprehension that the tribunal lacks independence from the executive.",
+      "B": "Security of tenure — because members are appointed for renewable one-year terms and serve at pleasure, they lack the security of tenure required for adjudicative independence.",
+      "C": "Financial security — because salaries can be reduced by Cabinet order without legislative protection, members lack financial security, undermining their independence.",
+      "D": "All three Valente factors are violated and the tribunal lacks any capacity to make lawful decisions."
+    },
+    "correct_answer": "A",
+    "explanation": "Valente v The Queen, [1985] 2 SCR 673, identified three essential conditions of judicial independence: (1) security of tenure, (2) financial security, and (3) administrative independence (institutional independence). Administrative independence requires that the tribunal control the administrative decisions that bear directly on adjudicative functions. Where the ministry whose decisions the tribunal reviews also controls its administrative support — scheduling, document management — a reasonable apprehension of institutional dependence on the executive arises. While security of tenure and financial security concerns are also present here, administrative independence is most directly implicated by the ministry's administrative control of the adjudicative process.",
+    "why_A_wrong": "This IS the correct answer. Administrative independence — the fact that the ministry provides administrative support to the tribunal that reviews its decisions creates at minimum a reasonable apprehension that the tribunal lacks independence from the executive.",
+    "why_B_wrong": "Incorrect. While renewable one-year terms raise security of tenure concerns, the Valente test requires examining whether tenure is 'during good behaviour' or terminable at pleasure; renewable terms do not automatically violate security of tenure if there are adequate protections. The more direct violation here is administrative independence.",
+    "why_C_wrong": "Incorrect. Salary reduction by Cabinet order does raise financial security concerns under Valente, but this concern — while real — is less direct than the administrative independence concern arising from the ministry's control of the tribunal's administrative functions.",
+    "why_D_wrong": "Incorrect. Even where Valente factors are impaired, a court conducts a contextual analysis to determine whether the institutional arrangement, viewed as a whole, gives rise to a reasonable apprehension of lack of independence; a lack of independence does not categorically void all past decisions without further analysis.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "Institutional Independence — Valente Factors",
+      "page": "N/A",
+      "rule_or_statute_reference": "Valente v The Queen, [1985] 2 SCR 673; Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Statutory Powers Procedure Act, R.S.O. 1990, c. S.22"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Valente",
+      "institutional independence",
+      "security of tenure",
+      "financial security",
+      "administrative independence"
+    ],
+    "tested_concepts": [
+      "Valente three conditions of independence",
+      "administrative independence from executive",
+      "ministry control of tribunal administration"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-03-bias-004",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "natural_justice",
+    "topic_heading": "Natural Justice — The Rule Against Bias",
+    "subtopic_id": "bias",
+    "subtopic_heading": "Waiver of Bias Objection",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "During a four-day regulatory hearing before an Ontario tribunal, a party's counsel becomes aware on day two that a tribunal member owns shares in one of the companies whose commercial interests would be directly affected by the regulatory outcome. Counsel does not raise the issue during the hearing and waits until after an adverse decision is issued to bring a motion seeking to quash the decision on grounds of reasonable apprehension of bias.",
+    "call_of_question": "Is the party's bias objection likely to succeed, and what is the governing legal principle?",
+    "options": {
+      "A": "Yes. A reasonable apprehension of bias arising from a financial interest can never be waived, even through conduct, and the objection is timely whenever raised.",
+      "B": "Yes. The party is entitled to wait for the outcome of the proceeding before deciding whether to raise bias, and raising it post-decision is procedurally permissible.",
+      "C": "No. A party who becomes aware of a potential bias ground during a proceeding and fails to raise it at the earliest reasonable opportunity is taken to have waived the objection; raising it only after an adverse decision is issued will generally be seen as an improper tactical manoeuvre.",
+      "D": "No, but only because financial interest is not a recognized ground of reasonable apprehension of bias for tribunal members."
+    },
+    "correct_answer": "C",
+    "explanation": "A party who is aware of a potential bias ground must raise it at the earliest reasonable opportunity in the proceedings. Failure to do so constitutes a waiver of the objection. This principle, recognized in Canadian administrative law, prevents parties from 'keep in reserve' a bias objection as insurance against an unfavourable outcome. Waiting until after an adverse decision has been rendered — when the party was aware of the potential bias from day two of a four-day hearing — is a classic example of strategic waiver, and courts will generally refuse to entertain the belated objection.",
+    "why_A_wrong": "Incorrect. While some bias grounds are serious enough that courts will consider them despite procedural issues, the general rule is that bias objections must be raised promptly; the right to raise bias can be waived by conduct.",
+    "why_B_wrong": "Incorrect. A party is not entitled to wait for the outcome before deciding whether to raise bias; that approach is precisely the tactical manoeuvre the waiver principle is designed to prevent.",
+    "why_C_wrong": "This IS the correct answer. No. A party who becomes aware of a potential bias ground during a proceeding and fails to raise it at the earliest reasonable opportunity is taken to have waived the objection; raising it only after an adverse decision is issued will generally be seen as an improper tactical manoeuvre.",
+    "why_D_wrong": "Incorrect. A financial interest in the outcome — particularly a direct ownership stake in affected companies — is a well-recognized and serious ground of reasonable apprehension of bias in administrative proceedings.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "Waiver of Bias Objection",
+      "page": "N/A",
+      "rule_or_statute_reference": "Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369; Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Statutory Powers Procedure Act, R.S.O. 1990, c. S.22"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "waiver of bias",
+      "earliest opportunity",
+      "tactical reservation",
+      "post-decision objection",
+      "financial interest"
+    ],
+    "tested_concepts": [
+      "waiver of bias objection",
+      "earliest opportunity requirement",
+      "strategic reservation of bias ground"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

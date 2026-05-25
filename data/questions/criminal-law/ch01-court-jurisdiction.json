@@ -1,0 +1,225 @@
+[
+  {
+    "id": "crim-01-juris-001",
+    "subject": "criminal_law",
+    "chapter_number": 1,
+    "chapter_title": "Court Structure and Jurisdiction",
+    "topic_id": "court_jurisdiction",
+    "topic_heading": "Court Structure and Jurisdiction",
+    "subtopic_id": "absolute_exclusive_jurisdiction",
+    "subtopic_heading": "Absolute and Exclusive Jurisdiction — s. 553 and s. 469",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A client is charged with theft under $5,000 contrary to s. 322 of the Criminal Code. The client asks her lawyer which court will try the case and whether she has the right to elect her mode of trial.",
+    "call_of_question": "Which court has jurisdiction to try this charge, and does the accused have the right to elect her mode of trial?",
+    "options": {
+      "A": "The Ontario Court of Justice has absolute jurisdiction over the charge under s. 553 of the Criminal Code; the accused has no right to elect her mode of trial.",
+      "B": "The accused must be tried in the Superior Court of Justice because all theft charges carry a potential penalty exceeding six months.",
+      "C": "The accused may elect to be tried by a superior court judge alone or by a superior court judge and jury.",
+      "D": "The Ontario Court of Justice has jurisdiction only if the Crown elects to proceed summarily; if the Crown proceeds by indictment, the accused may elect her mode of trial."
+    },
+    "correct_answer": "A",
+    "explanation": "Under s. 553 of the Criminal Code, certain indictable offences fall within the absolute jurisdiction of a provincial court judge (in Ontario, the Ontario Court of Justice). Theft under $5,000 (s. 322 where the value does not exceed $5,000) is listed in s. 553(a). Where an offence falls within the absolute jurisdiction of a provincial court judge, the accused has no right to elect her mode of trial — the case is tried by a provincial court judge without a jury and without a preliminary inquiry. This is distinct from hybrid offences or other indictable offences where election rights arise.",
+    "why_A_wrong": "This IS the correct answer. Theft under $5,000 falls within s. 553 absolute jurisdiction; no election is available.",
+    "why_B_wrong": "The potential penalty does not determine which court has absolute jurisdiction. Section 553 specifically lists theft under $5,000 as within the absolute jurisdiction of a provincial court judge regardless of the maximum penalty for theft generally.",
+    "why_C_wrong": "The right to elect between superior court modes arises under s. 536 for non-s. 553 indictable offences. Theft under $5,000 falls under s. 553 absolute jurisdiction, so no election is available.",
+    "why_D_wrong": "Theft under $5,000 is not a hybrid offence — the Crown's election is not relevant. The offence falls under s. 553 and must be tried by a provincial court judge. The Crown's summary/indictable election applies to hybrid offences, not s. 553 offences.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 1 — Court Structure and Jurisdiction",
+      "heading": "Absolute and Exclusive Jurisdiction",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 553(a)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "absolute jurisdiction",
+      "s. 553",
+      "provincial court",
+      "no election",
+      "theft under $5,000"
+    ],
+    "tested_concepts": [
+      "s. 553 absolute jurisdiction of provincial court judge",
+      "no election right for s. 553 offences",
+      "theft under $5,000 as s. 553 offence"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-01-juris-002",
+    "subject": "criminal_law",
+    "chapter_number": 1,
+    "chapter_title": "Court Structure and Jurisdiction",
+    "topic_id": "court_jurisdiction",
+    "topic_heading": "Court Structure and Jurisdiction",
+    "subtopic_id": "summary_indictable_hybrid",
+    "subtopic_heading": "Summary, Indictable, and Hybrid Offences — Crown Election",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Raj is charged with assault causing bodily harm, which is a hybrid offence under s. 267 of the Criminal Code. The Crown has not yet made its election. Raj's defence counsel advises him that the Crown's choice will significantly affect the available penalties and the court in which Raj will be tried.",
+    "call_of_question": "Who elects the mode of proceeding for a hybrid offence, and when must that election be made?",
+    "options": {
+      "A": "The accused elects whether to proceed summarily or by indictment at the time of arraignment.",
+      "B": "The Crown elects whether to proceed summarily or by indictment; it must make this election before the accused is required to plead.",
+      "C": "The court decides whether to proceed summarily or by indictment based on the seriousness of the offence as disclosed in the information.",
+      "D": "The accused and Crown jointly elect the mode of proceeding, and the court must approve the joint election."
+    },
+    "correct_answer": "B",
+    "explanation": "For hybrid offences (also called Crown election offences or dual procedure offences), it is the Crown — not the accused — that elects whether to proceed summarily or by indictment. The Crown must make this election before the accused is required to plead to the charge. Once the Crown elects, the offence is treated as either a summary conviction or indictable offence for all subsequent purposes, including jurisdiction, limitation periods, mode of trial, and available penalties. If the Crown proceeds summarily on assault causing bodily harm, the maximum is 18 months imprisonment; by indictment, the maximum is 10 years.",
+    "why_A_wrong": "The accused does not elect the mode of proceeding for hybrid offences. It is the Crown's election, not the accused's, that determines whether the matter proceeds summarily or by indictment.",
+    "why_B_wrong": "This IS the correct answer. The Crown elects the mode of proceeding for hybrid offences before the accused is required to plead.",
+    "why_C_wrong": "The court does not decide the mode of proceeding for hybrid offences. The court's role is adjudicative; the Crown's prosecutorial discretion governs which mode is chosen.",
+    "why_D_wrong": "There is no joint election mechanism for hybrid offences. The Crown alone decides whether to proceed summarily or by indictment. Court approval of the election is not required.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 1 — Court Structure and Jurisdiction",
+      "heading": "Summary, Indictable, and Hybrid Offences",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 267; interpretation of hybrid offences"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "hybrid offence",
+      "Crown election",
+      "summary or indictment",
+      "mode of proceeding",
+      "before accused pleads"
+    ],
+    "tested_concepts": [
+      "Crown election for hybrid offences",
+      "timing of Crown election",
+      "effect of election on penalties and jurisdiction"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-01-juris-003",
+    "subject": "criminal_law",
+    "chapter_number": 1,
+    "chapter_title": "Court Structure and Jurisdiction",
+    "topic_id": "court_jurisdiction",
+    "topic_heading": "Court Structure and Jurisdiction",
+    "subtopic_id": "absolute_exclusive_jurisdiction",
+    "subtopic_heading": "Absolute and Exclusive Jurisdiction — s. 553 and s. 469",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Marcus is charged with first degree murder under s. 235 of the Criminal Code. His defence counsel explains that the case cannot be tried by a provincial court judge and that the accused's election is also limited in this case.",
+    "call_of_question": "Which court has exclusive jurisdiction to try first degree murder, and what election right does the accused have?",
+    "options": {
+      "A": "The Ontario Court of Justice has jurisdiction if the Crown elects to proceed by indictment; the accused may elect a jury or judge-alone trial.",
+      "B": "The Superior Court of Justice has exclusive jurisdiction under s. 469 of the Criminal Code; the accused may still elect between a judge-alone trial and a jury trial.",
+      "C": "The Superior Court of Justice has exclusive jurisdiction under s. 469 of the Criminal Code; the accused has no right to elect — the trial must be by judge and jury unless the accused and Crown jointly apply for a judge-alone trial.",
+      "D": "The Court of Appeal has original jurisdiction for murder charges because of their seriousness."
+    },
+    "correct_answer": "C",
+    "explanation": "Under s. 469 of the Criminal Code, certain offences — including murder, treason, alarming Her Majesty, seditious offences, piracy, and others — fall within the exclusive jurisdiction of a superior court. First degree murder under s. 235 is an s. 469 offence. When an accused is charged with an s. 469 offence, there is no standard election under s. 536. The trial must proceed before a superior court judge and jury unless the accused and the Attorney General both consent and the judge approves a judge-alone trial under s. 473. This is the reverse of the usual rule: for most indictable offences, a jury trial is an option the accused chooses; for s. 469 offences, a jury trial is the default and a judge-alone trial requires consent from both sides.",
+    "why_A_wrong": "The Ontario Court of Justice has no jurisdiction over s. 469 offences such as murder. First degree murder must be tried in the Superior Court of Justice regardless of the Crown's mode of election.",
+    "why_B_wrong": "The accused does not have a free-standing right to elect a judge-alone trial for s. 469 offences. Under s. 473, a judge-alone trial requires the consent of both the accused and the Attorney General, plus court approval. By default, s. 469 offences are tried by judge and jury.",
+    "why_C_wrong": "This IS the correct answer. The Superior Court has exclusive jurisdiction under s. 469; jury trial is the default for murder; judge-alone requires joint consent under s. 473.",
+    "why_D_wrong": "Courts of appeal do not have original (first instance) jurisdiction over murder. They hear appeals from trial court decisions. The Superior Court of Justice is the court of first instance for s. 469 offences.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 1 — Court Structure and Jurisdiction",
+      "heading": "Absolute and Exclusive Jurisdiction",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, ss. 469, 473"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 469",
+      "exclusive jurisdiction",
+      "superior court",
+      "murder",
+      "jury trial default",
+      "s. 473"
+    ],
+    "tested_concepts": [
+      "s. 469 exclusive jurisdiction of superior court",
+      "murder requires jury trial by default",
+      "s. 473 joint consent for judge-alone on s. 469 offences"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-01-juris-004",
+    "subject": "criminal_law",
+    "chapter_number": 1,
+    "chapter_title": "Court Structure and Jurisdiction",
+    "topic_id": "court_jurisdiction",
+    "topic_heading": "Court Structure and Jurisdiction",
+    "subtopic_id": "accused_election",
+    "subtopic_heading": "Accused's Election — Three Modes of Trial for Indictable Offences",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Samira is charged with fraud over $5,000 contrary to s. 380(1)(a) of the Criminal Code. The offence is not listed in s. 553 (absolute provincial court jurisdiction) and is not an s. 469 offence. Samira asks her lawyer to explain the three options available to her for mode of trial.",
+    "call_of_question": "Which statement correctly describes the three modes of trial available to Samira under s. 536 of the Criminal Code?",
+    "options": {
+      "A": "Samira may elect: (1) Ontario Court of Justice judge without a jury and without a preliminary inquiry; (2) Ontario Court of Justice judge without a jury but with a preliminary inquiry; (3) Superior Court judge and jury.",
+      "B": "Samira may elect: (1) Ontario Court of Justice judge without a jury; (2) Superior Court of Justice judge without a jury; (3) Superior Court of Justice judge and jury.",
+      "C": "Samira may elect: (1) summary conviction trial in the Ontario Court of Justice; (2) indictable trial before a superior court judge alone; (3) jury trial in the Superior Court.",
+      "D": "Samira has no right to elect — for fraud over $5,000, only the Crown determines the mode of trial."
+    },
+    "correct_answer": "B",
+    "explanation": "For indictable offences that are neither within the absolute jurisdiction of a provincial court judge (s. 553) nor within the exclusive jurisdiction of a superior court (s. 469), the accused has the right under s. 536(2) to elect the mode of trial. The three modes are: (1) trial by a provincial court judge sitting alone without a jury (Ontario Court of Justice); (2) trial by a superior court judge sitting alone without a jury (Superior Court of Justice); and (3) trial by a superior court judge sitting with a jury. Each mode has different implications for preliminary inquiries and procedural steps. Fraud over $5,000 is a non-s. 553, non-s. 469 indictable offence, so Samira has a full election under s. 536.",
+    "why_A_wrong": "The second option in this answer — Ontario Court of Justice with a preliminary inquiry — does not exist as a distinct mode. Preliminary inquiries under s. 535 are held in provincial court before the accused is committed to stand trial, but they precede election; they are not a separate mode of trial alongside the three modes in s. 536.",
+    "why_B_wrong": "This IS the correct answer. The three modes under s. 536 are: (1) provincial court judge alone; (2) superior court judge alone; (3) superior court judge and jury.",
+    "why_C_wrong": "Fraud over $5,000 is an indictable offence, not a hybrid offence. The summary conviction option is not available for indictable offences regardless of the accused's preference. The Crown would have to elect summarily for a hybrid offence, but fraud over $5,000 is not hybrid.",
+    "why_D_wrong": "Fraud over $5,000 is not an s. 469 offence requiring default jury trial, and it is not an s. 553 offence of absolute provincial court jurisdiction. Accordingly, Samira has the full election right under s. 536. The Crown does not determine mode of trial for non-hybrid indictable offences.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 1 — Court Structure and Jurisdiction",
+      "heading": "Accused's Election — Three Modes of Trial",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 536(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 536",
+      "election",
+      "three modes of trial",
+      "provincial court judge",
+      "superior court judge alone",
+      "jury"
+    ],
+    "tested_concepts": [
+      "s. 536 accused's election — three modes",
+      "provincial court judge alone",
+      "superior court judge alone vs judge and jury",
+      "non-s.553 non-s.469 indictable offences"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

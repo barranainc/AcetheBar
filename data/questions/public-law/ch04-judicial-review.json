@@ -493,5 +493,337 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-04-jr-remedy-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_remedies",
+    "topic_heading": "Remedies on Judicial Review",
+    "subtopic_id": "jr_remedies",
+    "subtopic_heading": "JR Remedies — Certiorari, Mandamus, Prohibition, and Declaratory Relief",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A municipality issues a stop-work order against a property owner after a building inspector determines the owner's renovation violates the zoning by-law. The owner seeks judicial review of the stop-work order. The reviewing court finds the decision unreasonable. The owner also asks the court to order the municipality to issue a building permit immediately, and to declare the relevant zoning by-law invalid.",
+    "call_of_question": "Which of the following correctly describes the remedies of certiorari and mandamus as available on judicial review under the Judicial Review Procedure Act?",
+    "options": {
+      "A": "Certiorari compels a public authority to perform a public duty; mandamus quashes an unlawful decision already made.",
+      "B": "Certiorari quashes an unlawful decision of an inferior tribunal or public authority; mandamus compels a public authority to perform a public duty it has refused or failed to perform.",
+      "C": "Certiorari prevents a tribunal from making a decision it has not yet made; mandamus restrains a public authority from acting unlawfully.",
+      "D": "Certiorari and mandamus are identical remedies; the distinction between them was abolished by the Judicial Review Procedure Act."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2, an application for judicial review may seek any of the former prerogative writs including certiorari (to quash an unlawful decision of an inferior body) and mandamus (to compel a public authority to perform a duty it is legally required to perform). Prohibition prevents a tribunal from exercising jurisdiction it does not have before a decision is made. In this case, certiorari would quash the unreasonable stop-work order; mandamus could compel issuance of a permit if the authority had a duty to issue it; and declaratory relief could address the validity of the by-law.",
+    "why_A_wrong": "Incorrect. The descriptions are reversed: certiorari quashes, mandamus compels. Confusing these two remedies is a common exam error.",
+    "why_B_wrong": "This IS the correct answer. Certiorari quashes an unlawful decision of an inferior tribunal or public authority; mandamus compels a public authority to perform a public duty it has refused or failed to perform.",
+    "why_C_wrong": "Incorrect. The description of certiorari in this option describes prohibition (preventing a future act), not certiorari (quashing an existing decision). Mandamus does not restrain; it compels.",
+    "why_D_wrong": "Incorrect. While the JRPA consolidated the procedure for seeking relief, it preserved the substantive distinction between certiorari, mandamus, prohibition, and declaratory relief; they are not identical.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "JR Remedies — Certiorari, Mandamus, Prohibition, and Declaratory Relief",
+      "page": "N/A",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "certiorari",
+      "mandamus",
+      "prohibition",
+      "quash",
+      "compel",
+      "prerogative writs"
+    ],
+    "tested_concepts": [
+      "certiorari quashes unlawful decisions",
+      "mandamus compels performance of duty",
+      "prohibition prevents future unlawful acts",
+      "JRPA consolidation of prerogative remedies"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-04-jr-remedy-002",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_remedies",
+    "topic_heading": "Remedies on Judicial Review",
+    "subtopic_id": "jr_remedies",
+    "subtopic_heading": "JR Remedies — Certiorari, Mandamus, Prohibition, and Declaratory Relief",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario securities regulator is in the process of conducting a hearing but has not yet issued a decision. A respondent becomes aware during the hearing that the panel chair participated in an earlier staff investigation in a way that raises a serious reasonable apprehension of bias. The respondent seeks an immediate judicial review remedy to halt the ongoing hearing before a decision is made.",
+    "call_of_question": "Which prerogative remedy is most appropriate to prevent the biased tribunal from continuing and issuing a decision it has no lawful jurisdiction to make?",
+    "options": {
+      "A": "Certiorari, because certiorari is the remedy used to quash an administrative decision before it is made.",
+      "B": "Mandamus, because the respondent is seeking to compel the tribunal to halt the proceeding.",
+      "C": "Prohibition, because prohibition is the appropriate remedy to prevent an inferior tribunal from exercising jurisdiction it does not lawfully possess before a decision has been rendered.",
+      "D": "Declaratory relief, because a declaration that the tribunal is biased is sufficient to halt the proceeding without the need for a prerogative writ."
+    },
+    "correct_answer": "C",
+    "explanation": "Prohibition is the prerogative remedy that prevents an inferior tribunal from exercising jurisdiction it does not possess — or from exceeding jurisdiction it does possess — before a decision has been issued. Under the Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2, all such prerogative remedies are available in a single application for judicial review. Where a bias ground disqualifies the panel from adjudicating, prohibition lies to prevent the unlawful proceeding from continuing. Once a decision has been made, certiorari would be the appropriate remedy to quash it.",
+    "why_A_wrong": "Incorrect. Certiorari operates after a decision has been made to quash the unlawful decision; it is not available to halt a proceeding in progress before any decision is rendered.",
+    "why_B_wrong": "Incorrect. Mandamus compels a public authority to perform a duty it has failed to perform; it does not prevent or halt action. The respondent is seeking to restrain, not compel.",
+    "why_C_wrong": "This IS the correct answer. Prohibition, because prohibition is the appropriate remedy to prevent an inferior tribunal from exercising jurisdiction it does not lawfully possess before a decision has been rendered.",
+    "why_D_wrong": "Incorrect. While declaratory relief can accompany prerogative writs, a declaration alone (without the writ of prohibition) may not have the same coercive effect; prohibition is the specific remedy designed to halt an ongoing unlawful proceeding.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "JR Remedies — Certiorari, Mandamus, Prohibition, and Declaratory Relief",
+      "page": "N/A",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Dunsmuir v New Brunswick, [2008] 1 SCR 190"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "prohibition",
+      "ongoing hearing",
+      "prevent",
+      "before decision",
+      "jurisdiction"
+    ],
+    "tested_concepts": [
+      "prohibition prevents future unlawful adjudication",
+      "timing of certiorari vs prohibition",
+      "bias as jurisdictional defect"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-04-privative-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_procedure",
+    "topic_heading": "Judicial Review — Procedure and Privative Clauses",
+    "subtopic_id": "privative_clauses",
+    "subtopic_heading": "Privative Clauses — Effect on Judicial Review",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A labour arbitrator issues a decision under an Ontario collective agreement. The Labour Relations Act contains the following clause: 'Every decision or order of an arbitrator under this Part is final and binding and is not subject to appeal to any court or to review or restraint by any court.' An employer seeks judicial review in the Divisional Court, arguing the arbitrator committed a jurisdictional error.",
+    "call_of_question": "What effect does a full privative clause have on the availability of judicial review of an arbitrator's decision?",
+    "options": {
+      "A": "A full privative clause completely bars judicial review; no court has any jurisdiction whatsoever to review the arbitrator's decision.",
+      "B": "A full privative clause is constitutionally invalid because superior courts have inherent jurisdiction to review inferior tribunals that cannot be ousted by statute.",
+      "C": "A full privative clause is a strong signal that the legislature intended deference to the decision-maker, informing the standard of review analysis; however, privative clauses do not entirely oust judicial review, which remains available to correct true jurisdictional errors, constitutional violations, and questions of natural justice.",
+      "D": "A full privative clause shifts the burden of proof to the applicant to prove the decision was unreasonable beyond a reasonable doubt."
+    },
+    "correct_answer": "C",
+    "explanation": "Privative clauses reflect legislative intent that courts give deference to specialized decision-makers, and under the Vavilov framework they inform the standard of review analysis by supporting a reasonableness standard. However, s. 96 of the Constitution Act, 1867 protects the core jurisdiction of superior courts, and the Supreme Court of Canada has consistently held that privative clauses cannot entirely oust judicial review. Courts retain jurisdiction to review decisions for jurisdictional errors, constitutional violations, and breaches of natural justice notwithstanding a full privative clause.",
+    "why_A_wrong": "Incorrect. Privative clauses cannot fully oust judicial review; s. 96 of the Constitution Act, 1867 protects a core of superior court supervisory jurisdiction.",
+    "why_B_wrong": "Incorrect. Privative clauses are constitutionally valid within their proper scope; they are not per se invalid. The constitutional limit is that they cannot eliminate the core of judicial review that is protected by s. 96.",
+    "why_C_wrong": "This IS the correct answer. A full privative clause is a strong signal that the legislature intended deference to the decision-maker, informing the standard of review analysis; however, privative clauses do not entirely oust judicial review, which remains available to correct true jurisdictional errors, constitutional violations, and questions of natural justice.",
+    "why_D_wrong": "Incorrect. Privative clauses do not alter the burden of proof on judicial review; the court applies the appropriate standard of review (usually reasonableness) and the applicant bears the onus of establishing the decision is defective.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Privative Clauses — Effect on Judicial Review",
+      "page": "N/A",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65; Constitution Act, 1867, s. 96"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "privative clause",
+      "final and binding",
+      "oust judicial review",
+      "s. 96",
+      "deference"
+    ],
+    "tested_concepts": [
+      "privative clause effect on standard of review",
+      "constitutional limits on privative clauses s. 96",
+      "judicial review cannot be fully ousted"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-04-privative-002",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_procedure",
+    "topic_heading": "Judicial Review — Procedure and Privative Clauses",
+    "subtopic_id": "privative_clauses",
+    "subtopic_heading": "Privative Clauses — Full vs Partial; Jurisdictional Questions",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario statute governing a specialized environmental review board provides: 'The Board's decisions on matters within its jurisdiction are final.' A proponent seeks judicial review, arguing the Board exceeded its statutory jurisdiction by considering social impact evidence that the enabling statute does not mention. The Board argues its privative clause bars any review.",
+    "call_of_question": "What is the legal distinction between a full privative clause and a partial privative clause, and how does each affect the availability of judicial review?",
+    "options": {
+      "A": "A full privative clause bars review on all grounds; a partial privative clause bars review on questions of law but not questions of fact.",
+      "B": "There is no meaningful distinction; both full and partial privative clauses are treated identically under the Vavilov framework as signals of deference.",
+      "C": "A full privative clause purports to bar all judicial review; a partial privative clause (such as 'final on matters within its jurisdiction') bars review within the scope of the grant while implicitly preserving review for jurisdictional questions, excess of jurisdiction, or constitutional issues — thereby narrowing but not eliminating the scope of review.",
+      "D": "A partial privative clause, unlike a full clause, is constitutionally invalid because it acknowledges the possibility of review without granting it."
+    },
+    "correct_answer": "C",
+    "explanation": "A full privative clause purports to exclude all judicial review entirely. A partial privative clause — such as one that protects decisions 'within jurisdiction' or 'on matters within the Board's authority' — by its own terms limits protection to decisions made within the scope of the grant, leaving open the possibility of review for decisions made in excess of jurisdiction. Courts have interpreted such language as preserving review for jurisdictional excess. Under Vavilov, 2019 SCC 65, even a full privative clause cannot entirely oust review, but a partial clause is even more clearly limited in its protective scope.",
+    "why_A_wrong": "Incorrect. A full privative clause does not entirely bar all review (due to constitutional limits), and the distinction is not simply law vs. fact but turns on the scope of the clause's protection.",
+    "why_B_wrong": "Incorrect. Vavilov treats the presence of a privative clause as a deference signal, but the scope and wording of the clause remains legally significant; a partial clause (which explicitly limits protection to intra-jurisdictional decisions) has a narrower scope than a full clause.",
+    "why_C_wrong": "This IS the correct answer. A full privative clause purports to bar all judicial review; a partial privative clause (such as 'final on matters within its jurisdiction') bars review within the scope of the grant while implicitly preserving review for jurisdictional questions, excess of jurisdiction, or constitutional issues — thereby narrowing but not eliminating the scope of review.",
+    "why_D_wrong": "Incorrect. Partial privative clauses are constitutionally valid; they simply have a narrower scope than full clauses. There is no constitutional principle that recognizing the possibility of review in the clause's text renders it invalid.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Privative Clauses — Full vs Partial; Jurisdictional Questions",
+      "page": "N/A",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65; Constitution Act, 1867, s. 96"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "full privative clause",
+      "partial privative clause",
+      "within jurisdiction",
+      "excess of jurisdiction",
+      "deference signal"
+    ],
+    "tested_concepts": [
+      "full vs partial privative clause distinction",
+      "partial clause preserves review for jurisdictional excess",
+      "Vavilov deference signal from privative clauses"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-04-div-court-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_procedure",
+    "topic_heading": "Judicial Review — Procedure and Privative Clauses",
+    "subtopic_id": "div_court",
+    "subtopic_heading": "Divisional Court — Jurisdiction over Judicial Review of Ontario Tribunals",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A regulated real estate agent receives an adverse decision from the Real Estate Council of Ontario (RECO). The agent wishes to challenge the decision by way of judicial review in Ontario. She is unsure whether to file in the Superior Court of Justice or the Divisional Court.",
+    "call_of_question": "Which Ontario court has jurisdiction to hear judicial review applications of decisions made by Ontario provincial administrative tribunals?",
+    "options": {
+      "A": "The Ontario Court of Appeal has exclusive jurisdiction to review decisions of Ontario tribunals.",
+      "B": "The Superior Court of Justice has exclusive jurisdiction over all judicial review applications in Ontario.",
+      "C": "The Divisional Court, as a branch of the Superior Court of Justice, has jurisdiction under s. 6(1) of the Courts of Justice Act to hear and determine applications for judicial review of Ontario provincial tribunals.",
+      "D": "The Federal Court has jurisdiction over all administrative tribunal decisions in Canada, including provincial tribunals."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Courts of Justice Act, R.S.O. 1990, c. C.43, s. 6(1), the Divisional Court has jurisdiction to hear and determine applications for judicial review. The Divisional Court is a branch of the Superior Court of Justice and is the primary forum for judicial review of decisions by Ontario provincial administrative tribunals. Leave to appeal from the Divisional Court goes to the Court of Appeal; the Federal Court has no jurisdiction over provincial tribunals.",
+    "why_A_wrong": "Incorrect. The Court of Appeal hears appeals from the Divisional Court but does not have original judicial review jurisdiction over Ontario tribunals.",
+    "why_B_wrong": "Incorrect. While the Superior Court of Justice retains inherent jurisdiction, the Divisional Court — as a specialized branch — has been assigned primary judicial review jurisdiction over Ontario tribunals under s. 6(1) of the Courts of Justice Act.",
+    "why_C_wrong": "This IS the correct answer. The Divisional Court, as a branch of the Superior Court of Justice, has jurisdiction under s. 6(1) of the Courts of Justice Act to hear and determine applications for judicial review of Ontario provincial tribunals.",
+    "why_D_wrong": "Incorrect. The Federal Court has jurisdiction over federal boards, commissions, and tribunals; it has no jurisdiction over Ontario provincial administrative tribunals.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Divisional Court — Jurisdiction over Judicial Review of Ontario Tribunals",
+      "page": "N/A",
+      "rule_or_statute_reference": "Courts of Justice Act, R.S.O. 1990, c. C.43, s. 6(1); Judicial Review Procedure Act, R.S.O. 1990, c. J.1"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Divisional Court",
+      "Courts of Justice Act s. 6",
+      "judicial review",
+      "Ontario tribunal",
+      "jurisdiction"
+    ],
+    "tested_concepts": [
+      "Divisional Court jurisdiction under CJA s. 6(1)",
+      "Divisional Court as primary JR forum for Ontario tribunals",
+      "distinction from Federal Court jurisdiction"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-04-div-court-002",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_procedure",
+    "topic_heading": "Judicial Review — Procedure and Privative Clauses",
+    "subtopic_id": "div_court",
+    "subtopic_heading": "Divisional Court — Leave Requirements for Judicial Review",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A party receives an adverse decision from the Ontario Rental Housing Tribunal and wishes to seek judicial review. The Judicial Review Procedure Act governs the procedure. The party has been informed that in some cases leave of the Divisional Court is required before a judicial review application can proceed, while in others no leave is needed.",
+    "call_of_question": "Under the Judicial Review Procedure Act, when is leave to seek judicial review required?",
+    "options": {
+      "A": "Leave is always required before any judicial review application may proceed in Ontario.",
+      "B": "Leave is never required; all judicial review applications may proceed as of right in the Divisional Court.",
+      "C": "Leave is required where the enabling statute of the tribunal under review specifically requires leave as a condition of judicial review, or where the matter is within a category for which the JRPA or Courts of Justice Act prescribes a leave requirement.",
+      "D": "Leave is required only where the applicant seeks certiorari; mandamus and prohibition applications may always proceed without leave."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Judicial Review Procedure Act, R.S.O. 1990, c. J.1, there is no blanket universal leave requirement for judicial review applications. However, the enabling statutes of specific Ontario tribunals may impose a leave requirement as a condition of seeking judicial review, and the Courts of Justice Act may impose leave requirements in specific contexts (for example, certain appeals). Where no leave requirement is prescribed, the application proceeds as of right. Practitioners must check the specific tribunal's enabling legislation for any leave conditions.",
+    "why_A_wrong": "Incorrect. There is no blanket requirement that all Ontario judicial review applications require leave; the JRPA does not impose a universal leave requirement.",
+    "why_B_wrong": "Incorrect. While many applications proceed without leave, some enabling statutes impose leave requirements; whether leave is needed depends on the specific statutory framework governing the tribunal being reviewed.",
+    "why_C_wrong": "This IS the correct answer. Leave is required where the enabling statute of the tribunal under review specifically requires leave as a condition of judicial review, or where the matter is within a category for which the JRPA or Courts of Justice Act prescribes a leave requirement.",
+    "why_D_wrong": "Incorrect. The distinction between certiorari, mandamus, and prohibition does not determine whether leave is needed; the leave requirement turns on the statutory framework, not the form of remedy sought.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Divisional Court — Leave Requirements for Judicial Review",
+      "page": "N/A",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1; Courts of Justice Act, R.S.O. 1990, c. C.43, s. 6"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "leave",
+      "judicial review",
+      "JRPA",
+      "Divisional Court",
+      "enabling statute"
+    ],
+    "tested_concepts": [
+      "leave requirement under JRPA",
+      "enabling statute may impose leave condition",
+      "no blanket leave requirement in Ontario JR"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

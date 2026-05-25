@@ -1,0 +1,332 @@
+[
+  {
+    "id": "civ-04-pers-001",
+    "subject": "civil_litigation",
+    "chapter_number": 4,
+    "chapter_title": "Service of Process",
+    "topic_id": "personal_service",
+    "topic_heading": "Personal Service",
+    "subtopic_id": "personal_service",
+    "subtopic_heading": "Personal Service on Individuals — Methods Under r.16.02",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A process server is attempting to personally serve a statement of claim on Marcus, an individual defendant. Marcus is not at his home but the process server finds Marcus at his place of work. Marcus refuses to accept the documents but the process server leaves them on Marcus's desk in his presence.",
+    "call_of_question": "Under r.16.02 of the Rules of Civil Procedure, has personal service on Marcus been validly effected?",
+    "options": {
+      "A": "No — personal service on an individual is only valid if the defendant personally accepts the documents from the process server's hands.",
+      "B": "Yes — leaving the documents with Marcus in his presence at his place of work constitutes valid personal service under r.16.02, even though Marcus refused to accept them.",
+      "C": "No — personal service must be effected at the defendant's residence; service at a place of work is not valid personal service.",
+      "D": "No — the process server must first obtain a court order permitting service at the defendant's place of work."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.16.02(1)(a) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), personal service on an individual shall be made by leaving a copy of the document with the individual. Physical acceptance is not required — leaving the document with the person, whether or not they choose to accept it, constitutes valid personal service. A defendant cannot avoid service by refusing to take documents that are placed in their presence. Personal service may be effected at any location where the individual is found, including a place of work.",
+    "why_A_wrong": "Rule 16.02(1)(a) does not require the defendant to physically accept the documents. Service is complete when the document is left with (i.e., delivered to) the person; refusal to accept does not invalidate service.",
+    "why_B_wrong": "This IS the correct answer. Under r.16.02(1)(a), personal service is effected by leaving the document with the individual; Marcus's refusal does not invalidate the service.",
+    "why_C_wrong": "Personal service under r.16.02 may be made wherever the individual is found — there is no requirement that service be effected at the defendant's residence.",
+    "why_D_wrong": "No court order is required to serve an individual at their place of work. Personal service under r.16.02 may be effected wherever the person is located.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 4 — Service of Process",
+      "heading": "Personal Service on Individuals — Methods Under r.16.02",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.16.02(1)(a)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "personal service",
+      "r.16.02",
+      "leaving with individual",
+      "refusal to accept",
+      "individual defendant"
+    ],
+    "tested_concepts": [
+      "personal service on individual — r.16.02(1)(a)",
+      "refusal to accept does not invalidate personal service",
+      "service may occur at any location"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-04-pers-002",
+    "subject": "civil_litigation",
+    "chapter_number": 4,
+    "chapter_title": "Service of Process",
+    "topic_id": "personal_service",
+    "topic_heading": "Personal Service",
+    "subtopic_id": "personal_service",
+    "subtopic_heading": "Personal Service on Corporations — Methods Under r.16.02",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A plaintiff's process server attempts to personally serve a statement of claim on Takahashi Holdings Inc., an Ontario corporation. The process server attends the corporation's registered office and is met by the office receptionist, who says she is authorized to accept service on behalf of the company. The receptionist accepts the documents and signs an acknowledgment.",
+    "call_of_question": "Under r.16.02 of the Rules of Civil Procedure, which of the following methods constitutes valid personal service on a corporation?",
+    "options": {
+      "A": "Service can only be effected on a corporation by leaving the documents with its registered agent with the court; leaving them with a receptionist is never valid.",
+      "B": "Service on a corporation is effected by leaving a copy of the document with an officer, director, or agent of the corporation, or with a person at any place of business of the corporation who appears to be in control or management of the place of business.",
+      "C": "Service on a corporation must be effected by registered mail to the corporation's head office; personal service is not available against corporations.",
+      "D": "Service on a corporation is only valid if made directly on the CEO or President of the corporation."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.16.02(1)(c) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), personal service on a corporation may be made by leaving a copy of the document with an officer, director, or agent of the corporation, or with a person at any place of business of the corporation who appears to be in control or management of that place of business. A receptionist who accepts documents on behalf of the company and who appears to be in a position of control at that location qualifies. The process server does not need to find the CEO or a specific named officer.",
+    "why_A_wrong": "There is no requirement that service be made on a registered agent with the court. Rule 16.02(1)(c) permits service on officers, directors, agents, or persons in control of a place of business.",
+    "why_B_wrong": "This IS the correct answer. Rule 16.02(1)(c) permits personal service on a corporation by leaving documents with an officer, director, agent, or a person who appears to be in control of a place of business.",
+    "why_C_wrong": "Personal service is available against corporations under r.16.02(1)(c). Registered mail is an alternative to personal service under r.16.03, not a requirement.",
+    "why_D_wrong": "Service does not need to be made on the CEO or President specifically. Rule 16.02(1)(c) permits service on any officer, director, agent, or person in apparent control of a place of business.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 4 — Service of Process",
+      "heading": "Personal Service on Corporations — Methods Under r.16.02",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.16.02(1)(c)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "personal service",
+      "corporation",
+      "r.16.02",
+      "officer director agent",
+      "place of business"
+    ],
+    "tested_concepts": [
+      "personal service on corporation — r.16.02(1)(c)",
+      "service on officer director agent or person in control",
+      "receptionist as person in control"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-04-alt-001",
+    "subject": "civil_litigation",
+    "chapter_number": 4,
+    "chapter_title": "Service of Process",
+    "topic_id": "alternative_service",
+    "topic_heading": "Alternative to Personal Service",
+    "subtopic_id": "alternative_service",
+    "subtopic_heading": "Alternative to Personal Service — Methods Under r.16.03",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A process server is unable to personally serve an individual defendant at any location. The plaintiff's lawyer considers using an alternative to personal service permitted by the Rules of Civil Procedure, without obtaining a court order.",
+    "call_of_question": "Which of the following is a method of service that may be used as an alternative to personal service on an individual under r.16.03, without a court order?",
+    "options": {
+      "A": "Leaving a copy of the document taped to the front door of the defendant's residence.",
+      "B": "Sending the document by email to the defendant's known email address.",
+      "C": "Leaving a copy of the document at the defendant's place of residence with an adult person who is apparently resident there, and mailing another copy to the same address on the same or following day.",
+      "D": "Sending the document by fax to the defendant's place of employment."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.16.03(5) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), as an alternative to personal service, a document may be served on an individual by leaving a copy at the individual's place of residence with an adult person who is apparently a resident there, and by sending a copy of the document to the defendant's place of residence by ordinary mail or prepaid courier on the same day or the following day. This two-step process — leaving with an adult resident plus mailing — constitutes valid service without a court order.",
+    "why_A_wrong": "Taping a document to the front door of the residence is not a recognized method of alternative service under r.16.03. Simply leaving the document on the property without delivery to a person does not constitute valid service.",
+    "why_B_wrong": "Email service is not a method of alternative service for an originating process (such as a statement of claim) under r.16.03 without consent of the party being served or a court order.",
+    "why_C_wrong": "This IS the correct answer. Rule 16.03(5) permits service by leaving the document with an adult resident at the defendant's place of residence, combined with mailing another copy to the same address.",
+    "why_D_wrong": "Fax to the place of employment is not a recognized method of alternative service under r.16.03 for an individual without a court order.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 4 — Service of Process",
+      "heading": "Alternative to Personal Service — Methods Under r.16.03",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.16.03(5)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "alternative service",
+      "r.16.03",
+      "adult resident",
+      "mailing",
+      "place of residence"
+    ],
+    "tested_concepts": [
+      "alternative to personal service — r.16.03(5)",
+      "adult resident plus mailing",
+      "no court order required for r.16.03"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-04-sub-001",
+    "subject": "civil_litigation",
+    "chapter_number": 4,
+    "chapter_title": "Service of Process",
+    "topic_id": "substituted_service",
+    "topic_heading": "Substituted Service",
+    "subtopic_id": "substituted_service",
+    "subtopic_heading": "Substituted Service — When Permitted and Court Order Required",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A plaintiff has made numerous attempts to personally serve a defendant over a period of two months, including multiple visits to the defendant's last known address, inquiries with the defendant's former employer, and a search of online directories. The defendant cannot be located. The plaintiff wants to serve the defendant by publishing notice in a local newspaper.",
+    "call_of_question": "What must the plaintiff do under r.16.04 of the Rules of Civil Procedure before using a substituted method of service such as newspaper publication?",
+    "options": {
+      "A": "The plaintiff may proceed with newspaper publication immediately after two failed personal service attempts; no court order is required.",
+      "B": "The plaintiff must obtain a court order under r.16.04 authorizing substituted service; the court will grant the order if it is satisfied that personal service is impractical and the substituted method is likely to come to the defendant's attention.",
+      "C": "Newspaper publication is never a valid form of substituted service in Ontario civil proceedings.",
+      "D": "The plaintiff must serve the defendant's last known family member and then advertise in a newspaper simultaneously, without requiring a court order."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.16.04 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), where it appears to the court that it is impractical to effect prompt personal service of an originating process, the court may make an order for substituted service. The court may authorize service by any method — including newspaper publication — and will do so where: (1) personal service is impractical, and (2) the proposed substituted method is likely to come to the attention of the person to be served. A court order is mandatory; the plaintiff cannot unilaterally proceed with substituted service.",
+    "why_A_wrong": "A court order is mandatory before substituted service may be used under r.16.04. The plaintiff cannot proceed with an alternative method of service simply after a fixed number of failed attempts.",
+    "why_B_wrong": "This IS the correct answer. Rule 16.04 requires a court order for substituted service, granted where personal service is impractical and the substituted method will likely reach the defendant.",
+    "why_C_wrong": "Newspaper publication can be authorized as a form of substituted service under r.16.04, provided a court order is obtained. It is not categorically unavailable in Ontario civil proceedings.",
+    "why_D_wrong": "Serving a family member without court authorization does not satisfy the requirements of r.16.04. Substituted service requires a court order specifying the method permitted.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 4 — Service of Process",
+      "heading": "Substituted Service — When Permitted and Court Order Required",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.16.04"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "substituted service",
+      "r.16.04",
+      "court order",
+      "impractical",
+      "newspaper publication"
+    ],
+    "tested_concepts": [
+      "substituted service requires court order — r.16.04",
+      "personal service must be impractical",
+      "substituted method must likely reach defendant"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-04-sub-002",
+    "subject": "civil_litigation",
+    "chapter_number": 4,
+    "chapter_title": "Service of Process",
+    "topic_id": "substituted_service",
+    "topic_heading": "Substituted Service",
+    "subtopic_id": "substituted_service",
+    "subtopic_heading": "Substituted Service — Dispensing with Service",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A plaintiff is attempting to serve a defendant who has left Ontario and whose whereabouts are completely unknown. The plaintiff cannot identify any method of substituted service that is likely to come to the defendant's attention. The plaintiff brings a motion asking the court to dispense with service entirely.",
+    "call_of_question": "Can a court dispense with service entirely under the Rules of Civil Procedure, and if so, what must the plaintiff demonstrate?",
+    "options": {
+      "A": "No — a court can never dispense with service; it can only order a form of substituted service.",
+      "B": "Yes — under r.16.04, a court may dispense with service entirely where it is satisfied that service is not reasonably possible and that dispensing with service is appropriate in the circumstances.",
+      "C": "Yes — but only if the plaintiff agrees to indemnify the defendant for any costs arising from the default judgment obtained without service.",
+      "D": "Yes — a court may dispense with service automatically after 6 months of failed service attempts without any further motion."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.16.04 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the court has authority not only to order substituted service but also to dispense with service entirely in appropriate circumstances. Where the court is satisfied that service of the originating process is not reasonably possible because the defendant's whereabouts are unknown and no method of substituted service would likely reach the defendant, the court has the discretion to make an order dispensing with service. This is an exceptional order reserved for cases where all reasonable efforts to notify the defendant have failed.",
+    "why_A_wrong": "Rule 16.04 expressly empowers the court to dispense with service entirely, not only to order a form of substituted service. This power exists for exceptional circumstances where service is not reasonably possible.",
+    "why_B_wrong": "This IS the correct answer. Under r.16.04, the court may dispense with service entirely where service is not reasonably possible and dispensing is appropriate.",
+    "why_C_wrong": "There is no requirement that the plaintiff indemnify the defendant as a condition of dispensing with service. The court's order is based on practicality and fairness to the plaintiff, not an indemnity arrangement.",
+    "why_D_wrong": "Service cannot be automatically dispensed with after a period of time. A court order is required under r.16.04 to dispense with service, and the plaintiff must bring a motion to obtain such an order.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 4 — Service of Process",
+      "heading": "Substituted Service — Dispensing with Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.16.04"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "dispense with service",
+      "r.16.04",
+      "unknown whereabouts",
+      "court order",
+      "not reasonably possible"
+    ],
+    "tested_concepts": [
+      "court may dispense with service entirely under r.16.04",
+      "exceptional circumstances required",
+      "service not reasonably possible"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-04-proof-001",
+    "subject": "civil_litigation",
+    "chapter_number": 4,
+    "chapter_title": "Service of Process",
+    "topic_id": "proof_of_service",
+    "topic_heading": "Proof of Service",
+    "subtopic_id": "proof_of_service",
+    "subtopic_heading": "Proof of Service — Affidavit of Service Requirements",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "After personally serving a statement of claim on an individual defendant, a process server is asked to prepare the necessary documentation to prove that service occurred. The plaintiff's lawyer explains that this document will be filed with the court.",
+    "call_of_question": "Under r.16.09 of the Rules of Civil Procedure, how is proof of service of a document established, and what must the proof contain?",
+    "options": {
+      "A": "Proof of service is established by a written acknowledgment signed by the defendant confirming receipt of the documents.",
+      "B": "Proof of service is established by filing an affidavit of service, sworn by the person who effected service, stating the time, date, place, and manner of service and identifying the document served.",
+      "C": "Proof of service is established by a certificate signed by the plaintiff's counsel confirming that service was effected.",
+      "D": "Proof of service is established by filing the document itself with the court; no separate proof document is required."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.16.09 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), proof of service of a document may be made by an affidavit of the person who effected service. The affidavit must set out: the name of the person served; the date, time, and place of service; and the manner in which service was effected. This sworn document provides the court with the evidentiary basis to confirm that service was properly made. An affidavit of service is filed with the court when default proceedings are pursued or when service is otherwise in issue.",
+    "why_A_wrong": "A signed acknowledgment from the defendant is not the required method of proof under r.16.09. The process server's sworn affidavit of service is the required document.",
+    "why_B_wrong": "This IS the correct answer. Rule 16.09 requires an affidavit of service sworn by the person who effected service, containing the time, date, place, and manner of service.",
+    "why_C_wrong": "A certificate from plaintiff's counsel is not the method of proving service under r.16.09. The affidavit must be sworn by the process server who actually effected service, not by counsel.",
+    "why_D_wrong": "Filing the served document itself does not constitute proof of service. A separate affidavit of service sworn by the process server is required under r.16.09.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 4 — Service of Process",
+      "heading": "Proof of Service — Affidavit of Service Requirements",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.16.09"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "proof of service",
+      "affidavit of service",
+      "r.16.09",
+      "time date place manner",
+      "process server"
+    ],
+    "tested_concepts": [
+      "proof of service by affidavit — r.16.09",
+      "required contents of affidavit of service",
+      "sworn by person who effected service"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

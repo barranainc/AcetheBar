@@ -270,5 +270,222 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-06-nom-001",
+    "subject": "civil_litigation",
+    "chapter_number": 6,
+    "chapter_title": "Motions",
+    "topic_id": "notice_of_motion",
+    "topic_heading": "Notice of Motion",
+    "subtopic_id": "notice_of_motion",
+    "subtopic_heading": "Notice of Motion — Required Contents and Notice Period",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Beatrix serves a notice of motion on the opposing party on a Monday. The motion is scheduled to be heard the following Wednesday, which is nine days later. The opposing party objects that insufficient notice has been given under the Rules of Civil Procedure.",
+    "call_of_question": "Is the opposing party's objection well-founded?",
+    "options": {
+      "A": "No — a notice of motion requires only 5 clear days' notice, so 9 days is more than sufficient.",
+      "B": "Yes — r.37.07(1) of the Rules of Civil Procedure requires at least 10 days' notice of a motion; serving 9 days before the hearing date is deficient by one day.",
+      "C": "No — the 10-day notice requirement applies only to motions for summary judgment, not ordinary motions.",
+      "D": "Yes — the notice period for any motion is 21 days, so 9 days' notice is far too short."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 37.07(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194) provides that, unless the court orders otherwise, a notice of motion shall be served at least 10 days before the hearing date. Nine days' notice falls one day short of the mandatory 10-day minimum. The opposing party's objection is well-founded. The 10-day default applies to motions generally; it is not limited to summary judgment motions or any other specific category.",
+    "why_A_wrong": "The default notice period under r.37.07(1) is 10 days, not 5 days. A 5-day period would also be deficient.",
+    "why_B_wrong": "This IS the correct answer. Rule 37.07(1) requires at least 10 days' notice; 9 days is one day short and the objection is valid.",
+    "why_C_wrong": "The 10-day notice requirement in r.37.07(1) applies to motions generally, not only to summary judgment motions.",
+    "why_D_wrong": "The default notice period for motions is 10 days under r.37.07(1), not 21 days. A 21-day requirement does not appear for ordinary motions.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 6 — Motions",
+      "heading": "Notice of Motion — Required Contents and Notice Period",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.37.07(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "notice of motion",
+      "10 days",
+      "notice period",
+      "r.37.07"
+    ],
+    "tested_concepts": [
+      "10-day notice requirement for motions",
+      "r.37.07(1) default notice period",
+      "general motion procedure"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-06-nom-002",
+    "subject": "civil_litigation",
+    "chapter_number": 6,
+    "chapter_title": "Motions",
+    "topic_id": "notice_of_motion",
+    "topic_heading": "Notice of Motion",
+    "subtopic_id": "motion_record",
+    "subtopic_heading": "Motion Record — Required Contents and Filing",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Counsel for the moving party prepares a motion record for an upcoming motion. He includes: (1) a table of contents, (2) the notice of motion, (3) all affidavits and other evidence to be used on the motion, (4) a draft order, and (5) transcripts of any cross-examinations on affidavits. The opposing party argues that the motion record is missing a required document.",
+    "call_of_question": "Which of the following must also be included in a motion record under r.37.10 of the Rules of Civil Procedure?",
+    "options": {
+      "A": "A copy of every pleading filed in the action to date.",
+      "B": "The factum of the moving party setting out a concise statement of facts and law.",
+      "C": "The trial transcript from any prior proceedings between the parties.",
+      "D": "A certificate signed by all parties confirming they have exchanged all relevant documents."
+    },
+    "correct_answer": "A",
+    "explanation": "Rule 37.10(2) of the Rules of Civil Procedure specifies the required contents of a motion record. In addition to the table of contents, notice of motion, supporting affidavits and evidence, transcripts of cross-examinations, and draft order, the motion record must also include a copy of every pleading or other document on which the motion is based that has been filed in the proceeding. The opposing party is correct that the pleadings filed in the action must be included in the motion record.",
+    "why_A_wrong": "This IS the correct answer. Rule 37.10(2) requires the motion record to include a copy of every pleading or other document on which the motion is based that has been filed.",
+    "why_B_wrong": "A factum is a separate document from the motion record itself and is governed by r.37.10(6). It may or may not be required depending on the nature of the motion, but it is not part of the motion record proper.",
+    "why_C_wrong": "Trial transcripts from prior proceedings are not a required component of a motion record under r.37.10. Only transcripts of cross-examinations on affidavits filed in the proceeding are required.",
+    "why_D_wrong": "A certificate signed by all parties is not a required component of a motion record under the Rules. This is not a recognized procedural requirement.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 6 — Motions",
+      "heading": "Motion Record — Required Contents and Filing",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.37.10(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "motion record",
+      "r.37.10",
+      "pleadings",
+      "required contents"
+    ],
+    "tested_concepts": [
+      "motion record required contents under r.37.10",
+      "pleadings must be included in motion record",
+      "motion procedure"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-06-exparte-001",
+    "subject": "civil_litigation",
+    "chapter_number": 6,
+    "chapter_title": "Motions",
+    "topic_id": "motion_without_notice",
+    "topic_heading": "Motion Without Notice",
+    "subtopic_id": "motion_without_notice",
+    "subtopic_heading": "Motion Without Notice — Permitted Circumstances and Disclosure Duty",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Sebastiano brings an urgent motion without notice (ex parte) to preserve certain electronic evidence he believes the defendant is about to destroy. On the motion, Sebastiano's counsel fails to disclose to the judge that the defendant had already voluntarily agreed in writing three days earlier to preserve all relevant electronic records pending the litigation. The court grants the order. The defendant subsequently moves to set aside the preservation order.",
+    "call_of_question": "What is the most likely outcome on the defendant's motion to set aside the order?",
+    "options": {
+      "A": "The order will be maintained because the defendant had an obligation to bring the agreement to the court's attention before the ex parte motion was heard.",
+      "B": "The order will be maintained unless the defendant can show it was prejudiced by the non-disclosure.",
+      "C": "The court will set aside the order because Sebastiano's counsel breached the duty of full and frank disclosure by failing to disclose the defendant's prior agreement to preserve the evidence, which was material to whether the ex parte order was necessary.",
+      "D": "The court will set aside the order only if the defendant can prove that Sebastiano's counsel acted in bad faith."
+    },
+    "correct_answer": "C",
+    "explanation": "On a motion without notice under r.37.07(7) of the Rules of Civil Procedure, the moving party owes the court a duty of full and frank disclosure of all material facts, including facts that are adverse to the moving party's position. The defendant's prior written agreement to preserve electronic records was a material fact directly relevant to the necessity of the ex parte preservation order — had the court known of the agreement, it may well have declined to grant the order or required notice to be given. Failure to disclose a material fact on an ex parte motion is a recognised ground for setting aside the resulting order, regardless of whether the non-disclosure was intentional. The court has discretion to set aside or vary the order.",
+    "why_A_wrong": "The duty of full and frank disclosure rests on the moving party, not on the absent respondent. The defendant had no obligation to inform the court of its own agreement; that was Sebastiano's counsel's responsibility.",
+    "why_B_wrong": "The test for setting aside an ex parte order for non-disclosure does not require proof of actual prejudice. A material non-disclosure is itself sufficient ground to exercise the court's discretion to set aside the order.",
+    "why_C_wrong": "This IS the correct answer. The failure to disclose the defendant's prior preservation agreement breaches the duty of full and frank disclosure, and the order is liable to be set aside on that basis.",
+    "why_D_wrong": "Bad faith is not required. The duty of full and frank disclosure is an objective standard. Even an innocent or negligent failure to disclose a material fact can ground setting aside an ex parte order.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 6 — Motions",
+      "heading": "Motion Without Notice — Permitted Circumstances and Disclosure Duty",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.37.07(7)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "duty of candour to the court on ex parte motion"
+    },
+    "exam_trigger_words": [
+      "motion without notice",
+      "ex parte",
+      "full and frank disclosure",
+      "set aside",
+      "material non-disclosure"
+    ],
+    "tested_concepts": [
+      "duty of full and frank disclosure on ex parte motions",
+      "r.37.07(7) — motion without notice",
+      "material non-disclosure grounds for setting aside order"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-06-exparte-002",
+    "subject": "civil_litigation",
+    "chapter_number": 6,
+    "chapter_title": "Motions",
+    "topic_id": "costs_on_motions",
+    "topic_heading": "Costs on Motions",
+    "subtopic_id": "costs_on_motions",
+    "subtopic_heading": "Costs on Motions — General Principles",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Fernanda brings a motion to compel production of certain documents. The court grants the motion and awards costs to Fernanda. The judge does not give any special reasons for the costs award and simply says 'costs to the successful party.' The defendant asks whether this is an unusual outcome.",
+    "call_of_question": "Which statement best describes the general principle governing costs on motions under the Rules of Civil Procedure?",
+    "options": {
+      "A": "Costs on motions are always in the cause — they are never awarded immediately after a motion and always await the outcome of the trial.",
+      "B": "Under r.57.01, the general principle is that costs follow the event, meaning the successful party on a motion is presumptively entitled to the costs of the motion.",
+      "C": "Costs on motions are awarded at the court's discretion but the starting presumption is that no costs are payable on interlocutory motions.",
+      "D": "Costs on a motion can only be awarded at the end of trial; interim cost awards are not permitted."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.57.01 of the Rules of Civil Procedure, the court has a broad discretion in awarding costs, but the general principle is that costs follow the event — the successful party is presumptively entitled to its costs. On a motion, this means the party who succeeds on the motion is ordinarily awarded its costs of the motion. The court retains discretion to depart from this principle in appropriate circumstances (e.g., where the motion was necessary due to the conduct of both parties), but the default starting point is that the successful party receives its costs.",
+    "why_A_wrong": "Costs 'in the cause' is one possible costs disposition on a motion, but it is not the default rule. The general principle under r.57.01 is that costs follow the event — awarded to the successful party at the conclusion of the motion.",
+    "why_B_wrong": "This IS the correct answer. Rule 57.01 establishes costs follow the event as the general principle, with the successful party presumptively entitled to costs.",
+    "why_C_wrong": "There is no presumption that no costs are payable on interlocutory motions. The general principle is costs follow the event under r.57.01.",
+    "why_D_wrong": "Costs can be — and routinely are — awarded immediately at the conclusion of a motion. There is no rule restricting costs awards to the end of trial.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 6 — Motions",
+      "heading": "Costs on Motions — General Principles",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "costs follow the event",
+      "costs on motion",
+      "r.57.01",
+      "successful party"
+    ],
+    "tested_concepts": [
+      "costs follow the event — r.57.01",
+      "costs on interlocutory motions",
+      "court's discretion on costs"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

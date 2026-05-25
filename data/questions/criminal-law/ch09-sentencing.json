@@ -1,0 +1,290 @@
+[
+  {
+    "id": "crim-09-purpose-001",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "s718_purpose",
+    "subtopic_heading": "Purposes and Principles of Sentencing — s. 718",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A judge is sentencing an offender for a first offence of fraud over $5,000. Counsel on both sides make submissions on the applicable principles. The judge must apply the objectives of sentencing set out in the Criminal Code.",
+    "call_of_question": "Under s. 718 of the Criminal Code, which of the following is NOT a recognized fundamental purpose or objective of sentencing?",
+    "options": {
+      "A": "To denounce unlawful conduct and the harm done to victims or to the community.",
+      "B": "To deter the offender and other persons from committing offences.",
+      "C": "To guarantee that the victim receives financial compensation from the offender.",
+      "D": "To separate offenders from society, where necessary."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 718 of the Criminal Code sets out the fundamental purposes of sentencing as: (a) denouncing unlawful conduct; (b) deterring the offender and others; (c) separating offenders from society where necessary; (d) assisting in rehabilitating offenders; (e) providing reparations for harm done to victims or the community; and (f) promoting a sense of responsibility in offenders. While s.718.2(e.1) allows victim surcharge orders and s.738 allows restitution orders, a 'guarantee' of financial compensation is not a purpose of sentencing under s.718. Victim compensation through restitution orders is a tool, not a guaranteed purpose.",
+    "why_A_wrong": "Denunciation (denouncing unlawful conduct) IS one of the s. 718 purposes — specifically s.718(a). It is a correct statement of a sentencing objective.",
+    "why_B_wrong": "Deterrence (both specific deterrence of the offender and general deterrence of others) IS one of the s.718 purposes — specifically s.718(b). It is a correct sentencing objective.",
+    "why_C_wrong": "This IS the correct answer. Guaranteeing that the victim receives financial compensation is NOT listed as a purpose of sentencing under s.718. While restitution is available under s.738, it is not a guaranteed purpose of sentencing.",
+    "why_D_wrong": "Separation of offenders from society where necessary IS a s.718 purpose — s.718(c). It is particularly relevant to incapacitation in cases involving dangerous or repeat offenders.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Purposes of Sentencing — s. 718",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 718, s. 718.1, s. 738"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 718",
+      "purposes of sentencing",
+      "denunciation",
+      "deterrence",
+      "rehabilitation",
+      "separation",
+      "reparations"
+    ],
+    "tested_concepts": [
+      "s. 718 sentencing objectives",
+      "denunciation",
+      "deterrence",
+      "rehabilitation",
+      "separation",
+      "what is NOT a sentencing purpose"
+    ],
+    "estimated_time_seconds": 60,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-09-gladue-001",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "gladue_factors",
+    "subtopic_heading": "Gladue Principles — s. 718.2(e)",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Indigenous offender is convicted of fraud. In sentencing submissions, defence counsel presents a Gladue report documenting the offender's history of childhood trauma in the residential school system, substance abuse, and systemic disadvantage. Crown counsel argues the Gladue factors are irrelevant because the offence is serious and did not arise from Indigenous background.",
+    "call_of_question": "Under s. 718.2(e) of the Criminal Code and R. v. Gladue, [1999] 1 SCR 688, is Crown counsel's position correct?",
+    "options": {
+      "A": "Yes — Gladue factors apply only when the offence is directly caused by the accused's Indigenous background.",
+      "B": "Yes — Gladue factors do not apply to serious offences; they are reserved for minor or summary conviction matters.",
+      "C": "No — the court must consider the unique systemic or background factors affecting Indigenous offenders and alternatives to incarceration in all cases involving Indigenous offenders.",
+      "D": "No — but only if the offender is registered under the Indian Act; urban Indigenous offenders are not entitled to a Gladue analysis."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 718.2(e) of the Criminal Code requires courts to consider all available sanctions other than imprisonment that are reasonable in the circumstances, with particular attention to the circumstances of Aboriginal offenders. In R. v. Gladue, [1999] 1 SCR 688 and R. v. Ipeelee, 2012 SCC 13, the Supreme Court held that the Gladue analysis must be applied in every case involving an Indigenous offender, regardless of the seriousness of the offence or whether the specific offence was directly linked to Indigenous background. The court must consider systemic factors and community-based alternatives. The failure to conduct a Gladue analysis for an Indigenous offender is an error in principle.",
+    "why_A_wrong": "Gladue factors do not require a direct causal link between the Indigenous background and the specific offence. The court must consider systemic factors broadly — historical trauma, residential schools, substance abuse, poverty — without requiring that the offence was directly caused by Indigenous background.",
+    "why_B_wrong": "Gladue factors apply to all criminal proceedings, including serious offences. R. v. Ipeelee confirmed that Gladue applies regardless of the seriousness of the offence. The more serious the offence, the more important it may be to understand the Gladue factors.",
+    "why_C_wrong": "This IS the correct answer. Section 718.2(e) and Gladue/Ipeelee require consideration of systemic factors and alternatives to incarceration in all cases involving Indigenous offenders, without limitation to offence seriousness or causal connection.",
+    "why_D_wrong": "Gladue factors are not limited to registered Indians under the Indian Act. The s.718.2(e) analysis applies to all Indigenous people — First Nations, Métis, Inuit — regardless of registration status or urban/rural residence. R. v. Ipeelee confirmed this applies to urban Indigenous offenders.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Gladue Principles — s. 718.2(e)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 718.2(e); R. v. Gladue, [1999] 1 SCR 688; R. v. Ipeelee, 2012 SCC 13"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Gladue",
+      "s. 718.2(e)",
+      "Indigenous offender",
+      "systemic factors",
+      "alternatives to incarceration",
+      "Ipeelee"
+    ],
+    "tested_concepts": [
+      "s. 718.2(e) mandatory Gladue analysis",
+      "applies to all Indigenous offenders regardless of offence seriousness",
+      "no causal link required",
+      "applies to urban Indigenous offenders"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-09-cso-001",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "conditional_sentence",
+    "subtopic_heading": "Conditional Sentence of Imprisonment — s. 742.1",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is convicted of fraud over $5,000. The sentencing judge is considering whether to impose a conditional sentence of imprisonment (house arrest). The accused has no prior record and has expressed genuine remorse.",
+    "call_of_question": "Under s. 742.1 of the Criminal Code, which of the following is a threshold requirement that MUST be met before a conditional sentence of imprisonment can be imposed?",
+    "options": {
+      "A": "The offence must be a summary conviction offence.",
+      "B": "The accused must consent to serving the sentence in the community.",
+      "C": "The sentence imposed must be less than two years, the offence must not carry a minimum term of imprisonment, and the court must be satisfied that serving the sentence in the community is consistent with the fundamental purpose and principles of sentencing.",
+      "D": "The sentencing judge must first impose a penitentiary sentence and then suspend it on conditions."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 742.1 of the Criminal Code sets out the conditions for a conditional sentence: (1) the court imposes a sentence of imprisonment of less than two years; (2) the offence is not one for which a minimum term of imprisonment is prescribed; (3) the offence does not fall within the excluded categories added by the Safe Streets and Communities Act (e.g., s.742.1(c): no CSO if offence resulted in bodily harm, s.742.1(d) terrorism, etc.); and (4) the court is satisfied that serving the sentence in the community would not endanger the safety of the community and would be consistent with the fundamental purpose and principles of sentencing. The sentence length threshold (under two years), the absence of a mandatory minimum, and the community safety/consistency finding are all prerequisites.",
+    "why_A_wrong": "Conditional sentences are available for both summary conviction and indictable offences, provided the other s.742.1 requirements are met. There is no restriction to summary conviction offences.",
+    "why_B_wrong": "The accused's consent is not a requirement for a conditional sentence. The court may impose a conditional sentence without the accused's agreement to serve in the community, though practically the accused must comply with the conditions.",
+    "why_C_wrong": "This IS the correct answer. The key s.742.1 threshold requirements are: sentence less than two years, no mandatory minimum, no excluded offence, and the court's satisfaction that community service is not a danger to community safety and is consistent with sentencing principles.",
+    "why_D_wrong": "A conditional sentence is not a penitentiary sentence that is suspended. It is a sentence of imprisonment served in the community. There is no 'suspension' mechanism — the sentence is the conditional sentence order itself, served under conditions in the community.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Conditional Sentence of Imprisonment — s. 742.1",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 742.1; Safe Streets and Communities Act, S.C. 2012, c. 1"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "conditional sentence",
+      "s. 742.1",
+      "less than two years",
+      "minimum term",
+      "community safety",
+      "house arrest"
+    ],
+    "tested_concepts": [
+      "s. 742.1 threshold requirements",
+      "under two years sentence length",
+      "no mandatory minimum",
+      "community safety consistency requirement",
+      "excluded offences for CSO"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-09-disp-fact-001",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "disputed_facts_sentencing",
+    "subtopic_heading": "Disputed Facts at Sentencing — Newton Hearing",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused pleads guilty to assault. At the sentencing hearing, the Crown seeks to rely on facts that aggravate the sentence (that the assault was premeditated). The accused disputes this characterization, asserting the assault was spontaneous. The sentencing judge must resolve the factual dispute.",
+    "call_of_question": "Under R. v. Gardiner, [1982] 2 SCR 368, what standard of proof applies when the Crown seeks to prove aggravating facts at a sentencing hearing that the offender disputes?",
+    "options": {
+      "A": "Balance of probabilities — the lesser standard applies because the conviction has already been entered.",
+      "B": "Beyond a reasonable doubt — the criminal standard applies to all disputed facts at sentencing that the Crown relies on to aggravate the sentence.",
+      "C": "Clear and convincing evidence — an intermediate standard applies at the sentencing stage.",
+      "D": "The sentencing judge may find any disputed fact as aggravating without evidence, relying on pre-sentence report summaries."
+    },
+    "correct_answer": "B",
+    "explanation": "In R. v. Gardiner, [1982] 2 SCR 368, the Supreme Court of Canada held that when the Crown seeks to rely on disputed facts to aggravate a sentence, those facts must be proved beyond a reasonable doubt — the criminal standard. The Court reasoned that sentence is part of the criminal process, and the accused's right to liberty is directly at stake. Where facts are aggravating and disputed, the Crown bears the burden of proving them beyond a reasonable doubt. However, mitigating facts put forward by the defence (in the accused's favour) need only be established on a balance of probabilities. This asymmetric burden reflects the liberty interest at stake and the presumption of innocence.",
+    "why_A_wrong": "The balance of probabilities standard does not apply to aggravating facts proved by the Crown at sentencing. Gardiner requires the criminal standard (beyond a reasonable doubt) for disputed aggravating facts, reflecting the seriousness of sentence as an exercise of state power.",
+    "why_B_wrong": "This IS the correct answer. Under Gardiner, disputed aggravating facts that the Crown relies upon at sentencing must be proved beyond a reasonable doubt.",
+    "why_C_wrong": "'Clear and convincing evidence' is an American intermediate standard that does not exist in Canadian criminal law. Canadian law uses only two standards: balance of probabilities and beyond a reasonable doubt.",
+    "why_D_wrong": "A sentencing judge cannot find disputed aggravating facts without proper evidence. The Gardiner standard specifically requires the Crown to prove disputed aggravating facts beyond a reasonable doubt. Pre-sentence report summaries may provide context but do not substitute for proof of disputed facts.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Disputed Facts at Sentencing — Gardiner",
+      "page": "N/A",
+      "rule_or_statute_reference": "R. v. Gardiner, [1982] 2 SCR 368; Criminal Code, R.S.C. 1985, c. C-46, s. 724"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "disputed facts at sentencing",
+      "Gardiner",
+      "beyond a reasonable doubt",
+      "aggravating facts",
+      "Newton hearing",
+      "balance of probabilities"
+    ],
+    "tested_concepts": [
+      "Gardiner standard for disputed aggravating facts",
+      "Crown's beyond reasonable doubt burden for aggravating facts",
+      "defence's balance of probabilities burden for mitigating facts",
+      "asymmetric sentencing burden"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-09-psr-001",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "pre_sentence_report",
+    "subtopic_heading": "Pre-Sentence Report",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Prior to sentencing the accused for robbery, the judge orders a pre-sentence report (PSR). The PSR is completed by a probation officer who interviews the accused, family members, and employers. The PSR contains information from a social worker who describes the accused's troubled childhood but is not called to testify at the sentencing hearing.",
+    "call_of_question": "Regarding the contents and use of the pre-sentence report, which of the following correctly states the applicable law?",
+    "options": {
+      "A": "The information in the PSR is subject to the ordinary rules of evidence; hearsay information is inadmissible.",
+      "B": "The sentencing judge may consider the information in the PSR, including hearsay information, as part of the sentencing record; either party may cross-examine the author of the PSR.",
+      "C": "The PSR binds the sentencing judge to the sentence recommended by the probation officer.",
+      "D": "The PSR is exclusively for the judge's use; defence counsel does not have a right to see or respond to its contents."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s. 723-724 of the Criminal Code and general sentencing principles, the pre-sentence report is received by the court as part of the sentencing record. The ordinary rules of evidence regarding hearsay do not apply with full rigour at sentencing; the judge may consider hearsay and other information in the PSR that would not be admissible at trial. However, either party has the right to cross-examine the person who prepared the report on its contents (s. 723(3)). The sentencing judge is not bound by any recommendation in the PSR and exercises independent discretion in imposing sentence. Both parties have the right to see and respond to the PSR (s. 722.1).",
+    "why_A_wrong": "The ordinary rules of evidence do not apply strictly at sentencing. The Criminal Code expressly permits consideration of hearsay and other forms of information in the PSR that would be inadmissible at trial, subject to the judge's assessment of its credibility and reliability.",
+    "why_B_wrong": "This IS the correct answer. The PSR may contain hearsay and the judge may consider it; however, either party may cross-examine the PSR author on its contents under s. 723(3) of the Criminal Code.",
+    "why_C_wrong": "The PSR does not bind the sentencing judge. Any sentence recommendation in the PSR is advisory only. The judge exercises independent discretion, and it is an error in principle to treat the PSR recommendation as binding.",
+    "why_D_wrong": "Section 722.1 of the Criminal Code requires that a copy of the PSR be provided to the offender (and their counsel) and to the Crown. Defence counsel has a right to see the report and to make submissions in response to it.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Pre-Sentence Report",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 721-724"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "pre-sentence report",
+      "PSR",
+      "probation officer",
+      "hearsay at sentencing",
+      "cross-examine PSR author"
+    ],
+    "tested_concepts": [
+      "PSR hearsay admissibility at sentencing",
+      "cross-examination right on PSR author",
+      "PSR recommendation not binding",
+      "defence right to see PSR"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

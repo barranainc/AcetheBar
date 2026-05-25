@@ -1,0 +1,277 @@
+[
+  {
+    "id": "pub-05-sppa-app-001",
+    "subject": "public_law",
+    "chapter_number": 5,
+    "chapter_title": "Statutory Powers Procedure Act",
+    "topic_id": "sppa_application",
+    "topic_heading": "SPPA — Application and Scope",
+    "subtopic_id": "sppa_application",
+    "subtopic_heading": "SPPA Application — When Does the SPPA Apply",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A licensed electrician receives a notice from the Electrical Safety Authority stating that his licence is suspended pending investigation of a complaint. The electrician argues the SPPA applies and that he is entitled to a hearing before his licence is suspended. The Authority argues the SPPA does not apply because the suspension is a temporary administrative step, not a final decision.",
+    "call_of_question": "Under the Statutory Powers Procedure Act, what is the threshold requirement for the SPPA to apply to a tribunal's decision?",
+    "options": {
+      "A": "The SPPA applies to any decision made by any government body in Ontario, including purely administrative and ministerial decisions.",
+      "B": "The SPPA applies only to decisions of courts; administrative tribunals are governed exclusively by their enabling statutes.",
+      "C": "Under s. 3(1) of the SPPA, the Act applies to a proceeding by a tribunal in the exercise of a 'statutory power of decision' conferred by or under an Act of the Legislature where the tribunal is required by or under such Act or otherwise by law to hold or to afford parties an opportunity for a hearing.",
+      "D": "The SPPA applies only where the decision-maker is explicitly named in a Schedule to the SPPA."
+    },
+    "correct_answer": "C",
+    "explanation": "The Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 3(1), provides that the Act applies to a proceeding by a tribunal in the exercise of a statutory power of decision where the tribunal is required by or under the Act or otherwise by law to hold or afford the parties to the proceeding an opportunity for a hearing before making a decision. The definition of 'statutory power of decision' in s. 1 means a power or right conferred by or under a statute to make a decision deciding or prescribing the legal rights, powers, privileges, immunities, duties or liabilities of any person or party. A licence suspension is a statutory power of decision and the SPPA applies if a hearing is required.",
+    "why_A_wrong": "Incorrect. The SPPA does not apply to every government decision; it applies specifically to proceedings involving a statutory power of decision where a hearing is required. Purely ministerial or administrative decisions that do not require a hearing are not governed by the SPPA.",
+    "why_B_wrong": "Incorrect. The SPPA expressly applies to tribunals, not courts; courts are governed by their own procedural rules.",
+    "why_C_wrong": "This IS the correct answer. Under s. 3(1) of the SPPA, the Act applies to a proceeding by a tribunal in the exercise of a 'statutory power of decision' conferred by or under an Act of the Legislature where the tribunal is required by or under such Act or otherwise by law to hold or to afford parties an opportunity for a hearing.",
+    "why_D_wrong": "Incorrect. The SPPA's application is defined by its own s. 3(1) and the definition of 'statutory power of decision' in s. 1; there is no Schedule-based list of named tribunals.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 5 — Statutory Powers Procedure Act",
+      "heading": "SPPA Application — When Does the SPPA Apply",
+      "page": "N/A",
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 1 (definitions), s. 3(1) (application)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "SPPA application",
+      "statutory power of decision",
+      "s. 3(1)",
+      "hearing required",
+      "tribunal"
+    ],
+    "tested_concepts": [
+      "SPPA s. 3(1) application threshold",
+      "definition of statutory power of decision s. 1",
+      "hearing requirement as trigger for SPPA"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-05-sppa-notice-001",
+    "subject": "public_law",
+    "chapter_number": 5,
+    "chapter_title": "Statutory Powers Procedure Act",
+    "topic_id": "sppa_hearing_procedure",
+    "topic_heading": "SPPA — Hearing Procedure",
+    "subtopic_id": "sppa_notice",
+    "subtopic_heading": "SPPA Notice Requirements — Section 6",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario tribunal governed by the SPPA sends a notice of hearing to a pharmacist at his clinic address by regular mail. The notice states the date and time of the hearing but does not identify the subject matter of the proceedings or the legal authority under which the tribunal is proceeding. The pharmacist attends the hearing without having sought an adjournment. At the hearing, the pharmacist's counsel argues the notice was defective.",
+    "call_of_question": "Under s. 6 of the SPPA, what are the minimum requirements for a notice of hearing to be adequate?",
+    "options": {
+      "A": "The notice need only state the date and time of the hearing; the subject matter may be disclosed at the hearing itself.",
+      "B": "The notice must be in writing, state the date, time, and place of the hearing, and contain a statement of the subject matter of the proceeding with sufficient particularity to enable the party to understand the nature of the proceeding and prepare a response.",
+      "C": "The notice must be personally served on the party; notice by mail is never sufficient under the SPPA.",
+      "D": "The notice is adequate so long as it was sent to the party's last known address, regardless of its content."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 6, notice of a hearing must be given to all parties. The notice must be given reasonably in advance of the hearing and must contain a statement of the subject matter of the proceeding with sufficient particularity to enable the party to understand what is at issue and prepare their case. A notice that states only the date and time without identifying the subject matter of the proceeding is defective under s. 6 and constitutes a breach of procedural fairness.",
+    "why_A_wrong": "Incorrect. A notice of hearing must contain a statement of the subject matter of the proceeding; disclosure only at the hearing itself would deprive the party of a meaningful opportunity to prepare.",
+    "why_B_wrong": "This IS the correct answer. The notice must be in writing, state the date, time, and place of the hearing, and contain a statement of the subject matter of the proceeding with sufficient particularity to enable the party to understand the nature of the proceeding and prepare a response.",
+    "why_C_wrong": "Incorrect. The SPPA does not universally require personal service; notice by mail is permitted in many circumstances, particularly under tribunal-specific rules. The inadequacy in this fact pattern is the content of the notice, not the mode of delivery.",
+    "why_D_wrong": "Incorrect. Proper address for delivery is one element of valid notice, but the content of the notice — specifically the statement of the subject matter — is separately required by s. 6 and is equally essential.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 5 — Statutory Powers Procedure Act",
+      "heading": "SPPA Notice Requirements — Section 6",
+      "page": "N/A",
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 6"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "SPPA s. 6",
+      "notice of hearing",
+      "subject matter",
+      "adequate notice",
+      "particularity"
+    ],
+    "tested_concepts": [
+      "SPPA s. 6 notice content requirements",
+      "statement of subject matter in notice",
+      "defective notice procedural fairness breach"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-05-sppa-ev-001",
+    "subject": "public_law",
+    "chapter_number": 5,
+    "chapter_title": "Statutory Powers Procedure Act",
+    "topic_id": "sppa_hearing_procedure",
+    "topic_heading": "SPPA — Hearing Procedure",
+    "subtopic_id": "sppa_evidence",
+    "subtopic_heading": "Evidence at SPPA Hearings — Section 15",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At a hearing before an Ontario professional discipline tribunal governed by the SPPA, tribunal counsel seeks to introduce a written statement from a witness who is not present at the hearing. The witness's statement contains the witness's account of events, but the witness cannot be cross-examined. The respondent's counsel objects, arguing that hearsay evidence is inadmissible under the rules of evidence that apply in courts of law.",
+    "call_of_question": "Under s. 15 of the SPPA, are Ontario tribunals bound by the strict rules of evidence applicable in courts, including the common law hearsay rule?",
+    "options": {
+      "A": "Yes. Ontario tribunals must apply the same evidentiary rules as the Superior Court of Justice, including the common law rule against hearsay.",
+      "B": "No. Under s. 15 of the SPPA, a tribunal may admit as evidence any oral testimony and any document or other thing relevant to the subject matter of the proceeding and may act on such evidence, regardless of whether it would be admissible as evidence in a court of law.",
+      "C": "No. Ontario tribunals may admit any evidence they choose, including evidence that is irrelevant, privileged, or obtained through Charter violations.",
+      "D": "Yes, but only where the enabling statute expressly requires application of the rules of evidence."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 15(1), a tribunal may admit as evidence at a hearing any oral testimony and any document or other thing relevant to the subject matter of the proceeding and may act on such evidence, whether or not the evidence would be admissible in a court of law. This means Ontario tribunals are not bound by the strict common law rules of evidence, including the hearsay rule. However, the evidence must be relevant, and the tribunal must still provide parties a fair opportunity to respond.",
+    "why_A_wrong": "Incorrect. Section 15 of the SPPA expressly liberates Ontario tribunals from the strict rules of evidence applicable in courts; tribunals are not required to apply the common law hearsay rule.",
+    "why_B_wrong": "This IS the correct answer. No. Under s. 15 of the SPPA, a tribunal may admit as evidence any oral testimony and any document or other thing relevant to the subject matter of the proceeding and may act on such evidence, regardless of whether it would be admissible as evidence in a court of law.",
+    "why_C_wrong": "Incorrect. While tribunals are not bound by the strict rules of evidence, the admission is limited to relevant evidence; relevance remains a requirement under s. 15. Additionally, solicitor-client privilege and other absolute exclusionary rules may still apply in certain circumstances.",
+    "why_D_wrong": "Incorrect. The relaxed evidentiary rule under SPPA s. 15 applies by operation of the SPPA itself and does not require the enabling statute to specifically mandate it.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 5 — Statutory Powers Procedure Act",
+      "heading": "Evidence at SPPA Hearings — Section 15",
+      "page": "N/A",
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 15(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "SPPA s. 15",
+      "hearsay",
+      "admissibility",
+      "tribunal evidence",
+      "relevant"
+    ],
+    "tested_concepts": [
+      "SPPA s. 15 relaxed rules of evidence",
+      "hearsay admissible before Ontario tribunals",
+      "relevance as only threshold"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-05-sppa-adj-001",
+    "subject": "public_law",
+    "chapter_number": 5,
+    "chapter_title": "Statutory Powers Procedure Act",
+    "topic_id": "sppa_hearing_procedure",
+    "topic_heading": "SPPA — Hearing Procedure",
+    "subtopic_id": "sppa_adjournment",
+    "subtopic_heading": "Adjournments — SPPA Section 21",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A regulated financial advisor is the subject of a hearing before the Financial Services Regulatory Authority of Ontario (FSRA) tribunal. On the second day of the scheduled three-day hearing, the advisor's counsel advises the tribunal that her key expert witness was involved in a traffic accident that morning and cannot attend. Counsel requests an adjournment of the remaining two days of the hearing. The tribunal chair denies the adjournment, stating the panel has another hearing scheduled immediately after and cannot accommodate a delay.",
+    "call_of_question": "Under the SPPA and principles of procedural fairness, what legal standard governs the tribunal's exercise of discretion to grant or refuse an adjournment?",
+    "options": {
+      "A": "The tribunal has absolute discretion to deny adjournments; once denied, the decision is not reviewable.",
+      "B": "The tribunal must grant any adjournment requested by a party unless the requesting party has abused process.",
+      "C": "Under SPPA s. 21, a tribunal has discretion to grant adjournments, but that discretion must be exercised consistent with the duty of fairness; refusing an adjournment solely for administrative convenience — where the refusal deprives a party of the ability to present their case — may constitute a breach of procedural fairness reviewable on judicial review.",
+      "D": "The tribunal may refuse an adjournment only where the requesting party has previously been granted at least two adjournments in the same proceeding."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 21, a tribunal may, where it considers it appropriate, grant an adjournment of a hearing. While this discretion is broad, it must be exercised consistently with the duty of procedural fairness established in Baker v Canada, [1999] 2 SCR 817, and the common law. Denying an adjournment purely for administrative scheduling reasons, where the denial prevents a party from calling essential evidence, may render the hearing procedurally unfair and subject the decision to judicial review. The test is whether the refusal deprived the party of a fair hearing.",
+    "why_A_wrong": "Incorrect. Adjournment decisions are exercises of statutory discretion that must be exercised consistent with procedural fairness; they are subject to judicial review on grounds of procedural unfairness.",
+    "why_B_wrong": "Incorrect. The SPPA does not require tribunals to grant every adjournment request; the tribunal retains genuine discretion, subject to the overriding requirement of procedural fairness.",
+    "why_C_wrong": "This IS the correct answer. Under SPPA s. 21, a tribunal has discretion to grant adjournments, but that discretion must be exercised consistent with the duty of fairness; refusing an adjournment solely for administrative convenience — where the refusal deprives a party of the ability to present their case — may constitute a breach of procedural fairness reviewable on judicial review.",
+    "why_D_wrong": "Incorrect. There is no rule under the SPPA or general law that adjournments may only be refused after two prior adjournments have been granted; the test is the overall fairness of the proceeding.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 5 — Statutory Powers Procedure Act",
+      "heading": "Adjournments — SPPA Section 21",
+      "page": "N/A",
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 21; Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "adjournment",
+      "SPPA s. 21",
+      "discretion",
+      "procedural fairness",
+      "ability to present case"
+    ],
+    "tested_concepts": [
+      "SPPA s. 21 adjournment discretion",
+      "fairness limits on adjournment refusal",
+      "administrative convenience insufficient reason to deny"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-05-sppa-rec-001",
+    "subject": "public_law",
+    "chapter_number": 5,
+    "chapter_title": "Statutory Powers Procedure Act",
+    "topic_id": "sppa_reconsideration",
+    "topic_heading": "SPPA — Reconsideration",
+    "subtopic_id": "sppa_reconsideration",
+    "subtopic_heading": "Reconsideration — SPPA Section 21.2",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario tribunal governed by the SPPA issues a final decision dismissing a complaint. Six months later, new evidence emerges that was not available at the time of the original hearing. The complainant applies to the tribunal to reconsider its decision on the basis of the new evidence. The tribunal's enabling statute does not address reconsideration. The respondent argues the tribunal has no power to reconsider a final decision.",
+    "call_of_question": "Under s. 21.2 of the SPPA, does an Ontario tribunal have the power to reconsider its own final decision, and if so, under what conditions?",
+    "options": {
+      "A": "No. A tribunal loses all jurisdiction over a matter once it issues a final decision; only a superior court on judicial review can revisit the decision.",
+      "B": "Yes. Under s. 21.2 of the SPPA, a tribunal may, if it considers it advisable and if its rules permit, reconsider a decision made by it in a proceeding; however, the power to reconsider is not unlimited and is subject to the conditions in the tribunal's rules.",
+      "C": "Yes. A tribunal may reconsider any final decision whenever new evidence is presented, without any conditions or procedural requirements.",
+      "D": "No. Reconsideration is only available where the enabling statute of the tribunal expressly grants the power; the SPPA does not independently authorize reconsideration."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 21.2(1), a tribunal may, if it considers it advisable and if its rules permit, reconsider a decision made by it in a proceeding. Reconsideration is not automatic or unlimited; it is available only where the tribunal's own rules permit reconsideration and the tribunal considers it advisable. The existence of new evidence may be a ground for reconsideration if the tribunal's rules address that scenario. The SPPA thus provides a statutory basis for reconsideration even where the enabling statute is silent.",
+    "why_A_wrong": "Incorrect. Section 21.2 of the SPPA expressly grants Ontario tribunals a power to reconsider their own decisions, subject to the conditions specified; tribunals are not functus officio in the absolute sense when s. 21.2 applies.",
+    "why_B_wrong": "This IS the correct answer. Yes. Under s. 21.2 of the SPPA, a tribunal may, if it considers it advisable and if its rules permit, reconsider a decision made by it in a proceeding; however, the power to reconsider is not unlimited and is subject to the conditions in the tribunal's rules.",
+    "why_C_wrong": "Incorrect. Reconsideration under s. 21.2 is not automatic upon new evidence; the tribunal must consider it advisable and its rules must permit reconsideration. There is no blanket entitlement to reconsideration on the basis of new evidence.",
+    "why_D_wrong": "Incorrect. Section 21.2 of the SPPA itself provides the basis for reconsideration for tribunals governed by the SPPA; the enabling statute need not separately grant the power.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 5 — Statutory Powers Procedure Act",
+      "heading": "Reconsideration — SPPA Section 21.2",
+      "page": "N/A",
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 21.2"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "SPPA s. 21.2",
+      "reconsideration",
+      "final decision",
+      "functus officio",
+      "tribunal rules permit"
+    ],
+    "tested_concepts": [
+      "SPPA s. 21.2 reconsideration power",
+      "conditions for reconsideration advisable and rules permit",
+      "SPPA as independent statutory basis for reconsideration"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "id": "pub-06-fippa-acc-001",
+    "subject": "public_law",
+    "chapter_number": 6,
+    "chapter_title": "Privacy and Access to Information",
+    "topic_id": "access_to_information",
+    "topic_heading": "FIPPA — Right of Access",
+    "subtopic_id": "fippa_access",
+    "subtopic_heading": "FIPPA — Right of Access; Mandatory vs Discretionary Exemptions",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A journalist submits an access to information request under FIPPA to the Ontario Ministry of Health for records relating to a ministerial briefing on a healthcare policy matter. The Ministry responds that the records are exempt and refuses access. The journalist challenges the refusal at the Information and Privacy Commissioner.",
+    "call_of_question": "Under FIPPA, what is the general right of access and what is the key distinction between mandatory and discretionary exemptions?",
+    "options": {
+      "A": "FIPPA does not grant any general right of access; access to government records is provided only at the discretion of the institution.",
+      "B": "Under FIPPA s. 10, every person has a right of access to a record in the custody or under the control of an institution, subject to limited exemptions; mandatory exemptions (such as s. 21 personal privacy) must be applied by the institution, while discretionary exemptions (such as s. 19 solicitor-client privilege) may be applied if the institution decides in its discretion to claim them.",
+      "C": "FIPPA grants a right of access only to Ontario residents; non-residents and corporations have no right of access to government records.",
+      "D": "Under FIPPA all exemptions are mandatory; once an exemption applies, the institution must always withhold the record."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, s. 10, every person has a right of access to a record or part of a record in the custody or under the control of an institution unless the record or part falls within one of the enumerated exemptions. FIPPA distinguishes between mandatory exemptions (where the institution shall refuse access — e.g., s. 21 personal privacy) and discretionary exemptions (where the institution may refuse access — e.g., s. 14 law enforcement, s. 19 solicitor-client privilege). For discretionary exemptions, the institution must exercise its discretion to claim the exemption; if it fails to do so, access must be granted.",
+    "why_A_wrong": "Incorrect. FIPPA s. 10 establishes a positive right of access as the default; the burden is on the institution to demonstrate that an exemption applies, not on the requester to prove entitlement.",
+    "why_B_wrong": "This IS the correct answer. Under FIPPA s. 10, every person has a right of access to a record in the custody or under the control of an institution, subject to limited exemptions; mandatory exemptions (such as s. 21 personal privacy) must be applied by the institution, while discretionary exemptions (such as s. 19 solicitor-client privilege) may be applied if the institution decides in its discretion to claim them.",
+    "why_C_wrong": "Incorrect. FIPPA s. 10 grants a right of access to 'every person' without restriction to Ontario residents; corporations and non-residents may also submit access requests.",
+    "why_D_wrong": "Incorrect. FIPPA contains both mandatory and discretionary exemptions; not all exemptions are mandatory. Discretionary exemptions require the institution to affirmatively exercise its discretion to withhold.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 6 — Privacy and Access to Information",
+      "heading": "FIPPA — Right of Access; Mandatory vs Discretionary Exemptions",
+      "page": "N/A",
+      "rule_or_statute_reference": "Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, s. 10, s. 14, s. 19, s. 21"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FIPPA",
+      "right of access",
+      "mandatory exemption",
+      "discretionary exemption",
+      "s. 10"
+    ],
+    "tested_concepts": [
+      "FIPPA s. 10 general right of access",
+      "mandatory vs discretionary FIPPA exemptions",
+      "burden on institution to demonstrate exemption"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-06-fippa-exc-001",
+    "subject": "public_law",
+    "chapter_number": 6,
+    "chapter_title": "Privacy and Access to Information",
+    "topic_id": "access_to_information",
+    "topic_heading": "FIPPA — Exemptions",
+    "subtopic_id": "fippa_exemptions",
+    "subtopic_heading": "FIPPA Exemptions — Section 14 Law Enforcement and Section 19 Solicitor-Client Privilege",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A requester submits a FIPPA access request to the Ontario Provincial Police for records relating to an ongoing criminal investigation. The OPP refuses access, citing s. 14 (law enforcement exemption). The requester then submits a separate request to the Ministry of the Attorney General for legal memoranda prepared by Ministry lawyers advising the government on the same investigation. The Ministry refuses access, citing s. 19 (solicitor-client privilege).",
+    "call_of_question": "Which of the following correctly distinguishes the s. 14 law enforcement exemption from the s. 19 solicitor-client privilege exemption under FIPPA?",
+    "options": {
+      "A": "Both s. 14 and s. 19 are mandatory exemptions; the institution must withhold records in both cases without any exercise of discretion.",
+      "B": "Section 14 is a discretionary exemption that the institution may claim for records that could reasonably be expected to interfere with an ongoing law enforcement investigation; s. 19 is also a discretionary exemption protecting records that are subject to solicitor-client privilege, but the institution may choose to waive the privilege and disclose.",
+      "C": "Section 14 is a mandatory exemption; s. 19 is a discretionary exemption that the institution may choose to claim or waive.",
+      "D": "Section 19 is a mandatory exemption; s. 14 is a discretionary exemption requiring the institution to exercise its discretion to withhold."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, both s. 14 (law enforcement) and s. 19 (solicitor-client privilege) are discretionary exemptions — the institution 'may' refuse access rather than 'shall' refuse access. For s. 14, the institution may refuse access to records where disclosure could reasonably be expected to interfere with law enforcement matters. For s. 19, the institution may refuse access to records subject to solicitor-client privilege. Because both are discretionary, the institution must exercise its discretion whether to claim the exemption; the institution may choose to disclose even if the exemption technically applies.",
+    "why_A_wrong": "Incorrect. Section 14 and s. 19 are discretionary exemptions under FIPPA; the word 'may' in these provisions signals discretionary, not mandatory, application. Compare s. 21 (personal privacy), which uses 'shall.'",
+    "why_B_wrong": "This IS the correct answer. Section 14 is a discretionary exemption that the institution may claim for records that could reasonably be expected to interfere with an ongoing law enforcement investigation; s. 19 is also a discretionary exemption protecting records that are subject to solicitor-client privilege, but the institution may choose to waive the privilege and disclose.",
+    "why_C_wrong": "Incorrect. Section 14 is not mandatory — it uses the word 'may,' not 'shall,' and is therefore discretionary.",
+    "why_D_wrong": "Incorrect. Section 19 is not mandatory; like s. 14, it uses the word 'may' and is a discretionary exemption.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 6 — Privacy and Access to Information",
+      "heading": "FIPPA Exemptions — Section 14 Law Enforcement and Section 19 Solicitor-Client Privilege",
+      "page": "N/A",
+      "rule_or_statute_reference": "Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, s. 14 (law enforcement), s. 19 (solicitor-client privilege)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FIPPA s. 14",
+      "FIPPA s. 19",
+      "law enforcement exemption",
+      "solicitor-client privilege",
+      "discretionary exemption"
+    ],
+    "tested_concepts": [
+      "FIPPA s. 14 law enforcement discretionary exemption",
+      "FIPPA s. 19 solicitor-client privilege discretionary exemption",
+      "may vs shall distinction mandatory vs discretionary"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-06-fippa-exc-002",
+    "subject": "public_law",
+    "chapter_number": 6,
+    "chapter_title": "Privacy and Access to Information",
+    "topic_id": "access_to_information",
+    "topic_heading": "FIPPA — Exemptions",
+    "subtopic_id": "fippa_exemptions",
+    "subtopic_heading": "FIPPA Exemptions — Section 21 Personal Privacy",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A person submits a FIPPA request to the Ministry of Children, Community and Social Services for records relating to a foster care placement decision that affected her family. The records contain personal information about the biological parents of the child placed in care. The Ministry refuses access under s. 21 (personal privacy exemption). The requester argues that disclosure is necessary to allow her to understand the basis for a decision that directly affected her.",
+    "call_of_question": "Under FIPPA, is s. 21 (personal privacy) a mandatory or discretionary exemption, and does it have any exceptions that might allow disclosure?",
+    "options": {
+      "A": "Section 21 is a discretionary exemption; the Ministry may choose to disclose personal information in any case where it considers disclosure in the public interest.",
+      "B": "Section 21 is a mandatory exemption — the Ministry shall refuse to disclose personal information about a third party; however, FIPPA provides defined exceptions including where disclosure is desirable for the purpose of subjecting the activities of the Government to public scrutiny, or where the individual to whom the information relates has consented.",
+      "C": "Section 21 is a mandatory exemption with no exceptions; personal information about a third party can never be disclosed under FIPPA.",
+      "D": "Section 21 is not an exemption at all; it simply requires the Ministry to notify the third party before making a disclosure decision."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, s. 21(1), an institution shall refuse to disclose personal information to any person other than the individual to whom the information relates — making it a mandatory exemption (using 'shall'). However, s. 21(1) is subject to a number of defined exceptions, including: where the person to whom the information relates has consented (s. 21(1)(a)); where disclosure is desirable for the purpose of subjecting the activities of the Government to public scrutiny (s. 21(1)(f)(iii)); and other listed exceptions. The institution must consider whether any exception applies before invoking the mandatory exemption.",
+    "why_A_wrong": "Incorrect. Section 21 uses the word 'shall' and is a mandatory exemption; the institution does not have general discretion to disclose personal information whenever it considers it in the public interest.",
+    "why_B_wrong": "This IS the correct answer. Section 21 is a mandatory exemption — the Ministry shall refuse to disclose personal information about a third party; however, FIPPA provides defined exceptions including where disclosure is desirable for the purpose of subjecting the activities of the Government to public scrutiny, or where the individual to whom the information relates has consented.",
+    "why_C_wrong": "Incorrect. While s. 21 is mandatory, it has enumerated exceptions; personal information is not absolutely protected with no exceptions whatsoever.",
+    "why_D_wrong": "Incorrect. Section 21 is a substantive exemption requiring the institution to refuse disclosure of personal information, not merely a notice provision.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 6 — Privacy and Access to Information",
+      "heading": "FIPPA Exemptions — Section 21 Personal Privacy",
+      "page": "N/A",
+      "rule_or_statute_reference": "Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, s. 21(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FIPPA s. 21",
+      "personal privacy",
+      "mandatory exemption",
+      "shall refuse",
+      "exceptions"
+    ],
+    "tested_concepts": [
+      "FIPPA s. 21 mandatory personal privacy exemption",
+      "shall vs may mandatory vs discretionary",
+      "exceptions to s. 21 personal privacy"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-06-pipeda-001",
+    "subject": "public_law",
+    "chapter_number": 6,
+    "chapter_title": "Privacy and Access to Information",
+    "topic_id": "private_sector_privacy",
+    "topic_heading": "PIPEDA — Private Sector Privacy",
+    "subtopic_id": "pipeda",
+    "subtopic_heading": "PIPEDA — Application, Consent Principles, and Federal Jurisdiction",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A national retail chain operating across Canada collects customer purchase data and shares it with a third-party marketing company without the customers' knowledge or consent. Customers complain that their personal information has been shared without authorization. They are advised that Ontario's FIPPA does not apply because the retailer is a private sector company.",
+    "call_of_question": "Which privacy statute governs the collection and disclosure of personal information by private sector organizations carrying on commercial activities in Canada, and what is the foundational consent principle?",
+    "options": {
+      "A": "Ontario's Municipal Freedom of Information and Protection of Privacy Act (MFIPPA) applies to all private sector organizations operating in Ontario.",
+      "B": "There is no federal privacy legislation governing the private sector; privacy protection for private sector organizations is entirely a matter of provincial jurisdiction.",
+      "C": "The Personal Information Protection and Electronic Documents Act (PIPEDA), S.C. 2000, c. 5, applies to organizations that collect, use, or disclose personal information in the course of commercial activities; PIPEDA's foundational principle requires organizations to obtain meaningful consent from individuals before collecting, using, or disclosing their personal information.",
+      "D": "FIPPA applies to both public institutions and private companies operating in Ontario where the company performs government-like functions."
+    },
+    "correct_answer": "C",
+    "explanation": "The Personal Information Protection and Electronic Documents Act, S.C. 2000, c. 5 (PIPEDA), is the federal statute governing the collection, use, and disclosure of personal information by private sector organizations in the course of commercial activities. PIPEDA applies in provinces that have not enacted substantially similar privacy legislation (Alberta, British Columbia, and Quebec have their own legislation). PIPEDA's Schedule 1 sets out ten fair information principles based on the Canadian Standards Association Model Code, with consent as the foundational principle: organizations must obtain the knowledge and consent of the individual for any collection, use, or disclosure of personal information unless an exception applies.",
+    "why_A_wrong": "Incorrect. MFIPPA applies to Ontario municipalities and their boards and agencies; it does not govern private sector organizations.",
+    "why_B_wrong": "Incorrect. PIPEDA is a federal statute that governs the private sector in the course of commercial activities; Parliament has jurisdiction over the private sector under its trade and commerce power.",
+    "why_C_wrong": "This IS the correct answer. The Personal Information Protection and Electronic Documents Act (PIPEDA), S.C. 2000, c. 5, applies to organizations that collect, use, or disclose personal information in the course of commercial activities; PIPEDA's foundational principle requires organizations to obtain meaningful consent from individuals before collecting, using, or disclosing their personal information.",
+    "why_D_wrong": "Incorrect. FIPPA applies to Ontario public institutions; it does not apply to private companies simply because they perform government-like functions.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 6 — Privacy and Access to Information",
+      "heading": "PIPEDA — Application, Consent Principles, and Federal Jurisdiction",
+      "page": "N/A",
+      "rule_or_statute_reference": "Personal Information Protection and Electronic Documents Act, S.C. 2000, c. 5 (PIPEDA), Schedule 1"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "PIPEDA",
+      "private sector",
+      "commercial activities",
+      "consent",
+      "personal information"
+    ],
+    "tested_concepts": [
+      "PIPEDA application to private sector commercial activities",
+      "PIPEDA consent as foundational principle",
+      "distinction from FIPPA and MFIPPA"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-06-ipc-001",
+    "subject": "public_law",
+    "chapter_number": 6,
+    "chapter_title": "Privacy and Access to Information",
+    "topic_id": "privacy_oversight",
+    "topic_heading": "Information and Privacy Commissioner of Ontario",
+    "subtopic_id": "ipc",
+    "subtopic_heading": "IPC — Orders, Mediation, and Appeal Route",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A requester submits a FIPPA access request to the Ontario Ministry of Finance. The Ministry refuses access under s. 19 (solicitor-client privilege). The requester disagrees and wishes to challenge the refusal. The requester's lawyer advises that the dispute should first go to the Information and Privacy Commissioner before any court proceedings.",
+    "call_of_question": "Under FIPPA, what is the role of the Information and Privacy Commissioner of Ontario in reviewing a disputed access refusal, and what is the appeal route after an IPC order?",
+    "options": {
+      "A": "The IPC acts as a mediator only; it has no power to issue binding orders and any order it makes may be ignored by the institution.",
+      "B": "Under FIPPA, a requester who has been refused access may appeal the refusal to the IPC; the IPC investigates and may mediate the dispute. If mediation fails, the IPC may conduct an inquiry and issue a binding order requiring disclosure or confirming the exemption; the order may be appealed to the Divisional Court.",
+      "C": "The IPC's role is limited to recommending changes to government privacy practices; it cannot intervene in individual access disputes.",
+      "D": "A requester must bring a judicial review application directly to the Divisional Court without first going to the IPC."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, a requester who is refused access may appeal the refusal to the Information and Privacy Commissioner of Ontario. The IPC has a multi-stage process: it may attempt to resolve the dispute through mediation, and if mediation fails, may conduct a formal inquiry. Following an inquiry, the IPC has the power to issue binding orders — including orders requiring the institution to disclose records — or confirming the institution's right to withhold. Orders of the IPC may be appealed to the Divisional Court under s. 54 of FIPPA.",
+    "why_A_wrong": "Incorrect. The IPC has the power to issue binding orders; its orders are not merely advisory and institutions must comply with them or appeal to the Divisional Court.",
+    "why_B_wrong": "This IS the correct answer. Under FIPPA, a requester who has been refused access may appeal the refusal to the IPC; the IPC investigates and may mediate the dispute. If mediation fails, the IPC may conduct an inquiry and issue a binding order requiring disclosure or confirming the exemption; the order may be appealed to the Divisional Court.",
+    "why_C_wrong": "Incorrect. The IPC has both systemic oversight functions and the power to adjudicate individual access disputes; it can intervene in individual cases and issue binding orders.",
+    "why_D_wrong": "Incorrect. A requester must exhaust the IPC process before seeking judicial review; the Divisional Court's role is to review orders of the IPC, not to hear original access disputes.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 6 — Privacy and Access to Information",
+      "heading": "IPC — Orders, Mediation, and Appeal Route",
+      "page": "N/A",
+      "rule_or_statute_reference": "Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, s. 54 (appeal to Divisional Court)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Information and Privacy Commissioner",
+      "IPC order",
+      "mediation",
+      "FIPPA appeal",
+      "Divisional Court"
+    ],
+    "tested_concepts": [
+      "IPC role in FIPPA disputes",
+      "IPC binding orders",
+      "appeal from IPC to Divisional Court s. 54"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

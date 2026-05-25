@@ -1,0 +1,277 @@
+[
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-06-trust-001",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Accounts — By-Law 9",
+    "subtopic_id": "mixed_trust",
+    "subtopic_heading": "Mixed Trust Account — Deposit Obligations",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Mona receives a $10,000 advance from a client on Monday to be applied toward fees in an ongoing litigation matter. The fees have not yet been earned. Mona is busy and does not deposit the funds into her trust account until the following Thursday — four business days later.",
+    "call_of_question": "Has Mona complied with her trust accounting obligations under By-Law 9 regarding the timing of deposit of client funds?",
+    "options": {
+      "A": "Yes — a lawyer has a full business week to deposit client funds into trust.",
+      "B": "No — By-Law 9 requires that funds received in trust be deposited to the mixed trust account no later than the close of business on the next banking day following receipt.",
+      "C": "Yes — the deposit timing rules under By-Law 9 apply only to real estate transaction funds, not to litigation retainers.",
+      "D": "No — By-Law 9 requires that all client funds be deposited to trust within three business days; Mona deposited on the fourth business day, which is late."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 9 requires that funds received in trust be deposited to the lawyer's mixed trust account no later than the close of business on the next banking day after they are received. Mona received the funds on Monday but did not deposit until Thursday — four business days later — which clearly violates the prompt deposit requirement. The rule applies to all unearned client funds, not only real estate transactions.",
+    "why_A_wrong": "Incorrect. A full business week is not the standard. By-Law 9 requires deposit by the close of business on the next banking day after receipt.",
+    "why_B_wrong": "This IS the correct answer. No — By-Law 9 requires that funds received in trust be deposited to the mixed trust account no later than the close of business on the next banking day following receipt.",
+    "why_C_wrong": "Incorrect. The deposit timing rules apply to all client funds received in trust, not only real estate transactions.",
+    "why_D_wrong": "Incorrect. While Mona's deposit is indeed late, the standard is the next banking day, not three business days. Option D states an incorrect time limit.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (Financial Transactions and Records of Licensees), s. 3"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — mixed trust deposit timing"
+    },
+    "exam_trigger_words": [
+      "trust account",
+      "deposit timing",
+      "next banking day",
+      "By-Law 9",
+      "mixed trust"
+    ],
+    "tested_concepts": [
+      "By-Law 9 — deposit to trust by next banking day",
+      "prompt deposit requirement applies to all client funds",
+      "unearned funds must go to trust"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-06-trust-002",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Accounts — By-Law 9",
+    "subtopic_id": "specific_trust",
+    "subtopic_heading": "Specific Trust Account — Identified Client Funds",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Noel is acting for the purchaser in a commercial real estate transaction. The purchase price is $4,000,000. The seller insists that the deposit funds be held in a separate interest-bearing account exclusively for this transaction rather than in Noel's general mixed trust account. Noel is considering his options.",
+    "call_of_question": "Which of the following accurately describes the use and purpose of a specific trust account under By-Law 9?",
+    "options": {
+      "A": "A specific trust account is prohibited — all client funds must be pooled in a single mixed trust account.",
+      "B": "A specific trust account is an account opened and maintained for the funds of a specific client or a specific transaction, separately from the mixed trust account; it is typically used where a client instructs the lawyer to hold funds in a separate interest-bearing account or where the nature of the transaction requires segregation of funds.",
+      "C": "A specific trust account may only be opened where the Law Society of Ontario has approved it for the specific transaction.",
+      "D": "A specific trust account operates identically to a mixed trust account and provides no separate identification of the funds belonging to a particular client."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 9 contemplates both mixed trust accounts (where funds of multiple clients are pooled) and specific trust accounts (also called designated trust accounts) where funds belonging to a specific client or transaction are held separately. A specific trust account is appropriate for large transactions or where the client requests or requires that funds be held in a separate interest-bearing account. The interest earned in a specific trust account belongs to the client.",
+    "why_A_wrong": "Incorrect. By-Law 9 expressly contemplates specific (designated) trust accounts in addition to mixed trust accounts. Lawyers may open specific trust accounts for individual clients or transactions.",
+    "why_B_wrong": "This IS the correct answer. A specific trust account is an account opened and maintained for the funds of a specific client or a specific transaction, separately from the mixed trust account; it is typically used where a client instructs the lawyer to hold funds in a separate interest-bearing account or where the nature of the transaction requires segregation of funds.",
+    "why_C_wrong": "Incorrect. LSO pre-approval is not required before opening a specific trust account. The lawyer may open one as appropriate to the client's instructions or the nature of the matter.",
+    "why_D_wrong": "Incorrect. A specific trust account is distinguished from a mixed trust account precisely because it holds funds for one client or transaction only, providing clear identification and segregation.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9, s. 4 (specific trust accounts)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — specific trust account"
+    },
+    "exam_trigger_words": [
+      "specific trust account",
+      "designated trust",
+      "interest-bearing",
+      "segregation",
+      "By-Law 9"
+    ],
+    "tested_concepts": [
+      "By-Law 9 — specific trust vs. mixed trust account",
+      "specific trust for identified client funds",
+      "interest in specific trust belongs to client"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-06-trust-003",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Accounts — By-Law 9",
+    "subtopic_id": "trust_reconciliation",
+    "subtopic_heading": "Trust Reconciliation — Monthly Three-Way Reconciliation",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Oliver has been running a busy real estate practice for two years. He maintains a mixed trust account and keeps a trust ledger, a client trust listing, and receives monthly bank statements. Oliver reconciles his bank statement to his trust ledger on an ad hoc basis — roughly every three or four months — when he has time. He believes this frequency is adequate because he has never had a shortfall.",
+    "call_of_question": "Has Oliver satisfied his trust reconciliation obligations under By-Law 9?",
+    "options": {
+      "A": "Yes — trust reconciliation is required only annually for lawyers with a real estate practice.",
+      "B": "No — By-Law 9 requires that a lawyer perform a three-way reconciliation of the trust bank statement, the trust ledger, and the client trust listing on a monthly basis; Oliver's ad hoc reconciliation every three to four months is non-compliant regardless of whether a shortfall exists.",
+      "C": "Yes — the absence of a shortfall demonstrates that the accounts are in order, which satisfies the reconciliation requirement.",
+      "D": "No — By-Law 9 requires reconciliation within 10 business days after each transaction, not on a monthly basis."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 9 requires that a lawyer perform a three-way reconciliation at least monthly: the trust bank statement balance must be reconciled to the trust ledger balance, which must in turn reconcile to the total of the client trust listing (the sum of individual client balances). Monthly reconciliation is a mandatory compliance obligation, not a best practice. The absence of a known shortfall does not substitute for performing the reconciliation — discrepancies may exist without the lawyer being aware of them.",
+    "why_A_wrong": "Incorrect. Trust reconciliation is required monthly, not annually. The frequency of reconciliation is a firm requirement under By-Law 9.",
+    "why_B_wrong": "This IS the correct answer. No — By-Law 9 requires that a lawyer perform a three-way reconciliation of the trust bank statement, the trust ledger, and the client trust listing on a monthly basis; Oliver's ad hoc reconciliation every three to four months is non-compliant regardless of whether a shortfall exists.",
+    "why_C_wrong": "Incorrect. The absence of a known shortfall does not satisfy the reconciliation requirement. Reconciliation is required to detect discrepancies, not merely to confirm known problems.",
+    "why_D_wrong": "Incorrect. By-Law 9 requires monthly reconciliation, not transaction-by-transaction reconciliation within 10 days. The monthly requirement is tied to the bank statement cycle.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9, s. 5 (trust reconciliation — monthly)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — monthly reconciliation requirement"
+    },
+    "exam_trigger_words": [
+      "reconciliation",
+      "monthly",
+      "three-way",
+      "trust ledger",
+      "By-Law 9"
+    ],
+    "tested_concepts": [
+      "By-Law 9 — monthly three-way trust reconciliation",
+      "reconciliation is mandatory not optional",
+      "absence of shortfall does not substitute for reconciliation"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-06-trust-004",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Accounts — By-Law 9",
+    "subtopic_id": "trust_withdrawal",
+    "subtopic_heading": "Withdrawal from Trust — Requirements",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Petra has completed a real estate transaction and holds $8,500 in trust that represents funds owed to her for fees and disbursements. She has rendered a final account to the client. Rather than waiting for the client to provide written direction, Petra transfers the $8,500 from trust to her general account because she has already rendered the final account and believes the amount is undisputed.",
+    "call_of_question": "Has Petra complied with the requirements for withdrawing funds from trust under By-Law 9?",
+    "options": {
+      "A": "Yes — once a final account has been rendered, the lawyer is entitled to transfer trust funds to the general account without any further formality.",
+      "B": "No — trust funds may only be withdrawn by a lawyer if the client first provides a written direction authorizing the transfer; rendering a final account alone does not authorize withdrawal.",
+      "C": "Yes — rendering a final account is the functional equivalent of a written direction for trust withdrawal purposes.",
+      "D": "No — trust funds may never be transferred to a lawyer's general account for fee payment; fees can only be paid in cash by the client."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 9 establishes strict requirements for withdrawing funds from trust. A lawyer may withdraw funds from trust only in accordance with certain permitted grounds, which include having a written direction from the client, a court order, or other authorization. Rendering a final account creates an entitlement to be paid but does not itself constitute authorization to take money from trust. Petra must have a written direction from the client or another valid basis before transferring trust funds to her general account.",
+    "why_A_wrong": "Incorrect. Rendering a final account does not automatically authorize a trust withdrawal. By-Law 9 requires a written direction or other valid ground before funds can be transferred from trust.",
+    "why_B_wrong": "This IS the correct answer. No — trust funds may only be withdrawn by a lawyer if the client first provides a written direction authorizing the transfer; rendering a final account alone does not authorize withdrawal.",
+    "why_C_wrong": "Incorrect. A rendered account and a written direction are distinct requirements. The account identifies the amount owed; the written direction authorizes the transfer of trust funds.",
+    "why_D_wrong": "Incorrect. Trust funds may indeed be transferred to a general account for fee payment — the issue is the authorization process, not whether such transfers are ever permissible.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9, s. 9 (withdrawals from trust)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — withdrawal from trust"
+    },
+    "exam_trigger_words": [
+      "withdrawal from trust",
+      "written direction",
+      "final account",
+      "transfer from trust",
+      "By-Law 9"
+    ],
+    "tested_concepts": [
+      "By-Law 9 — written direction required for trust withdrawal",
+      "rendered account does not authorize withdrawal",
+      "authorization requirements for trust transfers"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-06-trust-005",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Accounts — By-Law 9",
+    "subtopic_id": "trust_records",
+    "subtopic_heading": "Trust Record-Keeping — Required Books and Retention Period",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Quinn closed her practice four years ago. She retained all her client files and trust records for three years after closing and then destroyed them to free up storage space. A former client now contacts her requesting copies of trust records related to a real estate transaction from five years ago. Quinn informs the client that all records have been destroyed.",
+    "call_of_question": "Has Quinn satisfied her trust record-keeping retention obligations under By-Law 9?",
+    "options": {
+      "A": "Yes — a three-year retention period for trust records is adequate under By-Law 9.",
+      "B": "Yes — lawyers who close their practice are exempt from ongoing record-keeping obligations.",
+      "C": "No — By-Law 9 requires that trust records, including books of account and supporting documentation, be retained for a minimum of six years; Quinn destroyed records after three years and failed to meet this requirement.",
+      "D": "No — trust records must be retained permanently and may never be destroyed."
+    },
+    "correct_answer": "C",
+    "explanation": "By-Law 9 requires that lawyers retain their books of account, including trust records, for a minimum of six years from the end of the fiscal year to which they relate. Quinn retained records for only three years before destroying them, which does not satisfy the six-year minimum. The obligation to retain records for six years applies even after a lawyer closes their practice. The records from a transaction five years ago should still have been available.",
+    "why_A_wrong": "Incorrect. Three years is less than the six-year minimum required by By-Law 9. Quinn's retention period was insufficient.",
+    "why_B_wrong": "Incorrect. Closing a practice does not exempt a lawyer from the obligation to retain trust records for the required period. The six-year retention requirement continues after the practice closes.",
+    "why_C_wrong": "This IS the correct answer. No — By-Law 9 requires that trust records, including books of account and supporting documentation, be retained for a minimum of six years; Quinn destroyed records after three years and failed to meet this requirement.",
+    "why_D_wrong": "Incorrect. Trust records need not be retained permanently — six years is the required minimum. After six years, records may be destroyed.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9, s. 18 (record retention — six years)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — record retention"
+    },
+    "exam_trigger_words": [
+      "trust records",
+      "retention",
+      "six years",
+      "books of account",
+      "By-Law 9"
+    ],
+    "tested_concepts": [
+      "By-Law 9 — six-year trust record retention minimum",
+      "retention obligation survives practice closure",
+      "three years is insufficient"
+    ],
+    "estimated_time_seconds": 90
+  }
+]

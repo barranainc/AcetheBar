@@ -1,0 +1,219 @@
+[
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-08-opp-001",
+    "chapter_number": 8,
+    "chapter_title": "Dealing with Opposing Parties and Unrepresented Persons",
+    "topic_id": "opposing_parties",
+    "topic_heading": "Dealing with Represented and Unrepresented Parties — Rule 7.2",
+    "subtopic_id": "represented_parties",
+    "subtopic_heading": "Communication with Represented Parties — Rule 7.2-1",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Victor is acting for the plaintiff in a civil dispute. He learns that the opposing party, the defendant, is represented by a lawyer at a different firm. Victor wants to negotiate a settlement directly with the defendant, bypassing the defendant's lawyer, because he believes he can get better terms that way.",
+    "call_of_question": "May Victor communicate directly with the defendant about the settlement without the knowledge or consent of the defendant's lawyer?",
+    "options": {
+      "A": "Yes — direct client-to-client settlement discussions, even when mediated by lawyers, are a normal part of civil litigation.",
+      "B": "Yes — Victor may communicate directly with the defendant to discuss settlement because settlement is in both parties' interests.",
+      "C": "No — Rule 7.2-1 prohibits a lawyer from communicating directly with a person who is represented by another lawyer in the matter, except with the consent of that other lawyer or as authorized by law.",
+      "D": "Yes — Victor may contact the defendant directly as long as he identifies himself as a lawyer and the defendant agrees to speak with him."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 7.2-1 of the LSO Rules of Professional Conduct provides that a lawyer must not communicate directly with a person who is represented by another lawyer in the matter, without the knowledge and consent of the other lawyer, or unless authorized by law. The rule protects represented parties from being approached directly by opposing counsel, which may result in the party making statements or agreements without the benefit of legal advice. Victor must communicate with the defendant through the defendant's lawyer.",
+    "why_A_wrong": "Incorrect. The rule against direct communication with represented parties applies regardless of whether the purpose is settlement. Victor must communicate through the defendant's lawyer.",
+    "why_B_wrong": "Incorrect. The fact that settlement may benefit both parties does not authorize direct communication with a represented opposing party. The consent of the opposing counsel is required.",
+    "why_C_wrong": "This IS the correct answer. No — Rule 7.2-1 prohibits a lawyer from communicating directly with a person who is represented by another lawyer in the matter, except with the consent of that other lawyer or as authorized by law.",
+    "why_D_wrong": "Incorrect. Identifying oneself as a lawyer and obtaining the represented party's agreement to speak does not substitute for the other lawyer's consent required by Rule 7.2-1.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 8",
+      "heading": "Dealing with Opposing Parties and Unrepresented Persons",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "communication with represented party"
+    },
+    "exam_trigger_words": [
+      "represented party",
+      "direct communication",
+      "opposing lawyer",
+      "Rule 7.2-1"
+    ],
+    "tested_concepts": [
+      "Rule 7.2-1 — no direct communication with represented parties",
+      "consent of opposing counsel required",
+      "party's consent does not substitute for lawyer's consent"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-08-opp-002",
+    "chapter_number": 8,
+    "chapter_title": "Dealing with Opposing Parties and Unrepresented Persons",
+    "topic_id": "opposing_parties",
+    "topic_heading": "Dealing with Represented and Unrepresented Parties — Rule 7.2",
+    "subtopic_id": "unrepresented_parties",
+    "subtopic_heading": "Communication with Unrepresented Parties — Rule 7.2-9",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Wendy is acting for a landlord in a residential tenancy dispute before the Landlord and Tenant Board. The tenant is not represented by a lawyer and has stated they cannot afford one. Wendy approaches the tenant directly at the beginning of the hearing, explains the procedural issues, and negotiates terms for an agreement to end tenancy directly with the tenant without advising the tenant to get legal advice.",
+    "call_of_question": "Has Wendy complied with the Rules of Professional Conduct in her dealings with the unrepresented tenant?",
+    "options": {
+      "A": "Yes — lawyers are permitted to negotiate directly with unrepresented parties, particularly in administrative tribunals where legal representation is optional.",
+      "B": "No — Rule 7.2-9 provides that when a lawyer deals with an unrepresented person, the lawyer must advise that person to obtain independent legal representation and must not take advantage of the person's lack of representation.",
+      "C": "Yes — the fact that the tenant stated they cannot afford a lawyer means Wendy is permitted to deal directly without advising on legal counsel.",
+      "D": "Yes — Wendy complied because she explained the procedural issues to the tenant, which sufficiently informed the tenant of their situation."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 7.2-9 of the LSO Rules of Professional Conduct requires that when a lawyer deals with an unrepresented person, the lawyer must urge the person to obtain independent legal advice and must not attempt to negotiate a resolution or take advantage of the person's lack of representation. Wendy's duty was to advise the tenant to get legal advice before negotiating terms of an agreement. Explaining procedural issues is not the same as advising the tenant to seek independent counsel, and negotiating directly without that advice may constitute taking advantage of the tenant's vulnerability.",
+    "why_A_wrong": "Incorrect. The duty under Rule 7.2-9 applies regardless of the forum. Lawyers must advise unrepresented parties to seek counsel and must not take advantage of their lack of representation.",
+    "why_B_wrong": "This IS the correct answer. No — Rule 7.2-9 provides that when a lawyer deals with an unrepresented person, the lawyer must advise that person to obtain independent legal representation and must not take advantage of the person's lack of representation.",
+    "why_C_wrong": "Incorrect. The tenant's stated inability to afford a lawyer does not relieve Wendy of the duty to advise the tenant to seek representation. The obligation is to advise; whether the person follows the advice is their choice.",
+    "why_D_wrong": "Incorrect. Explaining procedural issues does not satisfy the obligation to advise the unrepresented party to seek independent legal advice before negotiating terms. The two duties are distinct.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 8",
+      "heading": "Dealing with Opposing Parties and Unrepresented Persons",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-9"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "communication with unrepresented party"
+    },
+    "exam_trigger_words": [
+      "unrepresented",
+      "independent legal advice",
+      "no advantage",
+      "Rule 7.2-9"
+    ],
+    "tested_concepts": [
+      "Rule 7.2-9 — duty when dealing with unrepresented parties",
+      "must advise to seek independent legal advice",
+      "must not take advantage of lack of representation"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-08-opp-003",
+    "chapter_number": 8,
+    "chapter_title": "Dealing with Opposing Parties and Unrepresented Persons",
+    "topic_id": "opposing_parties",
+    "topic_heading": "Lawyer as Witness — Rule 5.2-1",
+    "subtopic_id": "lawyer_as_witness",
+    "subtopic_heading": "Lawyer as Witness — Rule 5.2-1",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Xavier is retained to act as trial counsel for the plaintiff in a contract dispute. After examinations for discovery, it becomes clear that Xavier himself is a key witness on a crucial factual issue — he was present at the meeting where the alleged oral contract was made and has direct evidence about what was said. Xavier's client wants him to continue as trial counsel and also testify as a fact witness at trial.",
+    "call_of_question": "What does Rule 5.2-1 of the Rules of Professional Conduct require in this situation?",
+    "options": {
+      "A": "Xavier may act as both trial counsel and a fact witness because his evidence is helpful to his client's case.",
+      "B": "Xavier must withdraw from acting as trial counsel if he is to testify as a witness; Rule 5.2-1 generally prohibits a lawyer from acting as both advocate and witness in the same proceeding.",
+      "C": "Xavier may testify as a witness if his client provides written consent to both roles being performed by Xavier.",
+      "D": "Xavier may testify as a witness on procedural matters only but must not testify on substantive factual issues while remaining as trial counsel."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 5.2-1 of the LSO Rules of Professional Conduct provides that a lawyer must not appear as advocate before a tribunal at a proceeding in which the lawyer is likely to be called as a witness. The roles of advocate and witness are incompatible because a witness's credibility is always at issue, and a lawyer who is both advocate and witness may confuse the trier of fact and impair the administration of justice. Xavier must withdraw as trial counsel and have a different lawyer take over if he is to testify.",
+    "why_A_wrong": "Incorrect. The utility of the evidence to the client does not override Rule 5.2-1. The prohibition on combining the advocate and witness roles exists regardless of the importance of the evidence.",
+    "why_B_wrong": "This IS the correct answer. Xavier must withdraw from acting as trial counsel if he is to testify as a witness; Rule 5.2-1 generally prohibits a lawyer from acting as both advocate and witness in the same proceeding.",
+    "why_C_wrong": "Incorrect. Client consent does not cure the prohibition in Rule 5.2-1. The rule protects the integrity of the proceeding and the administration of justice, not only the client's interests.",
+    "why_D_wrong": "Incorrect. Rule 5.2-1 does not distinguish between procedural and substantive testimony — the prohibition applies whenever the lawyer is likely to be called as a witness in the proceeding.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 8",
+      "heading": "Dealing with Opposing Parties and Unrepresented Persons",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.2-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "lawyer as witness and advocate — Rule 5.2-1"
+    },
+    "exam_trigger_words": [
+      "lawyer as witness",
+      "advocate",
+      "same proceeding",
+      "Rule 5.2-1"
+    ],
+    "tested_concepts": [
+      "Rule 5.2-1 — lawyer cannot be advocate and witness in same proceeding",
+      "client consent does not cure Rule 5.2-1 prohibition",
+      "must withdraw from advocacy role to testify"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-08-third-001",
+    "chapter_number": 8,
+    "chapter_title": "Dealing with Opposing Parties and Unrepresented Persons",
+    "topic_id": "opposing_parties",
+    "topic_heading": "Duties to Third Parties — Rule 7.1",
+    "subtopic_id": "third_party_duties",
+    "subtopic_heading": "Duties to Third Parties — Courtesy and Avoiding Sharp Practice — Rule 7.1-1",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Yul is acting for a commercial landlord. In his dealings with the tenant's lawyer, Yul frequently sends correspondence that is deliberately misleading about the state of negotiations, makes false representations about the landlord's settlement authority, and uses deliberately threatening language to intimidate opposing counsel. Yul justifies this by saying it is aggressive but effective advocacy.",
+    "call_of_question": "Does Yul's conduct comply with the Rules of Professional Conduct regarding dealings with opposing counsel?",
+    "options": {
+      "A": "Yes — lawyers are entitled to be aggressive advocates and there is no rule requiring courtesy or good faith toward opposing counsel.",
+      "B": "No — Rule 7.1-1 requires a lawyer to be courteous and act in good faith in all dealings with other lawyers and parties; deliberately misleading opposing counsel, making false representations, and using threatening language constitutes sharp practice and professional misconduct.",
+      "C": "Yes — aggressive negotiation tactics, including deliberate misrepresentation of settlement authority, are standard commercial practice accepted by the Rules.",
+      "D": "No — but Yul's conduct is only problematic if opposing counsel formally objects; absent an objection, aggressive conduct is permissible."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 7.1-1 of the LSO Rules of Professional Conduct requires a lawyer to be courteous, civil, and act in good faith in all professional dealings. The Commentary to Rule 7.1-1 specifically addresses sharp practice — the use of tactics designed to mislead, surprise, or take unfair advantage of opposing counsel. Making false representations about settlement authority and deliberately misleading opposing counsel are prohibited. Yul's conduct constitutes sharp practice and a breach of the Rules regardless of whether it is 'effective.'",
+    "why_A_wrong": "Incorrect. Rule 7.1-1 requires courtesy and good faith in all professional dealings. Aggressive advocacy that crosses into deliberate misrepresentation and threats is not protected by the advocate's role.",
+    "why_B_wrong": "This IS the correct answer. No — Rule 7.1-1 requires a lawyer to be courteous and act in good faith in all dealings with other lawyers and parties; deliberately misleading opposing counsel, making false representations, and using threatening language constitutes sharp practice and professional misconduct.",
+    "why_C_wrong": "Incorrect. Deliberate misrepresentation of settlement authority is not a standard or accepted negotiation practice — it is a breach of the duty of good faith and the prohibition on sharp practice.",
+    "why_D_wrong": "Incorrect. Professional misconduct does not become permissible simply because opposing counsel does not formally object. The obligation is independent of whether a complaint is made.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 8",
+      "heading": "Dealing with Opposing Parties and Unrepresented Persons",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.1-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "sharp practice — duties to third parties"
+    },
+    "exam_trigger_words": [
+      "sharp practice",
+      "courtesy",
+      "good faith",
+      "opposing counsel",
+      "Rule 7.1-1"
+    ],
+    "tested_concepts": [
+      "Rule 7.1-1 — courtesy and good faith with third parties",
+      "sharp practice prohibition",
+      "misrepresentation to opposing counsel is misconduct"
+    ],
+    "estimated_time_seconds": 90
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "pub-07-crown-imm-001",
+    "subject": "public_law",
+    "chapter_number": 7,
+    "chapter_title": "Crown Liability",
+    "topic_id": "crown_liability",
+    "topic_heading": "Crown Liability — Historical and Statutory Framework",
+    "subtopic_id": "crown_immunity",
+    "subtopic_heading": "Crown Immunity — Historical Rule and Ontario's Proceedings Against the Crown Act",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A property owner's land is accidentally flooded by a Ministry of Transportation work crew during a highway maintenance project. The owner wishes to sue the Ontario government for negligence and property damage. The owner's lawyer advises that at common law the Crown could not be sued in tort, but that the legal position has changed by statute.",
+    "call_of_question": "Under the current Ontario statutory framework, can a private party sue the Ontario Crown in tort for property damage caused by government employees?",
+    "options": {
+      "A": "No. The Crown retains absolute immunity from all tort claims under the common law doctrine that the King can do no wrong.",
+      "B": "Yes. Under the Proceedings Against the Crown Act, R.S.O. 1990, c. P.27, the Crown in right of Ontario is subject to liability in tort in the same manner and to the same extent as a person of full age and capacity.",
+      "C": "Yes, but only where the Crown employee who caused the damage was a senior officer; the Crown has no vicarious liability for the acts of junior employees.",
+      "D": "No. A private party may only sue the individual Crown employee, not the Crown itself."
+    },
+    "correct_answer": "B",
+    "explanation": "At common law, the Crown was immune from tort suits under the prerogative principle that the King could do no wrong. This immunity has been abrogated in Ontario by the Proceedings Against the Crown Act, R.S.O. 1990, c. P.27, which provides that the Crown is subject to liability in tort in the same manner and to the same extent as if it were a person of full age and capacity. The Crown is also vicariously liable for the torts of its officers and employees acting in the course of their employment.",
+    "why_A_wrong": "Incorrect. The common law doctrine of Crown immunity has been abrogated in Ontario by the Proceedings Against the Crown Act; the Crown is now suable in tort.",
+    "why_B_wrong": "This IS the correct answer. Yes. Under the Proceedings Against the Crown Act, R.S.O. 1990, c. P.27, the Crown in right of Ontario is subject to liability in tort in the same manner and to the same extent as a person of full age and capacity.",
+    "why_C_wrong": "Incorrect. The Proceedings Against the Crown Act does not limit vicarious liability to acts of senior officers; the Crown is liable for torts committed by its employees in the course of their employment regardless of rank.",
+    "why_D_wrong": "Incorrect. The Proceedings Against the Crown Act permits claims directly against the Crown; a plaintiff is not limited to suing the individual employee.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 7 — Crown Liability",
+      "heading": "Crown Immunity — Historical Rule and Ontario's Proceedings Against the Crown Act",
+      "page": "N/A",
+      "rule_or_statute_reference": "Proceedings Against the Crown Act, R.S.O. 1990, c. P.27; Crown Liability and Proceedings Act, 2019, S.O. 2019, c. 7, Sched. 17"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Crown immunity",
+      "Proceedings Against the Crown Act",
+      "suability",
+      "vicarious liability",
+      "government employee tort"
+    ],
+    "tested_concepts": [
+      "abrogation of Crown immunity by PACA",
+      "Crown suable in tort as if a person",
+      "vicarious liability of Crown for employee torts"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-07-pol-op-001",
+    "subject": "public_law",
+    "chapter_number": 7,
+    "chapter_title": "Crown Liability",
+    "topic_id": "crown_liability",
+    "topic_heading": "Crown Liability — Policy vs Operational Distinction",
+    "subtopic_id": "policy_operational",
+    "subtopic_heading": "Policy vs Operational Distinction — Core Policy Decisions Immune from Negligence",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The Ontario government decides, as a matter of government policy, to close three rural hospitals in order to reallocate healthcare resources to urban centres. A rural patient suffers a cardiac event and dies on the way to the nearest urban hospital. The patient's estate sues the provincial government in negligence, arguing the hospital closure was a negligent decision.",
+    "call_of_question": "Under the policy/operational distinction in Crown liability law, is the government's decision to close the rural hospitals a matter for which the Crown may be held liable in negligence?",
+    "options": {
+      "A": "Yes. The government owes a duty of care to all persons who may be affected by its decisions, and a negligent hospital closure is actionable regardless of whether it is a policy decision.",
+      "B": "No. Core policy decisions — those involving the weighing of competing social, political, and economic considerations by elected officials or senior government officials — are immune from negligence liability; the decision to close hospitals and reallocate health resources is a classic core policy decision.",
+      "C": "No. Government decisions about healthcare are absolutely immune from tort claims under the Proceedings Against the Crown Act.",
+      "D": "Yes. The policy/operational distinction was abolished by the Supreme Court of Canada and all government decisions are now subject to negligence liability."
+    },
+    "correct_answer": "B",
+    "explanation": "The policy/operational distinction is a key principle in Crown liability law, recognized in Cooper v Hobart, 2001 SCC 79. Core policy decisions — those reflecting the exercise of discretionary authority at the level of government policy involving weighing of competing considerations including political, economic, and social factors — attract immunity from negligence liability. The decision to close hospitals and reallocate healthcare resources is a paradigmatic core policy decision made by elected and senior officials weighing competing public interests. Operational decisions (how the policy is implemented) may attract liability. The distinction survives in Canadian law.",
+    "why_A_wrong": "Incorrect. The government does not owe a duty of care in negligence for core policy decisions; the Anns/Cooper test includes a policy exclusion that shields bona fide policy choices from negligence liability.",
+    "why_B_wrong": "This IS the correct answer. No. Core policy decisions — those involving the weighing of competing social, political, and economic considerations by elected officials or senior government officials — are immune from negligence liability; the decision to close hospitals and reallocate health resources is a classic core policy decision.",
+    "why_C_wrong": "Incorrect. The Proceedings Against the Crown Act makes the Crown suable in tort but does not create absolute immunity for healthcare decisions; the immunity for policy decisions derives from the common law policy/operational distinction, not from the statute.",
+    "why_D_wrong": "Incorrect. The policy/operational distinction remains part of Canadian Crown liability law; the Supreme Court of Canada in Cooper v Hobart affirmed it as part of the proximity analysis in the Anns/Cooper two-stage test.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 7 — Crown Liability",
+      "heading": "Policy vs Operational Distinction — Core Policy Decisions Immune from Negligence",
+      "page": "N/A",
+      "rule_or_statute_reference": "Cooper v Hobart, 2001 SCC 79; Proceedings Against the Crown Act, R.S.O. 1990, c. P.27; Anns v Merton London Borough Council, [1978] AC 728"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "policy decision",
+      "operational decision",
+      "Crown liability",
+      "core policy immunity",
+      "Cooper v Hobart"
+    ],
+    "tested_concepts": [
+      "policy/operational distinction in Crown liability",
+      "core policy decisions immune from negligence",
+      "Cooper v Hobart Anns test"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-07-pol-op-002",
+    "subject": "public_law",
+    "chapter_number": 7,
+    "chapter_title": "Crown Liability",
+    "topic_id": "crown_liability",
+    "topic_heading": "Crown Liability — Policy vs Operational Distinction",
+    "subtopic_id": "policy_operational",
+    "subtopic_heading": "Policy vs Operational Distinction — Anns/Cooper Two-Stage Test",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario government safety inspector negligently fails to observe a known defect in the electrical system of a school during a required inspection. As a result, a fire breaks out three weeks later, injuring students. The government argues the inspection regime is a policy decision immune from liability. The plaintiffs argue the inspector's on-the-ground failure during the inspection is an operational matter.",
+    "call_of_question": "Under the Anns/Cooper two-stage test for Crown negligence liability, how does the court determine whether proximity exists and whether the policy/operational distinction bars the claim?",
+    "options": {
+      "A": "The government is never liable for negligent inspections because inspection decisions always involve policy considerations.",
+      "B": "Under Anns/Cooper, the court first asks whether there is a sufficiently close and direct relationship between the parties to establish proximity (stage one). If proximity is established, the court asks at stage two whether there are policy reasons to negate the duty. A negligent operational act by an inspector during a mandatory inspection may establish proximity; the careless act of the inspector during the inspection is operational, not a core policy choice, and may attract liability.",
+      "C": "The government automatically owes a duty of care to all persons harmed by any government activity; the Anns/Cooper test has no application to Crown negligence.",
+      "D": "The distinction between policy and operational decisions is irrelevant once a government employee causes physical harm; the Crown is always vicariously liable for physical harm caused by employees."
+    },
+    "correct_answer": "B",
+    "explanation": "Under Cooper v Hobart, 2001 SCC 79, the Anns/Cooper test applies to establish a duty of care in government negligence cases. Stage one asks whether there is a sufficiently close and direct relationship (proximity) between the government and the plaintiff. Stage two asks whether there are residual policy reasons to negate the duty. Crucially, the court distinguishes between the policy decision (to create an inspection regime) and the operational execution of that policy (how the inspector carries out the inspection). The policy decision may be immune, but the operational negligence of an individual inspector carrying out a mandatory inspection function may give rise to liability where proximity is established.",
+    "why_A_wrong": "Incorrect. Not all government inspection activity is protected as a policy decision; the decision to have an inspection programme may be policy-immune, but the negligent conduct of an individual inspector during an inspection is an operational matter that may attract liability.",
+    "why_B_wrong": "This IS the correct answer. Under Anns/Cooper, the court first asks whether there is a sufficiently close and direct relationship between the parties to establish proximity (stage one). If proximity is established, the court asks at stage two whether there are policy reasons to negate the duty. A negligent operational act by an inspector during a mandatory inspection may establish proximity; the careless act of the inspector during the inspection is operational, not a core policy choice, and may attract liability.",
+    "why_C_wrong": "Incorrect. The Anns/Cooper two-stage test is the controlling framework for Crown negligence in Canada; proximity must be established and policy reasons may negate the duty. Not all government activity automatically gives rise to a duty of care.",
+    "why_D_wrong": "Incorrect. Physical harm alone does not negate the policy/operational analysis; even where a government employee causes physical harm, the court must still apply the Anns/Cooper test to determine whether a duty of care exists.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 7 — Crown Liability",
+      "heading": "Policy vs Operational Distinction — Anns/Cooper Two-Stage Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Cooper v Hobart, 2001 SCC 79; Anns v Merton London Borough Council, [1978] AC 728; Proceedings Against the Crown Act, R.S.O. 1990, c. P.27"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Anns/Cooper test",
+      "proximity",
+      "policy vs operational",
+      "government inspection",
+      "duty of care"
+    ],
+    "tested_concepts": [
+      "Anns/Cooper two-stage duty of care test",
+      "operational negligence of inspector not policy-immune",
+      "proximity as first stage"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-07-lim-001",
+    "subject": "public_law",
+    "chapter_number": 7,
+    "chapter_title": "Crown Liability",
+    "topic_id": "crown_liability",
+    "topic_heading": "Crown Liability — Limitation Periods",
+    "subtopic_id": "crown_limitations",
+    "subtopic_heading": "Limitation Periods Against the Crown",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A plaintiff was injured by a Ministry of Transportation vehicle on June 1, 2023. She did not discover the full extent of her injuries until September 1, 2024. She consults a lawyer on October 1, 2024, and asks whether she can still sue the Ontario government. Under the Limitations Act, 2002, the basic limitation period is two years from the date the claim is discovered. The lawyer notes that historically, shorter limitation periods applied to claims against the Crown.",
+    "call_of_question": "Under Ontario law, what limitation period applies to a tort claim against the Ontario Crown in right of Ontario?",
+    "options": {
+      "A": "Claims against the Ontario Crown are subject to a special 90-day notice requirement and a one-year limitation period under the Proceedings Against the Crown Act.",
+      "B": "Claims against the Ontario Crown are subject to the same two-year basic limitation period under the Limitations Act, 2002, as claims against private parties, with the discovery rule applying.",
+      "C": "There is no limitation period for claims against the Crown; the Crown can never benefit from limitation periods.",
+      "D": "Claims against the Ontario Crown must be commenced within six months of the date the cause of action arose, with no discovery rule extension."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 2(1), a claim must be commenced within two years after the day the claim was discovered. The Limitations Act, 2002, applies to claims against the Crown, and Ontario's Crown Liability and Proceedings Act, 2019, S.O. 2019, c. 7, Sched. 17 (which amended the Proceedings Against the Crown Act), did not create a separate shorter limitation period that displaces the Limitations Act, 2002 framework. The discovery rule under the Limitations Act, 2002, applies: time runs from when the plaintiff knew or ought to have known of the claim.",
+    "why_A_wrong": "Incorrect. The 90-day notice/one-year limitation period structure was historically part of some provincial Crown proceedings regimes in other jurisdictions but does not reflect the current Ontario framework under the Limitations Act, 2002.",
+    "why_B_wrong": "This IS the correct answer. Claims against the Ontario Crown are subject to the same two-year basic limitation period under the Limitations Act, 2002, as claims against private parties, with the discovery rule applying.",
+    "why_C_wrong": "Incorrect. The Crown benefits from limitation periods in the same manner as private parties; there is no special Crown immunity from limitation periods.",
+    "why_D_wrong": "Incorrect. Ontario does not impose a six-month limitation period for Crown tort claims; the Limitations Act, 2002 two-year basic period with discovery applies.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 7 — Crown Liability",
+      "heading": "Limitation Periods Against the Crown",
+      "page": "N/A",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 2(1); Proceedings Against the Crown Act, R.S.O. 1990, c. P.27; Crown Liability and Proceedings Act, 2019, S.O. 2019, c. 7, Sched. 17"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "limitation period",
+      "Crown",
+      "Limitations Act 2002",
+      "two-year",
+      "discovery rule"
+    ],
+    "tested_concepts": [
+      "two-year limitation period applies to Crown",
+      "discovery rule under Limitations Act 2002",
+      "no special short Crown limitation period in Ontario"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

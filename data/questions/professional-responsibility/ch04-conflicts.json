@@ -30,7 +30,7 @@
     "why_D_wrong": "Incorrect. Joint retainers in business formation transactions are not automatically non-consentable. With proper disclosure and genuine informed consent, a joint retainer may be permissible.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 4",
       "heading": "Conflicts of Interest",
       "page": "N/A",
@@ -84,7 +84,7 @@
     "why_D_wrong": "Incorrect. Sharing a common goal (deal completion) does not eliminate the adversarial nature of the parties' interests on the specific terms of the transaction.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 4",
       "heading": "Conflicts of Interest",
       "page": "N/A",
@@ -138,7 +138,7 @@
     "why_D_wrong": "Incorrect. The substantial risk of impaired objectivity exists at the time of the advice, regardless of whether profit is ultimately realized.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 4",
       "heading": "Conflicts of Interest",
       "page": "N/A",
@@ -192,7 +192,7 @@
     "why_D_wrong": "Incorrect. General knowledge, skills, and experience gained from representing clients are not 'confidential information' of one client being used against another. The confidentiality obligation protects specific confidential information, not general legal skills.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 4",
       "heading": "Conflicts of Interest",
       "page": "N/A",
@@ -246,7 +246,7 @@
     "why_D_wrong": "Incorrect. Consent is a recognized mechanism to resolve consentable conflicts. The issue is distinguishing consentable from non-consentable conflicts.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 4",
       "heading": "Conflicts of Interest",
       "page": "N/A",
@@ -300,7 +300,7 @@
     "why_D_wrong": "Incorrect. Both clients must receive the full disclosure required by Rule 3.4-5. No client is deemed to be on notice based on the other's contact with the lawyer.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 4",
       "heading": "Conflicts of Interest",
       "page": "N/A",
@@ -354,7 +354,7 @@
     "why_D_wrong": "Incorrect. Reporting to the LSO is not the appropriate response. The obligation is to manage the joint retainer properly and potentially withdraw if a conflict arises.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 4",
       "heading": "Conflicts of Interest",
       "page": "N/A",
@@ -408,7 +408,7 @@
     "why_D_wrong": "Incorrect. A purely facilitative role without legal advice is not a permissible continuation of a legal retainer. Once a legal retainer exists, the lawyer cannot unilaterally convert to a facilitative role to avoid the withdrawal obligation.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 4",
       "heading": "Conflicts of Interest",
       "page": "N/A",
@@ -462,7 +462,7 @@
     "why_D_wrong": "Incorrect. Siblings in a cooperative joint purchase may validly proceed with a joint retainer — Rule 3.4-5 does not categorically prohibit such arrangements.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 4",
       "heading": "Conflicts of Interest",
       "page": "N/A",
@@ -516,7 +516,7 @@
     "why_D_wrong": "Incorrect. While disclosure to the lender may be required, Xandra cannot then continue acting for the lender alone. The joint retainer must end and both clients must seek independent advice.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
-      "subject": "professional_responsibility",
+      "subject": "Professional Responsibility",
       "chapter": "Chapter 4",
       "heading": "Conflicts of Interest",
       "page": "N/A",
@@ -538,5 +538,222 @@
       "cannot continue for one joint client against the other"
     ],
     "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-04-former-cl-001",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "former_client_conflict",
+    "subtopic_heading": "Former Client Conflicts — Rule 3.4-10",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Yolanda previously represented Meridian Corp. in negotiating a distribution agreement with Apex Ltd. The retainer ended two years ago. Apex Ltd. now retains Yolanda to sue Meridian Corp. for breach of that same distribution agreement. Meridian Corp. objects on the basis that Yolanda possesses confidential information from the prior retainer.",
+    "call_of_question": "May Yolanda accept the retainer from Apex Ltd. to sue her former client Meridian Corp. over the same distribution agreement?",
+    "options": {
+      "A": "Yes — the retainer with Meridian Corp. ended two years ago and past clients have no ongoing claim to a lawyer's undivided loyalty.",
+      "B": "Yes — provided that Yolanda does not actually use any confidential information she received from Meridian Corp. during the new retainer.",
+      "C": "No — under Rule 3.4-10, a lawyer must not act against a former client in the same or a related matter if the lawyer received confidential information from the former client that is relevant to the new matter; Yolanda's confidential knowledge of Meridian's negotiation strategy and distribution agreement is directly relevant.",
+      "D": "Yes — Meridian Corp. may consent to the new retainer after receiving full disclosure, and that consent cures the conflict."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.4-10 of the LSO Rules of Professional Conduct prohibits a lawyer from acting against a former client in the same or a related matter where the lawyer received confidential information during the prior representation that is relevant to the new matter. The current dispute concerns the very same distribution agreement that Yolanda helped negotiate for Meridian Corp. — this is the same matter. The confidential information she received about Meridian's negotiating priorities and agreement terms is directly material, making this a conflict that cannot be resolved by consent.",
+    "why_A_wrong": "Incorrect. The duties to former clients under Rule 3.4-10 persist after the retainer ends. The passage of time does not eliminate the conflict where confidential information remains relevant.",
+    "why_B_wrong": "Incorrect. The prohibition in Rule 3.4-10 applies where confidential information was received, regardless of whether the lawyer intends to use it. The risk that it could consciously or unconsciously influence the new representation is the concern.",
+    "why_C_wrong": "This IS the correct answer. No — under Rule 3.4-10, a lawyer must not act against a former client in the same or a related matter if the lawyer received confidential information from the former client that is relevant to the new matter; Yolanda's confidential knowledge of Meridian's negotiation strategy and distribution agreement is directly relevant.",
+    "why_D_wrong": "Incorrect. Where confidential information is material, the former client's consent does not cure the conflict. Rule 3.4-10 does not permit consent as a cure when confidential information from the prior retainer is relevant to the adverse matter.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-10"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "former client conflict"
+    },
+    "exam_trigger_words": [
+      "former client",
+      "confidential information",
+      "same matter",
+      "Rule 3.4-10"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-10 — duty to former clients",
+      "same or related matter test",
+      "confidential information bars acting against former client"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-04-former-cl-002",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "former_client_conflict",
+    "subtopic_heading": "Former Client Conflicts — Rule 3.4-10",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Zara previously represented a small construction company, BuildRight Inc., in a municipal permit dispute three years ago. The matter settled. BuildRight disclosed to Zara, in the course of that retainer, detailed financial information about its cash flow difficulties and subcontractor payment practices. Zara now receives a request from a subcontractor, StructurePro, to sue BuildRight Inc. for non-payment on a different construction project. Zara concludes that the new matter is factually different from the permit dispute, so no former-client conflict arises.",
+    "call_of_question": "Is Zara's conclusion that no former-client conflict exists because the two matters are factually different correct?",
+    "options": {
+      "A": "Yes — Rule 3.4-10 only prohibits acting against a former client on the exact same matter, and StructurePro's claim involves a different construction project.",
+      "B": "Yes — because three years have passed and BuildRight's financial information may no longer be current, the risk of prejudice is too speculative to create a conflict.",
+      "C": "No — Rule 3.4-10 also extends to related matters; a new matter is 'related' if confidential information received in the prior retainer could be used to the former client's disadvantage in the new matter; BuildRight's disclosed financial and payment practices are potentially relevant to a subcontractor non-payment claim, making the matters related.",
+      "D": "No — but Zara may proceed if she implements an effective information barrier to prevent herself from relying on BuildRight's confidential financial information."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.4-10 extends beyond the exact same matter to 'related' matters. Two matters are related if confidential information received in the prior retainer is relevant to, or could prejudice the former client in, the new matter. Zara received detailed information about BuildRight's cash flow difficulties and subcontractor payment practices — precisely the type of information that could be exploited in a subcontractor non-payment claim. The matters are related even though the projects differ. An information barrier is not a cure where the same lawyer holds the confidential information.",
+    "why_A_wrong": "Incorrect. Rule 3.4-10 uses the words 'same or related matter.' Acting against a former client on a related matter where confidential information is relevant is also prohibited.",
+    "why_B_wrong": "Incorrect. The staleness of confidential information is not the test. The question is whether the information received could be relevant to or used against the former client, not whether it is perfectly current.",
+    "why_C_wrong": "This IS the correct answer. No — Rule 3.4-10 also extends to related matters; a new matter is 'related' if confidential information received in the prior retainer could be used to the former client's disadvantage in the new matter; BuildRight's disclosed financial and payment practices are potentially relevant to a subcontractor non-payment claim, making the matters related.",
+    "why_D_wrong": "Incorrect. An information barrier is not effective when the lawyer who holds the confidential information is the same lawyer seeking to act in the new matter. Information barriers are used for other lawyers in the firm, not as a personal cure for the affected lawyer.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-10"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "former client conflict — related matter"
+    },
+    "exam_trigger_words": [
+      "former client",
+      "related matter",
+      "confidential information",
+      "Rule 3.4-10"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-10 — same or related matter",
+      "related matter test — confidential information relevance",
+      "information barrier ineffective for personally implicated lawyer"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-04-own-int-001",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "own_interest_conflict",
+    "subtopic_heading": "Lawyer's Own Interest Conflict — Rule 3.4-1 and Rule 3.4-27",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Anton has been representing his longtime client, a small restaurant owner, for several years. The client is experiencing financial difficulty. The client asks Anton if he can lend the client $20,000 from Anton's personal funds to help the client through a cash flow crisis. Anton is considering whether to agree.",
+    "call_of_question": "Which of the following best describes Anton's professional responsibility obligations if he lends money to his client?",
+    "options": {
+      "A": "Anton may freely lend money to clients because this shows commitment to the lawyer-client relationship.",
+      "B": "Anton may lend money to the client as long as the loan is documented in writing and bears a reasonable interest rate.",
+      "C": "Lending money to a current client creates an own-interest conflict under Rule 3.4-1; Anton should not lend money to his client, and if he proceeds despite the risk, the client must receive independent legal advice about the terms of the loan and its implications for the retainer.",
+      "D": "Anton may lend money to the client provided he discloses the loan to the Law Society of Ontario within 30 days."
+    },
+    "correct_answer": "C",
+    "explanation": "Lending money to a client creates an own-interest conflict under Rule 3.4-1 because the lawyer's personal financial interests as a creditor may conflict with the client's interests as a debtor and as a client seeking legal advice. The Commentary to the Rules makes clear that a lawyer generally should not lend money to a client. If such a transaction occurs, the client should receive independent legal advice to ensure the transaction is not the product of the lawyer's superior bargaining position.",
+    "why_A_wrong": "Incorrect. Lending money to a client is not an expression of commitment — it creates a conflict of interest that may compromise the lawyer's ability to provide independent advice to the client.",
+    "why_B_wrong": "Incorrect. Documentation and a reasonable interest rate do not cure the own-interest conflict that arises from a lawyer-client lending relationship. The conflict goes to the independence of the advice, not merely the terms of the loan.",
+    "why_C_wrong": "This IS the correct answer. Lending money to a current client creates an own-interest conflict under Rule 3.4-1; Anton should not lend money to his client, and if he proceeds despite the risk, the client must receive independent legal advice about the terms of the loan and its implications for the retainer.",
+    "why_D_wrong": "Incorrect. There is no LSO disclosure regime that permits loans to clients upon filing notice. The proper approach is to avoid the conflict, not to notify the LSO.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-1"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "lawyer's own interest conflict — borrowing and lending"
+    },
+    "exam_trigger_words": [
+      "lend money",
+      "borrowing from client",
+      "own-interest conflict",
+      "independent legal advice"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-1 — own-interest conflict",
+      "lending to clients creates conflict",
+      "independent legal advice requirement"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-04-own-int-002",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "own_interest_conflict",
+    "subtopic_heading": "Lawyer's Own Interest Conflict — Sexual or Romantic Relationships — Rule 3.4-27",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Bianca has been representing a client in a contentious and emotionally draining divorce proceeding for eight months. Over the course of the retainer, Bianca and the client have developed a close personal relationship. The client has now proposed that they enter into a romantic relationship. Bianca is considering accepting. No sexual relationship existed before the retainer began.",
+    "call_of_question": "What does Rule 3.4-27 of the Rules of Professional Conduct require Bianca to consider before entering into a romantic relationship with her current client?",
+    "options": {
+      "A": "Bianca may enter into a romantic relationship with a client at any time during the retainer, provided she discloses it in writing to the client.",
+      "B": "Rule 3.4-27 prohibits entering into a sexual or romantic relationship with a current client where the relationship may affect the representation; Bianca must consider whether the relationship may impair her professional judgment or exploit the client's emotional vulnerability in the context of an ongoing contentious family law matter.",
+      "C": "Bianca may proceed with the romantic relationship because the client proposed it; client-initiated relationships cannot create a conflict.",
+      "D": "Bianca may enter the romantic relationship as long as she terminates the retainer first and waits until the divorce proceeding is fully concluded."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.4-27 provides that a lawyer must not engage in a sexual or romantic relationship with a client where the relationship may affect the representation. In a contentious family law matter, the client is in an emotionally vulnerable position and the power imbalance between lawyer and client is a real concern. A romantic relationship in this context creates an own-interest conflict that may impair Bianca's ability to provide objective legal advice and may constitute an exploitation of the client's vulnerable state. The fact that the client proposed the relationship does not eliminate the professional responsibility concern.",
+    "why_A_wrong": "Incorrect. Written disclosure does not cure the conflict created by a romantic relationship with a current client. Rule 3.4-27 is not satisfied by mere disclosure.",
+    "why_B_wrong": "This IS the correct answer. Rule 3.4-27 prohibits entering into a sexual or romantic relationship with a current client where the relationship may affect the representation; Bianca must consider whether the relationship may impair her professional judgment or exploit the client's emotional vulnerability in the context of an ongoing contentious family law matter.",
+    "why_C_wrong": "Incorrect. The client's initiation of the relationship does not alter the lawyer's professional responsibility. The concern is the impact on the representation and the potential for exploitation, regardless of who initiates the relationship.",
+    "why_D_wrong": "Incorrect. Simply terminating the retainer does not automatically resolve the professional responsibility concern, particularly if the termination itself is motivated by the romantic interest and the underlying legal matter remains unresolved.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-27"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "lawyer's own interest conflict — sexual or romantic relationship with client"
+    },
+    "exam_trigger_words": [
+      "romantic relationship",
+      "sexual relationship",
+      "current client",
+      "Rule 3.4-27",
+      "emotional vulnerability"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-27 — sexual or romantic relationships with clients",
+      "own-interest conflict — impaired judgment",
+      "client vulnerability and power imbalance"
+    ],
+    "estimated_time_seconds": 150
   }
 ]
