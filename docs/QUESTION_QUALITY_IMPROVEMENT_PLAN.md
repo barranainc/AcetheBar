@@ -457,10 +457,12 @@ Phase 2K-Improve is a focused quality-upgrade cycle targeting the 43 REWRITE and
 | M1 — Legal flag resolution | Before any improvement work | Three legal flag questions resolved by qualified reviewer; status updated in GENERATED_EXAM_HUMAN_REVIEW_FLAGS.md | ⏳ Pending |
 | M2 — Stage 1 REWRITEs complete | Week 4 | 16 replacement questions for highest-priority REWRITE items (anti_idx=2 cluster, no-equivalent-coverage cluster) | ✅ 2026-05-25 |
 | M3 — Stage 2 REWRITEs complete | Week 8 | Remaining 27 REWRITE replacement questions written and passed rubric pre-check | ✅ 2026-05-25 |
-| M4 — Top 50 IMPROVEs upgraded | Week 12 | 50 improved questions (distractor tightening, scenario upgrading, ethics integration additions) | ⏳ Pending |
-| M5 — Re-bake and re-audit | Week 14+ | Exams E, D, C, F re-baked in priority order; PR Drill A/B reassignments updated; re-audit against rubric confirms target PASS rates | ⏳ Pending (payloads re-baked; re-audit not yet run) |
+| M4 — Top 50 IMPROVEs upgraded | Week 12 | 50 improved questions (distractor tightening, scenario upgrading, ethics integration additions) | ⏳ Partial — Exam E complete (see B1) |
+| M5 — Re-bake and re-audit | Week 14+ | Exams E, D, C, F re-baked in priority order; PR Drill A/B reassignments updated; re-audit against rubric confirms target PASS rates | ⏳ Pending (Exam E re-baked; re-audit not yet run) |
 
-> **Phase 2K-Improve-A (2026-05-25):** M2 and M3 completed together in a single parallel-agent session. All 41 unique REWRITE questions rewritten; all 7 generated exam payloads rebuilt and re-baked into index.html. `validation_status` unchanged on all questions. Re-audit (M5 re-audit component) is the next step before updating target PASS rate estimates.
+> **Phase 2K-Improve-A (2026-05-25):** M2 and M3 completed together in a single parallel-agent session. All 41 unique REWRITE questions rewritten; all 7 generated exam payloads rebuilt and re-baked into index.html. `validation_status` unchanged on all questions.
+
+> **Phase 2K-Improve-B1 (2026-05-25):** All 35 remaining IMPROVE questions in Generated Barrister E improved (3 Civil, 6 Criminal, 12 Family, 14 Public). `bare` payload rebuilt and re-baked (483,992 → 534,820 chars). All other payloads unchanged. 963 questions, 0 validation errors. E∩C=0, E∩D=0, E∩F=0, C∪D∪E∪F=640 unique IDs. See `docs/PHASE_2K_IMPROVE_B1_E_LOG.md`.
 
 ### Target PASS rates after Phase 2K-Improve
 

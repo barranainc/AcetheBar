@@ -407,56 +407,59 @@
     "chapter_title": "Youth Criminal Justice",
     "topic_id": "youth_criminal_justice",
     "topic_heading": "Youth Criminal Justice Act",
-    "subtopic_id": "conferencing",
-    "subtopic_heading": "Conferencing — YCJA s. 19",
-    "difficulty": "medium",
+    "subtopic_id": "youth_statements",
+    "subtopic_heading": "Statements by Young Persons — YCJA s. 146 and the Operating Mind Requirement",
+    "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "A 15-year-old pleads guilty to mischief causing damage of $3,000 to a community centre. The youth justice court judge wishes to involve the victim, parents, community members, and youth workers in developing an appropriate plan for the young person before sentencing.",
-    "call_of_question": "Under s. 19 of the YCJA, which of the following best describes the conferencing mechanism the judge may use?",
+    "fact_pattern": "A 14-year-old, Jayla, is arrested at 2:00 a.m. on suspicion of robbery. She has a diagnosed intellectual disability that places her cognitive functioning at approximately a 10-year-old level. Police read Jayla her rights and the YCJA waiver rights in plain language, and she nodded. They then advised her she could speak to a lawyer or parent; she said 'I don't need them.' Police questioned Jayla for 90 minutes, during which she made incriminating admissions. At the voir dire, a psychologist testifies that Jayla likely did not understand the consequences of speaking to police without counsel. Police testify they believed she understood and waived voluntarily.",
+    "call_of_question": "Under s. 146 of the YCJA, which element of admissibility is most directly in contest on these facts, and what is the governing standard?",
     "options": {
-      "A": "Conferencing under the YCJA is available only as an extra-judicial measure and cannot be ordered once a young person has pleaded guilty.",
-      "B": "A youth justice court judge may convene or cause to be convened a conference for the purpose of obtaining advice on the appropriate youth sentence, including advice from the victim, parents, and community members.",
-      "C": "Conferencing is mandatory whenever a young person pleads guilty to an offence causing property damage exceeding $1,000.",
-      "D": "Conferencing requires the written consent of Crown counsel before the judge may order it."
+      "A": "The voluntariness of the statement — assessed under the common law confessions rule — is the only relevant test; the young person's intellectual disability goes only to weight.",
+      "B": "The operating mind requirement — whether Jayla had the cognitive capacity to understand what she was saying and its consequences — is the contested element; it is assessed subjectively based on Jayla's actual state of mind, not on what the police reasonably believed.",
+      "C": "The parental/counsel notification requirement is the sole dispositive issue; because Jayla waived notification, the statement is admissible and no further inquiry is necessary.",
+      "D": "The statement is automatically excluded because the police failed to seek a judicial order authorizing questioning of a young person with an intellectual disability before proceeding."
     },
     "correct_answer": "B",
-    "explanation": "Section 19 of the YCJA authorizes a youth justice court judge, a justice, a youth worker, or other persons to convene or cause to be convened a conference for the purpose of making decisions under the Act. A conference may be convened at any stage of proceedings — before or after a finding of guilt — and may be used to obtain advice on: appropriate extra-judicial measures, conditions for judicial interim release, sentence, and review of youth sentences. A conference may include the young person, the young person's parents or guardians, the victim, members of the extended family, community members, and youth justice professionals. It is a restorative justice mechanism consistent with the YCJA's rehabilitative philosophy. Participation is not mandatory for any party, and conferences do not replace the court's sentencing function.",
-    "why_A_wrong": "Conferencing is not limited to the extra-judicial measures stage. Section 19 authorizes conferences at any stage of proceedings, including after a guilty plea. A post-guilty plea sentencing conference is expressly contemplated by the YCJA.",
-    "why_B_wrong": "This IS the correct answer. Under s. 19 YCJA, a youth justice court judge may convene or cause to be convened a conference, including for sentencing purposes, with participation from the victim, parents, community members, and others.",
-    "why_C_wrong": "Conferencing is never mandatory under the YCJA. Section 19 gives judges discretion to convene conferences; it does not mandate them for any particular type of offence or damage threshold.",
-    "why_D_wrong": "Crown consent is not a statutory prerequisite for ordering a conference under s. 19. The judge has independent authority to convene a conference without requiring Crown agreement. The Crown may participate in the conference but does not control whether one is convened.",
+    "explanation": "Section 146 of the YCJA imposes a layered admissibility framework for statements by young persons that is more protective than the general common law confessions rule. In addition to common law voluntariness, the YCJA requires: (i) the young person was informed of their right to retain counsel, have a parent/adult present, and was advised of the right to silence; (ii) the young person had a reasonable opportunity to consult counsel or an adult; and (iii) the young person waived those rights. The hardest element on these facts is the 'operating mind' requirement — a component of voluntariness that asks whether the young person had the cognitive capacity to understand what they were saying and appreciate the consequences of making a statement. The standard is subjective: the court must assess Jayla's actual state of mind and cognitive capacity, not merely what a reasonable person in her position would understand, and not what the police believed she understood. The psychologist's evidence that Jayla likely did not grasp the consequences directly challenges operating mind. A police belief that she understood is legally insufficient if the subjective operating mind threshold is not met.",
+    "why_A_wrong": "While the common law confessions rule (voluntariness) applies to young persons, section 146 YCJA adds protections beyond the common law. The intellectual disability is not merely a weight issue — where it undermines the operating mind requirement (a component of voluntariness assessed subjectively), it can exclude the statement entirely. Characterizing the disability as 'going only to weight' understates the legal significance. This is an Understatement Trap.",
+    "why_B_wrong": "This IS the correct answer. The operating mind element of voluntariness is directly in issue. The governing standard is subjective — the court assesses Jayla's actual cognitive state and understanding, not a police officer's good-faith belief about it.",
+    "why_C_wrong": "Jayla's purported waiver of notification does not end the inquiry. Even if the YCJA notification requirements are technically satisfied, the operating mind component of voluntariness remains a separate, independent requirement. A waiver given without operating mind is itself invalid. Treating waiver as the sole dispositive issue is a Premature Escalation Trap — it short-circuits the voluntariness analysis.",
+    "why_D_wrong": "There is no provision in the YCJA or Criminal Code requiring police to obtain a judicial order before questioning a young person with an intellectual disability. No such pre-authorization mechanism exists; the admissibility of any resulting statement is assessed at a voir dire after the fact. This option invents a procedure — a Misapplied Tool trap.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
       "chapter": "Chapter 10: Youth Criminal Justice",
-      "heading": "Conferencing — YCJA s. 19",
+      "heading": "Statements by Young Persons — YCJA s. 146",
       "page": "N/A",
-      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 19"
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 146; R. v. L.T.H., 2008 SCC 49"
     },
     "pr_angle": {
       "applicable": false,
       "pr_issue_type": null
     },
     "exam_trigger_words": [
-      "conferencing",
-      "YCJA s. 19",
-      "youth justice conference",
-      "victim participation",
-      "restorative justice",
-      "sentencing conference"
+      "YCJA s. 146",
+      "youth statement",
+      "operating mind",
+      "voluntariness",
+      "intellectual disability",
+      "young person confession",
+      "subjective standard",
+      "waiver"
     ],
     "tested_concepts": [
-      "s. 19 YCJA conferencing authority",
-      "conference available post-guilty plea",
-      "discretionary not mandatory",
-      "participants in a youth conference",
-      "restorative justice in YCJA"
+      "s. 146 YCJA statements framework",
+      "operating mind requirement — subjective standard",
+      "intellectual disability and operating mind",
+      "police belief insufficient — subjective test applies",
+      "waiver does not cure absent operating mind",
+      "YCJA protections beyond common law confessions rule"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-10-records-002",

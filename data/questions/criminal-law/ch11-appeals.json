@@ -64,23 +64,23 @@
     "topic_id": "criminal_appeals",
     "topic_heading": "Criminal Appeals",
     "subtopic_id": "indictable_appeal",
-    "subtopic_heading": "Indictable Offence Appeals — s. 675 and s. 676",
+    "subtopic_heading": "Indictable Offence Appeals — Court and Grounds Determined by Mode of Trial",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "The accused is convicted of robbery (an indictable offence) after a jury trial. He seeks to appeal his conviction to the Court of Appeal for Ontario.",
-    "call_of_question": "Under s. 675 of the Criminal Code, on what grounds may the accused appeal a conviction entered after a jury trial?",
+    "fact_pattern": "Renata is charged with theft over $5,000, a straight indictable offence. She elects trial by judge alone in the Ontario Superior Court of Justice. After a five-day trial, the Superior Court judge convicts her. Renata believes the judge misapplied the law on the definition of 'fraudulently' and also made a factual finding she views as unreasonable. Her counsel advises her that the appeal route and available grounds depend on the mode of trial.",
+    "call_of_question": "To which court should Renata appeal, and on what grounds is her appeal available as of right versus with leave?",
     "options": {
-      "A": "On any ground, including both questions of law and questions of fact, as of right.",
-      "B": "On a question of law as of right; on a question of fact or mixed fact and law only with leave of the Court of Appeal.",
-      "C": "On a question of law only, with leave of the Court of Appeal; no appeal on questions of fact is available.",
-      "D": "Only if the sentence imposed was manifestly excessive."
+      "A": "Renata must appeal to the Ontario Court of Justice, because that court has jurisdiction over all appeals from indictable offence convictions tried in the Superior Court.",
+      "B": "Renata appeals to the Court of Appeal for Ontario; on a question of law she appeals as of right, and on a question of fact or mixed fact and law she requires leave of the Court of Appeal.",
+      "C": "Renata appeals to the Court of Appeal for Ontario on all grounds as of right, because a judge-alone trial — unlike a jury trial — allows full appellate review of fact without leave.",
+      "D": "Renata appeals to the Divisional Court because she was tried in the Superior Court; the Court of Appeal only hears appeals from jury trials."
     },
     "correct_answer": "B",
-    "explanation": "Section 675(1) of the Criminal Code provides that a person convicted of an indictable offence may appeal to the Court of Appeal: (a) on any ground of appeal that involves a question of law alone, as of right; (b) on any ground of appeal that involves a question of fact alone, or a question of mixed law and fact, with leave of the Court of Appeal or on the certification of the trial judge; and (c) on any ground that appears to the Court of Appeal to be a sufficient ground, with leave. After a jury trial, s.675(1.1) limits grounds to: question of law as of right; question of fact with leave. The fundamental structure is: questions of law — as of right; questions of fact — with leave.",
-    "why_A_wrong": "An appeal on questions of fact is not available as of right under s.675. It requires leave of the Court of Appeal. The as-of-right appeal is limited to questions of law alone.",
-    "why_B_wrong": "This IS the correct answer. Section 675(1) permits appeals on questions of law as of right, and on questions of fact or mixed fact and law with leave of the Court of Appeal.",
-    "why_C_wrong": "Appeals on questions of fact are not categorically barred under s.675 — they require leave but are available. The statement that 'no appeal on questions of fact is available' is incorrect.",
-    "why_D_wrong": "Section 675 does not limit appeals to cases of manifestly excessive sentences. Sentence appeals are governed by s.675(1)(b.1), which permits sentence appeals with leave on grounds of sentence only. The conviction appeal grounds include questions of law and (with leave) questions of fact.",
+    "explanation": "Under s. 675(1) of the Criminal Code, a person convicted of an indictable offence appeals to the Court of Appeal of the province (here, the Court of Appeal for Ontario). The appeal court is the same whether the accused was tried before a judge alone or a jury — both routes go to the Court of Appeal, not to a lower court. The grounds available, however, are the same under s. 675(1) regardless of mode of trial: (a) on a question of law alone — as of right; (b) on a question of fact alone, or mixed fact and law — with leave of the Court of Appeal or on certification by the trial judge. Renata's argument that the judge misapplied the law on 'fraudulently' is a question of law, available as of right. Her challenge to the factual finding is a question of fact, which requires leave. The mode of trial (judge alone vs. jury) does not expand the grounds available as of right on an indictable conviction appeal — leave is still required for fact questions under either mode.",
+    "why_A_wrong": "The Ontario Court of Justice has no jurisdiction over appeals from indictable offence convictions tried in the Superior Court. Indictable conviction appeals from the Superior Court go directly to the Court of Appeal for Ontario under s. 675. This is a Wrong Forum/Wrong Procedure Trap.",
+    "why_B_wrong": "This IS the correct answer. Renata appeals to the Court of Appeal for Ontario. Questions of law are as of right; questions of fact or mixed fact and law require leave — regardless of whether the trial was before a judge alone or a jury.",
+    "why_C_wrong": "A judge-alone trial does not grant the accused a broader right to appeal questions of fact without leave. Section 675(1) applies the same leave requirement for fact questions whether the conviction followed a jury trial or a judge-alone trial. Asserting that judge-alone trials permit full fact appeals as of right overstates the scope of the as-of-right appeal — this is an Overstatement Trap.",
+    "why_D_wrong": "The Divisional Court is not an appeal court for indictable offence convictions in the Superior Court. The Court of Appeal hears appeals from both judge-alone and jury trials in indictable matters under s. 675. Routing the appeal to the Divisional Court is a Wrong Forum trap that misunderstands the criminal appellate hierarchy.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
@@ -96,23 +96,26 @@
     "exam_trigger_words": [
       "s. 675",
       "indictable appeal",
-      "question of law",
-      "question of fact",
-      "as of right",
-      "leave",
-      "Court of Appeal"
+      "Court of Appeal",
+      "judge alone",
+      "question of law as of right",
+      "question of fact with leave",
+      "mode of trial",
+      "Superior Court conviction"
     ],
     "tested_concepts": [
-      "s. 675 indictable appeal grounds",
-      "questions of law as of right",
-      "questions of fact with leave",
-      "jury trial appeal grounds"
+      "s. 675 indictable conviction appeal — correct appeal court",
+      "Court of Appeal for Ontario jurisdiction",
+      "questions of law as of right — judge alone and jury alike",
+      "questions of fact require leave regardless of mode of trial",
+      "Divisional Court has no jurisdiction over indictable appeals",
+      "mode of trial does not expand as-of-right grounds"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 105,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-11-fresh-ev-001",

@@ -10,20 +10,20 @@
     "subtopic_heading": "Grounds for Divorce Under DA s.8 — Separation, Adultery, Cruelty",
     "difficulty": "easy",
     "question_type": "single_best_answer",
-    "fact_pattern": "Thomas and Sandra separated on January 1, 2025, and have not cohabited since that date. Thomas files for divorce on January 15, 2026, on the ground of marriage breakdown. He states they have lived separate and apart for more than one year. Sandra does not dispute the separation date. No other grounds are alleged.",
-    "call_of_question": "Under the Divorce Act, has Thomas established a ground for divorce?",
+    "fact_pattern": "Thomas and Sandra separated on January 1, 2025. After two months apart, they attempted to reconcile and resumed cohabitation for 60 days in March–April 2025 before separating again. They have lived continuously separate and apart since May 1, 2025. Thomas files for divorce on January 15, 2026, relying on marriage breakdown by reason of separation. Sandra argues that the reconciliation attempt restarted the one-year clock and the divorce cannot be granted until May 2026.",
+    "call_of_question": "Under the Divorce Act, has Thomas established the one-year separation period sufficient for divorce by January 15, 2026?",
     "options": {
-      "A": "No — Thomas must also prove that the marriage is irretrievably broken by adducing evidence beyond the separation period.",
-      "B": "Yes — under DA s.8(2)(a), living separate and apart for at least one year immediately preceding the determination of the divorce application constitutes proof of marriage breakdown, and the one-year period is satisfied.",
-      "C": "No — the one-year separation period must be continuous with no resumption of cohabitation whatsoever, even for one day.",
-      "D": "Yes — but Thomas must wait until two years of separation have elapsed before the divorce can be granted."
+      "A": "No — any resumption of cohabitation, however brief, breaks the separation period and restarts the one-year clock from the date of re-separation.",
+      "B": "Yes — under DA s.8(2)(a), marriage breakdown by one-year separation is established; and under DA s.8(3), a cohabitation for reconciliation purposes of 90 days or less does not interrupt the one-year period, which runs from the original January 1, 2025 separation date.",
+      "C": "No — Thomas must prove not only the separation period but also that the marriage is irretrievably broken by independent evidence beyond the period of separation.",
+      "D": "Yes — but Thomas must first obtain the court's finding that the reconciliation attempt was genuine before the separation period can be counted continuously."
     },
     "correct_answer": "B",
-    "explanation": "Under Divorce Act s.8(1), marriage breakdown is the sole ground for divorce in Canada. Section 8(2)(a) provides that marriage breakdown is established by the spouses having lived separate and apart for at least one year immediately preceding the determination of the divorce application. Thomas and Sandra separated January 1, 2025, and the application is determined after January 1, 2026 — more than one year later. No additional proof of irretrievable breakdown is required beyond the separation period.",
-    "why_A_wrong": "No additional proof of irretrievable breakdown beyond the one-year separation is required under DA s.8(2)(a). The one-year separation itself constitutes proof of marriage breakdown.",
-    "why_B_wrong": "This IS the correct answer. DA s.8(2)(a) establishes marriage breakdown by proof of one year of living separate and apart, which Thomas has satisfied.",
-    "why_C_wrong": "Under DA s.11(2), a period of resumed cohabitation of 90 days or less, for the purpose of reconciliation, does not interrupt the one-year separation period. Brief reconciliation attempts do not restart the clock, provided they do not exceed 90 days.",
-    "why_D_wrong": "The statutory separation period for divorce in Canada is one year, not two years. There is no two-year requirement under the Divorce Act.",
+    "explanation": "Under Divorce Act s.8(2)(a), marriage breakdown is established by the spouses having lived separate and apart for at least one year immediately preceding the determination of the divorce application. Under DA s.8(3), a period or periods of resumed cohabitation totalling not more than 90 days and undertaken for the purpose of reconciliation do not count as a break in the separation period. Thomas and Sandra's 60-day reconciliation attempt falls within the 90-day exception. The one-year separation period therefore runs unbroken from January 1, 2025; by January 15, 2026, more than one year has elapsed. Sandra's argument is wrong because she fails to account for the s.8(3) reconciliation exception. No independent proof of irretrievable breakdown is required beyond the statutory separation period.",
+    "why_A_wrong": "General Rule Trap. The general rule is that resumed cohabitation interrupts the separation period, but DA s.8(3) creates a specific exception: cohabitation for reconciliation purposes of 90 days or less does not break the one-year period. The 60-day attempt falls within this exception.",
+    "why_B_wrong": "This IS the correct answer. DA s.8(2)(a) requires one year of separation; DA s.8(3) preserves the separation period through the 60-day reconciliation attempt, so the period runs continuously from January 1, 2025.",
+    "why_C_wrong": "Misapplied Tool. No independent evidence of irretrievable breakdown is required under DA s.8(2)(a). The one-year separation period is itself proof of marriage breakdown; no additional corroboration is needed.",
+    "why_D_wrong": "Wrong Procedure Trap. There is no requirement for the court to make a separate finding that a reconciliation attempt was 'genuine' before applying s.8(3). The court applies the provision as a matter of statutory interpretation once the period of attempted cohabitation is established and falls within the 90-day limit.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Family Law",
@@ -33,13 +33,13 @@
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 8(1), s. 8(2)(a)"
     },
     "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["one year separation", "marriage breakdown", "DA s.8", "separate and apart", "divorce ground"],
-    "tested_concepts": ["DA s.8(1) marriage breakdown", "one-year separation period", "s.8(2)(a)", "no additional proof required"],
+    "exam_trigger_words": ["one year separation", "marriage breakdown", "DA s.8(3)", "reconciliation exception", "90 days", "separate and apart"],
+    "tested_concepts": ["DA s.8(2)(a) one-year separation period", "DA s.8(3) 90-day reconciliation exception", "separation period not restarted by brief reconciliation", "no additional proof of irretrievable breakdown"],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "fam-02-divorce-grd-002",
@@ -220,20 +220,20 @@
     "subtopic_heading": "Joint Divorce Application — Uncontested Divorce Procedure",
     "difficulty": "easy",
     "question_type": "single_best_answer",
-    "fact_pattern": "Catherine and Raymond have been separated for 18 months. They agree on all issues — property, support, and parenting — and have signed a comprehensive separation agreement. Both want to obtain a divorce as quickly and inexpensively as possible. Their lawyers explain that in Ontario, there is a procedural mechanism specifically designed for couples in their circumstances.",
-    "call_of_question": "What procedural mechanism is available under the Family Law Rules for Catherine and Raymond to obtain their divorce efficiently given that they agree on all issues?",
+    "fact_pattern": "Catherine and Raymond have been separated for 18 months. They agree on all issues — property, support, and parenting — and have signed a comprehensive separation agreement. Catherine asks her lawyer whether the divorce can be obtained without attending court, and whether the separation agreement itself is sufficient to dissolve the marriage without any further step. Raymond's lawyer mentions that there are barriers to remarriage concerns that must be addressed before the court will grant the divorce.",
+    "call_of_question": "Which of the following accurately describes the procedure by which Catherine and Raymond can obtain an uncontested divorce in Ontario, and what additional requirement must be satisfied?",
     "options": {
-      "A": "They must each retain separate lawyers and each file separate divorce petitions; there is no joint procedure available.",
-      "B": "They may use the joint application for divorce procedure under the Family Law Rules, where both spouses are co-applicants in a single proceeding and the matter can proceed on the basis of affidavit evidence without a court appearance where there are no contested issues.",
-      "C": "They may obtain a divorce by filing their separation agreement with the court registrar without any judicial involvement.",
-      "D": "An uncontested divorce still requires a full trial at which both parties must appear before a judge."
+      "A": "The separation agreement constitutes a valid divorce once signed by both parties and filed with the court registrar; no judicial order is required for an agreed divorce.",
+      "B": "They may use the joint application for divorce under Family Law Rules r. 36; both are co-applicants; the divorce proceeds on affidavit evidence reviewed by a judge in chambers without a court appearance; the applicant must also file an affidavit confirming there are no barriers to remarriage as required by DA s.21.1.",
+      "C": "They must each file separate divorce applications because each spouse must independently satisfy the court of their own entitlement to the divorce; joint applications are not permitted.",
+      "D": "An uncontested divorce still requires both parties to attend a brief court hearing before a judge; affidavit-only procedure is available only for marriages of less than five years."
     },
     "correct_answer": "B",
-    "explanation": "Ontario's Family Law Rules provide a joint application procedure for divorce where both spouses consent and agree on all issues. As co-applicants, both parties file the application together. In uncontested divorce proceedings, the matter can proceed on affidavit evidence without a court appearance, and is dealt with by way of a desk order (the judge reviews the materials in chambers). This procedure is faster and less expensive than a contested divorce. The court still scrutinizes the materials to ensure compliance with the Divorce Act (including the duty to consider reconciliation and bar requirements under DA s.11).",
-    "why_A_wrong": "Ontario allows joint divorce applications where both spouses agree on all issues. Separate petitions are not required; a joint application proceeding is available and is the standard approach for uncontested divorces.",
-    "why_B_wrong": "This IS the correct answer. The joint application procedure under the Family Law Rules allows both spouses to apply together; in uncontested cases the divorce proceeds on affidavit evidence without a court appearance.",
-    "why_C_wrong": "A divorce requires a court order; it cannot be obtained by merely filing a separation agreement. The court must grant the divorce, even if it does so on affidavit evidence without a court appearance in an uncontested proceeding.",
-    "why_D_wrong": "Uncontested divorces do not require a trial or personal court appearance by the parties. They are routinely processed as desk orders where the judge reviews the affidavit materials without a hearing, provided all requirements are satisfied.",
+    "explanation": "Ontario's Family Law Rules r. 36 provides for a joint application for divorce where both spouses consent and agree on all issues. Both are named as co-applicants and the matter proceeds on affidavit evidence reviewed by a judge in chambers — without any court appearance. This is commonly called a 'desk order divorce.' Critically, DA s.21.1 imposes an obligation on the applicant to file an affidavit confirming that they are not aware of any barriers to the other party's remarriage that they have not taken reasonable steps to remove. This requirement reflects the legislature's sensitivity to religious barriers (e.g., a get under Jewish law). The separation agreement itself does not dissolve the marriage — only a court order does. The judge reviews the materials to ensure compliance with the Divorce Act, including bar requirements under DA s.11.",
+    "why_A_wrong": "Pragmatic Bluff. A signed separation agreement does not dissolve a marriage. Only a court order grants a divorce. The court must review and approve the divorce application, even in an uncontested proceeding. The court registrar has no authority to grant a divorce.",
+    "why_B_wrong": "This IS the correct answer. Family Law Rules r. 36 permits a joint application on affidavit evidence without court attendance; DA s.21.1 additionally requires an affidavit confirming no barriers to remarriage.",
+    "why_C_wrong": "Wrong Procedure Trap. Joint divorce applications are expressly available under Ontario's Family Law Rules r. 36 and are the standard approach for uncontested divorces. Separate applications are unnecessary and inefficient where both parties agree.",
+    "why_D_wrong": "Wrong Timeline / Exception Trap. Uncontested divorces in Ontario are regularly processed as desk orders without any hearing, regardless of the length of the marriage. There is no five-year threshold limiting the affidavit-only procedure.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Family Law",
@@ -243,13 +243,13 @@
       "rule_or_statute_reference": "Family Law Rules, O. Reg. 114/99, r. 36; Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 8"
     },
     "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["joint application", "uncontested divorce", "desk order", "affidavit evidence", "co-applicants"],
-    "tested_concepts": ["joint divorce application", "uncontested divorce procedure", "no court appearance required", "desk order on affidavit"],
+    "exam_trigger_words": ["joint application", "uncontested divorce", "desk order", "affidavit evidence", "DA s.21.1", "barriers to remarriage", "Family Law Rules r. 36"],
+    "tested_concepts": ["joint divorce application Family Law Rules r. 36", "desk order no court appearance", "DA s.21.1 barriers to remarriage affidavit", "separation agreement does not dissolve marriage", "judge reviews in chambers"],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "fam-02-var-coro-001",

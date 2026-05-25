@@ -122,6 +122,9 @@ All questions with REWRITE verdict across the five audits. These should be redes
 
 All questions with IMPROVE verdict across the five audits. These are usable in the current exam without immediate redesign but should be upgraded in the next generation cycle. Ordered within each exam by subject then chapter.
 
+> **Phase 2K-Improve-B1 (2026-05-25):** All 35 remaining IMPROVE questions from Generated Barrister E were improved. See `docs/PHASE_2K_IMPROVE_B1_E_LOG.md` for per-question change notes and payload rebuild summary. Resolved E items are marked below with ✅.
+
+
 ### Exam C — IMPROVE (20 questions)
 
 | question_id | Exam | Subject | Current weakness | Recommended fix | Effort |
@@ -169,9 +172,11 @@ The remaining IMPROVE items in Exam D (not reclassified to REWRITE) include:
 | crim-06-burden-001 | D | Criminal — Trial | Easy anchor; distractor thinness acceptable at current role | No immediate action; acceptable as foundational anchor | low |
 | fam-06-cs-table-001 | D | Family — Child Support | (REWRITE as above) | | |
 
-### Exam E — IMPROVE (47 questions; 12 reclassified REWRITE above)
+### Exam E — IMPROVE ✅ RESOLVED — Phase 2K-Improve-B1 (2026-05-25)
 
-Key IMPROVE items not already listed under REWRITE:
+All 35 remaining IMPROVE items in Exam E (after Phase 2K-Improve-A removed 12 REWRITEs) were improved in Phase 2K-Improve-B1. See `docs/PHASE_2K_IMPROVE_B1_E_LOG.md` for per-question change notes.
+
+Key IMPROVE items not already listed under REWRITE (all resolved):
 
 | question_id | Exam | Subject | Current weakness | Recommended fix | Effort |
 |-------------|------|---------|-----------------|-----------------|--------|

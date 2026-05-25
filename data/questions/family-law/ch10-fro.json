@@ -402,28 +402,28 @@
     "topic_id": "interprovincial_enforcement",
     "topic_heading": "Inter-Provincial and International Enforcement",
     "subtopic_id": "inter_prov",
-    "subtopic_heading": "Inter-Provincial Support Enforcement — RESA and Reciprocal Enforcement",
+    "subtopic_heading": "Inter-Provincial Support Enforcement — ISO Act Coordination and Conflict Between Provincial Orders",
     "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "An Ontario court made a child support order two years ago. The payor has since relocated to British Columbia. The recipient, who remains in Ontario, has unpaid support arrears of $15,000 and cannot afford to litigate in British Columbia. She asks the Ontario FRO whether the Ontario support order can be enforced against the payor who is now living in BC.",
-    "call_of_question": "How may an Ontario support order be enforced against a payor who has relocated to another province?",
+    "fact_pattern": "An Ontario court made a child support order requiring the father to pay $1,500/month two years ago. The father then relocated to British Columbia, where a BC court subsequently made a separate child support order for the same child at $900/month, at the father's application, based on his lower reported BC income. Both orders are now outstanding. The Ontario FRO is enforcing the Ontario order at $1,500/month; the father argues that the BC order supersedes the Ontario order and he owes only $900/month. The mother has not consented to the BC proceeding.",
+    "call_of_question": "Under the Interjurisdictional Support Orders Act (ISO Act) framework, how is a conflict between an Ontario support order and a subsequent BC support order for the same child resolved?",
     "options": {
-      "A": "An Ontario support order cannot be enforced against a payor living in another province; the recipient must obtain a new order from a BC court.",
-      "B": "Under the Interjurisdictional Support Orders Act, 2002 (ISO Act) and the Reciprocal Enforcement of Support Orders (RESA) framework, Ontario support orders may be registered and enforced in other Canadian provinces; the FRO may coordinate with the BC equivalent office to enforce the Ontario order against the payor without the recipient needing to litigate in BC.",
-      "C": "The Ontario FRO can enforce only in Ontario; the recipient must personally attend BC court and obtain a BC enforcement order.",
-      "D": "Inter-provincial enforcement is available only for child support orders, not spousal support orders."
+      "A": "The most recent order automatically prevails; the BC order at $900/month supersedes the Ontario order and the father owes only $900/month.",
+      "B": "The original Ontario order continues to prevail; a subsequent provincial order made without consent of the recipient cannot override an existing Ontario support order.",
+      "C": "Under the ISO Act, a support order made in another province does not automatically supersede an existing Ontario order; for a BC court to validly vary the Ontario order, the variation must be made through the ISO Act's inter-provincial coordination process; a unilateral BC proceeding initiated by the payor without proper ISO Act coordination does not extinguish Ontario's order, and the FRO continues to enforce the Ontario order until a proper variation has been obtained.",
+      "D": "Both orders are equally valid and enforceable simultaneously; the father owes $2,400/month — the sum of both orders."
     },
-    "correct_answer": "B",
-    "explanation": "Ontario's Interjurisdictional Support Orders Act, 2002 (ISO Act) and the reciprocal enforcement framework allow Ontario support orders to be recognized and enforced in other provinces. The Ontario FRO may transmit the support order to the BC Family Maintenance Enforcement Program (FMEP) for enforcement in that province. The recipient does not need to retain BC counsel or attend BC court. Similarly, support obligations may be varied by courts in either province through the ISO Act process. This scheme prevents payors from escaping their obligations by relocating to another province.",
-    "why_A_wrong": "Inter-provincial enforcement mechanisms specifically exist to address this situation. The ISO Act and RESA framework allow Ontario orders to be enforced in BC and vice versa; the recipient is not required to obtain a new BC order.",
-    "why_B_wrong": "This IS the correct answer. The ISO Act and RESA framework allow the Ontario FRO to coordinate with BC enforcement authorities to enforce the Ontario order against the payor without BC litigation by the recipient.",
-    "why_C_wrong": "The FRO can coordinate inter-provincial enforcement through the ISO Act and RESA framework. The recipient does not need to personally attend BC court or obtain a separate BC enforcement order.",
-    "why_D_wrong": "The ISO Act and RESA framework apply to all support orders — both child support and spousal support — made under Ontario legislation or the Divorce Act. There is no restriction to child support only.",
+    "correct_answer": "C",
+    "explanation": "The Interjurisdictional Support Orders Act, 2002 (ISO Act) establishes a framework for inter-provincial support order coordination. An existing Ontario support order does not automatically cease to be enforceable simply because the payor obtained a subsequent order in another province. For a variation of an Ontario support order to be effective, the proper statutory process must be followed: the variation application should be coordinated through the ISO Act process or, if commenced in another province, must be properly transmitted to Ontario and acknowledged. A payor cannot unilaterally reduce their support obligation by obtaining a lower order from a court in another province without complying with the coordination requirements. The Ontario FRO is correct to continue enforcing the Ontario order at $1,500/month until a proper inter-provincial variation through the ISO Act process has replaced it. The BC order obtained unilaterally by the payor without ISO Act coordination does not override the Ontario order.",
+    "why_A_wrong": "General Rule Trap. The most-recent-order rule does not automatically apply across provincial borders without following the ISO Act coordination process. A unilateral BC court order obtained without ISO Act coordination does not extinguish an existing Ontario support order. The father cannot forum-shop between provinces to reduce his obligation.",
+    "why_B_wrong": "Overstatement Trap. While the Ontario order takes precedence on these facts, the broader statement that a subsequent provincial order 'cannot override' is too absolute. Properly coordinated ISO Act variation proceedings in another province can result in a valid order replacing the Ontario order. The key is proper inter-provincial coordination, not an absolute priority for Ontario.",
+    "why_C_wrong": "This IS the correct answer. The ISO Act requires inter-provincial coordination to validly vary an existing Ontario support order; the father's unilateral BC proceeding without ISO Act compliance does not override the Ontario order; the FRO correctly enforces the Ontario order at $1,500/month.",
+    "why_D_wrong": "Overstatement Trap. Two orders for the same child by the same payor do not result in an additive obligation. Only one order — the applicable, valid, and properly coordinated order — governs at any time. The purpose of the ISO Act is to prevent the very outcome of two conflicting simultaneously enforceable orders.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Family Law",
       "chapter": "Chapter 10 — Family Responsibility and Support Arrears Enforcement",
-      "heading": "Inter-Provincial Enforcement — ISO Act and RESA",
+      "heading": "Inter-Provincial Enforcement — ISO Act Conflict Between Orders",
       "page": "N/A",
       "rule_or_statute_reference": "Interjurisdictional Support Orders Act, 2002, S.O. 2002, c. 13; Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31"
     },
@@ -433,24 +433,25 @@
     },
     "exam_trigger_words": [
       "inter-provincial enforcement",
-      "ISO Act",
-      "RESA",
+      "ISO Act coordination",
+      "conflicting provincial orders",
       "payor relocated",
-      "FRO coordination",
-      "reciprocal enforcement"
+      "FRO enforcement",
+      "unilateral BC order",
+      "which order prevails"
     ],
     "tested_concepts": [
-      "ISO Act 2002 inter-provincial enforcement",
-      "RESA framework",
-      "FRO coordinates with other province",
-      "no need for new BC order",
-      "applies to all support orders"
+      "ISO Act 2002 inter-provincial coordination required",
+      "unilateral BC order does not override Ontario order",
+      "FRO continues enforcing original Ontario order",
+      "no automatic most-recent-order rule across provinces",
+      "payor cannot forum-shop to reduce obligation"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "fam-10-reg-susp-001",
@@ -460,52 +461,56 @@
     "topic_id": "registration_suspension",
     "topic_heading": "Vehicle Registration Suspension",
     "subtopic_id": "reg_susp",
-    "subtopic_heading": "Vehicle Plate/Registration Suspension Under FRSAEA",
-    "difficulty": "medium",
+    "subtopic_heading": "Vehicle Plate/Registration Suspension Under FRSAEA — Corporate Registration as Avoidance and FRO Reach",
+    "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "Darius owes $12,000 in child support arrears. The FRO has already suspended his driver's licence, but he continues to drive using a vehicle registered in his corporation's name. The FRO is considering additional enforcement tools. A colleague tells Darius that because the vehicle is in the corporation's name, the FRO cannot suspend the vehicle registration.",
-    "call_of_question": "Does the FRSAEA provide for suspension of vehicle registrations (licence plates), and does a corporate registration insulate the vehicle?",
+    "fact_pattern": "Darius owes $18,000 in child support arrears spanning 14 months. The FRO has suspended his personal driver's licence under FRSAEA s.34. Darius continues to drive a pickup truck registered in the name of Darius Holdings Inc., a corporation of which he is the sole director and shareholder. Darius tells his friend: 'The FRO can't touch the truck — it's the corporation's, not mine.' The FRO's enforcement officer is now considering what further steps are available.",
+    "call_of_question": "Which statement most accurately describes the FRO's enforcement tools with respect to the vehicle and the corporate registration?",
     "options": {
-      "A": "The FRSAEA authorizes suspension only of the payor's personal driver's licence, not vehicle registrations; corporate registrations are fully exempt.",
-      "B": "Under FRSAEA s.35, the Director may also direct the Registrar to refuse to validate or to suspend a vehicle permit (licence plate) held by the payor; however, a vehicle registered in the name of a corporation that the payor controls may be scrutinized, and courts have looked past corporate registration in egregious cases.",
-      "C": "Vehicle registration suspension is automatic once a driver's licence is suspended; no additional FRO step is required.",
-      "D": "The FRO has no authority over vehicle registrations in any circumstances."
+      "A": "Darius is correct — FRSAEA enforcement reaches only assets in the payor's personal name; assets owned by a corporation, even a solely controlled corporation, are fully exempt from FRO enforcement.",
+      "B": "The FRO's only remedy is to suspend Darius's personal driver's licence; vehicle permits cannot be suspended regardless of whose name they are registered in.",
+      "C": "Under FRSAEA s.35, the Director may direct suspension of a vehicle permit held by the payor; this power targets vehicle permits in the payor's personal name; for a vehicle registered in a corporation the payor solely controls, the FRSAEA itself does not automatically pierce the corporate veil, but the FRO may apply to court to hold Darius in contempt or seek other remedies; the corporate registration is a General Rule Trap — it reduces but does not eliminate FRO enforcement options.",
+      "D": "Because Darius already had his driver's licence suspended under s.34, all further FRO enforcement action is barred until the licence is reinstated."
     },
-    "correct_answer": "B",
-    "explanation": "Family Responsibility and Support Arrears Enforcement Act s.35 provides that the Director may direct the Registrar of Motor Vehicles to refuse to validate or to suspend a vehicle permit (commonly known as a licence plate) held by the payor. This is a separate enforcement mechanism from driver's licence suspension under s.34. The suspension of vehicle permits may target vehicles registered in the payor's personal name. Where a vehicle is registered in a corporation's name, the effectiveness of this mechanism depends on whether the court or Director can pierce the corporate veil — an issue that arises in egregious cases of enforcement avoidance. Simply registering a vehicle in a corporation the payor controls does not automatically insulate it from enforcement scrutiny.",
-    "why_A_wrong": "FRSAEA s.35 expressly provides for suspension of vehicle permits (licence plates), not only driver's licences. Both s.34 (driver's licence) and s.35 (vehicle permits) are available enforcement mechanisms.",
-    "why_B_wrong": "This IS the correct answer. FRSAEA s.35 authorizes vehicle permit suspension against the payor; corporate registration may be scrutinized in egregious avoidance cases.",
-    "why_C_wrong": "Vehicle registration suspension under s.35 is a separate step from driver's licence suspension under s.34. The FRO must take distinct action under each provision; suspension of one does not automatically trigger the other.",
-    "why_D_wrong": "FRSAEA s.35 expressly grants the FRO Director authority over vehicle permits (licence plates). The Director has broad enforcement powers including both driver's licence and vehicle registration suspension.",
+    "correct_answer": "C",
+    "explanation": "Family Responsibility and Support Arrears Enforcement Act s.35 empowers the Director to direct the Registrar of Motor Vehicles to refuse to validate or to suspend a vehicle permit (licence plate) held by the payor. The direct reach of s.35 is to permits held in the payor's personal name. Where the vehicle is registered in a corporation's name, s.35 does not automatically reach that permit because the corporation is a separate legal entity. However, Darius's assertion that the FRO 'can't touch the truck at all' overstates the protection: (1) the FRO has other enforcement tools beyond vehicle permit suspension, including garnishment, financial examinations, passport suspension under FRSAEA s.37, and reporting to credit bureaus; (2) in egregious cases of corporate-veil abuse, a court may pierce the corporate veil; (3) the Director retains broad enforcement discretion. The corporate registration is a real (not absolute) limitation on the direct application of s.35 — a General Rule Trap for candidates who assume all FRO enforcement tools apply equally regardless of registration name.",
+    "why_A_wrong": "General Rule Trap. The FRSAEA provides multiple enforcement tools beyond vehicle permit suspension, including garnishment, financial examination orders, passport suspension, and credit bureau reporting — some of which may reach assets of or income to a payor regardless of corporate structure. Absolute immunity for corporately held assets is an overstatement.",
+    "why_B_wrong": "Understatement Trap. FRSAEA s.35 expressly authorizes vehicle permit suspension by the Director — this is a distinct enforcement tool from the s.34 driver's licence suspension. Option B denies the existence of s.35, which expressly provides for vehicle permit suspension.",
+    "why_C_wrong": "This IS the correct answer. FRSAEA s.35 reaches vehicle permits in the payor's personal name; corporate registration reduces but does not eliminate enforcement options; additional FRO tools remain available; the corporate veil may be pierced in appropriate cases.",
+    "why_D_wrong": "Wrong Procedure Trap. A driver's licence suspension under s.34 does not exhaust FRO enforcement; it is one of several sequential or concurrent enforcement tools. FRSAEA provides a suite of enforcement mechanisms — each is a distinct step and suspension of one does not bar others. The FRO may simultaneously pursue vehicle permits, garnishment, passport suspension, and other remedies.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Family Law",
       "chapter": "Chapter 10 — Family Responsibility and Support Arrears Enforcement",
-      "heading": "Vehicle Permit Suspension — FRSAEA s.35",
+      "heading": "Vehicle Permit Suspension — FRSAEA s.35 and Corporate Registration",
       "page": "N/A",
-      "rule_or_statute_reference": "Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31, s. 35"
+      "rule_or_statute_reference": "Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31, s. 34, s. 35, s. 37"
     },
     "pr_angle": {
       "applicable": false,
       "pr_issue_type": null
     },
     "exam_trigger_words": [
-      "vehicle registration",
-      "licence plate suspension",
+      "vehicle permit suspension",
       "FRSAEA s.35",
-      "vehicle permit",
-      "corporate registration"
+      "corporate registration",
+      "driver's licence suspension s.34",
+      "corporate veil",
+      "FRO enforcement tools",
+      "General Rule Trap"
     ],
     "tested_concepts": [
-      "FRSAEA s.35 vehicle permit suspension",
-      "separate from driver's licence suspension",
-      "corporate registration scrutinized",
-      "Director's broad enforcement powers"
+      "FRSAEA s.35 vehicle permit suspension — personal name only direct reach",
+      "corporate registration reduces but does not eliminate s.35 reach",
+      "s.34 driver's licence and s.35 vehicle permit are separate distinct steps",
+      "additional FRO tools available beyond licence and vehicle permits",
+      "FRSAEA s.37 passport suspension as additional tool",
+      "no absolute corporate immunity from FRO enforcement"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   }
 ]

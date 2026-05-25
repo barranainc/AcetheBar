@@ -841,27 +841,27 @@
     "subtopic_heading": "Delegation and Subdelegation — Delegatus Non Potest Delegare",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "The Ontario Environmental Compliance Approval Board is granted a statutory power to approve or refuse applications for environmental licences. The Board Chair, facing a backlog, issues a directive assigning all routine approvals to a junior staff officer with no statutory appointment to the Board. The staff officer approves several applications. A third party argues the approvals are invalid because the statutory power was not lawfully exercised.",
-    "call_of_question": "Under the principle of delegatus non potest delegare, can the Board Chair lawfully subdelegate the Board's statutory power of decision to a non-Board staff officer?",
+    "fact_pattern": "The Ontario Clean Energy Appeals Tribunal is a statutory tribunal created under the Clean Energy Act. Section 12 of that Act states: 'The Tribunal may, in writing, authorize a panel of one or more members to exercise the Tribunal's powers under this Act in respect of matters the Tribunal designates as streamlined proceedings.' In practice, the Tribunal designates all applications involving renewable energy projects under 500 kW as streamlined proceedings and has authorized panels of one member to conduct these hearings and issue decisions. The Tribunal Chair then goes a step further: without any further authorization in the enabling statute, the Chair issues a directive authorizing a senior legal officer (a non-member staff lawyer) to issue final written decisions in streamlined proceedings where no party requests an oral hearing, on the basis that the legal officer was present at all preliminary conferences and is familiar with the record. A developer whose application was refused by the legal officer argues the decision is ultra vires.",
+    "call_of_question": "Applying the principle of delegatus non potest delegare, which of the following best describes the constitutional validity of the legal officer's decision in the streamlined proceeding?",
     "options": {
-      "A": "Yes. The Chair has broad administrative authority to organize the Board's work and may assign decision-making to staff as an administrative matter.",
-      "B": "No. Under the principle delegatus non potest delegare, a person or body to whom a statutory power of decision has been delegated cannot further subdelegate that power to another person unless the enabling statute expressly authorizes subdelegation.",
-      "C": "Yes. Where a tribunal is facing a significant backlog, administrative necessity allows subdelegation to qualified staff without explicit statutory authorization.",
-      "D": "No. The Board Chair may never delegate any functions; all decisions must be made by the full Board sitting together."
+      "A": "The decision is valid. Section 12 of the Clean Energy Act authorizes the Tribunal to designate streamlined proceedings and authorize panels; the Chair's directive expanding this to a legal officer is a reasonable administrative extension of that existing authorization.",
+      "B": "The decision is invalid. The maxim delegatus non potest delegare prohibits any further delegation of a statutory power of decision beyond what the enabling statute expressly authorizes; the Clean Energy Act authorizes panels of members only, not non-member staff officers, and the Chair's directive cannot expand the Tribunal's subdelegation authority beyond the statutory limit.",
+      "C": "The decision is valid because the legal officer is a qualified lawyer who participated in all preliminary conferences; where the subdelegatee has the same or greater expertise as the authorized decision-maker, administrative efficiency justifies the subdelegation.",
+      "D": "The decision is invalid because s. 12 of the Clean Energy Act is itself unconstitutional; enabling statutes cannot grant subdelegation authority to tribunals."
     },
     "correct_answer": "B",
-    "explanation": "The maxim delegatus non potest delegare (a delegate cannot further delegate) is a foundational principle of administrative law in Canada. Where Parliament or a legislature grants a statutory power of decision to a specific body or official, that body or official must exercise the power personally and cannot further subdelegate it to another person or body unless the enabling statute expressly authorizes subdelegation. A staff officer who is not a statutory member of the Board has no authority to exercise the Board's statutory power of decision; approvals issued by the staff officer are therefore ultra vires and invalid, regardless of the backlog or administrative convenience.",
-    "why_A_wrong": "Incorrect. The Chair's administrative authority does not include the power to subdelegate statutory decision-making powers; administrative management of workload is distinct from the exercise of statutory powers of decision.",
-    "why_B_wrong": "This IS the correct answer. No. Under the principle delegatus non potest delegare, a person or body to whom a statutory power of decision has been delegated cannot further subdelegate that power to another person unless the enabling statute expressly authorizes subdelegation.",
-    "why_C_wrong": "Incorrect. Administrative necessity does not create an implied statutory authorization for subdelegation; the power to subdelegate must be found in the enabling statute, not inferred from practical convenience.",
-    "why_D_wrong": "Incorrect. The issue is not that the Chair cannot delegate any functions — internal delegation of purely administrative (non-decision-making) functions is permissible. The problem is the specific subdelegation of the statutory power of decision to a person not vested with that authority.",
+    "explanation": "The maxim delegatus non potest delegare (a delegate cannot further delegate) applies with full force in Canadian administrative law. Where an enabling statute authorizes a specific form of subdelegation — here, authorization of panels of members — that authorization defines the outer limit of permissible subdelegation. The Tribunal received delegated authority from the legislature; s. 12 then expressly authorized the Tribunal to subdelegate to panels of one or more members. This partial statutory authorization does not confer a general power to subdelegate further to non-members. The Chair's directive expanding subdelegation to a staff legal officer falls outside the authorization granted by s. 12; the officer is not a member and the statute does not authorize delegation to non-members. The decision issued by the legal officer is therefore ultra vires and invalid, regardless of the officer's expertise or the administrative benefits of the arrangement.",
+    "why_A_wrong": "Incorrect. This is a General Rule Trap. Section 12 authorizes a specific form of subdelegation — panels of members. The maxim delegatus non potest delegare means that a partial statutory authorization for subdelegation does not authorize further subdelegation beyond what the enabling statute permits. The Chair cannot extend subdelegation authority by directive beyond the statutory limit.",
+    "why_B_wrong": "This IS the correct answer. The decision is invalid. The maxim delegatus non potest delegare prohibits any further delegation of a statutory power of decision beyond what the enabling statute expressly authorizes; the Clean Energy Act authorizes panels of members only, not non-member staff officers, and the Chair's directive cannot expand the Tribunal's subdelegation authority beyond the statutory limit.",
+    "why_C_wrong": "Incorrect. This is a Pragmatic Bluff. The expertise or familiarity of the subdelegatee does not cure the absence of statutory authorization. Administrative law does not recognize a competence exception to the delegatus non potest delegare principle; the power to subdelegate must be found in the enabling statute, not justified by practical efficiency or the qualifications of the person receiving the subdelegated power.",
+    "why_D_wrong": "Incorrect. This is an Overstatement Trap. Section 12 is not unconstitutional; enabling statutes may validly authorize subdelegation. The legislature may expressly permit a tribunal to further subdelegate its powers. The problem here is not that s. 12 grants any subdelegation authority — it does — but that the Chair's directive exceeded the specific subdelegation authority granted.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
       "chapter": "Chapter 3 — Administrative Law",
       "heading": "Delegation and Subdelegation — Delegatus Non Potest Delegare",
       "page": "N/A",
-      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22; Interpretation Act, R.S.O. 1990, c. I.11; delegatus non potest delegare principle"
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22; delegatus non potest delegare principle; Interpretation Act, R.S.O. 1990, c. I.11"
     },
     "pr_angle": {
       "applicable": false,
@@ -870,20 +870,22 @@
     "exam_trigger_words": [
       "delegatus non potest delegare",
       "subdelegation",
-      "statutory power of decision",
-      "express authorization",
-      "ultra vires"
+      "partial statutory authorization",
+      "enabling statute limits",
+      "ultra vires",
+      "non-member staff officer"
     ],
     "tested_concepts": [
-      "delegatus non potest delegare principle",
-      "subdelegation requires express statutory authorization",
-      "invalid subdelegation of statutory power"
+      "delegatus non potest delegare — partial statutory authorization does not confer further subdelegation power",
+      "Chair directive cannot extend subdelegation beyond enabling statute",
+      "expertise of subdelegatee does not cure absence of statutory authorization",
+      "enabling statutes may validly authorize subdelegation within limits"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-03-estoppel-001",
@@ -1006,27 +1008,27 @@
     "subtopic_heading": "Duty to Give Reasons — Common Law Obligation Outside SPPA",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "A federal parole board panel denies an offender early release. The parole board is not governed by the Ontario SPPA (being a federal body). Its enabling statute is silent on whether reasons for decisions must be provided. The offender argues that the common law duty of procedural fairness requires reasons. The Crown argues that without a statutory requirement, reasons are not owed.",
-    "call_of_question": "Under the Baker framework, does the common law duty of procedural fairness impose an obligation to give reasons for an administrative decision where the enabling statute is silent on the matter?",
+    "fact_pattern": "A federal Employment Insurance Commission panel denies a claimant's appeal for extended benefits after a hearing. The Commission is not governed by the Ontario SPPA (being a federal administrative body). Its enabling statute states that the panel 'shall provide a notice of decision to the parties' but is silent on whether reasons must accompany the notice. The claimant receives a one-line notice stating 'Appeal dismissed — insufficient qualifying hours established.' No reasons are given for how the panel assessed conflicting employment records submitted by the claimant. The claimant argues the common law duty of procedural fairness requires the panel to provide reasons. The Commission argues three things: (i) the SPPA does not apply to this federal body, so no statutory reasons obligation exists; (ii) Baker established only a contextual duty, and this decision does not engage the most serious Baker factors; and (iii) even if Baker requires reasons, a one-line notice satisfies whatever minimal obligation applies.",
+    "call_of_question": "Applying the Baker v Canada framework, which of the following most accurately describes whether the Commission's one-line notice satisfies the procedural fairness obligation to provide reasons?",
     "options": {
-      "A": "No. Where an enabling statute is silent on reasons, no duty to give reasons exists; reasons are exclusively a statutory requirement.",
-      "B": "Yes. Baker established an absolute duty to give written reasons for every administrative decision in Canada, irrespective of the statutory framework.",
-      "C": "Under Baker v Canada, the duty to provide reasons is part of the content of procedural fairness that is determined contextually by weighing the five Baker factors; where the decision has serious consequences for the individual, the process resembles adjudication, and the affected party has no other means to understand the decision, the common law may require reasons even without a statutory mandate.",
-      "D": "The duty to give reasons in the absence of a statute applies only where there is a Charter breach in the proceedings."
+      "A": "The notice is sufficient because the SPPA does not apply to this federal body; absent a statutory obligation, a notice of decision in any form — including a one-line dismissal — satisfies all procedural fairness requirements.",
+      "B": "Baker established an absolute duty to provide full written reasons for every administrative decision that affects individual interests; the one-line notice automatically breaches that duty regardless of which Baker factors apply.",
+      "C": "Under Baker v Canada, the duty to give reasons is part of the content of the common law duty of procedural fairness, determined contextually by weighing the five Baker factors — including the significance of the decision to the individual, the nature of the process, and whether the decision resembles adjudication; where those factors support a duty to give reasons, a bare one-line dismissal of an appeal involving conflicting evidence does not satisfy that duty — even in the absence of a statutory requirement under the SPPA.",
+      "D": "Baker requires reasons only where the SPPA specifically applies; for federal bodies not subject to the SPPA, the common law duty of procedural fairness includes no reasons obligation regardless of the seriousness of the decision."
     },
     "correct_answer": "C",
-    "explanation": "In Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817, the Supreme Court of Canada confirmed that a duty to give reasons may form part of the common law duty of procedural fairness, independent of any statutory requirement. The duty arises from a contextual analysis of the Baker factors — particularly the significance of the decision to the individual and the adjudicative nature of the process. Parole decisions deprive individuals of their liberty interest in early release and have serious personal consequences; the adjudicative nature of parole hearings and the significance of the outcome together support a common law duty to provide reasons, even though the federal parole board is not subject to the Ontario SPPA.",
-    "why_A_wrong": "Incorrect. Baker expressly recognized the common law duty to give reasons as part of the content of procedural fairness; statutory silence does not extinguish the common law obligation where the Baker factors support it.",
-    "why_B_wrong": "Incorrect. Baker did not create an absolute universal duty to give reasons for all administrative decisions; the duty is context-dependent and arises from weighing the five Baker factors.",
-    "why_C_wrong": "This IS the correct answer. Under Baker v Canada, the duty to provide reasons is part of the content of procedural fairness that is determined contextually by weighing the five Baker factors; where the decision has serious consequences for the individual, the process resembles adjudication, and the affected party has no other means to understand the decision, the common law may require reasons even without a statutory mandate.",
-    "why_D_wrong": "Incorrect. The common law duty to give reasons does not require a Charter breach; it arises from the duty of procedural fairness independently of Charter analysis.",
+    "explanation": "In Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817, the Supreme Court confirmed that the duty to provide reasons is part of the contextual content of the common law duty of procedural fairness. It is not an absolute universal duty (option B is wrong) and it does not depend on the SPPA applying (options A and D are wrong). The duty is determined by weighing the Baker factors: (1) the nature of the decision — here, an adjudicative appeal hearing involving conflicting evidence; (2) the nature of the statutory scheme — the Commission adjudicates individual claims, suggesting higher fairness content; (3) the importance of the decision to the individual — denial of employment benefits is significant; (4) the legitimate expectations of the parties — parties who present conflicting evidence expect to understand how it was resolved; (5) the choices of the decision-maker — the panel held a hearing, elevating the fairness expectation. Together, these factors strongly support a duty to give reasons. A one-line dismissal that does not address conflicting evidence does not meet the substantive requirement of reasons — even if it technically notifies the claimant of the result. Reasons must be sufficient to allow the party to understand why they lost and to assess whether grounds for further review exist.",
+    "why_A_wrong": "Incorrect. This is an Understatement Trap conflating the SPPA statutory obligation with the common law duty. Baker expressly recognized that the common law duty of procedural fairness imposes a reasons obligation independent of the SPPA. The SPPA's inapplicability to this federal body does not extinguish the common law obligation where the Baker factors support it. A one-line notice that fails to address conflicting evidence does not satisfy even a contextual common law duty where those factors are engaged.",
+    "why_B_wrong": "Incorrect. This is an Overstatement Trap. Baker did not establish an absolute universal duty to provide full written reasons for all administrative decisions. The duty is always contextual and depends on the Baker factors. In decisions of low consequence or with a primarily ministerial or legislative character, no reasons obligation may arise at all. The error is treating Baker as establishing an absolute rule.",
+    "why_C_wrong": "This IS the correct answer. Under Baker v Canada, the duty to give reasons is part of the content of the common law duty of procedural fairness, determined contextually by weighing the five Baker factors — including the significance of the decision to the individual, the nature of the process, and whether the decision resembles adjudication; where those factors support a duty to give reasons, a bare one-line dismissal of an appeal involving conflicting evidence does not satisfy that duty — even in the absence of a statutory requirement under the SPPA.",
+    "why_D_wrong": "Incorrect. This is a Wrong Forum / Premature Escalation Trap. Baker is a common law duty of procedural fairness doctrine that applies to all administrative decision-makers — federal, provincial, and municipal — independently of whether the SPPA governs the proceeding. The SPPA statutory right to reasons (s. 17 SPPA) is a separate, additional obligation layered onto the common law duty. The absence of SPPA coverage does not eliminate Baker's common law reasons requirement.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
       "chapter": "Chapter 3 — Administrative Law",
       "heading": "Duty to Give Reasons — Common Law Obligation Outside SPPA",
       "page": "N/A",
-      "rule_or_statute_reference": "Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817"
+      "rule_or_statute_reference": "Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 17"
     },
     "pr_angle": {
       "applicable": false,
@@ -1034,21 +1036,24 @@
     },
     "exam_trigger_words": [
       "duty to give reasons",
-      "Baker",
-      "common law",
-      "statutory silence",
-      "parole"
+      "Baker five factors",
+      "common law procedural fairness",
+      "SPPA not applicable",
+      "one-line notice",
+      "conflicting evidence",
+      "adjudicative hearing"
     ],
     "tested_concepts": [
-      "common law duty to give reasons outside SPPA",
-      "Baker five factors determine reasons obligation",
-      "statutory silence does not extinguish common law fairness duty"
+      "Baker contextual duty to give reasons — not absolute",
+      "SPPA inapplicability does not extinguish common law reasons duty",
+      "one-line dismissal insufficient where Baker factors engage reasons obligation",
+      "Baker reasons duty distinct from SPPA s. 17 statutory right to reasons"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-03-inst-bias-001",

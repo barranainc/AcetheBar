@@ -450,20 +450,20 @@
     "subtopic_heading": "Prima Facie Discrimination — Onus Shift to Respondent",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "An Indigenous employee at a manufacturing company is passed over for a promotion in favour of a less qualified non-Indigenous employee. The Indigenous employee has higher performance evaluations, more years of experience, and holds the relevant certifications. She files a complaint with the Human Rights Tribunal of Ontario alleging race discrimination. The employer argues she has not proven discrimination. The employee argues that establishing a prima facie case shifts the burden to the employer.",
-    "call_of_question": "Under the Human Rights Code and the Tribunal's procedural framework, what happens once an applicant establishes a prima facie case of discrimination?",
+    "fact_pattern": "Amara, an Indigenous woman, applies for a senior project manager position at a large construction company. The hiring panel gives each candidate a composite score based on four criteria: technical qualifications (30%), interview performance (30%), cultural fit as assessed by panelists (20%), and seniority within the company (20%). Amara scores highest on technical qualifications and seniority (she has been with the company 11 years). She scores mid-range on interview performance. However, the panel rates her low on 'cultural fit,' noting she 'seemed uncomfortable with our team culture' and 'might have difficulty integrating with the existing group.' The position is awarded to a less-senior non-Indigenous candidate with lower technical qualifications but higher cultural fit ratings. Amara files a human rights complaint alleging race discrimination in the promotion decision. The employer argues: (i) the technical and seniority factors alone do not establish discrimination because the composite score lawfully weighs multiple criteria; (ii) cultural fit is a legitimate business consideration; and (iii) even if Amara's Indigenous identity was a subconscious factor in the cultural fit assessment, a prima facie case requires showing that race was the dominant or decisive reason for the decision, not merely one among many.",
+    "call_of_question": "Applying the prima facie discrimination test from Moore v British Columbia (Education), which of the following best describes whether Amara has established a prima facie case?",
     "options": {
-      "A": "Once a prima facie case is established, the Tribunal must find discrimination without further analysis; the respondent has no opportunity to rebut.",
-      "B": "A prima facie case of discrimination does not shift any burden; the applicant bears the burden of proof throughout the entire proceeding.",
-      "C": "Once an applicant establishes a prima facie case of discrimination — showing that a protected characteristic was a factor in an adverse treatment — the evidential burden shifts to the respondent to provide a non-discriminatory explanation for the treatment; if the respondent cannot provide a credible non-discriminatory explanation, a finding of discrimination will be made.",
-      "D": "A prima facie case must be proven beyond a reasonable doubt before any burden shifts to the employer."
+      "A": "Amara has not established a prima facie case because the employer applied a composite scoring system with four criteria; where a decision-maker considers multiple factors and the protected characteristic was only one factor, the applicant must prove the protected characteristic was the dominant or decisive reason before the burden shifts.",
+      "B": "Amara has not established a prima facie case because 'cultural fit' is a recognized legitimate business criterion; a facially neutral criterion is inherently non-discriminatory and cannot form part of a prima facie case regardless of how it is applied.",
+      "C": "Amara has established a prima facie case. Under Moore v British Columbia (Education), 2012 SCC 61, a prima facie case of discrimination requires showing: (1) a characteristic protected by the Code; (2) an adverse impact; and (3) that the protected characteristic was a factor in the adverse treatment — not the dominant or sole factor. Where a facially neutral criterion like 'cultural fit' was assessed in a manner that may reflect racial stereotyping or group assumptions, and the complainant holds a protected characteristic, the connection between the characteristic and the adverse treatment is established sufficiently to shift the evidential burden.",
+      "D": "Amara cannot rely on the prima facie discrimination framework at all because the Human Rights Code requires proof of intentional discrimination; where the employer did not deliberately exclude Amara because she is Indigenous, no Code violation can be established."
     },
     "correct_answer": "C",
-    "explanation": "Under Ontario Human Rights Tribunal jurisprudence, consistent with Moore v British Columbia (Education), 2012 SCC 61, once a complainant establishes a prima facie case of discrimination — demonstrating on a balance of probabilities that: (1) she has a characteristic protected by the Code; (2) she experienced an adverse impact (denial of a benefit, promotion, etc.); and (3) the protected characteristic was a factor in the adverse treatment — the evidential burden shifts to the respondent. The respondent must then provide a credible non-discriminatory explanation. The protected characteristic does not need to be the sole reason for the adverse treatment; it is sufficient that it was one factor among others.",
-    "why_A_wrong": "Incorrect. Establishing a prima facie case shifts the evidential burden to the respondent; it does not automatically result in a finding of discrimination without allowing the respondent to respond.",
-    "why_B_wrong": "Incorrect. Human rights law operates a shifting burden framework; once a prima facie case is established, the respondent bears an evidential burden to offer a non-discriminatory explanation.",
-    "why_C_wrong": "This IS the correct answer. Once an applicant establishes a prima facie case of discrimination — showing that a protected characteristic was a factor in an adverse treatment — the evidential burden shifts to the respondent to provide a non-discriminatory explanation for the treatment; if the respondent cannot provide a credible non-discriminatory explanation, a finding of discrimination will be made.",
-    "why_D_wrong": "Incorrect. Human rights proceedings are civil and apply the civil standard of balance of probabilities, not proof beyond a reasonable doubt; the prima facie case must be established on a balance of probabilities.",
+    "explanation": "Under Moore v British Columbia (Education), 2012 SCC 61, and the Ontario Human Rights Tribunal's prima facie discrimination framework, a prima facie case requires proof on a balance of probabilities that: (1) the complainant has a characteristic protected by the Code (Indigenous identity is a protected ground under 'race' and 'ancestry'); (2) the complainant experienced an adverse impact (denial of promotion); and (3) the protected characteristic was a factor in the adverse treatment. The protected characteristic does not need to be the dominant, decisive, or sole reason for the adverse treatment — it is sufficient that it was a contributing factor. The employer's argument that discrimination requires a dominant or decisive causal role misstates the law. Here, the low 'cultural fit' rating — assessed by language suggesting discomfort with group integration that may reflect racial stereotyping or unconscious bias — combined with Amara's objectively stronger performance on quantifiable criteria and her Indigenous identity, provides sufficient basis for a prima facie case. The burden then shifts to the employer to provide a credible, non-discriminatory explanation for the cultural fit ratings and the resulting decision.",
+    "why_A_wrong": "Incorrect. This is a General Rule Trap that overstates the causation threshold. The prima facie discrimination test does not require the protected characteristic to be the dominant or decisive reason for the adverse treatment. It is sufficient that race was a contributing factor. Multi-factorial decision-making does not insulate a respondent from a prima facie case; the question is whether the protected characteristic was present in the causal mix, not whether it outweighed all other factors.",
+    "why_B_wrong": "Incorrect. This is a Pragmatic Bluff. 'Cultural fit' is not inherently immune from human rights scrutiny simply because it is framed as a neutral business criterion. A facially neutral criterion can operate in a discriminatory manner in its application — for example, if panelists' assessment of 'cultural fit' is influenced by racial stereotypes or group assumptions about Indigenous employees. The neutral label does not insulate the criterion from prima facie analysis.",
+    "why_C_wrong": "This IS the correct answer. Amara has established a prima facie case. Under Moore v British Columbia (Education), 2012 SCC 61, a prima facie case of discrimination requires showing: (1) a characteristic protected by the Code; (2) an adverse impact; and (3) that the protected characteristic was a factor in the adverse treatment — not the dominant or sole factor. Where a facially neutral criterion like 'cultural fit' was assessed in a manner that may reflect racial stereotyping or group assumptions, and the complainant holds a protected characteristic, the connection between the characteristic and the adverse treatment is established sufficiently to shift the evidential burden.",
+    "why_D_wrong": "Incorrect. This is an Overstatement Trap. The Ontario Human Rights Code prohibits both intentional (direct) and adverse effects discrimination. Proof of deliberate or conscious intent to discriminate is not required. Systemic, structural, and unconscious discrimination — including where a facially neutral criterion is applied in a manner influenced by stereotypical assumptions — falls within the Code's prohibition. The absence of explicit discriminatory intent does not prevent a prima facie case from being established.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
@@ -478,21 +478,24 @@
     },
     "exam_trigger_words": [
       "prima facie discrimination",
-      "burden of proof",
-      "onus shift",
-      "non-discriminatory explanation",
-      "Moore"
+      "Moore v BC",
+      "factor not sole factor",
+      "cultural fit",
+      "adverse effects",
+      "multi-causal decision",
+      "onus shift"
     ],
     "tested_concepts": [
-      "prima facie discrimination three-part test",
-      "onus shifts to respondent after prima facie case",
-      "non-discriminatory explanation required"
+      "prima facie case — protected characteristic need only be a contributing factor not dominant or sole cause",
+      "multi-factor decision-making does not require dominant causal role to establish prima facie case",
+      "facially neutral criterion — cultural fit — can support prima facie case if applied with discriminatory effect",
+      "intentional discrimination not required — adverse effects and unconscious bias covered by Code"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-08-reprisal-001",

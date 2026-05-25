@@ -1057,20 +1057,20 @@
     "subtopic_heading": "s. 12 — Cruel and Unusual Treatment or Punishment",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "A federal statute imposes a mandatory minimum sentence of three years for a first-time offender convicted of simple possession of a small quantity of a controlled substance. A first-time offender convicted of possessing a small personal-use quantity receives a three-year sentence. The offender argues the mandatory minimum is grossly disproportionate to the offence and constitutes cruel and unusual punishment under s. 12 of the Charter.",
-    "call_of_question": "What is the legal test under s. 12 of the Charter for determining whether a mandatory minimum sentence constitutes cruel and unusual punishment?",
+    "fact_pattern": "Parliament enacts the Drug Possession Accountability Act, imposing a mandatory minimum sentence of three years' imprisonment for possession of a controlled substance in a Schedule I category, regardless of quantity or purpose. The Crown charges Farouk, a 22-year-old first-time offender, with possessing 0.4 grams of cocaine for personal use. The trial judge acknowledges that an appropriate sentence for Farouk's specific circumstances would be a conditional sentence of six months. Farouk argues the mandatory minimum is grossly disproportionate when applied to his facts and also when applied to a reasonable hypothetical first-time offender at the low end of the offending spectrum — for example, a 19-year-old student found with a trace amount for one-time personal use. The Crown argues the mandatory minimum must be assessed only against Farouk's actual conduct, not against a hypothetical offender.",
+    "call_of_question": "Applying s. 12 of the Charter and the reasonable hypothetical approach established in R v Nur, which analysis most accurately describes whether the mandatory minimum in the Drug Possession Accountability Act constitutes cruel and unusual punishment?",
     "options": {
-      "A": "A sentence is cruel and unusual only if it is physically painful or degrading; a prison term, however long, cannot constitute cruel and unusual treatment.",
-      "B": "A mandatory minimum sentence violates s. 12 if the judge believes a shorter sentence would have been more appropriate in the circumstances.",
-      "C": "Under s. 12 of the Charter, a sentence — including a mandatory minimum — constitutes cruel and unusual punishment if it is grossly disproportionate to what is appropriate in the circumstances; the court considers whether the sentence is so excessive as to outrage standards of decency, which includes considering not only the particular offender but reasonably foreseeable applications of the mandatory minimum.",
-      "D": "A mandatory minimum sentence is automatically constitutional because Parliament has determined it is a necessary deterrent."
+      "A": "The court must assess s. 12 solely against Farouk's actual conduct; if the three-year sentence is not grossly disproportionate for Farouk specifically, the mandatory minimum is constitutional and the court cannot consider other hypothetical offenders.",
+      "B": "The mandatory minimum is automatically unconstitutional because Parliament cannot impose any mandatory minimum sentence on a first-time offender for possession of a personal-use quantity; the Charter requires judicial discretion in all sentencing decisions.",
+      "C": "Under s. 12 and R v Nur, 2015 SCC 15, gross disproportionality is assessed against both the specific offender and a reasonable hypothetical offender within the law's scope; where the mandatory minimum would impose a grossly disproportionate sentence on a reasonable hypothetical offender at the low end of the offending spectrum — such as a first-time possessor of a trace quantity — the provision is unconstitutional even if arguably proportionate in the case before the court.",
+      "D": "A mandatory minimum sentence satisfies s. 12 provided Parliament considered proportionality during the legislative process; judicial review of parliamentary sentencing policy is not available under the Charter."
     },
     "correct_answer": "C",
-    "explanation": "Under s. 12 of the Charter and as confirmed in R v Nur, 2015 SCC 15, and R v Lloyd, 2016 SCC 13, a sentence constitutes cruel and unusual punishment if it is grossly disproportionate — so excessive as to outrage standards of decency. Courts assess gross disproportionality by considering the particular offender and also the reasonably foreseeable application of the mandatory minimum to other offenders (the 'reasonable hypothetical' approach). A mandatory minimum that would impose a grossly disproportionate sentence on a reasonable hypothetical offender at the low end of the offending spectrum — such as a first-time possession offender — violates s. 12.",
-    "why_A_wrong": "Incorrect. Section 12 applies to any treatment or punishment that is grossly disproportionate, including lengthy prison terms; it is not limited to physically painful or degrading acts.",
-    "why_B_wrong": "Incorrect. The s. 12 test is not whether the judge prefers a shorter sentence; it is whether the mandatory minimum is grossly disproportionate — a much higher threshold than judicial preference.",
-    "why_C_wrong": "This IS the correct answer. Under s. 12 of the Charter, a sentence — including a mandatory minimum — constitutes cruel and unusual punishment if it is grossly disproportionate to what is appropriate in the circumstances; the court considers whether the sentence is so excessive as to outrage standards of decency, which includes considering not only the particular offender but reasonably foreseeable applications of the mandatory minimum.",
-    "why_D_wrong": "Incorrect. Parliamentary designation of a mandatory minimum does not immunize it from s. 12 scrutiny; the Charter applies to legislation enacted by Parliament.",
+    "explanation": "Under s. 12 of the Charter and as confirmed in R v Nur, 2015 SCC 15, and R v Lloyd, 2016 SCC 13, a mandatory minimum sentence constitutes cruel and unusual punishment if it is grossly disproportionate — so excessive as to outrage standards of decency — when assessed against either the specific offender before the court or a reasonable hypothetical offender within the law's realistic scope of application. The reasonable hypothetical approach requires the court to consider whether the mandatory minimum would impose a grossly disproportionate sentence on a person at the low end of the offending spectrum covered by the provision. Here, a 19-year-old student with a trace quantity of cocaine for personal use is a foreseeable application of the Drug Possession Accountability Act. A three-year mandatory minimum for that hypothetical offender would be grossly disproportionate. The provision therefore violates s. 12 regardless of whether the sentence imposed on Farouk specifically might be arguable in isolation.",
+    "why_A_wrong": "Incorrect. This is a General Rule Trap. The Crown's argument that s. 12 must be assessed solely against the actual offender's conduct misstates the law after R v Nur. The reasonable hypothetical approach expressly permits the court to test the mandatory minimum against a reasonable hypothetical offender — a person whose conduct falls within the provision's reach at the low end of culpability. Courts are not limited to the specific offender's facts.",
+    "why_B_wrong": "Incorrect. This is an Overstatement Trap. Section 12 does not categorically prohibit mandatory minimum sentences for first-time possession offenders; whether a mandatory minimum violates s. 12 depends on whether it is grossly disproportionate in application. Some mandatory minimums for possession offences have been upheld where the range of proportionate sentences does not create a grossly disproportionate outcome for either the actual or hypothetical offender.",
+    "why_C_wrong": "This IS the correct answer. Under s. 12 and R v Nur, 2015 SCC 15, gross disproportionality is assessed against both the specific offender and a reasonable hypothetical offender within the law's scope; where the mandatory minimum would impose a grossly disproportionate sentence on a reasonable hypothetical offender at the low end of the offending spectrum — such as a first-time possessor of a trace quantity — the provision is unconstitutional even if arguably proportionate in the case before the court.",
+    "why_D_wrong": "Incorrect. This is a Pragmatic Bluff. Parliamentary consideration of proportionality during the legislative process does not insulate a mandatory minimum from s. 12 scrutiny. The Charter applies to legislation enacted by Parliament; courts are constitutionally required to assess whether mandatory minimums comply with s. 12 regardless of Parliament's stated legislative objectives or process.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
@@ -1088,18 +1088,21 @@
       "cruel and unusual",
       "mandatory minimum",
       "grossly disproportionate",
+      "reasonable hypothetical",
+      "R v Nur",
       "outrage standards of decency"
     ],
     "tested_concepts": [
-      "s. 12 gross disproportionality test",
-      "reasonable hypothetical approach R v Nur",
-      "mandatory minimum sentences and Charter"
+      "s. 12 reasonable hypothetical approach — not limited to actual offender",
+      "gross disproportionality at low end of offending spectrum",
+      "mandatory minimum unconstitutional if grossly disproportionate in foreseeable applications",
+      "R v Nur two-track analysis — actual and hypothetical offender"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-02-jordan-001",
@@ -1167,27 +1170,27 @@
     "subtopic_heading": "s. 33 — Notwithstanding Clause — Scope and Use",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "A provincial legislature enacts a statute declaring that it operates notwithstanding s. 2 (fundamental freedoms) and ss. 7 to 15 of the Charter. The legislation requires provincial civil servants to remove face coverings while providing or receiving public services. A civil servant challenges the law, arguing the notwithstanding clause declaration does not cover the Charter provision she relies on.",
-    "call_of_question": "Under s. 33 of the Charter, which Charter rights may a legislature override using a notwithstanding clause declaration, and for how long does such a declaration remain in effect?",
+    "fact_pattern": "A provincial legislature enacts the Public Spaces Integrity Act. The Act's preamble declares that it operates notwithstanding s. 2 (fundamental freedoms) and ss. 7 to 15 of the Charter. The Act requires all persons to remove face coverings while using provincially operated public transit. A transit rider named Amara wears a face covering for sincere religious reasons. She argues: (1) the declaration cannot override her right to vote and participate in elections under s. 3 of the Charter; (2) the declaration cannot override her right as a Canadian citizen to move freely within Canada under s. 6; and (3) even though s. 15 (equality) is within the clause's scope, s. 28 independently guarantees that all Charter rights are guaranteed equally to male and female persons and a s. 33 override does not displace that guarantee as it applies to a sex-based religious distinction. The government argues the declaration is valid and covers all rights Amara raises.",
+    "call_of_question": "Which of Amara's arguments correctly identifies a right that survives the province's s. 33 notwithstanding clause declaration?",
     "options": {
-      "A": "A legislature may override any Charter right, including democratic rights (ss. 3-5), mobility rights (s. 6), and language rights (ss. 16-23), through a valid notwithstanding clause declaration.",
-      "B": "Under s. 33, a legislature may expressly declare that a statute operates notwithstanding s. 2 or ss. 7 to 15 of the Charter only; democratic rights, mobility rights, minority language rights, and equality rights under s. 28 cannot be overridden. A valid declaration ceases to have effect after five years but may be re-enacted.",
-      "C": "A notwithstanding clause declaration overrides all Charter rights for ten years, after which it must be renewed.",
-      "D": "Section 33 applies only to federal legislation; provincial legislatures cannot invoke the notwithstanding clause."
+      "A": "All three of Amara's arguments fail. A valid s. 33 declaration covering ss. 2 and 7–15 of the Charter overrides all Charter rights of the persons affected by the legislation, including ss. 3, 6, and any interpretive effects of s. 28.",
+      "B": "Amara's arguments regarding ss. 3 and 6 both succeed. Section 33 cannot override democratic rights (s. 3) or mobility rights (s. 6) because those provisions are outside the permissible scope of a notwithstanding clause declaration; a declaration purporting to override ss. 3 or 6 has no constitutional effect on those rights.",
+      "C": "Only Amara's argument about s. 6 succeeds. The s. 33 declaration validly overrides s. 3 because democratic rights can be suspended by the government in the public interest, but s. 6 mobility rights can never be overridden by any legislative mechanism.",
+      "D": "Only Amara's argument about s. 28 succeeds. Because s. 28 is an interpretive guarantee for sex equality, it independently protects Amara's right to wear a face covering as a gendered religious practice, and s. 33 has no effect on interpretive provisions of the Charter."
     },
     "correct_answer": "B",
-    "explanation": "Section 33 of the Charter permits Parliament or a provincial legislature to expressly declare that an Act or a provision thereof shall operate notwithstanding a provision included in s. 2 or ss. 7 to 15 of the Charter. The notwithstanding clause cannot override democratic rights (ss. 3, 4, 5), mobility rights (s. 6), official language rights (ss. 16–23), minority language education rights (s. 23), or the equality guarantee in s. 28. A declaration under s. 33 ceases to have effect five years after it comes into force but may be re-enacted for successive five-year periods.",
-    "why_A_wrong": "Incorrect. Section 33 does not permit override of all Charter rights; democratic rights, mobility rights, and language rights are expressly outside the scope of the notwithstanding clause.",
-    "why_B_wrong": "This IS the correct answer. Under s. 33, a legislature may expressly declare that a statute operates notwithstanding s. 2 or ss. 7 to 15 of the Charter only; democratic rights, mobility rights, minority language rights, and equality rights under s. 28 cannot be overridden. A valid declaration ceases to have effect after five years but may be re-enacted.",
-    "why_C_wrong": "Incorrect. A notwithstanding clause declaration lasts five years, not ten, and it cannot override all Charter rights.",
-    "why_D_wrong": "Incorrect. Section 33 expressly applies to both Parliament and the legislature of a province; both levels of government may invoke the notwithstanding clause within the permitted scope.",
+    "explanation": "Section 33 of the Charter expressly limits the notwithstanding clause to ss. 2 and 7–15 only. Rights outside this range cannot be overridden by any s. 33 declaration, regardless of its wording. Democratic rights (ss. 3, 4, 5), mobility rights (s. 6), official language rights (ss. 16–23), minority language education rights (s. 23), and the equality guarantee in s. 28 are all beyond the reach of s. 33. A declaration that purports to override s. 3 or s. 6 is constitutionally inoperative with respect to those rights. Amara retains the full protection of ss. 3 and 6 despite the declaration. Regarding s. 28: s. 28 is an interpretive guarantee that Charter rights apply equally to men and women; it does not create a free-standing override on s. 33 and does not independently protect rights beyond what the underlying enumerated right provides. Because s. 15 can be overridden by s. 33, the interpretive lens of s. 28 applied to s. 15 is also affected. Amara's s. 28 argument therefore does not succeed as an independent basis to survive the override. Her arguments on ss. 3 and 6 succeed; her s. 28 argument does not.",
+    "why_A_wrong": "Incorrect. This is an Overstatement Trap. A valid s. 33 declaration does not override all Charter rights — it can only override rights within ss. 2 and 7–15. The declaration has no constitutional effect on ss. 3, 6, 16–23, or s. 28 as an interpretive provision. Amara's ss. 3 and 6 rights are fully intact.",
+    "why_B_wrong": "This IS the correct answer. Amara's arguments regarding ss. 3 and 6 both succeed. Section 33 cannot override democratic rights (s. 3) or mobility rights (s. 6) because those provisions are outside the permissible scope of a notwithstanding clause declaration; a declaration purporting to override ss. 3 or 6 has no constitutional effect on those rights.",
+    "why_C_wrong": "Incorrect. This is a Wrong Timeline / Threshold Trap. Section 3 democratic rights are equally outside the scope of s. 33 as s. 6 mobility rights; there is no constitutional distinction between them in this respect. Neither can be overridden by a s. 33 declaration. Option C incorrectly suggests that democratic rights can be suspended 'in the public interest' — no such mechanism exists within s. 33.",
+    "why_D_wrong": "Incorrect. This is a Misapplied Tool trap. Section 28 is an interpretive guarantee that existing Charter rights apply equally to men and women; it does not create free-standing rights that survive a s. 33 override independently of the underlying right. Because s. 15 falls within the permissible scope of s. 33, the s. 33 declaration validly overrides s. 15 including its application through the s. 28 lens. The s. 28 argument is weaker than the ss. 3 and 6 arguments.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
       "chapter": "Chapter 2 — Charter Rights",
       "heading": "s. 33 — Notwithstanding Clause — Scope and Use",
       "page": "N/A",
-      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 33"
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, ss. 3, 6, 15, 28, 33"
     },
     "pr_angle": {
       "applicable": false,
@@ -1196,20 +1199,23 @@
     "exam_trigger_words": [
       "s. 33",
       "notwithstanding clause",
-      "five-year limit",
-      "s. 2 ss. 7-15",
-      "override"
+      "democratic rights s. 3",
+      "mobility rights s. 6",
+      "s. 28 interpretive guarantee",
+      "scope of override",
+      "five-year sunset"
     ],
     "tested_concepts": [
-      "s. 33 scope of notwithstanding clause",
-      "five-year sunset provision",
-      "rights that cannot be overridden democratic mobility language"
+      "s. 33 cannot override ss. 3 6 16-23 or s. 28",
+      "s. 33 scope limited to ss. 2 and 7-15",
+      "s. 28 interpretive guarantee does not independently override s. 33",
+      "declaration purporting to override ss. 3 or 6 is constitutionally inoperative"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-02-s10a-001",
@@ -1222,27 +1228,27 @@
     "subtopic_heading": "s. 10(a) — Right to Be Informed of Reasons for Arrest or Detention",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "Police officers execute a lawful arrest warrant for a man named John Smith. When they arrive at the suspect's door, the suspect says he is not John Smith but is in fact James Brown. The police nonetheless arrest him and tell him only 'you're being arrested.' They do not inform him of the specific offence for which he is being arrested or why they believe he is the person named in the warrant. He is held for six hours before the misidentification is discovered. He argues his s. 10(a) rights were violated.",
-    "call_of_question": "Under s. 10(a) of the Canadian Charter of Rights and Freedoms, what information must police provide to a person upon arrest or detention?",
+    "fact_pattern": "Police officers lawfully detain Marcus at a transit station under the provincial Safe Streets Act after observing him loitering in a restricted area. The detention is entirely lawful. An officer says to Marcus: 'You're being detained under the Safe Streets Act because we need to speak with you about the area you're in.' Marcus asks, 'Am I being detained because I did something wrong or because of a complaint?' The officer responds: 'I can't get into all the details right now — just come with us and we'll explain more at the station.' Marcus is taken to a nearby office and held for 45 minutes. He later argues that his s. 10(a) rights were violated because the officer's explanation was partial and ambiguous and did not allow him to understand the true reason for detention or exercise his right to counsel meaningfully.",
+    "call_of_question": "Applying s. 10(a) of the Charter and the standard established in R v Evans, was Marcus's s. 10(a) right satisfied by the officer's partial explanation at the time of detention?",
     "options": {
-      "A": "Police must read the person the complete text of the charging document; nothing less satisfies s. 10(a).",
-      "B": "Section 10(a) requires only that police inform the person that they are being arrested; the specific grounds need not be disclosed until the person is formally charged.",
-      "C": "Under s. 10(a) of the Charter, police must promptly inform the person of the reasons for their arrest or detention — including the specific offence alleged and the factual basis for the arrest — with sufficient detail to allow the person to understand why they are being deprived of their liberty and to exercise their right to retain counsel meaningfully.",
-      "D": "Section 10(a) applies only to detention, not to arrest; a person who is formally arrested has no s. 10(a) right to be informed of reasons."
+      "A": "Yes. Section 10(a) is satisfied as long as police identify the statutory authority under which they are acting; the officer cited the Safe Streets Act, which is sufficient compliance regardless of whether the full factual basis was disclosed.",
+      "B": "Yes. Because the detention was lawful, s. 10(a) cannot be breached; the constitutionality of the underlying authority for detention is what determines compliance, not the completeness of the reasons given.",
+      "C": "No. Under s. 10(a) and R v Evans, police must promptly provide reasons that are sufficiently clear and complete that the detained person can understand why they are being deprived of liberty and make a meaningful choice about whether to retain and instruct counsel; a partial or ambiguous explanation that defers full disclosure to a later time fails this standard even if the detention itself is lawful.",
+      "D": "No. Section 10(a) requires police to provide full written reasons at the moment of detention; an oral explanation, however complete, does not satisfy the Charter obligation."
     },
     "correct_answer": "C",
-    "explanation": "Under s. 10(a) of the Canadian Charter of Rights and Freedoms, everyone has the right on arrest or detention to be informed promptly of the reasons therefore. This means police must inform the arrestee of the specific offence alleged and sufficient factual basis to understand why they are being deprived of liberty. As established in R v Evans, [1991] 1 SCR 869, the obligation requires meaningful communication of the grounds — not a formal reading of charges — but sufficient to enable the person to understand the reason for detention and to instruct counsel. Where a person is arrested based on a warrant and the arresting officer fails to explain the reason, s. 10(a) is breached.",
-    "why_A_wrong": "Incorrect. Section 10(a) does not require police to read the full text of a charging document; clear and prompt communication of the reasons — the specific offence and why they are being arrested — is sufficient.",
-    "why_B_wrong": "Incorrect. Section 10(a) requires more than a bare statement that the person is being arrested; the specific offence and factual grounds must be communicated promptly so the person can understand their situation and exercise their right to counsel.",
-    "why_C_wrong": "This IS the correct answer. Under s. 10(a) of the Charter, police must promptly inform the person of the reasons for their arrest or detention — including the specific offence alleged and the factual basis for the arrest — with sufficient detail to allow the person to understand why they are being deprived of their liberty and to exercise their right to retain counsel meaningfully.",
-    "why_D_wrong": "Incorrect. Section 10(a) expressly applies to both arrest and detention; the right to be informed of reasons applies to both forms of liberty deprivation.",
+    "explanation": "Section 10(a) of the Charter guarantees that everyone detained has the right to be informed promptly of the reasons for the arrest or detention. Under R v Evans, [1991] 1 SCR 869, this obligation requires meaningful communication of the grounds — not a formal reading of charges or a written document — but sufficient to enable the person to understand why they are deprived of their liberty and to make an informed decision about exercising the right to retain counsel under s. 10(b). The lawfulness of the detention does not determine compliance with s. 10(a); the two are independent inquiries. Where police acknowledge further reasons exist but defer disclosure to 'the station,' the detained person cannot meaningfully exercise their s. 10(b) right to counsel because they do not know what they are actually accused of. This partial explanation breaches s. 10(a).",
+    "why_A_wrong": "Incorrect. This is an Understatement Trap. Citing the statutory authority is necessary but not sufficient to satisfy s. 10(a). Under R v Evans, the detained person must receive reasons sufficient to understand the factual basis for the detention, not merely the legal source of the officer's power. Knowing the statutory authority alone does not allow the person to understand their situation or meaningfully instruct counsel.",
+    "why_B_wrong": "Incorrect. This is a General Rule Trap. The lawfulness of the detention and compliance with s. 10(a) are independent inquiries. A lawfully executed detention still breaches s. 10(a) if the reasons given are partial, ambiguous, or deferred in a manner that prevents the detainee from understanding why they are being deprived of liberty.",
+    "why_C_wrong": "This IS the correct answer. Under s. 10(a) and R v Evans, police must promptly provide reasons that are sufficiently clear and complete that the detained person can understand why they are being deprived of liberty and make a meaningful choice about whether to retain and instruct counsel; a partial or ambiguous explanation that defers full disclosure to a later time fails this standard even if the detention itself is lawful.",
+    "why_D_wrong": "Incorrect. Section 10(a) does not require written reasons; a clear and complete oral explanation satisfies the obligation. The requirement is that the explanation be prompt, sufficiently informative, and not deferred — not that it be in writing.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
       "chapter": "Chapter 2 — Charter Rights",
       "heading": "s. 10(a) — Right to Be Informed of Reasons for Arrest or Detention",
       "page": "N/A",
-      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 10(a); R v Evans, [1991] 1 SCR 869"
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, ss. 10(a), 10(b); R v Evans, [1991] 1 SCR 869"
     },
     "pr_angle": {
       "applicable": false,
@@ -1250,21 +1256,24 @@
     },
     "exam_trigger_words": [
       "s. 10(a)",
-      "reasons for arrest",
+      "reasons for detention",
+      "partial explanation",
+      "R v Evans",
       "informed promptly",
-      "specific offence",
-      "R v Evans"
+      "lawful detention",
+      "s. 10(b) counsel"
     ],
     "tested_concepts": [
-      "s. 10(a) right to be informed of reasons for arrest",
-      "specific offence must be communicated",
-      "R v Evans standard"
+      "s. 10(a) requires substantive reasons not just statutory citation",
+      "lawfulness of detention does not determine s. 10(a) compliance",
+      "partial or deferred reasons breach s. 10(a)",
+      "s. 10(a) must enable meaningful exercise of s. 10(b)"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-02-s11d-001",
@@ -1332,27 +1341,27 @@
     "subtopic_heading": "s. 28 — Charter Rights Guaranteed Equally to Male and Female Persons",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "A provincial government relies on a notwithstanding clause declaration under s. 33 to override s. 15 of the Charter in connection with a statute that excludes women from certain senior public service positions. A claimant argues that regardless of the s. 33 override, s. 28 of the Charter independently guarantees Charter rights equally to male and female persons and cannot be displaced by s. 33.",
-    "call_of_question": "What is the legal effect of s. 28 of the Charter, and does a s. 33 notwithstanding clause override negate the protection afforded by s. 28?",
+    "fact_pattern": "A province enacts the Public Safety Merit Act, which creates a separate civil service track for physically demanding emergency services roles. The Act sets out physical fitness standards and requires candidates to meet minimum lifting and endurance benchmarks. On average, 72% of male applicants meet the benchmarks versus 38% of female applicants. Sophia, a female applicant who failed the lifting benchmark by a narrow margin, argues that the Act violates s. 15 (equality) because it has a disproportionate adverse impact on women based on sex. The government responds that the Act is a facially neutral merit-based measure directed at occupational safety and does not distinguish between men and women on its face. Sophia further argues that s. 28, which guarantees Charter rights equally to male and female persons, independently requires that the s. 15 equality analysis be applied with heightened attention to how the facially neutral standard operates as a sex-based distinction in practice.",
+    "call_of_question": "Applying s. 28 of the Charter as an interpretive provision, how does it bear on Sophia's s. 15 challenge to the facially neutral physical fitness standard?",
     "options": {
-      "A": "Section 28 is merely a declaration of principle with no independent legal force; it adds nothing to the Charter beyond what s. 15 already provides.",
-      "B": "Section 28 guarantees that the rights and freedoms in the Charter are guaranteed equally to male and female persons; however, s. 28 does not create freestanding independent rights — it operates as an interpretive guarantee that existing Charter rights apply equally regardless of sex.",
-      "C": "Section 28 creates an absolute bar against any law that distinguishes between men and women, overriding all other Charter provisions including s. 1 and s. 33.",
-      "D": "Section 28 applies only to provincial governments; the federal government is not bound by the guarantee of equal protection for male and female persons."
+      "A": "Section 28 creates a freestanding constitutional right to equal treatment for women that is independent of s. 15; Sophia succeeds on a s. 28 claim even if she cannot establish an adverse effects discrimination claim under s. 15.",
+      "B": "Section 28 operates as an interpretive guarantee that existing Charter rights — including the s. 15 equality right — are applied equally and fully to male and female persons; in Sophia's case, s. 28 requires the court to apply s. 15 with sensitivity to how facially neutral standards that produce a disproportionate sex-based impact engage the substantive equality guarantee, without s. 28 itself overriding the s. 15 analysis or creating new remedies.",
+      "C": "Section 28 has no application to facially neutral physical fitness standards because those standards do not distinguish between men and women on their face; s. 28 is triggered only by laws that expressly name sex as a criterion.",
+      "D": "Section 28 applies only at the s. 1 justification stage; it cannot be used at the threshold s. 15 analysis to establish a prima facie breach."
     },
     "correct_answer": "B",
-    "explanation": "Section 28 of the Charter provides that the rights and freedoms referred to in the Charter are guaranteed equally to male and female persons. Section 28 operates as an interpretive guarantee applied to rights enumerated elsewhere in the Charter; it ensures that Charter rights are interpreted and applied equally without discrimination based on sex. Section 28 does not create freestanding rights independent of the rest of the Charter, but it does reinforce the equal application of Charter rights. Its relationship with s. 33 is contested in academic literature, but the prevailing view is that s. 28 operates as a guide to interpretation of enumerated rights rather than as a separate override on s. 33.",
-    "why_A_wrong": "Incorrect. Section 28 has legal significance as an interpretive guarantee; it is not merely symbolic and shapes how Charter rights are applied in the context of sex equality.",
-    "why_B_wrong": "This IS the correct answer. Section 28 guarantees that the rights and freedoms in the Charter are guaranteed equally to male and female persons; however, s. 28 does not create freestanding independent rights — it operates as an interpretive guarantee that existing Charter rights apply equally regardless of sex.",
-    "why_C_wrong": "Incorrect. Section 28 does not override ss. 1 and 33; it is an interpretive provision and does not create an absolute bar against all sex-based distinctions or override the s. 33 notwithstanding mechanism.",
-    "why_D_wrong": "Incorrect. Section 28 applies to Charter rights generally and is not limited to provincial governments; the Charter including s. 28 binds all government actors.",
+    "explanation": "Section 28 of the Charter provides that the rights and freedoms referred to in the Charter are guaranteed equally to male and female persons. Section 28 operates as an interpretive guarantee: it directs courts to apply Charter rights — including the s. 15 equality right — in a manner that gives full and equal effect to those rights for both men and women. Section 28 does not create freestanding rights independent of the enumerated Charter provisions, and it does not generate separate remedies. In Sophia's case, s. 28 reinforces the requirement that the s. 15 adverse effects analysis be applied with sensitivity to facially neutral standards that disproportionately disadvantage women on account of their sex — a recognized form of adverse effects discrimination under s. 15. The section 15 analysis (whether the law creates a distinction, whether it is based on an enumerated or analogous ground, and whether it substantively impairs the claimant's dignity) remains the operative analytical framework; s. 28 shapes how that framework is applied.",
+    "why_A_wrong": "Incorrect. This is an Overstatement Trap. Section 28 does not create freestanding rights independent of the other Charter provisions; it is an interpretive guarantee. A claimant cannot succeed on a s. 28 standalone claim detached from an enumerated right such as s. 15; the remedy flows from the breach of s. 15 as interpreted through s. 28, not from s. 28 alone.",
+    "why_B_wrong": "This IS the correct answer. Section 28 operates as an interpretive guarantee that existing Charter rights — including the s. 15 equality right — are applied equally and fully to male and female persons; in Sophia's case, s. 28 requires the court to apply s. 15 with sensitivity to how facially neutral standards that produce a disproportionate sex-based impact engage the substantive equality guarantee, without s. 28 itself overriding the s. 15 analysis or creating new remedies.",
+    "why_C_wrong": "Incorrect. This is an Understatement Trap. Section 28 is not limited to laws that expressly name sex as a criterion. The guarantee that Charter rights apply equally to male and female persons is precisely relevant to facially neutral standards that operate in a sex-differentiated manner. Section 28 applies as an interpretive lens to s. 15 adverse effects claims where a neutral rule produces a disproportionate sex-based impact.",
+    "why_D_wrong": "Incorrect. This is a Wrong Forum / Wrong Procedure Trap. Section 28 is not a s. 1 provision; it is an interpretive guarantee that applies throughout the Charter analysis, including the threshold s. 15 step. The court considers s. 28 in interpreting the scope and content of the s. 15 right, not only at the justification stage.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
       "chapter": "Chapter 2 — Charter Rights",
       "heading": "s. 28 — Charter Rights Guaranteed Equally to Male and Female Persons",
       "page": "N/A",
-      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 28"
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, ss. 15, 28"
     },
     "pr_angle": {
       "applicable": false,
@@ -1360,21 +1369,23 @@
     },
     "exam_trigger_words": [
       "s. 28",
-      "guaranteed equally male female",
       "interpretive guarantee",
-      "sex equality",
-      "s. 33 and s. 28"
+      "s. 15 adverse effects",
+      "facially neutral standard",
+      "sex-based distinction",
+      "guaranteed equally male female"
     ],
     "tested_concepts": [
-      "s. 28 as interpretive guarantee not freestanding right",
-      "equal application of Charter rights to men and women",
-      "relationship between s. 28 and s. 33"
+      "s. 28 as interpretive guarantee applied to s. 15",
+      "s. 28 does not create freestanding rights — no standalone s. 28 claim",
+      "s. 28 applies at s. 15 threshold stage not only s. 1",
+      "adverse effects discrimination — facially neutral standard with disproportionate sex-based impact"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-02-s24-001",

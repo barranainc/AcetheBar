@@ -340,27 +340,27 @@
     "subtopic_heading": "Crown Vicarious Liability — Torts Committed by Crown Employees in the Course of Employment",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "A Ministry of Natural Resources employee is driving a government vehicle to attend an inspection site during work hours. While distracted by a personal phone call, the employee negligently runs a stop sign and collides with a cyclist, causing serious injuries. The cyclist sues both the employee and the Crown in right of Ontario, arguing the Crown is vicariously liable for the employee's negligence.",
-    "call_of_question": "Under the Proceedings Against the Crown Act, is the Crown in right of Ontario vicariously liable for a tort committed by its employee in the course of employment?",
+    "fact_pattern": "Kevin is a Ministry of Environment field inspector. He is assigned to drive a government van from the Ministry's district office to an industrial facility 80 km away to conduct a scheduled environmental compliance inspection. Kevin departs at 9:00 a.m. and drives the Ministry van along the designated route. At approximately 9:45 a.m. — while still on the highway en route to the facility and 30 km from his destination — Kevin pulls the van into a strip mall parking lot, leaves the engine running, and spends 40 minutes conducting personal errands: returning library books, collecting a personal parcel, and stopping at a pharmacy. He then re-enters the van and resumes the route. At 11:15 a.m., still driving the government van on the return leg of the route from the completed inspection, Kevin negligently runs a red light while adjusting his personal GPS navigation device and strikes a pedestrian, causing a broken pelvis. The pedestrian sues the Crown in right of Ontario under the Proceedings Against the Crown Act, alleging vicarious liability for Kevin's negligence.",
+    "call_of_question": "The Crown argues it is not vicariously liable for Kevin's negligence on the return journey. Which of the following scenarios would most effectively support the Crown's defence by establishing that Kevin was outside the course of employment at the time of the tort?",
     "options": {
-      "A": "No. The Crown is only liable for its own direct negligence; it is not vicariously liable for torts committed by its employees.",
-      "B": "Yes. Under the Proceedings Against the Crown Act, R.S.O. 1990, c. P.27, the Crown in right of Ontario is subject to liability in tort in the same manner as a person of full capacity, including vicarious liability for the torts of its officers and servants acting in the course of their employment.",
-      "C": "Yes, but only where the employee was driving a vehicle at the time; vicarious liability does not apply to other categories of employee torts.",
-      "D": "No. The Crown is protected from vicarious liability for employee torts where the employee was using a personal cell phone at the time of the negligent act, as this constitutes a deviation from employment duties."
+      "A": "The Crown would defeat vicarious liability by showing that the pedestrian's injuries were caused partly by the pedestrian's own inattentiveness; contributory negligence by the plaintiff is a complete defence to vicarious liability.",
+      "B": "The Crown would defeat vicarious liability on the return journey by showing that the negligent act occurred while Kevin was adjusting a personal GPS device; using a personal device while driving a government vehicle during authorized travel hours is a deviation from the Ministry's equipment use policy, which takes the tort outside the course of employment.",
+      "C": "The Crown would defeat vicarious liability most effectively by establishing that Kevin's 40-minute detour into the strip mall for personal errands constituted a 'frolic of his own' — a complete departure from his employment duties during which any tort would fall outside the course of employment; however, on the return leg of the authorized inspection route, Kevin had resumed his employment duties, so the earlier frolic does not affect vicarious liability for the return-leg negligence.",
+      "D": "The Crown cannot defeat vicarious liability under the Proceedings Against the Crown Act because that statute makes the Crown liable in tort in the same manner as a person of full capacity, and this absolute liability applies regardless of whether the employee departed from authorized duties."
     },
-    "correct_answer": "B",
-    "explanation": "Under the Proceedings Against the Crown Act, R.S.O. 1990, c. P.27, s. 5, the Crown in right of Ontario is subject to all liabilities in tort to which, if it were a person of full age and capacity, it would be subject. This includes vicarious liability for the torts of its officers and servants committed in the course of their employment. The employee driving a government vehicle to an inspection site during work hours is clearly acting in the course of employment; the fact that a personal call was being made simultaneously does not take the employee outside the course of employment for purposes of vicarious liability.",
-    "why_A_wrong": "Incorrect. The Proceedings Against the Crown Act abrogated the common law Crown immunity and makes the Crown vicariously liable for the torts of its employees in the same way a private employer would be.",
-    "why_B_wrong": "This IS the correct answer. Yes. Under the Proceedings Against the Crown Act, R.S.O. 1990, c. P.27, the Crown in right of Ontario is subject to liability in tort in the same manner as a person of full capacity, including vicarious liability for the torts of its officers and servants acting in the course of their employment.",
-    "why_C_wrong": "Incorrect. Vicarious liability under the Proceedings Against the Crown Act is not limited to vehicle accidents; it applies to any tort committed by a Crown employee in the course of their employment.",
-    "why_D_wrong": "Incorrect. A personal phone call while driving a government vehicle during work hours does not take the employee outside the course of employment; it remains an incidental act that does not constitute a 'frolic' (complete deviation from employment duties).",
+    "correct_answer": "C",
+    "explanation": "Under the Proceedings Against the Crown Act, R.S.O. 1990, c. P.27, s. 5, the Crown in right of Ontario is subject to all liabilities in tort to which, if it were a person of full age and capacity, it would be subject, including vicarious liability for the torts of its officers and servants in the course of their employment. The key question is whether Kevin was 'in the course of employment' at the time of the tort. The frolic doctrine provides that where an employee makes a complete departure from their employment duties — going off on a 'frolic of their own' — any tort committed during that detour falls outside the course of employment, breaking the vicarious liability chain. Kevin's 40-minute excursion into the strip mall for personal errands (library, parcel, pharmacy) on the outbound journey is a strong candidate for a frolic. However, the negligent act occurred on the return journey, after the inspection was completed and while Kevin was driving the Ministry van back along the authorized route — he had resumed his employment duties. A frolic ends when the employee returns to the scope of their employment. The return-leg conduct is clearly within the course of employment; the earlier detour does not immunize the Crown from vicarious liability for the return-leg tort.",
+    "why_A_wrong": "Incorrect. This is a Wrong Forum / Misapplied Tool trap. Contributory negligence by the plaintiff may reduce the quantum of damages (under the Negligence Act, contributory negligence apportionment), but it is not a complete defence to vicarious liability and does not eliminate the Crown's liability for the employee's tort. The question of vicarious liability is separate from the apportionment of fault between plaintiff and defendant.",
+    "why_B_wrong": "Incorrect. This is an Exception Trap that overstates the frolic doctrine. Using a personal GPS device while driving on an authorized work route is an incidental personal act during an otherwise work-related journey — not a complete departure from employment duties. The frolic doctrine requires a complete deviation from the employment purpose, not merely a personal act (like adjusting a device) occurring during otherwise authorized travel. Breach of a Ministry equipment policy is an internal employment discipline matter, not a vicarious liability defence.",
+    "why_C_wrong": "This IS the correct answer. The Crown would defeat vicarious liability most effectively by establishing that Kevin's 40-minute detour into the strip mall for personal errands constituted a 'frolic of his own' — a complete departure from his employment duties during which any tort would fall outside the course of employment; however, on the return leg of the authorized inspection route, Kevin had resumed his employment duties, so the earlier frolic does not affect vicarious liability for the return-leg negligence.",
+    "why_D_wrong": "Incorrect. This is an Overstatement Trap. The Proceedings Against the Crown Act does not impose absolute liability regardless of whether the employee was in the course of employment. The statute makes the Crown liable as if it were a private employer — meaning the same course-of-employment limitations that apply to private employer vicarious liability also apply to the Crown. A complete frolic would defeat vicarious liability for any tort committed during it, just as it would for a private employer.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
       "chapter": "Chapter 7 — Crown Liability",
       "heading": "Crown Vicarious Liability — Torts Committed by Crown Employees in the Course of Employment",
       "page": "N/A",
-      "rule_or_statute_reference": "Proceedings Against the Crown Act, R.S.O. 1990, c. P.27, s. 5"
+      "rule_or_statute_reference": "Proceedings Against the Crown Act, R.S.O. 1990, c. P.27, s. 5; Negligence Act, R.S.O. 1990, c. N.1"
     },
     "pr_angle": {
       "applicable": false,
@@ -368,21 +368,23 @@
     },
     "exam_trigger_words": [
       "vicarious liability",
-      "Crown employer",
       "course of employment",
+      "frolic of own",
       "Proceedings Against the Crown Act s. 5",
-      "officer servant"
+      "complete departure from employment",
+      "frolic ends on resumption"
     ],
     "tested_concepts": [
-      "Crown vicarious liability under PACA s. 5",
-      "Crown liable as if person of full capacity",
-      "course of employment test for Crown employees"
+      "frolic doctrine — complete departure from employment duties defeats vicarious liability",
+      "frolic ends when employee resumes employment duties — subsequent torts are within course of employment",
+      "incidental personal acts during authorized travel are not a frolic",
+      "Crown PACA liability as if private employer — course-of-employment limits apply"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-07-sov-imm-001",

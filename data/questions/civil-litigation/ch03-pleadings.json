@@ -396,20 +396,20 @@
     "subtopic_heading": "Striking Out Pleadings — Scandalous, Frivolous, or Vexatious (r.25.11)",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "A defendant's statement of defence contains a passage that makes personal attacks on the plaintiff's character, accuses the plaintiff's counsel of professional misconduct without any factual basis, and includes scandalous allegations irrelevant to any issue in the proceedings. The plaintiff brings a motion to strike those portions of the defence.",
-    "call_of_question": "Under which rule may a court strike out portions of a pleading that are scandalous, frivolous, vexatious, or an abuse of process?",
+    "fact_pattern": "The defendant in a commercial lease dispute delivers a statement of defence that, in addition to denying the plaintiff's breach-of-contract allegations, contains three paragraphs accusing the plaintiff's principal of tax fraud and criminal conduct — allegations that have no connection to any issue in the lease dispute. The defendant has not commenced any separate proceeding arising from those allegations. Pleadings are not yet closed. The plaintiff brings a motion targeting only those three paragraphs.",
+    "call_of_question": "Which rule and remedy most precisely addresses the plaintiff's motion to remove the three objectionable paragraphs from the defendant's statement of defence?",
     "options": {
-      "A": "Rule 21.01(1)(b) — the court may strike the entire pleading if any portion discloses no reasonable cause of action.",
-      "B": "Rule 25.11 — the court may strike out all or part of a pleading if it is scandalous, frivolous, vexatious, or may prejudice, embarrass or delay the fair trial of the action.",
-      "C": "Rule 26.01 — the court may require the party to amend the offending portions as a condition of proceeding.",
-      "D": "Rule 37.14 — the court may set aside any order arising from improper pleadings on motion."
+      "A": "Rule 21.01(1)(b) — the court strikes the entire statement of defence because it discloses no reasonable defence to the plaintiff's claim.",
+      "B": "Rule 25.11 — the court may strike out all or part of a pleading that is scandalous, frivolous, or vexatious, or that may prejudice or delay the fair trial of the action, targeting only the offending paragraphs without disturbing the rest of the defence.",
+      "C": "Rule 20.04 — the plaintiff should bring a motion for summary judgment immediately, since the scandalous allegations show the defendant has no genuine defence.",
+      "D": "Rule 26.01 — the court should order the defendant to amend the statement of defence within 30 days; striking is not available until the amendment deadline passes."
     },
     "correct_answer": "B",
-    "explanation": "Under r.25.11 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the court may strike out or expunge all or part of a pleading (with or without leave to amend) on the grounds that it is scandalous, frivolous, or vexatious, or that it may prejudice or delay the fair trial of the action, or that it is otherwise an abuse of the process of the court. This rule addresses the content of pleadings — it targets material that should never have appeared in a pleading — as distinct from r.21.01, which addresses whether the pleading discloses a legally recognisable cause of action.",
-    "why_A_wrong": "Rule 21.01(1)(b) addresses motions to strike an entire pleading for disclosing no reasonable cause of action. It does not target scandalous or irrelevant content within an otherwise valid pleading. Rule 25.11 is the appropriate rule.",
-    "why_B_wrong": "This IS the correct answer. Rule 25.11 allows the court to strike out portions of a pleading that are scandalous, frivolous, vexatious, or would prejudice the fair trial of the action.",
-    "why_C_wrong": "Rule 26.01 governs amendments to pleadings. While the court could order an amendment to cure a deficient pleading, the specific power to strike scandalous content is in r.25.11.",
-    "why_D_wrong": "Rule 37.14 governs setting aside orders made by the court or a registrar. It does not address the striking of objectionable content from pleadings.",
+    "explanation": "Under r.25.11 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the court may strike out or expunge all or part of a pleading — with or without leave to amend — on the grounds that it is scandalous, frivolous, or vexatious, or that it may prejudice or delay the fair trial of the action, or that it is otherwise an abuse of process. Rule 25.11 is the precise tool for removing objectionable content from within an otherwise valid pleading: it targets specific portions without requiring the entire document to be struck. Here, the three paragraphs alleging unrelated criminal conduct are irrelevant to the lease dispute, prejudicial to the plaintiff, and fall squarely within r.25.11. The plaintiff's motion correctly targets r.25.11 and seeks to excise only the offending paragraphs, leaving the balance of the defence intact.",
+    "why_A_wrong": "Rule 21.01(1)(b) is a motion to strike an entire pleading for disclosing no reasonable cause of action or defence — it requires no evidence and operates on the pleading as a whole. It does not provide a mechanism to excise specific scandalous passages from an otherwise valid pleading. Using r.21.01(1)(b) here would be over-broad and procedurally inappropriate. (Misapplied Tool — wrong rule for a content-based objection to specific passages)",
+    "why_B_wrong": "This IS the correct answer. Rule 25.11 allows the court to strike out portions of a pleading that are scandalous, frivolous, vexatious, or would prejudice the fair trial of the action, with surgical precision — the rest of the defence is unaffected.",
+    "why_C_wrong": "A motion for summary judgment under r.20.04 challenges the merits of a claim or defence on the evidence — it does not address the propriety of specific pleading content. Bringing a summary judgment motion at this stage because of scandalous paragraphs is a Premature Escalation Trap: it jumps to a merits-based remedy before the correct content-based remedy (r.25.11) has been used, and pleadings are not yet closed. (Premature Escalation Trap)",
+    "why_D_wrong": "Rule 26.01 governs amendments to pleadings as of right or with leave. While an amendment could cure offensive pleading content, the specific statutory power to strike scandalous matter is found in r.25.11 — which is the precise and direct remedy. There is no procedural requirement to exhaust amendment opportunities before bringing a r.25.11 motion. (Wrong Procedure Trap — r.26.01 is not the vehicle to compel removal of scandalous content)",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -427,18 +427,21 @@
       "r.25.11",
       "scandalous",
       "frivolous",
-      "vexatious"
+      "vexatious",
+      "portions of pleading",
+      "irrelevant allegations"
     ],
     "tested_concepts": [
-      "striking scandalous or vexatious pleadings — r.25.11",
-      "distinction between r.25.11 and r.21.01",
-      "court power to strike portions of pleading"
+      "r.25.11 — strike portions of pleading that are scandalous, frivolous, vexatious, or prejudicial",
+      "r.25.11 vs r.21.01(1)(b) — partial vs whole-pleading strike",
+      "r.25.11 vs r.20.04 — content objection vs merits challenge",
+      "Premature Escalation Trap — summary judgment not appropriate for content-based objection"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 105,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-03-app-act-001",

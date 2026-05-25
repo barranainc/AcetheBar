@@ -450,20 +450,20 @@
     "subtopic_heading": "PIPEDA — Mandatory Breach Notification Requirements",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "A large e-commerce company suffers a data breach in which a hacker accessed the personal information of approximately 50,000 customers, including credit card numbers, home addresses, and purchase histories. The company's privacy officer determines that the breach created a 'real risk of significant harm' to the affected individuals. The company seeks legal advice on its notification obligations under PIPEDA.",
-    "call_of_question": "Under PIPEDA, what are the mandatory notification obligations when an organization suffers a breach of security safeguards that creates a real risk of significant harm?",
+    "fact_pattern": "ShopNation Inc. is a large e-commerce company that processes online retail transactions for approximately 2 million registered customers across Canada. On March 15, a hacker accessed ShopNation's customer database through an unpatched server vulnerability, extracting names, home addresses, credit card numbers, and purchase histories for 50,000 customers. ShopNation's Chief Privacy Officer conducts an internal assessment and determines that the breach creates a 'real risk of significant harm' to the affected individuals, including risks of identity theft and financial fraud. The privacy officer's legal counsel now advises on the company's mandatory obligations under PIPEDA. The company's CEO asks: 'Can we just notify the Privacy Commissioner and let the Commissioner decide whether customers need to be told? That way we avoid the reputational hit of direct customer notification if the Commissioner doesn't think it's warranted.'",
+    "call_of_question": "The CEO's proposed approach — notifying the Privacy Commissioner only and leaving the decision on individual notification to the Commissioner — is being evaluated. Under PIPEDA, which of the following best describes the company's actual notification obligations?",
     "options": {
-      "A": "There are no mandatory notification obligations under PIPEDA; breach notification is voluntary and at the organization's discretion.",
-      "B": "Under PIPEDA ss. 10.1 and 10.2 (as amended by the Digital Privacy Act, 2015), an organization that suffers a breach of security safeguards creating a real risk of significant harm to individuals must: (1) notify the Office of the Privacy Commissioner of Canada as soon as feasible; and (2) notify the individuals whose information was involved in the breach as soon as feasible. The organization must also maintain records of all breaches.",
-      "C": "The organization must notify only the individuals affected; there is no requirement to notify the Privacy Commissioner of Canada.",
-      "D": "Notification obligations under PIPEDA arise only where the breach involved more than 100,000 individuals; breaches affecting fewer individuals need not be reported."
+      "A": "The CEO's proposed approach is permissible. Where an organization notifies the Privacy Commissioner of Canada as soon as feasible, PIPEDA allows the Commissioner to assess the breach and determine whether individual notification is required; the organization's notification duty to affected individuals is conditional on the Commissioner's direction.",
+      "B": "Under PIPEDA ss. 10.1 and 10.2 (as amended by the Digital Privacy Act, 2015), where a breach of security safeguards creates a real risk of significant harm, the organization must independently fulfill two simultaneous notification duties: (1) notify the Office of the Privacy Commissioner of Canada as soon as feasible; and (2) notify affected individuals directly and as soon as feasible — regardless of whether the Commissioner has assessed the breach or directed notification. The organization must also maintain breach records.",
+      "C": "The organization must notify only the affected individuals directly; notification to the Privacy Commissioner of Canada is optional at the organization's discretion unless the Commissioner affirmatively requests a report.",
+      "D": "The mandatory notification obligation under PIPEDA is triggered only by breaches involving financial information; a breach of home addresses and purchase histories, without confirmed fraudulent use, does not create a 'real risk of significant harm' and does not trigger mandatory notification."
     },
     "correct_answer": "B",
-    "explanation": "Under the Personal Information Protection and Electronic Documents Act, S.C. 2000, c. 5, as amended by the Digital Privacy Act, S.C. 2015, c. 32, ss. 10.1 and 10.2 (in force since November 1, 2018), organizations are required to notify the Privacy Commissioner of Canada and affected individuals as soon as feasible when a breach of security safeguards creates a real risk of significant harm to an individual. 'Real risk of significant harm' includes bodily harm, humiliation, financial loss, identity theft, and reputational harm. Organizations must also keep and maintain records of all breaches, even those that do not meet the 'real risk' threshold, and make those records available to the Commissioner on request.",
-    "why_A_wrong": "Incorrect. As of November 1, 2018, PIPEDA imposes mandatory breach notification obligations; they are not discretionary.",
-    "why_B_wrong": "This IS the correct answer. Under PIPEDA ss. 10.1 and 10.2 (as amended by the Digital Privacy Act, 2015), an organization that suffers a breach of security safeguards creating a real risk of significant harm to individuals must: (1) notify the Office of the Privacy Commissioner of Canada as soon as feasible; and (2) notify the individuals whose information was involved in the breach as soon as feasible. The organization must also maintain records of all breaches.",
-    "why_C_wrong": "Incorrect. Notification to the Privacy Commissioner of Canada is required in addition to notification of affected individuals; the obligation runs to both the Commissioner and the individuals at risk.",
-    "why_D_wrong": "Incorrect. The mandatory notification obligation under PIPEDA is triggered by 'real risk of significant harm,' not by any numerical threshold for the number of individuals affected; a breach affecting even one individual may trigger the obligation if the real risk test is met.",
+    "explanation": "Under the Personal Information Protection and Electronic Documents Act, S.C. 2000, c. 5, ss. 10.1 and 10.2 (in force since November 1, 2018), organizations are subject to two independent and simultaneous mandatory notification obligations when a breach creates a real risk of significant harm: (1) report to the Office of the Privacy Commissioner of Canada as soon as feasible; and (2) directly notify the affected individuals as soon as feasible. The CEO's proposed approach — notifying only the Commissioner and delegating the individual notification decision to the Commissioner — misunderstands the statutory scheme. PIPEDA imposes both notification duties directly on the organization; neither obligation is conditional on the Commissioner's prior assessment, direction, or approval. The Commissioner's role is oversight and enforcement, not as an intermediary through whom individual notification is channelled. The organization must also maintain records of all breaches of security safeguards, even those that do not meet the 'real risk' threshold, and make those records available to the Commissioner on request.",
+    "why_A_wrong": "Incorrect. This is a General Rule Trap that mischaracterizes the Commissioner's statutory role. Under PIPEDA, the Commissioner does not serve as a gatekeeper who decides whether individual notification is required. The organization's duty to notify affected individuals is direct, mandatory, and operates simultaneously with the duty to notify the Commissioner. Neither duty is conditional on the other.",
+    "why_B_wrong": "This IS the correct answer. Under PIPEDA ss. 10.1 and 10.2 (as amended by the Digital Privacy Act, 2015), where a breach of security safeguards creates a real risk of significant harm, the organization must independently fulfill two simultaneous notification duties: (1) notify the Office of the Privacy Commissioner of Canada as soon as feasible; and (2) notify affected individuals directly and as soon as feasible — regardless of whether the Commissioner has assessed the breach or directed notification. The organization must also maintain breach records.",
+    "why_C_wrong": "Incorrect. Notification to the Privacy Commissioner of Canada is a mandatory independent obligation — not optional. PIPEDA ss. 10.1 and 10.2 impose both the Commissioner notification duty and the individual notification duty; neither is optional and neither is subordinate to the other.",
+    "why_D_wrong": "Incorrect. This is a Wrong Timeline / Threshold Trap. The mandatory notification obligation is triggered by 'real risk of significant harm,' which is defined broadly to include bodily harm, humiliation, damage to reputation, financial loss, identity theft, and adverse effects on employment or other relationships. A breach involving home addresses and credit card numbers for 50,000 individuals creates clear risks of identity theft and financial fraud — the officer has already determined this. The obligation is not limited to situations where fraudulent use has been confirmed.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
@@ -481,18 +481,21 @@
       "real risk of significant harm",
       "Privacy Commissioner",
       "ss. 10.1 10.2",
-      "Digital Privacy Act"
+      "dual notification",
+      "Commissioner not gatekeeper",
+      "individual notification mandatory"
     ],
     "tested_concepts": [
-      "PIPEDA mandatory breach notification obligations",
-      "notify Commissioner and individuals as soon as feasible",
-      "real risk of significant harm trigger"
+      "PIPEDA dual mandatory notification — Commissioner AND individuals simultaneously",
+      "Commissioner is not a gatekeeper for individual notification decisions",
+      "real risk of significant harm trigger — not limited to confirmed fraud",
+      "breach records must be maintained regardless of threshold"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-06-fippa-s20-001",

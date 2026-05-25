@@ -220,36 +220,36 @@
     "subtopic_heading": "Marriage Contract vs Separation Agreement — Key Differences",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "Eleanor and Frank are negotiating their post-separation arrangements. They are currently married but separated. Eleanor asks her lawyer whether they need a marriage contract or a separation agreement. She is also confused about whether these instruments are interchangeable.",
-    "call_of_question": "Under the Family Law Act, what is the key distinction between a marriage contract and a separation agreement?",
+    "fact_pattern": "Eleanor and Frank are negotiating their post-separation arrangements. They are currently married but have been separated for six months. During the marriage, they executed a marriage contract that addressed property division. Now separated, Eleanor's lawyer drafts a document labelled 'Marriage Contract — Separation Arrangements' to settle spousal support and the matrimonial home. Frank's lawyer raises a concern about the label. Eleanor argues the label does not matter legally because both types of contracts are domestic contracts under Part IV of the FLA.",
+    "call_of_question": "What is the legal consequence, if any, of using a marriage contract rather than a separation agreement to settle the terms of an existing separation?",
     "options": {
-      "A": "A marriage contract and a separation agreement are legally identical; the choice of name is purely a matter of preference.",
-      "B": "A marriage contract (FLA s.52) is entered into by persons who are married or intend to marry, to govern their rights during or after the marriage; a separation agreement (FLA s.54) is entered into by persons who are married or cohabited and are living separate and apart, to settle their affairs on separation; for Eleanor and Frank who are currently separated, a separation agreement — not a marriage contract — is the appropriate instrument.",
-      "C": "A marriage contract must be notarized; a separation agreement only needs two witnesses.",
-      "D": "A separation agreement applies only to financial matters; parenting and support terms must always be addressed in a separate court order."
+      "A": "There is no legal consequence; both instruments are domestic contracts under FLA Part IV and are fully interchangeable once properly executed.",
+      "B": "A marriage contract is invalid if executed after separation; only a separation agreement has legal force once the parties are living separate and apart.",
+      "C": "Under the FLA, a separation agreement under s.54 is the legally correct instrument for parties who are already living separate and apart; a marriage contract under s.52 governs rights during or arising from the subsisting marriage, not post-separation settlement; using the wrong type of contract may create ambiguity about enforceability and may not qualify for the specific statutory protections and limitations applicable to separation agreements under FLA ss.55–56.",
+      "D": "A marriage contract may validly address all post-separation matters including spousal support and property; the label is legally irrelevant because the FLA treats all Part IV domestic contracts identically for enforcement purposes."
     },
-    "correct_answer": "B",
-    "explanation": "Family Law Act s.52 defines a marriage contract as an agreement between persons who are married or intend to marry, dealing with their rights and obligations during the marriage or on its dissolution. FLA s.54 defines a separation agreement as an agreement entered into when the parties are already living separate and apart, addressing how their affairs will be settled on separation. Eleanor and Frank are currently married and separated — the appropriate instrument for settling their separation is a separation agreement under FLA s.54. A marriage contract is generally used before or during the marriage as a planning tool, not to resolve an existing separation.",
-    "why_A_wrong": "Marriage contracts and separation agreements are distinct instruments under the FLA, serving different purposes. They are not interchangeable; the appropriate document depends on the stage of the relationship at the time of execution.",
-    "why_B_wrong": "This IS the correct answer. FLA s.52 governs marriage contracts (for married persons or those intending to marry); FLA s.54 governs separation agreements (for those already living separate and apart). Eleanor and Frank need a separation agreement.",
-    "why_C_wrong": "Both marriage contracts and separation agreements require the same formalities under FLA s.55(1): writing, signature by both parties, and each signature witnessed. Neither requires notarization as a formal requirement.",
-    "why_D_wrong": "A separation agreement may address parenting, support, and financial matters in a single comprehensive document. Parenting and support terms in a separation agreement are enforceable, subject to the court's ability to override them in the best interests of the child under FLA s.56(1).",
+    "correct_answer": "C",
+    "explanation": "Family Law Act s.52 defines a marriage contract as an agreement between persons who are married or intend to marry, dealing with rights and obligations during the marriage or on separation, annulment, dissolution, or death. FLA s.54 defines a separation agreement as an agreement entered into by persons who have cohabited and are now living separate and apart, in which they agree on their respective rights and obligations. Although both are Part IV domestic contracts, they are distinct instruments designed for different phases of the relationship. A marriage contract executed post-separation may create ambiguity about whether it properly falls within s.52 — which governs marriage-phase planning — versus the s.54 separation agreement, which triggers specific statutory provisions including FLA s.56(1) (court may override parenting provisions) and s.56(4) (grounds for setting aside). Mislabelling may affect enforcement, create interpretive disputes, and may not engage the intended statutory regime. Best practice is to use a separation agreement (s.54) for post-separation settlements.",
+    "why_A_wrong": "Exception Trap. While marriage contracts and separation agreements are both Part IV domestic contracts, they are not fully interchangeable. Each is governed by distinct definitional provisions (ss.52 vs 54) and may engage different enforceability considerations. The label and proper statutory characterization are legally significant.",
+    "why_B_wrong": "Overstatement Trap. A marriage contract is not automatically invalid if executed after separation. FLA s.52 is broad enough to include agreements between married persons addressing rights on separation. However, the parties are better served by using the correct instrument — a s.54 separation agreement — to engage the full statutory framework applicable to post-separation settlements.",
+    "why_C_wrong": "This IS the correct answer. FLA s.54 is the appropriate instrument for settling post-separation affairs; using a marriage contract label creates ambiguity about the applicable statutory regime and may affect enforceability under ss.55–56.",
+    "why_D_wrong": "Pragmatic Bluff. The two types of contracts are not legally identical for enforcement. The specific provisions of s.56 (setting aside, best interests override, equalization exclusion) apply in the context of the instrument type. Treating them as identical ignores legally significant distinctions in the FLA's Part IV framework.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Family Law",
       "chapter": "Chapter 9 — Domestic Contracts",
       "heading": "Marriage Contract vs Separation Agreement — FLA ss.52 and 54",
       "page": "N/A",
-      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 52 (marriage contract), s. 54 (separation agreement)"
+      "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 52 (marriage contract), s. 54 (separation agreement), s. 55 (formalities), s. 56 (setting aside)"
     },
     "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["marriage contract", "separation agreement", "FLA s.52", "FLA s.54", "distinction", "separate and apart"],
-    "tested_concepts": ["FLA s.52 marriage contract purpose", "FLA s.54 separation agreement purpose", "when each is appropriate", "not interchangeable"],
-    "estimated_time_seconds": 90,
+    "exam_trigger_words": ["marriage contract", "separation agreement", "FLA s.52", "FLA s.54", "wrong type of contract", "legal consequence", "enforceability"],
+    "tested_concepts": ["FLA s.52 vs s.54 distinct instruments not interchangeable", "separation agreement correct for post-separation settlement", "wrong contract type creates ambiguity and risk", "FLA ss.55-56 apply by instrument type", "marriage contract not automatically invalid post-separation"],
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "fam-09-cust-prov-001",

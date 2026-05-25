@@ -408,20 +408,20 @@
     "subtopic_heading": "Business Records Exception — s. 30 Canada Evidence Act",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "In a fraud trial, the Crown seeks to admit records of a bank's daily transaction logs without calling each bank employee who created the entries. Crown argues these are admissible as business records under s. 30 of the Canada Evidence Act. Defence objects that the original authors of the entries must testify.",
-    "call_of_question": "Under s. 30 of the Canada Evidence Act, which of the following conditions must be established for the transaction logs to be admitted as business records?",
+    "fact_pattern": "In a fraud trial, the Crown seeks to admit a spreadsheet of client account balances prepared by a junior analyst at a brokerage firm. The firm's compliance officer testifies that the firm's policy requires analysts to prepare account summaries at month-end, but that, because of a staff shortage during the relevant period, some summaries were prepared weeks after the month closed. Defence objects that the records do not qualify under s. 30 of the Canada Evidence Act because the regularity-of-keeping condition is not satisfied — entries were made sporadically, not in the ordinary course of a regular, systematic practice.",
+    "call_of_question": "Applying s. 30 of the Canada Evidence Act, which of the following best explains why the defence objection raises a genuine admissibility issue?",
     "options": {
-      "A": "The Crown must call the employee who made each individual entry to authenticate the record.",
-      "B": "The records must be produced from the originator's personal computer only and must not be electronically transmitted copies.",
-      "C": "The record must have been made in the usual and ordinary course of business, and the record must have been made at or near the time of the act, transaction, occurrence, or event it purports to record.",
-      "D": "The records are admissible only if the original document is produced; copies are not admissible under s. 30."
+      "A": "The records fail because the analyst who created them was not called as a witness to authenticate each entry.",
+      "B": "The records fail because s. 30 requires production of the original document; a spreadsheet printout is a copy and is categorically excluded.",
+      "C": "The records may be excluded because s. 30 requires both that the record was made in the usual and ordinary course of business AND that it was the usual and ordinary course of that business to make such records — sporadic, delayed entries may defeat the second condition.",
+      "D": "The records are admissible because s. 30 contains no timing requirement; it is sufficient that entries were eventually made before trial."
     },
     "correct_answer": "C",
-    "explanation": "Section 30 of the Canada Evidence Act creates an exception to the hearsay rule for business records. Under s. 30(1), a record made in the usual and ordinary course of business is admissible as evidence of the facts stated therein, provided: (a) the record was made in the usual and ordinary course of business; (b) it was the usual and ordinary course of that business to make such records; and (c) the record was made at or near the time of the act, transaction, occurrence, or event it purports to record. The calling of each individual employee who made an entry is not required — that is the very purpose of the business records exception. A party may produce a certificate of authenticity under s. 30(7) in lieu of the author's testimony.",
-    "why_A_wrong": "One of the main purposes of the s. 30 business records exception is to avoid the need to call every employee who made a record entry. The exception removes the requirement to produce each author as a witness, provided the conditions of the section are met.",
-    "why_B_wrong": "Section 30 does not restrict admissibility to original paper records or exclude electronic copies. The Canada Evidence Act has been updated to accommodate electronic records, and s. 30 applies to business records generally, including those stored and transmitted electronically.",
-    "why_C_wrong": "This IS the correct answer. Section 30 of the Canada Evidence Act requires that the record be made in the usual and ordinary course of business and at or near the time of the transaction or event it records.",
-    "why_D_wrong": "Section 30 does not require production of the original document; it does not exclude copies. The Canada Evidence Act contains provisions addressing the admissibility of copies and electronic records.",
+    "explanation": "Section 30(1) of the Canada Evidence Act has two distinct conditions that must both be satisfied: (1) the record was made in the usual and ordinary course of business; and (2) it was the usual and ordinary course of that business to make such a record. The second condition — sometimes called the 'regularity of keeping' requirement — is designed to ensure the record is part of a systematic, routine practice rather than a one-off or irregular document. Where entries are prepared sporadically due to staff shortages and not as part of a disciplined, regular practice, the second condition is genuinely contested. Defence is correct to challenge this element. Option C identifies the applicable sub-condition and explains why the facts place it in doubt. Note: the first condition (made in the course of business) may be satisfied, but the second (regular systematic practice) is the contested element on these facts.",
+    "why_A_wrong": "Calling each entry author is not required under s. 30 — that is the very purpose of the business records exception. Authentication may be accomplished through a certificate under s. 30(7) or through a witness with knowledge of the record-keeping system. The defence objection does not rest on this ground.",
+    "why_B_wrong": "Section 30 does not categorically exclude copies or electronic records. The Canada Evidence Act has been updated to accommodate electronic and digital records, and printouts of electronic records are not automatically excluded. This is a General Rule Trap.",
+    "why_C_wrong": "This IS the correct answer. Section 30 requires both conditions — records made in the ordinary course of business AND made as part of the usual practice of the business. Sporadic, delayed entries may defeat the regularity-of-keeping condition.",
+    "why_D_wrong": "Section 30 does contain a timing requirement: the record must have been made 'at or near the time of the act, transaction, occurrence, or event' it records. Entries made weeks after the fact, especially where the firm's own policy required contemporaneous recording, may not satisfy this requirement. Stating there is no timing requirement is an Understatement Trap.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
@@ -434,13 +434,13 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["business records", "s. 30 Canada Evidence Act", "usual and ordinary course of business", "at or near the time", "hearsay exception"],
-    "tested_concepts": ["s. 30 Canada Evidence Act business records exception", "usual and ordinary course of business", "contemporaneous record requirement", "authentication without calling author"],
-    "estimated_time_seconds": 90,
+    "exam_trigger_words": ["business records", "s. 30 Canada Evidence Act", "usual and ordinary course of business", "regularity of keeping", "at or near the time", "sporadic entries", "hearsay exception"],
+    "tested_concepts": ["s. 30 Canada Evidence Act two-part test", "regularity-of-keeping condition", "at-or-near-the-time requirement", "authentication without calling author", "contested admissibility of delayed business records"],
+    "estimated_time_seconds": 105,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-07-prior-consist-001",
@@ -630,42 +630,42 @@
     "topic_id": "criminal_evidence",
     "topic_heading": "Evidence in Criminal Proceedings",
     "subtopic_id": "prior_consistent_statements",
-    "subtopic_heading": "Prior Identification — Prior Consistent Statement Exception",
+    "subtopic_heading": "Prior Consistent Statements — Fabrication vs. Recent Complaint",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "At trial for robbery, the eyewitness testifies that she identified the accused in a police photo lineup conducted two days after the robbery. She picks out the accused's photo and says it is the person who robbed her. Crown seeks to have the officer who conducted the lineup testify that the witness identified the same photo.",
-    "call_of_question": "Is evidence of the witness's prior photo lineup identification admissible, and if so, on what basis?",
+    "fact_pattern": "At a sexual assault trial, the complainant testifies about an assault that occurred six months ago. In cross-examination, defence counsel suggests that the complainant's account was fabricated only after she discussed the incident with her counsellor three weeks after the assault. The complainant admits she told the counsellor about the assault but denies fabrication. Crown counsel then seeks to admit a text message the complainant sent to her sister the morning after the assault, describing the incident in terms consistent with her trial testimony. Crown does not argue the text message qualifies as a recent complaint.",
+    "call_of_question": "On which basis may Crown counsel properly seek to admit the complainant's text message to her sister?",
     "options": {
-      "A": "No — prior identification evidence is a prior consistent statement and is inadmissible on that basis.",
-      "B": "Yes — prior identification is a recognized exception to the rule against prior consistent statements; the identifying officer may testify about the prior identification made by the witness.",
-      "C": "Yes — but only if the identification occurred within 24 hours of the crime; later identifications are excluded as prior consistent statements.",
-      "D": "No — the only admissible identification evidence is the witness's in-court identification of the accused."
+      "A": "As a recent complaint, because the text was sent the morning after the assault — the promptness of the report supports admission.",
+      "B": "As a prior consistent statement to rebut the fabrication allegation, because the text predates the alleged motive to fabricate and directly undermines defence counsel's suggestion that the account was invented after the counselling session.",
+      "C": "As substantive hearsay under the principled approach, because the text message has circumstantial reliability and the complainant is unavailable to speak to its contents.",
+      "D": "As a prior consistent statement admissible as of right, because prior consistent statements by a complainant in a sexual assault trial are admissible to corroborate in-court testimony."
     },
     "correct_answer": "B",
-    "explanation": "Prior identification evidence — a witness's previous act of identifying the accused — is a well-recognized exception to the general rule against prior consistent statements. Prior identification is admissible both through the identifying witness and through officers or others who witnessed the identification procedure. The rationale is that an identification made closer to the time of the offence when memory is fresher is often more reliable than an in-court identification made months or years later. The identifying officer may testify about the lineup and what the witness did, and the witness may confirm the prior identification. The evidence is admissible for the truth of the identification.",
-    "why_A_wrong": "Prior identification is a recognized exception to the rule against prior consistent statements. It is not excluded on the basis that it is a prior consistent statement; it is admissible as substantive evidence of identification.",
-    "why_B_wrong": "This IS the correct answer. Prior identification is a recognized exception to the rule against prior consistent statements; the officer may testify about the identification procedure and its outcome.",
-    "why_C_wrong": "There is no 24-hour rule limiting prior identification evidence. The time between the offence and the identification goes to the weight (reliability) of the identification, not to its admissibility. Identifications conducted at any reasonable time after the offence are admissible.",
-    "why_D_wrong": "In-court identification is not the only admissible form of identification evidence. Prior identification is admissible and is often treated as more reliable than in-court identification made long after the offence. Both forms of identification evidence may be before the trier of fact.",
+    "explanation": "There are two distinct exceptions to the rule against prior consistent statements that are frequently confused: (1) the recent complaint exception (now largely abolished as a distinct doctrine following R. v. Dinardo, 2008 SCC 24, and codified in a limited form for sexual offences); and (2) the recent fabrication exception, which permits a prior consistent statement to be admitted where an allegation of fabrication has been made, provided the statement predates the alleged motive to fabricate. On these facts, Crown expressly does not rely on recent complaint. The relevant exception is the fabrication rebuttal. Defence alleges the complainant's account was fabricated after she spoke to her counsellor three weeks post-assault. The text message sent the morning after the assault predates that counselling session by weeks. Accordingly, the text message may be admitted under the fabrication rebuttal exception — not to prove the truth of its contents as a matter of corroboration, but to show the account existed before the alleged motive to fabricate arose.",
+    "why_A_wrong": "Crown expressly declined to argue recent complaint. Moreover, the recent complaint doctrine as a distinct exception has been significantly reformed after Dinardo; it is no longer a free-standing basis for admission of prior consistent statements in sexual assault cases as pure corroboration. Characterizing the text as a recent complaint mislabels the applicable exception and conflates two distinct doctrines — this is an Exception Trap.",
+    "why_B_wrong": "This IS the correct answer. The fabrication rebuttal exception applies where: (i) defence has alleged fabrication; (ii) the prior consistent statement predates the alleged motive to fabricate; and (iii) the statement is tendered to rebut the fabrication claim, not for independent corroboration.",
+    "why_C_wrong": "The principled approach to hearsay applies when there is no other basis for admission and necessity and threshold reliability are established. It is not the applicable tool where a recognized common-law exception — the fabrication rebuttal — directly governs the situation. Using the principled approach here is a Misapplied Tool trap, and the complainant is available and has testified.",
+    "why_D_wrong": "Prior consistent statements are not admissible as of right in sexual assault cases simply because the declarant is the complainant. The general rule against self-serving prior consistent statements applies. Admissibility requires a triggering exception; there is no blanket corroboration rule permitting automatic admission of complainant's prior statements.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
       "chapter": "Chapter 7: Evidence",
-      "heading": "Prior Identification — Exception to Prior Consistent Statement Rule",
+      "heading": "Prior Consistent Statements — Recent Fabrication Exception",
       "page": "N/A",
-      "rule_or_statute_reference": "R. v. Tat (1997), 117 CCC (3d) 481 (Ont. CA); R. v. Baltovich, 2004 CanLII 34404 (Ont. CA)"
+      "rule_or_statute_reference": "R. v. Stirling, 2008 SCC 10; R. v. Dinardo, 2008 SCC 24; R. v. O'Brien, [1978] 1 SCR 591"
     },
     "pr_angle": {
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["prior identification", "photo lineup", "prior consistent statement exception", "eyewitness identification", "officer testimony"],
-    "tested_concepts": ["prior identification exception to prior consistent statement rule", "officer may testify about identification procedure", "reliability of identification closer in time", "substantive evidence of identification"],
-    "estimated_time_seconds": 90,
+    "exam_trigger_words": ["prior consistent statement", "recent fabrication", "recent complaint", "fabrication allegation", "predates motive to fabricate", "sexual assault", "prior statement"],
+    "tested_concepts": ["fabrication rebuttal exception vs recent complaint", "statement must predate alleged motive to fabricate", "purpose is to rebut fabrication not corroborate", "general rule against prior consistent statements", "distinction between two exceptions"],
+    "estimated_time_seconds": 105,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-07-hearsay-003",

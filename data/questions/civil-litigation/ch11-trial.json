@@ -8,22 +8,23 @@
     "topic_heading": "Trial Procedure",
     "subtopic_id": "order_of_proceedings",
     "subtopic_heading": "Order of Proceedings at Trial — Who Opens and Closes",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "Osei Pharmaceuticals Inc. brings an action against Bergman Distribution Ltd. for breach of a supply contract. Both parties have retained counsel and the matter proceeds to trial before a judge sitting without a jury.",
-    "call_of_question": "In a civil trial without a jury, what is the general order in which the parties present their cases?",
+    "fact_pattern": "Osei Pharmaceuticals Inc. brings an action against Bergman Distribution Ltd. for breach of a supply contract. The matter proceeds to a three-day judge-alone trial. Both parties have retained experienced counsel. On the morning of trial, Bergman's counsel rises first and announces that, given Bergman's extensive documentary evidence, the defence should present its case first to give the trial a proper commercial context. Osei's counsel objects, arguing the established order of proceedings governs. The trial judge must decide.",
+    "call_of_question": "Under the established Ontario civil trial procedure, who presents their case first, and in what order do the parties address the court in closing — and may the trial judge accede to Bergman's request to reverse the order?",
     "options": {
-      "A": "The defendant presents its case first, then the plaintiff responds, and the plaintiff has the right to the first and last addresses to the court.",
-      "B": "The plaintiff presents its case first, followed by the defendant's case; closing addresses are made with the plaintiff addressing last, as the party bearing the burden of proof.",
-      "C": "The order of presentation is determined entirely by the presiding judge at the start of trial; there is no default order.",
-      "D": "Both parties present their cases simultaneously through written submissions filed in advance of trial, and the judge renders judgment without oral argument."
+      "A": "Bergman's request is proper: in commercial cases, the party with the greater volume of documentary evidence presents first to orient the court; the judge has absolute discretion to set any order convenient to case management.",
+      "B": "The plaintiff (Osei) presents its case first, followed by the defendant (Bergman); closing addresses are made with the plaintiff addressing last as the party bearing the burden of proof. The trial judge may vary this order in the interests of justice but the established default clearly favours the plaintiff presenting first.",
+      "C": "The defendant presents its evidence first in all civil trials; the plaintiff then responds and has the right to the first and last addresses in closing, since the plaintiff bears the burden of proof.",
+      "D": "Both parties present their cases simultaneously through exchanged written submissions; the trial judge renders judgment without live oral argument or witness examination.",
+      "priority_weight": null
     },
     "correct_answer": "B",
-    "explanation": "Under r.52 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194) and established Ontario civil trial practice, the general order of proceedings is: (1) plaintiff's opening address; (2) plaintiff's evidence; (3) defendant's opening address (or at the start of trial, if elected); (4) defendant's evidence; (5) plaintiff's closing address; and (6) defendant's closing address (or the reverse, depending on which party opened). As the party bearing the burden of proof, the plaintiff generally goes first in presenting evidence and is entitled to the last word in closing addresses. This order may be varied by the trial judge in the interests of justice.",
-    "why_A_wrong": "The plaintiff, not the defendant, presents its case first. The plaintiff bears the burden of proof and opens the case. The plaintiff also generally has the right to address last in closing, not first.",
-    "why_B_wrong": "This IS the correct answer. The plaintiff presents first (bearing the burden of proof), followed by the defendant; closing addresses conclude with the plaintiff's reply as the party bearing the burden.",
-    "why_C_wrong": "There is an established default order for the presentation of cases at civil trial. While a trial judge has some discretion to adjust the order, there is a well-established convention that is not simply left to ad hoc judicial determination at the start of each trial.",
-    "why_D_wrong": "Ontario civil trials involve live oral presentations of evidence, examination and cross-examination of witnesses, and oral argument. Simultaneous written submissions are not the standard procedure for a civil trial.",
+    "explanation": "Under r.52 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194) and established Ontario civil trial practice, the default order of proceedings is: (1) plaintiff's opening address; (2) plaintiff's evidence; (3) defendant's opening address (if not given at the outset) and defendant's evidence; (4) plaintiff's closing address; (5) defendant's closing address (or plaintiff's reply). As the party bearing the burden of proof, the plaintiff goes first in both presenting evidence and addressing last in closing — the 'last word' reflects that the plaintiff must ultimately discharge the burden. The trial judge has some discretion to adjust the order in the interests of justice, but Bergman's rationale — that its documentary evidence is extensive — is not a recognised basis for reversing the default order. Granting Bergman's request would improperly shift the burden of proof dynamics: a defendant cannot put itself in the plaintiff's procedural shoes simply by having more documents.",
+    "why_A_wrong": "Volume of documentary evidence is not a recognised basis for reversing the established order of proceedings. The plaintiff presents first because it bears the burden of proof — a substantive procedural reason that cannot be overridden by a party's preference for case management convenience. Characterising the trial judge's discretion as 'absolute' overstates it. (Overstatement Trap — overstates judicial discretion; General Rule Trap — ignores burden-of-proof rationale for the default order)",
+    "why_B_wrong": "This IS the correct answer. The plaintiff presents first and addresses last in closing because it bears the burden of proof; the trial judge's discretion to vary the order does not extend to reversing it on Bergman's convenience rationale.",
+    "why_C_wrong": "The defendant does not present first in a civil trial. The plaintiff bears the burden of proof and therefore opens by calling its evidence. Conflating who 'bears the burden' with who goes last — rather than who goes first — is the trap. The plaintiff goes first, not the defendant. (General Rule Trap — inverts the order of proceedings)",
+    "why_D_wrong": "Ontario civil trials involve live witness testimony, oral examination and cross-examination, and oral argument. Written submissions may supplement oral argument, but they do not replace it and are never presented 'simultaneously' as a substitute for a trial. This describes a wholly different procedural model. (Wrong Procedure Trap — describes appellate or administrative written-hearing procedure, not civil trial procedure)",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -33,13 +34,26 @@
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.52"
     },
     "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["order of proceedings", "plaintiff first", "burden of proof", "closing address", "trial procedure"],
-    "tested_concepts": ["plaintiff opens and closes — burden of proof", "order of proceedings at civil trial — r.52", "plaintiff evidence then defendant evidence"],
-    "estimated_time_seconds": 80,
+    "exam_trigger_words": [
+      "order of proceedings",
+      "plaintiff first",
+      "burden of proof",
+      "closing address",
+      "trial procedure",
+      "last word",
+      "defendant presents first"
+    ],
+    "tested_concepts": [
+      "plaintiff opens and closes — burden of proof rationale",
+      "order of proceedings at civil trial — r.52",
+      "trial judge's discretion to vary order — limited, not absolute",
+      "defendant presenting first is the inversion trap"
+    ],
+    "estimated_time_seconds": 100,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-11-trial-proc-002",

@@ -841,20 +841,20 @@
     "subtopic_heading": "Public Interest Standing on Judicial Review",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "A national environmental advocacy organization seeks judicial review of a federal Cabinet decision approving a pipeline project. The organization has no direct economic interest in the pipeline. It argues the approval violates federal environmental assessment legislation. The government argues the organization lacks standing to bring the application because it is not directly affected by the decision.",
-    "call_of_question": "Under Canadian law, what is the test for public interest standing to seek judicial review, and can a public interest organization without a direct personal stake bring a judicial review application?",
+    "fact_pattern": "CleanWaters Alliance is a national environmental advocacy organization with 40,000 members across Canada. The organization has dedicated fifteen years to researching and advocating on freshwater contamination. It seeks judicial review of a federal Cabinet Order approving a pulp mill discharge permit that the Alliance argues violates the Canadian Environmental Assessment Act. The Alliance has no direct economic interest in the permit. No individual with direct personal standing has come forward to challenge the decision; the mill operators have confirmed they will begin operations in 30 days, making this the only realistic opportunity to bring the issue before a court. The government argues the Alliance lacks standing. The Alliance argues: (1) there is a serious justiciable issue regarding federal environmental assessment obligations; (2) it has a genuine and ongoing interest in freshwater contamination; and (3) no other reasonable party is available or willing to bring the issue to court. The government counters that the Alliance fails the second part of the test because its interest is professional advocacy, not genuine stake, and that failing the second part means standing must be denied.",
+    "call_of_question": "Applying the Downtown Eastside public interest standing test, which argument most accurately describes the Alliance's standing position?",
     "options": {
-      "A": "No. Only persons directly and personally affected by a decision have standing to seek judicial review; public interest organizations can never obtain standing.",
-      "B": "Yes, automatically. Any organization with an interest in good government has standing to challenge any government decision.",
-      "C": "Under the Canadian Doctors for Refugee Care v Canada (Attorney General), 2015 FC 904, and Canadian Council of Churches v Canada, [1992] 1 SCR 236, public interest standing may be granted where: (1) there is a serious justiciable issue; (2) the applicant has a real stake or genuine interest in the issue; and (3) the proposed proceeding is a reasonable and effective means of bringing the issue to court. Courts have discretion and will consider whether other parties with standing are willing to challenge the decision.",
-      "D": "Yes. Any federally incorporated non-profit organization has automatic standing to challenge federal government decisions."
+      "A": "The Alliance lacks standing because a professional advocacy organization's interest in a legal issue is insufficient to satisfy the second part of the Downtown Eastside test; genuine stake requires a personal connection to the decision's legal consequences, which a professional advocacy group cannot have.",
+      "B": "The Alliance automatically has standing because it has no conflict of interest, has relevant expertise, and the issue affects its membership; public interest organizations with these attributes always satisfy the Downtown Eastside test.",
+      "C": "Under Canada (AG) v Downtown Eastside Sex Workers United Against Violence Society, 2012 SCC 45, the three-part standing test is applied holistically and contextually, not as a series of strict threshold gates; the Alliance satisfies all three parts — a serious justiciable issue exists, its long-term advocacy on freshwater issues gives it a genuine stake, and the absence of any willing party with direct standing makes the proceeding a reasonable and effective means of bringing the issue to court.",
+      "D": "The Alliance fails the standing test because it did not first exhaust internal administrative review processes before applying for judicial review; public interest standing is not available where an alternative remedy has not been pursued."
     },
     "correct_answer": "C",
-    "explanation": "Under Canadian Council of Churches v Canada (Minister of Employment and Immigration), [1992] 1 SCR 236, and the subsequent public interest standing trilogy refined in Canada (Attorney General) v Downtown Eastside Sex Workers United Against Violence Society, 2012 SCC 45, the Supreme Court of Canada established a three-part test for public interest standing: (1) there is a serious justiciable issue; (2) the applicant is directly affected by or has a genuine stake in the issue; and (3) the proposed proceeding is a reasonable and effective means of bringing the issue before the court — including consideration of whether others with standing are available. Public interest standing is discretionary and not automatic; a lack of personal economic stake does not preclude standing where the other criteria are met.",
-    "why_A_wrong": "Incorrect. Canadian courts have recognized public interest standing in appropriate cases since Canadian Council of Churches; personal direct economic impact is not the only basis for standing.",
-    "why_B_wrong": "Incorrect. Public interest standing is not automatic; the three-part test must be satisfied, and courts retain discretion to grant or deny it based on the circumstances.",
-    "why_C_wrong": "This IS the correct answer. Under the Canadian Doctors for Refugee Care v Canada (Attorney General), 2015 FC 904, and Canadian Council of Churches v Canada, [1992] 1 SCR 236, public interest standing may be granted where: (1) there is a serious justiciable issue; (2) the applicant has a real stake or genuine interest in the issue; and (3) the proposed proceeding is a reasonable and effective means of bringing the issue to court. Courts have discretion and will consider whether other parties with standing are willing to challenge the decision.",
-    "why_D_wrong": "Incorrect. Corporate status as a federally incorporated non-profit does not confer automatic standing; the three-part public interest standing test must still be satisfied.",
+    "explanation": "In Canada (Attorney General) v Downtown Eastside Sex Workers United Against Violence Society, 2012 SCC 45, the Supreme Court of Canada reformulated the three-part public interest standing test to be applied holistically, not as strict sequential threshold gates where failure on one part automatically defeats standing. The three factors are: (1) a serious justiciable issue; (2) the applicant has a genuine stake or real interest in the issue; and (3) the proposed proceeding is a reasonable and effective means of bringing the issue to court. The Alliance satisfies all three. The serious justiciable issue is the federal environmental assessment obligation — a genuine legal question. The Alliance's fifteen-year active engagement in research and advocacy on freshwater contamination, combined with its 40,000 member base personally affected by water quality, establishes a genuine stake that goes beyond professional advocacy in the abstract. The third factor is met because no willing party with direct personal standing has come forward, making the Alliance's application the only realistic means of bringing this legal question before the court.",
+    "why_A_wrong": "Incorrect. This is an Overstatement Trap. The second part of the Downtown Eastside test does not require personal legal consequences of the kind a directly affected individual would suffer. The Supreme Court confirmed in Downtown Eastside that an organization with a genuine and ongoing commitment to the legal issue at stake — not merely a theoretical interest — satisfies the 'genuine stake' element. Professional advocacy combined with active research and a directly affected membership base satisfies the second part.",
+    "why_B_wrong": "Incorrect. This is also an Overstatement Trap from the other direction. Public interest standing is never automatic; the three-part Downtown Eastside test must be applied holistically, and courts retain discretion. An organization that satisfies the factual criteria still requires the court's exercise of discretion; it does not have standing as of right.",
+    "why_C_wrong": "This IS the correct answer. Under Canada (AG) v Downtown Eastside Sex Workers United Against Violence Society, 2012 SCC 45, the three-part standing test is applied holistically and contextually, not as a series of strict threshold gates; the Alliance satisfies all three parts — a serious justiciable issue exists, its long-term advocacy on freshwater issues gives it a genuine stake, and the absence of any willing party with direct standing makes the proceeding a reasonable and effective means of bringing the issue to court.",
+    "why_D_wrong": "Incorrect. This is a Wrong Forum / Premature Escalation Trap. The adequate alternative remedy doctrine applies to whether the court should exercise its discretion to hear a judicial review application; it is a distinct issue from standing. A party who has standing but has not exhausted alternatives may still have the application declined on discretionary grounds — but failure to exhaust internal processes does not defeat standing as a threshold matter.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
@@ -869,21 +869,23 @@
     },
     "exam_trigger_words": [
       "public interest standing",
-      "judicial review",
-      "Canadian Council of Churches",
       "Downtown Eastside",
+      "genuine stake",
+      "holistic contextual test",
+      "no willing party with direct standing",
       "serious justiciable issue"
     ],
     "tested_concepts": [
-      "three-part public interest standing test",
-      "discretionary standing for public interest organizations",
-      "personal stake not required for standing"
+      "Downtown Eastside three-part test applied holistically not strict threshold gates",
+      "genuine stake includes organizational advocacy and affected membership — not only personal legal consequences",
+      "third part — reasonable effective means — weighs availability of other parties with standing",
+      "adequate alternative remedy distinct from standing — does not defeat standing as threshold"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-04-mootness-001",
@@ -896,20 +898,20 @@
     "subtopic_heading": "Mootness on Judicial Review — Borowski Test",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "A refugee claimant challenges a removal order through judicial review. While the application is pending, the claimant voluntarily departs Canada. The government moves to dismiss the application as moot, arguing there is no longer a live controversy. The claimant argues the court should still exercise its discretion to decide the question because of its systemic importance to other refugees facing removal orders.",
-    "call_of_question": "Under the Borowski test for mootness, when should a court exercise its discretion to decide a case even where the immediate controversy no longer exists?",
+    "fact_pattern": "Yusuf, a refugee claimant, challenges his removal order through judicial review in the Federal Court, arguing the Refugee Protection Division misapplied the definition of 'particular social group' in assessing his persecution claim. While the application is pending, Yusuf voluntarily returns to his country of origin to care for a terminally ill parent. The government moves to dismiss the application as moot: the removal order cannot be enforced against Yusuf while he is abroad, and he has no immediate prospect of returning to Canada. Yusuf's counsel argues the court should nonetheless exercise its stage-two Borowski discretion to proceed because: (i) the 'particular social group' issue recurs in dozens of pending RPD decisions; (ii) the parties have fully briefed the issue and remain adversarially engaged through counsel; and (iii) the Federal Court has not definitively resolved the interpretation question, causing inconsistent RPD decisions. The government counters that Yusuf's voluntary departure destroyed the adversarial relationship and that deciding a moot case on a legal interpretation issue would put the court in an advisory role beyond its proper institutional function.",
+    "call_of_question": "Applying the Borowski two-stage mootness framework to the stage-two discretionary analysis, which of the following best describes how the court should weigh the competing considerations?",
     "options": {
-      "A": "A court must always dismiss a moot case; it has no discretion to proceed once the immediate controversy is resolved.",
-      "B": "A court should always decide cases of systemic importance, regardless of mootness.",
-      "C": "Under Borowski v Canada (AG), [1989] 1 SCR 342, the mootness analysis proceeds in two stages: (1) determine whether the required tangible and concrete dispute has disappeared; and (2) if so, exercise discretion to consider whether to decide the case anyway, weighing factors such as: whether the parties retain an adversarial relationship, whether judicial economy supports a decision on a systemic issue, and whether the court would be departing from its proper role in deciding the question.",
-      "D": "A case is moot only if both parties agree that there is no longer any live controversy; unilateral departure does not make a case moot."
+      "A": "The court must dismiss the application. Once a claimant voluntarily departs Canada, the adversarial relationship is destroyed as a matter of law and the court has no discretion to proceed; Borowski stage two does not apply after voluntary departure.",
+      "B": "The court must proceed. Where a legal issue recurs in multiple pending proceedings and the parties have fully briefed the matter, systemic importance is a sufficient basis to decide a moot case; Borowski stage two is satisfied by recurring systemic importance alone.",
+      "C": "Under Borowski v Canada (AG), [1989] 1 SCR 342, the stage-two discretion requires the court to weigh three factors holistically: (i) whether the parties retain an adversarial relationship sufficient to sharpen the issues; (ii) whether judicial economy justifies a decision on a recurring systemic issue to prevent future litigation on the same point; and (iii) whether deciding the question would place the court in an advisory or legislative role that exceeds its proper institutional function. The court may proceed if the balance of these factors favours a decision — even if the adversarial relationship has weakened — particularly where the issue recurs, the briefing is complete, and guidance would prevent inconsistent lower-body rulings.",
+      "D": "Borowski stage two requires the court to first obtain a bilateral agreement from both parties confirming they wish the court to decide the moot question; absent such agreement, the court cannot exercise its discretion to proceed."
     },
     "correct_answer": "C",
-    "explanation": "The leading Canadian authority on mootness is Borowski v Canada (Attorney General), [1989] 1 SCR 342, where the Supreme Court established a two-stage test. Stage one asks whether the required adversarial relationship and live controversy still exists. If the matter is moot (stage one), stage two asks whether the court should nonetheless exercise its discretion to decide the case, weighing: (a) whether an adversarial context still exists to sharpen the issues; (b) whether judicial economy supports addressing a systemic issue to avoid future litigation; and (c) whether the court would be overstepping its institutional role by deciding a hypothetical issue. Systemic importance to other refugees is a factor but not automatically sufficient to justify a decision in a moot case.",
-    "why_A_wrong": "Incorrect. Borowski established a two-stage framework; even where mootness is established at stage one, courts retain discretion at stage two to decide the case in appropriate circumstances.",
-    "why_B_wrong": "Incorrect. Systemic importance is a relevant factor at stage two of Borowski but does not automatically justify deciding a moot case; the court must still weigh all three stage-two factors.",
-    "why_C_wrong": "This IS the correct answer. Under Borowski v Canada (AG), [1989] 1 SCR 342, the mootness analysis proceeds in two stages: (1) determine whether the required tangible and concrete dispute has disappeared; and (2) if so, exercise discretion to consider whether to decide the case anyway, weighing factors such as: whether the parties retain an adversarial relationship, whether judicial economy supports a decision on a systemic issue, and whether the court would be departing from its proper role in deciding the question.",
-    "why_D_wrong": "Incorrect. Mootness is determined objectively by whether a live controversy still exists, not by whether both parties agree; voluntary departure by one party can render the immediate controversy moot even without agreement.",
+    "explanation": "In Borowski v Canada (Attorney General), [1989] 1 SCR 342, the Supreme Court established a two-stage mootness test. Stage one determines whether the live controversy has disappeared. Yusuf's voluntary departure renders the immediate controversy moot — the removal order is unenforceable while he is abroad. Stage two asks whether the court should nonetheless decide the case, requiring holistic weighing of three factors: (a) adversarial relationship — the parties remain engaged through counsel and have fully briefed the legal issue, maintaining a functional adversarial context even if Yusuf's personal stake has diminished; (b) judicial economy — the 'particular social group' interpretation recurs in dozens of pending RPD proceedings; deciding the question prevents future litigation and corrects inconsistent tribunal rulings — a strong reason in favour of proceeding; (c) institutional role — the question is a genuine legal issue requiring interpretation of an existing statute, not a request for an advisory opinion on a hypothetical; the court would be clarifying law applied in pending cases, not departing from its adjudicative function. On balance, these factors may support proceeding, though the court retains full discretion.",
+    "why_A_wrong": "Incorrect. This is a General Rule Trap. Borowski stage two expressly preserves the court's discretion even after voluntary departure. The adversarial relationship is one factor in the stage-two analysis, not a threshold jurisdictional gate. Voluntary departure weakens but does not automatically destroy the adversarial relationship where the parties remain engaged through counsel with fully briefed arguments.",
+    "why_B_wrong": "Incorrect. This is an Overstatement Trap. Systemic importance is one of three stage-two factors and is not independently sufficient to compel a court to proceed with a moot case. The court must holistically weigh all three factors — adversarial relationship, judicial economy, and institutional role — and retains discretion even where systemic importance is high.",
+    "why_C_wrong": "This IS the correct answer. Under Borowski v Canada (AG), [1989] 1 SCR 342, the stage-two discretion requires the court to weigh three factors holistically: (i) whether the parties retain an adversarial relationship sufficient to sharpen the issues; (ii) whether judicial economy justifies a decision on a recurring systemic issue to prevent future litigation on the same point; and (iii) whether deciding the question would place the court in an advisory or legislative role that exceeds its proper institutional function. The court may proceed if the balance of these factors favours a decision — even if the adversarial relationship has weakened — particularly where the issue recurs, the briefing is complete, and guidance would prevent inconsistent lower-body rulings.",
+    "why_D_wrong": "Incorrect. This is a Wrong Procedure Trap. Borowski stage two does not require bilateral agreement between the parties; the court exercises its discretion independently of party consent. A moot case is decided or dismissed based on the court's assessment of the three Borowski stage-two factors, not on whether both parties request a ruling.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
@@ -923,22 +925,25 @@
       "pr_issue_type": null
     },
     "exam_trigger_words": [
-      "mootness",
-      "Borowski",
-      "live controversy",
-      "discretion",
-      "systemic importance"
+      "Borowski stage two",
+      "mootness discretion",
+      "adversarial relationship",
+      "judicial economy",
+      "institutional role",
+      "systemic importance",
+      "voluntary departure"
     ],
     "tested_concepts": [
-      "Borowski two-stage mootness test",
-      "discretion to decide moot cases",
-      "factors at Borowski stage two"
+      "Borowski stage two — three factors weighed holistically",
+      "voluntary departure weakens adversarial relationship but does not destroy it as matter of law",
+      "systemic importance is one factor not a standalone basis to proceed",
+      "bilateral agreement not required for court to exercise stage-two discretion"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-04-alt-remedy-001",
@@ -1006,20 +1011,20 @@
     "subtopic_heading": "Certified Tribunal Record — Scope of Review",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "An applicant seeks judicial review of an Ontario tribunal decision. She argues the tribunal considered communications between tribunal staff and government officials that were not part of the formal hearing record. She wants the reviewing court to consider a stack of emails her counsel obtained through an access to information request, which were not before the tribunal. She argues these emails demonstrate bad faith and improper external influence.",
-    "call_of_question": "On judicial review, what material is ordinarily before the reviewing court, and when may a court consider evidence outside the formal tribunal record?",
+    "fact_pattern": "Leila applies for judicial review of a decision by the Ontario Workplace Safety and Insurance Appeals Tribunal (WSIAT) denying her workers' compensation claim. The certified tribunal record consists of 400 pages of medical evidence, two expert reports, and transcripts of the three-day hearing before the WSIAT panel. Leila's counsel argues three grounds: (1) the tribunal's decision was unreasonable because it ignored key medical evidence in the record; (2) there was a reasonable apprehension of bias because, through an access to information request, Leila obtained emails showing that a WSIAT vice-chair exchanged ex parte communications with the employer's insurer before the hearing — these emails were not part of the tribunal record; and (3) the court should conduct a de novo review of all the medical evidence because the statutory right to compensation is so fundamental that the reviewing court must make its own fresh findings of fact rather than defer to the tribunal. Leila asks the court to admit the emails and to conduct a full de novo review on the merits.",
+    "call_of_question": "Which of the following best describes the reviewing court's authority to (a) admit the emails and (b) conduct a de novo review of the medical evidence?",
     "options": {
-      "A": "The reviewing court must consider all relevant evidence, including evidence obtained after the decision was made, because judicial review is a de novo proceeding.",
-      "B": "The reviewing court is generally confined to the certified tribunal record — the material that was before the decision-maker — but may receive additional evidence in limited circumstances, such as to establish procedural unfairness, jurisdictional facts, or a reasonable apprehension of bias that could not be demonstrated from the record alone.",
-      "C": "The reviewing court is absolutely confined to the tribunal record; no additional evidence from any source may ever be admitted.",
-      "D": "Because judicial review is a supervisory jurisdiction, the court may call live witnesses and conduct its own fact-finding on the merits."
+      "A": "The court may admit the emails and conduct a de novo review of the medical evidence; judicial review of a statutory right to compensation is a matter of such legal importance that the court must make its own findings on all questions of fact and law.",
+      "B": "The court may admit the emails because they go to a reasonable apprehension of bias — a ground of procedural unfairness that cannot be established from the tribunal record alone — but may not conduct a de novo review of the medical evidence; judicial review is not a de novo proceeding, and the court reviews the tribunal's factual findings on a reasonableness standard, confined to what was before the decision-maker.",
+      "C": "The court may not admit the emails or any other post-decision evidence; the certified tribunal record is an absolute limit on the material the reviewing court may consider, with no exceptions.",
+      "D": "The court may admit the emails and conduct a de novo review because the existence of a statutory right to compensation means the reviewing court must independently determine the correct outcome; Vavilov provides that statutory rights are reviewed on a correctness standard with de novo fact-finding."
     },
     "correct_answer": "B",
-    "explanation": "On judicial review, the reviewing court is ordinarily confined to the record that was before the decision-maker — the certified tribunal record. This principle reflects the supervisory (not appellate de novo) nature of judicial review: the court examines the decision-maker's process and reasoning on the basis of the evidence that was before them, not new evidence. However, courts have recognized narrow exceptions where additional evidence may be admitted: for example, to demonstrate a breach of natural justice or procedural fairness (such as bias or a denial of the right to be heard) that is not apparent from the record, or to establish jurisdictional facts that go to the court's or the tribunal's jurisdiction. The emails in this case, going to alleged bad faith or improper external influence, may fall within the procedural fairness exception.",
-    "why_A_wrong": "Incorrect. Judicial review is not a de novo proceeding; the court does not conduct a fresh hearing on the merits or consider evidence that was not before the decision-maker in ordinary circumstances.",
-    "why_B_wrong": "This IS the correct answer. The reviewing court is generally confined to the certified tribunal record — the material that was before the decision-maker — but may receive additional evidence in limited circumstances, such as to establish procedural unfairness, jurisdictional facts, or a reasonable apprehension of bias that could not be demonstrated from the record alone.",
-    "why_C_wrong": "Incorrect. The restriction to the tribunal record is general, not absolute; courts have recognized narrow exceptions for procedural fairness grounds and jurisdictional facts that cannot be established from the record alone.",
-    "why_D_wrong": "Incorrect. Judicial review courts do not call live witnesses or conduct their own fact-finding on the merits; the supervisory jurisdiction of judicial review is confined to reviewing the decision-maker's process and the record before them.",
+    "explanation": "On judicial review under the Vavilov framework (Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65), the reviewing court is generally confined to the certified tribunal record — the material that was before the decision-maker. This reflects the supervisory nature of judicial review: the court examines the decision-maker's process and reasoning based on what was before them. Judicial review is not a de novo proceeding; the court does not conduct fresh fact-finding on the merits or substitute its view of the evidence. However, courts have recognized narrow exceptions permitting additional evidence to be admitted where the additional evidence is necessary to establish a ground of review that cannot be demonstrated from the record itself. A reasonable apprehension of bias arising from ex parte communications that occurred outside the hearing — and therefore could not appear in the tribunal record — falls squarely within this exception. The emails are admissible for the limited purpose of establishing the bias ground. De novo review of the medical evidence is not authorized: reasonableness review under Vavilov does not transform into de novo fact-finding simply because the right at stake is statutory or important.",
+    "why_A_wrong": "Incorrect. This is a Misapplied Tool trap. The significance or statutory nature of the right at issue does not transform judicial review into a de novo proceeding. Under Vavilov, reasonableness is the default standard of review for most questions decided by administrative tribunals; the court assesses whether the decision is justified, intelligible, and transparent — it does not conduct its own independent fact-finding on the medical evidence.",
+    "why_B_wrong": "This IS the correct answer. The court may admit the emails because they go to a reasonable apprehension of bias — a ground of procedural unfairness that cannot be established from the tribunal record alone — but may not conduct a de novo review of the medical evidence; judicial review is not a de novo proceeding, and the court reviews the tribunal's factual findings on a reasonableness standard, confined to what was before the decision-maker.",
+    "why_C_wrong": "Incorrect. The restriction to the certified tribunal record is general, not absolute. Courts have recognized narrow exceptions permitting additional evidence where the ground of review cannot be demonstrated from the record alone — including to establish procedural unfairness, bias, or jurisdictional facts not reflected in the formal record. The emails fall within the recognized procedural fairness exception.",
+    "why_D_wrong": "Incorrect. This is a Misapplied Tool trap combining two errors. First, Vavilov did not establish that statutory rights are reviewed on a correctness standard with de novo fact-finding; correctness applies to certain constitutional questions, questions of central importance to the legal system, and jurisdictional questions — not to all statutory rights. Second, even where correctness applies, reviewing courts do not conduct de novo fact-finding; they assess the legal question without deference but do not replace the tribunal's factual findings with their own.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
@@ -1034,21 +1039,24 @@
     },
     "exam_trigger_words": [
       "certified tribunal record",
-      "evidence on judicial review",
-      "de novo",
+      "de novo review",
+      "reasonable apprehension of bias",
+      "Vavilov reasonableness",
+      "ex parte communications",
       "exceptions to record rule",
-      "procedural fairness exception"
+      "procedural fairness evidence"
     ],
     "tested_concepts": [
-      "judicial review confined to tribunal record",
-      "exceptions for procedural fairness and jurisdictional facts",
-      "judicial review not de novo proceeding"
+      "judicial review confined to certified record — not de novo proceeding",
+      "exception — additional evidence admissible to establish bias or procedural unfairness not appearing in record",
+      "Vavilov reasonableness does not become de novo because right is statutory or important",
+      "correctness standard does not authorize de novo fact-finding"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-04-remedy-003",

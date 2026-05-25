@@ -304,20 +304,20 @@
     "subtopic_heading": "Notice of Appeal — Time to Appeal and Extending Time",
     "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "A final judgment was released by the trial judge on March 1. The losing party's counsel did not file a notice of appeal within the prescribed time period. On June 10, more than three months later, counsel brings a motion to extend the time to appeal. Counsel argues that the delay was due to an administrative error in the office and that the appeal has merit.",
-    "call_of_question": "Under r.61.04 of the Rules of Civil Procedure, what is the time to deliver a notice of appeal from a final order, and what factors does a court consider when deciding whether to extend the time to appeal?",
+    "fact_pattern": "A final judgment dismissing the plaintiff's negligence action was released on April 1, 2026. The plaintiff's counsel received the endorsement on April 1 but, believing the 30-day period ran from the date the formal written order was signed and entered — which occurred on April 16 — did not serve and file a notice of appeal until May 14, 2026. The respondent moves to quash the appeal as out of time. The appellant concedes the notice of appeal was served 43 days after the date of the judgment and brings a cross-motion under r.3.02 to extend the time to appeal, arguing the error was understandable and the appeal raises a genuine legal issue.",
+    "call_of_question": "Under r.61.04(1) of the Rules of Civil Procedure, when does the 30-day time to appeal begin to run, and what factors govern a court's decision whether to extend time under r.3.02?",
     "options": {
-      "A": "The time to appeal is 60 days from the date of the order; an extension will be granted automatically upon a showing of administrative error.",
-      "B": "The time to appeal is 30 days from the date of the order; the court has no power to extend the time to appeal once it has passed.",
-      "C": "The time to appeal is 30 days from the date of the order under r.61.04(1); the court may extend time under r.3.02 considering factors including the length of the delay, the reason for the delay, the prejudice to the respondent, and whether the appeal has merit.",
-      "D": "The time to appeal is 15 days from the date of the order; after 15 days the right to appeal is permanently forfeited and cannot be reinstated."
+      "A": "The 30-day period runs from the date the formal order is signed and entered by the registrar; service on May 14 — 28 days after the April 16 entry date — is within time and the quash motion should be dismissed.",
+      "B": "The time to appeal is 15 days from the date of the order for a final judgment in a negligence action; the notice of appeal filed on May 14 is out of time regardless of when the formal order was entered.",
+      "C": "The time to appeal is 30 days from the date of the order under r.61.04(1), running from the date the order is made (April 1), not from the date of formal entry; the notice of appeal filed on May 14 is therefore 13 days late. The court may extend time under r.3.02, weighing the length of delay, the reason for delay, prejudice to the respondent, and whether the appeal raises a genuine issue of merit — and an extension is not automatic even for an understandable calendaring error.",
+      "D": "The time to appeal is 60 days from the date of the order for final judgments; service on May 14 — 43 days after April 1 — is within the 60-day window and the notice of appeal is timely."
     },
     "correct_answer": "C",
-    "explanation": "Under r.61.04(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a notice of appeal to the Court of Appeal shall be served and filed within 30 days of the date of the order appealed from. Where a party has not filed within 30 days, the court may extend the time to appeal under r.3.02. Courts consider several factors in deciding whether to extend time: (1) the length of the delay; (2) the reason for the delay (whether it was inadvertent or deliberate); (3) whether the intended appellant has shown that the appeal has merit (i.e., a prima facie ground for the appeal); (4) prejudice to the respondent from granting the extension; and (5) whether refusing the extension would cause a substantial injustice. An extension is not automatic even for an administrative error — the court considers all factors in the interests of justice.",
-    "why_A_wrong": "The time to appeal is 30 days, not 60 days. An extension is also not automatic upon showing an administrative error; the court weighs all relevant factors.",
-    "why_B_wrong": "The court does have power to extend the time to appeal under r.3.02. The expiry of the appeal period does not permanently extinguish the right to appeal; it requires a court order extending time.",
-    "why_C_wrong": "This IS the correct answer. The time to appeal is 30 days under r.61.04(1); extensions are available under r.3.02 upon consideration of delay length, reason, prejudice, and merit.",
-    "why_D_wrong": "The time to appeal is 30 days, not 15 days. The right to appeal is not permanently and irrevocably forfeited after 15 days; an extension of time may be sought under r.3.02.",
+    "explanation": "Under r.61.04(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a notice of appeal shall be served and filed within 30 days after the date of the order or decision appealed from. The 30-day clock begins on the date the order is made — here April 1, the date of judgment — not on the date the formal written order is signed or entered by the registrar. This is a common Wrong Timeline Trap: counsel who tracks time from the entry date (April 16) rather than the order date (April 1) will miscalculate the deadline. The notice of appeal served on May 14 is 43 days after April 1 and is therefore 13 days out of time. The court may extend the time to appeal under r.3.02 on such terms as are just, weighing: (1) the length of the delay; (2) the reason for the delay and whether it was inadvertent; (3) whether the proposed appeal raises a genuine issue of merit; (4) prejudice to the respondent from the extension; and (5) the overall interests of justice. An administrative or calendaring error is a relevant — but not automatically sufficient — reason; courts balance all factors and extensions are not granted as of course.",
+    "why_A_wrong": "The 30-day period runs from the date the order is made, not from the date the formal written order is signed and entered. Tracking time from the entry date (April 16) is the most common calendaring error in appeals practice and is incorrect. Calculating 28 days from April 16 does not cure the fact that 43 days have elapsed since the April 1 judgment. (Wrong Timeline Trap — running time from entry date rather than order date)",
+    "why_B_wrong": "There is no 15-day time to appeal for negligence actions or for any category of final order in Ontario civil proceedings. The standard period for appeals to the Court of Appeal under r.61.04(1) is 30 days for all final orders, without exception based on the type of claim. The 15-day figure is a fabricated shorter deadline designed to trap candidates who conflate appeal timelines with other short procedural windows. (Wrong Timeline Trap — 15 days does not exist for civil appeals)",
+    "why_C_wrong": "This IS the correct answer. The 30-day period under r.61.04(1) runs from the date the order is made (April 1), not from formal entry. The notice of appeal filed May 14 is 13 days late, and any extension is governed by the multi-factor r.3.02 discretionary test — it is not automatic.",
+    "why_D_wrong": "The time to appeal a final order to the Court of Appeal is 30 days, not 60 days. Sixty days is not the standard appeal period for civil final orders in Ontario. A candidate who conflates the 60-day period applicable in some other procedural contexts (such as certain statutory appeal timelines) with the r.61.04(1) period will be led to conclude the appeal is timely when it is not. (Wrong Timeline Trap — 60 days is not the r.61.04(1) period for civil appeals)",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -327,13 +327,28 @@
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.61.04(1); r.3.02"
     },
     "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["notice of appeal", "30 days", "r.61.04", "extend time", "r.3.02"],
-    "tested_concepts": ["30-day time to appeal — r.61.04(1)", "extension of time — r.3.02", "factors for extension: delay, reason, merit, prejudice"],
-    "estimated_time_seconds": 120,
+    "exam_trigger_words": [
+      "notice of appeal",
+      "30 days",
+      "r.61.04",
+      "extend time",
+      "r.3.02",
+      "date of order",
+      "entry date",
+      "out of time"
+    ],
+    "tested_concepts": [
+      "30-day time to appeal runs from date of order — not date of formal entry (r.61.04(1))",
+      "entry-date calendaring error — Wrong Timeline Trap",
+      "extension of time — r.3.02 multi-factor discretionary test",
+      "factors for extension: delay length, reason, prejudice, merit — not automatic",
+      "15-day and 60-day periods do not apply to civil final order appeals"
+    ],
+    "estimated_time_seconds": 135,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-13-app-003",

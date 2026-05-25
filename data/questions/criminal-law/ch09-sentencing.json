@@ -293,42 +293,42 @@
     "topic_id": "sentencing",
     "topic_heading": "Sentencing Principles and Purposes",
     "subtopic_id": "absolute_conditional_discharge",
-    "subtopic_heading": "Absolute and Conditional Discharges — s. 730",
+    "subtopic_heading": "Absolute and Conditional Discharges — s. 730 Eligibility",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "Sophie is a 24-year-old university student with no prior criminal record who pleads guilty to mischief under $5,000. The sentencing judge is considering whether to grant a discharge. The Crown is neutral; defence submits that a discharge is in the best interests of the accused and not contrary to the public interest.",
-    "call_of_question": "Under s. 730 of the Criminal Code, which of the following conditions must be met before a court may grant an absolute or conditional discharge?",
+    "fact_pattern": "Marcus is a 30-year-old with no prior criminal record who pleads guilty to assault causing bodily harm under s. 267(b) of the Criminal Code — a hybrid offence. The Crown proceeded by indictment. On an indictment, s. 267(b) carries a maximum of 10 years' imprisonment; no minimum sentence is prescribed for this offence. Marcus is a healthcare worker and submits that a criminal conviction would end his career. Defence applies for a conditional discharge under s. 730 of the Criminal Code.",
+    "call_of_question": "Is Marcus eligible for a conditional discharge under s. 730, and what is the most legally significant condition to assess on these facts?",
     "options": {
-      "A": "The accused must consent to the discharge and the Crown must not object.",
-      "B": "The accused must be a first offender under the age of 18.",
-      "C": "The offence must not be one for which a minimum punishment is prescribed and the maximum punishment must not be 14 years or more; the court must be satisfied that a discharge is in the best interests of the accused and not contrary to the public interest.",
-      "D": "The accused must have successfully completed a rehabilitation program before the discharge may be granted."
+      "A": "Marcus is ineligible because s. 730 is unavailable when the Crown has proceeded by indictment; discharges are limited to summary conviction proceedings.",
+      "B": "Marcus is ineligible because assault causing bodily harm is an offence of violence, and courts have held that discharges are categorically unavailable for violent offences.",
+      "C": "Marcus is eligible as a threshold matter — the offence carries no minimum and a maximum below 14 years — and the court must then assess whether a discharge is in his best interests and not contrary to the public interest.",
+      "D": "Marcus is ineligible because s. 730 requires the accused to be a first offender with no prior criminal record in any jurisdiction, and the Crown must consent."
     },
     "correct_answer": "C",
-    "explanation": "Section 730(1) of the Criminal Code provides that where an accused is convicted of an offence (other than one punishable by a minimum term of imprisonment or by imprisonment for 14 years or more, or for life, or for life as the minimum), the court may, if it considers it to be in the best interests of the accused and not contrary to the public interest, instead of convicting the accused, direct that the accused be discharged absolutely or conditionally. The discharge may be absolute (no conditions) or conditional (subject to a probation order). A discharge results in no conviction being registered despite a finding of guilt. Crown consent and completion of a rehabilitation program are not statutory preconditions.",
-    "why_A_wrong": "Crown consent is not a statutory prerequisite under s. 730. The Crown's position is a relevant consideration in the court's assessment of whether a discharge is contrary to the public interest, but the court may grant a discharge over Crown opposition.",
-    "why_B_wrong": "Section 730 is not limited to offenders under 18. There is no age restriction in the provision. Adults may receive discharges under s. 730 if the other conditions are met.",
-    "why_C_wrong": "This IS the correct answer. The conditions under s. 730(1) are: (1) the offence does not carry a minimum term of imprisonment or a maximum of 14 years or more or life; (2) a discharge is in the best interests of the accused; and (3) a discharge is not contrary to the public interest.",
-    "why_D_wrong": "Completion of a rehabilitation program is not a statutory precondition for a discharge under s. 730. Such programming may inform the court's assessment of whether a discharge is in the accused's best interests, but it is not a mandatory prerequisite.",
+    "explanation": "Section 730(1) of the Criminal Code creates two eligibility thresholds before the discretionary assessment begins: (1) the offence must not carry a mandatory minimum term of imprisonment; and (2) the maximum punishment must not be imprisonment for 14 years or more (or life). Assault causing bodily harm under s. 267(b), when prosecuted by indictment, carries a maximum of 10 years — below the 14-year threshold — and no mandatory minimum. Marcus therefore clears both eligibility hurdles. The mode of trial (indictment vs. summary) does not affect eligibility under s. 730; the section applies to any conviction for a qualifying offence regardless of how it was prosecuted. Once eligibility is confirmed, the court exercises its discretion by assessing (i) whether a discharge is in the best interests of the accused — on these facts, career consequences for a healthcare worker are highly relevant — and (ii) whether a discharge is not contrary to the public interest. Option C correctly identifies eligibility and the discretionary test.",
+    "why_A_wrong": "Section 730 does not limit discharges to summary conviction proceedings. The provision applies whenever an accused is 'convicted of an offence' that meets the eligibility criteria, regardless of whether the Crown proceeded summarily or by indictment. This is a Wrong Forum/Wrong Procedure Trap.",
+    "why_B_wrong": "There is no categorical rule barring discharges for all violent offences. Courts assess s. 730 applications for assault-related offences on their individual merits under the 'best interests / public interest' test. A categorical exclusion for violence would require a mandatory minimum or a 14-year-plus maximum — neither applies here. This is a General Rule Trap applied where no such rule exists.",
+    "why_C_wrong": "This IS the correct answer. Marcus clears the threshold eligibility criteria (no minimum, maximum below 14 years). The court must then apply the two-part discretionary test: best interests of the accused and not contrary to the public interest.",
+    "why_D_wrong": "Section 730 contains no age restriction and no requirement of a clean record in 'any jurisdiction.' It also does not require Crown consent — the court may grant a discharge even over Crown opposition, though the Crown's position is relevant to the public interest assessment. Framing Crown consent as a prerequisite is an Overstatement Trap.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
       "chapter": "Chapter 9: Sentencing",
       "heading": "Absolute and Conditional Discharges — s. 730",
       "page": "N/A",
-      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 730(1)"
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 267(b), s. 730(1)"
     },
     "pr_angle": {
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["discharge", "s. 730", "best interests of accused", "not contrary to public interest", "no conviction registered", "absolute discharge", "conditional discharge"],
-    "tested_concepts": ["s. 730(1) discharge conditions", "best interests of accused", "not contrary to public interest", "no minimum punishment or 14-year maximum required", "discharge vs conviction"],
-    "estimated_time_seconds": 90,
+    "exam_trigger_words": ["discharge", "s. 730", "best interests of accused", "not contrary to public interest", "no minimum", "14-year maximum threshold", "hybrid offence", "indictment", "conditional discharge"],
+    "tested_concepts": ["s. 730(1) eligibility threshold — no minimum, max below 14 years", "mode of trial does not affect eligibility", "no categorical bar for violent offences", "best interests vs public interest discretionary test", "career consequences in best-interests analysis"],
+    "estimated_time_seconds": 105,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-09-consec-001",
@@ -338,42 +338,42 @@
     "topic_id": "sentencing",
     "topic_heading": "Sentencing Principles and Purposes",
     "subtopic_id": "consecutive_concurrent",
-    "subtopic_heading": "Consecutive vs Concurrent Sentences",
+    "subtopic_heading": "Consecutive vs Concurrent Sentences — Totality Cap",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "Hugo is convicted of two counts of robbery on the same occasion — he robbed two different individuals at the same time and place. The sentencing judge must decide whether to impose consecutive or concurrent sentences.",
-    "call_of_question": "Which principle guides whether sentences for multiple offences should be served consecutively or concurrently?",
+    "fact_pattern": "Hugo is convicted of three counts of robbery targeting three separate victims at three different locations on the same evening. The sentencing judge finds each individual robbery warrants 3 years' imprisonment. The judge proposes to impose three consecutive terms of 3 years for a total of 9 years, reasoning that there were three distinct victims and three distinct criminal acts. Crown supports the approach. Defence submits that, given Hugo's background as a first-time offender with a serious substance-abuse disorder that drove the offending, 9 years would crush any realistic prospect of rehabilitation.",
+    "call_of_question": "Which sentencing principle most directly requires the judge to reassess the proposed 9-year total before imposing it?",
     "options": {
-      "A": "Sentences for offences arising from the same transaction must always be concurrent; consecutive sentences require the offences to arise from entirely separate events on different days.",
-      "B": "All sentences must be concurrent unless the Criminal Code expressly requires consecutive sentences for specific offences.",
-      "C": "The totality principle guides the determination: the court may impose consecutive sentences for separate offences, particularly where there were separate victims, but must ensure the total sentence does not exceed what is just and appropriate in all the circumstances.",
-      "D": "The court must always impose consecutive sentences for offences involving violence."
+      "A": "The parity principle, which requires that Hugo's sentence be similar to sentences imposed on similarly situated offenders for similar offences.",
+      "B": "The restraint principle, which prohibits any consecutive sentences for offences arising in the same criminal episode, regardless of the number of victims.",
+      "C": "The totality principle, which requires the court, after calculating the arithmetic sum of consecutive sentences, to step back and assess whether the total sentence is just and appropriate for the offender's overall culpability — and to reduce it if the total is unduly long or crushing.",
+      "D": "The proportionality principle standing alone, which requires only that each individual sentence be proportionate to the gravity of that offence and the degree of responsibility of the offender."
     },
     "correct_answer": "C",
-    "explanation": "Under s. 718.2(c) of the Criminal Code, the court must take into account the principle that where consecutive sentences are imposed, the combined sentence should not be unduly long or harsh — this is the totality principle. Where multiple offences involve separate victims or distinct criminal acts, consecutive sentences may be appropriate to reflect the seriousness of each offence. However, the totality principle requires the court to review the total sentence and ensure it does not exceed what is a just and proportionate overall sentence for the offender's total culpability. On these facts, with two separate victims in the same robbery event, the court may consider consecutive or concurrent sentences, guided by the totality principle.",
-    "why_A_wrong": "Offences arising from the same transaction may still attract consecutive sentences in appropriate cases — particularly where there are separate victims. The 'same transaction' is a factor but does not mandate concurrent sentences as an absolute rule.",
-    "why_B_wrong": "Concurrent sentences are not universally required unless a Criminal Code provision expressly requires consecutive sentences. The court has discretion under s. 718.2 and the totality principle to impose either consecutive or concurrent sentences based on the circumstances.",
-    "why_C_wrong": "This IS the correct answer. The totality principle under s. 718.2(c) guides the court in balancing consecutive vs concurrent sentences, ensuring the overall sentence is just and proportionate.",
-    "why_D_wrong": "There is no absolute rule requiring consecutive sentences for violent offences. The court's discretion, guided by the totality principle and the circumstances of each case, governs. Mandatory consecutive sentences apply in specific statutory circumstances (e.g., some firearm offences) but not universally for all violent offences.",
+    "explanation": "Section 718.2(c) of the Criminal Code codifies the totality principle: a court that imposes consecutive sentences must ensure the combined sentence is not unduly long or harsh. The totality principle operates as a cap that comes into play after the judge calculates the arithmetic total of individually appropriate consecutive terms. Even where each individual sentence is proportionate to its offence (here, 3 years per robbery), the judge must step back and ask whether the total — 9 years — is a just and proportionate overall sentence for this offender's total culpability. Where the total crushes realistic prospects of rehabilitation for a first-time offender, the judge should reduce the total, typically by adjusting one or more individual terms or converting some sentences to concurrent. The parity principle (Option A) is a separate consideration — relevant but not the one most directly triggered by the arithmetic-total problem. The restraint principle (Option B) does not categorically prohibit consecutive sentences for multi-victim offences. Proportionality (Option D) governs individual sentence calibration but does not perform the totality review that is specifically required by s. 718.2(c).",
+    "why_A_wrong": "The parity principle (s. 718.2(b)) requires similar sentences for similar offenders for similar offences. While relevant context, it does not directly address the problem that the arithmetic sum of individually proportionate consecutive sentences may itself be excessive. This is a Misapplied Tool trap — parity is real, but totality is the principle that specifically requires review of the total.",
+    "why_B_wrong": "The restraint principle does not categorically prohibit consecutive sentences for offences committed in the same criminal episode. Where there are separate victims and distinct criminal acts, consecutive sentences may be entirely appropriate. Stating otherwise is an Overstatement Trap.",
+    "why_C_wrong": "This IS the correct answer. The totality principle under s. 718.2(c) requires the court to step back after calculating the arithmetic sum of consecutive sentences and assess whether the total is just and appropriate — reducing it if the cumulative effect is unduly harsh for the offender's overall culpability.",
+    "why_D_wrong": "Proportionality (s. 718.1) ensures each sentence is calibrated to the offence and the offender's responsibility. But it operates at the individual-sentence level. The totality principle is specifically designed for the additional step of reviewing the combined effect of multiple consecutive sentences — proportionality alone does not perform that review. Relying on proportionality alone while ignoring totality is an Understatement Trap.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
       "chapter": "Chapter 9: Sentencing",
       "heading": "Consecutive vs Concurrent Sentences — Totality Principle",
       "page": "N/A",
-      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 718.2(c)"
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 718.1, s. 718.2(b), s. 718.2(c)"
     },
     "pr_angle": {
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["consecutive sentences", "concurrent sentences", "totality principle", "s. 718.2(c)", "separate victims", "just and appropriate"],
-    "tested_concepts": ["totality principle s. 718.2(c)", "consecutive vs concurrent determination", "separate victims factor", "overall sentence must be just and proportionate"],
-    "estimated_time_seconds": 90,
+    "exam_trigger_words": ["consecutive sentences", "totality principle", "s. 718.2(c)", "unduly long or harsh", "step back", "crushing", "separate victims", "just and appropriate"],
+    "tested_concepts": ["totality principle s. 718.2(c)", "arithmetic-total review step", "distinction between proportionality and totality", "parity vs totality", "totality cap for first-time offenders"],
+    "estimated_time_seconds": 105,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-09-credit-001",
