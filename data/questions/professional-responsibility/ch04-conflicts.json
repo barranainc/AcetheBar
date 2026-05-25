@@ -1000,5 +1000,390 @@
       "obligation is on quality of recommendation not whether client obtains advice"
     ],
     "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-04-own-int-003",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "own_interest_conflict",
+    "subtopic_heading": "Lawyer's Own Interest Conflict — Sexual or Romantic Relationship — Rule 3.4-27",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Hugo has represented a client in a contentious divorce proceeding for six months. During this time, Hugo has developed strong romantic feelings for the client. The client has expressed similar feelings and is willing to pursue a romantic relationship during the retainer. Hugo reasons that because the relationship is consensual and mutually initiated, there is no professional responsibility barrier to proceeding, and he continues to represent the client while entering into the romantic relationship.",
+    "call_of_question": "Which of the following best states the professional responsibility problem with Hugo's reasoning under Rule 3.4-27?",
+    "options": {
+      "A": "There is no professional responsibility problem — mutual consent between an adult client and a lawyer fully satisfies Rule 3.4-27.",
+      "B": "Rule 3.4-27 prohibits a sexual or romantic relationship with a current client where the relationship arises from or may affect the representation; consent is not a defence; Hugo's own-interest conflict is per se non-consentable when the relationship arises in the context of the retainer and where the client's emotional vulnerability is present.",
+      "C": "Hugo may proceed if he obtains written consent from the client and discloses the relationship to the Law Society of Ontario.",
+      "D": "The professional responsibility concern disappears once the romantic relationship is formalized, because the parties then have an additional relationship that overrides the professional one."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.4-27 treats a sexual or romantic relationship with a current client as an own-interest conflict where the relationship arises from the lawyer-client relationship or may adversely affect the representation. The rule recognizes the power imbalance inherent in the lawyer-client relationship, particularly in emotionally sensitive matters like divorce proceedings. Mutual consent and willingness of the client are not a defence — the concern is the structural exploitation of the client's vulnerable position and the impairment of the lawyer's independent judgment. This type of conflict is not curable by the client's consent.",
+    "why_A_wrong": "Incorrect. Mutual consent does not eliminate the professional responsibility concern. Rule 3.4-27 is not a consent-curable rule because it addresses structural power imbalance and the impairment of independent judgment, not merely whether the client is agreeable.",
+    "why_B_wrong": "This IS the correct answer. Rule 3.4-27 prohibits a sexual or romantic relationship with a current client where the relationship arises from or may affect the representation; consent is not a defence; Hugo's own-interest conflict is per se non-consentable when the relationship arises in the context of the retainer and where the client's emotional vulnerability is present.",
+    "why_C_wrong": "Incorrect. There is no LSO disclosure mechanism that authorizes romantic relationships with current clients. Written consent and LSO notification do not cure the Rule 3.4-27 prohibition.",
+    "why_D_wrong": "Incorrect. A romantic relationship does not supersede the professional relationship — both co-exist during the retainer, and the professional obligations remain fully operative.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-27 (sexual or romantic relationship with client)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "own-interest conflict — romantic relationship — non-consentable"
+    },
+    "exam_trigger_words": [
+      "romantic relationship",
+      "current client",
+      "consent not a defence",
+      "Rule 3.4-27",
+      "non-consentable"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-27 — romantic relationship with client is own-interest conflict",
+      "consent does not cure Rule 3.4-27 prohibition",
+      "power imbalance — divorce proceedings — client vulnerability"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-04-own-int-004",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "own_interest_conflict",
+    "subtopic_heading": "Lawyer's Own Interest Conflict — Borrowing from Client — Rule 3.4-28",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Iris is in financial difficulty and asks her client, a wealthy individual, if the client would lend her $50,000 personally to help Iris cover her law firm's operating costs. The client agrees and says he trusts Iris completely. The client does not seek any independent advice about the loan. Iris drafts the loan agreement herself and signs it with the client. She does not advise the client to obtain independent legal advice before signing.",
+    "call_of_question": "What is Iris's professional responsibility exposure arising from borrowing money from her client?",
+    "options": {
+      "A": "Iris has no exposure — borrowing money from a client is a private financial arrangement between consenting adults that is outside the scope of the Rules of Professional Conduct.",
+      "B": "Iris has an own-interest conflict; under the Rules of Professional Conduct, a lawyer must not borrow money from a client unless the client is an institution that regularly lends money in the ordinary course of its business; borrowing from an individual client is effectively prohibited and creates a serious conflict.",
+      "C": "Iris may borrow from her client as long as the loan bears a commercially reasonable interest rate and the terms are documented.",
+      "D": "Iris is only exposed if she defaults on the loan — until default occurs, no professional responsibility concern arises."
+    },
+    "correct_answer": "B",
+    "explanation": "The LSO Rules of Professional Conduct and the Commentary to Rule 3.4 provide that a lawyer must not borrow money from a client unless the client is a lending institution in the business of lending money (such as a bank). Borrowing from an individual client creates a paradigmatic own-interest conflict because the lawyer's financial need may consciously or unconsciously distort the legal advice given to the client-lender. The conflict is structural and is not cured by the client's willingness to lend or by documentation of the loan terms. Additionally, Iris's failure to recommend that the client obtain independent legal advice about the loan compounds the breach.",
+    "why_A_wrong": "Incorrect. The lawyer-client relationship imposes professional obligations that do not disappear simply because the transaction is nominally private. Borrowing from clients is regulated by the own-interest conflict provisions.",
+    "why_B_wrong": "This IS the correct answer. Iris has an own-interest conflict; under the Rules of Professional Conduct, a lawyer must not borrow money from a client unless the client is an institution that regularly lends money in the ordinary course of its business; borrowing from an individual client is effectively prohibited and creates a serious conflict.",
+    "why_C_wrong": "Incorrect. Commercially reasonable terms and documentation do not cure the prohibition on borrowing from individual clients. The conflict is structural, not contractual.",
+    "why_D_wrong": "Incorrect. The professional responsibility concern arises at the time the conflict is created — the borrowing itself — not at the time of default. The conflict impairs the lawyer's independence from the moment the financial relationship is entered into.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-28 (borrowing from clients)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "own-interest conflict — borrowing from client"
+    },
+    "exam_trigger_words": [
+      "borrow money",
+      "borrowing from client",
+      "lending institution exception",
+      "own-interest conflict",
+      "Rule 3.4-28"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-28 — prohibition on borrowing from clients",
+      "exception: client is an institution that regularly lends money",
+      "own-interest conflict arises at time of borrowing not default"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-04-biz-txn-002",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "business_transaction_client",
+    "subtopic_heading": "Business Transactions with Client — Independent Legal Advice — Rule 3.4-28",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Jerome is advising a startup client on its corporate governance. The client invites Jerome to invest $30,000 in the company's seed round in exchange for equity. Jerome is excited about the opportunity. He discloses his interest in writing and ensures the investment terms are on the same basis as all other seed investors. He strongly advises the client in writing to seek independent legal advice before completing the transaction. The client acknowledges the advice in writing but declines to obtain ILA, saying he trusts Jerome. Jerome proceeds with the investment without confirming that ILA was obtained or formally waived.",
+    "call_of_question": "Has Jerome adequately fulfilled his obligations under the Rules of Professional Conduct governing business transactions with clients?",
+    "options": {
+      "A": "Yes — Jerome has done everything required: written disclosure, fair terms, and a written recommendation to seek ILA.",
+      "B": "No — while Jerome met the disclosure and fairness requirements, he should also have confirmed in writing either that the client obtained independent legal advice or that the client consciously and explicitly waived that right with full understanding of the consequences; proceeding without this confirmation leaves the transaction inadequately protected.",
+      "C": "Yes — because the client acknowledged the ILA recommendation in writing, Jerome's obligations are fully satisfied regardless of whether the client actually obtained ILA.",
+      "D": "No — investing in a client's company is always prohibited under the Rules of Professional Conduct regardless of disclosure or consent."
+    },
+    "correct_answer": "B",
+    "explanation": "When a lawyer enters into a business transaction with a client, the Commentary to Rule 3.4 and the LSO's guidance require not only written disclosure and fair terms, but also confirmation that the client either obtained independent legal advice from an independent lawyer or explicitly waived that right in writing with full understanding of the risk. Merely recommending ILA and receiving an acknowledgement that the client declines is insufficient — the waiver should be explicitly documented, and the client should demonstrate an understanding of what is being waived. Jerome's failure to secure a written waiver or confirmation of ILA leaves the transaction open to challenge.",
+    "why_A_wrong": "Incorrect. The three steps Jerome took (written disclosure, fair terms, written ILA recommendation) are necessary but not sufficient. The client's receipt of the recommendation must be followed by either confirmation of ILA obtained or an explicit, documented waiver.",
+    "why_B_wrong": "This IS the correct answer. While Jerome met the disclosure and fairness requirements, he should also have confirmed in writing either that the client obtained independent legal advice or that the client consciously and explicitly waived that right with full understanding of the consequences; proceeding without this confirmation leaves the transaction inadequately protected.",
+    "why_C_wrong": "Incorrect. Acknowledging the recommendation in writing is not the same as obtaining ILA or formally waiving it. The client's acknowledgement is merely a receipt, not a properly documented waiver with demonstrated understanding of the consequences.",
+    "why_D_wrong": "Incorrect. A lawyer investing in a client's business is not categorically prohibited. The transaction is permissible if all the required protective steps are followed rigorously.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-28; Commentary to Rule 3.4 (business transactions with clients — ILA confirmation)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict of interest — business transaction — ILA waiver"
+    },
+    "exam_trigger_words": [
+      "business transaction",
+      "invest in client",
+      "independent legal advice",
+      "written waiver",
+      "Rule 3.4-28"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-28 — business transaction with client — ILA confirmation required",
+      "written waiver or confirmation of ILA obtained",
+      "acknowledgement of recommendation is not a documented waiver"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-04-former-cl-003",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "former_client_conflict",
+    "subtopic_heading": "Former Client Conflicts — Specific Relevant Confidential Information — Rule 3.4-10",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Kwame briefly met with a potential client, Hartley, four years ago for a 30-minute initial consultation. No retainer was formed and no legal services were provided. Hartley disclosed that he was generally involved in the import business and was concerned about a potential commercial dispute with a supplier. No specific confidential information about the dispute was provided. Kwame now receives a request from a company to sue Hartley in an unrelated commercial matter involving a real estate lease. Kwame assumes he cannot act because he met with Hartley previously.",
+    "call_of_question": "Is Kwame correct that his prior consultation with Hartley automatically bars him from acting against Hartley?",
+    "options": {
+      "A": "Yes — any prior meeting with a person, even without a formal retainer, creates an automatic former-client conflict that bars subsequent adverse representation.",
+      "B": "No — the test under Rule 3.4-10 is whether Kwame received confidential information from Hartley that is relevant to the new matter; a brief consultation in which only general business information was shared and no retainer formed may not create a conflict, particularly where the new matter is entirely unrelated; Kwame must carefully assess whether any relevant confidential information was received.",
+      "C": "Yes — the duty of loyalty to former clients applies regardless of whether confidential information was actually received.",
+      "D": "No — because no retainer was formed, Kwame has no professional obligations to Hartley whatsoever and the Rules of Professional Conduct do not apply."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.4-10 asks whether the lawyer received confidential information from the former client that is relevant to the new matter. The rule does not impose a blanket prohibition on any prior contact. A brief initial consultation in which only general business background was shared, no retainer was formed, and the new matter is entirely unrelated may not generate a former-client conflict. The exam trap is assuming that any prior meeting automatically disqualifies the lawyer. Kwame must analyze whether the specific information he received is relevant to the new real estate dispute — if not, the conflict may not exist. However, if any specific confidential information was received even in the consultation, the analysis changes.",
+    "why_A_wrong": "Incorrect. Rule 3.4-10 requires that confidential information relevant to the new matter was received — prior contact alone is not sufficient to create a former-client conflict. An initial consultation without exchange of relevant confidential information does not automatically bar the lawyer.",
+    "why_B_wrong": "This IS the correct answer. The test under Rule 3.4-10 is whether Kwame received confidential information from Hartley that is relevant to the new matter; a brief consultation in which only general business information was shared and no retainer formed may not create a conflict, particularly where the new matter is entirely unrelated; Kwame must carefully assess whether any relevant confidential information was received.",
+    "why_C_wrong": "Incorrect. The duty of loyalty to former clients under Rule 3.4-10 is triggered by the receipt of relevant confidential information, not by the existence of any prior relationship. General knowledge of someone's business does not, standing alone, create the conflict.",
+    "why_D_wrong": "Incorrect. Even without a formal retainer, a lawyer who meets with a potential client may owe professional obligations if confidential information was disclosed. The absence of a retainer is not a complete answer — the question is whether relevant confidential information was received.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-10 (former client — relevant confidential information test)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "former client conflict — confidential information test"
+    },
+    "exam_trigger_words": [
+      "initial consultation",
+      "no retainer",
+      "former client",
+      "relevant confidential information",
+      "Rule 3.4-10"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-10 — test is relevant confidential information, not mere prior contact",
+      "initial consultation without retainer — conditional conflict analysis",
+      "general business knowledge alone does not bar adverse representation"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-04-former-cl-004",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "former_client_conflict",
+    "subtopic_heading": "Former Client — Same Matter vs. Related Matter vs. Unrelated Matter",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Lena previously represented NovaCo Ltd. in negotiating a five-year commercial lease for office space in 2023. The retainer concluded when the lease was signed. NovaCo received no other legal services from Lena. In 2026, Apex Inc. asks Lena to assist it in a trade-mark registration for a new product line — a matter that has nothing to do with commercial real estate, leases, or NovaCo's business.",
+    "call_of_question": "Under Rule 3.4-10, does a former-client conflict prevent Lena from acting for Apex Inc. in the trade-mark registration matter?",
+    "options": {
+      "A": "Yes — acting for any new client while a former client still exists is automatically a conflict under Rule 3.4-10.",
+      "B": "Yes — Lena represented NovaCo in a commercial transaction, so any commercial legal work she does for any other client is a related matter.",
+      "C": "No — acting against a former client in a completely unrelated matter does not, by itself, create a conflict under Rule 3.4-10; the test requires that the new matter be the same as or related to the prior matter and that relevant confidential information was received; a trade-mark registration for a different company on an unrelated subject creates no former-client conflict based on the prior lease retainer alone.",
+      "D": "No — because NovaCo consented to Lena accepting new clients when it retained her in 2023."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.4-10 bars a lawyer from acting against a former client only in the same or a related matter where confidential information from the prior retainer is relevant. Where the new matter is entirely unrelated to the prior representation — different client, different subject matter, no shared confidential information — there is no former-client conflict. Lena's prior lease work for NovaCo does not disqualify her from doing trade-mark work for a different company on an unrelated matter. The rule does not impose a lifetime bar on acting against all former clients in any matter.",
+    "why_A_wrong": "Incorrect. Rule 3.4-10 does not create an absolute bar on acting whenever a former client exists. The bar applies only to the same or related matters involving relevant confidential information.",
+    "why_B_wrong": "Incorrect. 'Commercial transaction' is too broad a characterization to constitute a 'related matter.' The relatedness test looks at whether the confidential information from the prior retainer could be used against the former client in the new matter — here, it plainly cannot.",
+    "why_C_wrong": "This IS the correct answer. Acting against a former client in a completely unrelated matter does not, by itself, create a conflict under Rule 3.4-10; the test requires that the new matter be the same as or related to the prior matter and that relevant confidential information was received; a trade-mark registration for a different company on an unrelated subject creates no former-client conflict based on the prior lease retainer alone.",
+    "why_D_wrong": "Incorrect. Former-client conflicts are not waived by an implied or express consent given at the time of an earlier retainer. The analysis depends on the actual scope of the conflict, not historical consent.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-10 (same or related matter — unrelated matter does not create conflict)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "former client conflict — unrelated matter — no conflict"
+    },
+    "exam_trigger_words": [
+      "former client",
+      "unrelated matter",
+      "Rule 3.4-10",
+      "same or related matter",
+      "no conflict"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-10 — no bar on acting against former client in completely unrelated matter",
+      "same or related matter test — unrelated matter fails the test",
+      "Rule 3.4-10 does not create a lifetime absolute bar"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-04-screen-001",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "ethical_screen",
+    "subtopic_heading": "Ethical Screens — Migrating Lawyers and Firm-Wide Conflicts",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Petra joins a new law firm, BrightLaw LLP. At her previous firm, Petra acted for DeltaCorp in a commercial dispute against Omega Ltd. BrightLaw currently represents Omega Ltd. in the same dispute. BrightLaw's managing partner says the firm can resolve the conflict by implementing an ethical screen around Petra — she will have no involvement in the Omega file, will be physically separated from the Omega team, will receive no financial benefit from the Omega matter, and will be instructed not to discuss the matter with anyone at the firm. BrightLaw proposes to put the screen in place immediately upon Petra's arrival.",
+    "call_of_question": "Which of the following best describes the conditions under which an ethical screen may be effective for a migrating lawyer in Ontario under the Rules of Professional Conduct?",
+    "options": {
+      "A": "Ethical screens are never effective in Ontario — a law firm cannot cure a migrating lawyer's conflict through any internal arrangement.",
+      "B": "An ethical screen may be effective if it is erected immediately upon the lawyer's arrival at the new firm, the conflicted lawyer is fully excluded from the matter and receives no financial benefit from it, no confidential information has been shared, and the screen genuinely prevents any transfer of information; the screen must be timely, rigorous, and genuine.",
+      "C": "An ethical screen is always effective for migrating lawyers — any internal barrier completely resolves all conflicts brought from a prior firm.",
+      "D": "An ethical screen is effective only if the former client (DeltaCorp) provides written consent to the screen arrangement."
+    },
+    "correct_answer": "B",
+    "explanation": "The LSO Rules of Professional Conduct recognize that ethical screens can, in some circumstances, resolve conflicts arising from a lawyer migrating from one firm to another. The conditions for an effective screen include: the screen must be erected immediately upon the lawyer's arrival (not after confidential information has already been shared); the conflicted lawyer must be completely excluded from the matter; the conflicted lawyer must receive no financial benefit from the conflicted retainer; no confidential information may have transferred before the screen was established; and the screen must be genuine and rigorously maintained. Screens are not effective in all circumstances — if confidential information was already transmitted, or if the screen is implemented late or imperfectly, it will not cure the conflict.",
+    "why_A_wrong": "Incorrect. Ethical screens are recognized in Ontario as a potential mechanism to resolve conflicts from migrating lawyers in appropriate circumstances. They are not categorically ineffective.",
+    "why_B_wrong": "This IS the correct answer. An ethical screen may be effective if it is erected immediately upon the lawyer's arrival at the new firm, the conflicted lawyer is fully excluded from the matter and receives no financial benefit from it, no confidential information has been shared, and the screen genuinely prevents any transfer of information; the screen must be timely, rigorous, and genuine.",
+    "why_C_wrong": "Incorrect. Screens are not automatically effective in all circumstances. Timing, completeness, and genuine implementation are essential. A screen cannot undo confidential information already transferred.",
+    "why_D_wrong": "Incorrect. While former-client consent may sometimes be sought, it is not a universal requirement for an ethical screen to be effective. The screen's effectiveness turns on the conditions of its implementation, not exclusively on consent.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4 Commentary — ethical screens and migrating lawyers"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict — ethical screen — migrating lawyer"
+    },
+    "exam_trigger_words": [
+      "ethical screen",
+      "migrating lawyer",
+      "Chinese wall",
+      "immediate screen",
+      "no financial benefit"
+    ],
+    "tested_concepts": [
+      "ethical screen conditions — immediate, complete, no information transfer, no financial benefit",
+      "screens are not universally effective — timing and completeness matter",
+      "screen cannot cure conflict where confidential information already transferred"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-04-consent-001",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "consent_to_conflict",
+    "subtopic_heading": "Consenting to a Conflict — Requirements for Valid Consent — Rule 3.4-5",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Orla discloses a conflict of interest to her client, Remy, in a short email: 'I want to let you know there is a conflict. I can still act for you. Please sign below if you agree.' Remy signs the email and returns it. Orla proceeds to act for Remy. Later, Remy complains that he did not understand the nature or extent of the conflict or its potential impact on his case when he signed the email.",
+    "call_of_question": "Was Remy's consent a valid consent to the conflict under Rule 3.4-5?",
+    "options": {
+      "A": "Yes — Remy signed the document confirming his consent; written consent is always valid regardless of what was disclosed.",
+      "B": "No — for consent to a conflict to be valid under Rule 3.4-5, the client must be fully informed of the nature and extent of the conflict, must understand the material risks of the representation proceeding despite the conflict, and must provide consent in writing after receiving that disclosure; a vague email that does not explain the nature or impact of the conflict does not constitute adequate disclosure for valid consent.",
+      "C": "Yes — Orla made written disclosure and obtained written consent; the Rules require nothing more.",
+      "D": "No — consent to a conflict can never be obtained by email; it must be provided in person before a commissioner of oaths."
+    },
+    "correct_answer": "B",
+    "explanation": "Valid consent to a conflict under Rule 3.4-5 requires more than a client's signature on a document — it requires that the client be truly informed. The lawyer must disclose the specific nature of the conflict, its extent, the material risks of proceeding, and the implications for the client's representation. Disclosure must be sufficiently specific that a reasonable client in the same position could make a genuinely informed decision. A vague email that says only 'there is a conflict' and 'I can still act for you' fails this standard. If the client does not understand what is being consented to, the consent is not informed and therefore not valid.",
+    "why_A_wrong": "Incorrect. A client's signature on a document does not, without more, constitute valid consent. The consent must be informed — meaning the client must understand the nature and extent of the conflict before signing.",
+    "why_B_wrong": "This IS the correct answer. For consent to a conflict to be valid under Rule 3.4-5, the client must be fully informed of the nature and extent of the conflict, must understand the material risks of the representation proceeding despite the conflict, and must provide consent in writing after receiving that disclosure; a vague email that does not explain the nature or impact of the conflict does not constitute adequate disclosure for valid consent.",
+    "why_C_wrong": "Incorrect. The Rules require adequate substantive disclosure, not merely a form of writing. The content of the disclosure — the nature, extent, and risks of the conflict — is what makes consent valid, not the medium.",
+    "why_D_wrong": "Incorrect. There is no requirement that consent to a conflict be given in person before a commissioner of oaths. Written consent through appropriate means (including email) is permissible, provided it follows adequate disclosure.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-5 (informed consent — requirements for valid consent)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict — valid informed consent requirements"
+    },
+    "exam_trigger_words": [
+      "informed consent",
+      "valid consent",
+      "nature and extent of conflict",
+      "Rule 3.4-5",
+      "disclosure adequacy"
+    ],
+    "tested_concepts": [
+      "Rule 3.4-5 — valid consent requires full disclosure of nature, extent, and risks",
+      "signature alone does not constitute informed consent",
+      "vague disclosure is insufficient for valid conflict consent"
+    ],
+    "estimated_time_seconds": 90
   }
 ]

@@ -309,5 +309,250 @@
       "courts may enforce undertaking; LSO may discipline for breach"
     ],
     "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-10-reliance-001",
+    "chapter_number": 10,
+    "chapter_title": "Undertakings",
+    "topic_id": "undertakings",
+    "topic_heading": "Undertakings — Rule 7.2-11",
+    "subtopic_id": "reliance_on_undertaking",
+    "subtopic_heading": "Reliance on Opposing Counsel's Undertaking — Professional Enforceability",
+    "difficulty": "easy",
+    "fact_pattern": "In a commercial real estate transaction, Lawyer Asha is acting for the purchaser. The vendor's lawyer, opposing counsel in the transaction, gives a written undertaking that the existing first mortgage on the property will be discharged within 10 business days of closing. Relying on this undertaking, Asha advises her client to close without receiving a discharge statement. Twelve days after closing, the mortgage has not been discharged. Asha's client asks whether the undertaking can be enforced and whether a court order is required.",
+    "call_of_question": "Is a lawyer's undertaking enforceable as a professional commitment without requiring a separate court order, and what mechanisms are available when an undertaking is not honored?",
+    "options": {
+      "A": "No — a lawyer's undertaking is enforceable only if it is contained in a signed contract between the parties; without a contract, the undertaking has no legal force.",
+      "B": "Yes — a lawyer's undertaking is enforceable as a personal professional commitment; the receiving lawyer may rely on the undertaking without requiring a court order; when the undertaking is not honored, the receiving lawyer may report the breach to the LSO and may seek court enforcement of the undertaking as a summary proceeding.",
+      "C": "No — the receiving lawyer bears the risk of relying on an undertaking; if the other lawyer does not perform, the only remedy is a civil claim for damages.",
+      "D": "Yes — but the undertaking can only be enforced by the LSO disciplinary process; courts have no jurisdiction to enforce a lawyer's undertaking directly."
+    },
+    "correct_answer": "B",
+    "explanation": "A lawyer's undertaking is a solemn personal commitment that is enforceable as a professional obligation without requiring a separate underlying contract. Courts in Ontario have recognized their inherent jurisdiction to summarily enforce lawyers' undertakings — a receiving lawyer can seek a court order compelling performance without going through the full civil litigation process. In addition, a breach of undertaking can be reported to the LSO as professional misconduct. The receiving lawyer is entitled to rely on the undertaking as a professional commitment and bears no obligation to demand additional security. Both avenues — LSO complaint and court enforcement — are available when an undertaking is not honored.",
+    "why_A_wrong": "Incorrect. A lawyer's undertaking does not require a formal contract to be enforceable. It is enforceable as a personal professional commitment by the giving lawyer, and courts recognize their inherent jurisdiction to enforce it summarily.",
+    "why_B_wrong": "This IS the correct answer. Yes — a lawyer's undertaking is enforceable as a personal professional commitment; the receiving lawyer may rely on the undertaking without requiring a court order; when the undertaking is not honored, the receiving lawyer may report the breach to the LSO and may seek court enforcement of the undertaking as a summary proceeding.",
+    "why_C_wrong": "Incorrect. The receiving lawyer does not bear the full risk of non-performance when relying on a professional undertaking. Court enforcement and LSO complaints are available. Civil damages may also be recoverable, but they are not the exclusive remedy.",
+    "why_D_wrong": "Incorrect. Courts have inherent jurisdiction to enforce lawyers' undertakings directly — this is not limited to the LSO disciplinary process. Court enforcement and LSO proceedings are both available.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 10",
+      "heading": "Undertakings",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-11 Commentary (reliance on undertaking; court enforcement and LSO discipline)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "reliance on opposing counsel's undertaking — enforceability and remedies"
+    },
+    "exam_trigger_words": ["reliance", "undertaking", "enforceable", "court enforcement", "LSO complaint", "Rule 7.2-11"],
+    "tested_concepts": [
+      "Rule 7.2-11 Commentary — undertaking enforceable without separate contract",
+      "courts have inherent jurisdiction to summarily enforce lawyer's undertaking",
+      "receiving lawyer may rely on undertaking without additional security"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-10-cond-001",
+    "chapter_number": 10,
+    "chapter_title": "Undertakings",
+    "topic_id": "undertakings",
+    "topic_heading": "Undertakings — Rule 7.2-11",
+    "subtopic_id": "trust_conditions_new_scenario",
+    "subtopic_heading": "Receiving Documents Subject to Trust Conditions — Must Comply or Return — Rule 7.2-11",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Brett receives a package of confidential financial records from opposing counsel in a civil dispute, accompanied by a trust condition letter stating: 'These documents are produced to you on the condition that they will be used solely for the purposes of this litigation and will not be shared with any third parties or used for any collateral purpose.' Brett reviews the documents and realizes they contain highly useful information for a different matter he is handling for a related client. He decides to use the documents for that other matter while retaining them for the current litigation.",
+    "call_of_question": "Is Brett's use of the documents for the collateral matter consistent with the trust condition imposed when the documents were delivered?",
+    "options": {
+      "A": "Yes — once documents are received by a lawyer in litigation, they may be used for any legitimate legal purpose; trust conditions are advisory only and cannot restrict how a receiving lawyer uses documents.",
+      "B": "No — a trust condition received by a lawyer is a binding professional obligation; Brett must use the documents only for the purpose specified in the condition; using them for any other matter is a breach of the trust condition and may constitute professional misconduct.",
+      "C": "Yes — as long as Brett keeps the documents confidential and does not share them externally, he may use them for related matters; the trust condition only restricts disclosure to third parties.",
+      "D": "No — but Brett's only obligation is to return the documents once they are no longer needed for the current litigation; he may use them for the collateral matter in the interim."
+    },
+    "correct_answer": "B",
+    "explanation": "A trust condition received by a lawyer creates a binding professional obligation on the receiving lawyer to use the materials only in accordance with the terms of the condition. The condition here is clear: sole use for this litigation, no use for collateral purposes. Brett's use of the documents for a different matter directly violates the trust condition. If Brett is unwilling to be bound by the conditions, his obligation is to return the documents immediately — he cannot accept the documents while rejecting the conditions attached to them. Using the documents in violation of the trust condition is a breach of a professional obligation and may expose Brett to professional misconduct proceedings.",
+    "why_A_wrong": "Incorrect. Trust conditions imposed by a sending lawyer on production of documents are not advisory — they are binding professional obligations on the receiving lawyer. A lawyer who accepts documents subject to conditions is bound by those conditions.",
+    "why_B_wrong": "This IS the correct answer. No — a trust condition received by a lawyer is a binding professional obligation; Brett must use the documents only for the purpose specified in the condition; using them for any other matter is a breach of the trust condition and may constitute professional misconduct.",
+    "why_C_wrong": "Incorrect. The trust condition prohibits use for any collateral purpose — not only disclosure to third parties. Using the documents internally for a different file is a collateral use prohibited by the condition, regardless of whether there is external disclosure.",
+    "why_D_wrong": "Incorrect. Brett cannot use the documents for the collateral matter even temporarily. The trust condition attaches upon receipt and restricts use from that moment. If Brett does not agree to the conditions, he must return the documents immediately — not use them and return them later.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 10",
+      "heading": "Undertakings",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-11 (trust conditions — receiving documents — must comply or return)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust conditions on documents — must comply with conditions or return documents immediately"
+    },
+    "exam_trigger_words": ["trust condition", "documents", "collateral purpose", "binding obligation", "Rule 7.2-11"],
+    "tested_concepts": [
+      "trust condition on documents is binding professional obligation on receiving lawyer",
+      "cannot use documents for purpose not specified in trust condition",
+      "must return documents if unwilling to comply with conditions"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-10-und-004",
+    "chapter_number": 10,
+    "chapter_title": "Undertakings",
+    "topic_id": "undertakings",
+    "topic_heading": "Undertakings — Rule 7.2-11",
+    "subtopic_id": "undertaking_to_third_parties",
+    "subtopic_heading": "Undertakings to Non-Lawyers — Same Binding Force — Rule 7.2-11",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Chen is acting for a borrower in a mortgage refinancing. The lender is not represented by a lawyer and is a private individual. To facilitate the transaction, Chen gives a written undertaking directly to the private lender that he will register the new mortgage on title within five business days of receiving the mortgage funds. Chen registers the mortgage on day eight due to a processing delay at the land registry office. The private lender complains that the undertaking was not honored.",
+    "call_of_question": "Does a lawyer's undertaking given directly to a non-lawyer (such as a private lender) carry the same binding professional force as one given to another lawyer?",
+    "options": {
+      "A": "No — the binding professional force of an undertaking depends on whether the recipient is a lawyer; undertakings given to non-lawyers are merely contractual promises with no special professional significance.",
+      "B": "Yes — a lawyer's undertaking carries the same binding professional force regardless of whether the recipient is a lawyer or a non-lawyer; Chen is professionally bound to honor the undertaking given to the private lender and a breach carries the same consequences as a breach of an undertaking to a fellow lawyer.",
+      "C": "No — undertakings to non-lawyers are enforceable only as contracts, not as professional obligations; the LSO has no jurisdiction over Chen's conduct toward the private lender.",
+      "D": "Yes — but the only consequence of breach is that the private lender may sue Chen for breach of contract; no LSO proceedings arise from undertakings given to non-lawyers."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 7.2-11 and the Commentary to the LSO Rules of Professional Conduct make clear that a lawyer's undertaking is a personal professional commitment regardless of whether it is given to another lawyer or to a non-lawyer such as a lender, registrar, or third party. The binding nature of the commitment and the professional misconduct consequences of breach are the same. A lawyer must only give undertakings to third parties that the lawyer is personally able to honor, and breach carries the same professional responsibility consequences. Chen's undertaking to the private lender is a professional commitment, and the breach — though caused by a registry delay — is a breach of a personal professional obligation.",
+    "why_A_wrong": "Incorrect. The binding professional force of an undertaking does not depend on whether the recipient is a lawyer. Undertakings given to non-lawyers carry the same professional significance.",
+    "why_B_wrong": "This IS the correct answer. Yes — a lawyer's undertaking carries the same binding professional force regardless of whether the recipient is a lawyer or a non-lawyer; Chen is professionally bound to honor the undertaking given to the private lender and a breach carries the same consequences as a breach of an undertaking to a fellow lawyer.",
+    "why_C_wrong": "Incorrect. The LSO has jurisdiction over a lawyer's conduct toward all parties, including non-lawyers. Undertakings to non-lawyers are professional commitments subject to the same regulatory oversight.",
+    "why_D_wrong": "Incorrect. Breach of an undertaking to a non-lawyer can give rise to LSO professional misconduct proceedings, not only civil liability. The professional character of the undertaking does not change based on the identity of the recipient.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 10",
+      "heading": "Undertakings",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-11 (undertakings to non-lawyers — same professional force)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "undertaking to non-lawyer — same binding professional force as undertaking to lawyer"
+    },
+    "exam_trigger_words": ["undertaking to non-lawyer", "third party", "same binding force", "private lender", "Rule 7.2-11"],
+    "tested_concepts": [
+      "Rule 7.2-11 — undertaking to non-lawyers carries same professional binding force",
+      "LSO jurisdiction over undertakings to all parties not only lawyers",
+      "breach of undertaking to non-lawyer can result in professional misconduct proceedings"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-10-solicitor-001",
+    "chapter_number": 10,
+    "chapter_title": "Undertakings",
+    "topic_id": "undertakings",
+    "topic_heading": "Undertakings — Rule 7.2-11",
+    "subtopic_id": "real_estate_undertaking",
+    "subtopic_heading": "Real Estate — Solicitor's Undertaking to Discharge Mortgage — Rule 7.2-11",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Sandra acts for the vendor in a residential real estate closing. She gives a standard solicitor's undertaking to the purchaser's lawyer to discharge the existing mortgage on the property from the closing proceeds. Closing occurs and Sandra receives the full purchase price including sufficient funds to discharge the mortgage. However, she deposits the closing funds into the wrong trust account and does not process the mortgage discharge for three weeks, during which time the lender assesses an additional interest charge that reduces the available funds below the discharge amount. Sandra argues that the shortfall is the lender's fault for the interest calculation.",
+    "call_of_question": "Is Sandra personally responsible for ensuring the mortgage discharge undertaking is honored, and does the lender's interest calculation excuse the shortfall?",
+    "options": {
+      "A": "No — Sandra has fulfilled her undertaking by receiving sufficient funds at closing; the subsequent interest charge is the lender's responsibility and releases Sandra from the undertaking.",
+      "B": "Yes — Sandra's solicitor's undertaking to discharge the mortgage is her personal professional obligation; she must honor it regardless of the interest shortfall caused by her delay; she must make up any shortfall from her own resources if necessary, and the delay was caused by her error in depositing the funds incorrectly.",
+      "C": "No — the undertaking becomes unenforceable when the lender's actions (charging interest) make it impossible to perform with the available funds; Sandra may discharge her obligation by returning the remaining funds to the purchaser.",
+      "D": "Yes — Sandra is responsible, but only for the original amount of the mortgage balance at closing; interest charges accrued after closing are outside the scope of the undertaking."
+    },
+    "correct_answer": "B",
+    "explanation": "Sandra's solicitor's undertaking to discharge the mortgage is her personal professional commitment. She received sufficient funds at closing to perform the undertaking. The subsequent interest shortfall arose directly from her own error in depositing funds into the wrong trust account and delaying the discharge process for three weeks. A lawyer who causes the conditions that make an undertaking impossible to perform from available funds cannot escape professional responsibility by attributing the consequences to the other party's actions. Sandra must honor the undertaking, including making up any shortfall resulting from her own delay, and she must process the discharge promptly.",
+    "why_A_wrong": "Incorrect. The fact that Sandra had sufficient funds at closing does not complete the undertaking — the undertaking is to actually discharge the mortgage. Her delay caused the shortfall, and she cannot shift that consequence to the lender.",
+    "why_B_wrong": "This IS the correct answer. Yes — Sandra's solicitor's undertaking to discharge the mortgage is her personal professional obligation; she must honor it regardless of the interest shortfall caused by her delay; she must make up any shortfall from her own resources if necessary, and the delay was caused by her error in depositing the funds incorrectly.",
+    "why_C_wrong": "Incorrect. The interest shortfall was caused by Sandra's own delay — it cannot be attributed to the lender's conduct so as to release Sandra from the undertaking. Sandra cannot discharge her obligation by returning the funds.",
+    "why_D_wrong": "Incorrect. A solicitor's undertaking to discharge a mortgage encompasses the full discharge obligation including any amounts owing at the time of discharge. It is not limited to the balance as of the closing date if the delay in discharge is caused by the undertaking lawyer.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 10",
+      "heading": "Undertakings",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-11 (real estate — mortgage discharge undertaking — personal obligation)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "real estate — solicitor's undertaking to discharge mortgage — personal responsibility for performance"
+    },
+    "exam_trigger_words": ["discharge mortgage", "solicitor's undertaking", "interest shortfall", "personal obligation", "Rule 7.2-11"],
+    "tested_concepts": [
+      "Rule 7.2-11 — solicitor's undertaking to discharge mortgage is personal professional commitment",
+      "lawyer who causes delay resulting in shortfall cannot attribute shortfall to lender",
+      "must honor undertaking even if requires making up shortfall from own resources"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-10-release-001",
+    "chapter_number": 10,
+    "chapter_title": "Undertakings",
+    "topic_id": "undertakings",
+    "topic_heading": "Undertakings — Rule 7.2-11",
+    "subtopic_id": "release_on_undertaking",
+    "subtopic_heading": "Releasing Documents or Property in Reliance on Undertaking — LSO Enforcement",
+    "difficulty": "hard",
+    "fact_pattern": "In a civil dispute, Lawyer Faye acts for the plaintiff. In exchange for the plaintiff releasing original business records to the defendant's lawyer on a without-prejudice basis, opposing counsel gives Faye a written undertaking to return all original documents within 30 days regardless of the outcome of any negotiations. Thirty-five days later, the documents have not been returned and opposing counsel has stopped responding to Faye's requests. Faye asks her client how to enforce the undertaking.",
+    "call_of_question": "What remedies are available to Faye when the opposing lawyer fails to honor a written undertaking to return documents?",
+    "options": {
+      "A": "Faye's only remedy is to commence a civil action against the opposing lawyer for breach of contract; the LSO does not handle disputes about documents between lawyers.",
+      "B": "Faye may file a complaint with the LSO reporting the breach of undertaking, which is professional misconduct; she may also bring a summary court application to enforce the undertaking directly without requiring full civil litigation; additionally, damages may be recoverable if the client has suffered loss from the breach.",
+      "C": "Faye should write a strongly worded letter to the opposing lawyer; if that does not work, she must wait until the civil proceedings are complete before seeking enforcement of the undertaking.",
+      "D": "Faye may only seek enforcement through the LSO complaints process; courts have no jurisdiction to enforce undertakings between lawyers because they are professional obligations, not legal contracts."
+    },
+    "correct_answer": "B",
+    "explanation": "When an opposing lawyer fails to honor a written undertaking, the aggrieved party has multiple avenues of redress. First, the breach of undertaking is professional misconduct, and a complaint may be filed with the LSO. Second, Ontario courts have recognized their inherent jurisdiction to summarily enforce lawyers' undertakings — Faye can bring a court application directly without going through full civil litigation. This is a well-established remedy that allows rapid enforcement. Third, if the client has suffered damages from the breach (such as loss caused by inability to use the original documents), civil damages may be recoverable. All three remedies may be pursued simultaneously.",
+    "why_A_wrong": "Incorrect. The LSO does handle breach of undertaking complaints — breach of undertaking is professional misconduct. Furthermore, courts may summarily enforce undertakings without full civil litigation being required.",
+    "why_B_wrong": "This IS the correct answer. Faye may file a complaint with the LSO reporting the breach of undertaking, which is professional misconduct; she may also bring a summary court application to enforce the undertaking directly without requiring full civil litigation; additionally, damages may be recoverable if the client has suffered loss from the breach.",
+    "why_C_wrong": "Incorrect. Faye does not need to wait until the end of civil proceedings to enforce the undertaking. A summary court application for enforcement is available immediately and independently of the underlying civil dispute.",
+    "why_D_wrong": "Incorrect. Courts do have jurisdiction to enforce lawyers' undertakings — this is a well-recognized aspect of courts' inherent jurisdiction over the legal profession. The LSO complaints process and court enforcement are both available and complement each other.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 10",
+      "heading": "Undertakings",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-11 (breach of undertaking — LSO complaint, court enforcement, damages)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "breach of undertaking — full range of remedies including LSO complaint and summary court enforcement"
+    },
+    "exam_trigger_words": ["enforce undertaking", "breach", "LSO complaint", "summary enforcement", "court application", "Rule 7.2-11"],
+    "tested_concepts": [
+      "Rule 7.2-11 — breach of undertaking is professional misconduct; complaint to LSO available",
+      "courts have inherent jurisdiction to summarily enforce lawyers' undertakings",
+      "LSO complaint and court enforcement are independent concurrent remedies"
+    ],
+    "estimated_time_seconds": 120
   }
 ]

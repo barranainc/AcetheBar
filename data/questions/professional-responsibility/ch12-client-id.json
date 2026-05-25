@@ -1,0 +1,442 @@
+[
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-12-client-id-001",
+    "chapter_number": 12,
+    "chapter_title": "Client Identification and Verification",
+    "topic_id": "client_id_verification",
+    "topic_heading": "Client Identification — By-Law 7.1, s.20",
+    "subtopic_id": "when_required",
+    "subtopic_heading": "When Client Identification Is Required — By-Law 7.1, s.20",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Amara is retained by a new client to assist with the purchase of a residential property. The transaction involves a financial transaction — specifically, the transfer of funds through Amara's trust account. Amara is very busy and postpones collecting the client's identification information, intending to get it before closing. The client does not provide identification at the initial meeting, and Amara proceeds to open the file and begin the work without obtaining it.",
+    "call_of_question": "Under By-Law 7.1, s.20, when was Amara required to identify the client?",
+    "options": {
+      "A": "Amara was required to identify the client before the closing, because that is when the financial transaction actually takes place.",
+      "B": "Amara was required to identify the client before or as soon as practicable after being retained; delaying identification until just before closing breaches By-Law 7.1, s.20.",
+      "C": "Amara was required to identify the client only if the transaction value exceeded $10,000.",
+      "D": "Amara was required to identify the client only after the client's funds passed through the trust account."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 7.1, s.20 requires a lawyer to identify every client before or as soon as practicable after being retained in a matter that involves a financial transaction. The obligation arises at the outset of the retainer, not at the point of closing. Amara's delay in obtaining identification information is a breach of By-Law 7.1, s.20. The identification obligation applies to all financial transactions regardless of dollar value — there is no $10,000 threshold for the identification requirement (though that threshold applies differently to the FINTRAC cash reporting regime).",
+    "why_A_wrong": "Incorrect. By-Law 7.1 requires identification before or as soon as practicable after retention, not at the time of closing. The obligation is front-loaded, not deferred to the transaction date.",
+    "why_B_wrong": "This IS the correct answer. Amara was required to identify the client before or as soon as practicable after being retained; delaying identification until just before closing breaches By-Law 7.1, s.20.",
+    "why_C_wrong": "Incorrect. By-Law 7.1 does not impose a dollar-value threshold for the client identification obligation. The obligation applies to all matters involving financial transactions.",
+    "why_D_wrong": "Incorrect. Client identification is required at the start of the retainer, not after funds flow through trust. Waiting until after the financial transaction has occurred defeats the purpose of the identification regime.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 12",
+      "heading": "Client Identification and Verification",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 7.1, s.20 (client identification — when required)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "client identification — timing"
+    },
+    "exam_trigger_words": [
+      "client identification",
+      "By-Law 7.1",
+      "financial transaction",
+      "when required",
+      "retained"
+    ],
+    "tested_concepts": [
+      "By-Law 7.1, s.20 — identification required before or as soon as practicable after retention",
+      "no dollar-value threshold for identification obligation",
+      "identification obligation is front-loaded not deferred"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-12-client-id-002",
+    "chapter_number": 12,
+    "chapter_title": "Client Identification and Verification",
+    "topic_id": "client_id_verification",
+    "topic_heading": "Client Identification — By-Law 7.1 — Identify vs. Verify Distinction",
+    "subtopic_id": "identify_vs_verify",
+    "subtopic_heading": "Identification Compared to Verification — Key Distinctions",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Benson is retained by a client, Cora, to assist with a commercial lease transaction. Benson asks Cora her full name, date of birth, and address at the initial meeting, and records this in his file. He does not ask to see any government-issued identification or take any steps to confirm that the information Cora provided is accurate. Benson believes he has satisfied his obligations under By-Law 7.1 because he has recorded Cora's personal information.",
+    "call_of_question": "Has Benson satisfied all of his obligations under By-Law 7.1?",
+    "options": {
+      "A": "Yes — collecting and recording the client's name, date of birth, and address satisfies both the identification and verification requirements under By-Law 7.1.",
+      "B": "No — Benson has satisfied the identification obligation but not the verification obligation; By-Law 7.1 requires a lawyer to also verify the identity of individual clients, typically by reviewing an original government-issued photo ID.",
+      "C": "Yes — verification of identity is only required for corporate clients, not individuals.",
+      "D": "No — Benson must also verify the client's identity using a statutory declaration sworn before a commissioner of oaths."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 7.1 draws a clear distinction between client identification (collecting information about the client) and client verification (taking steps to confirm that the information is accurate). Identification involves recording the client's name, date of birth, and address. Verification — required for individual clients in financial transaction matters — requires the lawyer to review an original government-issued photo ID, such as a passport or driver's licence. Benson recorded information but took no steps to confirm its accuracy, so while he has satisfied the identification step, he has not completed the verification step. The verification obligation is not limited to corporate clients.",
+    "why_A_wrong": "Incorrect. Collecting information satisfies the identification step but not verification. Verification requires actively confirming the information, typically by reviewing a government-issued photo ID.",
+    "why_B_wrong": "This IS the correct answer. Benson has satisfied the identification obligation but not the verification obligation; By-Law 7.1 requires a lawyer to also verify the identity of individual clients, typically by reviewing an original government-issued photo ID.",
+    "why_C_wrong": "Incorrect. Verification is required for individual clients in financial transaction matters, not only for corporate clients. Both types of clients are subject to verification obligations, though the method differs.",
+    "why_D_wrong": "Incorrect. A statutory declaration is not the standard verification method for individual clients. The standard method is review of an original government-issued photo ID. Statutory declarations are a different legal instrument.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 12",
+      "heading": "Client Identification and Verification",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 7.1, s.20-22 (identification vs. verification distinction)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "client identification vs. verification"
+    },
+    "exam_trigger_words": [
+      "identification",
+      "verification",
+      "government-issued ID",
+      "By-Law 7.1",
+      "individual client"
+    ],
+    "tested_concepts": [
+      "By-Law 7.1 — distinction between identification and verification",
+      "verification requires review of original government-issued photo ID",
+      "verification required for individual clients not only corporations"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-12-client-id-003",
+    "chapter_number": 12,
+    "chapter_title": "Client Identification and Verification",
+    "topic_id": "client_id_verification",
+    "topic_heading": "Verification of Identity — Remote Clients — By-Law 7.1, s.22",
+    "subtopic_id": "remote_verification",
+    "subtopic_heading": "Verification for Remote or Out-of-Province Clients — Dual-Process Method",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Diana is retained by an individual client, Emeka, who lives in Vancouver. The transaction requires client verification. Emeka is unable to travel to Toronto to meet Diana in person. Diana asks Emeka to send her a photocopy of his driver's licence by email. Diana reviews the photocopy and records it in her file, believing this satisfies her verification obligation.",
+    "call_of_question": "Has Diana satisfied the client verification requirement under By-Law 7.1?",
+    "options": {
+      "A": "Yes — reviewing a photocopy of a government-issued photo ID is sufficient for remote clients because the original cannot be presented in person.",
+      "B": "No — where an individual client cannot appear in person, By-Law 7.1 requires a lawyer to use a prescribed alternative method such as the dual-process method; reliance on a photocopy alone does not satisfy the verification requirement.",
+      "C": "Yes — reviewing a copy is sufficient provided the lawyer retains the copy in the client file.",
+      "D": "No — Diana must require the client to attend her office in person regardless of the client's geographic location."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 7.1, s.22 requires verification of individual client identity using an original government-issued photo ID. Where the client cannot appear in person — for example, because they are located in another province — the lawyer cannot simply accept a photocopy sent by email. Instead, By-Law 7.1 permits use of alternative prescribed methods, such as the dual-process method (using two independent sources, such as a credit report and a utility bill, to corroborate the client's identity). A photocopy alone, without the ability to inspect the original document, is insufficient for verification purposes.",
+    "why_A_wrong": "Incorrect. By-Law 7.1 requires verification using an original document or a prescribed alternative. A photocopy emailed by the client does not satisfy the verification requirement because it cannot be authenticated.",
+    "why_B_wrong": "This IS the correct answer. Where an individual client cannot appear in person, By-Law 7.1 requires a lawyer to use a prescribed alternative method such as the dual-process method; reliance on a photocopy alone does not satisfy the verification requirement.",
+    "why_C_wrong": "Incorrect. Retention of a copy in the file is a record-keeping step, not a verification method. Keeping a photocopy that was inadequate for verification does not retroactively satisfy the obligation.",
+    "why_D_wrong": "Incorrect. By-Law 7.1 does not require in-person attendance in all cases. It provides for alternative verification methods precisely to accommodate situations where the client cannot attend in person.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 12",
+      "heading": "Client Identification and Verification",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 7.1, s.22 (verification — remote clients; dual-process method)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "client verification — remote client"
+    },
+    "exam_trigger_words": [
+      "remote client",
+      "photocopy",
+      "dual-process",
+      "verification",
+      "By-Law 7.1"
+    ],
+    "tested_concepts": [
+      "By-Law 7.1, s.22 — photocopy alone insufficient for remote client verification",
+      "dual-process method permitted for clients who cannot appear in person",
+      "alternative verification methods prescribed by By-Law 7.1"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-12-client-id-004",
+    "chapter_number": 12,
+    "chapter_title": "Client Identification and Verification",
+    "topic_id": "client_id_verification",
+    "topic_heading": "When Verification Not Required — Exceptions — By-Law 7.1",
+    "subtopic_id": "verification_exceptions",
+    "subtopic_heading": "Exceptions to Client Verification — Litigation, Crown, Established Clients",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Fiona has represented Greenhouse Corp., a public company listed on the Toronto Stock Exchange, in commercial disputes for the past six years. She has verified the corporation's identity on multiple prior matters. Greenhouse Corp. now retains Fiona on a new commercial litigation matter that will not involve any financial transaction through Fiona's trust account — Fiona will advise on litigation strategy and draft pleadings only. Fiona's assistant prepares a verification request for Greenhouse Corp., asking the client to re-provide its certificate of incorporation and beneficial ownership information.",
+    "call_of_question": "Is Fiona required to re-verify Greenhouse Corp.'s identity for this new retainer?",
+    "options": {
+      "A": "Yes — verification must be performed fresh on every new matter, even for long-standing clients, regardless of whether a financial transaction is involved.",
+      "B": "Yes — public companies are subject to enhanced verification requirements and must always be re-verified.",
+      "C": "No — By-Law 7.1 exempts lawyers from the verification obligation when acting for a publicly-listed company; and the verification obligation is also not triggered when the matter is limited to litigation with no financial transaction through trust.",
+      "D": "No — but only because Fiona has already verified Greenhouse Corp. on prior matters; she must still document why re-verification is not required."
+    },
+    "correct_answer": "C",
+    "explanation": "By-Law 7.1 contains several exceptions to the verification obligation. Two apply here: (1) a lawyer is not required to verify client identity when acting for a public company listed on a recognized stock exchange, and (2) the verification obligation is not triggered in matters that are purely litigation-based with no financial transaction flowing through the lawyer's trust account. Both exceptions apply to Fiona's situation. This is an exam trap because candidates may assume verification is always required for corporate clients or that all new matters require fresh verification.",
+    "why_A_wrong": "Incorrect. By-Law 7.1 contains exceptions to verification, including for established clients on new matters and for litigation-only mandates. Fresh verification is not required on every new retainer in all circumstances.",
+    "why_B_wrong": "Incorrect. Public companies listed on recognized stock exchanges are actually subject to a reduced verification obligation, not an enhanced one. They are among the categories specifically exempted from certain verification requirements.",
+    "why_C_wrong": "This IS the correct answer. By-Law 7.1 exempts lawyers from the verification obligation when acting for a publicly-listed company; and the verification obligation is also not triggered when the matter is limited to litigation with no financial transaction through trust.",
+    "why_D_wrong": "Incorrect. Prior verification on past matters is relevant context, but the key reasons verification is not required here are the public company exception and the litigation-only exception — both of which apply independently of any prior verification history.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 12",
+      "heading": "Client Identification and Verification",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 7.1 (exceptions to verification — public companies; litigation-only matters)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "client verification — exceptions"
+    },
+    "exam_trigger_words": [
+      "public company",
+      "listed company",
+      "litigation only",
+      "no financial transaction",
+      "verification exception"
+    ],
+    "tested_concepts": [
+      "By-Law 7.1 — public companies listed on recognized exchanges exempt from verification",
+      "By-Law 7.1 — litigation-only matters with no financial transaction exempt from verification",
+      "multiple exceptions to client verification obligation"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-12-verify-001",
+    "chapter_number": 12,
+    "chapter_title": "Client Identification and Verification",
+    "topic_id": "client_id_verification",
+    "topic_heading": "Verification of Identity — Corporations — By-Law 7.1, s.23",
+    "subtopic_id": "corporate_verification",
+    "subtopic_heading": "Corporate Client Verification — Existence and Controlling Persons",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Gwen is retained by Redwood Holdings Inc. to assist with a commercial real estate acquisition. The sole representative who contacts Gwen is Marcus, who says he is the CEO of Redwood Holdings Inc. Gwen speaks with Marcus, records his name, and confirms his title as CEO via a company email. Gwen does not obtain any certificate of incorporation, corporate registry search, or any information about who beneficially owns or controls Redwood Holdings Inc.",
+    "call_of_question": "Has Gwen satisfied the client identification and verification requirements for corporate clients under By-Law 7.1, s.23?",
+    "options": {
+      "A": "Yes — confirming the identity and title of the corporate representative is sufficient verification for a corporate client.",
+      "B": "No — By-Law 7.1, s.23 requires a lawyer to confirm the legal existence of the corporation (typically through a corporate registry search or certificate of incorporation) and to identify the corporation's directors and beneficial owners; Gwen has done neither.",
+      "C": "Yes — verification of corporate identity is only required for private companies, not for companies that have an identifiable corporate representative.",
+      "D": "No — but Gwen's obligation was satisfied when she recorded the CEO's name and corporate email, because a corporate email constitutes a form of official documentation."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 7.1, s.23 establishes a multi-step process for verifying corporate client identity. A lawyer must: (1) confirm the legal existence of the corporation, typically through a current corporate registry search or certificate of incorporation; (2) obtain the names of the corporation's directors; and (3) identify the beneficial owners — i.e., individuals who own or control 25% or more of the corporation. Gwen has done none of this. Confirming a representative's title via corporate email does not establish that the corporation legally exists, who controls it, or whether there are any beneficial ownership concerns.",
+    "why_A_wrong": "Incorrect. Verifying the identity of the corporate representative is a separate step from verifying the corporate entity's existence and ownership structure. By-Law 7.1, s.23 requires both.",
+    "why_B_wrong": "This IS the correct answer. By-Law 7.1, s.23 requires a lawyer to confirm the legal existence of the corporation (typically through a corporate registry search or certificate of incorporation) and to identify the corporation's directors and beneficial owners; Gwen has done neither.",
+    "why_C_wrong": "Incorrect. Corporate verification requirements apply to all corporate clients acting in financial transaction matters, not only to specific categories of companies.",
+    "why_D_wrong": "Incorrect. A corporate email confirming a title is not an official verification document. It does not establish the corporation's legal existence, its directors, or its beneficial ownership — all of which By-Law 7.1, s.23 requires.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 12",
+      "heading": "Client Identification and Verification",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 7.1, s.23 (verification — corporations — existence and beneficial owners)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "client verification — corporate clients"
+    },
+    "exam_trigger_words": [
+      "corporate client",
+      "certificate of incorporation",
+      "beneficial owner",
+      "directors",
+      "By-Law 7.1, s.23"
+    ],
+    "tested_concepts": [
+      "By-Law 7.1, s.23 — corporate verification requires confirming legal existence",
+      "corporate verification requires identifying directors and beneficial owners",
+      "corporate representative identity verification does not satisfy corporate entity verification"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-12-verify-002",
+    "chapter_number": 12,
+    "chapter_title": "Client Identification and Verification",
+    "topic_id": "client_id_verification",
+    "topic_heading": "Third-Party Verification — By-Law 7.1",
+    "subtopic_id": "third_party_verification",
+    "subtopic_heading": "Client Acting on Behalf of Third Party — Dual Verification Obligation",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Helen is retained by Nina, an individual who says she is acting as an agent and nominee for a principal named Oscar, who is the beneficial purchaser of a commercial property. Helen identifies and verifies Nina's identity using her original government-issued driver's licence. Helen does not seek any information about Oscar, believing that Oscar is not her client and her obligation runs only to Nina.",
+    "call_of_question": "Has Helen satisfied her identification and verification obligations under By-Law 7.1?",
+    "options": {
+      "A": "Yes — Helen's client is Nina, and she has satisfied her obligation by identifying and verifying Nina; she owes no obligations to Oscar, who is a third party.",
+      "B": "No — where a client is acting as an agent or nominee for a third-party principal, By-Law 7.1 requires the lawyer to identify and verify both the client (Nina) and the third party (Oscar) on whose behalf the transaction is being conducted.",
+      "C": "Yes — Helen is required to identify and verify Oscar only if Oscar will be attending the transaction in person.",
+      "D": "No — Helen must obtain a statutory declaration from Oscar confirming his identity before the transaction can proceed."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 7.1 imposes a dual identification and verification obligation where a client is acting on behalf of a third party — i.e., as an agent, nominee, or trustee. The rationale is anti-money laundering: allowing transactions to proceed through nominees or agents without identifying the underlying beneficial owner defeats the purpose of the client identification regime. Helen must therefore identify and verify both Nina (as the client instructing her) and Oscar (as the third-party principal whose funds will be used and who will benefit from the transaction). Failure to identify and verify Oscar is a breach of By-Law 7.1.",
+    "why_A_wrong": "Incorrect. Where a client acts as agent or nominee for a third party, the lawyer's obligations extend to both the client and the beneficial third party. The 'my client is Nina' argument is the exact misconception By-Law 7.1 addresses.",
+    "why_B_wrong": "This IS the correct answer. Where a client is acting as an agent or nominee for a third-party principal, By-Law 7.1 requires the lawyer to identify and verify both the client (Nina) and the third party (Oscar) on whose behalf the transaction is being conducted.",
+    "why_C_wrong": "Incorrect. The third-party verification obligation does not depend on Oscar attending the transaction in person. The obligation exists because of the nominee/agency structure, regardless of physical attendance.",
+    "why_D_wrong": "Incorrect. A statutory declaration is not the standard mechanism for third-party verification under By-Law 7.1. The lawyer must identify and verify the third party using the same methods applicable to direct client verification.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 12",
+      "heading": "Client Identification and Verification",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 7.1 (third-party verification — nominee and agent transactions)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "client verification — third-party nominee"
+    },
+    "exam_trigger_words": [
+      "nominee",
+      "agent",
+      "third party",
+      "beneficial owner",
+      "dual verification"
+    ],
+    "tested_concepts": [
+      "By-Law 7.1 — dual verification obligation when client acts as nominee or agent",
+      "must identify and verify both client and third-party principal",
+      "nominee structures do not eliminate third-party verification requirement"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-12-corp-001",
+    "chapter_number": 12,
+    "chapter_title": "Client Identification and Verification",
+    "topic_id": "client_id_verification",
+    "topic_heading": "Politically Exposed Persons — Enhanced Due Diligence — By-Law 7.1",
+    "subtopic_id": "pep_obligations",
+    "subtopic_heading": "PEPs and Heads of International Organizations — Enhanced Identification",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Ivan is retained by a new client, Jorge, who discloses that he is a former foreign minister of a South American country who has recently relocated to Canada. Jorge instructs Ivan on a substantial real estate investment involving multiple properties in Ontario. Ivan conducts standard client identification and verification steps — he records Jorge's name, date of birth, and address and reviews Jorge's passport. Ivan does not conduct any enhanced due diligence and does not inquire about the source of Jorge's funds.",
+    "call_of_question": "Which of the following best describes the additional obligations Ivan has when acting for Jorge?",
+    "options": {
+      "A": "Ivan's standard identification and verification steps are sufficient; By-Law 7.1 does not require any additional steps when acting for former government officials.",
+      "B": "Ivan must conduct enhanced due diligence when acting for a politically exposed person (PEP), which includes taking reasonable steps to establish the source of funds, obtaining senior management approval, and implementing enhanced ongoing monitoring of the business relationship.",
+      "C": "Ivan is not required to conduct enhanced due diligence because Jorge is a former official, not a current one; PEP obligations only apply to individuals currently holding public office.",
+      "D": "Ivan must report Jorge to FINTRAC immediately because acting for a foreign government official is inherently suspicious."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 7.1 and the anti-money laundering framework require enhanced due diligence when a lawyer determines that a client is a politically exposed person (PEP) or a head of an international organization. PEPs include current and former foreign government officials, including former ministers. The enhanced measures include taking reasonable steps to establish the source of the client's funds, obtaining senior management approval for the retainer, and implementing heightened ongoing monitoring of the business relationship. Enhanced due diligence reflects the elevated risk of money laundering or corruption associated with individuals who have held significant public positions and may have access to state resources.",
+    "why_A_wrong": "Incorrect. Standard verification steps are insufficient for PEPs. By-Law 7.1 and the anti-money laundering framework impose enhanced due diligence obligations when acting for politically exposed persons.",
+    "why_B_wrong": "This IS the correct answer. Ivan must conduct enhanced due diligence when acting for a politically exposed person (PEP), which includes taking reasonable steps to establish the source of funds, obtaining senior management approval, and implementing enhanced ongoing monitoring of the business relationship.",
+    "why_C_wrong": "Incorrect. PEP obligations apply to both current and former holders of prominent public positions. The risk of corruption or improper enrichment during a period in office does not evaporate immediately upon leaving public office.",
+    "why_D_wrong": "Incorrect. Retaining a PEP does not automatically trigger a reporting obligation. The lawyer must conduct enhanced due diligence; only if there are grounds to suspect money laundering does a reporting consideration arise, and even then, the interaction between reporting and solicitor-client privilege is complex.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 12",
+      "heading": "Client Identification and Verification",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 7.1 (PEPs — enhanced due diligence); Proceeds of Crime (Money Laundering) and Terrorist Financing Act"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "client identification — PEP enhanced due diligence"
+    },
+    "exam_trigger_words": [
+      "politically exposed person",
+      "PEP",
+      "former government official",
+      "enhanced due diligence",
+      "source of funds"
+    ],
+    "tested_concepts": [
+      "By-Law 7.1 — enhanced due diligence required for PEPs including former officials",
+      "PEP measures include source of funds inquiry and senior management approval",
+      "PEP status applies to former as well as current holders of public positions"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-12-cash-001",
+    "chapter_number": 12,
+    "chapter_title": "Client Identification and Verification",
+    "topic_id": "client_id_verification",
+    "topic_heading": "Suspicious Transactions and FINTRAC — By-Law 7.1",
+    "subtopic_id": "suspicious_transactions",
+    "subtopic_heading": "Suspicious Transaction Reporting — Tension with Solicitor-Client Privilege",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Karen is acting for a client in a complex real estate transaction. During the transaction, Karen notices several unusual circumstances: the client insists on using cash for a large portion of the purchase price, cannot provide a coherent explanation for the source of funds, and has twice changed the beneficial owner information provided in initial client identification documents. Karen is concerned the transaction may involve proceeds of crime. She considers reporting the matter to FINTRAC under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act.",
+    "call_of_question": "Which of the following best describes the framework governing Karen's reporting obligations in this situation?",
+    "options": {
+      "A": "Karen must immediately report the suspicious transaction to FINTRAC regardless of solicitor-client privilege; FINTRAC reporting obligations override privilege in all circumstances.",
+      "B": "Karen has no reporting obligation because all communications with clients about financial matters are protected by solicitor-client privilege.",
+      "C": "The Proceeds of Crime (Money Laundering) and Terrorist Financing Act imposes reporting obligations on certain professionals, but lawyers benefit from an exemption for information protected by solicitor-client privilege; Karen's reporting analysis must distinguish between information received in the course of seeking or giving legal advice (which is privileged) and information relating purely to the financial transaction itself; she must also consider whether to withdraw if she cannot complete the transaction ethically.",
+      "D": "Karen is required to report only if the client explicitly admits the funds are proceeds of crime."
+    },
+    "correct_answer": "C",
+    "explanation": "The relationship between FINTRAC reporting obligations and solicitor-client privilege is complex. The Supreme Court of Canada has confirmed that solicitor-client privilege is a fundamental right that cannot be overridden by FINTRAC reporting requirements where information was received in the course of seeking or giving legal advice. However, lawyers do have obligations relating to their own participation in transactions — they cannot facilitate transactions they believe or suspect involve proceeds of crime. When Karen suspects the transaction involves money laundering, her obligations include: (1) carefully assessing whether the relevant information is protected by privilege; (2) refusing to complete the transaction if she cannot do so ethically; and (3) potentially withdrawing from representation. The obligation to report is not as straightforward as for non-legal professionals, given the privilege overlay.",
+    "why_A_wrong": "Incorrect. Solicitor-client privilege is not overridden by FINTRAC reporting obligations. The Supreme Court of Canada has recognized that privilege protects legal advice communications from mandatory disclosure under the FINTRAC regime.",
+    "why_B_wrong": "Incorrect. Not all communications with a client are protected by solicitor-client privilege. Information relating to the mechanics of a financial transaction, as opposed to legal advice, may not attract privilege. The analysis is nuanced.",
+    "why_C_wrong": "This IS the correct answer. The Proceeds of Crime (Money Laundering) and Terrorist Financing Act imposes reporting obligations on certain professionals, but lawyers benefit from an exemption for information protected by solicitor-client privilege; Karen's reporting analysis must distinguish between information received in the course of seeking or giving legal advice (which is privileged) and information relating purely to the financial transaction itself; she must also consider whether to withdraw if she cannot complete the transaction ethically.",
+    "why_D_wrong": "Incorrect. An explicit admission is not required to trigger concern under the suspicious transaction framework. Reasonable grounds to suspect — based on objectively unusual circumstances — is the applicable standard, not a confession.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 12",
+      "heading": "Client Identification and Verification",
+      "page": "N/A",
+      "rule_or_statute_reference": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act; LSO By-Law 7.1; Federation of Law Societies of Canada — solicitor-client privilege and FINTRAC"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "FINTRAC — solicitor-client privilege — suspicious transactions"
+    },
+    "exam_trigger_words": [
+      "FINTRAC",
+      "suspicious transaction",
+      "money laundering",
+      "solicitor-client privilege",
+      "proceeds of crime"
+    ],
+    "tested_concepts": [
+      "FINTRAC reporting obligations apply to lawyers subject to solicitor-client privilege exemption",
+      "solicitor-client privilege not overridden by FINTRAC",
+      "lawyer must withdraw if cannot complete transaction ethically when money laundering suspected"
+    ],
+    "estimated_time_seconds": 180
+  }
+]

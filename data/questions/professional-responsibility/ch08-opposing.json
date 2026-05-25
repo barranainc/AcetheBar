@@ -362,5 +362,250 @@
       "no exception for lawyer belief that opposing counsel obstructing"
     ],
     "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-08-unrp-001",
+    "chapter_number": 8,
+    "chapter_title": "Dealing with Opposing Parties and Unrepresented Persons",
+    "topic_id": "opposing_parties",
+    "topic_heading": "Dealing with Represented and Unrepresented Parties — Rule 7.2",
+    "subtopic_id": "unrepresented_advice",
+    "subtopic_heading": "Duty to Advise Unrepresented Party to Seek Counsel — Rule 7.2-9",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Harriet is acting for a vendor in the sale of a small business. The purchaser has no lawyer and tells Harriet he understands the deal and does not need one. Harriet is eager to close the transaction quickly and, without advising the purchaser to seek independent legal advice, presents him with the purchase agreement and asks him to sign immediately. The purchaser signs and later realizes the agreement contained terms significantly unfavourable to him.",
+    "call_of_question": "Did Harriet comply with her obligations under Rule 7.2-9 when dealing with the unrepresented purchaser?",
+    "options": {
+      "A": "Yes — the purchaser stated he understood the deal and did not need a lawyer; Harriet had no further obligation once the purchaser declined representation.",
+      "B": "No — Rule 7.2-9 requires a lawyer dealing with an unrepresented party to advise that party to obtain independent legal advice before proceeding; the purchaser's self-assessed understanding of the deal does not relieve Harriet of this obligation.",
+      "C": "Yes — the obligation to seek independent legal advice rests with the party, not the opposing lawyer; Harriet had no duty to recommend counsel to the other side.",
+      "D": "Yes — Harriet complied because she presented the agreement in writing, which gives the purchaser all the information needed to make an informed decision."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 7.2-9 of the LSO Rules of Professional Conduct requires a lawyer who deals with an unrepresented person to urge that person to obtain independent legal advice before entering into a transaction or agreement. The purchaser's statement that he did not need a lawyer does not discharge Harriet's obligation — the duty is on the lawyer to make the recommendation, not to accept the unrepresented person's self-assessment as a substitute. Harriet should have clearly advised the purchaser to seek independent legal advice, confirmed this was understood, and allowed time for the purchaser to do so before proceeding to execution.",
+    "why_A_wrong": "Incorrect. The purchaser's own statement that he understands the deal does not substitute for the lawyer's obligation to advise him to seek independent counsel. The duty under Rule 7.2-9 rests on Harriet, not on the purchaser's initiative.",
+    "why_B_wrong": "This IS the correct answer. No — Rule 7.2-9 requires a lawyer dealing with an unrepresented party to advise that party to obtain independent legal advice before proceeding; the purchaser's self-assessed understanding of the deal does not relieve Harriet of this obligation.",
+    "why_C_wrong": "Incorrect. Rule 7.2-9 expressly places the duty on the lawyer dealing with the unrepresented person. It is not sufficient to leave it to the other party to seek advice on their own.",
+    "why_D_wrong": "Incorrect. Providing the written agreement does not satisfy the obligation to advise independent legal counsel. The purchaser needs to be specifically urged to seek advice before signing, not merely handed a document to review on their own.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 8",
+      "heading": "Dealing with Opposing Parties and Unrepresented Persons",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-9 (duty to advise unrepresented party to seek independent legal advice)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "unrepresented party — duty to advise to seek independent counsel"
+    },
+    "exam_trigger_words": ["unrepresented", "independent legal advice", "no lawyer", "Rule 7.2-9", "self-represented"],
+    "tested_concepts": [
+      "Rule 7.2-9 — duty to urge unrepresented party to seek independent legal advice",
+      "party's self-assessment does not discharge lawyer's obligation",
+      "duty rests on the lawyer not on the unrepresented person's initiative"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-08-unrp-002",
+    "chapter_number": 8,
+    "chapter_title": "Dealing with Opposing Parties and Unrepresented Persons",
+    "topic_id": "opposing_parties",
+    "topic_heading": "Dealing with Represented and Unrepresented Parties — Rule 7.2",
+    "subtopic_id": "no_legal_advice_unrepresented",
+    "subtopic_heading": "No Legal Advice to Unrepresented Party — Rule 7.2-9 Commentary",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Kendra acts for a lender in a mortgage transaction. The borrower has no legal representation. Kendra explains the mortgage documents to the borrower in detail, answers the borrower's questions about what the acceleration clause means and how the enforcement process works, and advises the borrower that the interest rate is standard in the market. Kendra believes she is being helpful and transparent.",
+    "call_of_question": "Has Kendra's conduct toward the unrepresented borrower complied with the Rules of Professional Conduct?",
+    "options": {
+      "A": "Yes — explaining the documents to an unrepresented party promotes understanding and transparency; Rule 7.2-9 does not prohibit lawyers from explaining documents.",
+      "B": "No — while a lawyer dealing with an unrepresented party must advise the person to seek independent legal advice, the lawyer must not go further and give legal advice to the unrepresented party, as this creates a conflict with the lawyer's duty to their own client; Kendra crossed the line by advising on the legal effect of clauses and characterizing the interest rate.",
+      "C": "Yes — since Kendra disclosed she acts for the lender, the borrower cannot claim to have relied on her as their own lawyer.",
+      "D": "Yes — advising unrepresented parties about the documents they are signing is required by Rule 7.2-9 as part of the duty not to take advantage of them."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 7.2-9 and its Commentary draw a clear distinction between two duties when dealing with an unrepresented person: first, the lawyer must advise the person to seek independent legal advice; and second, the lawyer must not go further and give legal advice to the unrepresented party. Explaining the legal effect of the acceleration clause and advising that the interest rate is 'standard' constitutes legal advice — it is not merely explaining the documents. By doing so, Kendra crossed from her permissible role (urging independent counsel) into the prohibited role (giving legal advice to the opposing unrepresented party), which creates a risk of role confusion and conflict with her duties to the lender.",
+    "why_A_wrong": "Incorrect. There is a distinction between explaining what a document says (permissible) and advising on its legal consequences and market standards (legal advice). Kendra's explanations went beyond mere clarification into substantive legal advice.",
+    "why_B_wrong": "This IS the correct answer. No — while a lawyer dealing with an unrepresented party must advise the person to seek independent legal advice, the lawyer must not go further and give legal advice to the unrepresented party, as this creates a conflict with the lawyer's duty to their own client; Kendra crossed the line by advising on the legal effect of clauses and characterizing the interest rate.",
+    "why_C_wrong": "Incorrect. Disclosing who you act for does not authorize giving legal advice to the opposing unrepresented party. The issue is not whether the borrower understood Kendra's role, but whether Kendra crossed the line from explanation to legal advice.",
+    "why_D_wrong": "Incorrect. Rule 7.2-9 requires advising the person to seek independent counsel — it does not require or authorize the lawyer to give substantive legal advice to the unrepresented party. Those are distinct obligations.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 8",
+      "heading": "Dealing with Opposing Parties and Unrepresented Persons",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-9 Commentary (no legal advice to unrepresented party)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "unrepresented party — prohibition on giving legal advice beyond recommending counsel"
+    },
+    "exam_trigger_words": ["unrepresented", "legal advice", "explain documents", "Rule 7.2-9", "duty to recommend counsel"],
+    "tested_concepts": [
+      "Rule 7.2-9 Commentary — cannot give legal advice to unrepresented opposing party",
+      "distinction between explaining documents and giving legal advice",
+      "duty to recommend counsel is separate from prohibition on advising"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-08-threat-002",
+    "chapter_number": 8,
+    "chapter_title": "Dealing with Opposing Parties and Unrepresented Persons",
+    "topic_id": "opposing_parties",
+    "topic_heading": "Dealing with Opposing Parties — Rule 7.2",
+    "subtopic_id": "threatening_regulatory",
+    "subtopic_heading": "Threatening Regulatory Proceedings as Civil Lever — Rule 7.2-7",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Neil acts for a supplier in a payment dispute with a restaurant owner. Neil sends a demand letter stating: 'Unless your client pays the outstanding $18,000 within 15 days, my client will file a complaint with the Ontario Ministry of Labour reporting the underpayment of wages to your client's employees that we discovered during our business relationship, and will also report the suspected tax irregularities to the Canada Revenue Agency.' Neil's client has genuine information about both issues.",
+    "call_of_question": "Does Neil's demand letter violate Rule 7.2-7 even though the threatened complaints involve regulatory matters, not criminal prosecution?",
+    "options": {
+      "A": "No — Rule 7.2-7 applies only to threats of criminal proceedings; threatening regulatory or administrative complaints is permitted as a legitimate negotiation tactic.",
+      "B": "No — because the underlying information about the labour and tax issues is genuine, Neil is entitled to inform the opposing party of his client's reporting options.",
+      "C": "Yes — Rule 7.2-7 prohibits threatening to initiate criminal or regulatory proceedings against a person primarily as a means to obtain a civil advantage; conditioning the withholding of regulatory complaints on civil payment is equally prohibited whether the threatened proceedings are criminal or regulatory in nature.",
+      "D": "Yes — but only if the restaurant owner has a lawyer; threats of regulatory proceedings against unrepresented parties are assessed under a different standard."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 7.2-7 of the LSO Rules of Professional Conduct expressly extends beyond criminal proceedings to include the threat to initiate regulatory proceedings as a lever to obtain civil advantage. The rule prohibits threatening 'to initiate or proceed with a criminal charge, or to make a complaint to a regulatory authority' primarily to gain a civil concession. The fact that Neil's client has genuine information about the violations does not authorize using those facts as bargaining chips conditioned on civil payment. The prohibited conduct is the conditioning of non-reporting on payment — not the reporting itself.",
+    "why_A_wrong": "Incorrect. This is the exam trap. Rule 7.2-7 is not limited to criminal threats — it expressly encompasses threats to make complaints to regulatory authorities. The broader scope of the rule covers exactly this scenario.",
+    "why_B_wrong": "Incorrect. The genuineness of the information about the violations is irrelevant to whether the threat violates Rule 7.2-7. The issue is not the accuracy of the underlying information but the use of the threat of reporting as a civil settlement lever.",
+    "why_C_wrong": "This IS the correct answer. Yes — Rule 7.2-7 prohibits threatening to initiate criminal or regulatory proceedings against a person primarily as a means to obtain a civil advantage; conditioning the withholding of regulatory complaints on civil payment is equally prohibited whether the threatened proceedings are criminal or regulatory in nature.",
+    "why_D_wrong": "Incorrect. Rule 7.2-7 applies regardless of whether the opposing party is represented. The prohibition is on the conduct of the threatening lawyer, not on the status of the target.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 8",
+      "heading": "Dealing with Opposing Parties and Unrepresented Persons",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-7 (threatening criminal or regulatory proceedings to gain civil advantage)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "threatening regulatory proceedings for civil advantage — Rule 7.2-7 extends beyond criminal threats"
+    },
+    "exam_trigger_words": ["regulatory complaint", "civil advantage", "Rule 7.2-7", "threatening proceedings", "Ministry of Labour", "CRA"],
+    "tested_concepts": [
+      "Rule 7.2-7 — extends to regulatory proceedings not only criminal threats",
+      "genuineness of underlying information does not authorize conditioning non-reporting on civil payment",
+      "prohibited conduct is the conditioning — not the reporting itself"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-08-harass-001",
+    "chapter_number": 8,
+    "chapter_title": "Dealing with Opposing Parties and Unrepresented Persons",
+    "topic_id": "opposing_parties",
+    "topic_heading": "Duties to Third Parties — Rule 7.1",
+    "subtopic_id": "witness_harassment",
+    "subtopic_heading": "Harassment of Witnesses — Distinction from Aggressive Cross-Examination — Rule 7.1",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Petra is cross-examining a key plaintiff's witness in a civil fraud trial. The witness appears nervous. Petra speaks loudly, repeats questions that the witness has already answered, and makes sarcastic comments about the witness's memory. She also asks the witness if the witness is aware of 'what happens to people who lie in this courtroom' in an intimidating tone. When the plaintiff's counsel objects, Petra argues she is simply using vigorous cross-examination to expose inconsistencies.",
+    "call_of_question": "Has Petra's conduct in cross-examination crossed into improper harassment of a witness?",
+    "options": {
+      "A": "No — vigorous cross-examination necessarily involves pressure, repetition, and pointed questioning; all of Petra's conduct falls within the scope of legitimate cross-examination.",
+      "B": "Yes — Rule 7.1 prohibits a lawyer from harassing or intimidating witnesses; while aggressive cross-examination to expose inconsistencies is proper, making veiled threats, sarcastic belittling, and repeating answered questions to exhaust and intimidate a witness crosses into prohibited harassment.",
+      "C": "No — it is for the presiding judge, not the Rules of Professional Conduct, to control improper cross-examination; once the judge has not intervened, Petra's conduct is deemed appropriate.",
+      "D": "No — the Rules of Professional Conduct do not apply to cross-examination tactics; advocacy decisions in the courtroom are exclusively governed by the court's own rules of procedure."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 7.1 and the Commentary to the LSO Rules of Professional Conduct prohibit a lawyer from harassing, intimidating, or abusing witnesses. There is a meaningful distinction between aggressive cross-examination — which is proper and often necessary — and harassment. Making veiled threats ('what happens to people who lie'), repetitive questioning of already-answered matters to wear down a witness, and sarcastic belittling are forms of witness intimidation and harassment that exceed the bounds of legitimate advocacy. The fact that the judge has not yet intervened does not make the conduct proper — professional responsibility obligations run independently of judicial intervention.",
+    "why_A_wrong": "Incorrect. Not all pressure tactics in cross-examination are legitimate. The veiled threat and belittling comments go beyond exposing inconsistencies and constitute improper intimidation of the witness.",
+    "why_B_wrong": "This IS the correct answer. Yes — Rule 7.1 prohibits a lawyer from harassing or intimidating witnesses; while aggressive cross-examination to expose inconsistencies is proper, making veiled threats, sarcastic belittling, and repeating answered questions to exhaust and intimidate a witness crosses into prohibited harassment.",
+    "why_C_wrong": "Incorrect. A judge's failure to intervene does not authorize conduct that violates the Rules of Professional Conduct. Professional responsibility obligations are independent of judicial supervision.",
+    "why_D_wrong": "Incorrect. The Rules of Professional Conduct apply to all professional activities, including conduct in the courtroom during cross-examination. They are not displaced by procedural rules of court.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 8",
+      "heading": "Dealing with Opposing Parties and Unrepresented Persons",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.1 (prohibition on harassment and intimidation of witnesses)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "witness harassment — distinguishing vigorous cross-examination from prohibited intimidation"
+    },
+    "exam_trigger_words": ["harass", "intimidate", "witness", "cross-examination", "Rule 7.1"],
+    "tested_concepts": [
+      "Rule 7.1 — prohibition on harassment and intimidation of witnesses",
+      "distinction between aggressive cross-examination and prohibited harassment",
+      "judicial non-intervention does not make conduct proper under professional responsibility rules"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-08-opp-004",
+    "chapter_number": 8,
+    "chapter_title": "Dealing with Opposing Parties and Unrepresented Persons",
+    "topic_id": "opposing_parties",
+    "topic_heading": "Dealing with Represented and Unrepresented Parties — Rule 7.2",
+    "subtopic_id": "represented_counsel_vacation",
+    "subtopic_heading": "No Direct Contact When Opposing Counsel Temporarily Unavailable — Rule 7.2-1",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Quentin is acting for a plaintiff in a commercial dispute. He urgently needs to schedule a motion before the court and needs opposing counsel's cooperation to agree on a date. He learns that opposing counsel is on vacation for two weeks and has not arranged for another lawyer to cover the file. The opposing party — the defendant — is available and willing to discuss scheduling directly with Quentin. Quentin contacts the defendant directly to discuss scheduling the motion.",
+    "call_of_question": "May Quentin contact the opposing party directly while opposing counsel is temporarily on vacation?",
+    "options": {
+      "A": "Yes — because opposing counsel is unavailable, the practical necessity of the situation justifies direct contact with the represented opposing party to address the urgent scheduling matter.",
+      "B": "Yes — scheduling is an administrative matter and does not fall within the prohibition on communicating with a represented party.",
+      "C": "No — Rule 7.2-1 prohibits a lawyer from communicating directly with a represented party without the other lawyer's consent; the temporary unavailability of opposing counsel due to vacation does not create an exception; Quentin must attempt to reach opposing counsel or their firm, seek a coverage lawyer, or use the court's scheduling mechanisms.",
+      "D": "Yes — the opposing party's willingness to speak with Quentin constitutes implied consent on behalf of their lawyer."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 7.2-1 of the LSO Rules of Professional Conduct prohibits a lawyer from communicating directly with a represented party without the other lawyer's knowledge and consent. There is no exception for temporary unavailability of opposing counsel due to vacation. The fact that scheduling is urgent does not create a practical-necessity exception. Quentin's options include: attempting to contact opposing counsel through the firm, requesting that the firm arrange coverage counsel, writing to opposing counsel's firm in the interim, or using the court's scheduling procedures (such as a scheduling conference or requisition). The opposing party's personal willingness to discuss matters does not substitute for their lawyer's consent.",
+    "why_A_wrong": "Incorrect. There is no practical-necessity exception to Rule 7.2-1. Urgency does not authorize direct contact with a represented party whose lawyer is temporarily unavailable.",
+    "why_B_wrong": "Incorrect. While purely ministerial scheduling communications with a court office are administrative, discussing scheduling strategy directly with the opposing represented party is not merely administrative — it is substantive communication about the conduct of the litigation.",
+    "why_C_wrong": "This IS the correct answer. No — Rule 7.2-1 prohibits a lawyer from communicating directly with a represented party without the other lawyer's consent; the temporary unavailability of opposing counsel due to vacation does not create an exception; Quentin must attempt to reach opposing counsel or their firm, seek a coverage lawyer, or use the court's scheduling mechanisms.",
+    "why_D_wrong": "Incorrect. The represented party cannot provide consent on behalf of their lawyer. Rule 7.2-1 requires the other lawyer's consent — the party's personal agreement to speak is irrelevant.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 8",
+      "heading": "Dealing with Opposing Parties and Unrepresented Persons",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-1 (no direct contact with represented party — counsel temporarily unavailable)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "direct contact with represented party — no exception for opposing counsel's vacation"
+    },
+    "exam_trigger_words": ["represented party", "opposing counsel on vacation", "direct contact", "Rule 7.2-1", "unavailable"],
+    "tested_concepts": [
+      "Rule 7.2-1 — no exception to prohibition on direct contact when opposing counsel temporarily unavailable",
+      "urgency does not create practical-necessity exception to Rule 7.2-1",
+      "opposing party's consent cannot substitute for lawyer's consent"
+    ],
+    "estimated_time_seconds": 90
   }
 ]

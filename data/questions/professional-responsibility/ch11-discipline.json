@@ -145,5 +145,250 @@
       "repayment and cooperation are mitigating but do not limit Tribunal"
     ],
     "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-11-conduct-unb-001",
+    "chapter_number": 11,
+    "chapter_title": "Complaints and Discipline",
+    "topic_id": "complaints_discipline",
+    "topic_heading": "LSO Complaints and Discipline Process",
+    "subtopic_id": "professional_misconduct_vs_unbecoming",
+    "subtopic_heading": "Professional Misconduct vs. Conduct Unbecoming — LSOA s.33",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Dale is a practicing family lawyer in Toronto. In the course of his family law practice, Dale knowingly assists a client in hiding assets from opposing counsel during financial disclosure. Separately, outside his practice, Dale is convicted of shoplifting merchandise worth $75 from a grocery store — an offence unrelated to his legal work. The LSO is investigating both incidents.",
+    "call_of_question": "Which of the following correctly distinguishes the two categories of discipline that may apply to Dale's conduct under the Law Society Act?",
+    "options": {
+      "A": "Both the asset-hiding and shoplifting incidents constitute professional misconduct because professional misconduct applies to any wrongful act by a lawyer regardless of whether it occurs in practice.",
+      "B": "Knowingly assisting a client in hiding assets is professional misconduct because it occurs in the course of practice and violates professional obligations; the shoplifting conviction is conduct occurring outside practice but may constitute conduct unbecoming a licensee if it is sufficiently serious to reflect adversely on Dale's fitness or on the reputation of the profession.",
+      "C": "The shoplifting conviction cannot be the subject of any LSO discipline because it is a matter for the criminal courts; the LSO only has jurisdiction over conduct that occurs in the practice of law.",
+      "D": "Both incidents are conduct unbecoming a licensee because conduct unbecoming is a broader category that encompasses all forms of lawyer misconduct."
+    },
+    "correct_answer": "B",
+    "explanation": "The Law Society Act, R.S.O. 1990, c. L.8, s. 33 defines two relevant disciplinary categories. 'Professional misconduct' refers to conduct that occurs in the course of the practice of law and violates the obligations of a lawyer — such as knowingly assisting a client in concealing assets during financial disclosure. 'Conduct unbecoming a licensee' covers conduct that, while not necessarily occurring in practice, is so contrary to the expected standards of good character and integrity that it reflects adversely on the lawyer's fitness or on the profession. A criminal conviction for theft, even though it occurs outside practice, can fall into this category. The two categories are distinct and both may result in discipline.",
+    "why_A_wrong": "Incorrect. Professional misconduct is defined in relation to conduct in the course of practice — not all wrongful conduct by a lawyer is professional misconduct. Conduct outside practice falls under the separate category of conduct unbecoming.",
+    "why_B_wrong": "This IS the correct answer. Knowingly assisting a client in hiding assets is professional misconduct because it occurs in the course of practice and violates professional obligations; the shoplifting conviction is conduct occurring outside practice but may constitute conduct unbecoming a licensee if it is sufficiently serious to reflect adversely on Dale's fitness or on the reputation of the profession.",
+    "why_C_wrong": "Incorrect. The LSO has jurisdiction over conduct occurring outside the practice of law through the 'conduct unbecoming' category. A criminal conviction for dishonesty may well be subject to LSO discipline.",
+    "why_D_wrong": "Incorrect. Not all misconduct falls under conduct unbecoming. In-practice violations of professional obligations are properly categorized as professional misconduct — a separate and distinct category from conduct unbecoming.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 11",
+      "heading": "Complaints and Discipline",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8, s. 33 (professional misconduct vs. conduct unbecoming a licensee)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "professional misconduct vs conduct unbecoming — LSOA s.33 distinction"
+    },
+    "exam_trigger_words": ["professional misconduct", "conduct unbecoming", "LSOA s.33", "in-practice", "outside practice"],
+    "tested_concepts": [
+      "LSOA s.33 — professional misconduct covers in-practice violations",
+      "conduct unbecoming covers extra-practice conduct affecting fitness or reputation",
+      "two categories are distinct — both can apply simultaneously"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-11-miscon-002",
+    "chapter_number": 11,
+    "chapter_title": "Complaints and Discipline",
+    "topic_id": "complaints_discipline",
+    "topic_heading": "LSO Complaints and Discipline Process",
+    "subtopic_id": "misconduct_examples",
+    "subtopic_heading": "Professional Misconduct — Specific Examples and Distinction from Negligence",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Consider three different scenarios involving lawyers:\n(1) Lawyer A provides a thorough legal opinion but makes a genuine error in statutory interpretation that a competent lawyer would not have made, causing the client financial loss.\n(2) Lawyer B knowingly assists her client in creating backdated documents to use in ongoing litigation.\n(3) Lawyer C bills the client for 40 hours of work that actually took 15 hours, knowing the extra 25 hours are fabricated.\nThe LSO is assessing whether each scenario constitutes professional misconduct.",
+    "call_of_question": "Which of the following most accurately describes how the LSO would classify these three scenarios?",
+    "options": {
+      "A": "All three constitute professional misconduct because any conduct that harms a client is professional misconduct.",
+      "B": "Scenario (1) is professional misconduct; Scenarios (2) and (3) are conduct unbecoming because they involve dishonesty outside the practice of law.",
+      "C": "Scenario (1) may constitute negligence or incompetence but is not automatically professional misconduct; Scenarios (2) and (3) are professional misconduct because they involve knowing participation in fraud and dishonest billing — intentional violations of core professional obligations.",
+      "D": "Only Scenario (3) is professional misconduct; Scenario (2) involves client conduct that the lawyer facilitated, which is the client's responsibility, and Scenario (1) is merely negligence."
+    },
+    "correct_answer": "C",
+    "explanation": "The Law Society Act and the LSO Rules of Professional Conduct draw a meaningful distinction between negligence and professional misconduct. A lawyer who makes a genuine interpretive error, even a significant one, may be negligent — but negligence alone does not automatically constitute professional misconduct unless it is of a sufficiently serious character. By contrast, knowingly assisting a client in creating backdated documents (fraud) and deliberately billing for time never worked (dishonest billing / theft from client) are intentional violations of core professional obligations that fall squarely within professional misconduct. Intentional dishonesty and fraud in the course of practice are hallmarks of professional misconduct.",
+    "why_A_wrong": "Incorrect. Not all conduct that harms a client is professional misconduct. Honest mistakes and genuine errors in judgment may give rise to civil negligence liability without necessarily constituting professional misconduct.",
+    "why_B_wrong": "Incorrect. Scenarios (2) and (3) are professional misconduct, not conduct unbecoming — they occur in the course of the practice of law and involve intentional dishonesty in that context. Conduct unbecoming typically refers to conduct outside the practice of law.",
+    "why_C_wrong": "This IS the correct answer. Scenario (1) may constitute negligence or incompetence but is not automatically professional misconduct; Scenarios (2) and (3) are professional misconduct because they involve knowing participation in fraud and dishonest billing — intentional violations of core professional obligations.",
+    "why_D_wrong": "Incorrect. Knowingly assisting a client in fraud (creating backdated documents) is professional misconduct on the lawyer's part regardless of whether it was also the client's initiative. A lawyer who knowingly facilitates fraud shares professional responsibility for the misconduct.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 11",
+      "heading": "Complaints and Discipline",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8, s. 33; Rules of Professional Conduct (LSO), Rule 5.1 (professional misconduct — examples: fraud assistance, dishonest billing)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "professional misconduct — distinction from negligence — examples: fraud assistance and dishonest billing"
+    },
+    "exam_trigger_words": ["professional misconduct", "negligence", "fraud", "dishonest billing", "knowingly assisted"],
+    "tested_concepts": [
+      "negligence alone is not automatically professional misconduct",
+      "knowing assistance in client fraud is professional misconduct",
+      "dishonest billing is professional misconduct — intentional violation of core obligation"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-11-penalty-002",
+    "chapter_number": 11,
+    "chapter_title": "Complaints and Discipline",
+    "topic_id": "complaints_discipline",
+    "topic_heading": "LSO Complaints and Discipline Process",
+    "subtopic_id": "penalty_factors",
+    "subtopic_heading": "Factors in Determining Penalty — LSOA s.35",
+    "difficulty": "easy",
+    "fact_pattern": "The Law Society Tribunal has found Lawyer Oona guilty of professional misconduct for repeatedly failing to communicate with clients, missing multiple court deadlines, and neglecting three separate files over a two-year period. Oona has no prior disciplinary record, has expressed genuine remorse, has taken a practice management course, and has made arrangements to compensate the affected clients. The LSO prosecutor is seeking a 12-month suspension; Oona's counsel seeks a reprimand only.",
+    "call_of_question": "Which factors would the Law Society Tribunal weigh in determining the appropriate penalty under LSOA s.35?",
+    "options": {
+      "A": "The Tribunal considers only the severity of the misconduct; personal circumstances of the lawyer are not relevant to penalty.",
+      "B": "The Tribunal considers factors including the severity and nature of the misconduct, the number of instances, harm to clients, the lawyer's prior disciplinary record, demonstrated remorse and remedial steps taken, client compensation, and the need for specific and general deterrence; Oona's lack of prior record, remorse, and remedial steps are relevant mitigating factors even for serious neglect.",
+      "C": "The Tribunal must impose the penalty requested by the LSO prosecutor unless the respondent lawyer can establish exceptional circumstances.",
+      "D": "The Tribunal considers only whether the misconduct was intentional; since neglect is inadvertent, the maximum penalty available is a reprimand."
+    },
+    "correct_answer": "B",
+    "explanation": "Under LSOA s.35, the Law Society Tribunal has broad discretion in determining penalty and weighs a range of aggravating and mitigating factors. Aggravating factors include the seriousness of the misconduct, the number of incidents, harm to clients, and prior disciplinary record. Mitigating factors include genuine remorse, remedial steps taken (such as the practice management course), client compensation, and cooperation with the investigation. Neither the prosecutor's requested penalty nor the respondent's requested penalty binds the Tribunal. The Tribunal aims for a penalty proportionate to the misconduct that protects the public and maintains confidence in the profession.",
+    "why_A_wrong": "Incorrect. Personal circumstances are highly relevant to penalty determinations. Both aggravating factors (prior record, pattern of conduct) and mitigating factors (remorse, remediation, compensation) are considered.",
+    "why_B_wrong": "This IS the correct answer. The Tribunal considers factors including the severity and nature of the misconduct, the number of instances, harm to clients, the lawyer's prior disciplinary record, demonstrated remorse and remedial steps taken, client compensation, and the need for specific and general deterrence; Oona's lack of prior record, remorse, and remedial steps are relevant mitigating factors even for serious neglect.",
+    "why_C_wrong": "Incorrect. The Tribunal is not bound by the prosecutor's requested penalty. It exercises independent discretion in determining the proportionate penalty.",
+    "why_D_wrong": "Incorrect. Negligent or inadvertent misconduct may still result in significant penalties, including suspension, particularly when there are multiple instances and harm to clients. The Tribunal does not limit penalties to reprimands for non-intentional misconduct.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 11",
+      "heading": "Complaints and Discipline",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8, s. 35 (penalty determination — factors)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "LSO penalty — factors considered in determining appropriate sanction under LSOA s.35"
+    },
+    "exam_trigger_words": ["penalty", "mitigating factors", "aggravating factors", "LSOA s.35", "suspension", "reprimand"],
+    "tested_concepts": [
+      "LSOA s.35 — Tribunal considers aggravating and mitigating factors in penalty",
+      "Tribunal not bound by prosecutor's requested penalty",
+      "remorse, remediation, and compensation are mitigating factors"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-11-bencher-001",
+    "chapter_number": 11,
+    "chapter_title": "Complaints and Discipline",
+    "topic_id": "complaints_discipline",
+    "topic_heading": "LSO Complaints and Discipline Process",
+    "subtopic_id": "hearing_panel_process",
+    "subtopic_heading": "Discipline Process — Complaint to Hearing Panel — Rights of Respondent Lawyer",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Paul has received a letter from the Law Society of Ontario advising that a complaint has been filed against him and that the LSO is investigating his conduct for alleged professional misconduct arising from his handling of client trust funds. Paul's colleague advises him that the LSO can discipline him without any formal hearing and that he has no right to present a defence. Paul is unsure of his rights.",
+    "call_of_question": "Which of the following most accurately describes the process by which the LSO would proceed if the investigation results in a referral to a formal hearing?",
+    "options": {
+      "A": "The LSO may impose discipline summarily without a formal hearing if the evidence of misconduct is clear; no right to a hearing exists for findings of professional misconduct.",
+      "B": "If the investigation results in a referral to a hearing, the matter proceeds before the Law Society Tribunal Hearing Division; the respondent lawyer has the right to notice of the allegations, the right to be represented by counsel, the right to make full answer and defence, and the right to appeal an adverse decision to the Divisional Court.",
+      "C": "The LSO disciplinary process is entirely administrative; there is no right of appeal from a Tribunal decision.",
+      "D": "The LSO may impose a reprimand summarily, but for suspension or revocation a formal hearing is required; below-reprimand consequences may be imposed without notice or hearing."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Law Society Act, R.S.O. 1990, c. L.8, a lawyer who is the subject of a formal discipline proceeding has procedural rights that are analogous to those in a quasi-judicial proceeding: notice of the allegations (the formal notice of application), the right to retain and instruct counsel, the right to make full answer and defence including calling evidence and cross-examining witnesses, and the right to appeal to the Divisional Court. The Law Society Tribunal Hearing Division is the adjudicative body. Decisions of the Hearing Division may be appealed to the Divisional Court. The LSO cannot impose significant sanctions without a formal process — procedural fairness is a core requirement.",
+    "why_A_wrong": "Incorrect. The LSO cannot impose discipline for professional misconduct without a formal hearing before the Law Society Tribunal. Summary discipline without process would violate the respondent's procedural rights.",
+    "why_B_wrong": "This IS the correct answer. If the investigation results in a referral to a hearing, the matter proceeds before the Law Society Tribunal Hearing Division; the respondent lawyer has the right to notice of the allegations, the right to be represented by counsel, the right to make full answer and defence, and the right to appeal an adverse decision to the Divisional Court.",
+    "why_C_wrong": "Incorrect. There is a right of appeal from a Tribunal decision. Decisions of the Law Society Tribunal Hearing Division are appealable to the Divisional Court.",
+    "why_D_wrong": "Incorrect. Even a reprimand requires a formal process with notice and opportunity to respond. The Law Society Act does not authorize imposing penalties without procedural fairness protections.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 11",
+      "heading": "Complaints and Discipline",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8, ss. 34-49 (discipline process — hearing panel — rights of respondent — appeal to Divisional Court)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "LSO discipline process — respondent rights at hearing and appeal to Divisional Court"
+    },
+    "exam_trigger_words": ["Law Society Tribunal", "hearing panel", "right to defend", "Divisional Court", "appeal", "respondent rights"],
+    "tested_concepts": [
+      "Law Society Act — formal hearing required before discipline imposed",
+      "respondent has right to counsel, full answer and defence at hearing",
+      "Tribunal decisions appealable to Divisional Court"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-11-fitness-001",
+    "chapter_number": 11,
+    "chapter_title": "Complaints and Discipline",
+    "topic_id": "complaints_discipline",
+    "topic_heading": "LSO Complaints and Discipline Process",
+    "subtopic_id": "fitness_incapacity",
+    "subtopic_heading": "Fitness to Practise vs. Professional Misconduct — Incapacity — LSOA s.40",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Rita has been experiencing severe depression and a substance use disorder for two years. Her clients have experienced significant delays and communication failures. Several clients have filed complaints. The LSO investigation finds that Rita's conduct issues are largely attributable to her mental health and addiction, rather than dishonest intent. A colleague suggests that Rita will face the same discipline process as any other misconduct case. Rita's counsel argues that there is a separate process that applies.",
+    "call_of_question": "Is Rita's counsel correct that there is a distinct process for situations involving incapacity, and how does it differ from the standard professional misconduct process?",
+    "options": {
+      "A": "No — all conduct issues are governed by the professional misconduct process regardless of the cause; mental health and addiction are relevant only as mitigating factors in the penalty phase.",
+      "B": "Yes — the Law Society Act, s. 40 provides a distinct incapacity process for situations where a lawyer's ability to practise is impaired by physical or mental illness or addiction; unlike the misconduct process (which focuses on culpability and sanction), the incapacity process focuses on the lawyer's capacity to practise safely and may result in conditions on the licence, a practice monitor, or suspension until fitness is restored — with an emphasis on protection of the public and supporting the lawyer's recovery.",
+      "C": "Yes — if a lawyer has a mental health diagnosis, the LSO has no jurisdiction to impose any sanction other than a temporary leave of absence.",
+      "D": "No — the incapacity process applies only to physical disabilities; mental health and addiction issues are addressed through the professional misconduct process."
+    },
+    "correct_answer": "B",
+    "explanation": "The Law Society Act, R.S.O. 1990, c. L.8, s. 40 establishes a separate fitness to practise / incapacity process that is distinct from the professional misconduct process. The incapacity process applies where a lawyer's ability to practise law is impaired by physical or mental illness, addiction, or other conditions affecting capacity. The focus is on the lawyer's fitness to practise safely — not on culpability for wrongdoing. Outcomes may include conditions on the licence (such as supervised practice, mandatory treatment, reporting requirements), suspension until fitness is demonstrated, or other protective measures. This is fundamentally different from the misconduct process, which focuses on culpable conduct and sanctions. The two processes may run concurrently if there are elements of both misconduct and incapacity.",
+    "why_A_wrong": "Incorrect. Mental health and addiction are not simply mitigating factors in the misconduct process — they may trigger a distinct incapacity process under LSOA s. 40 that has its own focus and outcomes.",
+    "why_B_wrong": "This IS the correct answer. Yes — the Law Society Act, s. 40 provides a distinct incapacity process for situations where a lawyer's ability to practise is impaired by physical or mental illness or addiction; unlike the misconduct process (which focuses on culpability and sanction), the incapacity process focuses on the lawyer's capacity to practise safely and may result in conditions on the licence, a practice monitor, or suspension until fitness is restored — with an emphasis on protection of the public and supporting the lawyer's recovery.",
+    "why_C_wrong": "Incorrect. A mental health diagnosis does not give the LSO unlimited deference or limit sanctions to a leave of absence. The LSO may impose licence conditions, supervision, or suspension as needed to protect the public under the incapacity process.",
+    "why_D_wrong": "Incorrect. The incapacity process under LSOA s. 40 applies to impairments arising from mental illness and addiction, not only physical disabilities. Mental health conditions are specifically within the scope of the incapacity process.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 11",
+      "heading": "Complaints and Discipline",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8, s. 40 (fitness to practise — incapacity — distinct from professional misconduct process)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "fitness to practise — incapacity process — LSOA s.40 — distinct from misconduct"
+    },
+    "exam_trigger_words": ["fitness to practise", "incapacity", "LSOA s.40", "mental health", "addiction", "separate process"],
+    "tested_concepts": [
+      "LSOA s.40 — fitness to practise / incapacity is a separate process from professional misconduct",
+      "incapacity process focuses on ability to practise safely not culpability",
+      "outcomes include conditions, monitoring, or suspension until fitness restored"
+    ],
+    "estimated_time_seconds": 120
   }
 ]

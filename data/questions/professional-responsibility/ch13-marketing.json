@@ -1,0 +1,498 @@
+[
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-13-advert-001",
+    "chapter_number": 13,
+    "chapter_title": "Marketing, Advertising, and Discrimination",
+    "topic_id": "marketing_advertising",
+    "topic_heading": "Advertising — Permissible Content — Rule 4.2-1",
+    "subtopic_id": "permissible_advertising",
+    "subtopic_heading": "What Lawyers May Advertise — Rule 4.2-1",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Leon wishes to advertise his legal services. He prepares a website that states: 'Leon's Law Office — Family Law and Civil Litigation Services. Over 15 years of experience in Ontario courts. Reasonable hourly rates starting at $275/hour. Free 30-minute initial consultation. We serve clients across the Greater Toronto Area.' All statements in the advertisement are accurate.",
+    "call_of_question": "Which of the following best describes whether Leon's advertisement complies with Rule 4.2-1 of the Rules of Professional Conduct?",
+    "options": {
+      "A": "The advertisement is non-compliant because lawyers are prohibited from advertising their fees in any public forum.",
+      "B": "The advertisement is non-compliant because stating years of experience implies a comparative superiority over other lawyers, which is misleading.",
+      "C": "The advertisement is compliant — Rule 4.2-1 permits lawyers to advertise services, areas of practice, experience, and fees, provided the advertising is accurate and not misleading; all of Leon's statements are accurate and verifiable.",
+      "D": "The advertisement is non-compliant because lawyers may only advertise in bar association-approved directories, not personal websites."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 4.2-1 of the LSO Rules of Professional Conduct permits lawyers to market their services, provided the marketing is accurate and not misleading. Permissible content includes: areas of practice, years of experience, fee information, and geographic service area. Leon's advertisement accurately and honestly discloses all of this information. None of it is misleading. The rule does not prohibit advertising fees, bar the use of personal websites, or prohibit stating years of experience when truthful.",
+    "why_A_wrong": "Incorrect. Lawyers may disclose fee information in advertising, provided it is accurate. Advertising fees is expressly permitted under Rule 4.2-1.",
+    "why_B_wrong": "Incorrect. Stating accurate years of experience is not misleading. Rule 4.2-1 is concerned with accuracy; an honest statement of experience does not imply impermissible comparative superiority.",
+    "why_C_wrong": "This IS the correct answer. The advertisement is compliant — Rule 4.2-1 permits lawyers to advertise services, areas of practice, experience, and fees, provided the advertising is accurate and not misleading; all of Leon's statements are accurate and verifiable.",
+    "why_D_wrong": "Incorrect. Rule 4.2-1 does not restrict advertising to bar association-approved directories. Lawyers may advertise on personal websites, in print, online, and through other media, subject to the accuracy requirements.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 13",
+      "heading": "Marketing, Advertising, and Discrimination",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 4.2-1 (permissible advertising)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "advertising — permissible content"
+    },
+    "exam_trigger_words": [
+      "advertising",
+      "accurate",
+      "fees",
+      "experience",
+      "Rule 4.2-1"
+    ],
+    "tested_concepts": [
+      "Rule 4.2-1 — lawyers may advertise areas of practice, experience, and fees",
+      "advertising must be accurate and not misleading",
+      "no restriction on medium of advertising (websites permitted)"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-13-advert-002",
+    "chapter_number": 13,
+    "chapter_title": "Marketing, Advertising, and Discrimination",
+    "topic_id": "marketing_advertising",
+    "topic_heading": "Misleading Advertising — Rule 4.2-1",
+    "subtopic_id": "misleading_advertising",
+    "subtopic_heading": "Prohibited Misleading Claims — Guaranteeing Results and Unverifiable Statistics",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Mira runs a personal injury law firm. Her firm's website states: 'Mira's Law — We Win 98% of Our Cases. When You Win, We Win. Call Us for Your Guaranteed Settlement.' The 98% statistic is based on a sample of 50 small claims files her firm resolved in the past year; the firm's overall success rate including all cases across all years is not reflected in the statistic. The 'guaranteed settlement' language is intended to mean the firm works on contingency.",
+    "call_of_question": "Which of the following best describes the professional responsibility issues with Mira's advertisement?",
+    "options": {
+      "A": "The advertisement is compliant because the 98% statistic, while based on a sample, is technically accurate for those files.",
+      "B": "The advertisement is compliant because 'guaranteed settlement' is a recognized marketing expression that clients understand does not mean a literal guarantee.",
+      "C": "The advertisement breaches Rule 4.2-1 in multiple respects: the 98% statistic is misleading because it is based on an unrepresentative sample and implies a general success rate that does not exist; and the 'guaranteed settlement' language is prohibited because lawyers cannot guarantee outcomes or results.",
+      "D": "The advertisement breaches Rule 4.2-1 only if a client actually relies on the misleading information and suffers harm."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 4.2-1 and its Commentary prohibit lawyers from making advertising claims that are misleading, even if technically true in a narrow sense. Using a statistic based on an unrepresentative sample of 50 small claims files to imply a 98% general success rate is misleading — it does not accurately represent the firm's overall performance. More critically, the Commentary to Rule 4.2-1 expressly prohibits guaranteeing outcomes or results. Language such as 'guaranteed settlement' is prohibited regardless of what the lawyer intends it to mean, because it creates a misleading impression that a favourable result is assured. This is an exam trap: candidates may focus on the technical truth of the statistic and miss that misleading-by-omission and result guarantees are prohibited.",
+    "why_A_wrong": "Incorrect. The technical accuracy of a statistic does not excuse its misleading use. Using a statistic derived from an unrepresentative sample to imply a general success rate is misleading under Rule 4.2-1 even if the underlying data is real.",
+    "why_B_wrong": "Incorrect. The subjective intent behind 'guaranteed settlement' is irrelevant; the test is whether the language creates a misleading impression. Language that implies a guaranteed result is prohibited under the Commentary to Rule 4.2-1.",
+    "why_C_wrong": "This IS the correct answer. The advertisement breaches Rule 4.2-1 in multiple respects: the 98% statistic is misleading because it is based on an unrepresentative sample and implies a general success rate that does not exist; and the 'guaranteed settlement' language is prohibited because lawyers cannot guarantee outcomes or results.",
+    "why_D_wrong": "Incorrect. A breach of Rule 4.2-1 is established by the content of the advertisement, not by proof of reliance or actual harm to a client. The prohibition is on the misleading content itself.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 13",
+      "heading": "Marketing, Advertising, and Discrimination",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 4.2-1 Commentary (misleading advertising; guaranteeing results)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "advertising — misleading claims — guaranteed results"
+    },
+    "exam_trigger_words": [
+      "guaranteed settlement",
+      "success rate",
+      "misleading",
+      "statistics",
+      "Rule 4.2-1"
+    ],
+    "tested_concepts": [
+      "Rule 4.2-1 Commentary — prohibits guaranteeing legal outcomes",
+      "misleading-by-omission prohibited even if underlying data is technically true",
+      "advertising breach established by content not by proof of client reliance"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-13-advert-003",
+    "chapter_number": 13,
+    "chapter_title": "Marketing, Advertising, and Discrimination",
+    "topic_id": "marketing_advertising",
+    "topic_heading": "Misleading Advertising — Unverifiable Claims — Rule 4.2-1",
+    "subtopic_id": "unverifiable_claims",
+    "subtopic_heading": "Unverifiable Superlatives and Comparative Claims",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Nate's law firm website prominently states: 'Ontario's Best Criminal Defence Lawyer' and 'The Top-Ranked Firm in Toronto for Criminal Law.' These designations are not based on any recognized independent ranking or assessment — Nate simply believes they are true based on his own assessment of his practice and client feedback.",
+    "call_of_question": "Do these claims comply with Rule 4.2-1 of the Rules of Professional Conduct?",
+    "options": {
+      "A": "Yes — a lawyer's genuine personal belief in the quality of their services is a sufficient basis for using superlative descriptions in advertising.",
+      "B": "No — Rule 4.2-1 requires that advertising claims be accurate and verifiable; unverifiable superlatives such as 'Ontario's Best' or 'Top-Ranked' without an objective independent basis are misleading and not compliant.",
+      "C": "Yes — using superlatives is permissible as long as the lawyer believes them to be true and no complaint has been filed by a client or competitor.",
+      "D": "No — but only because the claims compare Nate to specific named competitors."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 4.2-1 requires that lawyer advertising be accurate and not misleading. Superlative claims such as 'Ontario's Best' or 'Top-Ranked' are inherently unverifiable unless based on an independent, recognized ranking process. A lawyer's personal belief in their own superiority does not make such claims accurate or verifiable. Using superlatives without an objective basis creates a misleading impression in prospective clients about the lawyer's relative qualifications or standing, which is prohibited under Rule 4.2-1.",
+    "why_A_wrong": "Incorrect. Genuine personal belief is not a substitute for objective verifiability. Rule 4.2-1 requires claims to be accurate and verifiable — a lawyer's self-assessment is not an objective basis for superlative advertising.",
+    "why_B_wrong": "This IS the correct answer. Rule 4.2-1 requires that advertising claims be accurate and verifiable; unverifiable superlatives such as 'Ontario's Best' or 'Top-Ranked' without an objective independent basis are misleading and not compliant.",
+    "why_C_wrong": "Incorrect. The absence of a complaint does not validate non-compliant advertising. Rule 4.2-1 sets a standard of accuracy — a lawyer's personal belief and the absence of complaints are not relevant to whether that standard is met.",
+    "why_D_wrong": "Incorrect. The claims are problematic because they are unverifiable superlatives without an objective basis, not because they name specific competitors. Even a non-comparative superlative ('Ontario's Best') is prohibited when it has no verifiable foundation.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 13",
+      "heading": "Marketing, Advertising, and Discrimination",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 4.2-1 (unverifiable advertising claims)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "advertising — unverifiable superlatives"
+    },
+    "exam_trigger_words": [
+      "best",
+      "top-ranked",
+      "superlative",
+      "unverifiable",
+      "misleading advertising"
+    ],
+    "tested_concepts": [
+      "Rule 4.2-1 — advertising claims must be accurate and verifiable",
+      "unverifiable superlatives are misleading even if genuinely believed",
+      "personal belief insufficient basis for comparative or superlative advertising"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-13-ref-fee-001",
+    "chapter_number": 13,
+    "chapter_title": "Marketing, Advertising, and Discrimination",
+    "topic_id": "marketing_advertising",
+    "topic_heading": "Referral Fees — Rule 3.6-6",
+    "subtopic_id": "referral_fee_rules",
+    "subtopic_heading": "Permissible Referral Arrangements — Disclosure and Conditions",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Olivia regularly refers personal injury clients to Lawyer Perry, who runs a high-volume personal injury practice. Olivia and Perry have an informal verbal agreement whereby Perry pays Olivia $500 for each client referred. Olivia does not tell her clients about the referral fee arrangement. Olivia believes the arrangement is fine because the amount is modest and Perry provides excellent service.",
+    "call_of_question": "Does Olivia's referral arrangement with Perry comply with Rule 3.6-6 of the Rules of Professional Conduct?",
+    "options": {
+      "A": "Yes — a modest referral fee between lawyers is always permissible because it promotes access to justice by encouraging lawyers to refer clients to appropriate specialists.",
+      "B": "No — referral fees between lawyers are absolutely prohibited under the Rules of Professional Conduct.",
+      "C": "No — Rule 3.6-6 permits referral fees between lawyers only if the client is informed of and consents to the arrangement; Olivia's failure to disclose the referral fee to her clients means the arrangement is non-compliant.",
+      "D": "Yes — the arrangement is compliant provided Perry charges the client no more than the client would have paid Olivia for the same service."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.6-6 of the LSO Rules of Professional Conduct permits a lawyer to receive a referral fee from another lawyer, but only if three conditions are met: (1) the client is informed of the referral fee and consents to it; (2) the fee is reasonable; and (3) the referral fee arrangement does not improperly influence the referring lawyer's judgment about the client's interests. Olivia's failure to disclose the referral fee to her clients is a clear breach of the rule. The modesty of the fee or the quality of Perry's service does not cure the non-disclosure. Referral fees to or from non-lawyers (other than in an MDP) remain prohibited.",
+    "why_A_wrong": "Incorrect. A referral fee between lawyers is not automatically permissible by virtue of its modest amount. Client disclosure and consent are mandatory conditions under Rule 3.6-6.",
+    "why_B_wrong": "Incorrect. Referral fees between lawyers are not absolutely prohibited. They are permitted under Rule 3.6-6, subject to disclosure, consent, and reasonableness requirements.",
+    "why_C_wrong": "This IS the correct answer. Rule 3.6-6 permits referral fees between lawyers only if the client is informed of and consents to the arrangement; Olivia's failure to disclose the referral fee to her clients means the arrangement is non-compliant.",
+    "why_D_wrong": "Incorrect. The fee charged to the client is not the relevant condition for Rule 3.6-6 compliance. The rule focuses on disclosure to and consent of the client, not a comparison of fees charged by the referring and receiving lawyer.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 13",
+      "heading": "Marketing, Advertising, and Discrimination",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.6-6 (referral fees)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "referral fees — disclosure requirement"
+    },
+    "exam_trigger_words": [
+      "referral fee",
+      "disclosure",
+      "client consent",
+      "Rule 3.6-6",
+      "referral arrangement"
+    ],
+    "tested_concepts": [
+      "Rule 3.6-6 — referral fees between lawyers require client disclosure and consent",
+      "referral fees permitted subject to three conditions",
+      "modest fee amount does not cure non-disclosure"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-13-name-001",
+    "chapter_number": 13,
+    "chapter_title": "Marketing, Advertising, and Discrimination",
+    "topic_id": "marketing_advertising",
+    "topic_heading": "Firm Names and Letterhead — Rule 4.2 and By-Law 7",
+    "subtopic_id": "firm_names",
+    "subtopic_heading": "Permissible Firm Names — No Misleading Implications",
+    "difficulty": "medium",
+    "fact_pattern": "Three lawyers — Quentin, Rachel, and Sandra — form a partnership. They propose to name their firm 'Ontario Department of Legal Services' and use the tagline 'A Government-Affiliated Legal Resource.' None of the three lawyers has any affiliation with any government department. They believe the name will attract clients who want 'official' legal help.",
+    "call_of_question": "Does the proposed firm name comply with the LSO rules governing firm names and marketing?",
+    "options": {
+      "A": "Yes — lawyers have freedom to choose any firm name, and the chosen name is simply a business branding decision.",
+      "B": "No — the Rules of Professional Conduct and LSO requirements prohibit firm names that are misleading; a name implying government affiliation when none exists is prohibited.",
+      "C": "Yes — using 'Department' in a law firm name is a recognized professional designation term that does not imply government affiliation.",
+      "D": "No — but only because the name does not include the surnames of the partners, which is required under the Rules."
+    },
+    "correct_answer": "B",
+    "explanation": "The LSO rules require that law firm names not be misleading. Using a name that implies government affiliation — such as 'Ontario Department of Legal Services' with the tagline 'A Government-Affiliated Legal Resource' — when no such affiliation exists is prohibited. It creates a false impression that prospective clients are accessing a government service rather than a private law firm. This is a form of misleading marketing that violates the accuracy requirements of Rule 4.2-1 applied to firm names. The rules also prohibit names that suggest official status the firm does not hold.",
+    "why_A_wrong": "Incorrect. Lawyers do not have unlimited freedom in choosing firm names. The name must not be misleading — including not implying government affiliation or official status that does not exist.",
+    "why_B_wrong": "This IS the correct answer. The Rules of Professional Conduct and LSO requirements prohibit firm names that are misleading; a name implying government affiliation when none exists is prohibited.",
+    "why_C_wrong": "Incorrect. 'Department' does not have a recognized professional designation meaning in the legal context. Its ordinary meaning strongly implies a government or institutional department, making it misleading when used by a private law firm.",
+    "why_D_wrong": "Incorrect. While some law firm naming conventions involve partner surnames, there is no absolute requirement that firm names include only partner surnames. The issue here is misleading government affiliation, not the absence of partner surnames.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 13",
+      "heading": "Marketing, Advertising, and Discrimination",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 4.2-1; LSO By-Law 7 (firm names — misleading names prohibited)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "advertising — misleading firm name"
+    },
+    "exam_trigger_words": [
+      "firm name",
+      "government affiliation",
+      "misleading",
+      "letterhead",
+      "official status"
+    ],
+    "tested_concepts": [
+      "Rule 4.2-1 — firm names must not be misleading",
+      "names implying government affiliation when none exists are prohibited",
+      "misleading names violate accuracy requirements of marketing rules"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-13-discrim-001",
+    "chapter_number": 13,
+    "chapter_title": "Marketing, Advertising, and Discrimination",
+    "topic_id": "discrimination_harassment",
+    "topic_heading": "Discrimination in Providing Legal Services — Rule 6.3-1",
+    "subtopic_id": "discrimination_services",
+    "subtopic_heading": "Prohibited Discrimination — Providing Legal Services — Rule 6.3-1",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Trevor operates a boutique immigration law practice. A prospective client, Uma, contacts Trevor for assistance with a refugee claim. During the initial intake call, Trevor learns that Uma is a member of a particular religious minority. Trevor declines to take the file, telling Uma he 'prefers to work with clients from his own cultural background.' No other reason for the refusal is given.",
+    "call_of_question": "Has Trevor breached Rule 6.3-1 of the Rules of Professional Conduct?",
+    "options": {
+      "A": "No — a lawyer has an absolute right to decline any client for any reason, including personal preference.",
+      "B": "No — Rule 6.3-1 applies only to discrimination in employment within the firm, not to client selection decisions.",
+      "C": "Yes — Rule 6.3-1 prohibits a lawyer from discriminating against a client or prospective client on grounds including religion; declining to provide legal services to Uma because of her religious background is a breach of the rule.",
+      "D": "Yes — but only if Uma can prove that Trevor accepted clients of other religious backgrounds in the past."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 6.3-1 of the LSO Rules of Professional Conduct prohibits a lawyer from discriminating in the provision of legal services on grounds including religion, race, national or ethnic origin, colour, sex, sexual orientation, gender identity or expression, age, disability, and other prohibited grounds under applicable human rights legislation. Declining to take Uma's file on the explicitly stated basis of her religious background is direct discrimination in the provision of legal services, contrary to Rule 6.3-1. While lawyers generally have some discretion in accepting clients, they may not exercise that discretion on discriminatory grounds.",
+    "why_A_wrong": "Incorrect. A lawyer's discretion to decline clients is not absolute. It cannot be exercised on grounds prohibited under Rule 6.3-1, including religion.",
+    "why_B_wrong": "Incorrect. Rule 6.3-1 applies to the provision of legal services broadly, including to client selection and service delivery decisions, not only to internal employment practices.",
+    "why_C_wrong": "This IS the correct answer. Rule 6.3-1 prohibits a lawyer from discriminating against a client or prospective client on grounds including religion; declining to provide legal services to Uma because of her religious background is a breach of the rule.",
+    "why_D_wrong": "Incorrect. Direct evidence of comparative treatment is not required to establish a breach of Rule 6.3-1. The explicit statement of a discriminatory reason for declining the client is itself the breach.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 13",
+      "heading": "Marketing, Advertising, and Discrimination",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 6.3-1 (discrimination in provision of legal services)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "discrimination — provision of legal services"
+    },
+    "exam_trigger_words": [
+      "discrimination",
+      "religion",
+      "client selection",
+      "Rule 6.3-1",
+      "refused to take"
+    ],
+    "tested_concepts": [
+      "Rule 6.3-1 — prohibition on discrimination in provision of legal services",
+      "lawyer discretion to decline clients does not extend to discriminatory grounds",
+      "religion is a prohibited ground of discrimination in legal services"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-13-discrim-002",
+    "chapter_number": 13,
+    "chapter_title": "Marketing, Advertising, and Discrimination",
+    "topic_id": "discrimination_harassment",
+    "topic_heading": "Harassment — Definition and Management Obligations — Rule 6.3-2",
+    "subtopic_id": "harassment_obligations",
+    "subtopic_heading": "Harassment in the Workplace — Lawyer's Management Obligation",
+    "difficulty": "hard",
+    "fact_pattern": "Vance is the managing partner of a medium-sized firm. An associate, Wren, reports to Vance that a senior partner, Xavier, has repeatedly made demeaning and belittling comments to Wren about her performance in front of clients and junior staff — conduct Wren characterizes as psychological harassment. Vance investigates informally by speaking to Xavier, who denies any intent to harass. Vance concludes that Xavier meant no harm and takes no further action. No formal complaint process is initiated and no corrective measures are put in place. The conduct continues.",
+    "call_of_question": "Which of the following best describes Vance's professional responsibility obligations in this situation?",
+    "options": {
+      "A": "Vance has fulfilled his obligations by conducting an informal investigation; once the alleged harasser denies intent, no further steps are required.",
+      "B": "Vance has no obligation to take further action because the conduct occurred between colleagues, not between a lawyer and a client.",
+      "C": "Vance has breached his obligations under Rule 6.3-2; the management obligation requires a lawyer who manages a firm to take reasonable steps to ensure the firm maintains a harassment-free workplace, including implementing processes to address complaints and taking corrective action; informal denial by the alleged harasser is insufficient.",
+      "D": "Vance is only required to act if Wren files a formal written complaint with the LSO."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 6.3-2 of the LSO Rules of Professional Conduct requires a lawyer not to engage in or permit harassment in the workplace. Commentary to Rule 6.3-2 extends the obligation to lawyers who manage firms: they must take reasonable steps to create and maintain a harassment-free environment. This includes having appropriate complaint processes in place and taking meaningful corrective action when harassment is reported. Psychological harassment — such as repeated demeaning comments in front of colleagues and clients — falls squarely within the definition. Vance's reliance on Xavier's denial of intent is insufficient; harassment is assessed by effect on the recipient, not by the subjective intent of the alleged harasser. Vance's failure to implement corrective measures after receiving the complaint is itself a breach of the management obligation.",
+    "why_A_wrong": "Incorrect. Denial of intent by the alleged harasser does not discharge the management obligation. Vance must assess whether the conduct constitutes harassment by its effect, not only by the harasser's stated intent, and take appropriate corrective action.",
+    "why_B_wrong": "Incorrect. Rule 6.3-2 applies to the full workplace environment, including conduct between lawyers and staff, associates, and partners. Colleague-to-colleague harassment is expressly within the scope of the rule.",
+    "why_C_wrong": "This IS the correct answer. Vance has breached his obligations under Rule 6.3-2; the management obligation requires a lawyer who manages a firm to take reasonable steps to ensure the firm maintains a harassment-free workplace, including implementing processes to address complaints and taking corrective action; informal denial by the alleged harasser is insufficient.",
+    "why_D_wrong": "Incorrect. The management obligation to address workplace harassment is triggered by the report to Vance, not by a formal LSO filing. A formal LSO complaint is a separate mechanism; it does not replace the managing lawyer's internal obligations.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 13",
+      "heading": "Marketing, Advertising, and Discrimination",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 6.3-2 (harassment — management obligation)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "harassment — management obligation"
+    },
+    "exam_trigger_words": [
+      "harassment",
+      "psychological harassment",
+      "managing partner",
+      "workplace",
+      "Rule 6.3-2"
+    ],
+    "tested_concepts": [
+      "Rule 6.3-2 — managing lawyer must maintain harassment-free workplace",
+      "harassment assessed by effect not intent",
+      "informal denial by alleged harasser insufficient — corrective action required"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-13-solicit-001",
+    "chapter_number": 13,
+    "chapter_title": "Marketing, Advertising, and Discrimination",
+    "topic_id": "marketing_advertising",
+    "topic_heading": "Prohibited Solicitation — Rule 4.3-1",
+    "subtopic_id": "prohibited_solicitation",
+    "subtopic_heading": "Direct Solicitation of Vulnerable Persons — Rule 4.3-1",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Yasmine is a personal injury lawyer. She learns from a hospital worker acquaintance that a patient, Zack, was seriously injured in a multi-vehicle accident and is currently in hospital recovering from his injuries. Yasmine visits Zack at the hospital, introduces herself as a personal injury lawyer, and tells him she can help him get maximum compensation and that he should sign a retainer with her before he speaks to anyone else. Zack, who is heavily medicated at the time, signs the retainer agreement.",
+    "call_of_question": "Has Yasmine violated Rule 4.3-1 of the Rules of Professional Conduct?",
+    "options": {
+      "A": "No — visiting a potential client in hospital to explain one's services is a permissible form of advertising and client development.",
+      "B": "No — Yasmine's solicitation is permissible because she acted in good faith and did not charge an excessive fee.",
+      "C": "Yes — Rule 4.3-1 prohibits a lawyer from directly soliciting a person who is in circumstances of vulnerability; visiting an accident victim who is hospitalized and medicated to pressure them into signing a retainer agreement is prohibited solicitation.",
+      "D": "Yes — but only because Yasmine used a hospital worker to identify Zack, which is a separate breach of confidentiality rules."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 4.3-1 of the LSO Rules of Professional Conduct prohibits a lawyer from directly soliciting legal business from a person who is vulnerable — including persons who have recently suffered trauma or who are emotionally distressed or physically incapacitated. This prohibition reflects the risk that vulnerable persons cannot exercise the same independent judgment in accepting legal representation as they would in ordinary circumstances. Visiting an accident victim in hospital who is heavily medicated, pressuring them to sign a retainer, and instructing them not to speak to anyone else is a paradigmatic example of prohibited solicitation. The good faith of the lawyer or the reasonableness of the fees is irrelevant to the solicitation violation.",
+    "why_A_wrong": "Incorrect. Direct in-person solicitation of a vulnerable person in hospital is not a form of permissible advertising. Rule 4.3-1 specifically prohibits this type of conduct, which is sometimes called 'ambulance chasing.'",
+    "why_B_wrong": "Incorrect. Good faith and reasonable fees are not defences to a breach of Rule 4.3-1. The prohibition on direct solicitation of vulnerable persons applies regardless of the lawyer's intentions or fee structure.",
+    "why_C_wrong": "This IS the correct answer. Rule 4.3-1 prohibits a lawyer from directly soliciting a person who is in circumstances of vulnerability; visiting an accident victim who is hospitalized and medicated to pressure them into signing a retainer agreement is prohibited solicitation.",
+    "why_D_wrong": "Incorrect. While using a hospital worker to identify patients may raise additional concerns, the direct solicitation of the vulnerable patient is itself the primary violation of Rule 4.3-1 and is independently sufficient to establish the breach.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 13",
+      "heading": "Marketing, Advertising, and Discrimination",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 4.3-1 (prohibited solicitation of vulnerable persons)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "solicitation — vulnerable persons"
+    },
+    "exam_trigger_words": [
+      "solicitation",
+      "vulnerable",
+      "hospital",
+      "accident victim",
+      "ambulance chasing",
+      "Rule 4.3-1"
+    ],
+    "tested_concepts": [
+      "Rule 4.3-1 — direct solicitation of vulnerable persons prohibited",
+      "visiting hospitalized accident victim to solicit retainer is prohibited",
+      "good faith and reasonable fees are not defences to solicitation violation"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-13-repute-001",
+    "chapter_number": 13,
+    "chapter_title": "Marketing, Advertising, and Discrimination",
+    "topic_id": "marketing_advertising",
+    "topic_heading": "Reputation of the Profession — Rule 6.1-1 and Rule 4.2",
+    "subtopic_id": "professional_reputation",
+    "subtopic_heading": "Marketing That Demeans or Is Unworthy of the Profession",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Aaron launches an aggressive advertising campaign for his personal injury practice. His television commercials feature actors dressed as opposing insurance company representatives being thrown around and humiliated. The tagline is: 'We'll DESTROY the other side — call Aaron, the Pit Bull of Personal Injury Law.' He also creates a social media presence featuring memes depicting opposing counsel as 'greedy cowards.' Aaron argues that his campaign is effective marketing and that aggressive branding attracts clients in a competitive market.",
+    "call_of_question": "Does Aaron's marketing campaign raise professional responsibility concerns under the LSO Rules of Professional Conduct?",
+    "options": {
+      "A": "No — lawyers are entitled to use aggressive marketing language; the profession does not regulate tone or style of advertising as long as factual claims are accurate.",
+      "B": "No — Aaron's campaign is aimed at insurance companies and opposing counsel, not at the LSO or the legal system, so it does not implicate professional responsibility.",
+      "C": "Yes — Rule 6.1-1 requires a lawyer to uphold the reputation of the legal profession; marketing that demeans opposing parties and opposing counsel, uses derogatory imagery, or employs language unworthy of the profession can constitute conduct unbecoming a lawyer and may violate Rule 4.2-1's requirement that advertising not demean the profession.",
+      "D": "Yes — but only if Aaron's opposing counsel actually complains to the LSO about being depicted in the memes."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 6.1-1 requires a lawyer to uphold the reputation of the legal profession and to refrain from conduct that is unbecoming or reflects adversely on the profession. While competitive advertising is permitted, marketing that denigrates opposing parties, depicts opposing counsel in demeaning terms, or uses language and imagery that a reasonable person would find offensive and unworthy of a legal professional raises concerns under both Rule 6.1-1 and the Commentary to Rule 4.2-1. The tagline 'Pit Bull of Personal Injury Law' and memes depicting opposing counsel as 'greedy cowards' cross the line from assertive marketing into conduct that demeans the profession and opposing parties. The effectiveness of the campaign in attracting clients is not a defence to a professional conduct concern.",
+    "why_A_wrong": "Incorrect. Rule 6.1-1 and Rule 4.2-1 together impose limits on marketing style and tone beyond mere factual accuracy. Marketing that is demeaning or unworthy of the profession is prohibited regardless of whether the factual claims are technically accurate.",
+    "why_B_wrong": "Incorrect. The target of the demeaning conduct — whether the LSO, the legal system, opposing parties, or opposing counsel — does not determine whether the marketing crosses the professional responsibility line. Conduct that demeans any person in a way that reflects adversely on the profession is problematic.",
+    "why_C_wrong": "This IS the correct answer. Rule 6.1-1 requires a lawyer to uphold the reputation of the legal profession; marketing that demeans opposing parties and opposing counsel, uses derogatory imagery, or employs language unworthy of the profession can constitute conduct unbecoming a lawyer and may violate Rule 4.2-1's requirement that advertising not demean the profession.",
+    "why_D_wrong": "Incorrect. Professional responsibility concerns regarding conduct unbecoming a lawyer are not dependent on a formal complaint by the affected party. The LSO may address such conduct on its own initiative or through a third-party complaint.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 13",
+      "heading": "Marketing, Advertising, and Discrimination",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 6.1-1 (reputation of the profession); Rule 4.2-1 Commentary (advertising — dignity of profession)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "advertising — demeaning the profession; conduct unbecoming"
+    },
+    "exam_trigger_words": [
+      "pit bull",
+      "demeaning",
+      "conduct unbecoming",
+      "reputation of profession",
+      "Rule 6.1-1"
+    ],
+    "tested_concepts": [
+      "Rule 6.1-1 — lawyer must uphold reputation of the legal profession",
+      "marketing that demeans opposing parties or counsel may violate Rule 4.2-1 and Rule 6.1-1",
+      "effectiveness of marketing is not a defence to professional conduct concerns"
+    ],
+    "estimated_time_seconds": 120
+  }
+]

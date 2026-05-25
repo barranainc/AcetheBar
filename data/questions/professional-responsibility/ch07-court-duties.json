@@ -414,5 +414,250 @@
       "self-represented opposing party does not change disclosure obligation"
     ],
     "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-07-omit-001",
+    "chapter_number": 7,
+    "chapter_title": "Duties to Tribunals and Third Parties",
+    "topic_id": "duties_tribunals",
+    "topic_heading": "Duties as Advocate — Rule 5.1-2",
+    "subtopic_id": "misleading_by_omission",
+    "subtopic_heading": "Misleading by Selective Omission — Rule 5.1-2",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Marissa is representing a plaintiff in a personal injury action. In her written submissions, she accurately describes the medical evidence supporting the plaintiff's injuries but deliberately omits a subsequent medical report — prepared at her client's own request — that concluded the plaintiff had made a full recovery and had no ongoing impairment. Marissa reasons that the omitted report was unfavourable, that opposing counsel has a copy, and that candour does not require her to highlight evidence against her own client.",
+    "call_of_question": "Has Marissa breached her duty of candour under Rule 5.1-2 by omitting the recovery report from her submissions?",
+    "options": {
+      "A": "No — a lawyer has no obligation to highlight evidence that undermines her client's case; the adversarial system places the burden on opposing counsel to adduce contrary evidence.",
+      "B": "No — because opposing counsel has the report, the court is not being misled; candour is only violated when the court has no access to the omitted information.",
+      "C": "Yes — Rule 5.1-2 prohibits a lawyer from creating a false impression in the mind of the tribunal through selective presentation of facts; deliberately omitting a material medical report that contradicts the plaintiff's injury claim misleads the tribunal by omission, even if opposing counsel possesses the report.",
+      "D": "No — the duty of candour applies only to statements of law, not to the selection of factual evidence presented in submissions."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 5.1-2 of the LSO Rules of Professional Conduct prohibits a lawyer from creating a false impression in the mind of the tribunal through selective presentation, omission of material facts, or misleading innuendo. Candour extends beyond avoiding outright lies — it encompasses not structuring submissions so as to convey a misleading picture of the evidence. The fact that opposing counsel has the report does not remedy the misleading impression created by Marissa's selective submissions. The court must be presented with a fair, not strategically distorted, account of the material facts.",
+    "why_A_wrong": "Incorrect. While a lawyer need not volunteer every piece of unhelpful evidence, structuring submissions to create a materially false impression through deliberate omission violates Rule 5.1-2. This goes beyond ordinary adversarial selection.",
+    "why_B_wrong": "Incorrect. The test for breach of the candour obligation is not whether opposing counsel has the information but whether the lawyer has created a false impression in the tribunal's mind. Opposing counsel's possession of a document does not cure the misleading effect of its deliberate omission from submissions.",
+    "why_C_wrong": "This IS the correct answer. Yes — Rule 5.1-2 prohibits a lawyer from creating a false impression in the mind of the tribunal through selective presentation of facts; deliberately omitting a material medical report that contradicts the plaintiff's injury claim misleads the tribunal by omission, even if opposing counsel possesses the report.",
+    "why_D_wrong": "Incorrect. The duty of candour under Rule 5.1-2 applies to all communications with the tribunal — including the factual narrative in submissions — not only to legal argument.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 7",
+      "heading": "Duties to Tribunals and Third Parties",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.1-2 (misleading by omission — selective presentation of facts)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "duty of candour — misleading by selective omission of material facts"
+    },
+    "exam_trigger_words": ["selective omission", "false impression", "candour", "material facts", "Rule 5.1-2"],
+    "tested_concepts": [
+      "Rule 5.1-2 — candour extends to not creating false impression through selective omission",
+      "opposing counsel having document does not cure misleading omission",
+      "duty of candour applies to factual submissions not only legal argument"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-07-expart-002",
+    "chapter_number": 7,
+    "chapter_title": "Duties to Tribunals and Third Parties",
+    "topic_id": "duties_tribunals",
+    "topic_heading": "Duties as Advocate — Rule 5.1-2",
+    "subtopic_id": "ex_parte_full_disclosure",
+    "subtopic_heading": "Ex Parte Applications — Duty of Full Disclosure — Rule 5.1-7",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Priya brings an urgent ex parte motion seeking an injunction to freeze her client's business competitor's bank accounts. The competitor is not present or represented at the hearing. Priya is aware of two facts that weigh against granting the injunction: first, her client previously lost a similar motion on nearly identical facts six months ago; and second, the competitor has already commenced proceedings to challenge the underlying claim. Priya does not disclose either fact to the court.",
+    "call_of_question": "What obligation does Rule 5.1-7 impose on Priya when bringing an ex parte application?",
+    "options": {
+      "A": "Priya is not required to disclose adverse facts on an ex parte motion because the adversarial system allows each party to present only their strongest case.",
+      "B": "On an ex parte application, a lawyer must make full and frank disclosure of all material facts known to the lawyer, including facts adverse to the client's position, because the opposing party is not present to correct the record; Priya's failure to disclose the prior failed motion and the competitor's proceedings violated this obligation.",
+      "C": "Priya's duty of confidentiality prevents her from disclosing information about the prior motion because it concerns the client's litigation history.",
+      "D": "The duty of full disclosure on ex parte applications applies only to criminal matters such as production order applications, not to civil injunction proceedings."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 5.1-7 of the LSO Rules of Professional Conduct imposes a heightened duty of candour on ex parte applications: because only one side is present, the lawyer bringing the motion must make full and frank disclosure of all material facts, including those adverse to the client's position. This is essential to ensure the court is not misled into granting relief based on an incomplete picture. The prior failed motion and the pending counter-proceedings are plainly material to the court's assessment of the injunction. Priya's failure to disclose this information is a breach of the heightened candour obligation in ex parte proceedings.",
+    "why_A_wrong": "Incorrect. The normal adversarial principle that each party presents its own case does not apply on ex parte motions. The absence of the opposing party places a higher — not lower — disclosure obligation on the moving party's lawyer.",
+    "why_B_wrong": "This IS the correct answer. On an ex parte application, a lawyer must make full and frank disclosure of all material facts known to the lawyer, including facts adverse to the client's position, because the opposing party is not present to correct the record; Priya's failure to disclose the prior failed motion and the competitor's proceedings violated this obligation.",
+    "why_C_wrong": "Incorrect. The duty of confidentiality does not shield a lawyer from the obligation to make full disclosure on an ex parte motion. The confidentiality obligation applies to disclosure outside the retainer — it does not authorize misleading the court by withholding material facts in the very proceeding the lawyer is conducting.",
+    "why_D_wrong": "Incorrect. The duty of full and frank disclosure on ex parte applications is not limited to criminal matters. It applies in all proceedings where relief is sought without notice to the opposing party, including civil injunction applications.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 7",
+      "heading": "Duties to Tribunals and Third Parties",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.1-7 (ex parte applications — full disclosure obligation)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "ex parte applications — heightened duty of full and frank disclosure"
+    },
+    "exam_trigger_words": ["ex parte", "full disclosure", "adverse facts", "without notice", "Rule 5.1-7"],
+    "tested_concepts": [
+      "Rule 5.1-7 — ex parte applications require full and frank disclosure of material adverse facts",
+      "heightened candour obligation when opposing party absent",
+      "confidentiality does not override full disclosure on ex parte motion"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-07-adv-auth-001",
+    "chapter_number": 7,
+    "chapter_title": "Duties to Tribunals and Third Parties",
+    "topic_id": "duties_tribunals",
+    "topic_heading": "Duties as Advocate — Rule 5.1-2",
+    "subtopic_id": "adverse_authority_control",
+    "subtopic_heading": "Adverse Controlling Authority — Disclosure Obligation — Rule 5.1-3",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Jerome is arguing a novel contract interpretation issue before the Ontario Superior Court. He is aware that the Ontario Court of Appeal issued a decision last year that, if applied, would be directly fatal to his argument. However, he also believes the Court of Appeal decision was wrongly decided and plans to argue that it should be distinguished or not followed. Jerome decides not to mention the Court of Appeal decision at all and instead waits to see if opposing counsel raises it.",
+    "call_of_question": "Is Jerome's decision not to disclose the contrary Court of Appeal decision consistent with his obligations under Rule 5.1-2?",
+    "options": {
+      "A": "Yes — Jerome has no obligation to disclose a decision he believes was wrongly decided; he can reserve his arguments for any decision opposing counsel raises.",
+      "B": "Yes — the duty to disclose adverse authority only applies when the lawyer agrees the authority is correct and binding; if Jerome plans to argue it should not be followed, he need not volunteer it.",
+      "C": "No — Rule 5.1-2 requires a lawyer as advocate to disclose to the tribunal any directly adverse controlling authority, even if the lawyer intends to argue it was wrongly decided or should be distinguished; Jerome must bring the Court of Appeal decision to the court's attention and may then make his arguments for why it should not be applied.",
+      "D": "No — but Jerome must disclose the decision only if the opposing party discovers it and specifically asks Jerome to address it."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 5.1-2 of the LSO Rules of Professional Conduct requires a lawyer to disclose to the tribunal any directly adverse controlling authority known to the lawyer, regardless of whether the lawyer intends to argue the authority was wrongly decided. The obligation to disclose is separate from the obligation to follow — Jerome may vigorously argue the Court of Appeal decision should be distinguished or not followed, but he cannot simply conceal it from the court. Candour requires bringing all material controlling authority to the tribunal's attention so the court can make an informed decision.",
+    "why_A_wrong": "Incorrect. The duty to disclose adverse controlling authority is not contingent on Jerome's view of whether the decision is correct. He must disclose it and may then argue it is distinguishable or should not be followed.",
+    "why_B_wrong": "Incorrect. This is the exam trap. The obligation to disclose does not depend on whether the lawyer agrees the authority is right. A lawyer who believes a decision was wrongly decided must still bring it to the court's attention — they simply may also argue against applying it.",
+    "why_C_wrong": "This IS the correct answer. No — Rule 5.1-2 requires a lawyer as advocate to disclose to the tribunal any directly adverse controlling authority, even if the lawyer intends to argue it was wrongly decided or should be distinguished; Jerome must bring the Court of Appeal decision to the court's attention and may then make his arguments for why it should not be applied.",
+    "why_D_wrong": "Incorrect. The duty to disclose is proactive and does not arise only if opposing counsel first raises the authority. Jerome must volunteer the disclosure regardless of opposing counsel's conduct.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 7",
+      "heading": "Duties to Tribunals and Third Parties",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.1-2 (adverse controlling authority — mandatory disclosure)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "adverse controlling authority — duty to disclose even when intending to argue against"
+    },
+    "exam_trigger_words": ["adverse authority", "controlling authority", "wrongly decided", "distinguish", "mandatory disclosure"],
+    "tested_concepts": [
+      "Rule 5.1-2 — duty to disclose adverse controlling authority is independent of whether lawyer agrees with it",
+      "disclosure obligation is proactive — does not require opposing party to raise authority first",
+      "lawyer may argue against authority after disclosing it"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-07-rectify-001",
+    "chapter_number": 7,
+    "chapter_title": "Duties to Tribunals and Third Parties",
+    "topic_id": "duties_tribunals",
+    "topic_heading": "Duties as Advocate — Rule 5.1-2",
+    "subtopic_id": "duty_to_rectify",
+    "subtopic_heading": "Duty to Rectify False Statement Made to Court — Rule 5.1-2(i)",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Sandra is acting for a defendant in a civil breach of contract action. During examinations for discovery, her client stated under oath that he had never signed the contract in dispute. Sandra relied on this in her written submissions. After the submissions were filed, the client admits to Sandra that he did in fact sign the contract — he had panicked during discovery and lied. Trial is three weeks away. The client instructs Sandra not to correct the record because doing so would destroy their case.",
+    "call_of_question": "What must Sandra do upon learning that a false statement was made to the court in her submissions, based on her client's false discovery testimony?",
+    "options": {
+      "A": "Sandra may continue without correction because her submissions were made in good faith based on her client's instructions at the time; she bears no responsibility for the client's false discovery evidence.",
+      "B": "Sandra must take steps to correct the false record; Rule 5.1-2(i) requires a lawyer who has made a false statement to the court — even unknowingly — to take remedial steps once aware of the falsity, including correcting the submissions; if the client refuses, Sandra must withdraw.",
+      "C": "Sandra may continue the trial without correction as long as she does not refer to the false discovery testimony again in her closing submissions.",
+      "D": "Sandra must immediately disclose the client's admission to opposing counsel because her duty to the court overrides solicitor-client privilege in this context."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 5.1-2(i) of the LSO Rules of Professional Conduct provides that a lawyer who has made a representation to the court that the lawyer later learns was false must take remedial steps to correct the false record. It does not matter that Sandra acted in good faith when she filed the submissions — once she learns of the falsity, she has an obligation to act. The appropriate steps are to advise the client that the record must be corrected and, if the client refuses, to withdraw from the representation. Sandra cannot continue building a case on what she now knows to be a false foundation. Importantly, she must not disclose the client's privileged admission to opposing counsel — the response is correction or withdrawal, not breach of privilege.",
+    "why_A_wrong": "Incorrect. Good faith at the time of the original submission does not extinguish the duty to rectify once the lawyer becomes aware of the falsehood. Rule 5.1-2(i) creates a prospective obligation to correct upon learning of the falsity.",
+    "why_B_wrong": "This IS the correct answer. Sandra must take steps to correct the false record; Rule 5.1-2(i) requires a lawyer who has made a false statement to the court — even unknowingly — to take remedial steps once aware of the falsity, including correcting the submissions; if the client refuses, Sandra must withdraw.",
+    "why_C_wrong": "Incorrect. Avoiding further reference to the false testimony does not constitute rectification. Sandra's submissions already rely on the false record — continuing the proceeding without correction maintains the misleading state of the record before the court.",
+    "why_D_wrong": "Incorrect. Sandra must not disclose the client's privileged admission to opposing counsel. The duty of candour requires correction of the record, not breach of solicitor-client privilege. The correct response is to advise the client, correct the record if possible, and withdraw if the client refuses.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 7",
+      "heading": "Duties to Tribunals and Third Parties",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.1-2(i) (duty to rectify false statement to tribunal)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "duty to rectify — false statement discovered after submission filed"
+    },
+    "exam_trigger_words": ["rectify", "false statement", "correct the record", "withdraw", "Rule 5.1-2(i)"],
+    "tested_concepts": [
+      "Rule 5.1-2(i) — duty to rectify false statement to court once aware of falsity",
+      "good faith at time of original statement does not extinguish duty to correct",
+      "response is correction or withdrawal — not disclosure of privileged admission"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-07-present-001",
+    "chapter_number": 7,
+    "chapter_title": "Duties to Tribunals and Third Parties",
+    "topic_id": "duties_tribunals",
+    "topic_heading": "Duties as Advocate — Rule 5.1-2",
+    "subtopic_id": "presentation_of_evidence",
+    "subtopic_heading": "Presentation of Evidence — Knowing vs. Suspecting Evidence is False — Rule 5.1-2",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Grant is preparing for a civil trial. His client will testify that a written invoice in the file is genuine and was signed by the other party. Grant has a nagging suspicion that the invoice may have been altered, but he has no proof — there are no forensic tests, no admissions, and no contradictory evidence. The client insists the invoice is authentic. Grant is trying to decide whether he can call his client to testify about the invoice.",
+    "call_of_question": "Under Rule 5.1-2, may Grant call his client to testify about the invoice in these circumstances?",
+    "options": {
+      "A": "No — even a suspicion that evidence may be false is enough to prevent a lawyer from adducing it; Rule 5.1-2 prohibits adducing any evidence the lawyer is not certain is truthful.",
+      "B": "Yes — Rule 5.1-2 prohibits adducing evidence the lawyer knows to be false, not evidence the lawyer merely suspects may be false; Grant does not have knowledge of falsity and may call the evidence, but should remain alert.",
+      "C": "No — Grant must conduct forensic testing before calling the client to testify; failing to verify the authenticity of documentary evidence violates Rule 5.1-2.",
+      "D": "Yes — Grant may call the evidence because his duty of loyalty to his client requires him to advance the client's position on all available evidence regardless of any personal suspicion."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 5.1-2 of the LSO Rules of Professional Conduct prohibits a lawyer from adducing evidence the lawyer knows to be false. The critical word is 'knows' — the prohibition does not extend to evidence the lawyer merely suspects or has doubts about. If Grant has a suspicion but no actual knowledge that the invoice is false, he is not prohibited from calling his client to testify about it. The lawyer must act on actual knowledge, not unsubstantiated suspicion. Of course, if Grant later acquires actual knowledge that the invoice is a forgery, the analysis changes entirely.",
+    "why_A_wrong": "Incorrect. Rule 5.1-2 draws a clear line between knowledge and suspicion. A lawyer who merely suspects evidence may be false is not prohibited from adducing it — only a lawyer who knows the evidence to be false is prohibited. Suspicion alone does not trigger the prohibition.",
+    "why_B_wrong": "This IS the correct answer. Yes — Rule 5.1-2 prohibits adducing evidence the lawyer knows to be false, not evidence the lawyer merely suspects may be false; Grant does not have knowledge of falsity and may call the evidence, but should remain alert.",
+    "why_C_wrong": "Incorrect. Rule 5.1-2 does not impose a duty to conduct forensic verification of all documentary evidence before adducing it. The obligation is not to knowingly adduce false evidence — it does not require a lawyer to prove evidence genuine before adducing it.",
+    "why_D_wrong": "Incorrect. While the duty of loyalty is relevant, the better answer explains the specific rule that governs this situation. The duty of loyalty does not override the prohibition on adducing known false evidence, and that prohibition is the controlling rule here — Grant may call the evidence because of the knowledge/suspicion distinction, not simply because of loyalty.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 7",
+      "heading": "Duties to Tribunals and Third Parties",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.1-2 (presentation of evidence — knowing vs. suspecting evidence is false)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "presentation of evidence — distinction between knowing and suspecting falsity"
+    },
+    "exam_trigger_words": ["knows to be false", "suspicion", "adducing evidence", "Rule 5.1-2", "knowledge vs. suspicion"],
+    "tested_concepts": [
+      "Rule 5.1-2 — prohibition on adducing evidence applies only when lawyer knows evidence is false",
+      "suspicion alone does not prohibit adducing evidence",
+      "knowledge vs. suspicion distinction is central to Rule 5.1-2"
+    ],
+    "estimated_time_seconds": 90
   }
 ]

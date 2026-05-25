@@ -366,5 +366,282 @@
       "missed limitation period from inadequate systems is competence breach"
     ],
     "estimated_time_seconds": 180
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-01-cpd-002",
+    "chapter_number": 1,
+    "chapter_title": "Licensing and Regulation of the Legal Profession",
+    "topic_id": "lso_licensing",
+    "topic_heading": "Annual Obligations — Continuing Professional Development",
+    "subtopic_id": "cpd_requirements",
+    "subtopic_heading": "CPD Requirements — Annual Minimum and Part-Time Practitioners",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Priya practises law on a part-time basis — she works approximately two days per week at a small general practice firm. She holds a full barrister and solicitor licence with the LSO. At the end of the year, she has not completed any CPD hours, reasoning that because she only works part-time her CPD obligation must be correspondingly reduced.",
+    "call_of_question": "Is Priya correct that her CPD obligations are reduced because she is a part-time practitioner?",
+    "options": {
+      "A": "Yes — the LSO's CPD requirements are prorated based on the number of hours a lawyer works per week.",
+      "B": "Yes — part-time lawyers are exempt from CPD requirements provided they declare part-time status on their annual report.",
+      "C": "No — the LSO's CPD requirements apply to all practising licensees regardless of whether they practise full-time or part-time; Priya must complete the minimum annual CPD hours, including the required professionalism component, regardless of the number of days per week she practises.",
+      "D": "No — but Priya may defer up to half of her CPD requirement to the following year by filing a hardship exemption."
+    },
+    "correct_answer": "C",
+    "explanation": "The LSO's CPD requirements apply to all practising licensees holding a barrister and solicitor licence, whether they practise full-time or part-time. There is no proportional reduction or proration of CPD hours based on the hours worked per week. A part-time lawyer must complete the same minimum annual CPD hours as a full-time lawyer, including the mandatory professionalism component. If Priya does not wish to comply with CPD requirements, she must formally apply for non-practising status — she cannot simply reduce her obligations by practising fewer hours.",
+    "why_A_wrong": "Incorrect. CPD hours are not prorated by hours worked. The full annual requirement applies to all practising licensees regardless of their work schedule.",
+    "why_B_wrong": "Incorrect. There is no part-time declaration exemption from CPD requirements. Practising licensees must meet the full CPD obligation.",
+    "why_C_wrong": "This IS the correct answer. The LSO's CPD requirements apply to all practising licensees regardless of whether they practise full-time or part-time; Priya must complete the minimum annual CPD hours, including the required professionalism component, regardless of the number of days per week she practises.",
+    "why_D_wrong": "Incorrect. There is no general hardship deferral mechanism that allows a practitioner to defer CPD hours to the following year simply by filing an exemption. The annual obligation applies in full.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 1",
+      "heading": "Licensing and Regulation of the Legal Profession",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8; LSO By-Law 6.1 (Continuing Professional Development)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "CPD — annual obligation applies to all practising licensees"
+    },
+    "exam_trigger_words": [
+      "CPD",
+      "part-time",
+      "annual requirement",
+      "practising licensee",
+      "By-Law 6.1"
+    ],
+    "tested_concepts": [
+      "By-Law 6.1 — CPD applies to all practising licensees regardless of hours worked",
+      "no proration of CPD for part-time practice",
+      "non-practising status required to reduce obligations"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-01-mgmt-002",
+    "chapter_number": 1,
+    "chapter_title": "Licensing and Regulation of the Legal Profession",
+    "topic_id": "lso_licensing",
+    "topic_heading": "Practice Management — Trust Accounting Obligations",
+    "subtopic_id": "practice_management",
+    "subtopic_heading": "Practice Management — Trust Accounting from Day One",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Sasha was called to the bar six months ago and has just opened her own sole practice. On her third day of practice, a client pays Sasha $5,000 as a retainer to cover anticipated fees and disbursements. Sasha places the money in her personal bank account because she has not yet set up a trust account. She plans to set up the trust account next week. She believes that as a newly opened practice she has a grace period before trust accounting obligations apply.",
+    "call_of_question": "Is Sasha correct that she has a grace period before trust accounting obligations apply to her new practice?",
+    "options": {
+      "A": "Yes — the LSO provides a six-month grace period for newly called lawyers setting up a practice before trust accounting obligations begin.",
+      "B": "Yes — Sasha's obligation to maintain a trust account begins only when she receives funds from a second client, not from the first client.",
+      "C": "No — trust accounting obligations under By-Law 9 apply from the moment a lawyer receives client funds; the $5,000 retainer must be deposited into a properly established trust account immediately; placing client funds in a personal account is a serious breach regardless of how recently the practice opened.",
+      "D": "No — but Sasha may keep the funds in a personal account for up to 30 days provided she earmarks them as client funds."
+    },
+    "correct_answer": "C",
+    "explanation": "By-Law 9 of the LSO By-Laws imposes trust accounting obligations on all licensees in private practice from the moment they receive client funds that must be held in trust. There is no grace period for newly opened practices. A lawyer who is not yet ready to comply with trust accounting obligations should not accept client funds until the trust account is properly established. Placing client funds in a personal account — even temporarily — is a serious breach of By-Law 9 and constitutes a mixing of trust funds with personal funds, which is prohibited. Ignorance of the obligations or the newness of the practice is not a defence.",
+    "why_A_wrong": "Incorrect. The LSO does not provide a grace period for trust accounting compliance. By-Law 9 obligations apply immediately upon receipt of client funds, regardless of how recently the practice opened.",
+    "why_B_wrong": "Incorrect. Trust accounting obligations arise from the receipt of the first client funds that are to be held in trust — there is no threshold based on the number of clients.",
+    "why_C_wrong": "This IS the correct answer. Trust accounting obligations under By-Law 9 apply from the moment a lawyer receives client funds; the $5,000 retainer must be deposited into a properly established trust account immediately; placing client funds in a personal account is a serious breach regardless of how recently the practice opened.",
+    "why_D_wrong": "Incorrect. There is no 30-day earmarking mechanism that authorizes holding client trust funds in a personal account. Client funds must be in a trust account immediately upon receipt.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 1",
+      "heading": "Licensing and Regulation of the Legal Profession",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (trust accounting — obligations apply immediately upon receipt of client funds)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "practice management — trust accounting — new practice"
+    },
+    "exam_trigger_words": [
+      "trust account",
+      "new practice",
+      "grace period",
+      "client funds",
+      "By-Law 9"
+    ],
+    "tested_concepts": [
+      "By-Law 9 — trust accounting obligations apply immediately upon receipt of client funds",
+      "no grace period for newly opened practices",
+      "placing client funds in personal account is a serious breach"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-01-mgmt-003",
+    "chapter_number": 1,
+    "chapter_title": "Licensing and Regulation of the Legal Profession",
+    "topic_id": "lso_licensing",
+    "topic_heading": "Practice Management — Errors and Omissions Insurance",
+    "subtopic_id": "practice_management",
+    "subtopic_heading": "Mandatory E&O Insurance — LAWPRO — By-Law 6",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Theo works in private practice as a sole practitioner. His LAWPRO errors and omissions insurance policy lapses because he forgot to pay the annual premium. He does not realize the lapse for three weeks and continues to practise law during that period. A client files a complaint alleging that Theo provided advice that caused financial loss during the period the insurance was lapsed.",
+    "call_of_question": "Which of the following best describes Theo's professional responsibility exposure arising from practising without insurance coverage?",
+    "options": {
+      "A": "Theo has no professional responsibility exposure — E&O insurance is a private contractual matter between Theo and LAWPRO and is not governed by LSO By-Laws.",
+      "B": "Theo is exposed to professional discipline for practising without the mandatory LAWPRO errors and omissions insurance required under By-Law 6; all licensees in private practice must maintain continuous E&O coverage, and practising without it during the lapse period is a breach of licensing obligations.",
+      "C": "Theo has exposure only if he is actually found liable to the client — until liability is established, the insurance lapse creates no disciplinary risk.",
+      "D": "Theo's coverage lapse is automatically reinstated by LAWPRO upon payment of the overdue premium, as if the coverage never lapsed."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 6 of the LSO By-Laws requires all licensees engaged in private practice to maintain errors and omissions insurance through LAWPRO, the Law Society's mandatory insurance program. Maintaining continuous coverage is a licensing obligation, not merely a prudential business decision. Allowing the policy to lapse — even inadvertently — and continuing to practise during the lapse constitutes a breach of By-Law 6 and exposes Theo to professional discipline. The existence or non-existence of an actual client claim is irrelevant to the licensing obligation.",
+    "why_A_wrong": "Incorrect. LAWPRO E&O insurance is mandated by By-Law 6 of the LSO By-Laws as a condition of practising law in private practice. It is a licensing requirement, not merely a private insurance contract.",
+    "why_B_wrong": "This IS the correct answer. Theo is exposed to professional discipline for practising without the mandatory LAWPRO errors and omissions insurance required under By-Law 6; all licensees in private practice must maintain continuous E&O coverage, and practising without it during the lapse period is a breach of licensing obligations.",
+    "why_C_wrong": "Incorrect. The disciplinary exposure arises from the lapse in mandatory coverage, not from whether a client ultimately recovers against Theo. The obligation is continuous coverage, not coverage only when claims are made.",
+    "why_D_wrong": "Incorrect. Paying an overdue premium reinstates coverage prospectively but does not create retroactive coverage for the lapse period. The period of uninsured practice remains a breach regardless of subsequent payment.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 1",
+      "heading": "Licensing and Regulation of the Legal Profession",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 6 (mandatory errors and omissions insurance — LAWPRO)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "practice management — mandatory E&O insurance — coverage lapse"
+    },
+    "exam_trigger_words": [
+      "LAWPRO",
+      "errors and omissions insurance",
+      "E&O insurance",
+      "coverage lapse",
+      "By-Law 6",
+      "mandatory insurance"
+    ],
+    "tested_concepts": [
+      "By-Law 6 — mandatory LAWPRO E&O insurance for private practitioners",
+      "continuous coverage is a licensing obligation",
+      "practising during lapse is a breach of By-Law 6 regardless of whether claims arise"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-01-ins-001",
+    "chapter_number": 1,
+    "chapter_title": "Licensing and Regulation of the Legal Profession",
+    "topic_id": "lso_licensing",
+    "topic_heading": "Classes of Licence — Paralegal vs. Barrister Scope",
+    "subtopic_id": "classes_of_licence",
+    "subtopic_heading": "Paralegal Scope of Practice vs. Barrister Scope of Practice",
+    "difficulty": "easy",
+    "fact_pattern": "A client approaches a licensed paralegal, Victor, and asks Victor to represent him in a Superior Court of Justice proceeding to contest the validity of a will. Victor explains that this type of proceeding is outside the scope of paralegal practice in Ontario, but the client insists, saying he prefers to use Victor and offers to sign a waiver agreeing to the representation.",
+    "call_of_question": "May Victor accept the representation in the Superior Court of Justice estate proceeding based on the client's waiver?",
+    "options": {
+      "A": "Yes — a client's informed written waiver can expand a paralegal's scope of practice for that specific matter.",
+      "B": "Yes — as a licensed legal professional in Ontario, Victor has authority to appear in any court in Ontario.",
+      "C": "No — a paralegal's scope of practice in Ontario is defined by the Law Society Act and the LSO By-Laws and cannot be expanded by client consent; Superior Court of Justice proceedings contesting wills fall outside paralegal scope, and Victor must decline regardless of the client's preference or waiver.",
+      "D": "No — but Victor may refer the matter to a licensed barrister and share in the fees as a referral arrangement."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Law Society Act and the LSO's licensing framework, paralegals hold a limited licence that authorizes them to provide legal services only within a defined scope. This scope is set by the Law Society and includes certain tribunal proceedings, Small Claims Court, Provincial Offences Court, and summary conviction criminal proceedings. Superior Court of Justice matters — including estate litigation contesting the validity of a will — are outside that scope. The client's consent or waiver cannot expand the paralegal's legislative scope of practice. Providing legal services outside one's licensed scope constitutes unauthorized practice, regardless of client agreement.",
+    "why_A_wrong": "Incorrect. Client consent cannot expand a paralegal's scope of practice. The scope is defined by statute and regulation, not by agreement between the paralegal and client.",
+    "why_B_wrong": "Incorrect. A paralegal's licence does not authorize appearance in all Ontario courts. The scope is limited to specific courts and tribunals as defined by the Law Society Act and By-Laws.",
+    "why_C_wrong": "This IS the correct answer. A paralegal's scope of practice in Ontario is defined by the Law Society Act and the LSO By-Laws and cannot be expanded by client consent; Superior Court of Justice proceedings contesting wills fall outside paralegal scope, and Victor must decline regardless of the client's preference or waiver.",
+    "why_D_wrong": "Incorrect. A referral to a barrister may be appropriate, but the fee-sharing element is a separate compliance issue — referral fees between paralegals and barristers must comply with the Rules of Professional Conduct. Victor cannot share in fees merely by referring work outside his scope.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 1",
+      "heading": "Licensing and Regulation of the Legal Profession",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8; LSO By-Laws — paralegal scope of practice"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "licensing — paralegal scope of practice — client consent cannot expand scope"
+    },
+    "exam_trigger_words": [
+      "paralegal",
+      "scope of practice",
+      "client waiver",
+      "Superior Court",
+      "outside scope"
+    ],
+    "tested_concepts": [
+      "paralegal scope of practice defined by Law Society Act and By-Laws",
+      "client consent cannot expand paralegal scope",
+      "providing services outside scope is unauthorized practice"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-01-class-lic-002",
+    "chapter_number": 1,
+    "chapter_title": "Licensing and Regulation of the Legal Profession",
+    "topic_id": "lso_licensing",
+    "topic_heading": "Reinstatement of Licence After Suspension",
+    "subtopic_id": "licensing_process",
+    "subtopic_heading": "Reinstatement After Suspension — LSOA s.49 — Burden on Applicant",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Ulrika's licence was administratively suspended by the LSO for failure to pay her annual membership fees and failure to complete her CPD obligations for two consecutive years. She continued to practise law during the period of suspension, believing the suspension was merely technical and would be resolved once she paid the fees. After six months of unauthorized practice, Ulrika pays all outstanding fees and completes her overdue CPD. She now applies for reinstatement.",
+    "call_of_question": "Which of the following most accurately describes the consequences Ulrika faces and the reinstatement process?",
+    "options": {
+      "A": "Ulrika is automatically reinstated upon paying the outstanding fees and completing CPD; administrative suspensions are reversed automatically and carry no additional consequences.",
+      "B": "Ulrika must apply to the LSO for reinstatement, bears the burden of satisfying the LSO that she meets the requirements for reinstatement, and faces additional professional misconduct exposure for having practised law during the period of suspension; practising while suspended is unauthorized practice and a separate breach.",
+      "C": "Ulrika is reinstated with a formal warning on her record, but no further professional discipline can arise because the underlying non-compliance (unpaid fees and CPD) has been remedied.",
+      "D": "Ulrika must reapply for her licence from the beginning and re-complete the licensing requirements because a suspension of more than 90 days voids the original licence."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Law Society Act (LSOA), a lawyer whose licence has been suspended must apply for reinstatement and bears the burden of establishing to the LSO's satisfaction that the grounds for reinstatement are met. Reinstatement is not automatic — it requires an application even for administrative suspensions. More seriously, Ulrika practised law for six months while suspended. Practising law while suspended is a separate and serious violation constituting unauthorized practice under the Law Society Act and professional misconduct. Paying the fees and completing CPD resolves the original non-compliance but does not immunize Ulrika from discipline for the unauthorized practice during the suspension period.",
+    "why_A_wrong": "Incorrect. Administrative suspensions are not automatically reversed upon payment of fees. Reinstatement requires an application to the LSO. Additionally, practising while suspended is a separate breach that carries its own consequences.",
+    "why_B_wrong": "This IS the correct answer. Ulrika must apply to the LSO for reinstatement, bears the burden of satisfying the LSO that she meets the requirements for reinstatement, and faces additional professional misconduct exposure for having practised law during the period of suspension; practising while suspended is unauthorized practice and a separate breach.",
+    "why_C_wrong": "Incorrect. Remedying the underlying non-compliance does not erase the misconduct of practising while suspended. That is a separate and serious breach that the LSO may pursue through disciplinary proceedings.",
+    "why_D_wrong": "Incorrect. A suspension does not void the original licence or require a complete restart of the licensing process. Reinstatement by application is the appropriate mechanism, not relicensing from scratch.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 1",
+      "heading": "Licensing and Regulation of the Legal Profession",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8, s. 49 (reinstatement after suspension); s. 26.1 (unauthorized practice)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "reinstatement after suspension — unauthorized practice during suspension"
+    },
+    "exam_trigger_words": [
+      "reinstatement",
+      "suspension",
+      "practising while suspended",
+      "unauthorized practice",
+      "LSOA s.49",
+      "burden of proof"
+    ],
+    "tested_concepts": [
+      "LSOA s.49 — reinstatement requires application — not automatic",
+      "applicant bears burden of satisfying LSO on reinstatement",
+      "practising while suspended is separate breach of unauthorized practice"
+    ],
+    "estimated_time_seconds": 150
   }
 ]

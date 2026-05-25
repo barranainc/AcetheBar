@@ -469,5 +469,544 @@
       "must transfer file when withholding causes prejudice to client's legal position"
     ],
     "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-05-cont-001",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fees and Disbursements — Rule 3.6",
+    "subtopic_id": "contingency_fee_requirements",
+    "subtopic_heading": "Contingency Fee — By-Law 9 Mandatory Content",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Fatima is retained by a client injured in a slip-and-fall accident. She prepares a contingency fee agreement setting out that her fee will be 30% of any recovery, signed by both Fatima and the client. The agreement is in writing but does not mention that the client was advised of alternatives — including hourly billing — or disclose what other fee options were available. The client later challenges the agreement on the basis that she was not properly informed.",
+    "call_of_question": "Under By-Law 9 and Rule 3.6-2, which of the following is a required element of a valid contingency fee agreement that Fatima's agreement is missing?",
+    "options": {
+      "A": "The agreement must include a cap of 25% on the contingency fee percentage.",
+      "B": "The agreement must disclose that the client was advised of other available fee options, including the option to retain counsel on an hourly fee basis.",
+      "C": "The agreement must be witnessed by a notary public before it is valid.",
+      "D": "The agreement must be approved by the court before the lawyer may begin work on the matter."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 9 requires that a contingency fee agreement confirm that the client was advised of other fee options, including the right to retain a lawyer on an hourly or other non-contingency basis. This requirement ensures the client makes an informed, voluntary choice to proceed on a contingency basis rather than an hourly or other fee arrangement. A contingency fee agreement that omits this disclosure is deficient under By-Law 9 and may be unenforceable or subject to challenge by the client.",
+    "why_A_wrong": "Incorrect. There is no universal 25% cap on contingency fees in Ontario under By-Law 9. The maximum percentage permitted varies by matter type and tribunal approval may be required only where a cap applies.",
+    "why_B_wrong": "This IS the correct answer. The agreement must disclose that the client was advised of other available fee options, including the option to retain counsel on an hourly fee basis.",
+    "why_C_wrong": "Incorrect. A contingency fee agreement does not require notarization. It must be in writing and signed by both the lawyer and the client, but witnessing by a notary is not required.",
+    "why_D_wrong": "Incorrect. Court approval is not required before a lawyer may commence work under a contingency fee agreement. Judicial approval of the contingency arrangement may be required in some specific contexts (e.g., class proceedings), but is not a general pre-condition.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (contingency fee agreement content requirements); Rules of Professional Conduct (LSO), Rule 3.6-2"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "contingency fee — mandatory disclosure of other fee options"
+    },
+    "exam_trigger_words": ["contingency fee", "By-Law 9", "other fee options", "hourly fee", "informed choice"],
+    "tested_concepts": [
+      "By-Law 9 — contingency fee agreement must disclose other fee options",
+      "client must be advised of hourly and other billing alternatives",
+      "omission of disclosure makes agreement deficient"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-05-cont-002",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fees and Disbursements — Rule 3.6",
+    "subtopic_id": "contingency_fee_cap",
+    "subtopic_heading": "Contingency Fee — Maximum Percentage and Tribunal Oversight",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Grant enters into a contingency fee agreement with a client in a personal injury matter. The agreement provides that Grant will receive 45% of the gross recovery if the matter proceeds to trial. The client signs the agreement without any objection. After a trial verdict of $500,000, Grant seeks to collect $225,000 as his fee.",
+    "call_of_question": "What is the most accurate statement about Grant's contingency fee arrangement and the applicable regulatory limits?",
+    "options": {
+      "A": "The contingency fee agreement is fully enforceable because the client freely signed it and the parties are free to negotiate whatever percentage they choose.",
+      "B": "Under By-Law 9, contingency fees in personal injury matters are subject to a maximum percentage; an agreement exceeding that cap requires approval by the court or a tribunal, and without such approval, Grant may not collect the full 45%.",
+      "C": "Contingency fees are capped at 50% in all civil matters; since 45% is below this cap, Grant's fee is fully enforceable.",
+      "D": "Grant may collect 45% of the net recovery (after deducting disbursements) without any regulatory limit, provided the agreement was in writing."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 9 establishes that contingency fee agreements in personal injury and certain other matters are subject to a maximum percentage, and agreements that exceed this cap require court or tribunal approval before they are enforceable. Client consent alone does not override the regulatory cap — the court or tribunal must review and approve any agreement that exceeds the prescribed maximum. Without this approval, the enforceability of a fee exceeding the cap is uncertain and the lawyer risks being found to have charged an impermissible fee.",
+    "why_A_wrong": "Incorrect. Freedom of contract does not override the regulatory cap on contingency fees. Client consent is a necessary but not sufficient condition for enforceability when the cap is exceeded.",
+    "why_B_wrong": "This IS the correct answer. Under By-Law 9, contingency fees in personal injury matters are subject to a maximum percentage; an agreement exceeding that cap requires approval by the court or a tribunal, and without such approval, Grant may not collect the full 45%.",
+    "why_C_wrong": "Incorrect. There is no 50% universal cap on civil contingency fees. The applicable cap is lower in personal injury and certain other proceedings, and By-Law 9 sets specific limits.",
+    "why_D_wrong": "Incorrect. The written form of the agreement does not override the regulatory maximum. The distinction between gross and net recovery is also a separate issue — the cap applies regardless of that distinction.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (contingency fee — maximum percentage); Solicitors Act, R.S.O. 1990, c. S.15"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "contingency fee — regulatory cap requires court approval if exceeded"
+    },
+    "exam_trigger_words": ["contingency fee cap", "maximum percentage", "tribunal approval", "personal injury", "court approval"],
+    "tested_concepts": [
+      "By-Law 9 — contingency fee cap applies in personal injury matters",
+      "exceeding cap requires court or tribunal approval",
+      "client consent alone does not override cap"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-05-cont-003",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fees and Disbursements — Rule 3.6",
+    "subtopic_id": "contingency_fee_disbursements",
+    "subtopic_heading": "Contingency Fee — Disbursements and Double Recovery",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Sabrina has a contingency fee agreement with a client in a motor vehicle accident case. The agreement provides that Sabrina will receive 33% of the gross settlement 'including any amounts for costs or disbursements recovered from the defendant.' The case settles for $200,000, of which $20,000 was identified by the defendant's insurer as reimbursement for the client's medical and expert report costs. Sabrina proposes to apply her 33% to the full $200,000, including the $20,000 in disbursement reimbursements.",
+    "call_of_question": "What is the most significant professional concern with Sabrina's proposed fee calculation?",
+    "options": {
+      "A": "Sabrina cannot charge any contingency fee on a settlement; she may only charge on trial verdicts.",
+      "B": "Charging a contingency percentage on funds specifically identified as reimbursement for disbursements already incurred may result in double recovery — Sabrina would be both recovering the disbursements themselves and charging a percentage fee on top of them; the agreement and applicable rules must be consulted to determine whether this is permissible.",
+      "C": "Sabrina's agreement is valid and she may take 33% of the full settlement including the disbursement reimbursement, without any concern, because the agreement says 'including any amounts for costs or disbursements.'",
+      "D": "Disbursement reimbursements from the opposing party always go directly to the client and cannot form part of the contingency fee base under any circumstances."
+    },
+    "correct_answer": "B",
+    "explanation": "Applying a contingency percentage to funds specifically identified as reimbursement for out-of-pocket disbursements already paid by or on behalf of the client can result in the lawyer effectively being paid twice for the same expense — once through the disbursement recovery and again as a percentage of that recovery. By-Law 9 and fairness principles require clarity in contingency fee agreements about how disbursement recoveries will be treated. Where the agreement's language is ambiguous or where its application would result in a windfall, the lawyer should seek the client's informed consent to the calculation and should be prepared to have the fee assessed.",
+    "why_A_wrong": "Incorrect. Contingency fees may be charged on settlement amounts; the prohibition is not based on whether the case settled or went to trial.",
+    "why_B_wrong": "This IS the correct answer. Charging a contingency percentage on funds specifically identified as reimbursement for disbursements already incurred may result in double recovery — Sabrina would be both recovering the disbursements themselves and charging a percentage fee on top of them; the agreement and applicable rules must be consulted to determine whether this is permissible.",
+    "why_C_wrong": "Incorrect. The existence of agreement language does not resolve the fairness concern. Agreement terms that result in double recovery may be challenged on assessment, and the lawyer should ensure the client fully understands the implications of this calculation.",
+    "why_D_wrong": "Incorrect. How disbursement reimbursements are allocated depends on the agreement and the applicable rules. They are not automatically excluded from the contingency base in all circumstances — but including them without clarity creates risk of double recovery.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (contingency fee — disbursements); Rules of Professional Conduct (LSO), Rule 3.6-1 (fair and reasonable fees)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "contingency fee — double recovery on disbursements"
+    },
+    "exam_trigger_words": ["contingency fee", "disbursements", "double recovery", "costs reimbursement", "gross settlement"],
+    "tested_concepts": [
+      "contingency fee on disbursement reimbursements creates double recovery risk",
+      "By-Law 9 — clarity required on treatment of disbursement recoveries in contingency agreements",
+      "fair and reasonable fee assessment may reduce fee if double recovery occurs"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-05-ref-fee-002",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fees and Disbursements — Rule 3.6",
+    "subtopic_id": "referral_fees",
+    "subtopic_heading": "Referral Fees — Restrictions on Non-Licensees",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Hana regularly receives client referrals from a financial advisor who works at a wealth management firm. The financial advisor sends Hana estate planning clients. In exchange, Hana pays the financial advisor a flat $500 referral fee for each client who retains her. Hana tells each client at the first meeting that she may have received a referral from someone they know, but does not disclose the $500 fee or identify the financial advisor as the source.",
+    "call_of_question": "Is Hana's referral fee arrangement with the financial advisor permissible under the Rules of Professional Conduct?",
+    "options": {
+      "A": "Yes — referral fees to non-lawyers are permissible as long as the amount is reasonable and the client is generally informed that a referral may have occurred.",
+      "B": "No — Rule 3.6-7 prohibits paying referral fees to non-licensees; the financial advisor is not an LSO licensee, so no referral fee may be paid regardless of amount or disclosure.",
+      "C": "Yes — the $500 flat fee is a modest and commercially reasonable arrangement that is common practice and does not require specific disclosure.",
+      "D": "No — but only because Hana failed to disclose the specific amount of the referral fee; if she disclosed the $500, the arrangement would be permissible."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.6-7 of the LSO Rules of Professional Conduct permits referral fees only to other licensees — that is, lawyers or paralegals licensed by the LSO. Paying a referral fee to a non-licensee, such as a financial advisor, is expressly prohibited regardless of the amount, the client's awareness of a general referral, or the commercial reasonableness of the payment. The prohibition exists to prevent the commercialization of legal services and to ensure client referrals are made on the basis of client interest, not financial incentive to non-professionals.",
+    "why_A_wrong": "Incorrect. Referral fees to non-licensees are not permissible under Rule 3.6-7 even with general disclosure. The prohibition on paying referral fees to non-licensees is categorical.",
+    "why_B_wrong": "This IS the correct answer. No — Rule 3.6-7 prohibits paying referral fees to non-licensees; the financial advisor is not an LSO licensee, so no referral fee may be paid regardless of amount or disclosure.",
+    "why_C_wrong": "Incorrect. Commercial reasonableness and common practice do not render a prohibited referral fee permissible. The Rules prohibit referral fees to non-licensees regardless of amount.",
+    "why_D_wrong": "Incorrect. Disclosure of the amount does not cure the fundamental problem — the recipient (financial advisor) is a non-licensee, and Rule 3.6-7 prohibits referral fees to non-licensees entirely.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.6-7 (referral fees — licensees only)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "referral fee to non-licensee — prohibited"
+    },
+    "exam_trigger_words": ["referral fee", "non-licensee", "financial advisor", "Rule 3.6-7", "prohibited referral"],
+    "tested_concepts": [
+      "Rule 3.6-7 — referral fees only to LSO licensees",
+      "referral fees to non-lawyers are prohibited",
+      "amount and disclosure do not cure non-licensee prohibition"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-05-ref-fee-003",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fees and Disbursements — Rule 3.6",
+    "subtopic_id": "referral_fees",
+    "subtopic_heading": "Referral Fees — Disclosure Amount and Enforceability",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Beatrice refers an immigration client to Lawyer Kwame, an immigration specialist at another firm. Kwame agrees to pay Beatrice a referral fee of $3,000. Beatrice informs the client that a referral fee will be paid but does not tell the client the amount. The client signs Kwame's retainer. The matter is completed, Kwame's total fee is $12,000, and Kwame pays Beatrice the $3,000. The client later discovers the amount of the referral and argues the arrangement was not properly disclosed.",
+    "call_of_question": "Under Rule 3.6-7, was the referral fee arrangement properly disclosed to the client?",
+    "options": {
+      "A": "Yes — informing the client that a referral fee will be paid is sufficient; the specific amount does not need to be disclosed.",
+      "B": "No — Rule 3.6-7 requires that the amount of the referral fee be disclosed to the client; disclosure that a referral fee exists, without disclosing the amount, is insufficient and the arrangement may be unenforceable.",
+      "C": "Yes — the referral fee is a private commercial arrangement between two lawyers and the client's role is simply to consent to the referral itself.",
+      "D": "No — referral fees between lawyers at different firms are never enforceable in Ontario regardless of disclosure."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.6-7 requires that the client be informed not only that a referral fee will be paid, but also of the amount or basis for calculating the referral fee. Informing the client that 'some referral fee' will be paid without disclosing the amount is insufficient. The client is entitled to know precisely what amount is flowing from their file to the referring lawyer, as this affects the client's ability to assess the overall reasonableness of the fee arrangement. A referral fee arrangement that does not meet the full disclosure requirements of Rule 3.6-7 may be unenforceable and may constitute professional misconduct.",
+    "why_A_wrong": "Incorrect. Disclosure must include the amount of the referral fee, not merely the existence of one. Rule 3.6-7 requires full transparency so the client can assess the arrangement.",
+    "why_B_wrong": "This IS the correct answer. No — Rule 3.6-7 requires that the amount of the referral fee be disclosed to the client; disclosure that a referral fee exists, without disclosing the amount, is insufficient and the arrangement may be unenforceable.",
+    "why_C_wrong": "Incorrect. The client's interest in the referral arrangement is not limited to consent to being referred. The client must know the amount of the referral fee because it affects the overall fee economics of their matter.",
+    "why_D_wrong": "Incorrect. Referral fees between lawyers at different firms are permissible in Ontario under Rule 3.6-7 when all conditions — including full disclosure — are met. They are not categorically unenforceable.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.6-7 (referral fees — disclosure of amount)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "referral fee — disclosure of amount required"
+    },
+    "exam_trigger_words": ["referral fee", "disclosure amount", "Rule 3.6-7", "full disclosure", "unenforceable referral"],
+    "tested_concepts": [
+      "Rule 3.6-7 — amount of referral fee must be disclosed to client",
+      "disclosure of existence alone is insufficient",
+      "non-disclosure of amount may render arrangement unenforceable"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-05-split-002",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fees and Disbursements — Rule 3.6",
+    "subtopic_id": "fee_splitting",
+    "subtopic_heading": "Fee Splitting with Non-Lawyers — Prohibition",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Cedric runs a busy personal injury practice. He has an informal arrangement with his office manager, who is not a lawyer or paralegal, whereby the office manager receives 5% of the fee from any client the office manager personally recruited for the firm. Cedric views this as a performance bonus tied to business development results.",
+    "call_of_question": "Is Cedric's fee-sharing arrangement with his office manager permissible under the Rules of Professional Conduct?",
+    "options": {
+      "A": "Yes — sharing a percentage of fees with a non-lawyer employee is permissible as a performance incentive as long as it is called a 'bonus' rather than a 'fee split.'",
+      "B": "No — sharing legal fees with a non-licensee, even under the label of a 'bonus,' is prohibited under the Rules of Professional Conduct; a fee share tied to specific legal fees earned from clients the employee recruits is a prohibited fee split with a non-lawyer.",
+      "C": "Yes — an office manager is an employee of the firm and may receive a percentage of fees as compensation.",
+      "D": "No — but only because the 5% share exceeds the maximum permitted non-lawyer bonus under By-Law 9."
+    },
+    "correct_answer": "B",
+    "explanation": "The Rules of Professional Conduct prohibit sharing legal fees with non-licensees. The prohibition extends beyond arrangements expressly called 'fee splits' — it applies whenever a non-lawyer receives compensation calculated as a share of specific legal fees earned from particular client files. Calling the payment a 'bonus' does not change its character if it is in fact a percentage of legal fees tied to specific files or clients the employee brought in. An office manager may receive a salary, benefits, and discretionary performance bonuses tied to general business success, but may not receive a percentage of the legal fees earned from specific client files.",
+    "why_A_wrong": "Incorrect. The label applied to the payment does not determine its character. A payment calculated as a percentage of specific legal fees earned from files the employee recruited is a prohibited fee split regardless of what it is called.",
+    "why_B_wrong": "This IS the correct answer. No — sharing legal fees with a non-licensee, even under the label of a 'bonus,' is prohibited under the Rules of Professional Conduct; a fee share tied to specific legal fees earned from clients the employee recruits is a prohibited fee split with a non-lawyer.",
+    "why_C_wrong": "Incorrect. Employee status does not make fee splitting permissible. Non-lawyer employees may receive salary and discretionary bonuses but not a percentage of specific legal fees.",
+    "why_D_wrong": "Incorrect. There is no By-Law 9 maximum for non-lawyer bonuses because such percentage arrangements with non-licensees are prohibited altogether, not merely capped.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.6-6 (fee splitting — prohibition with non-licensees)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "fee splitting — prohibited with non-licensees"
+    },
+    "exam_trigger_words": ["fee splitting", "non-lawyer", "non-licensee", "office manager", "prohibited fee share"],
+    "tested_concepts": [
+      "Rule 3.6-6 — fee splitting with non-licensees is prohibited",
+      "labelling a fee split as a 'bonus' does not cure prohibition",
+      "percentage of specific legal fees to non-lawyer employee is prohibited"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-05-disp-001",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fees and Disbursements — Rule 3.6",
+    "subtopic_id": "fee_assessment_client_right",
+    "subtopic_heading": "Client's Right to Assessment — Solicitors Act Notice",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Dmitri completes a commercial real estate transaction and delivers a final account to his client for $22,000. The account is paid immediately by the client via electronic transfer. Two weeks later, the client regrets paying and believes the fees were excessive for the amount of work done. The client asks Dmitri for a refund of $8,000. Dmitri refuses. The client wants to know whether he can formally challenge the account.",
+    "call_of_question": "What is the client's best avenue to formally challenge Dmitri's account, and is there any obligation on Dmitri related to informing the client of this right?",
+    "options": {
+      "A": "The client's only remedy is to sue Dmitri in civil court for unjust enrichment; the Solicitors Act assessment process is unavailable once the account has been paid.",
+      "B": "The client may apply for an assessment under the Solicitors Act; the client who has paid the account has one month from delivery to apply without leave; a lawyer is required to inform the client of the right to have the account assessed when delivering the final account.",
+      "C": "The client has no remedy once the account has been paid voluntarily; payment operates as a full acceptance of the fee.",
+      "D": "The client can file an LSO complaint seeking a refund; the LSO will order Dmitri to repay the excess if the complaint is upheld."
+    },
+    "correct_answer": "B",
+    "explanation": "The Solicitors Act provides that a client may apply for assessment of a lawyer's account, even if it has been paid, within one month of delivery without requiring leave of the court. After one month, leave is required and there are further time limits. Importantly, Rule 3.6-1 of the LSO Rules requires that when delivering a final account, a lawyer must advise the client of their right to have the account assessed. This ensures the client is aware of the formal dispute mechanism. An LSO complaint addresses professional misconduct and will not result in a direct monetary refund to the client.",
+    "why_A_wrong": "Incorrect. The Solicitors Act assessment process is available even after payment, within the applicable time limits. Civil court action for unjust enrichment is not the specific or required remedy.",
+    "why_B_wrong": "This IS the correct answer. The client may apply for an assessment under the Solicitors Act; the client who has paid the account has one month from delivery to apply without leave; a lawyer is required to inform the client of the right to have the account assessed when delivering the final account.",
+    "why_C_wrong": "Incorrect. Voluntary payment of a legal account does not permanently bar assessment under the Solicitors Act. The client retains the right to seek assessment within the applicable time limits.",
+    "why_D_wrong": "Incorrect. The LSO handles professional misconduct complaints — it does not order monetary refunds. The Solicitors Act assessment process is the mechanism for obtaining a fee reduction.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Solicitors Act, R.S.O. 1990, c. S.15; Rules of Professional Conduct (LSO), Rule 3.6-1 (client notice of right to assess)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "fee dispute — client's right to assessment and lawyer's duty to notify"
+    },
+    "exam_trigger_words": ["assessment", "Solicitors Act", "paid account", "right to assess", "one month"],
+    "tested_concepts": [
+      "Solicitors Act — assessment available within one month of delivery even if paid",
+      "Rule 3.6-1 — lawyer must notify client of right to assessment",
+      "LSO complaint does not provide monetary refund"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-05-disp-002",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fees and Disbursements — Rule 3.6",
+    "subtopic_id": "excessive_fees",
+    "subtopic_heading": "Excessive Fees — Rule 3.6-1 Factors for Reasonableness",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Rosalie bills a client $30,000 for drafting a simple two-page demand letter. The client had not discussed or agreed to any fee arrangement. Rosalie argues that she spent three days working on the letter and her billing rate is $2,000 per hour. The client has never worked with a lawyer before and did not realize the cost would be so high.",
+    "call_of_question": "Under Rule 3.6-1, which of the following factors would most support a finding that Rosalie's fee is excessive and unreasonable?",
+    "options": {
+      "A": "The client did not negotiate the hourly rate before retaining Rosalie.",
+      "B": "The fee does not bear a reasonable relationship to the service provided — drafting a two-page demand letter — and the time claimed (three days) appears disproportionate to the task, regardless of the billing rate; a fee that shocks the conscience is excessive under Rule 3.6-1.",
+      "C": "Rosalie failed to provide the letter in the client's preferred format.",
+      "D": "Rosalie worked on a weekend when the client expected her to work only during business hours."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.6-1 provides that a lawyer's fees must be fair and reasonable having regard to several factors, including: the time and effort required, the complexity of the matter, the results obtained, and the experience of the lawyer. A fee that bears no reasonable relationship to the work performed — such as $30,000 for a two-page demand letter — will be considered excessive regardless of the stated hourly rate. The test includes whether the fee 'shocks the conscience' or is grossly disproportionate to the value of the legal work provided. The absence of a prior fee agreement is a separate concern but the primary issue is proportionality.",
+    "why_A_wrong": "Incorrect. The failure to negotiate the hourly rate is relevant to consent and disclosure, not directly to whether the fee is excessive under Rule 3.6-1's proportionality test.",
+    "why_B_wrong": "This IS the correct answer. The fee does not bear a reasonable relationship to the service provided — drafting a two-page demand letter — and the time claimed (three days) appears disproportionate to the task, regardless of the billing rate; a fee that shocks the conscience is excessive under Rule 3.6-1.",
+    "why_C_wrong": "Incorrect. The format of the letter is irrelevant to whether the fee is excessive under Rule 3.6-1.",
+    "why_D_wrong": "Incorrect. Working on a weekend is not a basis for finding a fee excessive. The issue under Rule 3.6-1 is proportionality of the fee to the work performed.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.6-1 (fair and reasonable fees — factors)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "excessive fees — proportionality test under Rule 3.6-1"
+    },
+    "exam_trigger_words": ["excessive fee", "shocks the conscience", "Rule 3.6-1", "proportionality", "fair and reasonable"],
+    "tested_concepts": [
+      "Rule 3.6-1 — fees must be fair and reasonable",
+      "excessive fee = fee that shocks the conscience or is disproportionate to work",
+      "proportionality of fee to service is key factor"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-05-lien-002",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Financial Dealings with Clients — Liens",
+    "subtopic_id": "retaining_lien_scope",
+    "subtopic_heading": "Retaining Lien — Scope and Documents Exempt from Lien",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Franz has been acting for a client in a commercial transaction and the client owes Franz $9,000 in unpaid fees. The client terminates the retainer and requests return of the file. Among the documents in the file are: (a) original executed contracts belonging to the client, (b) the client's original corporate minute book, (c) Franz's internal research memoranda, (d) the client's original government-issued business licences, and (e) copies of correspondence Franz sent to opposing counsel. The client urgently needs the corporate minute book and business licences to complete a transaction scheduled for tomorrow.",
+    "call_of_question": "With respect to Franz's solicitor's retaining lien, which documents must Franz release immediately notwithstanding the unpaid fees?",
+    "options": {
+      "A": "Franz may retain all of the listed documents without exception until his fees are paid in full.",
+      "B": "Franz must release all documents immediately upon termination; a retaining lien does not exist in Ontario.",
+      "C": "Franz may exercise a retaining lien over the file generally, but must release the corporate minute book and original business licences if their retention would cause immediate and serious prejudice to the client — specifically, the client's need to use those documents to complete a scheduled transaction tomorrow is exactly the kind of urgent need that limits the exercise of the retaining lien.",
+      "D": "Franz must release all client-owned documents (items a, b, d) immediately but may retain his own work product (items c, e)."
+    },
+    "correct_answer": "C",
+    "explanation": "The solicitor's retaining lien in Ontario allows a lawyer to retain a client's files and documents as security for unpaid fees. However, this right is not absolute. The LSO Rules of Professional Conduct require that when exercising a retaining lien, a lawyer must not cause immediate and serious harm to the client. Documents such as a corporate minute book and original government-issued business licences that the client urgently needs to complete a time-sensitive transaction are exactly the class of documents that the lawyer must release notwithstanding the lien, to avoid irreparable prejudice. The lawyer retains the right to pursue fees through other means.",
+    "why_A_wrong": "Incorrect. The retaining lien is not absolute. Withholding documents needed to prevent immediate and serious harm to the client is impermissible, even where unpaid fees exist.",
+    "why_B_wrong": "Incorrect. A solicitor's retaining lien does exist in Ontario at common law. The issue is the scope of its permissible exercise, not its existence.",
+    "why_C_wrong": "This IS the correct answer. Franz may exercise a retaining lien over the file generally, but must release the corporate minute book and original business licences if their retention would cause immediate and serious prejudice to the client — specifically, the client's need to use those documents to complete a scheduled transaction tomorrow is exactly the kind of urgent need that limits the exercise of the retaining lien.",
+    "why_D_wrong": "Incorrect. The distinction between client-owned documents and work product does not fully resolve the lien analysis. Franz's work product (e.g., legal memos) may be retained under the lien; the critical issue is which documents must be released to avoid urgent prejudice, not which documents the client technically owns.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.7-9; common law solicitor's retaining lien"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "solicitor's retaining lien — documents exempt when urgent prejudice"
+    },
+    "exam_trigger_words": ["retaining lien", "corporate minute book", "urgent transaction", "immediate prejudice", "file documents"],
+    "tested_concepts": [
+      "retaining lien exists at common law in Ontario",
+      "lien must be released for documents needed to prevent immediate serious harm",
+      "lien cannot be used to cause urgent prejudice to client"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-05-lien-003",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Financial Dealings with Clients — Liens",
+    "subtopic_id": "charging_lien",
+    "subtopic_heading": "Charging Lien — Lien on Proceeds of Action",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Yvonne acted for a client in a wrongful dismissal action. The action settled for $80,000, which was deposited to trust. Yvonne's account for fees and disbursements is $25,000. Before disbursing funds to the client, Yvonne deducts $25,000 from the trust account representing her fees and sends the remaining $55,000 to the client. The client had not provided a written direction but had verbally agreed to the deduction after seeing Yvonne's account.",
+    "call_of_question": "Which concept allows Yvonne to assert priority over the settlement funds in trust for payment of her fees, and what additional step should she have taken?",
+    "options": {
+      "A": "Yvonne has no right to deduct fees from settlement funds in trust under any circumstances; all proceeds must go to the client first.",
+      "B": "Yvonne may assert a charging lien (equitable lien) over the proceeds of the action she helped obtain for the client; however, she should have obtained a written direction from the client before deducting fees from trust to fully comply with By-Law 9.",
+      "C": "Yvonne is entitled to deduct fees from settlement funds as soon as she renders her account because delivering the account constitutes sufficient written authorization under By-Law 9.",
+      "D": "Yvonne may retain the $25,000 from trust because the client verbally agreed, and verbal consent is sufficient authorization for trust withdrawals under By-Law 9."
+    },
+    "correct_answer": "B",
+    "explanation": "A solicitor's charging lien is an equitable right that attaches to money or property recovered for the client through the lawyer's efforts, including funds held in trust representing settlement proceeds. The charging lien entitles the lawyer to be paid from those proceeds before they are distributed to the client. However, the mechanics of withdrawing from trust are governed by By-Law 9, which requires a written direction from the client (or a court order) before fees may be deducted from trust. A verbal agreement and a rendered account, while consistent with the equitable charging lien concept, do not satisfy By-Law 9's written direction requirement.",
+    "why_A_wrong": "Incorrect. A solicitor's charging lien entitles the lawyer to claim priority in payment from the proceeds of an action obtained for the client. Deducting fees from those trust funds is permissible subject to proper authorization.",
+    "why_B_wrong": "This IS the correct answer. Yvonne may assert a charging lien (equitable lien) over the proceeds of the action she helped obtain for the client; however, she should have obtained a written direction from the client before deducting fees from trust to fully comply with By-Law 9.",
+    "why_C_wrong": "Incorrect. Rendering a final account does not constitute written authorization to withdraw from trust. By-Law 9 requires a separate written direction from the client authorizing the trust withdrawal.",
+    "why_D_wrong": "Incorrect. Verbal consent does not satisfy the written direction requirement under By-Law 9. Written authorization is a mandatory formal safeguard for trust withdrawals.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO); LSO By-Law 9, s. 9 (trust withdrawal — written direction); common law solicitor's charging lien"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "charging lien — equitable lien on proceeds; By-Law 9 written direction requirement"
+    },
+    "exam_trigger_words": ["charging lien", "equitable lien", "settlement proceeds", "trust withdrawal", "written direction"],
+    "tested_concepts": [
+      "solicitor's charging lien — equitable lien on proceeds of action",
+      "By-Law 9 — written direction required to withdraw from trust",
+      "verbal agreement does not satisfy By-Law 9 written direction requirement"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-05-retainer-001",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fee Agreements — Rule 3.6-1 and By-Law 9",
+    "subtopic_id": "advance_retainer",
+    "subtopic_heading": "Advance Retainer — Monthly Reporting and Trust Obligations",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Alexei is retained on a general basis by a corporation to handle various legal matters as they arise throughout the year. The corporation pays $20,000 into trust as an advance retainer. Alexei does not provide monthly accounts to the corporation showing how the retainer is being drawn down. After eight months, the retainer is exhausted and Alexei requests a top-up. The corporation is surprised — no one at the company realized how much had been drawn down each month.",
+    "call_of_question": "What are Alexei's ongoing obligations with respect to the advance retainer under the LSO Rules of Professional Conduct and By-Law 9?",
+    "options": {
+      "A": "Alexei has no obligation to provide periodic accounts until the retainer is exhausted; the corporation agreed to pay the retainer and must track usage internally.",
+      "B": "Alexei must provide accounts on a monthly basis showing the work done and fees charged against the retainer, transfer earned amounts from trust to general account as they are earned, and inform the client in advance when the retainer is running low; failure to render monthly accounts and maintain transparency is a professional obligation breach.",
+      "C": "Alexei may draw on the retainer whenever he chooses and is only required to provide an account at the end of the year or when the client requests one.",
+      "D": "Advance retainers are not permitted to be held in trust; Alexei should have deposited the $20,000 to his general account immediately."
+    },
+    "correct_answer": "B",
+    "explanation": "Where a lawyer holds an advance retainer in trust, By-Law 9 and Rule 3.6-1 require that the lawyer render accounts to the client periodically — typically monthly — showing the work performed and the amounts drawn from the retainer. The lawyer may transfer earned amounts from trust to the general account after rendering an account. The lawyer must also inform the client in advance when the retainer is becoming depleted so the client can make an informed decision about whether to replenish it. Failing to render regular accounts to a client on a retainer deprives the client of the ability to supervise and manage their legal costs.",
+    "why_A_wrong": "Incorrect. The corporation's agreement to pay the advance retainer does not relieve Alexei of his obligation to provide regular accounts and maintain transparency about how the retainer is being used.",
+    "why_B_wrong": "This IS the correct answer. Alexei must provide accounts on a monthly basis showing the work done and fees charged against the retainer, transfer earned amounts from trust to general account as they are earned, and inform the client in advance when the retainer is running low; failure to render monthly accounts and maintain transparency is a professional obligation breach.",
+    "why_C_wrong": "Incorrect. An annual account is insufficient for a retainer-based arrangement. Monthly accounts are required to keep the client informed of how their trust funds are being used.",
+    "why_D_wrong": "Incorrect. Advance retainers for unearned fees must be deposited to trust, not the general account. Transferring to the general account occurs only as fees are earned and an account is rendered.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.6-1; LSO By-Law 9 (advance retainer — monthly accounting obligations)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "advance retainer — monthly accounting and trust obligations"
+    },
+    "exam_trigger_words": ["advance retainer", "monthly account", "trust drawdown", "retainer depletion", "periodic accounts"],
+    "tested_concepts": [
+      "By-Law 9 — advance retainer must be in trust until earned",
+      "monthly accounts required for retainer-based arrangements",
+      "client must be informed when retainer is running low"
+    ],
+    "estimated_time_seconds": 90
   }
 ]

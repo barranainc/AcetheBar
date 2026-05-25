@@ -469,5 +469,692 @@
       "written statement of account required before deducting fees from trust"
     ],
     "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-06-deposit-001",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting and Financial Management",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Deposits — By-Law 9 Rules",
+    "subtopic_id": "trust_deposit_obligation",
+    "subtopic_heading": "When Funds Must Go into Trust — General Rule",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Paulette receives a cheque for $15,000 from a client at the outset of a litigation matter. The client instructs her that the funds are to be held toward anticipated disbursements and future fees, none of which have yet been incurred. Paulette deposits the funds directly into her general account because she expects to earn the fees quickly and does not want the administrative burden of transferring from trust later.",
+    "call_of_question": "Has Paulette complied with By-Law 9 in depositing the client's $15,000 into her general account?",
+    "options": {
+      "A": "Yes — a lawyer may deposit client funds into the general account if the lawyer expects to earn the fees within a short time.",
+      "B": "Yes — funds held for disbursements may go into the general account because disbursements are the lawyer's business expense.",
+      "C": "No — any funds received from or on behalf of a client for a purpose related to a legal matter and not yet earned must be deposited to the trust account; Paulette's deposit to her general account violates By-Law 9.",
+      "D": "Yes — administrative convenience is a recognized exception to the trust deposit requirement under By-Law 9."
+    },
+    "correct_answer": "C",
+    "explanation": "By-Law 9 requires that a lawyer deposit into trust any funds received from or on behalf of a client in connection with a legal matter, unless the funds have already been earned by the lawyer before receipt (e.g., a flat fee already earned). Here, the $15,000 is intended to cover future fees and disbursements — neither of which have yet been incurred. The funds are therefore unearned and must go to trust. The expectation that fees will be earned quickly does not create an exception, and administrative convenience is not a recognized ground for bypassing the trust deposit requirement.",
+    "why_A_wrong": "Incorrect. The anticipated timing of earning fees does not create an exception to the trust deposit obligation. Unearned funds must go to trust regardless of the lawyer's expectation of when they will be earned.",
+    "why_B_wrong": "Incorrect. Funds held for anticipated disbursements belong to the client and must be held in trust until the disbursements are actually incurred. The fact that disbursements are business costs does not make the unspent client funds the lawyer's property.",
+    "why_C_wrong": "This IS the correct answer. No — any funds received from or on behalf of a client for a purpose related to a legal matter and not yet earned must be deposited to the trust account; Paulette's deposit to her general account violates By-Law 9.",
+    "why_D_wrong": "Incorrect. There is no administrative convenience exception under By-Law 9. The trust deposit obligation is mandatory and applies regardless of the burden it creates.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting and Financial Management",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (trust deposit obligation — unearned client funds)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — failure to deposit unearned client funds to trust"
+    },
+    "exam_trigger_words": ["trust deposit", "general account", "unearned funds", "By-Law 9", "disbursements"],
+    "tested_concepts": [
+      "By-Law 9 — unearned client funds must go to trust",
+      "no administrative convenience exception to trust deposit",
+      "anticipated disbursements must be held in trust until incurred"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-06-deposit-002",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting and Financial Management",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Deposits — By-Law 9 Rules",
+    "subtopic_id": "no_cash_rule",
+    "subtopic_heading": "No-Cash Rule — By-Law 9 Prohibition on Large Cash Receipts",
+    "difficulty": "exam_trap",
+    "fact_pattern": "A client arrives at Lawyer Nadia's office with $9,000 in cash as a retainer for a real estate transaction. The client explains that she prefers to pay in cash and does not want to go to the bank. Nadia is about to accept the cash when her paralegal mentions there may be a rule about accepting large amounts of cash.",
+    "call_of_question": "What does By-Law 9 provide regarding a lawyer's ability to receive cash from a client, and how does it apply to Nadia's situation?",
+    "options": {
+      "A": "Lawyers may accept any amount of cash from a client as long as the funds are deposited to trust and a receipt is provided.",
+      "B": "By-Law 9 prohibits a lawyer from receiving or accepting cash in excess of $7,500 per client matter; since the $9,000 exceeds this limit, Nadia cannot accept the cash payment.",
+      "C": "Cash payments are only restricted if the lawyer suspects the client of money laundering; since Nadia has no suspicion, she may accept the $9,000.",
+      "D": "By-Law 9 permits cash payments up to $10,000 per transaction; $9,000 is within the permitted limit."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 9 prohibits a lawyer from receiving or accepting cash — physical currency — in excess of $7,500 in respect of any one client matter. This restriction is part of Ontario's anti-money laundering framework applicable to legal professionals. The prohibition applies per matter, not per transaction. Since the $9,000 cash payment exceeds the $7,500 limit, Nadia must decline to accept the cash and request that the client provide payment by another acceptable means (e.g., certified cheque, wire transfer). Accepting a cash payment above the limit is itself a violation of By-Law 9 regardless of whether there is any suspicion of money laundering.",
+    "why_A_wrong": "Incorrect. Depositing to trust and providing a receipt does not cure the prohibition. By-Law 9 prohibits receiving more than $7,500 in cash per matter regardless of what is done with the funds.",
+    "why_B_wrong": "This IS the correct answer. By-Law 9 prohibits a lawyer from receiving or accepting cash in excess of $7,500 per client matter; since the $9,000 exceeds this limit, Nadia cannot accept the cash payment.",
+    "why_C_wrong": "Incorrect. The cash restriction is not triggered by suspicion of money laundering — it is a bright-line prohibition that applies regardless of the lawyer's assessment of the client's intent.",
+    "why_D_wrong": "Incorrect. The By-Law 9 cash limit is $7,500 per matter, not $10,000. $9,000 exceeds the actual limit.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting and Financial Management",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (no-cash rule — $7,500 limit per client matter)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — no-cash rule; cash receipt prohibition"
+    },
+    "exam_trigger_words": ["cash", "no-cash rule", "$7,500", "By-Law 9", "money laundering"],
+    "tested_concepts": [
+      "By-Law 9 — no-cash rule: cannot receive more than $7,500 cash per matter",
+      "cash limit is per matter not per transaction",
+      "prohibition applies regardless of money laundering suspicion"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-06-withdraw-001",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting and Financial Management",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Withdrawals — Conditions and Authorization",
+    "subtopic_id": "withdrawal_before_billing",
+    "subtopic_heading": "Withdrawal from Trust — Cannot Take Fees Before Billing",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Tariq holds $12,000 in trust for a client whose commercial lease negotiation has concluded. Tariq has done the work and intends to charge $8,000 but has not yet prepared a formal invoice. He needs cash immediately and transfers $8,000 from the client's trust account to his general account, planning to send the invoice to the client later that week.",
+    "call_of_question": "Has Tariq complied with By-Law 9's requirements for withdrawing fees from trust?",
+    "options": {
+      "A": "Yes — the work is done and the entitlement to fees exists; Tariq may transfer the funds and send the invoice afterward.",
+      "B": "No — By-Law 9 requires that a lawyer deliver an account (invoice) to the client before or at the same time as withdrawing fees from trust; withdrawing fees before billing is not permitted.",
+      "C": "Yes — because Tariq intends to send the invoice that same week, the timing is close enough to satisfy By-Law 9.",
+      "D": "No — but only because Tariq did not get a written direction from the client; if he had a written direction, taking fees before billing would be permissible."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 9 requires that a lawyer deliver an account (invoice) to the client before withdrawing fees from trust. The entitlement to be paid — based on having completed the work — does not authorize a lawyer to take money from trust before billing. The account must be rendered first, so that the client has notice of and an opportunity to review the fees being charged before the funds leave trust. The written direction from the client (if required) also presupposes that the client has seen an account. Tariq's transfer of funds before issuing an invoice violates By-Law 9.",
+    "why_A_wrong": "Incorrect. The completion of work creates an entitlement to be paid, but not an authorization to withdraw from trust before billing. By-Law 9 requires delivery of an account first.",
+    "why_B_wrong": "This IS the correct answer. No — By-Law 9 requires that a lawyer deliver an account (invoice) to the client before or at the same time as withdrawing fees from trust; withdrawing fees before billing is not permitted.",
+    "why_C_wrong": "Incorrect. The intent to bill shortly afterward does not cure the violation. By-Law 9 requires that the account be delivered before or contemporaneously with the withdrawal, not after.",
+    "why_D_wrong": "Incorrect. A written direction, while required, does not by itself authorize a pre-billing withdrawal. The account must be delivered first regardless of whether a written direction exists.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting and Financial Management",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (trust withdrawal — account must be delivered before withdrawal)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust withdrawal — cannot withdraw fees before delivering account"
+    },
+    "exam_trigger_words": ["withdrawal before billing", "account before withdrawal", "By-Law 9", "trust fees", "invoice"],
+    "tested_concepts": [
+      "By-Law 9 — account must be delivered before withdrawing fees from trust",
+      "completion of work does not authorize pre-billing withdrawal",
+      "intent to bill later does not cure the violation"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-06-withdraw-002",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting and Financial Management",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Withdrawals — Conditions and Authorization",
+    "subtopic_id": "disbursement_withdrawal",
+    "subtopic_heading": "Withdrawal to Pay Third-Party Disbursements",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Sophia is acting for a plaintiff in a wrongful dismissal action. She holds $5,000 in trust for the client. An expert report is required and the expert invoices $3,000, payable directly to the expert. Sophia wants to pay the expert directly from the trust account on the client's behalf.",
+    "call_of_question": "Under By-Law 9, may Sophia pay the expert directly from the trust account for this disbursement?",
+    "options": {
+      "A": "No — all trust funds must be paid out exclusively to the client; Sophia must first transfer funds to her general account and then pay the expert from there.",
+      "B": "Yes — a lawyer may withdraw funds from trust to pay legitimate third-party disbursements incurred on behalf of the client, provided the client has authorized the payment and the disbursement is documented; paying the expert directly from trust on the client's behalf is a permitted withdrawal.",
+      "C": "No — expert fees are disbursements that the client must pay personally; they cannot be paid from client trust funds.",
+      "D": "Yes — Sophia may pay any amount from trust to any third party at any time because trust funds belong to the client."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 9 permits a lawyer to withdraw funds from trust to pay legitimate third-party disbursements incurred on behalf of the client, such as court filing fees, expert reports, or other authorized expenses. This is a recognized and common purpose for trust withdrawals. The key requirements are that the client has authorized the disbursement, the payment is properly documented in the trust ledger, and the withdrawal does not create or worsen a trust shortage. Paying the expert directly from trust is appropriate and does not require routing the funds through the general account.",
+    "why_A_wrong": "Incorrect. Routing disbursement payments through the general account is not required. By-Law 9 permits direct payment of third-party disbursements from trust on the client's behalf.",
+    "why_B_wrong": "This IS the correct answer. Yes — a lawyer may withdraw funds from trust to pay legitimate third-party disbursements incurred on behalf of the client, provided the client has authorized the payment and the disbursement is documented; paying the expert directly from trust on the client's behalf is a permitted withdrawal.",
+    "why_C_wrong": "Incorrect. Trust funds may be used to pay authorized disbursements on behalf of the client — this is one of the core permitted uses of trust funds. Expert fees are a standard disbursement.",
+    "why_D_wrong": "Incorrect. While trust funds belong beneficially to the client, withdrawals must be authorized and documented. Sophia cannot pay any third party from trust without proper authority — the payment must be an authorized disbursement.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting and Financial Management",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (trust withdrawal — permitted for authorized third-party disbursements)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust withdrawal — paying disbursements to third parties from trust"
+    },
+    "exam_trigger_words": ["disbursement", "expert fee", "trust withdrawal", "third party", "By-Law 9"],
+    "tested_concepts": [
+      "By-Law 9 — trust withdrawal permitted to pay authorized third-party disbursements",
+      "direct payment of expert from trust is permissible",
+      "disbursement must be authorized and documented"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-06-withdraw-003",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting and Financial Management",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Withdrawals — Conditions and Authorization",
+    "subtopic_id": "electronic_trust_transfer",
+    "subtopic_heading": "Electronic Trust Transfers — Safeguards and Authorization",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Ingrid acts for a purchaser in a commercial real estate closing. She is instructed by email, purportedly from the vendor's lawyer, to wire $2,000,000 from trust to a new bank account number that differs from what was used in prior communications. Ingrid is pressed for time and, without verifying the instruction by phone, processes the wire transfer. The email was sent by a fraudster who had compromised the vendor's lawyer's email account. The funds are lost.",
+    "call_of_question": "What additional safeguard should Ingrid have taken before processing the electronic trust transfer under By-Law 9 and professional standards?",
+    "options": {
+      "A": "Ingrid had no further obligation — an email instruction from a lawyer is a valid and sufficient authorization for any trust wire transfer.",
+      "B": "Ingrid should have obtained written direction from her own client before proceeding; the vendor's lawyer's email is not a relevant authorization for disbursing funds held in trust for the purchaser.",
+      "C": "Before processing an electronic trust transfer — particularly where banking details have changed from prior communications — Ingrid was required to independently verify the instruction through a separate, confirmed communication channel (such as a phone call to a previously known number); failure to verify a changed wire transfer instruction is a recognized fraud vector that creates professional liability.",
+      "D": "Ingrid's only obligation was to ensure the transfer instruction was in writing; since the email constituted a writing, she satisfied her requirements."
+    },
+    "correct_answer": "C",
+    "explanation": "Electronic trust wire transfers — especially those involving changed banking details — are a known vector for email compromise fraud. By-Law 9 requires that trust transfers be authorized and properly documented, but professional standards and best practices require lawyers to independently verify changes to wire transfer instructions through a confirmed, out-of-band communication channel (e.g., a phone call to a previously known and verified number). Relying solely on an email instruction — without verification — when the banking details have changed is professionally unreasonable and can result in personal liability for the lawyer if client funds are lost through fraud.",
+    "why_A_wrong": "Incorrect. An email from a third party purporting to be from another lawyer is not automatically sufficient authorization for a large trust wire transfer. Independent verification of changed banking details is required.",
+    "why_B_wrong": "Incorrect. While a written direction from Ingrid's own client is relevant to the trust withdrawal requirements, the issue here is specifically the verification of changed wire transfer instructions — a separate fraud prevention obligation.",
+    "why_C_wrong": "This IS the correct answer. Before processing an electronic trust transfer — particularly where banking details have changed from prior communications — Ingrid was required to independently verify the instruction through a separate, confirmed communication channel (such as a phone call to a previously known number); failure to verify a changed wire transfer instruction is a recognized fraud vector that creates professional liability.",
+    "why_D_wrong": "Incorrect. The writing requirement is a necessary but insufficient condition. The verification requirement is an additional safeguard that By-Law 9 and professional standards impose specifically because email fraud is a recognized risk in wire transfers.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting and Financial Management",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (electronic trust transfers — authorization and safeguards); LSO Practice Advisories on wire transfer fraud"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — electronic trust transfer fraud; verification obligation"
+    },
+    "exam_trigger_words": ["wire transfer", "electronic transfer", "changed banking details", "email fraud", "verification"],
+    "tested_concepts": [
+      "electronic trust transfer — changed banking details require independent verification",
+      "email instruction alone is insufficient for changed wire details",
+      "lawyer is professionally liable for trust funds lost through unverified transfers"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-06-mixed-001",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting and Financial Management",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Deposits — By-Law 9 Rules",
+    "subtopic_id": "mixed_funds_deposit",
+    "subtopic_heading": "Mixed Funds — Deposit of Payments Combining Fees and Disbursements",
+    "difficulty": "medium",
+    "fact_pattern": "At the conclusion of a real estate transaction, a client sends Lawyer Bernard a single cheque for $4,500 covering $3,000 in outstanding fees (already billed) and $1,500 in disbursements (already incurred and billed). Bernard is unsure whether to split the cheque or deposit it all to trust and then transfer the fee portion, or simply deposit the full amount to his general account since the fees have already been earned and billed.",
+    "call_of_question": "Under By-Law 9, how must Bernard handle the $4,500 mixed payment?",
+    "options": {
+      "A": "Bernard may deposit the entire $4,500 to his general account because both the fees and disbursements have already been earned and incurred and billed.",
+      "B": "Bernard must deposit the entire $4,500 into trust first, and then transfer the $3,000 fee portion and $1,500 disbursement reimbursement to his general account after properly documenting the withdrawal; he cannot split the cheque at the time of receipt.",
+      "C": "Bernard may split the payment at receipt — depositing $1,500 to trust and $3,000 to his general account — because fees already billed may go directly to the general account.",
+      "D": "Bernard must return the cheque to the client and request two separate payments — one for fees and one for disbursements."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 9 requires that when a lawyer receives a mixed payment covering both earned fees and disbursements, the entire payment must be deposited to the trust account first. The lawyer may then transfer the earned fee portion to the general account after proper documentation. Splitting a cheque at the time of receipt — depositing some to trust and some to general — is not the correct procedure. The full amount must go to trust, and withdrawals must be made from trust in accordance with the By-Law 9 requirements. This ensures a clear and auditable record of all trust transactions.",
+    "why_A_wrong": "Incorrect. Even when fees have been earned and billed, a mixed payment received in a single cheque must first go to trust. The lawyer cannot direct payment partly to general and partly to trust at the point of receipt.",
+    "why_B_wrong": "This IS the correct answer. Bernard must deposit the entire $4,500 into trust first, and then transfer the $3,000 fee portion and $1,500 disbursement reimbursement to his general account after properly documenting the withdrawal; he cannot split the cheque at the time of receipt.",
+    "why_C_wrong": "Incorrect. Splitting the cheque at the time of receipt between trust and general accounts is not a permitted approach under By-Law 9. The full mixed payment goes to trust first.",
+    "why_D_wrong": "Incorrect. By-Law 9 does not require a lawyer to return a mixed payment or demand separate cheques. The procedure is to deposit the full amount to trust and then transfer as appropriate.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting and Financial Management",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (mixed funds — full deposit to trust then transfer)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — mixed funds must go fully to trust before transfer to general"
+    },
+    "exam_trigger_words": ["mixed payment", "fees and disbursements", "trust deposit", "split cheque", "By-Law 9"],
+    "tested_concepts": [
+      "By-Law 9 — mixed payments must go entirely to trust first",
+      "cannot split a payment between trust and general accounts at receipt",
+      "transfer to general account occurs after trust deposit and documentation"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-06-short-002",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting and Financial Management",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Shortages — Causes and Liability",
+    "subtopic_id": "trust_shortage_definition",
+    "subtopic_heading": "What Constitutes a Trust Shortage — Detection and Immediate Remediation",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Patricia manages a mixed trust account for 15 active clients. During a monthly reconciliation she discovers that the total of her client trust ledger balances is $48,000, but her trust bank account balance is only $45,000. Patricia has not misappropriated funds — the discrepancy appears to be the result of a clerical error made three months ago where $3,000 was accidentally posted to the wrong client's ledger.",
+    "call_of_question": "How should Patricia respond to the $3,000 trust shortage, and does the inadvertent nature of the error affect her obligations?",
+    "options": {
+      "A": "Because the shortage is inadvertent, Patricia has no reporting obligation; she may simply correct the ledger entry and move on.",
+      "B": "An inadvertent trust shortage that results from a clerical error is not a true shortage and does not trigger any trust accounting obligations.",
+      "C": "Patricia must immediately investigate and correct the shortage, replace the missing funds from personal funds if necessary to bring the trust account to the correct balance, and report the shortage to the LSO; the inadvertent nature of the error does not eliminate these obligations, although it may be relevant to the severity of the disciplinary consequences.",
+      "D": "Patricia may correct the shortage by moving funds between client ledger accounts without replacing funds from her personal funds, since the total trust funds held are sufficient if properly allocated."
+    },
+    "correct_answer": "C",
+    "explanation": "A trust shortage exists whenever the trust bank account balance is less than the total of the individual client trust ledger balances — regardless of the cause. An inadvertent shortage arising from a clerical error is still a trust shortage triggering the same obligations as any other shortage: immediate investigation, remediation (including replacing funds from personal funds if necessary to restore the correct balance), and reporting to the LSO. The inadvertent nature of the error may be relevant to the LSO's assessment of the severity of the misconduct, but it does not eliminate any of the procedural obligations.",
+    "why_A_wrong": "Incorrect. The inadvertent nature of the shortage does not eliminate the reporting obligation. Trust shortages must be reported to the LSO regardless of cause.",
+    "why_B_wrong": "Incorrect. A trust shortage is defined by the discrepancy between the trust bank balance and the total client trust ledger balances — an error-caused shortage is still a shortage and triggers all applicable obligations.",
+    "why_C_wrong": "This IS the correct answer. Patricia must immediately investigate and correct the shortage, replace the missing funds from personal funds if necessary to bring the trust account to the correct balance, and report the shortage to the LSO; the inadvertent nature of the error does not eliminate these obligations, although it may be relevant to the severity of the disciplinary consequences.",
+    "why_D_wrong": "Incorrect. Reallocating ledger balances between clients does not remedy a true shortage — the trust bank balance is $3,000 less than the sum of client balances. The missing $3,000 must be restored from an outside source, not by adjusting ledger entries.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting and Financial Management",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (trust shortage — definition and obligations regardless of cause)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — inadvertent trust shortage triggers same obligations as intentional shortage"
+    },
+    "exam_trigger_words": ["trust shortage", "clerical error", "inadvertent shortage", "reporting obligation", "LSO"],
+    "tested_concepts": [
+      "trust shortage exists whenever bank balance is less than sum of client ledgers",
+      "inadvertent shortage still requires reporting and remediation",
+      "cause of shortage may affect severity of discipline but not the obligation to report"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-06-short-003",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting and Financial Management",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Shortages — Causes and Liability",
+    "subtopic_id": "misappropriation_vs_shortage",
+    "subtopic_heading": "Misappropriation vs. Inadvertent Shortage — Professional Consequences",
+    "difficulty": "hard",
+    "fact_pattern": "Two separate lawyers at the same firm experience trust shortages. Lawyer A transferred $30,000 from client trust funds to cover personal debts, intending to repay the funds before the next reconciliation. Lawyer B had a $30,000 shortage arising from a calculation error in how she applied a settlement amount to the correct client ledger; she discovered the error herself during monthly reconciliation and reported it immediately. Both lawyers self-reported to the LSO.",
+    "call_of_question": "How does the professional responsibility framework distinguish between Lawyer A's conduct and Lawyer B's conduct with respect to trust shortages?",
+    "options": {
+      "A": "Both lawyers face identical professional consequences because a $30,000 trust shortage is treated the same regardless of the cause.",
+      "B": "Lawyer B faces more serious consequences because she discovered the shortage herself during reconciliation, which indicates poor record-keeping practices.",
+      "C": "Lawyer A's intentional misappropriation of client trust funds is one of the most serious forms of professional misconduct — likely resulting in licence revocation and potential criminal charges; Lawyer B's inadvertent shortage, promptly discovered and reported, while still professional misconduct requiring discipline, is treated as a significantly less serious matter reflecting poor accounting controls rather than dishonesty.",
+      "D": "The intent behind a trust shortage is irrelevant to professional discipline; the only relevant factor is whether the shortage was remedied."
+    },
+    "correct_answer": "C",
+    "explanation": "The LSO's professional conduct framework treats intentional misappropriation of client trust funds as among the gravest possible misconduct — it involves deliberate dishonesty with client money, fundamentally undermines trust in the legal profession, and almost invariably results in revocation of the licence (disbarment) and referral to criminal authorities. An inadvertent trust shortage arising from an honest accounting error, promptly discovered, reported, and remedied, is also professional misconduct (because trust accounting rules are strict) but is treated as reflecting poor practice controls rather than dishonesty and typically results in lesser discipline such as conditions on the licence, supervision, or a reprimand.",
+    "why_A_wrong": "Incorrect. The professional consequences for misappropriation and inadvertent shortage are categorically different. Intent and honesty are central to the disciplinary analysis.",
+    "why_B_wrong": "Incorrect. Discovering a shortage oneself during reconciliation is evidence of a functioning, if imperfect, reconciliation process — it is not an aggravating factor. Prompt self-discovery and reporting are mitigating in the inadvertent shortage context.",
+    "why_C_wrong": "This IS the correct answer. Lawyer A's intentional misappropriation of client trust funds is one of the most serious forms of professional misconduct — likely resulting in licence revocation and potential criminal charges; Lawyer B's inadvertent shortage, promptly discovered and reported, while still professional misconduct requiring discipline, is treated as a significantly less serious matter reflecting poor accounting controls rather than dishonesty.",
+    "why_D_wrong": "Incorrect. Intent is highly relevant to professional discipline in trust shortage cases. Remediation is relevant to mitigation but does not equalize the analysis between intentional misappropriation and honest error.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting and Financial Management",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9; Law Society Act, R.S.O. 1990, c. L.8 (professional misconduct — trust misappropriation)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — misappropriation vs. inadvertent shortage; professional consequences"
+    },
+    "exam_trigger_words": ["misappropriation", "inadvertent shortage", "licence revocation", "dishonesty", "trust funds"],
+    "tested_concepts": [
+      "intentional misappropriation of trust funds is gravest professional misconduct",
+      "inadvertent shortage is misconduct but treated less seriously than misappropriation",
+      "intent is central to professional discipline analysis in trust shortage cases"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-06-report-001",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting and Financial Management",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Annual Trust Report — Filing Obligations",
+    "subtopic_id": "annual_trust_report",
+    "subtopic_heading": "Annual Trust Report — Obligation to File with LSO",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Wendell has been licensed for five years and operates a solo general practice. He maintains a mixed trust account but has been too busy to file his annual trust report with the Law Society of Ontario for the past two years. He believes that because he has no trust accounting problems, the failure to file is a minor administrative oversight with no real consequences.",
+    "call_of_question": "What are Wendell's obligations regarding the annual trust report, and is his assessment of the consequences correct?",
+    "options": {
+      "A": "The annual trust report is optional for sole practitioners with fewer than five active trust clients; Wendell's assessment that it is minor is correct.",
+      "B": "Lawyers who have no trust accounting problems are exempt from the annual trust reporting requirement.",
+      "C": "All lawyers who maintain a trust account must file an annual trust report with the LSO; failure to file is itself an independently sanctionable professional obligation, regardless of whether the underlying trust accounting is in order; Wendell's failure to file for two consecutive years is a serious compliance failure.",
+      "D": "The annual trust report must be filed only in years when the trust account experiences a shortage or audit; otherwise it is optional."
+    },
+    "correct_answer": "C",
+    "explanation": "The LSO requires all lawyers who maintain a trust account to file an annual trust report certifying their compliance with trust accounting obligations. This filing is a mandatory regulatory requirement — it is not optional and it is not conditional on having had problems with the trust account. The failure to file an annual trust report is independently sanctionable as professional misconduct, separate from any underlying trust accounting violations. Wendell's failure to file for two consecutive years is a significant professional compliance failure and his assessment that it is a minor administrative oversight is incorrect.",
+    "why_A_wrong": "Incorrect. The annual trust report is not optional for sole practitioners, regardless of the number of active trust clients. All lawyers maintaining a trust account must file.",
+    "why_B_wrong": "Incorrect. There is no exemption from annual trust reporting for lawyers who believe their accounts are in order. The filing is mandatory regardless of the state of the trust account.",
+    "why_C_wrong": "This IS the correct answer. All lawyers who maintain a trust account must file an annual trust report with the LSO; failure to file is itself an independently sanctionable professional obligation, regardless of whether the underlying trust accounting is in order; Wendell's failure to file for two consecutive years is a serious compliance failure.",
+    "why_D_wrong": "Incorrect. The annual trust report is required every year regardless of whether there was a shortage or audit. The annual filing obligation is unconditional.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting and Financial Management",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9; Law Society Act, R.S.O. 1990, c. L.8 (annual trust report — mandatory filing)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — annual trust report filing obligation"
+    },
+    "exam_trigger_words": ["annual trust report", "LSO filing", "mandatory report", "By-Law 9", "trust compliance"],
+    "tested_concepts": [
+      "annual trust report is mandatory for all lawyers with trust accounts",
+      "failure to file annual trust report is independently sanctionable",
+      "no exemption for lawyers who believe accounts are in order"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-06-audit-002",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting and Financial Management",
+    "topic_id": "trust_accounting",
+    "topic_heading": "LSO Audit — Spot Checks and Compliance",
+    "subtopic_id": "spot_audit",
+    "subtopic_heading": "LSO Spot Audit — No Cause Required; Lawyer's Duty to Cooperate",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Guadalupe is surprised when an LSO compliance officer arrives at her office without advance notice and announces a spot audit of her trust account and financial records. Guadalupe asks the officer to leave and reschedule for a time when her accountant can be present. She also asks the officer to identify the specific complaint that triggered the audit before she will allow access to her records.",
+    "call_of_question": "Is Guadalupe entitled to require advance notice, the presence of her accountant, or identification of a triggering complaint before allowing the LSO audit to proceed?",
+    "options": {
+      "A": "Yes — the LSO must give at least 48 hours' advance notice of any trust audit and must identify the specific complaint that triggered it.",
+      "B": "Yes — Guadalupe is entitled to have her accountant present before granting the inspector access to financial records.",
+      "C": "No — the LSO has authority under the Law Society Act to conduct spot audits of trust accounts without advance notice, without cause, and without identifying a specific complaint; Guadalupe must cooperate immediately; requiring the inspector to leave or conditioning access on the presence of her accountant constitutes obstruction, which is itself professional misconduct.",
+      "D": "Yes — the LSO must obtain a court order before conducting an unannounced audit of a lawyer's financial records."
+    },
+    "correct_answer": "C",
+    "explanation": "The Law Society Act grants the LSO broad authority to conduct compliance audits of lawyers' trust accounts and financial records, including unannounced spot audits. The LSO does not need to identify a specific complaint, give advance notice, or obtain a court order before conducting a spot audit. A lawyer who refuses access, requests the inspector to leave, or conditions cooperation on the presence of a third party is obstructing a lawful regulatory inspection — which is itself professional misconduct. Guadalupe must allow the inspection to proceed immediately.",
+    "why_A_wrong": "Incorrect. The LSO is not required to give advance notice or identify a triggering complaint. Spot audits may be conducted without notice and without cause.",
+    "why_B_wrong": "Incorrect. While Guadalupe may prefer to have her accountant present, she is not entitled to condition the inspector's access on that. The inspection must proceed when the inspector attends.",
+    "why_C_wrong": "This IS the correct answer. No — the LSO has authority under the Law Society Act to conduct spot audits of trust accounts without advance notice, without cause, and without identifying a specific complaint; Guadalupe must cooperate immediately; requiring the inspector to leave or conditioning access on the presence of her accountant constitutes obstruction, which is itself professional misconduct.",
+    "why_D_wrong": "Incorrect. A court order is not required for an LSO trust audit. The Law Society Act directly confers the inspection authority, and no additional judicial authorization is needed.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting and Financial Management",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8, s. 42 (LSO spot audit — no notice or cause required)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — LSO spot audit; obstruction is professional misconduct"
+    },
+    "exam_trigger_words": ["spot audit", "unannounced audit", "obstruction", "LSO inspector", "Law Society Act"],
+    "tested_concepts": [
+      "Law Society Act — LSO may conduct spot audits without advance notice or cause",
+      "lawyer must cooperate immediately with LSO inspector",
+      "conditioning access on accountant or complaint identification is obstruction"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-06-bylaw-001",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting and Financial Management",
+    "topic_id": "trust_accounting",
+    "topic_heading": "By-Law 9 Specific Requirements — Trust Account Rules",
+    "subtopic_id": "trust_account_requirements",
+    "subtopic_heading": "Trust Account Location and Financial Institution Requirements",
+    "difficulty": "easy",
+    "fact_pattern": "Lawyer Colin opens a trust account at an online-only bank incorporated in the United States that offers high interest rates on deposits. He uses this account to hold client funds from his Ontario practice, reasoning that since the client funds are protected by the high interest rate, the location of the bank is irrelevant.",
+    "call_of_question": "Does By-Law 9 permit Colin to maintain his trust account at a foreign online-only bank?",
+    "options": {
+      "A": "Yes — as long as client funds are safe and earn a good interest rate, the location or type of financial institution is irrelevant under By-Law 9.",
+      "B": "No — By-Law 9 requires that a lawyer's trust account be maintained at a recognized financial institution in Ontario; a foreign bank, even one with a strong interest rate, does not satisfy this requirement.",
+      "C": "Yes — online banks are recognized financial institutions under By-Law 9 regardless of their country of incorporation.",
+      "D": "No — trust accounts must be maintained at one of the five major Canadian chartered banks specifically listed in By-Law 9."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 9 requires that a lawyer's trust account be held at a recognized financial institution in Ontario. The financial institution must be authorized to accept deposits and must operate in Ontario. A foreign bank incorporated in the United States — even if it offers competitive interest rates — does not qualify as a recognized Ontario financial institution under By-Law 9. Maintaining client trust funds at an unapproved foreign institution violates the trust account requirements and may expose client funds to regulatory and legal risks outside the Ontario framework.",
+    "why_A_wrong": "Incorrect. The interest rate offered does not determine compliance with By-Law 9. The trust account must be at a recognized financial institution in Ontario regardless of comparative interest rates.",
+    "why_B_wrong": "This IS the correct answer. No — By-Law 9 requires that a lawyer's trust account be maintained at a recognized financial institution in Ontario; a foreign bank, even one with a strong interest rate, does not satisfy this requirement.",
+    "why_C_wrong": "Incorrect. Being an online bank does not determine eligibility — the key requirement is that the institution be recognized and operating in Ontario. A foreign online bank does not meet this standard.",
+    "why_D_wrong": "Incorrect. By-Law 9 does not restrict trust accounts to the five major chartered banks. A wider range of recognized financial institutions in Ontario may be used, but the institution must be in Ontario.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting and Financial Management",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (trust account — recognized financial institution in Ontario)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — trust account must be at recognized Ontario financial institution"
+    },
+    "exam_trigger_words": ["trust account location", "financial institution", "Ontario", "foreign bank", "By-Law 9"],
+    "tested_concepts": [
+      "By-Law 9 — trust account must be at recognized financial institution in Ontario",
+      "foreign bank does not qualify even with high interest rate",
+      "location of financial institution is a hard requirement"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-06-bylaw-002",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting and Financial Management",
+    "topic_id": "trust_accounting",
+    "topic_heading": "By-Law 9 Specific Requirements — Trust Account Rules",
+    "subtopic_id": "pooled_vs_specific_trust",
+    "subtopic_heading": "Pooled Trust vs. Specific Trust — Client Consent and Use",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Moira acts for a large corporation in a complex acquisition. The corporation will need to deposit $15,000,000 into trust at closing. The corporation's CFO asks Moira whether the funds must go into her pooled trust account with other clients' funds, or whether a separate account can be established for the corporation's funds only. The CFO is particularly concerned about the interest that will accrue during the three-day closing period.",
+    "call_of_question": "Under By-Law 9, what options does Moira have for holding the corporation's funds, and what happens to the interest earned?",
+    "options": {
+      "A": "All client funds must go into the pooled mixed trust account; specific trust accounts are prohibited in Ontario.",
+      "B": "Moira may open a specific (designated) trust account for the corporation's funds; with the client's consent and instructions, the funds can be held separately in an interest-bearing account, and the interest earned in a specific trust account belongs to the client — not to Moira and not to the Law Foundation of Ontario.",
+      "C": "Moira may open a specific trust account but any interest earned on the funds must be remitted to the Law Foundation of Ontario.",
+      "D": "Moira may hold the funds in her general account for up to three days during the closing period as a temporary exception to the trust deposit rule."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 9 permits lawyers to open specific (designated) trust accounts for the funds of a particular client or transaction, separately from the pooled mixed trust account. This is commonly done for large commercial transactions where the client or the nature of the transaction requires segregated funds. The key distinction from a pooled trust account is that interest earned in a specific trust account belongs to the client — not to the lawyer and not to the Law Foundation of Ontario (which receives interest from pooled accounts). Moira may open a specific trust account for the corporation, and the interest earned during the closing period will belong to the corporation.",
+    "why_A_wrong": "Incorrect. Specific trust accounts are expressly permitted under By-Law 9 and are regularly used for large commercial transactions.",
+    "why_B_wrong": "This IS the correct answer. Moira may open a specific (designated) trust account for the corporation's funds; with the client's consent and instructions, the funds can be held separately in an interest-bearing account, and the interest earned in a specific trust account belongs to the client — not to Moira and not to the Law Foundation of Ontario.",
+    "why_C_wrong": "Incorrect. The obligation to remit interest to the Law Foundation of Ontario applies to interest earned on pooled mixed trust accounts, not to specific (designated) trust accounts. In a specific trust account, interest goes to the client.",
+    "why_D_wrong": "Incorrect. There is no temporary exception to the trust deposit rule for closing periods. Client funds must go to trust immediately upon receipt, regardless of how long the matter will take.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting and Financial Management",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9, s. 4 (specific trust account — interest to client); Legal Foundation of Ontario Act"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — specific trust account; interest to client not Law Foundation"
+    },
+    "exam_trigger_words": ["specific trust account", "pooled trust", "interest", "client", "Law Foundation"],
+    "tested_concepts": [
+      "By-Law 9 — specific trust account permitted for large transactions",
+      "interest in specific trust account belongs to the client",
+      "interest in pooled trust goes to Law Foundation — not applicable to specific trust"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-06-reconcile-001",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting and Financial Management",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Monthly Trust Reconciliation — By-Law 9",
+    "subtopic_id": "reconciliation_discrepancy",
+    "subtopic_heading": "Reconciliation Discrepancy — Duty to Investigate Immediately",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Fatou completes her monthly trust reconciliation and finds a $500 discrepancy — the trust bank balance is $500 more than the total of her client trust ledger balances. She is relieved that the trust account has more money than accounted for rather than less, and notes the surplus in her records but decides not to investigate further because no client is missing any funds.",
+    "call_of_question": "How should Fatou respond to the reconciliation discrepancy, and is she correct that a surplus discrepancy requires no further action?",
+    "options": {
+      "A": "Yes — a surplus in the trust account (more money than accounted for) is not a trust shortage and therefore does not require investigation.",
+      "B": "Fatou is correct that only a deficit shortage (not a surplus) triggers reporting obligations under By-Law 9.",
+      "C": "No — any discrepancy revealed in a trust reconciliation, whether a deficit or a surplus, must be investigated immediately; a surplus may indicate an unaccounted-for client deposit, a posting error, or that funds belong to an unidentified client — failure to investigate and resolve the discrepancy is a breach of By-Law 9.",
+      "D": "A $500 surplus is below the materiality threshold under By-Law 9 and may be carried forward as an unresolved item for up to six months."
+    },
+    "correct_answer": "C",
+    "explanation": "By-Law 9 requires that any discrepancy in a trust reconciliation be investigated immediately — not just deficit shortages. A surplus (more money in the bank than the sum of client ledger balances) may indicate that client funds were received but not posted to a ledger, that a prior withdrawal was reversed, that an unknown client deposited funds, or that funds belonging to an identifiable client have not been properly recorded. Leaving an unresolved surplus without investigation is a breach of the reconciliation obligations. The duty to investigate applies to all discrepancies, regardless of the direction of the discrepancy or its amount.",
+    "why_A_wrong": "Incorrect. A surplus discrepancy must be investigated, not simply noted. It may represent unaccounted-for client funds, which the lawyer is holding in trust and must identify and account for.",
+    "why_B_wrong": "Incorrect. By-Law 9 does not distinguish between surplus and deficit discrepancies in its investigation requirement. All discrepancies must be investigated.",
+    "why_C_wrong": "This IS the correct answer. No — any discrepancy revealed in a trust reconciliation, whether a deficit or a surplus, must be investigated immediately; a surplus may indicate an unaccounted-for client deposit, a posting error, or that funds belong to an unidentified client — failure to investigate and resolve the discrepancy is a breach of By-Law 9.",
+    "why_D_wrong": "Incorrect. There is no materiality threshold or carry-forward period for reconciliation discrepancies under By-Law 9. Any discrepancy must be investigated promptly.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting and Financial Management",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (trust reconciliation — any discrepancy must be investigated)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — surplus discrepancy must be investigated"
+    },
+    "exam_trigger_words": ["reconciliation", "surplus", "discrepancy", "investigate", "By-Law 9"],
+    "tested_concepts": [
+      "By-Law 9 — all reconciliation discrepancies must be investigated immediately",
+      "surplus discrepancy is not safe to ignore — may represent unrecorded client funds",
+      "no materiality threshold for reconciliation investigation obligation"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-06-interest-001",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting and Financial Management",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Interest on Trust Funds — Law Foundation of Ontario",
+    "subtopic_id": "interest_pooled_trust",
+    "subtopic_heading": "Interest on Pooled Trust Account — Paid to Law Foundation of Ontario",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Jerome maintains a pooled mixed trust account. Over the course of a year, the account generates $4,200 in interest. Jerome considers three possible approaches: (a) remitting the interest to the Law Foundation of Ontario as he believes is required; (b) keeping the interest as compensation for the administrative burden of maintaining the trust account; or (c) distributing the interest pro rata to each client whose funds were held in the account during the year.",
+    "call_of_question": "Under By-Law 9 and the Legal Foundation of Ontario Act, which of Jerome's three approaches is correct?",
+    "options": {
+      "A": "Approach (c) — interest earned on pooled trust accounts must be distributed proportionally to each client whose funds generated the interest.",
+      "B": "Approach (b) — the lawyer may retain interest on pooled trust funds as compensation for the cost and inconvenience of maintaining the trust account.",
+      "C": "Approach (a) — interest earned on a pooled mixed trust account must be remitted to the Law Foundation of Ontario; the interest does not belong to the lawyer, and distributing it pro rata to clients is also not permitted.",
+      "D": "Either approach (b) or (c) — the lawyer may choose between retaining the interest personally or distributing it to clients."
+    },
+    "correct_answer": "C",
+    "explanation": "The Legal Foundation of Ontario Act requires that interest earned on lawyers' pooled mixed trust accounts be paid to the Law Foundation of Ontario. This is a mandatory statutory requirement. The interest does not belong to the lawyer (who may not retain it), nor does it belong proportionally to individual clients (pro rata distribution is not permitted for pooled accounts). The Law Foundation uses this interest to fund legal aid and public legal education. The distinction to remember is that interest on a specific (designated) trust account does belong to the client — but for pooled accounts, the interest goes to the Law Foundation.",
+    "why_A_wrong": "Incorrect. Pro rata distribution of pooled trust interest to clients is not permitted. Interest on pooled accounts must go to the Law Foundation of Ontario by statute.",
+    "why_B_wrong": "Incorrect. Lawyers may not retain interest earned on pooled trust accounts for their own use. The interest belongs to the Law Foundation of Ontario, not to the lawyer.",
+    "why_C_wrong": "This IS the correct answer. Approach (a) — interest earned on a pooled mixed trust account must be remitted to the Law Foundation of Ontario; the interest does not belong to the lawyer, and distributing it pro rata to clients is also not permitted.",
+    "why_D_wrong": "Incorrect. Neither approach (b) nor (c) is permitted. The lawyer has no discretion — the interest must go to the Law Foundation of Ontario.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting and Financial Management",
+      "page": "N/A",
+      "rule_or_statute_reference": "Legal Foundation of Ontario Act; LSO By-Law 9 (interest on pooled trust account — Law Foundation of Ontario)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — interest on pooled trust goes to Law Foundation of Ontario"
+    },
+    "exam_trigger_words": ["trust interest", "Law Foundation of Ontario", "pooled trust", "interest distribution", "Legal Foundation Act"],
+    "tested_concepts": [
+      "Legal Foundation of Ontario Act — pooled trust interest must go to Law Foundation",
+      "lawyer cannot retain trust interest",
+      "pro rata distribution to clients is not permitted for pooled trust interest",
+      "distinction: specific trust interest goes to client; pooled trust interest goes to Law Foundation"
+    ],
+    "estimated_time_seconds": 90
   }
 ]

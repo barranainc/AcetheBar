@@ -581,5 +581,446 @@
       "reduced rate does not cure competence deficiency"
     ],
     "estimated_time_seconds": 180
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-02-tech-001",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1-2 — Technology Competence",
+    "subtopic_id": "technology_competence",
+    "subtopic_heading": "Technology Competence — Rule 3.1-2 Commentary",
+    "difficulty": "medium",
+    "fact_pattern": "Quinn is a corporate lawyer who uses a cloud-based document management platform to store all client files, including highly sensitive merger and acquisition documents. She chose the platform because it was inexpensive and familiar to her staff. She has never reviewed the platform's privacy policy, its data encryption standards, or where client data is physically stored. A data breach occurs and confidential client information is accessed by an unauthorized third party. Quinn argues that she cannot be expected to be a technology expert and that IT responsibilities belong to her vendor.",
+    "call_of_question": "Which of the following best describes Quinn's professional responsibility obligations regarding technology under Rule 3.1-2?",
+    "options": {
+      "A": "Quinn has no technology competence obligation; Rule 3.1-2 applies only to legal knowledge and skill, not to software or data management choices.",
+      "B": "Quinn's obligation is satisfied by choosing a reputable vendor; she is not required to investigate the specific technical features of the platform she uses.",
+      "C": "The Commentary to Rule 3.1-2 requires lawyers to maintain sufficient understanding of the technology they use in practice, including awareness of associated confidentiality and data security risks; Quinn's failure to assess the cloud platform's security features before storing sensitive client data constitutes a breach of her competence and confidentiality obligations.",
+      "D": "Quinn is only liable if she was specifically warned by the vendor about the security vulnerability and ignored that warning."
+    },
+    "correct_answer": "C",
+    "explanation": "The Commentary to Rule 3.1-2 expressly requires lawyers to maintain a sufficient understanding of the technology they use in their practice, including an appreciation of the security risks that technology poses for client confidentiality. This does not require lawyers to be software engineers, but it does require them to make informed choices about platforms used to store sensitive client information — including reviewing encryption standards, data storage locations, and vendor privacy policies. Quinn's failure to conduct any due diligence on the cloud platform before using it to store highly sensitive client documents is a breach of both her competence obligation and her duty of confidentiality.",
+    "why_A_wrong": "Incorrect. The Commentary to Rule 3.1-2 expressly extends the competence obligation to technology used in practice. Technology choices that implicate client confidentiality are within the scope of the competence rule.",
+    "why_B_wrong": "Incorrect. Selecting a reputable vendor is a starting point, not a complete discharge of the obligation. A lawyer must understand the specific security features of the platform used to store confidential client information.",
+    "why_C_wrong": "This IS the correct answer. The Commentary to Rule 3.1-2 requires lawyers to maintain sufficient understanding of the technology they use in practice, including awareness of associated confidentiality and data security risks; Quinn's failure to assess the cloud platform's security features before storing sensitive client data constitutes a breach of her competence and confidentiality obligations.",
+    "why_D_wrong": "Incorrect. The technology competence obligation is proactive. Quinn must assess security risks before deploying the platform, not only after receiving a specific warning.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2 Commentary (technology competence)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "competence — technology"
+    },
+    "exam_trigger_words": [
+      "cloud storage",
+      "technology",
+      "data breach",
+      "confidentiality",
+      "Rule 3.1-2 Commentary"
+    ],
+    "tested_concepts": [
+      "Rule 3.1-2 Commentary — technology competence obligation",
+      "lawyer must understand confidentiality risks of technology used",
+      "proactive due diligence on data storage platforms"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-02-tech-002",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1-2 — Technology Competence",
+    "subtopic_id": "technology_competence",
+    "subtopic_heading": "AI-Generated Research — Competence and Candour Implications",
+    "difficulty": "hard",
+    "fact_pattern": "Rena is a junior litigator facing a tight deadline on a complex motion. She uses an artificial intelligence legal research tool to generate a case summary and a list of authorities. Without independently verifying the citations against primary sources, she includes the AI-generated list of cases in her factum. At the hearing, opposing counsel points out that two of the cited cases do not exist — they are AI-generated fictitious citations. The judge is clearly displeased.",
+    "call_of_question": "Which of the following best describes the professional responsibility issues raised by Rena's conduct?",
+    "options": {
+      "A": "Rena has not breached any rule because she acted in good faith by relying on a legal research tool; good faith reliance on technology is a complete defence.",
+      "B": "Rena's conduct raises concerns only under the duty of candour to the tribunal; her competence obligation under Rule 3.1-2 is not implicated because technology errors are beyond a lawyer's control.",
+      "C": "Rena has breached both her competence obligation under Rule 3.1-2 — by failing to verify AI-generated research against primary sources before relying on it — and her duty of candour to the tribunal by presenting authorities she had not independently confirmed exist.",
+      "D": "Rena has breached only her competence obligation; the duty of candour is not engaged unless a lawyer intentionally presents false authorities."
+    },
+    "correct_answer": "C",
+    "explanation": "The Commentary to Rule 3.1-2 requires lawyers to maintain sufficient understanding of the technology they use, including its limitations. AI legal research tools are known to occasionally generate fictitious citations — a risk a competent lawyer must appreciate and address by verifying all citations against primary sources before relying on them in court filings. By submitting unverified AI-generated citations, Rena also breached her duty of candour to the tribunal under Rule 5.1-2, which requires a lawyer not to mislead the court — including by citing non-existent authorities. Candour does not require intent to deceive; presenting unverified and ultimately false authorities is itself a breach.",
+    "why_A_wrong": "Incorrect. Good faith reliance on technology is not a complete defence when the limitations of the technology are reasonably known and the lawyer failed to take the verification steps that competence requires.",
+    "why_B_wrong": "Incorrect. Both competence and candour are engaged. Rule 3.1-2 requires a lawyer to understand the limitations of technology used in practice, which includes the known risk that AI tools may generate fictitious citations.",
+    "why_C_wrong": "This IS the correct answer. Rena has breached both her competence obligation under Rule 3.1-2 — by failing to verify AI-generated research against primary sources before relying on it — and her duty of candour to the tribunal by presenting authorities she had not independently confirmed exist.",
+    "why_D_wrong": "Incorrect. The duty of candour under Rule 5.1-2 does not require intentional deception. Presenting citations to the court that turn out not to exist, even through carelessness, is a breach of the candour obligation.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2 Commentary (technology); Rule 5.1-2 (candour)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "competence — AI technology; candour to tribunal"
+    },
+    "exam_trigger_words": [
+      "artificial intelligence",
+      "AI research",
+      "fictitious citations",
+      "verify",
+      "candour",
+      "technology"
+    ],
+    "tested_concepts": [
+      "Rule 3.1-2 Commentary — understanding limitations of AI legal research tools",
+      "duty to verify AI-generated citations against primary sources",
+      "Rule 5.1-2 — candour to tribunal includes not presenting unverified false authorities"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-02-scope-001",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1-2 — Scope of Retainer",
+    "subtopic_id": "scope_retainer",
+    "subtopic_heading": "Limited-Scope Retainer — Rule 3.2-1A",
+    "difficulty": "easy",
+    "fact_pattern": "Sofia retains a lawyer, Takeshi, specifically to review and comment on a commercial contract she has already negotiated. They agree in writing that Takeshi's retainer is limited to document review only — he will not attend negotiations, advise on business strategy, or recommend whether Sofia should sign. Sofia later complains that Takeshi should have flagged that the pricing structure, while not legally defective, was commercially disadvantageous and that she should have renegotiated before signing.",
+    "call_of_question": "Did Takeshi breach his competence obligation by not advising on the commercial desirability of the pricing structure?",
+    "options": {
+      "A": "Yes — a lawyer who reviews a contract must advise on all aspects of the document, including its commercial terms, regardless of the agreed scope of the retainer.",
+      "B": "No — Rule 3.2-1A permits a lawyer and client to agree in writing to limit the scope of the retainer; provided the limitation was reasonable in the circumstances and clearly communicated, Takeshi's obligation was confined to document review and he had no duty to advise beyond that scope.",
+      "C": "No — but only because Sofia is a sophisticated commercial client who should have known to ask about commercial terms.",
+      "D": "Yes — a limited-scope retainer is only valid in litigation matters, not in transactional contexts."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.2-1A of the LSO Rules of Professional Conduct permits a lawyer and client to agree to limit the scope of the representation, provided the limitation is reasonable in the circumstances, clearly communicated, and confirmed in writing. Where such an agreement is validly in place, the lawyer's competence obligation is assessed against the agreed limited scope. Takeshi's retainer was confined to document review; advising on commercial negotiation strategy was expressly excluded. He did not breach his competence obligation by staying within the agreed boundaries.",
+    "why_A_wrong": "Incorrect. Rule 3.2-1A expressly permits limits on the scope of representation. A lawyer is not required to advise on matters outside the agreed retainer, provided the limitation is valid and in writing.",
+    "why_B_wrong": "This IS the correct answer. Rule 3.2-1A permits a lawyer and client to agree in writing to limit the scope of the retainer; provided the limitation was reasonable in the circumstances and clearly communicated, Takeshi's obligation was confined to document review and he had no duty to advise beyond that scope.",
+    "why_C_wrong": "Incorrect. The basis for the valid limited-scope retainer is the written agreement under Rule 3.2-1A, not the client's sophistication. Client sophistication is not a separate legal basis for limiting scope.",
+    "why_D_wrong": "Incorrect. Rule 3.2-1A applies broadly to legal services and is not restricted to litigation matters. Limited-scope retainers are valid in transactional contexts as well.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.2-1A (limited-scope retainer)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "competence — scope of retainer"
+    },
+    "exam_trigger_words": [
+      "limited scope",
+      "retainer agreement",
+      "document review only",
+      "agreed scope",
+      "Rule 3.2-1A"
+    ],
+    "tested_concepts": [
+      "Rule 3.2-1A — limited-scope retainer valid if written and reasonable",
+      "competence assessed against agreed scope",
+      "no duty to advise beyond expressly limited retainer"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-02-scope-002",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1-2 — Scope of Retainer",
+    "subtopic_id": "scope_retainer",
+    "subtopic_heading": "Limited-Scope Retainer — When Limitation is Unreasonable",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Uliana is retained by a client, Max, who is unrepresented in a residential tenancy dispute. Max has no legal background and is unfamiliar with the Landlord and Tenant Board process. He can only afford a brief consultation. Uliana proposes a limited-scope retainer under Rule 3.2-1A in which she will review Max's evidence binder for 30 minutes and give no further advice — including no advice on what procedural steps to take, what arguments to raise, or what remedies are available. Max signs the retainer agreement without fully understanding its limitations.",
+    "call_of_question": "Is Uliana's proposed limited-scope retainer arrangement valid under Rule 3.2-1A?",
+    "options": {
+      "A": "Yes — any limitation agreed to in writing by both parties is valid under Rule 3.2-1A; Max's signature is conclusive.",
+      "B": "Yes — a lawyer may always limit scope in situations involving self-represented or unrepresented parties, as this increases access to justice.",
+      "C": "No — Rule 3.2-1A requires that a limited-scope retainer be reasonable in the circumstances; a limitation so narrow that it leaves a legally unsophisticated client unable to understand the proceedings or protect their interests may not be reasonable, and the client's signature alone does not validate an unreasonable limitation.",
+      "D": "No — limited-scope retainers are only permitted where the client is represented by a second lawyer."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.2-1A does not permit unlimited contracting-out of competence obligations. The Commentary to that Rule makes clear that a limited-scope retainer must be reasonable in the circumstances. Where the proposed limitation is so restricted that it leaves a vulnerable or legally unsophisticated client unable to effectively navigate the proceedings — especially where the client does not fully understand the limitation — the arrangement may not qualify as a valid limited-scope retainer. The client's signature on an agreement that the client does not adequately understand does not, by itself, validate an unreasonable limitation. This is an exam trap because candidates may assume any written, signed limitation is automatically valid.",
+    "why_A_wrong": "Incorrect. A client's signature does not automatically validate a limited-scope retainer. Rule 3.2-1A requires that the limitation be reasonable in the circumstances — a purely contractual analysis is insufficient.",
+    "why_B_wrong": "Incorrect. There is no blanket permission to limit scope when acting for unrepresented parties. Indeed, the vulnerability of an unrepresented client may make an extreme limitation less reasonable, not more.",
+    "why_C_wrong": "This IS the correct answer. Rule 3.2-1A requires that a limited-scope retainer be reasonable in the circumstances; a limitation so narrow that it leaves a legally unsophisticated client unable to understand the proceedings or protect their interests may not be reasonable, and the client's signature alone does not validate an unreasonable limitation.",
+    "why_D_wrong": "Incorrect. Rule 3.2-1A does not require that the client be separately represented. That is not a condition of the rule.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.2-1A Commentary (limited-scope retainer — reasonableness)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "competence — scope of retainer — reasonableness"
+    },
+    "exam_trigger_words": [
+      "limited scope",
+      "reasonable",
+      "unsophisticated client",
+      "signature",
+      "Rule 3.2-1A"
+    ],
+    "tested_concepts": [
+      "Rule 3.2-1A — limited-scope retainer must be reasonable in circumstances",
+      "client signature alone does not validate unreasonable limitation",
+      "vulnerability of client relevant to reasonableness of limitation"
+    ],
+    "estimated_time_seconds": 180
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-02-superv-004",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1 and Supervision — Rule 5.01",
+    "subtopic_id": "supervision_obligations",
+    "subtopic_heading": "Articling Student Files Motion Without Review — Principal's Responsibility",
+    "difficulty": "medium",
+    "fact_pattern": "Victor is the principal of an articling student, Winona. Victor instructs Winona to prepare and file a motion for summary judgment. Winona drafts the motion record, which contains a legal error in the applicable test for summary judgment — she applied the old test rather than the test as reformulated by the Supreme Court of Canada. Victor does not review the motion record before Winona files it under his name. The motion is dismissed on the merits. Victor tells the Law Society that Winona was enrolled in the bar admission process and had access to research databases, so he assumed she was competent.",
+    "call_of_question": "Which of the following best describes Victor's professional responsibility in this situation?",
+    "options": {
+      "A": "Victor is not responsible because Winona, as an articling student in the licensing process, is expected to perform legal work without supervision.",
+      "B": "Victor is not responsible because he assumed Winona was competent by virtue of her enrollment in the bar admission program.",
+      "C": "Victor breached his supervision obligation under Rule 5.01; a principal cannot file legal documents prepared by an articling student without reviewing them, and assumptions of competence based on enrollment status do not discharge the supervision obligation.",
+      "D": "Victor is responsible only if Winona committed the error intentionally."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 5.01 imposes on principal lawyers an obligation to supervise articling students, including reviewing legal work before it is filed on the lawyer's behalf. An articling student's enrollment in the licensing process does not establish competence for any specific legal task — indeed, it is precisely because students are in training that supervision is required. Victor's assumption of competence, without reviewing the motion record, is a breach of the supervision obligation. The error itself — applying an outdated legal test — is the kind of substantive mistake that a reviewing principal would and should catch.",
+    "why_A_wrong": "Incorrect. Articling students are in training and require active supervision, particularly on complex procedural work such as summary judgment motions. Enrollment in the licensing process does not substitute for supervision.",
+    "why_B_wrong": "Incorrect. Assumptions of competence are not a substitute for actual review of the work product. Rule 5.01 requires meaningful oversight, not reliance on the student's enrollment status.",
+    "why_C_wrong": "This IS the correct answer. Victor breached his supervision obligation under Rule 5.01; a principal cannot file legal documents prepared by an articling student without reviewing them, and assumptions of competence based on enrollment status do not discharge the supervision obligation.",
+    "why_D_wrong": "Incorrect. The supervision obligation is not limited to situations involving intentional errors. Negligent and inadvertent errors by supervised staff are precisely what the supervision obligation is designed to prevent.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.01 (supervision of articling students)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "supervision — articling student"
+    },
+    "exam_trigger_words": [
+      "articling student",
+      "principal",
+      "supervision",
+      "filed without review",
+      "Rule 5.01"
+    ],
+    "tested_concepts": [
+      "Rule 5.01 — principal must review work before filing on their behalf",
+      "enrollment in licensing does not establish competence for specific tasks",
+      "supervision obligation not discharged by assumptions of competence"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-02-superv-005",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1 and Supervision — Rule 5.01",
+    "subtopic_id": "supervision_obligations",
+    "subtopic_heading": "Non-Delegation of Professional Judgment — Trust Deposits",
+    "difficulty": "easy",
+    "fact_pattern": "Xavier is the sole practitioner at a small real estate firm. He is extremely busy and has delegated to his legal assistant the task of deciding which client funds go into trust and which go into the general account, without providing any instructions or a checklist. The legal assistant deposits several client retainer funds into the general account instead of trust, causing a trust account shortfall. Xavier tells the Law Society that he trusted his experienced assistant to handle financial administration.",
+    "call_of_question": "Which of the following best describes the professional responsibility issue arising from Xavier's conduct under Rule 5.01?",
+    "options": {
+      "A": "Xavier is not responsible because the legal assistant exercised independent judgment on an administrative matter.",
+      "B": "Xavier has not breached any rule because trust fund decisions are administrative, not legal, in nature.",
+      "C": "Xavier breached Rule 5.01 by delegating a matter requiring professional judgment — specifically, the determination of how client funds must be handled — to a non-lawyer without instructions or oversight; professional judgment on trust obligations cannot be delegated.",
+      "D": "Xavier's liability is limited to the amount of the shortfall, not professional discipline."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 5.01 requires a lawyer to supervise non-lawyers and to ensure that tasks requiring professional judgment are not effectively delegated without adequate guidance. Decisions about whether client funds must go into trust or the general account are not purely administrative — they require the application of professional rules governing trust accounts. Delegating this determination to a legal assistant without instructions or oversight crosses the line from permissible task delegation into impermissible delegation of professional judgment. Xavier is professionally responsible for the trust shortfall.",
+    "why_A_wrong": "Incorrect. A legal assistant exercising unsupervised judgment over trust fund allocation is not acting within a proper sphere of delegated authority. The decision requires professional judgment that only the supervising lawyer can provide.",
+    "why_B_wrong": "Incorrect. Trust account decisions are legal obligations governed by the Rules of Professional Conduct and the Law Society's by-laws. They are not purely administrative matters that can be delegated without guidance.",
+    "why_C_wrong": "This IS the correct answer. Xavier breached Rule 5.01 by delegating a matter requiring professional judgment — specifically, the determination of how client funds must be handled — to a non-lawyer without instructions or oversight; professional judgment on trust obligations cannot be delegated.",
+    "why_D_wrong": "Incorrect. A trust account shortfall arising from inadequate supervision exposes Xavier to professional discipline under the Rules of Professional Conduct, not merely civil liability for the shortfall amount.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.01 (non-delegation of professional judgment)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "supervision — non-delegation of professional judgment"
+    },
+    "exam_trigger_words": [
+      "legal assistant",
+      "trust account",
+      "delegation",
+      "professional judgment",
+      "Rule 5.01"
+    ],
+    "tested_concepts": [
+      "Rule 5.01 — professional judgment on trust obligations cannot be delegated to non-lawyers",
+      "trust fund decisions require lawyer oversight",
+      "supervision obligation includes providing adequate instructions"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-02-mdp-001",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1-2 — Multidisciplinary Practices",
+    "subtopic_id": "mdp_competence",
+    "subtopic_heading": "MDP — Lawyer's Competence Obligation for Team Members",
+    "difficulty": "hard",
+    "fact_pattern": "Yolanda is a lawyer in a multidisciplinary practice (MDP) that includes accountants, financial planners, and social workers. The MDP provides estate planning services. Yolanda is the responsible lawyer for a complex estate file. She relies entirely on the financial planner in the MDP to advise the client on the tax minimization structure embedded in the estate plan. The financial planner's advice contains a significant error regarding the tax consequences of a family trust. When the error surfaces, Yolanda argues that the financial planner is a separate professional and her competence obligation does not extend to the financial planner's advice.",
+    "call_of_question": "Is Yolanda's argument correct under the Rules of Professional Conduct?",
+    "options": {
+      "A": "Yes — in an MDP, each professional is independently responsible for their own services and the lawyer's competence obligation is limited to the legal work only.",
+      "B": "Yes — Yolanda's obligation is only to ensure that the financial planner holds the appropriate professional designation, not to verify the accuracy of the planner's advice.",
+      "C": "No — in an MDP, the responsible lawyer must ensure that all members of the team providing services to the client do so competently; Yolanda cannot shelter behind the non-lawyer's professional role when a legal outcome — here, the estate plan — depends on the accuracy of the planner's advice.",
+      "D": "No — but Yolanda's liability is reduced because the financial planner is a regulated professional."
+    },
+    "correct_answer": "C",
+    "explanation": "In a multidisciplinary practice, the lawyer remains the responsible professional for the overall legal service provided to the client. The Rules of Professional Conduct require that a lawyer in an MDP ensure that all team members who contribute to the legal service do so competently. Where the legal advice — in this case, the estate plan — depends on the accuracy of non-lawyer advice that is integral to that plan, the lawyer cannot disclaim responsibility for the non-lawyer's errors by pointing to the non-lawyer's professional designation. The fact that a financial planner is regulated does not insulate the responsible lawyer from the obligation to oversee the competence of the team's overall output.",
+    "why_A_wrong": "Incorrect. The lawyer's competence obligation in an MDP is not hermetically sealed to the narrowly legal tasks. Where non-lawyer services are integral to the legal outcome, the lawyer must ensure those services meet the required standard.",
+    "why_B_wrong": "Incorrect. Verifying that a team member holds a professional designation is a threshold step, not a complete discharge of the obligation to ensure competent service delivery on matters affecting the client's legal interests.",
+    "why_C_wrong": "This IS the correct answer. In an MDP, the responsible lawyer must ensure that all members of the team providing services to the client do so competently; Yolanda cannot shelter behind the non-lawyer's professional role when a legal outcome — here, the estate plan — depends on the accuracy of the planner's advice.",
+    "why_D_wrong": "Incorrect. The question is whether Yolanda breached her professional obligations, not whether her liability is reduced. A non-lawyer's professional regulation does not diminish the responsible lawyer's obligations under the Rules of Professional Conduct.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2; Rules governing MDPs"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "competence — multidisciplinary practice"
+    },
+    "exam_trigger_words": [
+      "multidisciplinary practice",
+      "MDP",
+      "non-lawyer",
+      "team competence",
+      "estate plan"
+    ],
+    "tested_concepts": [
+      "MDP — responsible lawyer must ensure all team members perform competently",
+      "lawyer cannot shelter behind non-lawyer's professional designation",
+      "competence obligation extends to non-lawyer contributions that affect legal outcome"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25",
+    "question_type": "single_best_answer",
+    "id": "pr-02-specialist-001",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1-2 — Specialist Certification",
+    "subtopic_id": "specialist_holding_out",
+    "subtopic_heading": "Specialist Certification — Holding Out and Standard of Care",
+    "difficulty": "medium",
+    "fact_pattern": "Zara is a lawyer who practises primarily in employment law. She has not been certified as a specialist by the Law Society of Ontario. On her website and business cards, she describes herself as 'Ontario's leading employment law specialist' and 'a board-certified specialist in employment matters.' She has not applied for or received any specialist certification from the LSO. Several clients have retained her based on the specialist representation, and one client has complained to the LSO that they expected a higher level of expertise than Zara demonstrated.",
+    "call_of_question": "Which of the following best describes the professional responsibility issues raised by Zara's self-description?",
+    "options": {
+      "A": "No rule is breached because 'specialist' is a marketing term that does not have a regulated meaning in Ontario.",
+      "B": "Zara has breached the rules against misleading advertising and the rules on specialist designation; a lawyer cannot hold herself out as a specialist or use the term 'specialist' in marketing unless certified by the LSO; doing so creates a misleading impression and may expose Zara to a higher standard of care.",
+      "C": "Zara has not breached any rule because she merely described her focus area; the use of 'specialist' is permissible as long as the lawyer practices predominantly in that area.",
+      "D": "Zara has breached the rules but only if a client can prove they were financially harmed by relying on the misleading description."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the LSO Rules and By-Laws, a lawyer may not use the term 'specialist' or hold themselves out as a specialist unless they have been formally certified as a specialist by the Law Society of Ontario. Unauthorized use of the term 'specialist' is misleading advertising — it creates an impression of formal accreditation that does not exist. Beyond the advertising concern, holding oneself out as a specialist creates an expectation of a higher standard of care commensurate with that specialist representation. The competence obligation applies at the level of skill the lawyer held out, not merely the general practitioner standard.",
+    "why_A_wrong": "Incorrect. The term 'specialist' in the Ontario legal market has a specific regulated meaning. Only lawyers who have been certified by the LSO may use it. It is not a generic marketing term that lawyers may freely apply.",
+    "why_B_wrong": "This IS the correct answer. Zara has breached the rules against misleading advertising and the rules on specialist designation; a lawyer cannot hold herself out as a specialist or use the term 'specialist' in marketing unless certified by the LSO; doing so creates a misleading impression and may expose Zara to a higher standard of care.",
+    "why_C_wrong": "Incorrect. Practicing predominantly in an area does not entitle a lawyer to use the regulated term 'specialist.' Concentration of practice and formal specialist certification are distinct concepts.",
+    "why_D_wrong": "Incorrect. A breach of the rules on specialist designation and misleading advertising is a professional responsibility issue independent of whether any specific client suffered financial harm.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2; LSO By-Laws — specialist certification; Rule 4.2-1 (misleading advertising)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "competence — specialist designation; misleading advertising"
+    },
+    "exam_trigger_words": [
+      "specialist",
+      "certified",
+      "holding out",
+      "standard of care",
+      "marketing"
+    ],
+    "tested_concepts": [
+      "LSO rules — 'specialist' designation requires formal LSO certification",
+      "unauthorized use of 'specialist' is misleading advertising",
+      "holding out as specialist creates higher standard of care obligation"
+    ],
+    "estimated_time_seconds": 120
   }
 ]
