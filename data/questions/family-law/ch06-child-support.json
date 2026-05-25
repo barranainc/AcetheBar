@@ -556,8 +556,8 @@
     "subtopic_heading": "Step-Parent Obligation to Pay Child Support — FCSG s.5",
     "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "Helen and George cohabited for 6 years and then separated. During those 6 years, George treated Helen's 8-year-old daughter from a previous relationship as his own child — paying for her school activities, taking her to appointments, and acting as a parental figure. George has no biological children. Helen now seeks child support from George for her daughter. George argues he has no legal obligation to pay support because he is not the child's biological father.",
-    "call_of_question": "Under what legal basis might George be obligated to pay child support for Helen's daughter, and what standard governs?",
+    "fact_pattern": "Helen and George were married for 6 years and have now separated. During the marriage, George treated Helen's 8-year-old daughter from a previous relationship as his own child — paying for her school activities, taking her to appointments, and acting as a parental figure. George has no biological children. Helen now seeks child support from George for her daughter under the Divorce Act. George argues he has no legal obligation to pay support because he is not the child's biological father.",
+    "call_of_question": "Under what legal basis might George be obligated to pay child support for Helen's daughter in a Divorce Act proceeding, and what standard governs?",
     "options": {
       "A": "George has no obligation; only biological parents or legal adoptive parents are required to pay child support.",
       "B": "Under FCSG s.5 and Divorce Act s.2(2), a step-parent who stands in the place of a parent may have an obligation to pay child support; the amount is determined by the court considering all relevant circumstances, as the table amount may not reflect the appropriate level of step-parent support given that the biological parent may also have an obligation.",
@@ -585,7 +585,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "fam-06-income-cap-001",

@@ -206,8 +206,8 @@ Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
 | **Validation status** | All 160 questions: `draft` |
 | **Similarity risk** | All 160 questions: `low` |
 | **Difficulty split** | Easy: 25 · Medium: 60 · Hard: 64 · Exam-trap: 11 |
-| **Legal review status** | Not source-checked |
-| **Baked into index.html** | Yes — `barf` base64 payload baked 2026-05-25 (length: 497,800 chars) |
+| **Legal review status** | Source-checked with flagged questions — see `docs/LEGAL_QA_GENERATED_BARRISTER_F.md` · 153 PASS · 5 FIXED · 2 HUMAN REVIEW REQUIRED (`fam-08-review-001`, `fam-08-review-var-001`) · 0 REMOVE |
+| **Baked into index.html** | Yes — `barf` base64 payload baked 2026-05-25 (length: 497,876 chars after QA fixes) |
 | **Source question files** | See manifest `source_files` array (across 4 subjects) |
 | **Overlap with C** | 0 questions — verified via set intersection of question_ids_used |
 | **Overlap with D** | 0 questions — verified via set intersection of question_ids_used |

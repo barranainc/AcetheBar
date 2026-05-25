@@ -311,7 +311,7 @@
     "call_of_question": "What are the criteria and time limits governing Crown wardship under the CYFSA?",
     "options": {
       "A": "Crown wardship may be ordered only where the parents have been convicted of a criminal offence involving the child.",
-      "B": "Under CYFSA s.116(1)(d) and s.120, a court may make an order for Crown wardship where the child cannot be adequately protected through a supervision or society wardship order; CYFSA s.125 imposes cumulative time limits on CAS custody — generally no more than 24 months for children under 6 — after which the court must proceed to Crown wardship or return the child home.",
+      "B": "Under CYFSA s.116(1)(d) and s.120, a court may make an order for Crown wardship where the child cannot be adequately protected through a supervision or society wardship order; CYFSA s.120 imposes cumulative time limits on CAS custody — generally no more than 12 months for children under 6 — after which the court must proceed to Crown wardship or return the child home.",
       "C": "Crown wardship is only available for children aged 12 or older who can consent to permanent ward status.",
       "D": "Crown wardship is available only upon parental consent; contested Crown wardship applications are not permitted."
     },
@@ -336,7 +336,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "fam-08-customary-001",

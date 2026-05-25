@@ -1,7 +1,7 @@
 {
   "exam_id": "generated-barrister-f",
   "exam_label": "Generated Barrister F",
-  "generated_at": "2026-05-25T17:01:39.347369+00:00",
+  "generated_at": "2026-05-25T17:31:42.712906+00:00",
   "seed": 4,
   "total_questions": 160,
   "subject_allocation": {
@@ -734,6 +734,6 @@
     "low": 160
   },
   "status": "draft",
-  "legal_review_status": "not source-checked",
+  "legal_review_status": "source-checked with flagged questions",
   "notes": "Generated Barrister exams are AI-assisted and assembled from the internal question bank. All questions carry validation_status='draft' until individually source-checked against official 2026 LSO materials by a qualified reviewer. Do not present as official LSO exam content."
 }
