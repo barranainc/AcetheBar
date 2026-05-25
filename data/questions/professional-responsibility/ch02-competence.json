@@ -434,5 +434,152 @@
       "non-lawyers cannot hold professional responsibility"
     ],
     "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-02-neglect-001",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1-2 — Neglect of Client Matter",
+    "subtopic_id": "neglect",
+    "subtopic_heading": "Neglect of a Client Matter — What Constitutes Neglect",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Nadine is retained by a client to defend a civil action. After filing a statement of defence, Nadine takes no further steps on the file for eight months. She does not respond to correspondence from opposing counsel, does not report to the client, and does not attend a scheduled case conference for which no adjournment was sought. The client learns from the court that a default judgment was noted against her for failing to attend the case conference.",
+    "call_of_question": "Which of the following best describes the professional responsibility consequence of Nadine's inaction under Rule 3.1-2?",
+    "options": {
+      "A": "Nadine has not breached any rule because she filed a statement of defence, which represents adequate participation in the proceeding.",
+      "B": "Nadine's conduct constitutes neglect of a client's legal matter under Rule 3.1-2; neglect includes failing to take steps required in a proceeding, failing to respond to communications, and failing to attend required hearings, and it amounts to a breach of the competence obligation.",
+      "C": "Nadine's conduct is a scheduling error only; professional responsibility is not engaged unless the neglect causes the client actual financial loss.",
+      "D": "Nadine is liable only if the client proves that Nadine was aware of the case conference date."
+    },
+    "correct_answer": "B",
+    "explanation": "Under Rule 3.1-2 of the LSO Rules of Professional Conduct, competent legal services include timely and appropriate action on a client's matter. Neglect — the failure to take steps that are required to advance or protect a client's position — constitutes a breach of the competence obligation. Nadine's eight-month failure to communicate with the client, respond to opposing counsel, or attend a mandatory court event is paradigmatic neglect. Professional responsibility is engaged by the conduct itself, not only when actual financial loss results.",
+    "why_A_wrong": "Incorrect. Filing an initial pleading does not discharge a lawyer's ongoing obligation to pursue the matter competently. Abandoning the file after the initial filing is neglect.",
+    "why_B_wrong": "This IS the correct answer. Nadine's conduct constitutes neglect of a client's legal matter under Rule 3.1-2; neglect includes failing to take steps required in a proceeding, failing to respond to communications, and failing to attend required hearings, and it amounts to a breach of the competence obligation.",
+    "why_C_wrong": "Incorrect. Neglect is a breach of Rule 3.1-2 regardless of whether actual financial loss results. The professional responsibility obligation is engaged by the conduct, not merely by its consequences.",
+    "why_D_wrong": "Incorrect. Awareness of the specific conference date is not the relevant test. A lawyer who is responsible for a file must maintain awareness of its requirements — failure to track and attend required events is itself the breach.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2 (neglect of client matter)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "competence — neglect of client matter"
+    },
+    "exam_trigger_words": ["neglect", "failure to act", "abandoned file", "no steps taken", "Rule 3.1-2"],
+    "tested_concepts": [
+      "Rule 3.1-2 — neglect constitutes breach of competence",
+      "failure to respond to communications and attend hearings is neglect",
+      "professional responsibility engaged by conduct not only by financial loss"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-02-refer-dev-001",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1-2 — Advising Client of Developments",
+    "subtopic_id": "advise_developments",
+    "subtopic_heading": "Duty to Promptly Advise Client of Relevant Developments",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Omar is representing a defendant in a breach of contract action. The plaintiff delivers a formal Rule 49 offer to settle under the Rules of Civil Procedure. Omar receives the offer on Monday. Over the following three weeks, he is busy with other files and does not mention the offer to his client. The offer expires without the client having any knowledge of it. The client later receives a costs award on a substantial indemnity basis after failing to beat the offer at trial.",
+    "call_of_question": "What obligation did Omar have upon receiving the Rule 49 offer to settle, and did he fulfill it?",
+    "options": {
+      "A": "Omar had no obligation to disclose the offer to his client unless the offer was reasonable; it is the lawyer's role to filter settlement offers based on their merit.",
+      "B": "Omar was required to promptly communicate the offer to his client and advise on its implications; failure to promptly advise the client of the offer is a breach of the competence and communication obligations under Rule 3.1-2.",
+      "C": "Omar was required to disclose the offer to his client only after evaluating it and determining that it was in the client's best interest to consider it.",
+      "D": "Omar fulfilled his obligations because the client had retained him to exercise professional judgment on settlement matters, which includes evaluating offers without client consultation."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.1-2, read with the duty to communicate under the LSO Rules of Professional Conduct, requires a lawyer to promptly advise a client of all relevant developments in the matter, including settlement offers. The decision whether to accept or reject a settlement offer belongs to the client, not the lawyer. Omar was obligated to communicate the Rule 49 offer immediately so the client could make an informed decision. Three weeks of silence on a time-limited settlement offer that materially affected the client's costs exposure is a serious breach of the competence and communication obligations.",
+    "why_A_wrong": "Incorrect. It is not the lawyer's role to pre-screen settlement offers for the client. All formal offers, including Rule 49 offers with significant costs implications, must be promptly communicated to the client.",
+    "why_B_wrong": "This IS the correct answer. Omar was required to promptly communicate the offer to his client and advise on its implications; failure to promptly advise the client of the offer is a breach of the competence and communication obligations under Rule 3.1-2.",
+    "why_C_wrong": "Incorrect. The client's right to know of a settlement offer is not conditional on the lawyer first evaluating the offer and concluding it is worth mentioning. The communication obligation is immediate and unconditional.",
+    "why_D_wrong": "Incorrect. A general retainer to exercise professional judgment does not include authority to withhold material information such as settlement offers. Settlement decisions belong exclusively to the client.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2 (competence — prompt communication of relevant developments)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "competence — duty to promptly advise client of relevant developments"
+    },
+    "exam_trigger_words": ["Rule 49 offer", "settlement offer", "promptly advise", "developments", "client communication"],
+    "tested_concepts": [
+      "Rule 3.1-2 — duty to promptly communicate relevant developments",
+      "settlement decisions belong to client",
+      "lawyer cannot filter or withhold settlement offers"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-02-limits-001",
+    "chapter_number": 2,
+    "chapter_title": "Competence and Quality of Service",
+    "topic_id": "competence_quality",
+    "topic_heading": "Competence — Rule 3.1-2 — Recognizing Limits of Competence",
+    "subtopic_id": "limits_competence",
+    "subtopic_heading": "Recognizing Limits of Competence — When to Refer",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Paulette is a seasoned employment lawyer. A client asks her to advise on a derivative shareholders' action arising from management misconduct at a public company. Paulette has read about derivative actions but has never handled one and has no experience in securities regulation or corporate litigation. She believes she can handle it because the underlying facts involve employment conduct, which is her expertise. She accepts the retainer without consulting a corporate litigator.",
+    "call_of_question": "Is Paulette's reasoning that her employment law expertise makes her competent to handle the derivative shareholders' action sound under Rule 3.1-2?",
+    "options": {
+      "A": "Yes — a lawyer's expertise in related substantive facts establishes sufficient competence to handle the legal proceedings arising from those facts.",
+      "B": "Yes — a lawyer who has read about a new area of law and understands the underlying facts has acquired sufficient competence under Rule 3.1-2.",
+      "C": "No — Rule 3.1-2 requires competence in the legal and procedural requirements of the specific proceeding; knowledge of related factual subject matter does not substitute for competence in the applicable legal framework — here, corporate law, securities regulation, and derivative action procedure — which Paulette lacks.",
+      "D": "No — but Paulette may accept the retainer if she agrees to work at a reduced hourly rate that reflects her inexperience in corporate litigation."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.1-2 defines competence to include knowledge of the relevant law and procedures, judgment in the application of that law to the facts, and the skills required to perform the work. Employment law expertise provides familiarity with the underlying factual subject matter, but a derivative shareholders' action requires distinct competence in corporate law, shareholders' rights, securities regulation, and corporate litigation procedure. These are separate legal domains. Paulette's familiarity with the employment law facts does not satisfy the competence requirement for the legal framework she must navigate. She should either associate with a corporate litigator or decline the matter.",
+    "why_A_wrong": "Incorrect. Competence in the underlying factual subject matter does not establish competence in the legal proceedings. Rule 3.1-2 requires competence in the applicable legal and procedural framework.",
+    "why_B_wrong": "Incorrect. Reading about an area of law does not establish competence under Rule 3.1-2. The standard requires knowledge, judgment, and skill — not merely general awareness.",
+    "why_C_wrong": "This IS the correct answer. No — Rule 3.1-2 requires competence in the legal and procedural requirements of the specific proceeding; knowledge of related factual subject matter does not substitute for competence in the applicable legal framework — here, corporate law, securities regulation, and derivative action procedure — which Paulette lacks.",
+    "why_D_wrong": "Incorrect. Billing at a reduced rate does not cure the competence deficiency. The standard of competent service is not adjustable based on fee arrangements.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 2",
+      "heading": "Competence and Quality of Service",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2 (competence — recognizing limits)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "competence — recognizing limits and duty to refer"
+    },
+    "exam_trigger_words": ["limits of competence", "new area", "referral", "derivative action", "related expertise"],
+    "tested_concepts": [
+      "Rule 3.1-2 — competence requires legal and procedural expertise not only factual familiarity",
+      "related factual subject matter does not establish legal competence",
+      "reduced rate does not cure competence deficiency"
+    ],
+    "estimated_time_seconds": 180
   }
 ]

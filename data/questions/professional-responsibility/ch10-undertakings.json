@@ -162,5 +162,152 @@
       "lawyer must have systems to track undertakings"
     ],
     "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-10-trust-cond-001",
+    "chapter_number": 10,
+    "chapter_title": "Undertakings",
+    "topic_id": "undertakings",
+    "topic_heading": "Undertakings — Rule 7.2-11",
+    "subtopic_id": "trust_conditions",
+    "subtopic_heading": "Trust Conditions vs. Undertakings — Key Distinctions",
+    "difficulty": "hard",
+    "fact_pattern": "In a commercial real estate transaction, the purchaser's lawyer sends the vendor's lawyer funds from the purchaser in trust, with a trust condition letter stating: 'These funds are sent to you in trust on the condition that they are used only to discharge the existing mortgage on the property and pay any realty tax arrears. They are not to be released for any other purpose until the title is clear.' The vendor's lawyer's client instructs her to release the funds to the vendor immediately before the mortgage is discharged.",
+    "call_of_question": "What is the legal status of the trust condition and what obligation does it impose on the vendor's lawyer?",
+    "options": {
+      "A": "The trust condition is a courtesy communication only; it has no binding legal force unless it is in the form of a signed undertaking.",
+      "B": "A trust condition received by a lawyer creates a binding obligation on the receiving lawyer to deal with the funds only in accordance with the terms of the condition; the vendor's lawyer is bound by the trust condition and must not release the funds contrary to its terms regardless of client instructions.",
+      "C": "The trust condition is binding on the vendor client but not on the vendor's lawyer; the vendor's lawyer may follow her client's instructions to release the funds.",
+      "D": "The vendor's lawyer may release the funds to the vendor if she provides a written undertaking to the purchaser's lawyer that the mortgage will be discharged within five business days."
+    },
+    "correct_answer": "B",
+    "explanation": "When a lawyer receives funds subject to a trust condition, the receiving lawyer is personally bound to deal with the funds only in accordance with the terms of the condition. A trust condition is not merely a letter of instruction to the client — it is a binding professional obligation on the receiving lawyer. If the vendor's lawyer accepts the funds subject to the trust condition, she must comply with its terms regardless of what her client instructs. She may not release the funds to the vendor before the mortgage is discharged. If she is unwilling to be bound by the condition, she must return the funds uncashed.",
+    "why_A_wrong": "Incorrect. A trust condition received and accepted by a lawyer is binding on the receiving lawyer as a professional obligation — it is not merely a courtesy communication.",
+    "why_B_wrong": "This IS the correct answer. A trust condition received by a lawyer creates a binding obligation on the receiving lawyer to deal with the funds only in accordance with the terms of the condition; the vendor's lawyer is bound by the trust condition and must not release the funds contrary to its terms regardless of client instructions.",
+    "why_C_wrong": "Incorrect. The trust condition binds the receiving lawyer personally — it is not addressed to the client. Client instructions to the contrary do not override the lawyer's professional obligation under the trust condition.",
+    "why_D_wrong": "Incorrect. Providing a subsequent undertaking does not retroactively authorize release of funds in breach of the trust condition. The trust condition must be complied with; an undertaking to later do what the condition already requires is not a proper workaround.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 10",
+      "heading": "Undertakings",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-11 (trust conditions — binding on receiving lawyer)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust conditions — binding professional obligation on receiving lawyer"
+    },
+    "exam_trigger_words": ["trust condition", "in trust", "binding obligation", "receiving lawyer", "funds subject to condition"],
+    "tested_concepts": [
+      "trust condition is binding professional obligation on receiving lawyer",
+      "client instructions cannot override trust condition",
+      "must return uncashed funds if unwilling to be bound"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-10-personal-001",
+    "chapter_number": 10,
+    "chapter_title": "Undertakings",
+    "topic_id": "undertakings",
+    "topic_heading": "Undertakings — Rule 7.2-11",
+    "subtopic_id": "lawyer_must_not_give",
+    "subtopic_heading": "When Lawyer Must Not Give an Undertaking — Scope Not Within Personal Control",
+    "difficulty": "medium",
+    "fact_pattern": "In a residential real estate closing, the vendor's lawyer, Ingrid, is asked by the purchaser's lawyer to provide a solicitor's undertaking that the property will be free of all construction liens as of the closing date. Ingrid knows that a 45-day lien holdback period under the Construction Act has not yet expired and that there is a real possibility that unpaid subcontractors could file liens after closing. Ingrid's client tells her to give the undertaking to facilitate the closing.",
+    "call_of_question": "Should Ingrid give the solicitor's undertaking as requested by the purchaser's lawyer?",
+    "options": {
+      "A": "Yes — client authorization is sufficient grounds to give a solicitor's undertaking; Ingrid's obligation is to follow her client's instructions.",
+      "B": "Yes — providing a solicitor's undertaking is a standard real estate closing practice and Ingrid is obligated to give it to facilitate the transaction.",
+      "C": "No — Rule 7.2-11 requires that a lawyer only give an undertaking the lawyer is personally capable of fulfilling; since lien rights arise under the Construction Act and belong to third parties over whom Ingrid has no control, she cannot personally guarantee that the property will be lien-free; she should not give the undertaking in its current form.",
+      "D": "Yes — Ingrid may give the undertaking and if any liens are filed after closing, she can simply discharge them from the holdback funds."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 7.2-11 of the LSO Rules of Professional Conduct requires a lawyer to give only those undertakings the lawyer is personally able to honor. Construction lien rights under the Construction Act, R.S.O. 1990, c. C.30 belong to subcontractors and suppliers who are third parties entirely outside Ingrid's control. If any of them register a lien after closing, Ingrid cannot personally prevent it. Giving an undertaking that she cannot personally guarantee exposes her to professional misconduct liability. The appropriate mechanism is to negotiate a holdback arrangement or other protective mechanism in the transaction, not to give an unperformable undertaking.",
+    "why_A_wrong": "Incorrect. Client authorization is not sufficient grounds to give an undertaking. Rule 7.2-11 requires that Ingrid be personally able to honor the undertaking, regardless of client instructions.",
+    "why_B_wrong": "Incorrect. While solicitor's undertakings are common in real estate, the rule requires that each undertaking be one the lawyer can personally perform. An undertaking to guarantee the absence of potential lien claims from third parties over whom Ingrid has no control is not one she can personally honor.",
+    "why_C_wrong": "This IS the correct answer. No — Rule 7.2-11 requires that a lawyer only give an undertaking the lawyer is personally capable of fulfilling; since lien rights arise under the Construction Act and belong to third parties over whom Ingrid has no control, she cannot personally guarantee that the property will be lien-free; she should not give the undertaking in its current form.",
+    "why_D_wrong": "Incorrect. The availability of holdback funds to discharge future liens does not make the undertaking performable by Ingrid personally — she still cannot guarantee the absence of liens as of closing. The plan to use holdbacks may inform the transaction structure but does not justify giving an unperformable undertaking.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 10",
+      "heading": "Undertakings",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-11 (undertaking — personally capable of performance)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "undertaking — must not give when performance depends on uncontrolled third parties"
+    },
+    "exam_trigger_words": ["construction liens", "undertaking", "personally capable", "third party", "Rule 7.2-11"],
+    "tested_concepts": [
+      "Rule 7.2-11 — only give undertaking personally capable of honoring",
+      "cannot undertake regarding rights of uncontrolled third parties",
+      "client instruction does not authorize unperformable undertaking"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-10-breach-001",
+    "chapter_number": 10,
+    "chapter_title": "Undertakings",
+    "topic_id": "undertakings",
+    "topic_heading": "Undertakings — Rule 7.2-11",
+    "subtopic_id": "breach_remedy",
+    "subtopic_heading": "Consequences of Breach of Undertaking — Enforcement and LSO Discipline",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Franco gave a written undertaking to opposing counsel in a commercial transaction that he would deliver executed share transfer documents within five business days of closing. The closing occurred. Franco's client provided the documents but they were signed with an incorrect date. Correcting the error required the client to re-execute the documents, which the client refused to do for six weeks, citing travel commitments. The undertaking expired without performance. Opposing counsel complains to the LSO.",
+    "call_of_question": "How is Franco's breach of undertaking likely to be treated by the LSO, and what remedies does opposing counsel have?",
+    "options": {
+      "A": "The LSO is unlikely to take action because the breach was caused by the client's refusal to re-execute — client fault is a complete defence to a breach of undertaking complaint.",
+      "B": "Breach of an undertaking is treated as professional misconduct regardless of the cause of non-performance; the fact that the client refused to cooperate does not excuse the breach because Franco's undertaking was his personal obligation; opposing counsel may also seek specific enforcement of the undertaking or damages in court.",
+      "C": "The LSO will treat the breach as a civil dispute between the parties, not a professional responsibility matter, because the breach arose from a contractual performance issue.",
+      "D": "Opposing counsel's only remedy is to sue Franco for breach of contract; the LSO does not deal with undertaking disputes."
+    },
+    "correct_answer": "B",
+    "explanation": "A lawyer's undertaking is a personal professional obligation under Rule 7.2-11. The reason for non-performance — including client fault, client refusal, or third-party non-cooperation — does not excuse the breach. Franco should not have given the undertaking if he could not personally guarantee performance. The LSO treats breach of undertaking as professional misconduct, often regardless of whether the non-performance was deliberate. In addition to professional discipline, courts in Ontario have the power to enforce a lawyer's undertaking directly by ordering the lawyer to perform, or opposing counsel may sue for damages caused by the breach.",
+    "why_A_wrong": "Incorrect. Client fault is not a complete defence to a breach of undertaking. An undertaking is the lawyer's personal obligation; the client's refusal is not a recognized defence because the lawyer should not have given an unperformable undertaking.",
+    "why_B_wrong": "This IS the correct answer. Breach of an undertaking is treated as professional misconduct regardless of the cause of non-performance; the fact that the client refused to cooperate does not excuse the breach because Franco's undertaking was his personal obligation; opposing counsel may also seek specific enforcement of the undertaking or damages in court.",
+    "why_C_wrong": "Incorrect. Breach of undertaking is treated as a professional responsibility matter by the LSO, not merely as a civil contractual dispute. Professional misconduct proceedings may be taken in addition to any civil remedies.",
+    "why_D_wrong": "Incorrect. Courts may enforce lawyer undertakings and the LSO does discipline lawyers for breach of undertaking. Opposing counsel is not limited to a civil breach of contract claim.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 10",
+      "heading": "Undertakings",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-11 (breach of undertaking — professional misconduct; court enforcement)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "breach of undertaking — professional misconduct; client fault not a defence"
+    },
+    "exam_trigger_words": ["breach of undertaking", "client refusal", "professional misconduct", "enforce undertaking", "Rule 7.2-11"],
+    "tested_concepts": [
+      "Rule 7.2-11 — breach of undertaking is professional misconduct regardless of cause",
+      "client refusal is not a defence to breach of undertaking",
+      "courts may enforce undertaking; LSO may discipline for breach"
+    ],
+    "estimated_time_seconds": 120
   }
 ]

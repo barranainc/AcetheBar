@@ -443,5 +443,171 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-08-aod-form-001",
+    "subject": "civil_litigation",
+    "chapter_number": 8,
+    "chapter_title": "Documentary Discovery",
+    "topic_id": "affidavit_of_documents",
+    "topic_heading": "Affidavit of Documents",
+    "subtopic_id": "three_schedules",
+    "subtopic_heading": "Affidavit of Documents — Three Schedules Under r.30.03",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Bhattacharya Engineering Ltd. is a defendant in a contract dispute. During documentary production, its counsel instructs the company's paralegal to prepare the affidavit of documents. The paralegal asks which documents should appear in each of the three schedules.",
+    "call_of_question": "Under r.30.03 of the Rules of Civil Procedure, which of the following correctly describes the contents of each schedule in a properly prepared affidavit of documents?",
+    "options": {
+      "A": "Schedule A lists all documents that the party produced voluntarily before the litigation began; Schedule B lists documents in the party's possession that have not yet been reviewed; Schedule C lists documents the party created after the statement of claim was served.",
+      "B": "Schedule A lists documents in the party's possession, control, or power that are not privileged and are relevant to any matter in issue; Schedule B lists relevant documents for which privilege is claimed; Schedule C lists relevant documents that were formerly in the party's possession, control, or power but are no longer.",
+      "C": "Schedule A lists all documents ever created by the party; Schedule B lists documents that the party does not wish to produce; Schedule C lists documents that the opposing party has already produced.",
+      "D": "Schedule A lists documents the party will rely on at trial; Schedule B lists documents the party objects to producing on grounds of cost; Schedule C lists all third-party documents obtained by the party."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.30.03 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), an affidavit of documents is divided into three schedules. Schedule A contains documents in the party's possession, control, or power that are relevant to any matter in issue in the action and are not privileged — these must be produced. Schedule B contains documents in the party's possession, control, or power that are relevant to any matter in issue but are claimed to be privileged — these must be listed but need not be produced. Schedule C contains documents that were formerly in the party's possession, control, or power but are no longer — the party must identify when and how it ceased to have possession and the present location of the documents, if known.",
+    "why_A_wrong": "None of the items described in option A correspond to the actual three-schedule structure under r.30.03. The schedules are defined by current possession/privilege status, not by whether documents were produced voluntarily before litigation or created after the claim.",
+    "why_B_wrong": "This IS the correct answer. Schedule A = producible non-privileged documents; Schedule B = relevant but privileged documents; Schedule C = relevant documents no longer in the party's possession. This is the r.30.03 structure.",
+    "why_C_wrong": "This description is entirely incorrect. Schedules A, B, and C are not defined by when documents were created, whether the party wishes to produce them, or who created them. The schedules are structured around possession and privilege under r.30.03.",
+    "why_D_wrong": "The three schedules are not organized around what a party plans to use at trial or cost objections. The structure under r.30.03 turns on current possession, privilege, and former possession of relevant documents.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Documentary Discovery",
+      "heading": "Affidavit of Documents — Three Schedules Under r.30.03",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.30.03"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "affidavit of documents",
+      "Schedule A",
+      "Schedule B",
+      "Schedule C",
+      "r.30.03"
+    ],
+    "tested_concepts": [
+      "three-schedule structure of affidavit of documents — r.30.03",
+      "Schedule A = producible non-privileged",
+      "Schedule B = relevant privileged",
+      "Schedule C = formerly in possession"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-08-aod-form-002",
+    "subject": "civil_litigation",
+    "chapter_number": 8,
+    "chapter_title": "Documentary Discovery",
+    "topic_id": "affidavit_of_documents",
+    "topic_heading": "Affidavit of Documents",
+    "subtopic_id": "three_schedules",
+    "subtopic_heading": "Affidavit of Documents — Schedule C and Former Possession",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Kowalczyk Logistics Inc. is preparing its affidavit of documents in a commercial freight damage action. Its paralegal identifies a category of GPS tracking logs that were automatically overwritten by the company's server system 90 days after generation, prior to the commencement of the litigation. The logs are plainly relevant to the dispute. Counsel asks how the GPS logs should be dealt with in the affidavit of documents.",
+    "call_of_question": "Under r.30.03 of the Rules of Civil Procedure, how should Kowalczyk deal with the GPS tracking logs in its affidavit of documents?",
+    "options": {
+      "A": "The GPS logs need not be disclosed in the affidavit of documents because they no longer exist and the company cannot produce them.",
+      "B": "The GPS logs must be listed in Schedule A because they are relevant and non-privileged, even though they no longer exist.",
+      "C": "The GPS logs must be listed in Schedule C of the affidavit of documents, because they were formerly in Kowalczyk's possession, control, or power; the affidavit must also state when and how Kowalczyk ceased to have possession and the present location or fate of the documents, if known.",
+      "D": "The GPS logs must be listed in Schedule B under a privilege claim, because producing them would be harmful to Kowalczyk's case."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.30.03(3) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), Schedule C of the affidavit of documents must list relevant documents that were formerly in the party's possession, control, or power but are no longer. For each document in Schedule C, the affidavit must state when and how the party ceased to have possession and, if known, the present location of the documents. The GPS logs — automatically overwritten before litigation commenced — were formerly in Kowalczyk's possession and are relevant to the dispute. They must be disclosed in Schedule C, not omitted from the affidavit altogether. The destruction or loss of relevant documents must be disclosed so the opposing party and the court are aware.",
+    "why_A_wrong": "Documents that formerly existed but no longer do are not exempt from disclosure. Rule 30.03(3) expressly requires that relevant documents formerly in the party's possession be listed in Schedule C, along with an explanation of when and how possession was lost.",
+    "why_B_wrong": "Schedule A is for documents currently in the party's possession that are not privileged and can be produced. The GPS logs no longer exist; they cannot be placed in Schedule A. Schedule C is the correct location.",
+    "why_C_wrong": "This IS the correct answer. Under r.30.03(3), relevant documents formerly in the party's possession must be listed in Schedule C, with disclosure of when and how possession was lost.",
+    "why_D_wrong": "Schedule B is for documents currently in the party's possession that are claimed to be privileged. Harm to the party's case is not a privilege ground. The GPS logs, which no longer exist, belong in Schedule C.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Documentary Discovery",
+      "heading": "Affidavit of Documents — Schedule C and Former Possession",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.30.03(3)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Schedule C",
+      "formerly in possession",
+      "r.30.03(3)",
+      "documents destroyed",
+      "affidavit of documents"
+    ],
+    "tested_concepts": [
+      "Schedule C — formerly in party's possession",
+      "r.30.03(3) — disclosure of when and how possession lost",
+      "destroyed or overwritten documents must be disclosed"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-08-aod-form-003",
+    "subject": "civil_litigation",
+    "chapter_number": 8,
+    "chapter_title": "Documentary Discovery",
+    "topic_id": "affidavit_of_documents",
+    "topic_heading": "Affidavit of Documents",
+    "subtopic_id": "continuing_obligation",
+    "subtopic_heading": "Continuing Obligation to Disclose — r.30.07",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Steinberg Developments Corp. served its affidavit of documents on the plaintiff in February. In April — after examinations for discovery but before trial — Steinberg locates a category of internal correspondence that is relevant to the action and non-privileged. The documents were created before the affidavit of documents was served but were missed during the initial document review. Steinberg's counsel asks whether there is an obligation to disclose these newly located documents.",
+    "call_of_question": "Under r.30.07 of the Rules of Civil Procedure, what obligation does Steinberg have with respect to the newly discovered documents?",
+    "options": {
+      "A": "There is no obligation to update the affidavit of documents after it has been served; the obligation to produce documents ends when the affidavit of documents is delivered.",
+      "B": "Steinberg must update its affidavit of documents by forthwith serving a supplementary affidavit of documents listing the newly located documents that were not included in the original affidavit.",
+      "C": "Steinberg is only required to disclose the new documents if the plaintiff specifically asks for them in a supplementary request to produce.",
+      "D": "The obligation to supplement only applies to documents created after the original affidavit of documents was served, not to documents that existed at the time but were missed."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.30.07 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the obligation to disclose relevant documents is a continuing one. A party who, after serving an affidavit of documents, comes into possession or control of additional documents relevant to any matter in issue — or discovers that previously undisclosed documents are in its possession — must forthwith serve a supplementary affidavit of documents disclosing those additional documents. The continuing obligation applies regardless of whether the documents were created before or after the original affidavit, and whether they were missed in the original review or newly created. There is no requirement that the opposing party first request the documents.",
+    "why_A_wrong": "The obligation to produce documents does not end when the affidavit of documents is first served. Rule 30.07 imposes a continuing obligation to supplement the affidavit of documents throughout the proceeding as additional relevant documents are identified.",
+    "why_B_wrong": "This IS the correct answer. Rule 30.07 requires Steinberg to forthwith serve a supplementary affidavit of documents disclosing the newly located non-privileged documents.",
+    "why_C_wrong": "The continuing obligation under r.30.07 is self-triggered — it arises when the party comes into possession of or locates additional relevant documents. There is no requirement that the opposing party make a specific request before the supplementation obligation is engaged.",
+    "why_D_wrong": "Rule 30.07 applies to any relevant documents discovered to be in the party's possession after the original affidavit is served, including documents that existed before but were missed in the initial review. The rule is not limited to newly created documents.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Documentary Discovery",
+      "heading": "Continuing Obligation to Disclose — r.30.07",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.30.07"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "continuing obligation",
+      "supplementary affidavit",
+      "r.30.07",
+      "newly discovered documents",
+      "forthwith"
+    ],
+    "tested_concepts": [
+      "r.30.07 — continuing obligation to disclose",
+      "supplementary affidavit of documents required",
+      "applies to missed documents and new documents alike"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

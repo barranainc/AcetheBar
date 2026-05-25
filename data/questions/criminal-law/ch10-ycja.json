@@ -284,5 +284,235 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-10-records-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "youth_records",
+    "subtopic_heading": "Youth Records — Access and Sealing — YCJA s. 119-128",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Tariq was convicted at age 16 of theft under $5,000 and received a reprimand as his youth sentence. He is now 22 years old and has had no further contact with the justice system. A prospective employer conducts a criminal record check. Tariq's youth conviction was recorded in the RCMP repository.",
+    "call_of_question": "Under the YCJA, what is the status of Tariq's youth record at age 22, given that he received a reprimand and has been offence-free?",
+    "options": {
+      "A": "The youth record remains accessible indefinitely because it was entered in the RCMP national repository.",
+      "B": "The youth record is sealed and inaccessible; the access period for a reprimand ends three months after the reprimand was pronounced.",
+      "C": "The youth record is automatically destroyed two years after the sentence was completed.",
+      "D": "The youth record can only be sealed if Tariq makes a formal court application after turning 18."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s. 119(2)(a) of the YCJA, where the young person received a reprimand as the youth sentence, the period during which persons are permitted access to records expires three months after the reprimand was pronounced. After this access period closes, the record is sealed and persons listed in s.119(1) can no longer access it. Since Tariq received a reprimand at age 16 and is now 22, the three-month access period has long expired. The record is effectively sealed. For more serious youth sentences, the access period is longer (e.g., three years after a non-custodial sentence is completed, five years after custody sentences end). The scheme reflects the YCJA principle that youth records should not follow young persons into adulthood.",
+    "why_A_wrong": "Youth records in the RCMP repository are not permanently accessible. The YCJA establishes time-limited access periods that depend on the sentence imposed. A reprimand carries only a three-month access period under s.119(2)(a), after which the record is sealed.",
+    "why_B_wrong": "This IS the correct answer. Under s.119(2)(a) YCJA, the access period for a youth record where the sentence was a reprimand expires three months after the reprimand was pronounced. At age 22, Tariq's record is sealed.",
+    "why_C_wrong": "The YCJA does not provide for automatic destruction of youth records two years after sentence completion. The scheme involves access periods that, once expired, result in sealing. Physical destruction may occur under s.128 in some circumstances but the two-year timeline stated is incorrect.",
+    "why_D_wrong": "No formal court application is required to seal a youth record. Sealing is automatic once the access period expires under s.119(2). The young person need not apply to court — the record simply becomes inaccessible once the statutory period ends.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Youth Records — Access Periods — YCJA s. 119",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 119(2)(a), s. 128"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "youth record",
+      "sealing",
+      "access period",
+      "reprimand",
+      "YCJA s. 119",
+      "criminal record check",
+      "youth record inaccessible"
+    ],
+    "tested_concepts": [
+      "s. 119(2)(a) — three-month access period for reprimand",
+      "youth records seal automatically",
+      "access period varies with sentence type",
+      "YCJA youth records protection principle"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-10-ycja-sent-002",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "deferred_custody",
+    "subtopic_heading": "Deferred Custody and Supervision Order — YCJA s. 42(2)(p)",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 17-year-old is convicted under the YCJA of assault causing bodily harm, which is a violent offence. The sentencing judge is considering a deferred custody and supervision order (DCSO) as an alternative to immediate custody. Defence counsel argues that a DCSO would allow the accused to remain in the community while completing school.",
+    "call_of_question": "Under the YCJA, which of the following is a statutory prerequisite before the court may impose a deferred custody and supervision order?",
+    "options": {
+      "A": "A DCSO may only be imposed for non-violent offences; the violent nature of assault causing bodily harm categorically bars a DCSO.",
+      "B": "A DCSO is available for any offence and requires only that the accused consent to the conditions.",
+      "C": "A DCSO may be imposed only if the sentence that would otherwise be imposed is custody, and the court must be satisfied the young person's presence in the community would not create an undue risk to public safety.",
+      "D": "A DCSO requires the Crown's consent and a supporting recommendation in the pre-sentence report."
+    },
+    "correct_answer": "C",
+    "explanation": "A deferred custody and supervision order (DCSO) under s. 42(2)(p) of the YCJA allows a court to impose a period of community supervision in lieu of immediate custody. The conditions for a DCSO are set out in s. 42(5): (a) the young person is not found guilty of a presumptive offence or an offence for which an adult would be liable to more than two years' imprisonment would be inadequate; and (b) the court must be satisfied that the DCSO is consistent with the purpose and principles of youth sentencing and the young person's presence in the community on the terms and conditions proposed would not create an undue risk to public safety. The DCSO is functionally a suspended custody sentence — if breached, the young person can be brought back before the court and committed to custody. Assault causing bodily harm is not excluded categorically, though it is a violent offence that will require careful consideration of the undue risk criterion.",
+    "why_A_wrong": "The YCJA does not categorically bar DCSOs for violent offences. Assault causing bodily harm is a violent offence, but the DCSO can still be considered if the undue risk to public safety criterion is satisfied. The bar relates to 'presumptive offences' (serious violent offences like murder and manslaughter) and offences carrying maximum adult sentences that make youth sentences inadequate.",
+    "why_B_wrong": "A DCSO is not available for any offence simply upon accused consent. The court must independently be satisfied that the public safety criterion is met and that the DCSO is consistent with the purpose and principles of youth sentencing. Accused consent to conditions is part of implementation, not the threshold test.",
+    "why_C_wrong": "This IS the correct answer. Under s. 42(5) YCJA, a DCSO requires that custody would otherwise be the appropriate sentence and that the young person's presence in the community on the DCSO terms would not create an undue risk to public safety.",
+    "why_D_wrong": "Crown consent is not a statutory prerequisite for imposing a DCSO. The sentencing judge may impose a DCSO without Crown consent, provided the statutory criteria are met. A PSR may be before the court but a recommendation favouring DCSO is not a precondition.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Deferred Custody and Supervision Order — YCJA s. 42(2)(p), s. 42(5)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 42(2)(p), s. 42(5)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "deferred custody and supervision order",
+      "DCSO",
+      "YCJA s. 42(2)(p)",
+      "undue risk to public safety",
+      "custody alternative",
+      "community supervision"
+    ],
+    "tested_concepts": [
+      "DCSO prerequisites under s. 42(5) YCJA",
+      "undue risk to public safety test",
+      "DCSO as deferred custody sentence",
+      "violent offence and DCSO eligibility"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-10-conf-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "conferencing",
+    "subtopic_heading": "Conferencing — YCJA s. 19",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 15-year-old pleads guilty to mischief causing damage of $3,000 to a community centre. The youth justice court judge wishes to involve the victim, parents, community members, and youth workers in developing an appropriate plan for the young person before sentencing.",
+    "call_of_question": "Under s. 19 of the YCJA, which of the following best describes the conferencing mechanism the judge may use?",
+    "options": {
+      "A": "Conferencing under the YCJA is available only as an extra-judicial measure and cannot be ordered once a young person has pleaded guilty.",
+      "B": "A youth justice court judge may convene or cause to be convened a conference for the purpose of obtaining advice on the appropriate youth sentence, including advice from the victim, parents, and community members.",
+      "C": "Conferencing is mandatory whenever a young person pleads guilty to an offence causing property damage exceeding $1,000.",
+      "D": "Conferencing requires the written consent of Crown counsel before the judge may order it."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 19 of the YCJA authorizes a youth justice court judge, a justice, a youth worker, or other persons to convene or cause to be convened a conference for the purpose of making decisions under the Act. A conference may be convened at any stage of proceedings — before or after a finding of guilt — and may be used to obtain advice on: appropriate extra-judicial measures, conditions for judicial interim release, sentence, and review of youth sentences. A conference may include the young person, the young person's parents or guardians, the victim, members of the extended family, community members, and youth justice professionals. It is a restorative justice mechanism consistent with the YCJA's rehabilitative philosophy. Participation is not mandatory for any party, and conferences do not replace the court's sentencing function.",
+    "why_A_wrong": "Conferencing is not limited to the extra-judicial measures stage. Section 19 authorizes conferences at any stage of proceedings, including after a guilty plea. A post-guilty plea sentencing conference is expressly contemplated by the YCJA.",
+    "why_B_wrong": "This IS the correct answer. Under s. 19 YCJA, a youth justice court judge may convene or cause to be convened a conference, including for sentencing purposes, with participation from the victim, parents, community members, and others.",
+    "why_C_wrong": "Conferencing is never mandatory under the YCJA. Section 19 gives judges discretion to convene conferences; it does not mandate them for any particular type of offence or damage threshold.",
+    "why_D_wrong": "Crown consent is not a statutory prerequisite for ordering a conference under s. 19. The judge has independent authority to convene a conference without requiring Crown agreement. The Crown may participate in the conference but does not control whether one is convened.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Conferencing — YCJA s. 19",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 19"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "conferencing",
+      "YCJA s. 19",
+      "youth justice conference",
+      "victim participation",
+      "restorative justice",
+      "sentencing conference"
+    ],
+    "tested_concepts": [
+      "s. 19 YCJA conferencing authority",
+      "conference available post-guilty plea",
+      "discretionary not mandatory",
+      "participants in a youth conference",
+      "restorative justice in YCJA"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-10-records-002",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "youth_records",
+    "subtopic_heading": "Youth Records — Deemed Election and Publication Prohibition — YCJA s. 110",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 16-year-old is charged with aggravated assault. A local newspaper reporter attends the youth court proceedings and wishes to publish a story identifying the young person by name, including a photo. The young person has not been sentenced to an adult sentence.",
+    "call_of_question": "Under s. 110 of the YCJA, which of the following correctly states the default rule regarding publication of identifying information about a young person who is the subject of youth court proceedings?",
+    "options": {
+      "A": "Publication of identifying information about a young person is prohibited unless the young person consents and the court orders publication.",
+      "B": "Publication of identifying information about a young person who has not received an adult sentence is prohibited; however, the young person may themselves apply to the court for an order permitting publication.",
+      "C": "Publication of identifying information is prohibited as a default rule, but becomes automatically permitted once the young person turns 18.",
+      "D": "There is no prohibition on publication because youth court proceedings are open to the public."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 110(1) of the YCJA prohibits any person from publishing the name of a young person, or any other information related to a young person, if it would identify the young person as a person dealt with under the Act. This prohibition applies to young persons who have not received an adult sentence. However, s. 110(2) and (3) create limited exceptions. Notably, s. 110(2)(b) provides that a young person who is 18 years of age or older may apply to the youth justice court for an order permitting publication. Also, publication may be permitted if a young person is at large and dangerous (s. 110(4)), or in certain other exceptional circumstances. The publication ban is a default rule reflecting the YCJA's principle of protecting young persons' privacy to facilitate rehabilitation.",
+    "why_A_wrong": "The young person's consent alone is not sufficient to permit publication — court authorization under the YCJA's framework is required. The process is not simply consent-based; it involves a court order in specific circumstances set out in the Act.",
+    "why_B_wrong": "This IS the correct answer. Under s. 110(1) YCJA, publication of identifying information is prohibited by default. The young person (if 18 or older) may apply for a court order permitting publication under s. 110(2)(b), as one of the limited exceptions.",
+    "why_C_wrong": "Turning 18 does not automatically permit publication. The publication ban continues after the young person turns 18. Exceptions require a court order or other specific circumstances set out in the YCJA, not merely the passage of time until adulthood.",
+    "why_D_wrong": "Youth court proceedings may be open to the public but publication of identifying information is still prohibited under s. 110. Open court and publication bans can coexist — observers may attend, but publishing identifying information about the young person remains prohibited absent a court order or statutory exception.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Publication Prohibition — YCJA s. 110",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 110(1), s. 110(2)(b)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "publication ban",
+      "youth court",
+      "YCJA s. 110",
+      "identifying information",
+      "publication prohibition",
+      "young person name"
+    ],
+    "tested_concepts": [
+      "s. 110(1) YCJA default publication prohibition",
+      "exceptions to youth publication ban",
+      "young person may apply for publication order",
+      "open court vs publication ban distinction"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

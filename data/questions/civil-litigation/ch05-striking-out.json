@@ -328,5 +328,225 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-05-liq-001",
+    "subject": "civil_litigation",
+    "chapter_number": 5,
+    "chapter_title": "Default Proceedings and Dismissal for Delay",
+    "topic_id": "default_proceedings",
+    "topic_heading": "Default Proceedings",
+    "subtopic_id": "liquidated_unliquidated",
+    "subtopic_heading": "Default Judgment — Liquidated vs Unliquidated Claims",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Vasquez Financial Services Ltd. obtains a noting in default against two defendants. The first defendant owes $35,000 under an unpaid promissory note — the exact amount is certain and undisputed. The second defendant is alleged to have negligently damaged the plaintiff's equipment and owes an amount of damages that must be assessed. Counsel must advise on how default judgment is obtained for each claim.",
+    "call_of_question": "Under the Rules of Civil Procedure, how does the process for obtaining default judgment differ between a liquidated claim and an unliquidated claim after noting in default?",
+    "options": {
+      "A": "The process is identical for both claims; the plaintiff must bring a motion to the court for default judgment in all cases.",
+      "B": "For a liquidated claim, the plaintiff may obtain default judgment by filing a requisition with the registrar under r.19.02; for an unliquidated claim, the plaintiff must bring a motion to the court for assessment of damages under r.19.04.",
+      "C": "For both liquidated and unliquidated claims, the plaintiff may obtain default judgment by requisition to the registrar, but the registrar will fix damages for unliquidated claims based on the plaintiff's affidavit.",
+      "D": "There is no difference; default judgment for any amount of money is signed by the registrar automatically upon noting in default."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the process for obtaining default judgment differs based on whether the claim is liquidated or unliquidated. Under r.19.02, where the claim is for a debt or liquidated demand in money (i.e., an amount that is certain or ascertainable without assessment), the plaintiff may sign default judgment by filing a requisition with the registrar — no court motion is required. Under r.19.04, where the claim is for unliquidated damages (i.e., where the amount must be assessed — such as general damages for negligence), the plaintiff must bring a motion to the court and the court may proceed to assess the damages. The $35,000 promissory note is a liquidated claim under r.19.02; the equipment damage claim is unliquidated and must proceed under r.19.04.",
+    "why_A_wrong": "A motion to the court is not required for all default judgments. Liquidated claims may be resolved by requisition to the registrar under r.19.02 without a court motion.",
+    "why_B_wrong": "This IS the correct answer. Rule 19.02 allows the registrar to sign default judgment for liquidated claims; r.19.04 requires a court motion for assessment of unliquidated damages.",
+    "why_C_wrong": "The registrar does not assess unliquidated damages. Damages assessment for unliquidated claims is a judicial function requiring a motion to the court under r.19.04.",
+    "why_D_wrong": "Noting in default alone does not produce default judgment automatically. The plaintiff must take additional steps — either a registrar requisition for liquidated claims or a court motion for unliquidated claims.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 5 — Default Proceedings and Dismissal for Delay",
+      "heading": "Default Judgment — Liquidated vs Unliquidated Claims",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.19.02; r.19.04"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "liquidated",
+      "unliquidated",
+      "r.19.02",
+      "r.19.04",
+      "default judgment registrar"
+    ],
+    "tested_concepts": [
+      "r.19.02 — registrar signs default judgment for liquidated claims",
+      "r.19.04 — court motion required for unliquidated claims",
+      "liquidated vs unliquidated distinction in default proceedings"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-05-material-001",
+    "subject": "civil_litigation",
+    "chapter_number": 5,
+    "chapter_title": "Default Proceedings and Dismissal for Delay",
+    "topic_id": "striking_out_pleadings",
+    "topic_heading": "Striking Out Pleadings",
+    "subtopic_id": "material_facts",
+    "subtopic_heading": "Pleading Material Facts — Distinguishing Facts from Evidence",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A plaintiff brings a negligence action arising from a motor vehicle accident. The statement of claim includes the following allegation: 'The defendant failed to exercise the care of a reasonably prudent driver.' The defendant brings a motion to strike this allegation as insufficient, arguing that the plaintiff has pleaded a legal conclusion rather than material facts supporting the allegation of negligence.",
+    "call_of_question": "Under r.25.06(1) of the Rules of Civil Procedure, is the defendant's objection well-founded, and what is required in a pleading?",
+    "options": {
+      "A": "The defendant's objection is unfounded; legal conclusions such as 'failed to exercise reasonable care' are proper and sufficient as pleaded material facts.",
+      "B": "The defendant's objection is partly well-founded; while a legal conclusion is not proper pleading, a party may plead the legal effect of facts without stating the underlying facts, as long as the conclusion is clear.",
+      "C": "The defendant's objection is well-founded; under r.25.06(1), a pleading must contain material facts — the actual acts or omissions of the defendant — not bare legal conclusions; the plaintiff must plead what the defendant specifically did or failed to do that constitutes negligence.",
+      "D": "The defendant's objection is unfounded because negligence claims need not specify individual acts of negligence; a general allegation of failure to exercise reasonable care is sufficient in all negligence actions."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.25.06(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), every pleading shall contain a concise statement of the material facts on which the party relies — not the evidence by which those facts are to be proved, and not bare legal conclusions without the underlying facts. A statement that the defendant 'failed to exercise the care of a reasonably prudent driver' is a legal conclusion, not a statement of the material facts that constitute the alleged negligence. The plaintiff must plead the specific acts or omissions of the defendant — for example, that the defendant ran a red light, was speeding, failed to signal, or was using a cellphone — that constitute negligence. Bare legal conclusions without supporting facts may be struck under r.25.11 or made the subject of a demand for particulars under r.25.10.",
+    "why_A_wrong": "Bare legal conclusions are not proper material facts. Rule 25.06(1) requires the actual acts or omissions — the specific conduct — that form the basis of the claim. A conclusion that the defendant 'failed to exercise reasonable care' does not identify what the defendant specifically did or failed to do.",
+    "why_B_wrong": "While r.25.07 permits pleading the legal effect of facts in some circumstances, this does not excuse the plaintiff from pleading the underlying material facts. The defendant's objection targets the absence of specific acts or omissions, not just the presence of a legal conclusion.",
+    "why_C_wrong": "This IS the correct answer. Under r.25.06(1), material facts — the specific acts or omissions of the defendant — must be pleaded, not bare legal conclusions. The defendant's objection that the plaintiff has omitted the specific negligent conduct is well-founded.",
+    "why_D_wrong": "Negligence claims are not exempt from the material facts pleading requirement. The plaintiff must identify the specific acts or omissions constituting negligence. A general allegation of failure to exercise reasonable care is insufficient without the underlying specific facts.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Default Proceedings and Dismissal for Delay",
+      "heading": "Pleading Material Facts — Distinguishing Facts from Evidence",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.25.06(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "material facts",
+      "r.25.06(1)",
+      "legal conclusion",
+      "specific acts or omissions",
+      "negligence pleading"
+    ],
+    "tested_concepts": [
+      "r.25.06(1) — plead material facts not legal conclusions",
+      "specific acts or omissions required for negligence",
+      "distinction between facts, evidence, and legal conclusions"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-05-amend-r26-001",
+    "subject": "civil_litigation",
+    "chapter_number": 5,
+    "chapter_title": "Default Proceedings and Dismissal for Delay",
+    "topic_id": "striking_out_pleadings",
+    "topic_heading": "Striking Out Pleadings",
+    "subtopic_id": "amendment_as_right",
+    "subtopic_heading": "Amendment of Pleadings as of Right Before Close of Pleadings",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A plaintiff served a statement of claim on January 5. The defendant has not yet delivered a statement of defence. On January 20, the plaintiff realizes a key paragraph in the claim is inaccurate and wants to amend it. Counsel asks whether leave of the court is required to amend the statement of claim at this stage.",
+    "call_of_question": "Under r.26.02 of the Rules of Civil Procedure, when may a party amend a pleading without leave of the court?",
+    "options": {
+      "A": "A pleading may only be amended with leave of the court at all times after it has been served.",
+      "B": "Under r.26.02, a party may amend a pleading without leave at any time before the pleadings are closed, provided no statement of defence (or similar responding pleading) has been delivered by the opposing party.",
+      "C": "A party may amend a pleading without leave at any time, including during or after trial.",
+      "D": "A pleading may only be amended without leave within 10 days of service; after 10 days, leave of the court is required."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.26.02(a) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a party may amend a pleading without leave of the court at any time before the close of pleadings — specifically, before the responding party has delivered its defence or other responding pleading. In this scenario, the plaintiff served the claim on January 5 and the defendant has not yet delivered a statement of defence. The plaintiff may therefore amend the statement of claim as of right, without obtaining leave of the court, under r.26.02(a). Once the defendant delivers a statement of defence, the pleadings are no longer open to amendment as of right and leave under r.26.01 would be required.",
+    "why_A_wrong": "Leave is not required for all amendments after service. Rule 26.02 expressly permits amendment without leave before the responding party delivers its defence.",
+    "why_B_wrong": "This IS the correct answer. Rule 26.02 allows amendment without leave before the close of pleadings — here, before the defendant has delivered a statement of defence.",
+    "why_C_wrong": "Amendment without leave is not available at all times including during or after trial. Rule 26.02 limits the as-of-right amendment right to before the close of pleadings; leave is required at later stages.",
+    "why_D_wrong": "There is no 10-day limitation on amendment as of right under r.26.02. The entitlement is based on whether the opposing party has delivered its responding pleading, not on the number of days since service.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Default Proceedings and Dismissal for Delay",
+      "heading": "Amendment of Pleadings as of Right Before Close of Pleadings",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.26.02"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "r.26.02",
+      "amendment as of right",
+      "close of pleadings",
+      "no leave required",
+      "before defence delivered"
+    ],
+    "tested_concepts": [
+      "r.26.02 — amendment without leave before close of pleadings",
+      "as-of-right amendment before responding pleading",
+      "leave required after defence delivered"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-05-particulars-001",
+    "subject": "civil_litigation",
+    "chapter_number": 5,
+    "chapter_title": "Default Proceedings and Dismissal for Delay",
+    "topic_id": "striking_out_pleadings",
+    "topic_heading": "Striking Out Pleadings",
+    "subtopic_id": "demand_for_particulars",
+    "subtopic_heading": "Demand for Particulars — r.25.10",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The defendant receives the plaintiff's statement of claim alleging misrepresentation by the defendant. The claim contains general allegations of 'numerous false and misleading representations' without identifying the specific statements alleged to be false, when they were made, or to whom they were made. The defendant's counsel is unable to plead properly without more detail.",
+    "call_of_question": "Under r.25.10 of the Rules of Civil Procedure, what step may the defendant take to require the plaintiff to provide more specific detail before the defendant delivers its statement of defence?",
+    "options": {
+      "A": "The defendant must file a motion to strike the statement of claim and cannot compel the plaintiff to provide more detail through any other mechanism.",
+      "B": "Under r.25.10, the defendant may serve a demand for particulars on the plaintiff, requiring the plaintiff to supply particulars of any allegations in the pleading that are vague or insufficiently specific; if the plaintiff fails to provide particulars, the defendant may move for an order compelling them.",
+      "C": "The defendant may file an application for summary judgment because the claim is too vague to establish a cause of action.",
+      "D": "The defendant must simply deliver a general denial in its statement of defence and raise lack of particularity as a defence; no mechanism exists to compel particulars before pleading."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.25.10 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a party who requires more particulars of an allegation in a pleading may serve a demand for particulars on the pleading party. If the party served with the demand refuses to provide particulars or fails to respond, the requesting party may bring a motion under r.25.10 for an order requiring the particulars to be delivered. Particulars are additional specifics needed to enable the opposing party to know the case it must meet and to plead in response — here, the specific representations alleged to be false, when and to whom they were made. The demand for particulars is the proper and proportionate mechanism before resorting to a motion to strike.",
+    "why_A_wrong": "A motion to strike is available for allegations that disclose no reasonable cause of action, are scandalous, or are irrelevant — not simply because they are vague. Rule 25.10 provides the more proportionate mechanism of a demand for particulars to address insufficient specificity.",
+    "why_B_wrong": "This IS the correct answer. Rule 25.10 provides the mechanism of a demand for particulars to obtain the specific factual details needed to plead a proper defence.",
+    "why_C_wrong": "Summary judgment is a merits-based motion, not a procedural tool to address pleading vagueness. The appropriate procedural mechanism to address an insufficiently particularized pleading is a demand for particulars under r.25.10.",
+    "why_D_wrong": "A general denial in the defence is not the only option. Rule 25.10 provides the defendant with the procedural tool to demand particulars of vague allegations before pleading, enabling the defendant to respond intelligently to the case.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Default Proceedings and Dismissal for Delay",
+      "heading": "Demand for Particulars — r.25.10",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.25.10"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "demand for particulars",
+      "r.25.10",
+      "vague allegation",
+      "misrepresentation",
+      "specific details"
+    ],
+    "tested_concepts": [
+      "demand for particulars — r.25.10",
+      "order compelling particulars if refused",
+      "particulars vs motion to strike — proportionate response"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

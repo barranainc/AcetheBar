@@ -717,5 +717,445 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-03-fetter-001",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "discretion",
+    "topic_heading": "Administrative Discretion — Fettering",
+    "subtopic_id": "fettering_discretion",
+    "subtopic_heading": "Fettering of Discretion — Rigid Policy Application",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A municipal licensing committee has adopted a written policy that states: 'All applications for late-night entertainment licences within 200 metres of a residential zone will automatically be refused without further consideration.' A nightclub owner applies for a licence and is refused without any individual assessment of her application. The committee chair states the policy was adopted for efficiency and that no exceptions are contemplated. The owner seeks judicial review.",
+    "call_of_question": "Under administrative law, when does a decision-maker's application of a policy constitute an unlawful fettering of discretion?",
+    "options": {
+      "A": "A decision-maker fetters its discretion only where it refuses to adopt any policy at all; adopting a policy and applying it consistently is always lawful.",
+      "B": "A decision-maker fetters its discretion whenever it has a policy that influences — but does not determine — individual decisions; any policy guidance is unlawful.",
+      "C": "Under the doctrine against fettering of discretion, a decision-maker with a statutory discretion must apply that discretion to each individual case on its merits; applying a policy in a rigid and inflexible manner that excludes individual consideration amounts to an unlawful abdication of discretion, even if the policy itself is substantively reasonable.",
+      "D": "A decision-maker fetters its discretion only where the policy was adopted without public consultation."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Canadian administrative law, where a statute grants a decision-maker a discretion to decide, that discretion must be exercised in respect of each individual case and cannot be surrendered to a blanket policy that pre-determines outcomes without individual assessment. The doctrine against fettering of discretion — recognized in Maple Lodge Farms Ltd v Canada, [1982] 2 SCR 2, and consistently applied in Ontario — holds that a decision-maker may use policy guidelines to structure its discretion but may not apply them so rigidly that individual cases are decided by the policy alone, without any genuine exercise of judgment on the particular facts. A policy of automatic refusal for all applications meeting certain criteria, with no possibility of individual assessment, constitutes unlawful fettering.",
+    "why_A_wrong": "Incorrect. A decision-maker may lawfully adopt policies to guide the exercise of discretion; the unlawful step is applying the policy so rigidly that no individual consideration is given — not the mere adoption of a policy.",
+    "why_B_wrong": "Incorrect. Policy guidance is entirely lawful; the problem is rigid, automatic application that replaces individual judgment, not the existence of a policy itself.",
+    "why_C_wrong": "This IS the correct answer. Under the doctrine against fettering of discretion, a decision-maker with a statutory discretion must apply that discretion to each individual case on its merits; applying a policy in a rigid and inflexible manner that excludes individual consideration amounts to an unlawful abdication of discretion, even if the policy itself is substantively reasonable.",
+    "why_D_wrong": "Incorrect. The absence of public consultation in developing a policy is a separate procedural concern; the fettering doctrine is about the manner in which a policy is applied, not how it was created.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "Fettering of Discretion — Rigid Policy Application",
+      "page": "N/A",
+      "rule_or_statute_reference": "Maple Lodge Farms Ltd v Canada, [1982] 2 SCR 2; Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "fettering of discretion",
+      "rigid policy",
+      "automatic refusal",
+      "individual consideration",
+      "abdication of discretion"
+    ],
+    "tested_concepts": [
+      "fettering of discretion doctrine",
+      "policy may guide but not replace individual judgment",
+      "Maple Lodge Farms automatic application unlawful"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-03-legit-exp-001",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "procedural_fairness",
+    "topic_heading": "The Duty of Procedural Fairness",
+    "subtopic_id": "legitimate_expectations",
+    "subtopic_heading": "Legitimate Expectations — Procedural vs Substantive in Canadian Law",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A licensed nurse practitioner has for 15 years renewed her practice permit annually without any hearing or conditions. The nursing regulatory college has never required a hearing for straightforward renewals and has a published policy stating that renewal applications 'will be approved unless there are identified conduct concerns.' The college now imposes new mandatory conditions on the nurse's permit renewal without providing any hearing or opportunity to respond to concerns. The nurse argues she had a legitimate expectation of renewal without conditions.",
+    "call_of_question": "Under the Baker framework and Canadian administrative law, what does the doctrine of legitimate expectations entitle a claimant to when a public authority departs from a past practice or representation?",
+    "options": {
+      "A": "Legitimate expectations entitles the claimant to both the promised procedure and the substantive outcome — the authority must grant the same outcome it previously provided.",
+      "B": "In Canadian administrative law, the doctrine of legitimate expectations is limited to procedural entitlements; it does not require the authority to grant the same substantive outcome but does require the authority to follow promised or previously observed procedures — here, providing an opportunity to be heard — before departing from past practice.",
+      "C": "Legitimate expectations has no application where the public authority publishes a policy; the existence of a written policy extinguishes any legitimate expectation arising from past conduct.",
+      "D": "Legitimate expectations applies only where the claimant received an individualized written guarantee from a senior official; a general published policy cannot give rise to legitimate expectations."
+    },
+    "correct_answer": "B",
+    "explanation": "Under Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817, the Supreme Court of Canada confirmed that in Canadian administrative law the doctrine of legitimate expectations generates procedural rights only — it does not compel a particular substantive outcome. Where a public authority has, through its conduct or representations, led a party to expect that a particular process will be followed, the party is entitled to that process before the authority departs from the expected course. The published policy stating renewals 'will be approved unless there are conduct concerns,' combined with 15 years of practice, creates a legitimate expectation of a hearing or an opportunity to respond before conditions are imposed; it does not, however, guarantee renewal without conditions.",
+    "why_A_wrong": "Incorrect. Canadian law has not adopted the English position that legitimate expectations can generate substantive entitlements; the SCC in Baker and subsequent cases has confined the doctrine to procedural protections.",
+    "why_B_wrong": "This IS the correct answer. In Canadian administrative law, the doctrine of legitimate expectations is limited to procedural entitlements; it does not require the authority to grant the same substantive outcome but does require the authority to follow promised or previously observed procedures — here, providing an opportunity to be heard — before departing from past practice.",
+    "why_C_wrong": "Incorrect. A published policy can itself be the source of a legitimate expectation; the existence of a written policy does not extinguish the expectation but may in fact create or reinforce it.",
+    "why_D_wrong": "Incorrect. Legitimate expectations can arise from published policies and consistent administrative practice as well as individualized representations; no individualized written guarantee from a senior official is required.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "Legitimate Expectations — Procedural vs Substantive in Canadian Law",
+      "page": "N/A",
+      "rule_or_statute_reference": "Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Reference re Canada Assistance Plan (BC), [1991] 2 SCR 525"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "legitimate expectations",
+      "procedural only",
+      "not substantive",
+      "Baker",
+      "past practice"
+    ],
+    "tested_concepts": [
+      "legitimate expectations procedural only in Canadian law",
+      "Baker confirmation of procedural scope",
+      "past practice as source of legitimate expectation"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-03-delegation-001",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "discretion",
+    "topic_heading": "Administrative Discretion — Delegation and Subdelegation",
+    "subtopic_id": "delegation",
+    "subtopic_heading": "Delegation and Subdelegation — Delegatus Non Potest Delegare",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The Ontario Environmental Compliance Approval Board is granted a statutory power to approve or refuse applications for environmental licences. The Board Chair, facing a backlog, issues a directive assigning all routine approvals to a junior staff officer with no statutory appointment to the Board. The staff officer approves several applications. A third party argues the approvals are invalid because the statutory power was not lawfully exercised.",
+    "call_of_question": "Under the principle of delegatus non potest delegare, can the Board Chair lawfully subdelegate the Board's statutory power of decision to a non-Board staff officer?",
+    "options": {
+      "A": "Yes. The Chair has broad administrative authority to organize the Board's work and may assign decision-making to staff as an administrative matter.",
+      "B": "No. Under the principle delegatus non potest delegare, a person or body to whom a statutory power of decision has been delegated cannot further subdelegate that power to another person unless the enabling statute expressly authorizes subdelegation.",
+      "C": "Yes. Where a tribunal is facing a significant backlog, administrative necessity allows subdelegation to qualified staff without explicit statutory authorization.",
+      "D": "No. The Board Chair may never delegate any functions; all decisions must be made by the full Board sitting together."
+    },
+    "correct_answer": "B",
+    "explanation": "The maxim delegatus non potest delegare (a delegate cannot further delegate) is a foundational principle of administrative law in Canada. Where Parliament or a legislature grants a statutory power of decision to a specific body or official, that body or official must exercise the power personally and cannot further subdelegate it to another person or body unless the enabling statute expressly authorizes subdelegation. A staff officer who is not a statutory member of the Board has no authority to exercise the Board's statutory power of decision; approvals issued by the staff officer are therefore ultra vires and invalid, regardless of the backlog or administrative convenience.",
+    "why_A_wrong": "Incorrect. The Chair's administrative authority does not include the power to subdelegate statutory decision-making powers; administrative management of workload is distinct from the exercise of statutory powers of decision.",
+    "why_B_wrong": "This IS the correct answer. No. Under the principle delegatus non potest delegare, a person or body to whom a statutory power of decision has been delegated cannot further subdelegate that power to another person unless the enabling statute expressly authorizes subdelegation.",
+    "why_C_wrong": "Incorrect. Administrative necessity does not create an implied statutory authorization for subdelegation; the power to subdelegate must be found in the enabling statute, not inferred from practical convenience.",
+    "why_D_wrong": "Incorrect. The issue is not that the Chair cannot delegate any functions — internal delegation of purely administrative (non-decision-making) functions is permissible. The problem is the specific subdelegation of the statutory power of decision to a person not vested with that authority.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "Delegation and Subdelegation — Delegatus Non Potest Delegare",
+      "page": "N/A",
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22; Interpretation Act, R.S.O. 1990, c. I.11; delegatus non potest delegare principle"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "delegatus non potest delegare",
+      "subdelegation",
+      "statutory power of decision",
+      "express authorization",
+      "ultra vires"
+    ],
+    "tested_concepts": [
+      "delegatus non potest delegare principle",
+      "subdelegation requires express statutory authorization",
+      "invalid subdelegation of statutory power"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-03-estoppel-001",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "discretion",
+    "topic_heading": "Administrative Discretion — Estoppel and Public Authorities",
+    "subtopic_id": "admin_estoppel",
+    "subtopic_heading": "Estoppel Against Public Authorities — Limits in Administrative Law",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario builder receives a written letter from a municipal planning officer confirming that his proposed development complies with all applicable zoning by-laws and that a building permit will be issued as a matter of course. Relying on this letter, the builder demolishes existing structures on the land and spends $2 million in preparatory work. The municipal council subsequently changes the zoning by-law, and the city refuses to issue the building permit. The builder argues the city is estopped from refusing the permit.",
+    "call_of_question": "Under Canadian administrative law, can estoppel be raised against a public authority to prevent it from exercising a statutory power in the public interest?",
+    "options": {
+      "A": "Yes. Where a claimant has detrimentally relied on an official's representation, the public authority is fully bound by that representation and cannot exercise its statutory power to the contrary.",
+      "B": "Yes. A written representation from a government official always binds the government; the builder is entitled to the permit regardless of the subsequent by-law change.",
+      "C": "Generally no. While private law estoppel principles exist, estoppel cannot be used to prevent a public authority from exercising a statutory power in the public interest; the courts have recognized that estoppel does not operate against the Crown or public bodies where its application would defeat the exercise of a statutory duty or power conferred in the public interest — though the claimant may have other remedies in negligence or public law.",
+      "D": "The result depends on whether the planning officer was a senior official; representations from junior officials never give rise to estoppel against public authorities."
+    },
+    "correct_answer": "C",
+    "explanation": "Canadian administrative law has generally held that estoppel cannot operate against a public authority to prevent the exercise of a statutory power conferred in the public interest. The principle was recognized in Maritime Electric Co v General Dairies Ltd, [1937] AC 610 (PC), and applied in Canadian courts: a public body cannot be estopped from performing its statutory duties and exercising its statutory powers by the unauthorized representations of its officers. The reason is that allowing estoppel to bind a public authority would in effect allow an official to amend or override statutory law through unauthorized representations. The builder's remedy may lie in a claim for damages (in negligence or for misfeasance in public office) but not in compelling the city to issue the permit through estoppel.",
+    "why_A_wrong": "Incorrect. Private law estoppel does not apply unmodified to public bodies; estoppel cannot be used to prevent a public authority from exercising its statutory powers in the public interest, even where detrimental reliance is established.",
+    "why_B_wrong": "Incorrect. A written representation from a government official does not invariably bind the government; officers cannot amend or override statutory requirements through their representations, and estoppel does not compel the granting of a permit contrary to a lawfully enacted by-law.",
+    "why_C_wrong": "This IS the correct answer. Generally no. While private law estoppel principles exist, estoppel cannot be used to prevent a public authority from exercising a statutory power in the public interest; the courts have recognized that estoppel does not operate against the Crown or public bodies where its application would defeat the exercise of a statutory duty or power conferred in the public interest — though the claimant may have other remedies in negligence or public law.",
+    "why_D_wrong": "Incorrect. The rank of the official whose representation is relied upon is not the determinative criterion; the issue is whether applying estoppel would defeat the exercise of a statutory power in the public interest — which it would, regardless of whether the planning officer was senior or junior.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "Estoppel Against Public Authorities — Limits in Administrative Law",
+      "page": "N/A",
+      "rule_or_statute_reference": "Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Maritime Electric Co v General Dairies Ltd, [1937] AC 610 (PC)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "estoppel",
+      "public authority",
+      "statutory power",
+      "public interest",
+      "representation"
+    ],
+    "tested_concepts": [
+      "estoppel limited against public authorities",
+      "cannot override statutory power through estoppel",
+      "detrimental reliance does not compel compliance"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-03-audi-001",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "procedural_fairness",
+    "topic_heading": "The Duty of Procedural Fairness",
+    "subtopic_id": "audi_alteram_partem",
+    "subtopic_heading": "Audi Alteram Partem — Right to Respond to Adverse Evidence",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario regulatory tribunal conducts a hearing into alleged professional misconduct by a pharmacist. During the hearing, a compliance officer testifies in chief about a confidential internal report prepared by the regulator. The report contains serious factual allegations against the pharmacist that were not included in the original notice of hearing. The pharmacist's counsel is not given access to the report and is not given an opportunity to cross-examine the compliance officer on its contents before it is admitted as evidence. The tribunal relies on the report in issuing its decision to suspend the pharmacist.",
+    "call_of_question": "Under the audi alteram partem rule (hear the other side), what procedural obligation arises when a tribunal relies on adverse evidence that was not previously disclosed to the affected party?",
+    "options": {
+      "A": "No procedural obligation arises because the evidence was introduced through oral testimony; the pharmacist had an opportunity to hear the evidence at the hearing.",
+      "B": "Under the audi alteram partem rule, a party affected by adverse evidence must have a meaningful opportunity to know the case against them and to respond; where a tribunal relies on significant adverse evidence — particularly evidence not previously disclosed and not subject to cross-examination — the party is entitled to access that evidence and to challenge it before the tribunal relies on it.",
+      "C": "The audi alteram partem rule requires only that the hearing be held in public; confidentiality of internal reports is a complete answer to any disclosure obligation.",
+      "D": "The audi alteram partem rule is satisfied by the mere holding of a hearing; no obligation to disclose specific documents arises."
+    },
+    "correct_answer": "B",
+    "explanation": "The audi alteram partem rule — hear the other side — is a core component of natural justice and procedural fairness. Under this rule, a party has the right to know the full case against them and to have a meaningful opportunity to respond to adverse evidence before an adverse decision is made. As recognized in Kane v Board of Governors of the University of British Columbia, [1980] 1 SCR 1105, and Baker v Canada, [1999] 2 SCR 817, a party must be provided with any significant adverse evidence on which the tribunal proposes to rely, and must be given a real opportunity to challenge and contradict that evidence. Relying on a confidential internal report without disclosure or cross-examination is a serious breach of the audi alteram partem rule.",
+    "why_A_wrong": "Incorrect. The opportunity to hear evidence introduced through oral testimony is not sufficient if the underlying document is withheld and cannot be cross-examined; a meaningful opportunity to respond requires access to the document and the ability to challenge its contents.",
+    "why_B_wrong": "This IS the correct answer. Under the audi alteram partem rule, a party affected by adverse evidence must have a meaningful opportunity to know the case against them and to respond; where a tribunal relies on significant adverse evidence — particularly evidence not previously disclosed and not subject to cross-examination — the party is entitled to access that evidence and to challenge it before the tribunal relies on it.",
+    "why_C_wrong": "Incorrect. Confidentiality of an internal report does not override the audi alteram partem rule; where the report is used against the pharmacist, the pharmacist's right to procedural fairness requires disclosure of the adverse material.",
+    "why_D_wrong": "Incorrect. The mere holding of a hearing does not exhaust the duty of procedural fairness; the content and quality of the hearing matter, including whether all adverse evidence was disclosed and subject to challenge.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "Audi Alteram Partem — Right to Respond to Adverse Evidence",
+      "page": "N/A",
+      "rule_or_statute_reference": "Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817; Kane v Board of Governors of the University of British Columbia, [1980] 1 SCR 1105"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "audi alteram partem",
+      "adverse evidence",
+      "disclosure",
+      "right to respond",
+      "cross-examination"
+    ],
+    "tested_concepts": [
+      "audi alteram partem right to know adverse evidence",
+      "meaningful opportunity to respond",
+      "undisclosed evidence procedural breach"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-03-reasons-003",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "procedural_fairness",
+    "topic_heading": "The Duty of Procedural Fairness",
+    "subtopic_id": "duty_to_reasons_nosppa",
+    "subtopic_heading": "Duty to Give Reasons — Common Law Obligation Outside SPPA",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A federal parole board panel denies an offender early release. The parole board is not governed by the Ontario SPPA (being a federal body). Its enabling statute is silent on whether reasons for decisions must be provided. The offender argues that the common law duty of procedural fairness requires reasons. The Crown argues that without a statutory requirement, reasons are not owed.",
+    "call_of_question": "Under the Baker framework, does the common law duty of procedural fairness impose an obligation to give reasons for an administrative decision where the enabling statute is silent on the matter?",
+    "options": {
+      "A": "No. Where an enabling statute is silent on reasons, no duty to give reasons exists; reasons are exclusively a statutory requirement.",
+      "B": "Yes. Baker established an absolute duty to give written reasons for every administrative decision in Canada, irrespective of the statutory framework.",
+      "C": "Under Baker v Canada, the duty to provide reasons is part of the content of procedural fairness that is determined contextually by weighing the five Baker factors; where the decision has serious consequences for the individual, the process resembles adjudication, and the affected party has no other means to understand the decision, the common law may require reasons even without a statutory mandate.",
+      "D": "The duty to give reasons in the absence of a statute applies only where there is a Charter breach in the proceedings."
+    },
+    "correct_answer": "C",
+    "explanation": "In Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817, the Supreme Court of Canada confirmed that a duty to give reasons may form part of the common law duty of procedural fairness, independent of any statutory requirement. The duty arises from a contextual analysis of the Baker factors — particularly the significance of the decision to the individual and the adjudicative nature of the process. Parole decisions deprive individuals of their liberty interest in early release and have serious personal consequences; the adjudicative nature of parole hearings and the significance of the outcome together support a common law duty to provide reasons, even though the federal parole board is not subject to the Ontario SPPA.",
+    "why_A_wrong": "Incorrect. Baker expressly recognized the common law duty to give reasons as part of the content of procedural fairness; statutory silence does not extinguish the common law obligation where the Baker factors support it.",
+    "why_B_wrong": "Incorrect. Baker did not create an absolute universal duty to give reasons for all administrative decisions; the duty is context-dependent and arises from weighing the five Baker factors.",
+    "why_C_wrong": "This IS the correct answer. Under Baker v Canada, the duty to provide reasons is part of the content of procedural fairness that is determined contextually by weighing the five Baker factors; where the decision has serious consequences for the individual, the process resembles adjudication, and the affected party has no other means to understand the decision, the common law may require reasons even without a statutory mandate.",
+    "why_D_wrong": "Incorrect. The common law duty to give reasons does not require a Charter breach; it arises from the duty of procedural fairness independently of Charter analysis.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "Duty to Give Reasons — Common Law Obligation Outside SPPA",
+      "page": "N/A",
+      "rule_or_statute_reference": "Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "duty to give reasons",
+      "Baker",
+      "common law",
+      "statutory silence",
+      "parole"
+    ],
+    "tested_concepts": [
+      "common law duty to give reasons outside SPPA",
+      "Baker five factors determine reasons obligation",
+      "statutory silence does not extinguish common law fairness duty"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-03-inst-bias-001",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "natural_justice",
+    "topic_heading": "Natural Justice — The Rule Against Bias",
+    "subtopic_id": "institutional_bias",
+    "subtopic_heading": "Institutional Bias — Overlapping Investigative and Adjudicative Functions",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario securities regulatory body has a structure in which its staff conduct investigations and make prosecution recommendations to a panel of commissioners. The same commissioners who receive the staff's recommendation also sit as adjudicators at the hearing on the merits. A respondent argues that the institution suffers from structural bias because the adjudicators who will decide the case have been exposed to the staff's investigative conclusions before the hearing.",
+    "call_of_question": "Under Canadian administrative law, when does overlap between investigative and adjudicative functions within the same institution give rise to a reasonable apprehension of institutional (structural) bias?",
+    "options": {
+      "A": "Any overlap between investigative and adjudicative functions within the same institution automatically gives rise to a reasonable apprehension of bias.",
+      "B": "Institutional bias arises only where the same individual personally conducted the investigation and also sits as adjudicator; there is no concern where different individuals handle each function.",
+      "C": "Under Canadian Pacific Ltd v Matsqui Indian Band, [1995] 1 SCR 3, and IWA v Consolidated-Bathurst Packaging Ltd, [1990] 1 SCR 282, a reasonable apprehension of institutional bias arises where the institutional structure is such that the adjudicators have been exposed to one-sided, partisan information about the case before the hearing — as where the adjudicating panel receives and considers the staff's investigative recommendations. The test remains whether a reasonable and informed person, knowing all the circumstances, would apprehend a risk of unfairness.",
+      "D": "Institutional bias is not a recognized ground of challenge in Canadian administrative law; bias challenges must be directed at individual adjudicators, not the institution."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Canadian administrative law, the reasonable apprehension of bias test from Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369, applies to both individual and institutional bias. Where the structure of a regulatory body is such that the adjudicators who will decide a case have been exposed to the investigating staff's one-sided conclusions before the hearing, a reasonable and informed person may apprehend that the adjudicators have been infected by the investigative perspective, impairing their ability to approach the hearing with an open mind. Courts apply a contextual analysis considering the degree of overlap and how the pre-hearing exposure occurred, rather than applying an automatic rule.",
+    "why_A_wrong": "Incorrect. Not every overlap between investigative and adjudicative functions automatically creates institutional bias; courts conduct a contextual analysis to determine whether the specific structure gives rise to a reasonable apprehension of bias in an informed observer.",
+    "why_B_wrong": "Incorrect. Institutional bias can arise even where different individuals fill the investigative and adjudicative roles; the concern is whether the institutional structure exposed adjudicators to partisan investigative material before the hearing.",
+    "why_C_wrong": "This IS the correct answer. Under Canadian Pacific Ltd v Matsqui Indian Band, [1995] 1 SCR 3, and IWA v Consolidated-Bathurst Packaging Ltd, [1990] 1 SCR 282, a reasonable apprehension of institutional bias arises where the institutional structure is such that the adjudicators have been exposed to one-sided, partisan information about the case before the hearing — as where the adjudicating panel receives and considers the staff's investigative recommendations. The test remains whether a reasonable and informed person, knowing all the circumstances, would apprehend a risk of unfairness.",
+    "why_D_wrong": "Incorrect. Institutional (structural) bias is well-recognized in Canadian administrative law; it is not limited to personal bias of individual adjudicators.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "Institutional Bias — Overlapping Investigative and Adjudicative Functions",
+      "page": "N/A",
+      "rule_or_statute_reference": "Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369; IWA v Consolidated-Bathurst Packaging Ltd, [1990] 1 SCR 282"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "institutional bias",
+      "investigative adjudicative overlap",
+      "structural bias",
+      "reasonable apprehension",
+      "regulatory body"
+    ],
+    "tested_concepts": [
+      "institutional bias from investigative-adjudicative overlap",
+      "reasonable apprehension test applies institutionally",
+      "contextual analysis not automatic rule"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-03-rep-counsel-001",
+    "subject": "public_law",
+    "chapter_number": 3,
+    "chapter_title": "Administrative Law — Principles and Natural Justice",
+    "topic_id": "procedural_fairness",
+    "topic_heading": "The Duty of Procedural Fairness",
+    "subtopic_id": "representation",
+    "subtopic_heading": "Right to Representation — Counsel at Administrative Hearings",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A low-income tenant facing eviction applies to the Landlord and Tenant Board (LTB) of Ontario. The tenant asks to be represented at the hearing by a friend who is a licensed paralegal. The LTB's registry clerk tells the tenant that the hearing will proceed without representation because 'the LTB does not allow non-lawyers to appear.' The tenant argues she has a right to representation by her licensed paralegal.",
+    "call_of_question": "Under the Statutory Powers Procedure Act and Ontario law, does a party before an Ontario tribunal have the right to be represented by a person who is a licensed paralegal but not a lawyer?",
+    "options": {
+      "A": "No. Only lawyers licensed by the Law Society of Ontario may represent parties before Ontario administrative tribunals governed by the SPPA.",
+      "B": "Yes. Under s. 10 of the SPPA, a party to a proceeding may be represented by a barrister and solicitor or a paralegal licensed by the Law Society of Ontario; licensed paralegals have the same right of representation as lawyers before SPPA-governed tribunals.",
+      "C": "No. While lawyers may appear, paralegals and lay representatives have no statutory right to appear before Ontario administrative tribunals.",
+      "D": "Yes, but only where the hearing involves a financial claim exceeding $10,000."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 10, a party to a proceeding before a tribunal governed by the SPPA may be represented at a hearing by a barrister and solicitor or a paralegal licensed by the Law Society of Ontario. Ontario's Law Society Act and SPPA together create a right for licensed paralegals to represent parties before SPPA-governed tribunals. Unlicensed persons do not have a statutory right to represent parties. The clerk's statement that 'no non-lawyers' may appear is incorrect as applied to licensed paralegals, who are authorized representatives under s. 10.",
+    "why_A_wrong": "Incorrect. Section 10 of the SPPA expressly extends the right of representation to both barristers and solicitors and licensed paralegals; licensed paralegals are authorized to represent parties before SPPA tribunals.",
+    "why_B_wrong": "This IS the correct answer. Yes. Under s. 10 of the SPPA, a party to a proceeding may be represented by a barrister and solicitor or a paralegal licensed by the Law Society of Ontario; licensed paralegals have the same right of representation as lawyers before SPPA-governed tribunals.",
+    "why_C_wrong": "Incorrect. Licensed paralegals do have a statutory right of representation under SPPA s. 10; the statement that paralegals have no such right is incorrect.",
+    "why_D_wrong": "Incorrect. The right of representation under SPPA s. 10 is not subject to a financial threshold; it applies to all proceedings governed by the SPPA regardless of the amount at stake.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 3 — Administrative Law",
+      "heading": "Right to Representation — Counsel at Administrative Hearings",
+      "page": "N/A",
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 10; Law Society Act, R.S.O. 1990, c. L.8"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "SPPA s. 10",
+      "representation",
+      "paralegal",
+      "right to counsel",
+      "licensed paralegal"
+    ],
+    "tested_concepts": [
+      "SPPA s. 10 right to be represented",
+      "licensed paralegals may represent under SPPA",
+      "distinction between licensed and unlicensed representatives"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

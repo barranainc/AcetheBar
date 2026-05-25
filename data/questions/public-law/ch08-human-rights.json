@@ -383,5 +383,225 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-08-undue-hard-001",
+    "subject": "public_law",
+    "chapter_number": 8,
+    "chapter_title": "Human Rights",
+    "topic_id": "human_rights_code",
+    "topic_heading": "Human Rights Code — Duty to Accommodate",
+    "subtopic_id": "undue_hardship",
+    "subtopic_heading": "Undue Hardship — Cost, Health, and Safety Factors",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An employee with a chronic back condition requires a height-adjustable desk and the right to take short standing breaks every 30 minutes. The employer argues that providing an adjustable desk would cost $1,200 and that allowing standing breaks would disrupt production flow. The employer refuses accommodation, stating the cost and disruption constitute undue hardship. The employee files a Human Rights Tribunal of Ontario complaint.",
+    "call_of_question": "Under the Ontario Human Rights Code, what factors does the Tribunal consider in determining whether an employer has established undue hardship, and does the evidence described likely establish undue hardship?",
+    "options": {
+      "A": "Undue hardship is established whenever the requested accommodation involves any additional cost to the employer; a $1,200 cost automatically constitutes undue hardship.",
+      "B": "Under the Code and the Ontario Human Rights Commission Policy on Disability and the Duty to Accommodate, the three recognized factors for undue hardship are: (1) cost, (2) outside sources of funding, and (3) health and safety. The cost of accommodation is assessed relative to the employer's overall resources; a $1,200 cost for a large employer would very likely not constitute undue hardship. Minor production disruption does not meet the health and safety threshold for undue hardship.",
+      "C": "An employer establishes undue hardship by showing that any accommodation would reduce productivity; production disruption is sufficient to establish undue hardship without further analysis.",
+      "D": "Undue hardship can be established by proving the accommodation would be inconvenient or would require any modification to existing workplace practices."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Human Rights Code, R.S.O. 1990, c. H.19, s. 17(2), and as articulated in Meiorin (BC (Public Service Employee Relations Commission) v BCGSEU, [1999] 3 SCR 3) and the OHRC Policy on Disability, the duty to accommodate requires employers to accommodate to the point of undue hardship. Undue hardship is assessed by reference to three defined factors: (1) cost — whether the financial cost of accommodation would fundamentally alter the nature of the enterprise; (2) outside sources of funding — whether the employer has access to external financial support; and (3) health and safety risks — whether accommodation would create unacceptable safety risks. Mere inconvenience, reduced efficiency, or minor production adjustment do not constitute undue hardship. A $1,200 expenditure, absent evidence it is disproportionate to the employer's resources, would rarely establish undue hardship.",
+    "why_A_wrong": "Incorrect. Undue hardship is not established by any additional cost; the cost must be so significant relative to the employer's resources as to fundamentally alter the enterprise. A nominal cost of $1,200 would not establish undue hardship for most employers.",
+    "why_B_wrong": "This IS the correct answer. Under the Code and the Ontario Human Rights Commission Policy on Disability and the Duty to Accommodate, the three recognized factors for undue hardship are: (1) cost, (2) outside sources of funding, and (3) health and safety. The cost of accommodation is assessed relative to the employer's overall resources; a $1,200 cost for a large employer would very likely not constitute undue hardship. Minor production disruption does not meet the health and safety threshold for undue hardship.",
+    "why_C_wrong": "Incorrect. Production disruption alone does not constitute undue hardship; the health and safety factor requires an actual and significant safety risk, not merely a reduction in productivity or production flow.",
+    "why_D_wrong": "Incorrect. Inconvenience and modification to existing practices are part of what accommodation necessarily entails; they do not, by themselves, constitute undue hardship. The standard is 'undue' hardship — a high threshold.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 8 — Human Rights",
+      "heading": "Undue Hardship — Cost, Health, and Safety Factors",
+      "page": "N/A",
+      "rule_or_statute_reference": "Human Rights Code, R.S.O. 1990, c. H.19, s. 17(2); BC (Public Service Employee Relations Commission) v BCGSEU (Meiorin), [1999] 3 SCR 3"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "undue hardship",
+      "cost",
+      "health and safety",
+      "accommodation",
+      "Meiorin"
+    ],
+    "tested_concepts": [
+      "three factors of undue hardship cost outside funding health safety",
+      "cost assessed relative to employer resources",
+      "inconvenience not undue hardship"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-08-prima-facie-001",
+    "subject": "public_law",
+    "chapter_number": 8,
+    "chapter_title": "Human Rights",
+    "topic_id": "human_rights_code",
+    "topic_heading": "Human Rights Code — Prima Facie Discrimination",
+    "subtopic_id": "prima_facie_disc",
+    "subtopic_heading": "Prima Facie Discrimination — Onus Shift to Respondent",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Indigenous employee at a manufacturing company is passed over for a promotion in favour of a less qualified non-Indigenous employee. The Indigenous employee has higher performance evaluations, more years of experience, and holds the relevant certifications. She files a complaint with the Human Rights Tribunal of Ontario alleging race discrimination. The employer argues she has not proven discrimination. The employee argues that establishing a prima facie case shifts the burden to the employer.",
+    "call_of_question": "Under the Human Rights Code and the Tribunal's procedural framework, what happens once an applicant establishes a prima facie case of discrimination?",
+    "options": {
+      "A": "Once a prima facie case is established, the Tribunal must find discrimination without further analysis; the respondent has no opportunity to rebut.",
+      "B": "A prima facie case of discrimination does not shift any burden; the applicant bears the burden of proof throughout the entire proceeding.",
+      "C": "Once an applicant establishes a prima facie case of discrimination — showing that a protected characteristic was a factor in an adverse treatment — the evidential burden shifts to the respondent to provide a non-discriminatory explanation for the treatment; if the respondent cannot provide a credible non-discriminatory explanation, a finding of discrimination will be made.",
+      "D": "A prima facie case must be proven beyond a reasonable doubt before any burden shifts to the employer."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Ontario Human Rights Tribunal jurisprudence, consistent with Moore v British Columbia (Education), 2012 SCC 61, once a complainant establishes a prima facie case of discrimination — demonstrating on a balance of probabilities that: (1) she has a characteristic protected by the Code; (2) she experienced an adverse impact (denial of a benefit, promotion, etc.); and (3) the protected characteristic was a factor in the adverse treatment — the evidential burden shifts to the respondent. The respondent must then provide a credible non-discriminatory explanation. The protected characteristic does not need to be the sole reason for the adverse treatment; it is sufficient that it was one factor among others.",
+    "why_A_wrong": "Incorrect. Establishing a prima facie case shifts the evidential burden to the respondent; it does not automatically result in a finding of discrimination without allowing the respondent to respond.",
+    "why_B_wrong": "Incorrect. Human rights law operates a shifting burden framework; once a prima facie case is established, the respondent bears an evidential burden to offer a non-discriminatory explanation.",
+    "why_C_wrong": "This IS the correct answer. Once an applicant establishes a prima facie case of discrimination — showing that a protected characteristic was a factor in an adverse treatment — the evidential burden shifts to the respondent to provide a non-discriminatory explanation for the treatment; if the respondent cannot provide a credible non-discriminatory explanation, a finding of discrimination will be made.",
+    "why_D_wrong": "Incorrect. Human rights proceedings are civil and apply the civil standard of balance of probabilities, not proof beyond a reasonable doubt; the prima facie case must be established on a balance of probabilities.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 8 — Human Rights",
+      "heading": "Prima Facie Discrimination — Onus Shift to Respondent",
+      "page": "N/A",
+      "rule_or_statute_reference": "Human Rights Code, R.S.O. 1990, c. H.19, s. 5(1); Moore v British Columbia (Education), 2012 SCC 61"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "prima facie discrimination",
+      "burden of proof",
+      "onus shift",
+      "non-discriminatory explanation",
+      "Moore"
+    ],
+    "tested_concepts": [
+      "prima facie discrimination three-part test",
+      "onus shifts to respondent after prima facie case",
+      "non-discriminatory explanation required"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-08-reprisal-001",
+    "subject": "public_law",
+    "chapter_number": 8,
+    "chapter_title": "Human Rights",
+    "topic_id": "human_rights_code",
+    "topic_heading": "Human Rights Code — Reprisal",
+    "subtopic_id": "reprisal",
+    "subtopic_heading": "Reprisal Protection — Section 8 of the Human Rights Code",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An employee files a discrimination complaint against her employer with the Human Rights Tribunal of Ontario. Two weeks after filing the complaint, her employer gives her a negative performance review, reduces her hours, and moves her to a less desirable shift — conduct she had not experienced before filing the complaint. She alleges reprisal. The employer argues the performance review was justified and any coincidence in timing is irrelevant.",
+    "call_of_question": "Under s. 8 of the Ontario Human Rights Code, what constitutes prohibited reprisal, and what must be established to make out a reprisal claim?",
+    "options": {
+      "A": "Reprisal under s. 8 requires proof that the employer expressly stated it was retaliating for the complaint; adverse treatment without an express statement of retaliatory intent does not constitute reprisal.",
+      "B": "Section 8 prohibits reprisal only where the complaint is ultimately found to be meritorious; if the underlying discrimination complaint fails, the reprisal claim also fails.",
+      "C": "Under s. 8 of the Human Rights Code, reprisal is prohibited where a person engages in a protected activity (such as filing a human rights complaint) and subsequently experiences adverse treatment that is causally connected to that protected activity; an adverse inference may be drawn from close temporal proximity between the protected activity and the adverse treatment, and the applicant need not prove discriminatory intent — only that the protected activity was a factor in the adverse treatment.",
+      "D": "Reprisal under s. 8 applies only to dismissal from employment; lesser adverse actions such as shift changes and reduced hours are not captured by the reprisal protection."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Human Rights Code, R.S.O. 1990, c. H.19, s. 8, it is prohibited to threaten or penalize a person for claiming or enforcing a right under the Code or for participating in a Code proceeding. A reprisal claim requires: (1) a protected activity (filing a human rights complaint); (2) adverse treatment by the respondent; and (3) a causal connection between the protected activity and the adverse treatment. An express statement of retaliatory intent is not required; close temporal proximity between the protected activity and the adverse treatment — as here, where adverse actions began two weeks after the complaint was filed — can support an inference of reprisal. The validity of the underlying complaint is irrelevant to the reprisal claim.",
+    "why_A_wrong": "Incorrect. Reprisal under s. 8 does not require an express statement of retaliatory intent; circumstantial evidence including timing and pattern of conduct can establish the causal connection.",
+    "why_B_wrong": "Incorrect. A reprisal claim stands independently of the underlying discrimination complaint; reprisal protection applies even if the underlying complaint does not succeed on its merits.",
+    "why_C_wrong": "This IS the correct answer. Under s. 8 of the Human Rights Code, reprisal is prohibited where a person engages in a protected activity (such as filing a human rights complaint) and subsequently experiences adverse treatment that is causally connected to that protected activity; an adverse inference may be drawn from close temporal proximity between the protected activity and the adverse treatment, and the applicant need not prove discriminatory intent — only that the protected activity was a factor in the adverse treatment.",
+    "why_D_wrong": "Incorrect. Section 8 reprisal protection is not limited to dismissal; it covers any adverse treatment — including negative performance reviews, reduction of hours, and disadvantageous shift changes — that is causally connected to a protected activity.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 8 — Human Rights",
+      "heading": "Reprisal Protection — Section 8 of the Human Rights Code",
+      "page": "N/A",
+      "rule_or_statute_reference": "Human Rights Code, R.S.O. 1990, c. H.19, s. 8"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "reprisal",
+      "s. 8",
+      "protected activity",
+      "adverse treatment",
+      "causal connection"
+    ],
+    "tested_concepts": [
+      "s. 8 reprisal protection elements",
+      "temporal proximity supports causal inference",
+      "reprisal claim independent of underlying complaint success"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-08-bfor-001",
+    "subject": "public_law",
+    "chapter_number": 8,
+    "chapter_title": "Human Rights",
+    "topic_id": "human_rights_code",
+    "topic_heading": "Human Rights Code — BFOR Defence",
+    "subtopic_id": "bfor",
+    "subtopic_heading": "BFOR — Bona Fide Occupational Requirement and the Meiorin Test",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A wildfire-fighting organization requires all firefighters to pass an aerobic capacity test demonstrating the ability to carry a 45-kilogram pack and run 2.5 kilometres within a specific time. A female applicant fails the test and is denied employment. She argues the standard discriminates on the basis of sex because fewer women can pass it. The employer argues the standard is a bona fide occupational requirement necessary to fight wildfires safely.",
+    "call_of_question": "Under the Meiorin test, what must an employer demonstrate to establish that a standard constituting prima facie discrimination is a bona fide occupational requirement?",
+    "options": {
+      "A": "The employer must show the standard was designed in good faith; the discriminatory effect on a protected group does not need to be justified.",
+      "B": "The employer must show the standard is rationally connected to the job — that it tests for skills actually needed. No further justification is required.",
+      "C": "Under BC (Public Service Employee Relations Commission) v BCGSEU (Meiorin), [1999] 3 SCR 3, the employer must establish on a balance of probabilities: (1) the standard was adopted for a purpose rationally connected to the performance of the job; (2) the standard was adopted in an honest and good faith belief that it was necessary to fulfill the legitimate work-related purpose; and (3) the standard is reasonably necessary to accomplish the legitimate work-related purpose — meaning the employer cannot accommodate the affected person without incurring undue hardship.",
+      "D": "An employer establishes a BFOR by demonstrating that the majority of employees in the same position can meet the standard; if most people pass, it is a valid requirement."
+    },
+    "correct_answer": "C",
+    "explanation": "In BC (Public Service Employee Relations Commission) v BCGSEU (Meiorin), [1999] 3 SCR 3, the Supreme Court of Canada established the unified three-part BFOR test. To establish a bona fide occupational requirement, the employer must prove on a balance of probabilities that: (1) the standard was adopted for a purpose rationally connected to the performance of the job — not the discriminatory purpose itself; (2) it was adopted in an honest and good faith belief that the purpose was legitimately necessary; and (3) the standard is reasonably necessary to accomplish the legitimate work-related purpose — that it is impossible to accommodate persons who fail the standard without incurring undue hardship. Critically, the employer must also show it made efforts to craft a standard that accommodates difference, including sex-based physiological differences, to the point of undue hardship.",
+    "why_A_wrong": "Incorrect. Good faith in adopting the standard is only the second step of the Meiorin test; establishing good faith alone is not sufficient. The employer must also demonstrate rational connection and reasonable necessity.",
+    "why_B_wrong": "Incorrect. Rational connection is only the first step of the Meiorin test; the employer must also satisfy good faith and reasonable necessity, including demonstrating that accommodation of those who cannot meet the standard would cause undue hardship.",
+    "why_C_wrong": "This IS the correct answer. Under BC (Public Service Employee Relations Commission) v BCGSEU (Meiorin), [1999] 3 SCR 3, the employer must establish on a balance of probabilities: (1) the standard was adopted for a purpose rationally connected to the performance of the job; (2) the standard was adopted in an honest and good faith belief that it was necessary to fulfill the legitimate work-related purpose; and (3) the standard is reasonably necessary to accomplish the legitimate work-related purpose — meaning the employer cannot accommodate the affected person without incurring undue hardship.",
+    "why_D_wrong": "Incorrect. The Meiorin test does not ask whether the majority of workers can meet the standard; a standard that systematically excludes a protected group must be justified through the three-part test, regardless of what percentage of people in a different group can pass it.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 8 — Human Rights",
+      "heading": "BFOR — Bona Fide Occupational Requirement and the Meiorin Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Human Rights Code, R.S.O. 1990, c. H.19, s. 17(1); BC (Public Service Employee Relations Commission) v BCGSEU (Meiorin), [1999] 3 SCR 3"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "BFOR",
+      "Meiorin",
+      "three-part test",
+      "reasonable necessity",
+      "accommodation to point of undue hardship"
+    ],
+    "tested_concepts": [
+      "Meiorin three-part BFOR test",
+      "rational connection good faith reasonable necessity",
+      "accommodation integral to BFOR third step"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

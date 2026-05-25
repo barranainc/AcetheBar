@@ -1,0 +1,277 @@
+[
+  {
+    "id": "civ-11-trial-proc-001",
+    "subject": "civil_litigation",
+    "chapter_number": 11,
+    "chapter_title": "Trial Procedure",
+    "topic_id": "trial_procedure",
+    "topic_heading": "Trial Procedure",
+    "subtopic_id": "order_of_proceedings",
+    "subtopic_heading": "Order of Proceedings at Trial — Who Opens and Closes",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Osei Pharmaceuticals Inc. brings an action against Bergman Distribution Ltd. for breach of a supply contract. Both parties have retained counsel and the matter proceeds to trial before a judge sitting without a jury.",
+    "call_of_question": "In a civil trial without a jury, what is the general order in which the parties present their cases?",
+    "options": {
+      "A": "The defendant presents its case first, then the plaintiff responds, and the plaintiff has the right to the first and last addresses to the court.",
+      "B": "The plaintiff presents its case first, followed by the defendant's case; closing addresses are made with the plaintiff addressing last, as the party bearing the burden of proof.",
+      "C": "The order of presentation is determined entirely by the presiding judge at the start of trial; there is no default order.",
+      "D": "Both parties present their cases simultaneously through written submissions filed in advance of trial, and the judge renders judgment without oral argument."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.52 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194) and established Ontario civil trial practice, the general order of proceedings is: (1) plaintiff's opening address; (2) plaintiff's evidence; (3) defendant's opening address (or at the start of trial, if elected); (4) defendant's evidence; (5) plaintiff's closing address; and (6) defendant's closing address (or the reverse, depending on which party opened). As the party bearing the burden of proof, the plaintiff generally goes first in presenting evidence and is entitled to the last word in closing addresses. This order may be varied by the trial judge in the interests of justice.",
+    "why_A_wrong": "The plaintiff, not the defendant, presents its case first. The plaintiff bears the burden of proof and opens the case. The plaintiff also generally has the right to address last in closing, not first.",
+    "why_B_wrong": "This IS the correct answer. The plaintiff presents first (bearing the burden of proof), followed by the defendant; closing addresses conclude with the plaintiff's reply as the party bearing the burden.",
+    "why_C_wrong": "There is an established default order for the presentation of cases at civil trial. While a trial judge has some discretion to adjust the order, there is a well-established convention that is not simply left to ad hoc judicial determination at the start of each trial.",
+    "why_D_wrong": "Ontario civil trials involve live oral presentations of evidence, examination and cross-examination of witnesses, and oral argument. Simultaneous written submissions are not the standard procedure for a civil trial.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Trial Procedure",
+      "heading": "Order of Proceedings at Trial — Who Opens and Closes",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.52"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "order of proceedings",
+      "plaintiff first",
+      "burden of proof",
+      "closing address",
+      "trial procedure"
+    ],
+    "tested_concepts": [
+      "plaintiff opens and closes — burden of proof",
+      "order of proceedings at civil trial — r.52",
+      "plaintiff evidence then defendant evidence"
+    ],
+    "estimated_time_seconds": 80,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-11-trial-proc-002",
+    "subject": "civil_litigation",
+    "chapter_number": 11,
+    "chapter_title": "Trial Procedure",
+    "topic_id": "trial_procedure",
+    "topic_heading": "Trial Procedure",
+    "subtopic_id": "cross_examination",
+    "subtopic_heading": "Cross-Examination at Trial — Scope and Leading Questions",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At trial in a negligence action, the plaintiff calls a witness who testifies in chief that the defendant's vehicle was travelling at a reasonable speed. On cross-examination, defense counsel asks the witness whether she had told a bystander at the scene that the car was 'going very fast.' The plaintiff's counsel objects to the question on the basis that it is a leading question.",
+    "call_of_question": "Which statement correctly describes the permissible scope of cross-examination and the use of leading questions in Ontario civil trials?",
+    "options": {
+      "A": "Leading questions are never permitted on cross-examination; all questions on cross-examination must be open-ended.",
+      "B": "Cross-examination is limited to the topics covered in the witness's examination in chief; questions about prior inconsistent statements are not permitted on cross-examination.",
+      "C": "On cross-examination, counsel may use leading questions and may explore any relevant matter, including matters not covered in examination in chief, such as prior inconsistent statements; leading questions are generally permissible on cross-examination.",
+      "D": "Cross-examination may only be conducted if the examining party has first obtained leave of the trial judge to depart from the scope of examination in chief."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Evidence Act, R.S.O. 1990, c. E.23 and r.53 of the Rules of Civil Procedure, cross-examination in Ontario civil trials is broader in scope than examination in chief. On cross-examination, counsel may: (1) use leading questions (which suggest the answer in the question itself); (2) explore any relevant matter, including matters not covered in examination in chief; and (3) put prior inconsistent statements to the witness to impeach their credibility. The objection to a leading question on cross-examination is unfounded — leading questions are a standard and permitted feature of cross-examination. The question about what the witness told the bystander at the scene is a proper cross-examination question going to credibility through a prior inconsistent statement.",
+    "why_A_wrong": "Leading questions are expressly permissible on cross-examination. It is in examination in chief where leading questions are generally not permitted (except as to introductory or undisputed matters). The objection that a leading question on cross-examination is improper is incorrect.",
+    "why_B_wrong": "Cross-examination is not limited to topics covered in examination in chief. Counsel may explore any relevant matter on cross-examination, including prior inconsistent statements not raised in examination in chief.",
+    "why_C_wrong": "This IS the correct answer. Leading questions are permissible on cross-examination, and cross-examination may explore any relevant matter including prior inconsistent statements not covered in examination in chief.",
+    "why_D_wrong": "No leave of the trial judge is required to cross-examine on matters beyond the scope of examination in chief. Broad cross-examination on relevant matters is a right, not a privilege requiring judicial authorization.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Trial Procedure",
+      "heading": "Cross-Examination at Trial — Scope and Leading Questions",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.53; Evidence Act, R.S.O. 1990, c. E.23, s.23"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "cross-examination",
+      "leading questions",
+      "prior inconsistent statement",
+      "scope of cross-examination",
+      "impeach"
+    ],
+    "tested_concepts": [
+      "leading questions permissible on cross-examination",
+      "cross-examination broader than examination in chief",
+      "prior inconsistent statements on cross-examination"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-11-trial-proc-003",
+    "subject": "civil_litigation",
+    "chapter_number": 11,
+    "chapter_title": "Trial Procedure",
+    "topic_id": "trial_procedure",
+    "topic_heading": "Trial Procedure",
+    "subtopic_id": "dismissal_for_delay",
+    "subtopic_heading": "Dismissal of Action for Delay — r.48.14",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An action for breach of contract was commenced in May 2019. By May 2024 — five years later — the action has not been set down for trial. The registrar notes that the action has not been placed on the trial list and no status notice has been issued. The defendant brings a motion to dismiss the action for delay under r.48.14 of the Rules of Civil Procedure.",
+    "call_of_question": "Under r.48.14 of the Rules of Civil Procedure, what power does the court have to dismiss an action for delay, and what must the plaintiff show to prevent dismissal?",
+    "options": {
+      "A": "The court has no power to dismiss an action for delay unless the defendant has formally served a demand for a trial date.",
+      "B": "Under r.48.14, where an action has not been set down for trial within the time period prescribed by the rules, the registrar may serve a status notice on the parties; if the action is not set down or dismissed by consent within 90 days after the status notice, the registrar shall dismiss the action for delay. On a motion to dismiss, the plaintiff must show a satisfactory explanation for the delay and that no prejudice will result from the action continuing.",
+      "C": "An action is automatically dismissed after three years of inactivity without any status notice or motion requirement.",
+      "D": "The court may dismiss an action for delay only where the limitation period for the underlying claim has also expired."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.48.14 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the registrar may issue a status notice to the parties where an action has not been set down for trial within the prescribed period. If the action is not set down or dismissed by consent within 90 days of the status notice, the registrar shall dismiss the action for delay. On a motion to dismiss for delay (or to resist one), the plaintiff must demonstrate: (1) a satisfactory explanation for the delay; and (2) that the defendant will not suffer prejudice from the action continuing. Courts assess both the reason for the delay and any prejudice caused to the defendant. A five-year dormant action is vulnerable to a r.48.14 dismissal motion.",
+    "why_A_wrong": "No formal demand from the defendant is required before the court may dismiss for delay under r.48.14. The registrar may act on its own initiative upon noticing that the prescribed time periods have not been met.",
+    "why_B_wrong": "This IS the correct answer. Rule 48.14 provides for status notice followed by dismissal if the action is not set down within 90 days; the plaintiff must show satisfactory explanation for delay and no prejudice to resist dismissal.",
+    "why_C_wrong": "There is no automatic three-year dismissal rule. The process under r.48.14 involves a status notice and a 90-day period to set the action down before the registrar dismisses the action.",
+    "why_D_wrong": "The court's power to dismiss for delay under r.48.14 is independent of whether the applicable limitation period for the underlying claim has expired. An action may be dismissed for procedural delay even if the substantive limitation period has not run.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Trial Procedure",
+      "heading": "Dismissal of Action for Delay — r.48.14",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.48.14"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "r.48.14",
+      "dismissal for delay",
+      "status notice",
+      "set down for trial",
+      "90 days"
+    ],
+    "tested_concepts": [
+      "r.48.14 — status notice and dismissal for delay procedure",
+      "90-day period after status notice",
+      "plaintiff must show explanation for delay and no prejudice"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-11-trial-proc-004",
+    "subject": "civil_litigation",
+    "chapter_number": 11,
+    "chapter_title": "Trial Procedure",
+    "topic_id": "trial_procedure",
+    "topic_heading": "Trial Procedure",
+    "subtopic_id": "jury_trial",
+    "subtopic_heading": "Right to Jury Trial in Civil Proceedings",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Larochelle Hotels Inc. brings a claim against a commercial tenant for unpaid rent. The tenant serves a jury notice requiring the action to be tried by judge and jury. Larochelle Hotels argues that the claim involves complex accounting issues and that a jury trial is inappropriate. Larochelle brings a motion to strike the jury notice.",
+    "call_of_question": "Under s.108 of the Courts of Justice Act and the applicable Rules of Civil Procedure, when may the court strike a jury notice in a civil case?",
+    "options": {
+      "A": "A party may not strike a jury notice once it has been validly served; the right to a jury trial in civil proceedings is absolute and cannot be overridden by the court.",
+      "B": "The court may strike a jury notice where the case involves matters that require prolonged examination of accounts or technical scientific questions that cannot be conveniently dealt with by a jury, or where a jury trial would otherwise be inappropriate.",
+      "C": "A jury notice may be struck only where the defendant has failed to pay the required jury fee within the prescribed time.",
+      "D": "The court may strike a jury notice only if all parties consent to the action being tried without a jury."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s.108 of the Courts of Justice Act, R.S.O. 1990, c. C.43 (as applicable), a party may require a jury trial in a civil proceeding by serving a jury notice. However, the court has discretion to strike a jury notice where the case involves matters that are not suitable for jury determination, including: prolonged examination of accounts, technical scientific or commercial questions that cannot be conveniently dealt with by a jury, or where a jury trial would be inappropriate in the circumstances. Complex accounting issues in a commercial rent dispute may provide a basis for the court to strike the jury notice, as such matters are among the recognized categories for which a jury trial can be struck. The right to a civil jury trial is not absolute.",
+    "why_A_wrong": "The right to a civil jury trial is not absolute. Section 108 of the Courts of Justice Act and the Rules of Civil Procedure give the court discretion to strike a jury notice where the case is not suitable for jury determination.",
+    "why_B_wrong": "This IS the correct answer. The court may strike a jury notice where the case involves prolonged examination of accounts, technical scientific questions, or other circumstances making a jury trial inappropriate.",
+    "why_C_wrong": "Failure to pay a jury fee is a procedural basis for striking a jury notice, but it is not the only basis. The court also has substantive discretion to strike a jury notice where the case is unsuitable for jury determination.",
+    "why_D_wrong": "The court may strike a jury notice on its own discretion upon motion by a party; unanimous consent of all parties is not required for the court to strike a jury notice.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Trial Procedure",
+      "heading": "Right to Jury Trial in Civil Proceedings",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Courts of Justice Act, R.S.O. 1990, c. C.43, s.108; Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.47"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "jury notice",
+      "strike jury notice",
+      "s.108",
+      "prolonged examination of accounts",
+      "civil jury trial"
+    ],
+    "tested_concepts": [
+      "right to civil jury trial not absolute — s.108 CJA",
+      "court discretion to strike jury notice",
+      "grounds — prolonged accounts, technical issues, inappropriate"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-11-trial-proc-005",
+    "subject": "civil_litigation",
+    "chapter_number": 11,
+    "chapter_title": "Trial Procedure",
+    "topic_id": "trial_procedure",
+    "topic_heading": "Trial Procedure",
+    "subtopic_id": "non_suit",
+    "subtopic_heading": "Non-Suit Motion — When Available and the Test",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At trial, the plaintiff completes its evidence and rests its case. The defendant's counsel rises and moves for a non-suit, arguing that the plaintiff has failed to adduce any evidence on the element of causation. The plaintiff's counsel argues that the motion should be refused because the defendant will be required to elect not to call evidence before the non-suit motion can be heard.",
+    "call_of_question": "Under Ontario civil trial procedure, what is the rule regarding a defendant's election on a non-suit motion?",
+    "options": {
+      "A": "A non-suit motion may be heard at any time during trial and the defendant need not make any election before the motion is heard.",
+      "B": "A defendant who moves for a non-suit in a civil trial must elect not to call evidence before the non-suit motion will be heard; if the defendant elects not to call evidence and the non-suit is refused, the case goes to the trier of fact on the plaintiff's evidence alone.",
+      "C": "The defendant may bring a non-suit motion but retains the right to call evidence regardless of the outcome of the motion.",
+      "D": "Non-suit motions are not available in civil proceedings; they are a procedure unique to criminal trials."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.52 of the Rules of Civil Procedure and established Ontario civil trial practice, a defendant who moves for a non-suit (arguing that the plaintiff has failed to make out a prima facie case) must first elect not to call any evidence. This election is required before the motion will be entertained by the court. The rationale is that a defendant should not be able to test the strength of the plaintiff's case through a non-suit motion and then, if the motion fails, have the opportunity to call evidence. If the defendant makes the election and the non-suit is refused, the case proceeds on the basis of the plaintiff's evidence alone, and the trier of fact determines whether the plaintiff has proved its case. The plaintiff's counsel's position on the election requirement is correct.",
+    "why_A_wrong": "In Ontario civil trials, the defendant must elect not to call evidence before the non-suit motion is heard. The defendant cannot bring the motion without committing to calling no evidence if the motion fails.",
+    "why_B_wrong": "This IS the correct answer. The defendant must elect not to call evidence before the non-suit motion is heard; if refused, the case is decided on the plaintiff's evidence alone.",
+    "why_C_wrong": "The defendant who moves for a non-suit in a civil trial cannot retain the right to call evidence if the motion is refused. The election to call no evidence is a prerequisite for the motion to be heard.",
+    "why_D_wrong": "Non-suit motions are available in civil proceedings in Ontario. They are not exclusive to criminal trials. A defendant may bring a non-suit motion after the plaintiff closes its case, provided the election to call no evidence is made.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Trial Procedure",
+      "heading": "Non-Suit Motion — When Available and the Test",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.52; Ontario civil trial practice"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "non-suit",
+      "election not to call evidence",
+      "prima facie case",
+      "plaintiff's evidence alone",
+      "civil trial"
+    ],
+    "tested_concepts": [
+      "non-suit motion — defendant must elect not to call evidence",
+      "if non-suit refused — case on plaintiff's evidence alone",
+      "non-suit available in civil proceedings"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

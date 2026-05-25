@@ -273,5 +273,201 @@
       "three years is insufficient"
     ],
     "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-06-ledger-001",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Accounts — By-Law 9",
+    "subtopic_id": "client_trust_ledger",
+    "subtopic_heading": "Client Trust Ledger — Required Contents and Per-Client Accounting",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Renata operates a busy practice and maintains a mixed trust account for 40 active clients. She tracks all trust money received in a single general ledger entry for the mixed trust account, showing total deposits and withdrawals chronologically, but does not maintain a separate ledger entry for each individual client. When asked by the LSO during a compliance audit what balance is held in trust for a specific client, Renata cannot produce that information without extensive manual calculation.",
+    "call_of_question": "Has Renata complied with the trust ledger requirements of By-Law 9?",
+    "options": {
+      "A": "Yes — a single combined trust account ledger is sufficient under By-Law 9 as long as the total trust balance is accurately tracked.",
+      "B": "No — By-Law 9 requires that a lawyer maintain a separate trust ledger for each client whose funds are held in the mixed trust account; the ledger must show all trust transactions for that specific client and must allow the lawyer to identify the balance held for each client at any time.",
+      "C": "Yes — the requirement for a per-client trust ledger only applies to lawyers handling real estate or estate matters; litigation trusts may be tracked in aggregate.",
+      "D": "No — but the per-client ledger is only required if the trust account holds funds for more than 20 clients simultaneously."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 9 requires that a lawyer maintain a separate trust ledger account for each client or matter for which trust funds are held. The per-client trust ledger must record all receipts and disbursements of trust funds for that client and must be maintained in a way that allows the lawyer to identify the balance held for each client at any time. A single combined chronological entry for all clients is non-compliant — it makes it impossible to determine individual client balances without extensive manual reconstruction, which is precisely the problem By-Law 9's record-keeping requirements are designed to prevent.",
+    "why_A_wrong": "Incorrect. A combined trust account ledger is insufficient. By-Law 9 requires per-client ledger entries so that each client's balance is separately and readily identifiable at all times.",
+    "why_B_wrong": "This IS the correct answer. No — By-Law 9 requires that a lawyer maintain a separate trust ledger for each client whose funds are held in the mixed trust account; the ledger must show all trust transactions for that specific client and must allow the lawyer to identify the balance held for each client at any time.",
+    "why_C_wrong": "Incorrect. The per-client trust ledger requirement applies to all areas of practice, not only real estate or estate matters. Any client funds held in a mixed trust account must be tracked with a separate per-client ledger.",
+    "why_D_wrong": "Incorrect. There is no threshold number of clients above which per-client ledgers are required. The requirement applies from the moment a lawyer holds trust funds for any client.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9, s. 8 (client trust ledger — per-client accounting)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — client trust ledger requirements"
+    },
+    "exam_trigger_words": ["trust ledger", "per-client", "separate ledger", "By-Law 9", "client balance"],
+    "tested_concepts": [
+      "By-Law 9 — separate trust ledger required for each client",
+      "per-client ledger must show individual balance at any time",
+      "combined chronological ledger is non-compliant"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-06-short-001",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Accounts — By-Law 9",
+    "subtopic_id": "trust_shortage",
+    "subtopic_heading": "Shortage in Trust Account — Obligations on Discovery",
+    "difficulty": "hard",
+    "fact_pattern": "During a monthly trust reconciliation, Lawyer Seamus discovers that his trust account has a $15,000 shortage — the total shown on the client trust listing exceeds the bank balance by $15,000. Seamus cannot immediately identify the cause of the shortage. He decides to investigate quietly for 30 days before taking any further steps, hoping to identify and remedy the shortage before it becomes a formal problem.",
+    "call_of_question": "What are Seamus's obligations upon discovering a shortage in his trust account under By-Law 9 and the Rules of Professional Conduct?",
+    "options": {
+      "A": "Seamus may investigate the shortage quietly for up to 90 days before any reporting obligation is triggered.",
+      "B": "Seamus must immediately remedy the shortage from his personal funds and then investigate; reporting to the LSO is only required if he cannot restore the shortage within 30 days.",
+      "C": "Upon discovering a trust shortage, Seamus must take immediate steps to identify and remedy the shortage, ensure no further client funds are at risk, and report the shortage to the LSO; a trust shortage is a serious matter requiring prompt action and cannot be managed quietly for an extended period before the LSO is notified.",
+      "D": "Seamus may self-report to the LSO within 60 days of discovery; no earlier reporting is required as long as active investigation is underway."
+    },
+    "correct_answer": "C",
+    "explanation": "By-Law 9 and the LSO's requirements on trust shortages require that a lawyer who discovers a trust shortage take immediate steps to investigate, remedy the shortage, and report to the LSO. Trust funds belong to clients, not to the lawyer, and any shortage puts client interests at immediate risk. The LSO must be notified promptly — the lawyer cannot manage the situation privately while delaying notification to the regulator. A trust shortage is treated as a serious matter that may constitute professional misconduct and warrants immediate regulatory attention.",
+    "why_A_wrong": "Incorrect. A 90-day investigation period before reporting is not permissible. Trust shortages require immediate action, including prompt notification to the LSO.",
+    "why_B_wrong": "Incorrect. While remedying the shortage from personal funds is a step that should be taken, this does not replace or delay the reporting obligation to the LSO. Reporting is required regardless of whether personal funds can remedy the shortage.",
+    "why_C_wrong": "This IS the correct answer. Upon discovering a trust shortage, Seamus must take immediate steps to identify and remedy the shortage, ensure no further client funds are at risk, and report the shortage to the LSO; a trust shortage is a serious matter requiring prompt action and cannot be managed quietly for an extended period before the LSO is notified.",
+    "why_D_wrong": "Incorrect. A 60-day self-reporting window is not established under By-Law 9. Shortages must be reported promptly — not within a fixed self-selected period of investigation.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9 (trust shortage reporting obligations); Law Society Act, R.S.O. 1990, c. L.8"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — shortage in trust account — reporting obligations"
+    },
+    "exam_trigger_words": ["trust shortage", "shortage discovered", "report to LSO", "By-Law 9", "immediate action"],
+    "tested_concepts": [
+      "trust shortage — immediate remediation and LSO reporting required",
+      "cannot manage trust shortage quietly without reporting",
+      "trust shortage is serious professional responsibility matter"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-06-audit-001",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Accounts — By-Law 9",
+    "subtopic_id": "lso_audit",
+    "subtopic_heading": "Law Society Audit of Trust Accounts — Lawyer's Obligations",
+    "difficulty": "medium",
+    "fact_pattern": "The Law Society of Ontario notifies Lawyer Tamara that an inspector will attend her office to conduct a trust account audit under the Law Society Act. Tamara consults with a colleague who tells her she may refuse to allow the inspector access because the audit would interfere with solicitor-client privilege over her client files. Tamara is considering whether to allow the inspection.",
+    "call_of_question": "Is Tamara entitled to refuse the LSO inspector access to her trust account records on the basis of solicitor-client privilege?",
+    "options": {
+      "A": "Yes — solicitor-client privilege absolutely protects all files in a law office from LSO inspection.",
+      "B": "Yes — Tamara may refuse access until a court order specifically authorizing the audit is obtained.",
+      "C": "No — the Law Society Act grants LSO inspectors the authority to inspect trust accounts and financial records; while solicitor-client privilege may apply to protect the substance of client communications, it does not shield trust account records and financial books from LSO inspection; Tamara must cooperate with the audit.",
+      "D": "No — but Tamara may require the inspector to sign a confidentiality agreement before access is granted."
+    },
+    "correct_answer": "C",
+    "explanation": "The Law Society Act, R.S.O. 1990, c. L.8 grants Law Society inspectors the authority to inspect lawyers' books of account, financial records, and trust accounts as part of the LSO's regulatory oversight function. Solicitor-client privilege protects confidential communications between lawyer and client made for the purpose of legal advice — it does not protect trust account records, bank statements, ledgers, or financial books from regulatory inspection. Tamara must cooperate with the audit. Obstruction of a Law Society inspector is itself professional misconduct.",
+    "why_A_wrong": "Incorrect. Solicitor-client privilege does not shield trust account records and financial books from LSO inspection. Privilege applies to the substance of client communications, not to financial records.",
+    "why_B_wrong": "Incorrect. A court order is not required before the LSO may conduct a trust account audit. The Law Society Act grants the authority directly and a lawyer must cooperate with an authorized inspection.",
+    "why_C_wrong": "This IS the correct answer. No — the Law Society Act grants LSO inspectors the authority to inspect trust accounts and financial records; while solicitor-client privilege may apply to protect the substance of client communications, it does not shield trust account records and financial books from LSO inspection; Tamara must cooperate with the audit.",
+    "why_D_wrong": "Incorrect. An inspector conducting an authorized LSO audit is not required to sign a confidentiality agreement as a condition of access. The inspector operates under the Law Society Act, which authorizes the inspection.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8, s. 42 (inspection and audit of financial records)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — LSO audit authority; solicitor-client privilege does not shield financial records"
+    },
+    "exam_trigger_words": ["LSO audit", "inspector", "trust account inspection", "solicitor-client privilege", "Law Society Act"],
+    "tested_concepts": [
+      "Law Society Act — LSO authority to inspect trust accounts",
+      "solicitor-client privilege does not protect financial records from audit",
+      "obstruction of LSO inspector is professional misconduct"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-06-payout-001",
+    "chapter_number": 6,
+    "chapter_title": "Trust Accounting",
+    "topic_id": "trust_accounting",
+    "topic_heading": "Trust Accounts — By-Law 9",
+    "subtopic_id": "trust_payout",
+    "subtopic_heading": "Paying Out Trust Funds — Authority Required",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Ursula settles a personal injury matter for her client for $120,000. The settlement funds are deposited to trust. The client agrees verbally on the phone that Ursula may pay herself her contingency fee of $40,000 from trust and send the remaining $80,000 to the client by wire transfer. Ursula transfers the funds in accordance with the phone call without obtaining a signed direction from the client and without providing a written statement of account.",
+    "call_of_question": "Has Ursula complied with By-Law 9 requirements for paying out funds from trust?",
+    "options": {
+      "A": "Yes — a verbal direction from the client is sufficient authority for a lawyer to pay out trust funds.",
+      "B": "No — By-Law 9 requires a signed written direction from the client before disbursing trust funds; a verbal direction is insufficient; Ursula should also have rendered a written statement of account before deducting her contingency fee from trust.",
+      "C": "Yes — because the client agreed to the payment breakdown, Ursula's obligation to obtain written authorization is satisfied by the verbal agreement.",
+      "D": "No — but Ursula's only obligation was to provide a written statement of account; she did not need a separate written direction from the client."
+    },
+    "correct_answer": "B",
+    "explanation": "By-Law 9 requires that disbursements from a trust account be made only in accordance with a signed written direction from the client or another valid authorization such as a court order. A verbal direction does not satisfy this requirement. Additionally, before deducting fees from settlement trust funds, a lawyer must provide the client with a written statement of account setting out the fees and disbursements being claimed. Ursula's failure to obtain a written direction and a written account means she has not complied with By-Law 9, even if the client verbally agreed to the distribution.",
+    "why_A_wrong": "Incorrect. A verbal direction does not satisfy the requirement under By-Law 9. Written authorization from the client is required before trust funds may be paid out.",
+    "why_B_wrong": "This IS the correct answer. No — By-Law 9 requires a signed written direction from the client before disbursing trust funds; a verbal direction is insufficient; Ursula should also have rendered a written statement of account before deducting her contingency fee from trust.",
+    "why_C_wrong": "Incorrect. Verbal agreement, however genuine, does not substitute for the written direction required under By-Law 9. The written requirement is a formal safeguard, not merely a default position.",
+    "why_D_wrong": "Incorrect. Both the written direction and the written statement of account are required before trust funds may be disbursed. The written direction is not optional simply because a written account is also required.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 6",
+      "heading": "Trust Accounting",
+      "page": "N/A",
+      "rule_or_statute_reference": "LSO By-Law 9, s. 9 (paying out trust funds — written direction required)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "trust accounting — paying out trust funds requires written direction"
+    },
+    "exam_trigger_words": ["payout from trust", "verbal direction", "written direction", "By-Law 9", "statement of account"],
+    "tested_concepts": [
+      "By-Law 9 — written direction required for trust payout",
+      "verbal direction is insufficient authority for trust disbursement",
+      "written statement of account required before deducting fees from trust"
+    ],
+    "estimated_time_seconds": 90
   }
 ]

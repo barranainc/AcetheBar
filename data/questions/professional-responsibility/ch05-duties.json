@@ -273,5 +273,201 @@
       "long relationship does not eliminate conflict"
     ],
     "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-05-fee-agree-001",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fee Agreements — Rule 3.6-1 and By-Law 9",
+    "subtopic_id": "fee_agreement_requirements",
+    "subtopic_heading": "Fee Agreement Requirements — Written Confirmation",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Hamid is retained by a new client to handle a will challenge. Hamid discusses his billing rate orally at the first meeting and both parties verbally agree. Hamid begins work immediately without providing any written retainer letter or confirming the fee arrangement in writing. After six months of work, the client disputes the fee, claiming she understood she would be charged far less than Hamid's hourly rate.",
+    "call_of_question": "What is the best practice regarding fee agreements under the LSO Rules of Professional Conduct, and does the absence of a written fee agreement give rise to professional concerns?",
+    "options": {
+      "A": "Oral fee agreements are always valid and enforceable — writing is never required for fee agreements under the Rules of Professional Conduct.",
+      "B": "The absence of a written fee agreement in a non-contingency matter does not give rise to any professional concern; disputes are simply resolved by the client's recollection.",
+      "C": "Rule 3.6-1 and the Commentary require that a lawyer promptly confirm fee arrangements in writing at the outset of the retainer; the absence of a written fee agreement is a best practice failure that creates risk of misunderstanding and may be raised in professional conduct proceedings, particularly when the dispute turns on what was agreed.",
+      "D": "Written fee agreements are only required for contingency fee arrangements and real estate transactions; all other matters may proceed on oral agreement."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.6-1 of the LSO Rules of Professional Conduct requires that fees be fair and reasonable, and the Commentary strongly recommends — and in some circumstances effectively requires — that fee arrangements be confirmed in writing at the outset. A written fee agreement protects both the client and the lawyer by ensuring there is no misunderstanding about the basis and rate of billing. The failure to confirm the fee arrangement in writing when a later dispute arises may be raised in professional conduct proceedings and will likely leave the dispute to be resolved against the lawyer where the client's understanding is plausible.",
+    "why_A_wrong": "Incorrect. While oral fee agreements may be legally valid, the Rules and Commentary contemplate written confirmation as the required best practice, particularly at the outset of a retainer.",
+    "why_B_wrong": "Incorrect. The absence of a written fee agreement is not a neutral matter — it creates significant professional risk when a dispute arises and may support a professional conduct complaint.",
+    "why_C_wrong": "This IS the correct answer. Rule 3.6-1 and the Commentary require that a lawyer promptly confirm fee arrangements in writing at the outset of the retainer; the absence of a written fee agreement is a best practice failure that creates risk of misunderstanding and may be raised in professional conduct proceedings, particularly when the dispute turns on what was agreed.",
+    "why_D_wrong": "Incorrect. Written fee agreements are not limited to contingency fee and real estate matters. The Commentary to Rule 3.6-1 recommends written confirmation of fee arrangements at the outset of every retainer.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.6-1 (fee agreements — written confirmation)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "fee agreement — written confirmation requirement"
+    },
+    "exam_trigger_words": ["fee agreement", "written retainer", "oral agreement", "fee confirmation", "Rule 3.6-1"],
+    "tested_concepts": [
+      "Rule 3.6-1 — fee arrangements should be confirmed in writing",
+      "absence of written fee agreement creates professional risk",
+      "written confirmation required at outset of retainer"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-05-ref-fee-001",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fees and Disbursements — Rule 3.6",
+    "subtopic_id": "referral_fees",
+    "subtopic_heading": "Referral Fees — Permitted Conditions — Rule 3.6-7",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Iona refers a client with a personal injury claim to Lawyer Preston, a personal injury specialist. Iona has no expertise in personal injury law. Preston agrees to pay Iona 10% of his fee if the matter settles, without telling the client that a referral fee will be paid. The client signs a retainer agreement with Preston only.",
+    "call_of_question": "Is this referral fee arrangement permissible under Rule 3.6-7 of the Rules of Professional Conduct?",
+    "options": {
+      "A": "Yes — referral fees are a standard commercial arrangement between lawyers and require only that the referring lawyer be paid for the referral.",
+      "B": "No — referral fees are entirely prohibited under the Rules of Professional Conduct in Ontario.",
+      "C": "No — while referral fees are permitted under Rule 3.6-7 in certain circumstances, the arrangement is deficient because the client has not been informed of the referral fee and has not consented to it; disclosure to the client and client consent are mandatory conditions for a permissible referral fee.",
+      "D": "Yes — referral fees may be paid between lawyers without disclosure to the client as long as the total fees charged to the client are fair and reasonable."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.6-7 of the LSO Rules of Professional Conduct permits referral fees between lawyers, but only if: (1) the client is informed of the referral fee and consents; (2) the fee is not paid to a non-licensee; and (3) the total fees charged to the client remain fair and reasonable. Non-disclosure to the client is fatal to the arrangement. A referral fee paid secretly between lawyers, even if the overall fee is reasonable, constitutes a breach of Rule 3.6-7 and potentially a breach of the duty of candour to the client.",
+    "why_A_wrong": "Incorrect. Referral fees are not a matter of simple commercial arrangement. Rule 3.6-7 requires mandatory client disclosure and consent before any referral fee may be paid.",
+    "why_B_wrong": "Incorrect. Referral fees are not entirely prohibited under the Rules. They are permitted in specific circumstances, provided the mandatory requirements — including client disclosure and consent — are met.",
+    "why_C_wrong": "This IS the correct answer. No — while referral fees are permitted under Rule 3.6-7 in certain circumstances, the arrangement is deficient because the client has not been informed of the referral fee and has not consented to it; disclosure to the client and client consent are mandatory conditions for a permissible referral fee.",
+    "why_D_wrong": "Incorrect. The fairness of the overall fee does not cure the failure to disclose the referral fee to the client. Client disclosure and consent are independent mandatory conditions under Rule 3.6-7.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.6-7 (referral fees)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "referral fees — client disclosure and consent required"
+    },
+    "exam_trigger_words": ["referral fee", "client disclosure", "client consent", "Rule 3.6-7", "non-disclosure referral"],
+    "tested_concepts": [
+      "Rule 3.6-7 — referral fees permitted with client disclosure and consent",
+      "non-disclosure of referral fee to client is breach of Rule 3.6-7",
+      "referral fees not categorically prohibited in Ontario"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-05-split-001",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Fees and Disbursements — Rule 3.6",
+    "subtopic_id": "fee_splitting",
+    "subtopic_heading": "Fee Splitting Between Lawyers in Different Firms",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Marcus, a sole practitioner, agrees with Lawyer Priya at a different firm to split the legal fees from a client matter equally — 50% each — on the basis that both lawyers worked on different aspects of the same client file. The client has not been informed of this arrangement. The client's total fee is fair and reasonable. Priya argues that the fee split is acceptable because the work was genuinely divided.",
+    "call_of_question": "Is this fee-splitting arrangement between Marcus and Priya permissible under the Rules of Professional Conduct without client disclosure?",
+    "options": {
+      "A": "Yes — fee splitting between lawyers who genuinely divide work is always permissible, regardless of client disclosure.",
+      "B": "No — fee splitting between lawyers in different firms requires that the client be informed of and consent to the arrangement; the division of fees must not be concealed from the client even if the work was genuinely divided and the total fee is fair.",
+      "C": "Yes — as long as the total fee charged to the client is fair and reasonable, the internal distribution of that fee between lawyers is a private matter requiring no disclosure.",
+      "D": "No — fee splitting between lawyers in different firms is categorically prohibited under the Rules of Professional Conduct, regardless of client consent."
+    },
+    "correct_answer": "B",
+    "explanation": "The LSO Rules of Professional Conduct and By-Law 9 require transparency in fee arrangements. Fee splitting between lawyers in different firms — as distinct from within the same firm — requires that the client be informed of the arrangement. The client is entitled to know who is receiving fees for their matter and on what basis the fees are divided. Non-disclosure of the fee-splitting arrangement, even if the work was genuinely divided and the total fee is reasonable, is a breach of the transparency and candour obligations.",
+    "why_A_wrong": "Incorrect. Genuine division of work does not excuse the requirement to disclose fee-splitting arrangements to the client when lawyers at different firms are involved.",
+    "why_B_wrong": "This IS the correct answer. No — fee splitting between lawyers in different firms requires that the client be informed of and consent to the arrangement; the division of fees must not be concealed from the client even if the work was genuinely divided and the total fee is fair.",
+    "why_C_wrong": "Incorrect. The distribution of fees between lawyers in different firms is not a purely internal matter — the client has a right to know who is being paid from their retainer and on what basis.",
+    "why_D_wrong": "Incorrect. Fee splitting between lawyers in different firms is not categorically prohibited — it is permissible provided the client is informed and consents, and the total fee remains fair and reasonable.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.6-6 (fee splitting — transparency)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "fee splitting — client disclosure requirement"
+    },
+    "exam_trigger_words": ["fee splitting", "different firms", "client disclosure", "division of fees", "Rule 3.6-6"],
+    "tested_concepts": [
+      "Rule 3.6-6 — fee splitting between lawyers in different firms requires client disclosure",
+      "transparency in fee arrangements is a professional obligation",
+      "fair total fee does not excuse non-disclosure of fee split"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-05-lien-001",
+    "chapter_number": 5,
+    "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
+    "topic_id": "fees_billing",
+    "topic_heading": "Financial Dealings with Clients — Liens",
+    "subtopic_id": "solicitor_lien",
+    "subtopic_heading": "Solicitor's Lien Over Client Files and Property",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Dora has been representing a client in a custody and access dispute for 14 months. The client owes Dora $18,000 in unpaid fees. The client terminates the retainer and asks Dora to immediately transfer the entire file — including all original documents, court filings, correspondence, and expert reports — to new counsel. Dora refuses to transfer anything until she is paid in full. A hearing in the custody matter is scheduled for the following week.",
+    "call_of_question": "Is Dora entitled to exercise a solicitor's lien over the entire file including original documents to secure payment of her fees while a custody hearing is imminent?",
+    "options": {
+      "A": "Yes — a solicitor's lien over the entire file is an absolute right that is not affected by the circumstances of the ongoing proceeding.",
+      "B": "No — lawyers have no lien rights over client files under any circumstances; all files must be returned immediately on request.",
+      "C": "Dora may have a solicitor's lien over some property in the file, but the exercise of that lien must be balanced against her obligation on withdrawal not to prejudice the client's legal position; with a custody hearing imminent, withholding essential litigation documents may constitute professional misconduct — Dora should transfer the file to permit the hearing to proceed and pursue her fees through proper channels.",
+      "D": "Yes — Dora may withhold the file for up to 30 days while pursuing payment, after which she must release it regardless of whether fees are paid."
+    },
+    "correct_answer": "C",
+    "explanation": "A solicitor's lien is a recognized right at common law in Ontario, but it is not absolute. The LSO Rules of Professional Conduct impose an obligation on a withdrawing lawyer not to exercise the lien in a way that prejudices the client's legal position or causes harm to the client's ongoing legal interests. Where a hearing is imminent in a sensitive family law matter, withholding essential court documents would prejudice the client significantly — potentially causing irreparable harm to custody proceedings. Dora must transfer the file to enable the hearing and pursue unpaid fees through the Solicitors Act assessment process or civil action.",
+    "why_A_wrong": "Incorrect. The solicitor's lien is not an absolute right. It is constrained by the lawyer's obligation not to use it in a way that prejudices the client's ongoing legal position.",
+    "why_B_wrong": "Incorrect. Lawyers do have lien rights over client files under some circumstances. The issue is how those rights may appropriately be exercised without prejudicing the client.",
+    "why_C_wrong": "This IS the correct answer. Dora may have a solicitor's lien over some property in the file, but the exercise of that lien must be balanced against her obligation on withdrawal not to prejudice the client's legal position; with a custody hearing imminent, withholding essential litigation documents may constitute professional misconduct — Dora should transfer the file to permit the hearing to proceed and pursue her fees through proper channels.",
+    "why_D_wrong": "Incorrect. There is no 30-day rule for solicitor's liens. The timing of when the file must be released depends on the circumstances, particularly whether withholding is causing prejudice to the client's ongoing legal interests.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 5",
+      "heading": "Fees, Billing, and Financial Dealings with Clients",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.7-9 (solicitor's lien — limitation by duty not to prejudice client)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "solicitor's lien — limitations when imminent hearing"
+    },
+    "exam_trigger_words": ["solicitor's lien", "unpaid fees", "file withholding", "imminent hearing", "prejudice client"],
+    "tested_concepts": [
+      "solicitor's lien is not absolute — constrained by duty not to prejudice client",
+      "Rule 3.7-9 — withdrawal obligations limit exercise of lien",
+      "must transfer file when withholding causes prejudice to client's legal position"
+    ],
+    "estimated_time_seconds": 150
   }
 ]

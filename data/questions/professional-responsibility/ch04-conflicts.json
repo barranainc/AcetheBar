@@ -755,5 +755,250 @@
       "client vulnerability and power imbalance"
     ],
     "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-04-biz-txn-001",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "business_transaction_client",
+    "subtopic_heading": "Business Transactions with Client — Rule 3.4-24 to 3.4-28",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Cassie is a corporate solicitor. Her client, a small manufacturing company, is selling a piece of industrial equipment. Cassie is personally interested in purchasing the equipment for her own business venture. She discusses this informally with the client, who says 'sure, that's fine.' No written disclosure is made, the purchase price is not reviewed against fair market value, and the client does not receive any advice about whether the sale to Cassie is appropriate. Cassie purchases the equipment at a price she considers fair.",
+    "call_of_question": "What obligations did Cassie have under the Rules of Professional Conduct before entering into this business transaction with her client?",
+    "options": {
+      "A": "Cassie had no special obligation — business transactions between lawyers and clients are like any other commercial deal.",
+      "B": "Cassie was required to disclose her personal interest in the transaction in writing, ensure the transaction terms were fair and reasonable to the client, strongly advise the client in writing to seek independent legal advice, and give the client a reasonable opportunity to act on that advice before proceeding.",
+      "C": "Cassie's only obligation was to disclose her personal interest orally to the client, which she satisfied by the informal discussion.",
+      "D": "Cassie's purchase is permissible because she is not acting as the client's lawyer in the transaction — she is acting as a buyer, which removes the professional obligation."
+    },
+    "correct_answer": "B",
+    "explanation": "The Commentary to Rule 3.4 and the LSO's guidance on conflicts in business transactions with clients establishes that a lawyer who enters into a business transaction with a client has heightened obligations. These include: making written disclosure of the personal interest, ensuring the transaction is fair and reasonable to the client, and strongly advising the client in writing to seek independent legal advice, giving the client reasonable time to obtain it. An informal oral 'that's fine' does not satisfy these requirements. The power imbalance between lawyer and client, and the risk of exploitation, require formal protections.",
+    "why_A_wrong": "Incorrect. Business transactions between lawyers and current clients engage the own-interest conflict provisions and require specific formal protective steps that go beyond ordinary commercial dealings.",
+    "why_B_wrong": "This IS the correct answer. Cassie was required to disclose her personal interest in the transaction in writing, ensure the transaction terms were fair and reasonable to the client, strongly advise the client in writing to seek independent legal advice, and give the client a reasonable opportunity to act on that advice before proceeding.",
+    "why_C_wrong": "Incorrect. Oral disclosure is insufficient. The Rules require written disclosure and the formal recommendation of independent legal advice to protect the client from exploitation of the trust relationship.",
+    "why_D_wrong": "Incorrect. The professional obligations attach because Cassie is a lawyer dealing with her client, regardless of the role she nominally plays in the transaction. The relationship of trust is what triggers the obligations.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-24 to 3.4-28 (business transactions with clients)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict of interest — business transaction with client"
+    },
+    "exam_trigger_words": ["business transaction", "client", "personal interest", "written disclosure", "independent legal advice", "Rule 3.4-24"],
+    "tested_concepts": [
+      "Rule 3.4-24 — business transaction with client requires written disclosure",
+      "independent legal advice required for client",
+      "fair and reasonable transaction terms required"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-04-estate-001",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "estate_planning_conflict",
+    "subtopic_heading": "Conflicts in Estate Planning — Testator, Beneficiary, and Executor",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Deanna has represented an elderly client in various matters for 15 years. The client now asks Deanna to prepare a new will. Under the proposed will, the client's entire estate will pass to her son, Marcus, who is also a longstanding client of Deanna's at the same firm. Marcus has asked Deanna to ensure his mother's will is completed quickly and has been actively involved in the meetings with his mother about the will's terms. Deanna proceeds to draft the will without taking any additional steps.",
+    "call_of_question": "What conflict concern arises in this estate planning situation and what should Deanna have done?",
+    "options": {
+      "A": "No conflict arises — estate planning work is collaborative and it is normal for beneficiaries to assist elderly testators in instructing lawyers.",
+      "B": "A potential conflict and undue influence concern arises because Deanna acts for both the testator and the primary beneficiary; Deanna should have met with the testator alone to take instructions independently, ensured the testator's wishes were entirely voluntary and free from Marcus's influence, and considered whether she could act for both without a conflict.",
+      "C": "The conflict is resolved because Deanna has a longstanding relationship with the testator and knows the testator's general wishes.",
+      "D": "Deanna may proceed without restriction because estate planning matters are exempt from the conflict rules under Rule 3.4 as the testator's interests are paramount."
+    },
+    "correct_answer": "B",
+    "explanation": "Estate planning raises acute own-interest and concurrent conflict concerns when the lawyer acts for both the testator and a principal beneficiary who is also a client. The risk of undue influence — that the beneficiary may improperly influence the testator's instructions — is a recognized concern in estate law and professional responsibility. Deanna should have met alone with the testator to take independent instructions, assessed whether the testator's expressed wishes were truly voluntary, and carefully evaluated whether acting for both was permissible under Rule 3.4. Allowing Marcus to be actively involved in meetings about his own mother's will is a significant failure of independent professional judgment.",
+    "why_A_wrong": "Incorrect. While beneficiaries may legitimately assist elderly testators in connecting with lawyers, active involvement in meetings about the will's terms raises acute undue influence concerns that a competent lawyer must address.",
+    "why_B_wrong": "This IS the correct answer. A potential conflict and undue influence concern arises because Deanna acts for both the testator and the primary beneficiary; Deanna should have met with the testator alone to take instructions independently, ensured the testator's wishes were entirely voluntary and free from Marcus's influence, and considered whether she could act for both without a conflict.",
+    "why_C_wrong": "Incorrect. A longstanding relationship with the testator does not resolve the conflict — it may in fact mask the influence the primary beneficiary is exerting. Independent instructions must be taken regardless of the length of the relationship.",
+    "why_D_wrong": "Incorrect. There is no estate planning exemption from the conflict rules under Rule 3.4. The conflict analysis applies with particular force in estate matters given the vulnerability of testators and the power of beneficiaries.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-1 (conflict — estate planning; testator and beneficiary)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict of interest — estate planning — testator and beneficiary"
+    },
+    "exam_trigger_words": ["estate planning", "will", "testator", "beneficiary", "undue influence", "independent instructions"],
+    "tested_concepts": [
+      "Rule 3.4-1 — conflict in estate planning when acting for testator and beneficiary",
+      "undue influence risk when beneficiary attends will instructions",
+      "lawyer must take independent instructions from testator alone"
+    ],
+    "estimated_time_seconds": 180
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-04-wit-001",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "lawyer_as_witness_conflict",
+    "subtopic_heading": "Lawyer as Witness — When Must Lawyer Withdraw — Rule 3.4-7",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Ezra is lead trial counsel for the plaintiff in a personal injury action. During pre-trial preparation, he realizes he personally witnessed the accident that forms the basis of the claim — he happened to be driving by and saw the collision. He is the only independent witness to the specific sequence of events. His client wants him to testify as a witness and remain as trial counsel. Ezra believes he can manage both roles professionally.",
+    "call_of_question": "What must Ezra do under Rule 3.4-7 of the Rules of Professional Conduct?",
+    "options": {
+      "A": "Ezra may act as both trial counsel and a witness if his client provides written informed consent to the dual role.",
+      "B": "Ezra must withdraw as trial counsel if he is to testify as a witness at trial; Rule 3.4-7 provides that a lawyer must not act as advocate and witness in the same proceeding, except in limited circumstances such as testimony on uncontested matters; testifying on the key facts of the accident makes Ezra a material witness and triggers the withdrawal requirement.",
+      "C": "Ezra may remain as trial counsel and also testify as a witness, provided he testifies at the beginning of the trial before beginning his role as advocate.",
+      "D": "Ezra may remain as counsel and testify only if he offers to step aside from cross-examination of opposing witnesses to avoid the appearance of partiality."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.4-7 of the LSO Rules of Professional Conduct provides that a lawyer must not act as advocate in a proceeding in which the lawyer is likely to be called as a witness, unless certain narrow exceptions apply — such as when the evidence is uncontested or when withdrawal would work substantial hardship on the client. Testifying on the contested sequence of events in a personal injury accident is material, contested testimony that squarely engages the prohibition. Client consent does not override Rule 3.4-7 because the rule protects the administration of justice, not merely the client's interests.",
+    "why_A_wrong": "Incorrect. Client consent does not cure the Rule 3.4-7 prohibition. The rule protects the integrity of the proceeding, not only the client — it cannot be waived by client consent alone.",
+    "why_B_wrong": "This IS the correct answer. Ezra must withdraw as trial counsel if he is to testify as a witness at trial; Rule 3.4-7 provides that a lawyer must not act as advocate and witness in the same proceeding, except in limited circumstances such as testimony on uncontested matters; testifying on the key facts of the accident makes Ezra a material witness and triggers the withdrawal requirement.",
+    "why_C_wrong": "Incorrect. The sequence of testimony does not resolve the conflict. Rule 3.4-7 prohibits the combination of roles regardless of when the testimony is given.",
+    "why_D_wrong": "Incorrect. Partial step-aside arrangements do not satisfy Rule 3.4-7. Once the lawyer is a material witness, full withdrawal from the advocacy role is required.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-7 (lawyer as witness)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict — lawyer as witness and advocate in same proceeding"
+    },
+    "exam_trigger_words": ["lawyer as witness", "trial counsel", "Rule 3.4-7", "advocate and witness", "material witness"],
+    "tested_concepts": [
+      "Rule 3.4-7 — lawyer cannot be advocate and witness in same proceeding",
+      "client consent does not override Rule 3.4-7",
+      "exception for uncontested matters only"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-04-mult-def-001",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "multiple_defendants",
+    "subtopic_heading": "Acting for Multiple Co-Defendants — When Joint Retainer Permissible",
+    "difficulty": "hard",
+    "fact_pattern": "Three co-accused are charged with conspiracy to commit fraud. All three deny involvement and maintain a common position that the alleged scheme was the work of a fourth party. They ask Lawyer Frieda to represent all three of them. Frieda conducts a conflict analysis and concludes that, since all three co-accused have an identical defence theory, no conflict arises.",
+    "call_of_question": "Is Frieda's conclusion that no conflict arises from the identical defence theory sound, and may she accept the joint retainer?",
+    "options": {
+      "A": "Yes — co-accused with identical defence theories have perfectly aligned interests and a joint retainer is straightforwardly permissible.",
+      "B": "Frieda's analysis is superficial; while co-accused may currently share a common defence, the substantial risk that their positions could diverge — for example if one decides to enter a guilty plea, cooperate with the Crown, or assert a defence that implicates the others — means a careful conflict analysis is required before accepting the joint retainer, and each accused must receive independent advice about whether joint representation is in their individual interest.",
+      "C": "Frieda must refuse all three retainers — a lawyer can never represent two or more co-accused in a criminal matter under any circumstances.",
+      "D": "Frieda may accept the joint retainer for all three because criminal defence lawyers are exempt from the joint retainer disclosure requirements of Rule 3.4-5."
+    },
+    "correct_answer": "B",
+    "explanation": "Acting for multiple co-accused is permissible in narrow circumstances where their interests are truly aligned and the risk of divergence is assessed to be low. However, an identical current defence theory does not guarantee that positions will remain aligned — one accused may decide to plead guilty, cooperate with the Crown, or blame the others. Before accepting a joint retainer for co-accused, Rule 3.4-5 requires the full set of joint retainer disclosures, and Rule 3.4-1 requires a genuine assessment of the substantial risk of conflict. Each co-accused is entitled to independent advice about whether a joint retainer is in their individual interest.",
+    "why_A_wrong": "Incorrect. Identical current defence theories do not guarantee long-term alignment of interests. Co-accused can and frequently do develop diverging interests, particularly as Crown negotiations and trial strategy unfold.",
+    "why_B_wrong": "This IS the correct answer. Frieda's analysis is superficial; while co-accused may currently share a common defence, the substantial risk that their positions could diverge — for example if one decides to enter a guilty plea, cooperate with the Crown, or assert a defence that implicates the others — means a careful conflict analysis is required before accepting the joint retainer, and each accused must receive independent advice about whether joint representation is in their individual interest.",
+    "why_C_wrong": "Incorrect. Joint representation of co-accused in criminal matters is not categorically prohibited. It may be permissible where the conflict risk is assessed as genuinely low after full disclosure and informed consent.",
+    "why_D_wrong": "Incorrect. Criminal defence lawyers are subject to the full requirements of Rule 3.4-5 regarding joint retainers. There is no criminal law exemption from the joint retainer disclosure obligations.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rules 3.4-1, 3.4-5 (multiple co-accused — joint retainer)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict of interest — multiple co-accused joint retainer"
+    },
+    "exam_trigger_words": ["co-accused", "multiple defendants", "joint retainer criminal", "identical defence", "diverging interests"],
+    "tested_concepts": [
+      "Rule 3.4-1 — substantial risk test for co-accused",
+      "identical current position does not guarantee future alignment",
+      "Rule 3.4-5 disclosures required for co-accused joint retainer"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-04-ila-001",
+    "chapter_number": 4,
+    "chapter_title": "Conflicts of Interest",
+    "topic_id": "conflicts_of_interest",
+    "topic_heading": "Conflicts of Interest — Rule 3.4",
+    "subtopic_id": "independent_legal_advice",
+    "subtopic_heading": "Conflicts and Independent Legal Advice — Function and Adequacy",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Gianna acted for both a lender and borrower in documenting a personal loan between family members. Before proceeding she provided full Rule 3.4-5 disclosures to both clients. She then recommended that both clients seek independent legal advice. The borrower, an elderly parent, was told by Gianna: 'You can get another lawyer to look at this if you want, but it's a simple document.' The parent did not seek other advice. The parent later claims the loan terms were unfair and that Gianna pressured them into signing.",
+    "call_of_question": "Was Gianna's recommendation of independent legal advice adequate under Rule 3.4-5?",
+    "options": {
+      "A": "Yes — Gianna recommended independent legal advice and it was the client's choice not to obtain it; the lawyer's obligation ends with the recommendation.",
+      "B": "No — the recommendation of independent legal advice under Rule 3.4-5 must be genuine and unequivocal; qualifying the recommendation with 'if you want' and characterizing the agreement as 'simple' may have discouraged the client from actually obtaining advice, undermining the purpose of the requirement.",
+      "C": "Yes — because both parties received the Rule 3.4-5 disclosures, the independent legal advice recommendation is merely aspirational.",
+      "D": "No — Rule 3.4-5 requires that the client actually obtain independent legal advice before the joint retainer may proceed; the client's failure to obtain advice means the joint retainer was impermissible."
+    },
+    "correct_answer": "B",
+    "explanation": "The requirement to recommend independent legal advice under Rule 3.4-5 must be a genuine, substantive recommendation — not a perfunctory mention undermined by language that discourages uptake. Telling a client 'you can get another lawyer if you want' while simultaneously characterizing the document as 'simple' effectively signals that obtaining advice is unnecessary, defeating the protective purpose of the requirement. The purpose of the independent legal advice recommendation is to ensure the client understands the nature and risks of the arrangement from an independent perspective. Gianna's approach failed to achieve that purpose.",
+    "why_A_wrong": "Incorrect. The lawyer's obligation is not merely to mention independent legal advice — it is to make a genuine recommendation in a way that gives the client a meaningful opportunity to act on it. A recommendation undermined by minimizing language does not satisfy the requirement.",
+    "why_B_wrong": "This IS the correct answer. No — the recommendation of independent legal advice under Rule 3.4-5 must be genuine and unequivocal; qualifying the recommendation with 'if you want' and characterizing the agreement as 'simple' may have discouraged the client from actually obtaining advice, undermining the purpose of the requirement.",
+    "why_C_wrong": "Incorrect. The Rule 3.4-5 disclosure and the recommendation of independent legal advice are separate, substantive obligations — the disclosure does not render the ILA recommendation optional.",
+    "why_D_wrong": "Incorrect. Rule 3.4-5 requires the lawyer to recommend independent legal advice and give the client a reasonable opportunity to obtain it — but it does not require that the client actually obtain it as a condition of proceeding. The obligation is on the recommendation, not the outcome.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 4",
+      "heading": "Conflicts of Interest",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-5 (independent legal advice — genuine recommendation)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "conflict — inadequate independent legal advice recommendation"
+    },
+    "exam_trigger_words": ["independent legal advice", "genuine recommendation", "Rule 3.4-5", "discouraged", "adequacy of advice"],
+    "tested_concepts": [
+      "Rule 3.4-5 — ILA recommendation must be genuine and unequivocal",
+      "minimizing language undermines the ILA requirement",
+      "obligation is on quality of recommendation not whether client obtains advice"
+    ],
+    "estimated_time_seconds": 120
   }
 ]

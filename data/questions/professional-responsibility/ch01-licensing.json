@@ -219,5 +219,152 @@
       "obligations not automatically suspended by leave of absence"
     ],
     "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-01-class-lic-001",
+    "chapter_number": 1,
+    "chapter_title": "Licensing and Regulation of the Legal Profession",
+    "topic_id": "lso_licensing",
+    "topic_heading": "Classes of Licence — Law Society Act",
+    "subtopic_id": "classes_of_licence",
+    "subtopic_heading": "Classes of Licence — Barrister, Solicitor, Paralegal",
+    "difficulty": "medium",
+    "fact_pattern": "Chen has just been called to the bar in Ontario and holds a licence as a barrister and solicitor. A client asks Chen to represent her before a Small Claims Court matter involving a $12,000 debt, to prepare a will for her, and to defend her on a summary conviction offence. Chen wonders whether all three services fall within his licence.",
+    "call_of_question": "Which of the following best describes the scope of work that Chen's barrister and solicitor licence authorizes him to perform in Ontario?",
+    "options": {
+      "A": "Chen may only perform the services listed on his call-to-the-bar certificate; any services not specifically listed require a separate endorsement from the LSO.",
+      "B": "Chen's barrister and solicitor licence authorizes him to provide legal services across the full spectrum of Ontario law, including litigation in Small Claims Court, estate planning such as preparing wills, and criminal defence work; all three requested services fall within the scope of the licence.",
+      "C": "Chen may perform civil litigation and estate planning work, but criminal defence work requires a separate criminal law endorsement from the LSO.",
+      "D": "Chen may perform all three tasks only if he has practised law for at least two years after his call to the bar — newly called lawyers are restricted to supervised work only."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Law Society Act, R.S.O. 1990, c. L.8, a barrister and solicitor licence authorizes the holder to practise law across the full range of legal services in Ontario, including civil litigation, estate matters, and criminal defence. There is no separate endorsement or specialty licence required for different areas of law under the barrister and solicitor licence. All three services Chen has been asked to provide fall squarely within the scope of his licence.",
+    "why_A_wrong": "Incorrect. The barrister and solicitor licence is a general licence to practise law in Ontario. It is not limited to services listed on a call-to-the-bar certificate. No area-specific endorsements are required.",
+    "why_B_wrong": "This IS the correct answer. Chen's barrister and solicitor licence authorizes him to provide legal services across the full spectrum of Ontario law, including litigation in Small Claims Court, estate planning such as preparing wills, and criminal defence work; all three requested services fall within the scope of the licence.",
+    "why_C_wrong": "Incorrect. Criminal defence work does not require a separate criminal law endorsement for a licensed barrister and solicitor. The licence covers all areas of legal practice.",
+    "why_D_wrong": "Incorrect. There is no experience requirement before a newly called lawyer may provide any category of legal services independently. New lawyers are licensed to practise and bear full professional responsibility from the date of their call.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 1",
+      "heading": "Licensing and Regulation of the Legal Profession",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8, s. 26 (licence to practise law)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "licensing — classes of licence and scope of practice"
+    },
+    "exam_trigger_words": ["barrister and solicitor", "class of licence", "scope", "authorized services"],
+    "tested_concepts": [
+      "barrister and solicitor licence — full scope of legal services",
+      "no area-specific endorsements required under LSO licensing",
+      "Law Society Act licence to practise law"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-01-cpd-001",
+    "chapter_number": 1,
+    "chapter_title": "Licensing and Regulation of the Legal Profession",
+    "topic_id": "lso_licensing",
+    "topic_heading": "Annual Obligations — Continuing Professional Development",
+    "subtopic_id": "cpd_requirements",
+    "subtopic_heading": "CPD Requirements — Mandatory Professionalism Hours",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Ingrid completed 12 hours of accredited continuing professional development (CPD) during the past year, all of which consisted of substantive law programs in commercial litigation. When she submits her annual report, the LSO notifies her that she has not met the full CPD requirement for the year. Ingrid is surprised — she is certain she completed more than the minimum total hours required.",
+    "call_of_question": "Which of the following most likely explains why Ingrid has not met the LSO's CPD requirements despite completing 12 hours of substantive law programs?",
+    "options": {
+      "A": "Ingrid's hours are insufficient because the LSO requires a minimum of 15 total CPD hours per year for all practising lawyers.",
+      "B": "Ingrid's hours may be insufficient because the LSO's CPD requirements include not only a total hour requirement but also a mandatory minimum number of hours specifically in professionalism content; completing only substantive law programs may leave the professionalism requirement unsatisfied.",
+      "C": "Ingrid is incorrect — 12 hours of accredited CPD in substantive law fully satisfies all LSO annual CPD requirements regardless of content.",
+      "D": "Ingrid's hours are not credited because commercial litigation programs are not accredited by the LSO for CPD purposes."
+    },
+    "correct_answer": "B",
+    "explanation": "The LSO's CPD requirements include both a total annual hour requirement and a mandatory requirement that a specified minimum number of those hours be in 'professionalism' content — topics related to ethics, practice management, client relationships, and professional obligations. Completing only substantive law programs, however numerous, will not satisfy the professionalism component of the CPD requirement. Ingrid must ensure she completes the required professionalism hours in addition to substantive law programs.",
+    "why_A_wrong": "Incorrect. The total hour requirement is not the sole explanation. More critically, the LSO requires that a portion of CPD hours be in professionalism content, which Ingrid has not addressed.",
+    "why_B_wrong": "This IS the correct answer. Ingrid's hours may be insufficient because the LSO's CPD requirements include not only a total hour requirement but also a mandatory minimum number of hours specifically in professionalism content; completing only substantive law programs may leave the professionalism requirement unsatisfied.",
+    "why_C_wrong": "Incorrect. Completing only substantive law programs does not fully satisfy all LSO CPD requirements. The professionalism component must also be met.",
+    "why_D_wrong": "Incorrect. Commercial litigation programs are accredited by the LSO for CPD purposes. The deficiency is in the content mix, not in the subject matter of the programs attended.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 1",
+      "heading": "Licensing and Regulation of the Legal Profession",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8; LSO Continuing Professional Development requirements — professionalism hours"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "CPD — professionalism hours requirement"
+    },
+    "exam_trigger_words": ["CPD", "professionalism hours", "substantive law", "annual requirement"],
+    "tested_concepts": [
+      "LSO CPD — professionalism component is separate requirement",
+      "substantive law hours alone do not satisfy full CPD obligation",
+      "annual CPD has both total and content-type requirements"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-01-mgmt-001",
+    "chapter_number": 1,
+    "chapter_title": "Licensing and Regulation of the Legal Profession",
+    "topic_id": "lso_licensing",
+    "topic_heading": "Practice Management — File Management and Limitation Periods",
+    "subtopic_id": "practice_management",
+    "subtopic_heading": "Practice Management — Tickler Systems and File Management",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Sole practitioner Marcus relies on his memory and a paper calendar to track limitation periods and court deadlines across his busy 120-file practice areas spanning litigation, real estate, and wills. He has never used a tickler system. A client's two-year limitation period for a slip and fall claim expires without Marcus filing the statement of claim, because he forgot to record the date when intake occurred. Marcus argues that no rule specifically requires him to use a tickler system.",
+    "call_of_question": "Is Marcus's argument that no specific rule requires use of a tickler system a complete answer to his professional responsibility exposure?",
+    "options": {
+      "A": "Yes — no LSO rule specifically mandates use of any particular file management system; Marcus's reliance on memory and a paper calendar is a matter of personal practice preference.",
+      "B": "Yes — Marcus is only exposed to civil liability to the client for the missed deadline; no professional responsibility consequences arise from the choice of file management system.",
+      "C": "No — while no rule mandates a specific system, the competence obligation under Rule 3.1-2 requires a lawyer to have adequate systems in place to manage files, track limitation periods, and meet deadlines; relying on memory alone across a 120-file practice is a breach of the competence standard because it is not an adequate system for a practice of that size.",
+      "D": "No — but only if this is a second or subsequent limitation period missed; a first-time missed deadline does not constitute a breach of the competence obligation."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.1-2 of the LSO Rules of Professional Conduct imposes a competence obligation that includes managing one's practice with appropriate systems. The Commentary to Rule 3.1-2 and LSO practice management guidance recognizes that maintaining a reliable docketing and reminder system for limitation periods and deadlines is part of the infrastructure of competent practice. Relying entirely on memory and a paper calendar across 120 active files is not adequate — the risk of error is foreseeable. The absence of a rule mandating a specific system does not relieve the lawyer of the obligation to have a system that is adequate for the scale of the practice.",
+    "why_A_wrong": "Incorrect. While no specific system is mandated, the competence obligation under Rule 3.1-2 requires that the lawyer's file management approach be adequate for the scale and nature of the practice. Memory alone is not adequate for a 120-file practice.",
+    "why_B_wrong": "Incorrect. Professional misconduct exposure under Rule 3.1-2 arises independently of civil liability. Failing to have adequate practice management systems is a professional responsibility matter, not merely a civil law matter.",
+    "why_C_wrong": "This IS the correct answer. No — while no rule mandates a specific system, the competence obligation under Rule 3.1-2 requires a lawyer to have adequate systems in place to manage files, track limitation periods, and meet deadlines; relying on memory alone across a 120-file practice is a breach of the competence standard because it is not an adequate system for a practice of that size.",
+    "why_D_wrong": "Incorrect. The competence obligation requires adequate systems from the outset. A first-time missed deadline resulting from a structurally inadequate system still constitutes a breach of Rule 3.1-2.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 1",
+      "heading": "Licensing and Regulation of the Legal Profession",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2 (competence — practice management systems)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "practice management — tickler system and limitation period tracking"
+    },
+    "exam_trigger_words": ["tickler system", "limitation period", "file management", "practice management", "competence"],
+    "tested_concepts": [
+      "Rule 3.1-2 — competence includes adequate file management systems",
+      "no specific system mandated but system must be adequate for practice scale",
+      "missed limitation period from inadequate systems is competence breach"
+    ],
+    "estimated_time_seconds": 180
   }
 ]

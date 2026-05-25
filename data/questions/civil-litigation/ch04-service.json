@@ -328,5 +328,170 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-04-exjuris-001",
+    "subject": "civil_litigation",
+    "chapter_number": 4,
+    "chapter_title": "Service of Process",
+    "topic_id": "service_outside_ontario",
+    "topic_heading": "Service Outside Ontario",
+    "subtopic_id": "service_ex_juris",
+    "subtopic_heading": "Service Outside Ontario — Leave and Without Leave Under r.17",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A plaintiff incorporated in Ontario sues a British Columbia corporation for breach of a contract that was negotiated and to be performed entirely in Ontario. The plaintiff wishes to serve the statement of claim on the defendant at its registered office in Vancouver without first obtaining leave of the court.",
+    "call_of_question": "Under r.17.02 of the Rules of Civil Procedure, may a plaintiff serve an originating process outside Ontario without first obtaining leave of the court, and if so, in what circumstances?",
+    "options": {
+      "A": "No — service outside Ontario always requires prior leave of the court; a motion under r.17.03 must be brought before service may be attempted.",
+      "B": "Yes — under r.17.02, a plaintiff may serve an originating process outside Ontario without leave where one of the prescribed circumstances applies, including where the contract was made in Ontario or is to be performed in Ontario.",
+      "C": "Yes — a plaintiff may serve outside Ontario without leave in any commercial dispute without restrictions.",
+      "D": "No — service outside Ontario is not recognized in Ontario proceedings; the plaintiff must domesticate the claim by serving an Ontario agent of the defendant."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.17.02 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), an originating process or notice of a reference may be served outside Ontario without leave of the court in a variety of prescribed circumstances. These include where the contract in dispute was made in Ontario, is to be performed in Ontario, or was breached in Ontario; where the tort was committed in Ontario; where there is real and substantial property situated in Ontario; and several other grounds. Rule 17.03 provides for service outside Ontario with leave in circumstances not covered by r.17.02. In this scenario, the contract was made and to be performed in Ontario — a ground listed in r.17.02 — so no leave is required.",
+    "why_A_wrong": "Rule 17.02 permits service outside Ontario without leave in specified circumstances, including where the contract was made or is to be performed in Ontario. Leave under r.17.03 is only needed where r.17.02 does not apply.",
+    "why_B_wrong": "This IS the correct answer. Under r.17.02, service outside Ontario is permitted without leave where the contract was made in Ontario or is to be performed in Ontario, among other grounds.",
+    "why_C_wrong": "Service outside Ontario without leave is only permitted in the specific circumstances listed in r.17.02, not in all commercial disputes generally. The grounds are enumerated and restrictive.",
+    "why_D_wrong": "Service outside Ontario on a foreign defendant is expressly recognized in Ontario proceedings under r.17. There is no requirement to identify an Ontario agent of the defendant as a precondition.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 4 — Service of Process",
+      "heading": "Service Outside Ontario — Leave and Without Leave Under r.17",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.17.02; r.17.03"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "service outside Ontario",
+      "ex juris",
+      "r.17.02",
+      "without leave",
+      "contract made in Ontario"
+    ],
+    "tested_concepts": [
+      "service outside Ontario without leave — r.17.02",
+      "prescribed circumstances including contract made in Ontario",
+      "r.17.03 — service with leave when r.17.02 inapplicable"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-04-exjuris-002",
+    "subject": "civil_litigation",
+    "chapter_number": 4,
+    "chapter_title": "Service of Process",
+    "topic_id": "service_outside_ontario",
+    "topic_heading": "Service Outside Ontario",
+    "subtopic_id": "service_ex_juris",
+    "subtopic_heading": "Service Outside Ontario — Leave Required Under r.17.03",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A plaintiff in Ontario wishes to sue a German corporation for an alleged misrepresentation made entirely in Germany. The misrepresentation induced the plaintiff to enter into a contract in Germany. No other connection to Ontario is apparent. The plaintiff applies for leave to serve the defendant in Germany under r.17.03.",
+    "call_of_question": "Under r.17.03 of the Rules of Civil Procedure, what must a plaintiff demonstrate to obtain leave to serve an originating process outside Ontario?",
+    "options": {
+      "A": "The plaintiff need only show that the defendant is a foreign corporation against whom a judgment would be recognizable in Ontario.",
+      "B": "The plaintiff must demonstrate that: (1) there is a good arguable case on the merits; (2) there is a real and substantial connection between Ontario and the subject matter of the action; and (3) Ontario is the appropriate forum for the dispute.",
+      "C": "The plaintiff must show that service within Ontario is not reasonably possible and that the defendant can be located in the foreign jurisdiction.",
+      "D": "The plaintiff must show the defendant has assets in Ontario against which any eventual judgment could be enforced."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.17.03 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), where a plaintiff seeks leave to serve outside Ontario in circumstances not covered by r.17.02, the court will grant leave where it is satisfied that: (1) the claim discloses a good arguable case; (2) there is a real and substantial connection between Ontario and the facts on which the proceeding is based; and (3) Ontario is the appropriate forum for the proceeding. The court must be satisfied as to jurisdiction and forum. In the scenario, the misrepresentation occurred in Germany and the contract was formed in Germany — the absence of any Ontario connection will make it very difficult to satisfy the real and substantial connection requirement.",
+    "why_A_wrong": "Leave under r.17.03 is not granted simply because the defendant is a foreign corporation with a recognizable judgment. The plaintiff must establish a good arguable case, a real and substantial connection to Ontario, and that Ontario is the appropriate forum.",
+    "why_B_wrong": "This IS the correct answer. Rule 17.03 requires: a good arguable case, a real and substantial connection to Ontario, and that Ontario is the appropriate forum.",
+    "why_C_wrong": "The plaintiff need not show that service within Ontario is impossible before seeking service outside Ontario. The test under r.17.03 focuses on jurisdiction and appropriate forum, not the impracticability of domestic service.",
+    "why_D_wrong": "The existence of Ontario assets is not a required element of the r.17.03 test. While assets may be relevant to enforceability, the leave test focuses on arguable case, real and substantial connection, and appropriate forum.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 4 — Service of Process",
+      "heading": "Service Outside Ontario — Leave Required Under r.17.03",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.17.03"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "leave to serve outside Ontario",
+      "r.17.03",
+      "good arguable case",
+      "real and substantial connection",
+      "appropriate forum"
+    ],
+    "tested_concepts": [
+      "r.17.03 — three-part test for leave to serve outside Ontario",
+      "real and substantial connection to Ontario required",
+      "appropriate forum consideration"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-04-corp-alt-001",
+    "subject": "civil_litigation",
+    "chapter_number": 4,
+    "chapter_title": "Service of Process",
+    "topic_id": "alternative_service",
+    "topic_heading": "Alternative to Personal Service",
+    "subtopic_id": "corp_alternative_service",
+    "subtopic_heading": "Alternative Service on Corporations — Registered Mail Under r.16.03",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A plaintiff's process server has been unable to personally serve Northgate Dynamics Inc., an Ontario corporation, at its registered office. The office was closed each time the process server attended. The plaintiff's lawyer considers using an alternative to personal service on the corporation without obtaining a court order.",
+    "call_of_question": "Under r.16.03 of the Rules of Civil Procedure, what alternative to personal service is available for service on a corporation without a court order?",
+    "options": {
+      "A": "Sending the originating process by email to the corporation's general inquiry email address.",
+      "B": "Serving the originating process on any employee of the corporation found anywhere in Ontario.",
+      "C": "Sending a copy of the originating process by registered mail to the registered office of the corporation, which constitutes an alternative to personal service under r.16.03.",
+      "D": "Filing the originating process with the registrar and requesting the registrar to notify the corporation by ordinary mail."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.16.03(2) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), as an alternative to personal service, a document may be served on a corporation incorporated or registered under a statute of Ontario by sending a copy of the document by registered mail to the registered office of the corporation as shown in the records of the Ministry of Government and Consumer Services. Service is effective on the day the registered mail is delivered, or if not delivered, on the fifth day after mailing. This alternative does not require a court order and is specifically designed to address the difficulty of personally serving corporations at their registered office.",
+    "why_A_wrong": "Email to a general inquiry address is not an authorized alternative to personal service under r.16.03. The rule specifies registered mail to the registered office as the alternative for corporations.",
+    "why_B_wrong": "Serving any employee of the corporation wherever found does not satisfy r.16.03. Service on a corporation requires leaving documents with a qualifying person (officer, director, agent, or person in apparent control) under r.16.02, or by registered mail to the registered office under r.16.03.",
+    "why_C_wrong": "This IS the correct answer. Rule 16.03(2) permits service on a corporation by registered mail to its registered office as an alternative to personal service, without a court order.",
+    "why_D_wrong": "Filing the originating process with the registrar for notification is not an authorized method of service under the Rules. Service obligations rest with the plaintiff, not the registrar.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 4 — Service of Process",
+      "heading": "Alternative Service on Corporations — Registered Mail Under r.16.03",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.16.03(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "alternative service",
+      "corporation",
+      "registered mail",
+      "r.16.03",
+      "registered office"
+    ],
+    "tested_concepts": [
+      "alternative service on corporation — r.16.03(2)",
+      "registered mail to registered office",
+      "no court order required"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

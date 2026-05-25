@@ -218,5 +218,225 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-07-police-neg-001",
+    "subject": "public_law",
+    "chapter_number": 7,
+    "chapter_title": "Crown Liability",
+    "topic_id": "crown_liability",
+    "topic_heading": "Crown Liability — Police Negligence",
+    "subtopic_id": "police_negligence",
+    "subtopic_heading": "Police Negligence — Odhavji Estate Principles",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Toronto police officers fatally shoot an individual. The family of the deceased discovers that several officers failed to comply with the mandatory post-shooting protocol required by Ontario Special Investigations Unit regulations — specifically, the officers refused to provide statements and did not submit to the SIU investigation as required. The estate of the deceased sues the police service and the officers' employer, alleging a duty of care was owed by the employer (the police services board) to ensure officers complied with post-incident investigative protocols.",
+    "call_of_question": "Under Odhavji Estate v Woodhouse, can a police services board owe a duty of care to the estate of a person killed by police officers, arising from the board's failure to ensure officers complied with post-shooting investigative obligations?",
+    "options": {
+      "A": "No. Police services boards never owe a duty of care to private individuals; their duties run only to the general public and not to specific persons.",
+      "B": "No. The duty of care analysis cannot apply to matters arising from police internal investigations; the SIU process is a public law matter immune from tort claims.",
+      "C": "Yes. Under Odhavji Estate v Woodhouse, 2003 SCC 69, a police services board may owe a duty of care to identifiable persons affected by its failure to ensure officers comply with post-incident investigative obligations; where a board fails to ensure officers comply with mandatory protocols and that failure causes harm to identifiable persons, the Anns/Cooper test may be satisfied and liability may arise.",
+      "D": "Yes, but only where the board had actual knowledge of the officers' non-compliance before the estate suffered harm; constructive knowledge is insufficient."
+    },
+    "correct_answer": "C",
+    "explanation": "In Odhavji Estate v Woodhouse, 2003 SCC 69, the Supreme Court of Canada held that a police services board may owe a duty of care to the estate of a person killed by police officers where the board failed to ensure the officers complied with mandatory post-incident investigative obligations (here, compliance with SIU requirements). The Court applied the Anns/Cooper two-stage test: at stage one, there was a sufficiently close and direct relationship (proximity) between the board and the estate, because the board had supervisory authority over the officers and the estate was an identifiable group directly affected by the post-incident process. The Court found that the policy/operational distinction did not bar the claim, as the board's failure to enforce compliance was an operational failure.",
+    "why_A_wrong": "Incorrect. Odhavji Estate confirmed that police services boards can owe a duty of care to specific identifiable persons; they are not absolutely immune from tort liability to individuals.",
+    "why_B_wrong": "Incorrect. The SIU investigative process does not immunize police boards from all civil liability; Odhavji Estate held that failure to comply with SIU obligations can support a tort claim in negligence.",
+    "why_C_wrong": "This IS the correct answer. Yes. Under Odhavji Estate v Woodhouse, 2003 SCC 69, a police services board may owe a duty of care to identifiable persons affected by its failure to ensure officers comply with post-incident investigative obligations; where a board fails to ensure officers comply with mandatory protocols and that failure causes harm to identifiable persons, the Anns/Cooper test may be satisfied and liability may arise.",
+    "why_D_wrong": "Incorrect. The duty of care analysis in Odhavji Estate is not limited to cases of actual knowledge; the supervisory duty on the board is sufficient to establish proximity without requiring proof of actual knowledge of non-compliance before the harm occurred.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 7 — Crown Liability",
+      "heading": "Police Negligence — Odhavji Estate Principles",
+      "page": "N/A",
+      "rule_or_statute_reference": "Odhavji Estate v Woodhouse, 2003 SCC 69; Proceedings Against the Crown Act, R.S.O. 1990, c. P.27; Cooper v Hobart, 2001 SCC 79"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Odhavji Estate",
+      "police services board",
+      "SIU",
+      "post-incident compliance",
+      "duty of care"
+    ],
+    "tested_concepts": [
+      "Odhavji Estate police services board duty of care",
+      "proximity of identifiable affected persons",
+      "operational failure to enforce compliance"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-07-neg-invest-001",
+    "subject": "public_law",
+    "chapter_number": 7,
+    "chapter_title": "Crown Liability",
+    "topic_id": "crown_liability",
+    "topic_heading": "Crown Liability — Negligent Investigation",
+    "subtopic_id": "negligent_investigation",
+    "subtopic_heading": "Negligent Investigation — Duty of Care to Suspect",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Ontario Provincial Police officers investigate a suspected fraud. During the investigation, the lead detective fails to follow up on exculpatory evidence, ignores alibi witnesses, and includes demonstrably false statements in the information to obtain a search warrant. As a result, the suspect is wrongly arrested and prosecuted. After two years, all charges are stayed. The suspect sues the police for negligent investigation.",
+    "call_of_question": "Under Canadian tort law, do police officers investigating a crime owe a duty of care to suspects that may be breached by negligent investigation?",
+    "options": {
+      "A": "No. Police investigating crimes owe a duty of care only to victims and the public; they can never owe a duty of care to suspects, as recognizing such a duty would impede criminal investigations.",
+      "B": "Yes. Under Hill v Hamilton-Wentworth Regional Police Services Board, 2007 SCC 41, police investigators owe a duty of care to suspects; a duty of care exists where the suspect is a specific identifiable individual who was the primary target of the investigation, and where the conduct of the investigation was negligent.",
+      "C": "No. The duty of care in negligent investigation can only be established by victims of crime, not by persons who were investigated.",
+      "D": "Yes, but only where the police officer is separately convicted of an offence in connection with the investigation; mere negligence does not suffice."
+    },
+    "correct_answer": "B",
+    "explanation": "In Hill v Hamilton-Wentworth Regional Police Services Board, 2007 SCC 41, the Supreme Court of Canada recognized a duty of care in the tort of negligent investigation. The Court held that police officers owe a duty of care to suspects who are the primary target of a criminal investigation. Applying the Anns/Cooper test, proximity was established because the investigation was focused on a specific identifiable individual, and the police had direct control over the investigative process affecting that person. A finding of negligent investigation requires that the police conduct fell below the standard of a reasonable police officer in the same circumstances.",
+    "why_A_wrong": "Incorrect. Hill v Hamilton-Wentworth confirmed that police can owe a duty of care to suspects, not only to victims; the concern about impeding investigations was addressed by using the reasonable police officer standard rather than eliminating the duty of care.",
+    "why_B_wrong": "This IS the correct answer. Yes. Under Hill v Hamilton-Wentworth Regional Police Services Board, 2007 SCC 41, police investigators owe a duty of care to suspects; a duty of care exists where the suspect is a specific identifiable individual who was the primary target of the investigation, and where the conduct of the investigation was negligent.",
+    "why_C_wrong": "Incorrect. Hill v Hamilton-Wentworth expressly recognized a duty of care to suspects as the primary targets of investigations; it was not confined to victims of crime.",
+    "why_D_wrong": "Incorrect. The tort of negligent investigation does not require a criminal conviction of the police officer; civil liability in negligence is based on whether the investigative conduct fell below the standard of a reasonable police officer, which is a civil standard.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 7 — Crown Liability",
+      "heading": "Negligent Investigation — Duty of Care to Suspect",
+      "page": "N/A",
+      "rule_or_statute_reference": "Hill v Hamilton-Wentworth Regional Police Services Board, 2007 SCC 41; Cooper v Hobart, 2001 SCC 79; Proceedings Against the Crown Act, R.S.O. 1990, c. P.27"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "negligent investigation",
+      "Hill v Hamilton-Wentworth",
+      "duty of care to suspect",
+      "primary target",
+      "reasonable police officer"
+    ],
+    "tested_concepts": [
+      "negligent investigation tort recognized in Hill",
+      "duty of care to suspect as primary target",
+      "reasonable police officer standard"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-07-vic-liab-001",
+    "subject": "public_law",
+    "chapter_number": 7,
+    "chapter_title": "Crown Liability",
+    "topic_id": "crown_liability",
+    "topic_heading": "Crown Liability — Crown as Employer Vicarious Liability",
+    "subtopic_id": "crown_vicarious",
+    "subtopic_heading": "Crown Vicarious Liability — Torts Committed by Crown Employees in the Course of Employment",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A Ministry of Natural Resources employee is driving a government vehicle to attend an inspection site during work hours. While distracted by a personal phone call, the employee negligently runs a stop sign and collides with a cyclist, causing serious injuries. The cyclist sues both the employee and the Crown in right of Ontario, arguing the Crown is vicariously liable for the employee's negligence.",
+    "call_of_question": "Under the Proceedings Against the Crown Act, is the Crown in right of Ontario vicariously liable for a tort committed by its employee in the course of employment?",
+    "options": {
+      "A": "No. The Crown is only liable for its own direct negligence; it is not vicariously liable for torts committed by its employees.",
+      "B": "Yes. Under the Proceedings Against the Crown Act, R.S.O. 1990, c. P.27, the Crown in right of Ontario is subject to liability in tort in the same manner as a person of full capacity, including vicarious liability for the torts of its officers and servants acting in the course of their employment.",
+      "C": "Yes, but only where the employee was driving a vehicle at the time; vicarious liability does not apply to other categories of employee torts.",
+      "D": "No. The Crown is protected from vicarious liability for employee torts where the employee was using a personal cell phone at the time of the negligent act, as this constitutes a deviation from employment duties."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Proceedings Against the Crown Act, R.S.O. 1990, c. P.27, s. 5, the Crown in right of Ontario is subject to all liabilities in tort to which, if it were a person of full age and capacity, it would be subject. This includes vicarious liability for the torts of its officers and servants committed in the course of their employment. The employee driving a government vehicle to an inspection site during work hours is clearly acting in the course of employment; the fact that a personal call was being made simultaneously does not take the employee outside the course of employment for purposes of vicarious liability.",
+    "why_A_wrong": "Incorrect. The Proceedings Against the Crown Act abrogated the common law Crown immunity and makes the Crown vicariously liable for the torts of its employees in the same way a private employer would be.",
+    "why_B_wrong": "This IS the correct answer. Yes. Under the Proceedings Against the Crown Act, R.S.O. 1990, c. P.27, the Crown in right of Ontario is subject to liability in tort in the same manner as a person of full capacity, including vicarious liability for the torts of its officers and servants acting in the course of their employment.",
+    "why_C_wrong": "Incorrect. Vicarious liability under the Proceedings Against the Crown Act is not limited to vehicle accidents; it applies to any tort committed by a Crown employee in the course of their employment.",
+    "why_D_wrong": "Incorrect. A personal phone call while driving a government vehicle during work hours does not take the employee outside the course of employment; it remains an incidental act that does not constitute a 'frolic' (complete deviation from employment duties).",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 7 — Crown Liability",
+      "heading": "Crown Vicarious Liability — Torts Committed by Crown Employees in the Course of Employment",
+      "page": "N/A",
+      "rule_or_statute_reference": "Proceedings Against the Crown Act, R.S.O. 1990, c. P.27, s. 5"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "vicarious liability",
+      "Crown employer",
+      "course of employment",
+      "Proceedings Against the Crown Act s. 5",
+      "officer servant"
+    ],
+    "tested_concepts": [
+      "Crown vicarious liability under PACA s. 5",
+      "Crown liable as if person of full capacity",
+      "course of employment test for Crown employees"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-07-sov-imm-001",
+    "subject": "public_law",
+    "chapter_number": 7,
+    "chapter_title": "Crown Liability",
+    "topic_id": "crown_liability",
+    "topic_heading": "Crown Liability — Sovereign Immunity",
+    "subtopic_id": "sovereign_immunity",
+    "subtopic_heading": "Sovereign Immunity — Acta Jure Imperii vs Acta Jure Gestionis",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A Canadian citizen sues a foreign government in an Ontario court for unpaid wages arising from her employment as an administrative assistant at that government's trade office in Toronto. The foreign government argues it is entitled to sovereign immunity from the jurisdiction of Canadian courts and that the claim should be dismissed. The claimant argues that commercial employment activities do not attract sovereign immunity.",
+    "call_of_question": "Under the State Immunity Act and Canadian international law, when does a foreign state retain sovereign immunity from Canadian court jurisdiction, and when does the commercial activity exception apply?",
+    "options": {
+      "A": "Foreign states retain absolute immunity from Canadian court jurisdiction in all circumstances; no exception exists for commercial activities.",
+      "B": "Under the State Immunity Act, R.S.C. 1985, c. S-18, foreign states are generally immune from Canadian court jurisdiction (acta jure imperii — acts of sovereignty), but the commercial activity exception removes immunity where the claim relates to commercial activities (acta jure gestionis) carried out in Canada by the foreign state.",
+      "C": "Foreign states have no immunity from Canadian courts; all civil claims against foreign governments may be brought in Canadian courts.",
+      "D": "Sovereign immunity applies only to heads of state personally; foreign governments themselves have never had immunity in Canadian courts."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the State Immunity Act, R.S.C. 1985, c. S-18, s. 3, a foreign state is immune from the jurisdiction of any court in Canada. However, s. 5 provides an exception for commercial activity: a foreign state is not immune from the jurisdiction of a court where the proceedings relate to any commercial activity of the foreign state carried on in Canada. The distinction between acta jure imperii (acts of sovereignty, such as military or diplomatic acts) and acta jure gestionis (commercial activities, such as operating a trade office and employing local staff) is central. Employment of local staff in a commercial-like capacity at a trade office has been held to constitute a commercial activity, removing the immunity defence.",
+    "why_A_wrong": "Incorrect. Canada adopted the restrictive theory of sovereign immunity through the State Immunity Act; absolute immunity no longer applies. The commercial activity exception removes immunity for acta jure gestionis.",
+    "why_B_wrong": "This IS the correct answer. Under the State Immunity Act, R.S.C. 1985, c. S-18, foreign states are generally immune from Canadian court jurisdiction (acta jure imperii — acts of sovereignty), but the commercial activity exception removes immunity where the claim relates to commercial activities (acta jure gestionis) carried out in Canada by the foreign state.",
+    "why_C_wrong": "Incorrect. Foreign states retain broad immunity under the State Immunity Act for their sovereign acts; the immunity is not eliminated entirely but is restricted to exclude commercial activities.",
+    "why_D_wrong": "Incorrect. Sovereign immunity under the State Immunity Act protects foreign states as entities, not merely heads of state personally; the Act's immunities apply to the foreign government itself.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 7 — Crown Liability",
+      "heading": "Sovereign Immunity — Acta Jure Imperii vs Acta Jure Gestionis",
+      "page": "N/A",
+      "rule_or_statute_reference": "State Immunity Act, R.S.C. 1985, c. S-18, ss. 3, 5"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "sovereign immunity",
+      "State Immunity Act",
+      "commercial activity exception",
+      "acta jure imperii",
+      "acta jure gestionis"
+    ],
+    "tested_concepts": [
+      "State Immunity Act ss. 3 and 5",
+      "commercial activity exception to sovereign immunity",
+      "restrictive theory of sovereign immunity in Canada"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

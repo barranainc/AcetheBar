@@ -1,0 +1,149 @@
+[
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-11-complaint-001",
+    "chapter_number": 11,
+    "chapter_title": "Complaints and Discipline",
+    "topic_id": "complaints_discipline",
+    "topic_heading": "LSO Complaints and Discipline Process",
+    "subtopic_id": "complaints_process",
+    "subtopic_heading": "Law Society Complaints Process — Who Can Complain and What Is Investigated",
+    "difficulty": "medium",
+    "fact_pattern": "A client believes her lawyer handled her estate matter incompetently and also charged excessive fees. She wants to take formal action. A colleague tells her she must sue the lawyer in court and that the Law Society only deals with criminal behaviour by lawyers. Another colleague tells her the Law Society will reimburse her directly if the complaint is successful.",
+    "call_of_question": "Which of the following most accurately describes the LSO complaints process and what it can achieve for the client?",
+    "options": {
+      "A": "The LSO complaints process is only available to clients who have suffered financial loss; complaints about service quality or excessive fees are not investigated.",
+      "B": "The LSO complaints process allows any person to file a complaint about a lawyer's conduct; the LSO investigates complaints of professional misconduct, conduct unbecoming a licensee, or incompetence; a successful complaint may result in regulatory consequences for the lawyer, but the LSO complaints process does not award damages or directly reimburse the complainant for financial losses.",
+      "C": "Only the Law Society itself may initiate complaints against lawyers; members of the public cannot file complaints directly.",
+      "D": "The LSO complaints process automatically awards compensation to clients whose lawyers are found to have engaged in professional misconduct."
+    },
+    "correct_answer": "B",
+    "explanation": "The Law Society Act, R.S.O. 1990, c. L.8 establishes the LSO complaints and discipline process. Any person — including clients, opposing parties, judges, and members of the public — may file a complaint with the LSO about a lawyer's conduct. The LSO investigates complaints of professional misconduct, conduct unbecoming a licensee, or incompetence. A successful complaint may result in regulatory outcomes such as reprimand, conditions on practice, suspension, or revocation. However, the LSO complaints process is a regulatory proceeding — it does not award damages to complainants. If the client wants monetary compensation, she must pursue a civil claim or apply to the Lawyers' Fund for Client Compensation in eligible cases.",
+    "why_A_wrong": "Incorrect. The LSO investigates a wide range of conduct including service quality, excessive fees, and misconduct — it is not limited to cases involving proven financial loss.",
+    "why_B_wrong": "This IS the correct answer. The LSO complaints process allows any person to file a complaint about a lawyer's conduct; the LSO investigates complaints of professional misconduct, conduct unbecoming a licensee, or incompetence; a successful complaint may result in regulatory consequences for the lawyer, but the LSO complaints process does not award damages or directly reimburse the complainant for financial losses.",
+    "why_C_wrong": "Incorrect. Members of the public may file complaints directly with the LSO. The right to complain is not limited to the Law Society itself.",
+    "why_D_wrong": "Incorrect. The complaints process does not automatically award compensation. It is a regulatory proceeding with regulatory consequences — not a civil remedy process.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 11",
+      "heading": "Complaints and Discipline",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8, ss. 34-49 (complaints and discipline process)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "LSO complaints process — scope and limitations"
+    },
+    "exam_trigger_words": ["LSO complaint", "who can complain", "professional misconduct", "compensation", "regulatory process"],
+    "tested_concepts": [
+      "Law Society Act — any person may file complaint with LSO",
+      "LSO process results in regulatory consequences not damages",
+      "professional misconduct vs conduct unbecoming vs incompetence"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-11-miscon-001",
+    "chapter_number": 11,
+    "chapter_title": "Complaints and Discipline",
+    "topic_id": "complaints_discipline",
+    "topic_heading": "LSO Complaints and Discipline Process",
+    "subtopic_id": "misconduct_categories",
+    "subtopic_heading": "Professional Misconduct vs. Conduct Unbecoming — Distinction",
+    "difficulty": "hard",
+    "fact_pattern": "A lawyer, while attending a bar association event, becomes intoxicated and makes highly offensive and sexually harassing remarks to a junior lawyer. No client interests are involved and the conduct occurs entirely at a social event outside the office. The lawyer argues that because the conduct is private social conduct with no client involvement, it cannot constitute professional misconduct and is not subject to LSO regulation.",
+    "call_of_question": "Is the lawyer correct that conduct at a private social event with no client involvement is outside the scope of LSO discipline?",
+    "options": {
+      "A": "Yes — the LSO only regulates conduct that occurs in the course of legal practice and directly affects clients; social conduct at personal events cannot give rise to professional misconduct.",
+      "B": "Yes — harassment at a social event is a matter for the human rights tribunal or criminal law, not the LSO.",
+      "C": "No — the Law Society Act creates a category of 'conduct unbecoming a licensee' that may cover behaviour outside the strict practice of law that is sufficiently serious to reflect adversely on the lawyer's fitness to practise or on the profession; sexually harassing conduct toward a colleague at a professional event may constitute conduct unbecoming regardless of the absence of client involvement.",
+      "D": "No — but only if the other lawyer files a human rights complaint that is first adjudicated; LSO discipline is a secondary process."
+    },
+    "correct_answer": "C",
+    "explanation": "The Law Society Act establishes two relevant categories for discipline: professional misconduct (conduct in the course of practice that violates professional obligations) and 'conduct unbecoming a licensee' (conduct, whether in practice or not, that is incompatible with the good character and conduct expected of a licensee). Conduct unbecoming may capture serious behaviour outside the practice of law — including harassment at professional events — that reflects adversely on the lawyer's fitness to hold a licence. The absence of a client victim does not shield the conduct from LSO scrutiny.",
+    "why_A_wrong": "Incorrect. The LSO's regulatory reach includes 'conduct unbecoming a licensee,' which covers conduct outside the strict practice of law that reflects adversely on the lawyer's character and fitness.",
+    "why_B_wrong": "Incorrect. While human rights and criminal processes may also apply, they do not preclude LSO discipline. The regulatory body may act in parallel with or independently of other legal processes.",
+    "why_C_wrong": "This IS the correct answer. No — the Law Society Act creates a category of 'conduct unbecoming a licensee' that may cover behaviour outside the strict practice of law that is sufficiently serious to reflect adversely on the lawyer's fitness to practise or on the profession; sexually harassing conduct toward a colleague at a professional event may constitute conduct unbecoming regardless of the absence of client involvement.",
+    "why_D_wrong": "Incorrect. A prior human rights complaint is not a prerequisite for LSO discipline proceedings. The LSO may investigate and proceed independently.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 11",
+      "heading": "Complaints and Discipline",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8, s. 33 (professional misconduct vs. conduct unbecoming a licensee)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "professional misconduct vs conduct unbecoming — extra-practice conduct"
+    },
+    "exam_trigger_words": ["conduct unbecoming", "professional misconduct", "social event", "outside practice", "fitness to practise"],
+    "tested_concepts": [
+      "Law Society Act — conduct unbecoming a licensee covers extra-practice conduct",
+      "distinction between professional misconduct and conduct unbecoming",
+      "absence of client victim does not shield from LSO discipline"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-11-penalty-001",
+    "chapter_number": 11,
+    "chapter_title": "Complaints and Discipline",
+    "topic_id": "complaints_discipline",
+    "topic_heading": "LSO Complaints and Discipline Process",
+    "subtopic_id": "penalties",
+    "subtopic_heading": "Penalties Available on Finding of Professional Misconduct — Gradation",
+    "difficulty": "medium",
+    "fact_pattern": "The Law Society Tribunal Hearing Division finds that Lawyer Novak engaged in professional misconduct by misappropriating $30,000 from his trust account to pay his own expenses, repaying the full amount before the hearing, and cooperating fully with the LSO investigation. Novak argues that because he repaid the funds and cooperated, the only available penalty is a reprimand.",
+    "call_of_question": "Which of the following is the most accurate description of the penalties available to the Law Society Tribunal upon a finding of professional misconduct for misappropriation, and is Novak's argument correct?",
+    "options": {
+      "A": "Novak is correct — repayment of misappropriated funds and cooperation are complete mitigating factors that limit the available penalty to a reprimand.",
+      "B": "The Law Society Tribunal may impose any of its available penalties — including reprimand, suspension with conditions, and revocation — on a finding of professional misconduct; misappropriation of client funds is among the most serious forms of professional misconduct and typically results in severe penalties; repayment and cooperation are mitigating factors that may affect the severity of the penalty, but they do not limit the Tribunal to a reprimand.",
+      "C": "The only available penalties on a finding of professional misconduct are reprimand and a fine; suspension and revocation require a separate criminal conviction.",
+      "D": "The Tribunal must impose the least severe available penalty upon a finding of professional misconduct where the lawyer has repaid the misappropriated funds."
+    },
+    "correct_answer": "B",
+    "explanation": "The Law Society Act, R.S.O. 1990, c. L.8 grants the Law Society Tribunal a range of penalties upon a finding of professional misconduct, including reprimand, suspension (with or without conditions), and revocation of the licence. Misappropriation of client trust funds is treated as among the most serious professional misconduct, and LSO jurisprudence generally results in revocation or lengthy suspension even where funds are repaid. Repayment and cooperation are mitigating factors that may influence the Tribunal's assessment of penalty, but they do not limit the Tribunal to a reprimand, nor do they preclude revocation.",
+    "why_A_wrong": "Incorrect. Repayment and cooperation are mitigating factors — they do not cap the available penalty at a reprimand. The Tribunal retains the full range of penalties and may impose revocation for misappropriation.",
+    "why_B_wrong": "This IS the correct answer. The Law Society Tribunal may impose any of its available penalties — including reprimand, suspension with conditions, and revocation — on a finding of professional misconduct; misappropriation of client funds is among the most serious forms of professional misconduct and typically results in severe penalties; repayment and cooperation are mitigating factors that may affect the severity of the penalty, but they do not limit the Tribunal to a reprimand.",
+    "why_C_wrong": "Incorrect. The Tribunal's penalties include suspension and revocation without any requirement of a prior criminal conviction. These are regulatory penalties available on professional misconduct findings.",
+    "why_D_wrong": "Incorrect. The Tribunal is not required to impose the least severe penalty available. It must impose a penalty that is proportionate to the misconduct and consistent with the purposes of the regulatory regime, including public protection.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 11",
+      "heading": "Complaints and Discipline",
+      "page": "N/A",
+      "rule_or_statute_reference": "Law Society Act, R.S.O. 1990, c. L.8, ss. 34-49 (penalties — reprimand, suspension, revocation)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "LSO discipline — penalty range for professional misconduct — misappropriation"
+    },
+    "exam_trigger_words": ["misappropriation", "trust funds", "revocation", "suspension", "mitigating factors", "reprimand"],
+    "tested_concepts": [
+      "Law Society Act — Tribunal penalty range: reprimand to revocation",
+      "misappropriation typically results in severe penalty",
+      "repayment and cooperation are mitigating but do not limit Tribunal"
+    ],
+    "estimated_time_seconds": 90
+  }
+]

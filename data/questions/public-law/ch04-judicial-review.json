@@ -825,5 +825,335 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-04-standing-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_procedure",
+    "topic_heading": "Judicial Review — Procedure and Standing",
+    "subtopic_id": "jr_standing",
+    "subtopic_heading": "Public Interest Standing on Judicial Review",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A national environmental advocacy organization seeks judicial review of a federal Cabinet decision approving a pipeline project. The organization has no direct economic interest in the pipeline. It argues the approval violates federal environmental assessment legislation. The government argues the organization lacks standing to bring the application because it is not directly affected by the decision.",
+    "call_of_question": "Under Canadian law, what is the test for public interest standing to seek judicial review, and can a public interest organization without a direct personal stake bring a judicial review application?",
+    "options": {
+      "A": "No. Only persons directly and personally affected by a decision have standing to seek judicial review; public interest organizations can never obtain standing.",
+      "B": "Yes, automatically. Any organization with an interest in good government has standing to challenge any government decision.",
+      "C": "Under the Canadian Doctors for Refugee Care v Canada (Attorney General), 2015 FC 904, and Canadian Council of Churches v Canada, [1992] 1 SCR 236, public interest standing may be granted where: (1) there is a serious justiciable issue; (2) the applicant has a real stake or genuine interest in the issue; and (3) the proposed proceeding is a reasonable and effective means of bringing the issue to court. Courts have discretion and will consider whether other parties with standing are willing to challenge the decision.",
+      "D": "Yes. Any federally incorporated non-profit organization has automatic standing to challenge federal government decisions."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Canadian Council of Churches v Canada (Minister of Employment and Immigration), [1992] 1 SCR 236, and the subsequent public interest standing trilogy refined in Canada (Attorney General) v Downtown Eastside Sex Workers United Against Violence Society, 2012 SCC 45, the Supreme Court of Canada established a three-part test for public interest standing: (1) there is a serious justiciable issue; (2) the applicant is directly affected by or has a genuine stake in the issue; and (3) the proposed proceeding is a reasonable and effective means of bringing the issue before the court — including consideration of whether others with standing are available. Public interest standing is discretionary and not automatic; a lack of personal economic stake does not preclude standing where the other criteria are met.",
+    "why_A_wrong": "Incorrect. Canadian courts have recognized public interest standing in appropriate cases since Canadian Council of Churches; personal direct economic impact is not the only basis for standing.",
+    "why_B_wrong": "Incorrect. Public interest standing is not automatic; the three-part test must be satisfied, and courts retain discretion to grant or deny it based on the circumstances.",
+    "why_C_wrong": "This IS the correct answer. Under the Canadian Doctors for Refugee Care v Canada (Attorney General), 2015 FC 904, and Canadian Council of Churches v Canada, [1992] 1 SCR 236, public interest standing may be granted where: (1) there is a serious justiciable issue; (2) the applicant has a real stake or genuine interest in the issue; and (3) the proposed proceeding is a reasonable and effective means of bringing the issue to court. Courts have discretion and will consider whether other parties with standing are willing to challenge the decision.",
+    "why_D_wrong": "Incorrect. Corporate status as a federally incorporated non-profit does not confer automatic standing; the three-part public interest standing test must still be satisfied.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Public Interest Standing on Judicial Review",
+      "page": "N/A",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1; Canadian Council of Churches v Canada (Minister of Employment and Immigration), [1992] 1 SCR 236; Canada (Attorney General) v Downtown Eastside Sex Workers United Against Violence Society, 2012 SCC 45"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "public interest standing",
+      "judicial review",
+      "Canadian Council of Churches",
+      "Downtown Eastside",
+      "serious justiciable issue"
+    ],
+    "tested_concepts": [
+      "three-part public interest standing test",
+      "discretionary standing for public interest organizations",
+      "personal stake not required for standing"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-04-mootness-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_procedure",
+    "topic_heading": "Judicial Review — Mootness and Delay",
+    "subtopic_id": "mootness",
+    "subtopic_heading": "Mootness on Judicial Review — Borowski Test",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A refugee claimant challenges a removal order through judicial review. While the application is pending, the claimant voluntarily departs Canada. The government moves to dismiss the application as moot, arguing there is no longer a live controversy. The claimant argues the court should still exercise its discretion to decide the question because of its systemic importance to other refugees facing removal orders.",
+    "call_of_question": "Under the Borowski test for mootness, when should a court exercise its discretion to decide a case even where the immediate controversy no longer exists?",
+    "options": {
+      "A": "A court must always dismiss a moot case; it has no discretion to proceed once the immediate controversy is resolved.",
+      "B": "A court should always decide cases of systemic importance, regardless of mootness.",
+      "C": "Under Borowski v Canada (AG), [1989] 1 SCR 342, the mootness analysis proceeds in two stages: (1) determine whether the required tangible and concrete dispute has disappeared; and (2) if so, exercise discretion to consider whether to decide the case anyway, weighing factors such as: whether the parties retain an adversarial relationship, whether judicial economy supports a decision on a systemic issue, and whether the court would be departing from its proper role in deciding the question.",
+      "D": "A case is moot only if both parties agree that there is no longer any live controversy; unilateral departure does not make a case moot."
+    },
+    "correct_answer": "C",
+    "explanation": "The leading Canadian authority on mootness is Borowski v Canada (Attorney General), [1989] 1 SCR 342, where the Supreme Court established a two-stage test. Stage one asks whether the required adversarial relationship and live controversy still exists. If the matter is moot (stage one), stage two asks whether the court should nonetheless exercise its discretion to decide the case, weighing: (a) whether an adversarial context still exists to sharpen the issues; (b) whether judicial economy supports addressing a systemic issue to avoid future litigation; and (c) whether the court would be overstepping its institutional role by deciding a hypothetical issue. Systemic importance to other refugees is a factor but not automatically sufficient to justify a decision in a moot case.",
+    "why_A_wrong": "Incorrect. Borowski established a two-stage framework; even where mootness is established at stage one, courts retain discretion at stage two to decide the case in appropriate circumstances.",
+    "why_B_wrong": "Incorrect. Systemic importance is a relevant factor at stage two of Borowski but does not automatically justify deciding a moot case; the court must still weigh all three stage-two factors.",
+    "why_C_wrong": "This IS the correct answer. Under Borowski v Canada (AG), [1989] 1 SCR 342, the mootness analysis proceeds in two stages: (1) determine whether the required tangible and concrete dispute has disappeared; and (2) if so, exercise discretion to consider whether to decide the case anyway, weighing factors such as: whether the parties retain an adversarial relationship, whether judicial economy supports a decision on a systemic issue, and whether the court would be departing from its proper role in deciding the question.",
+    "why_D_wrong": "Incorrect. Mootness is determined objectively by whether a live controversy still exists, not by whether both parties agree; voluntary departure by one party can render the immediate controversy moot even without agreement.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Mootness on Judicial Review — Borowski Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1; Borowski v Canada (Attorney General), [1989] 1 SCR 342"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "mootness",
+      "Borowski",
+      "live controversy",
+      "discretion",
+      "systemic importance"
+    ],
+    "tested_concepts": [
+      "Borowski two-stage mootness test",
+      "discretion to decide moot cases",
+      "factors at Borowski stage two"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-04-alt-remedy-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_procedure",
+    "topic_heading": "Judicial Review — Adequate Alternative Remedy",
+    "subtopic_id": "alt_remedy",
+    "subtopic_heading": "Adequate Alternative Remedy — Bar to Judicial Review",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A party before an Ontario professional licensing tribunal loses at first instance. The enabling statute provides a statutory right of appeal to the Divisional Court on any question of law or fact. Instead of filing an appeal, the party immediately applies for judicial review in the Divisional Court, arguing the tribunal's decision was unreasonable. The tribunal argues judicial review should be dismissed because the statutory appeal is an adequate alternative remedy.",
+    "call_of_question": "Under Ontario law, when does the existence of a statutory right of appeal bar judicial review?",
+    "options": {
+      "A": "A statutory right of appeal never bars judicial review; parties always have a choice between judicial review and statutory appeal.",
+      "B": "A statutory right of appeal always bars judicial review; the applicant must pursue all statutory appeals before judicial review is available.",
+      "C": "Under Ontario administrative law, where a statute provides an adequate alternative remedy — such as a statutory right of appeal — courts generally decline to exercise their discretion to grant judicial review, unless special circumstances exist, such as the tribunal lacking jurisdiction, the appeal mechanism being inadequate or inaccessible, or there being a constitutional question not addressed by the appeal.",
+      "D": "Judicial review is barred only where the statutory appeal was actually filed and abandoned; failing to file an appeal at all does not engage the alternative remedy doctrine."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2, and consistent with the common law, courts retain a discretion to decline to grant judicial review where an adequate alternative remedy exists, including a statutory right of appeal. The existence of a right of appeal to the Divisional Court on any question of law or fact is a strong reason to decline judicial review in favour of the statutory appeal mechanism, which is designed to address the exact issues raised. Courts will nonetheless grant judicial review in special circumstances — such as where the appeal mechanism is inadequate (e.g., limited to questions of law only), where there is a jurisdictional issue, or where the statutory appeal cannot address a Charter or constitutional issue. Here, the statutory appeal covers all questions of law and fact, making it an adequate alternative remedy.",
+    "why_A_wrong": "Incorrect. The existence of an adequate alternative remedy is a recognized ground for a court to exercise its discretion to decline to hear a judicial review application; it is not always a matter of free choice.",
+    "why_B_wrong": "Incorrect. The bar is not absolute; courts retain discretion and may grant judicial review in special circumstances even where a statutory appeal exists. The doctrine is one of discretion, not jurisdictional bar.",
+    "why_C_wrong": "This IS the correct answer. Under Ontario administrative law, where a statute provides an adequate alternative remedy — such as a statutory right of appeal — courts generally decline to exercise their discretion to grant judicial review, unless special circumstances exist, such as the tribunal lacking jurisdiction, the appeal mechanism being inadequate or inaccessible, or there being a constitutional question not addressed by the appeal.",
+    "why_D_wrong": "Incorrect. The adequate alternative remedy doctrine applies where a statutory appeal mechanism exists and has not been pursued; it is not limited to cases where an appeal was filed and then abandoned.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Adequate Alternative Remedy — Bar to Judicial Review",
+      "page": "N/A",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Border Services Agency) v CB Powell Limited, 2010 FCA 61"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "adequate alternative remedy",
+      "statutory appeal",
+      "judicial review bar",
+      "discretion",
+      "special circumstances"
+    ],
+    "tested_concepts": [
+      "adequate alternative remedy bars judicial review",
+      "discretionary nature of bar not absolute",
+      "statutory appeal on all questions preferred over JR"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-04-record-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_procedure",
+    "topic_heading": "Judicial Review — Certified Tribunal Record",
+    "subtopic_id": "tribunal_record",
+    "subtopic_heading": "Certified Tribunal Record — Scope of Review",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An applicant seeks judicial review of an Ontario tribunal decision. She argues the tribunal considered communications between tribunal staff and government officials that were not part of the formal hearing record. She wants the reviewing court to consider a stack of emails her counsel obtained through an access to information request, which were not before the tribunal. She argues these emails demonstrate bad faith and improper external influence.",
+    "call_of_question": "On judicial review, what material is ordinarily before the reviewing court, and when may a court consider evidence outside the formal tribunal record?",
+    "options": {
+      "A": "The reviewing court must consider all relevant evidence, including evidence obtained after the decision was made, because judicial review is a de novo proceeding.",
+      "B": "The reviewing court is generally confined to the certified tribunal record — the material that was before the decision-maker — but may receive additional evidence in limited circumstances, such as to establish procedural unfairness, jurisdictional facts, or a reasonable apprehension of bias that could not be demonstrated from the record alone.",
+      "C": "The reviewing court is absolutely confined to the tribunal record; no additional evidence from any source may ever be admitted.",
+      "D": "Because judicial review is a supervisory jurisdiction, the court may call live witnesses and conduct its own fact-finding on the merits."
+    },
+    "correct_answer": "B",
+    "explanation": "On judicial review, the reviewing court is ordinarily confined to the record that was before the decision-maker — the certified tribunal record. This principle reflects the supervisory (not appellate de novo) nature of judicial review: the court examines the decision-maker's process and reasoning on the basis of the evidence that was before them, not new evidence. However, courts have recognized narrow exceptions where additional evidence may be admitted: for example, to demonstrate a breach of natural justice or procedural fairness (such as bias or a denial of the right to be heard) that is not apparent from the record, or to establish jurisdictional facts that go to the court's or the tribunal's jurisdiction. The emails in this case, going to alleged bad faith or improper external influence, may fall within the procedural fairness exception.",
+    "why_A_wrong": "Incorrect. Judicial review is not a de novo proceeding; the court does not conduct a fresh hearing on the merits or consider evidence that was not before the decision-maker in ordinary circumstances.",
+    "why_B_wrong": "This IS the correct answer. The reviewing court is generally confined to the certified tribunal record — the material that was before the decision-maker — but may receive additional evidence in limited circumstances, such as to establish procedural unfairness, jurisdictional facts, or a reasonable apprehension of bias that could not be demonstrated from the record alone.",
+    "why_C_wrong": "Incorrect. The restriction to the tribunal record is general, not absolute; courts have recognized narrow exceptions for procedural fairness grounds and jurisdictional facts that cannot be established from the record alone.",
+    "why_D_wrong": "Incorrect. Judicial review courts do not call live witnesses or conduct their own fact-finding on the merits; the supervisory jurisdiction of judicial review is confined to reviewing the decision-maker's process and the record before them.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Certified Tribunal Record — Scope of Review",
+      "page": "N/A",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "certified tribunal record",
+      "evidence on judicial review",
+      "de novo",
+      "exceptions to record rule",
+      "procedural fairness exception"
+    ],
+    "tested_concepts": [
+      "judicial review confined to tribunal record",
+      "exceptions for procedural fairness and jurisdictional facts",
+      "judicial review not de novo proceeding"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-04-remedy-003",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_remedies",
+    "topic_heading": "Remedies on Judicial Review",
+    "subtopic_id": "jr_remedies",
+    "subtopic_heading": "JR Remedies — Remittal vs Substitution of Decision",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A court on judicial review finds that a federal immigration tribunal's decision to refuse a refugee claim was unreasonable — the tribunal's reasoning was internally incoherent and failed to address key evidence. The applicant asks the court to substitute a decision granting refugee protection, arguing that only one outcome is possible on the evidence. The government argues the court should remit the matter to a differently constituted tribunal.",
+    "call_of_question": "What is the ordinary remedy when a reviewing court finds that an administrative decision is unreasonable under the Vavilov framework, and when, if ever, may a court substitute its own decision?",
+    "options": {
+      "A": "When a decision is found unreasonable, the court must always substitute its own correct decision without remitting to the tribunal.",
+      "B": "When a decision is found unreasonable, the court must always remit to the tribunal; it can never substitute its own decision.",
+      "C": "Under Vavilov, when a court finds a decision unreasonable, the ordinary remedy is remittal — sending the matter back to the decision-maker for redetermination — because the decision-maker, not the court, has the statutory authority to make the decision on the merits. The court may substitute its own decision only in the rare case where the circumstances make it unnecessary or unfair to remit, such as where only one outcome is legally possible.",
+      "D": "The court always has a choice between remittal and substitution; the choice is made based on whichever is more convenient."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, when a reviewing court finds a decision unreasonable, the ordinary remedy is to remit the matter to the decision-maker for redetermination, with or without directions. This reflects the constitutional principle that it is the statutory decision-maker — not the court — that has the authority to make the decision. The court may, however, substitute its own decision in exceptional circumstances where there is only one possible outcome, remittal would serve no useful purpose, or fairness to the parties demands finality. Mere inefficiency or delay in the tribunal system is not a sufficient reason to substitute judgment.",
+    "why_A_wrong": "Incorrect. Vavilov reaffirmed that remittal is the ordinary remedy on unreasonableness review; courts do not automatically substitute their own decision when they find a decision unreasonable.",
+    "why_B_wrong": "Incorrect. While remittal is the ordinary remedy, courts retain discretion to substitute their own decision in the rare circumstances where only one outcome is possible; the rule is not absolute.",
+    "why_C_wrong": "This IS the correct answer. Under Vavilov, when a court finds a decision unreasonable, the ordinary remedy is remittal — sending the matter back to the decision-maker for redetermination — because the decision-maker, not the court, has the statutory authority to make the decision on the merits. The court may substitute its own decision only in the rare case where the circumstances make it unnecessary or unfair to remit, such as where only one outcome is legally possible.",
+    "why_D_wrong": "Incorrect. The choice between remittal and substitution is not a matter of convenience; it is governed by legal principle — remittal is the default, and substitution is reserved for exceptional cases where only one outcome is possible.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "JR Remedies — Remittal vs Substitution of Decision",
+      "page": "N/A",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "remittal",
+      "substitution",
+      "unreasonable decision",
+      "Vavilov remedy",
+      "only one outcome possible"
+    ],
+    "tested_concepts": [
+      "Vavilov remittal as default remedy",
+      "substitution reserved for exceptional cases",
+      "court does not substitute on routine unreasonableness"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-04-delay-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_procedure",
+    "topic_heading": "Judicial Review — Timing and Delay",
+    "subtopic_id": "jr_delay",
+    "subtopic_heading": "Delay in Bringing Judicial Review — Time Limits",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An applicant receives an adverse decision from an Ontario tribunal on March 1, 2024. She does not file a judicial review application until September 15, 2024 — more than six months later. The Judicial Review Procedure Act provides that an application for judicial review shall be made promptly and, in any event, within 30 days after the impugned decision unless the court extends the time. The applicant argues the six-month delay should be excused because she was unaware of the time limit.",
+    "call_of_question": "Under the Judicial Review Procedure Act, what is the time limit for commencing a judicial review application in Ontario, and what is required for an extension of time?",
+    "options": {
+      "A": "There is no time limit for commencing judicial review in Ontario; an applicant may bring an application at any time as long as the issue is still justiciable.",
+      "B": "Under the Judicial Review Procedure Act, an application for judicial review must be made promptly and in any event within 30 days after the impugned decision; the court has discretion to extend the time and will consider factors including the length of the delay, the reasons for delay, prejudice to the respondent, and the merits of the underlying application.",
+      "C": "The time limit for judicial review in Ontario is six months; the applicant has filed within the applicable time limit.",
+      "D": "The 30-day limit is absolute and jurisdictional; no extension is possible under any circumstances."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 5, an application for judicial review shall be made promptly and, in any event, within 30 days after the date of the decision, unless the court extends the time. Courts exercise their discretion to extend the time by considering the length of the delay, whether there is a reasonable explanation for it, whether granting the extension would prejudice the respondent, and whether the underlying application has arguable merit. Ignorance of the time limit is relevant but not automatically sufficient; the applicant here has significantly exceeded the 30-day period and will need to provide a compelling explanation for a six-month delay.",
+    "why_A_wrong": "Incorrect. The JRPA s. 5 imposes a 30-day time limit on applications for judicial review; there is no general open-ended period for commencing such applications.",
+    "why_B_wrong": "This IS the correct answer. Under the Judicial Review Procedure Act, an application for judicial review must be made promptly and in any event within 30 days after the impugned decision; the court has discretion to extend the time and will consider factors including the length of the delay, the reasons for delay, prejudice to the respondent, and the merits of the underlying application.",
+    "why_C_wrong": "Incorrect. The time limit under the JRPA is 30 days, not six months; the applicant has significantly exceeded the statutory deadline and is outside the time limit without an extension.",
+    "why_D_wrong": "Incorrect. The 30-day limit is not absolute and jurisdictional; s. 5 of the JRPA expressly contemplates that the court may extend the time, giving courts discretion to excuse delay in appropriate circumstances.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Delay in Bringing Judicial Review — Time Limits",
+      "page": "N/A",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 5"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "30-day limit",
+      "JRPA s. 5",
+      "extension of time",
+      "delay",
+      "promptly"
+    ],
+    "tested_concepts": [
+      "JRPA 30-day time limit for judicial review",
+      "discretion to extend time on judicial review",
+      "factors for extension of time"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

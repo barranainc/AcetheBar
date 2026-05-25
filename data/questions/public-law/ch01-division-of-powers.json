@@ -274,5 +274,337 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-01-double-asp-001",
+    "subject": "public_law",
+    "chapter_number": 1,
+    "chapter_title": "Division of Powers",
+    "topic_id": "division_of_powers",
+    "topic_heading": "Division of Powers — Double Aspect Doctrine",
+    "subtopic_id": "double_aspect",
+    "subtopic_heading": "Double Aspect Doctrine — Same Matter, Dual Validity",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The federal Securities Act creates a national securities regulator and makes insider trading a federal offence. Quebec enacts its own Securities Act that also prohibits insider trading and imposes provincial administrative penalties. A Quebec trader is investigated under both statutes for the same trades. Quebec argues its law is entirely valid under s. 92(13) (property and civil rights). The federal government argues the provincial law conflicts with the federal scheme.",
+    "call_of_question": "Under the double aspect doctrine, when can both federal and provincial laws on the same subject matter be simultaneously valid?",
+    "options": {
+      "A": "Both laws can never be simultaneously valid when they regulate the same conduct; one must yield to the other through pith and substance analysis.",
+      "B": "Both laws can coexist when they are identical; conflicting provisions cannot both be valid under the double aspect doctrine.",
+      "C": "Under the double aspect doctrine, a single subject of legislation may be validly addressed by both federal and provincial legislatures where each law is directed at a different constitutional purpose and is valid in pith and substance under its respective head of power, even if both target the same conduct.",
+      "D": "The double aspect doctrine applies only to criminal law matters under s. 91(27); it has no application to securities regulation."
+    },
+    "correct_answer": "C",
+    "explanation": "The double aspect doctrine recognizes that some matters have both a federal and a provincial dimension and may be lawfully regulated by both levels of government simultaneously. The doctrine is founded on the principle that characterization of legislation by pith and substance may place it under a federal head of power while the same conduct may also be validly regulated provincially under a different head of power from a different constitutional perspective. Both laws may coexist as long as each is valid in its own right; if operational conflict or frustration of federal purpose arises, federal paramountcy resolves the conflict by rendering the provincial law inoperative to the extent of the inconsistency.",
+    "why_A_wrong": "Incorrect. Pith and substance analysis is used to characterize each law to its proper head of power; the double aspect doctrine then allows both to coexist if each is valid under its respective head.",
+    "why_B_wrong": "Incorrect. The double aspect doctrine does not require identity of provisions; both laws may regulate the same conduct from different constitutional perspectives and both be valid.",
+    "why_C_wrong": "This IS the correct answer. Under the double aspect doctrine, a single subject of legislation may be validly addressed by both federal and provincial legislatures where each law is directed at a different constitutional purpose and is valid in pith and substance under its respective head of power, even if both target the same conduct.",
+    "why_D_wrong": "Incorrect. The double aspect doctrine applies broadly across the division of powers; it is not confined to criminal law matters under s. 91(27).",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 1 — Division of Powers",
+      "heading": "Double Aspect Doctrine — Same Matter, Dual Validity",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92; Canadian Western Bank v Alberta, 2007 SCC 22"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "double aspect doctrine",
+      "dual validity",
+      "coexist",
+      "different constitutional purpose",
+      "paramountcy"
+    ],
+    "tested_concepts": [
+      "double aspect doctrine",
+      "dual validity under different heads of power",
+      "paramountcy resolves conflicts"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-01-s91-27-001",
+    "subject": "public_law",
+    "chapter_number": 1,
+    "chapter_title": "Division of Powers",
+    "topic_id": "division_of_powers",
+    "topic_heading": "Division of Powers — Section 91(27) Criminal Law Power",
+    "subtopic_id": "s91_crim_law",
+    "subtopic_heading": "Section 91(27) — Breadth of Federal Criminal Law Power",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Parliament enacts legislation prohibiting certain pesticides that scientific evidence indicates may cause harm to human health. The legislation creates criminal offences and monetary penalties for manufacturers, distributors, and retailers who produce or sell the prohibited pesticides. Alberta argues the legislation is really environmental regulation within provincial jurisdiction and that Parliament cannot use the criminal law power as a pretext to regulate industries that fall under provincial jurisdiction.",
+    "call_of_question": "Under s. 91(27) of the Constitution Act, 1867, what are the constitutional requirements for a valid exercise of the federal criminal law power?",
+    "options": {
+      "A": "Federal criminal law must target conduct that was already criminal at common law; Parliament cannot criminalize new conduct using s. 91(27).",
+      "B": "Federal criminal law under s. 91(27) requires: (1) a prohibition; (2) a penalty; and (3) a criminal law purpose — typically protection of a public interest such as public safety, public health, public morality, or security. The breadth of the criminal law power is wide, and courts do not require Parliament to prove the prohibited conduct is immoral.",
+      "C": "Section 91(27) authorizes Parliament to regulate any industry if it attaches a criminal penalty to the regulatory scheme; the penalty alone satisfies the criminal law purpose requirement.",
+      "D": "Parliament may only use s. 91(27) to legislate on matters exclusively federal in nature; the criminal law power cannot be used for matters that also fall within provincial jurisdiction."
+    },
+    "correct_answer": "B",
+    "explanation": "The three-part test for valid federal criminal law was established in Reference re Firearms Act, [2000] 1 SCR 783, and confirmed in R v Morgentaler, [1993] 3 SCR 463. The legislation must: (1) contain a prohibition; (2) backed by a penalty; and (3) be directed at a criminal law purpose such as public safety, public health, public morality, public order, or security. Courts give Parliament wide latitude under s. 91(27); protection of public health — including from harmful pesticides — is a recognized criminal law purpose. The law is not invalidated simply because it also incidentally affects provincially regulated industries, provided the dominant purpose is genuinely criminal.",
+    "why_A_wrong": "Incorrect. Section 91(27) is not limited to criminalizing historically criminal conduct; Parliament has broad power to create new criminal prohibitions in furtherance of recognized criminal law purposes.",
+    "why_B_wrong": "This IS the correct answer. Federal criminal law under s. 91(27) requires: (1) a prohibition; (2) a penalty; and (3) a criminal law purpose — typically protection of a public interest such as public safety, public health, public morality, or security. The breadth of the criminal law power is wide, and courts do not require Parliament to prove the prohibited conduct is immoral.",
+    "why_C_wrong": "Incorrect. A penalty alone does not satisfy the criminal law purpose requirement; the legislation must also have a genuine criminal law purpose, not merely a regulatory one with a penalty attached.",
+    "why_D_wrong": "Incorrect. The criminal law power under s. 91(27) may validly affect matters that also fall within provincial jurisdiction; incidental effects on provincial matters do not invalidate an otherwise valid criminal law.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 1 — Division of Powers",
+      "heading": "Section 91(27) — Breadth of Federal Criminal Law Power",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1867, s. 91(27); Reference re Firearms Act, [2000] 1 SCR 783; R v Morgentaler, [1993] 3 SCR 463"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 91(27)",
+      "criminal law power",
+      "prohibition penalty purpose",
+      "public health",
+      "Firearms Act"
+    ],
+    "tested_concepts": [
+      "three-part test for valid criminal law",
+      "prohibition penalty criminal law purpose",
+      "breadth of s. 91(27)",
+      "Reference re Firearms Act"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-01-s92-13-001",
+    "subject": "public_law",
+    "chapter_number": 1,
+    "chapter_title": "Division of Powers",
+    "topic_id": "division_of_powers",
+    "topic_heading": "Division of Powers — Section 92(13) Property and Civil Rights",
+    "subtopic_id": "s92_prop_civil",
+    "subtopic_heading": "Section 92(13) — Property and Civil Rights in the Province",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Ontario enacts legislation regulating insurance contracts, including requiring insurance companies operating in Ontario to include mandatory coverage provisions and prohibiting certain exclusions. An insurance company incorporated federally under the Insurance Companies Act argues that the provincial legislation is constitutionally invalid because insurance is a federally regulated industry and therefore falls outside provincial jurisdiction.",
+    "call_of_question": "Under s. 92(13) of the Constitution Act, 1867, can Ontario validly regulate the terms of insurance contracts entered into in Ontario?",
+    "options": {
+      "A": "No. Insurance is an enumerated head of federal power under s. 91 of the Constitution Act, 1867, and provinces have no jurisdiction to regulate it.",
+      "B": "Yes. Section 92(13) grants the provinces exclusive jurisdiction over 'property and civil rights in the province,' which has been held to include the regulation of contracts, including insurance contracts. Provinces may validly regulate the terms of insurance contracts so long as the dominant purpose of the provincial law is not in pith and substance within a federal head of power.",
+      "C": "No. Federally incorporated insurance companies are immune from provincial regulation under the doctrine of interjurisdictional immunity.",
+      "D": "Yes, but only if the Ontario legislation is identical to the federal Insurance Companies Act provisions."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 92(13) of the Constitution Act, 1867, grants provinces exclusive jurisdiction over 'property and civil rights in the province.' This head of power has been interpreted broadly to include the law of contracts, torts, and property, as well as the regulation of many commercial activities including insurance. Provincial regulation of the terms of insurance contracts — mandatory coverage provisions, prohibited exclusions — falls within s. 92(13) as a matter of property and civil rights. Insurance is not an enumerated federal head of power; federal jurisdiction over insurance companies (their incorporation and solvency) derives from s. 91(2) (trade and commerce) and related powers, but the regulation of insurance contracts in the province remains predominantly provincial.",
+    "why_A_wrong": "Incorrect. Insurance regulation is not an enumerated federal head of power; the Supreme Court has confirmed that provinces have jurisdiction to regulate the terms of insurance contracts under s. 92(13).",
+    "why_B_wrong": "This IS the correct answer. Yes. Section 92(13) grants the provinces exclusive jurisdiction over 'property and civil rights in the province,' which has been held to include the regulation of contracts, including insurance contracts. Provinces may validly regulate the terms of insurance contracts so long as the dominant purpose of the provincial law is not in pith and substance within a federal head of power.",
+    "why_C_wrong": "Incorrect. The doctrine of interjurisdictional immunity does not immunize all activities of federally incorporated companies from provincial regulation; IJI requires impairment of the vital or essential core of the federal undertaking, not mere regulation of contract terms.",
+    "why_D_wrong": "Incorrect. Provinces need not mirror federal legislation to exercise their s. 92(13) jurisdiction; Ontario may enact insurance regulation that differs from federal provisions, subject to the paramountcy doctrine if operational conflict arises.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 1 — Division of Powers",
+      "heading": "Section 92(13) — Property and Civil Rights in the Province",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1867, s. 92(13); Canadian Western Bank v Alberta, 2007 SCC 22"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 92(13)",
+      "property and civil rights",
+      "insurance contracts",
+      "provincial jurisdiction",
+      "contracts"
+    ],
+    "tested_concepts": [
+      "s. 92(13) broad scope including contracts",
+      "provincial insurance regulation",
+      "property and civil rights in the province"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-01-iji-002",
+    "subject": "public_law",
+    "chapter_number": 1,
+    "chapter_title": "Division of Powers",
+    "topic_id": "division_of_powers",
+    "topic_heading": "Division of Powers — Interjurisdictional Immunity",
+    "subtopic_id": "interjurisdictional_immunity",
+    "subtopic_heading": "Interjurisdictional Immunity — Banks and Indian Reserves",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "First National Bank of Canada, a federally chartered bank, operates a branch in Ontario. Ontario attempts to apply a provincial consumer protection statute requiring all lenders to disclose certain information and to comply with a maximum interest disclosure standard. The bank argues that as a federal undertaking under s. 91(15) (banking), it is immune from provincial consumer protection legislation under the doctrine of interjurisdictional immunity.",
+    "call_of_question": "Under the doctrine of interjurisdictional immunity as restated in Canadian Western Bank v Alberta, does a provincial consumer protection statute apply to a federally chartered bank?",
+    "options": {
+      "A": "No. All provincial laws are automatically inapplicable to federally chartered banks because banking is an enumerated federal head of power under s. 91(15).",
+      "B": "Yes. Under Canadian Western Bank, interjurisdictional immunity requires impairment of the vital or essential core of banking; general consumer protection disclosure requirements do not impair that core and may validly apply to federally chartered banks.",
+      "C": "No. Provincial consumer protection laws are always inapplicable to banks because they regulate the terms of banking contracts, which is the exclusive domain of federal banking regulation.",
+      "D": "Yes, but only if the provincial law has been specifically authorized by the federal Bank Act."
+    },
+    "correct_answer": "B",
+    "explanation": "In Canadian Western Bank v Alberta, 2007 SCC 22, the Supreme Court of Canada rejected the broad application of interjurisdictional immunity and held that the doctrine should be applied with restraint, reserved for impairment of the vital and essential core of a federal undertaking. Provincial consumer protection laws that impose general disclosure obligations do not impair the essential banking functions of a federally chartered bank; they regulate the bank's conduct in the consumer marketplace in a manner similar to how any commercial lender would be regulated. Such laws are not inapplicable under IJI. If a conflict arises with specific federal banking regulation, the paramountcy doctrine would resolve it.",
+    "why_A_wrong": "Incorrect. The fact that banking is an enumerated federal head of power does not mean all provincial laws are automatically inapplicable; IJI requires impairment of the vital or essential core, and mere regulation of banking activities does not establish inapplicability.",
+    "why_B_wrong": "This IS the correct answer. Yes. Under Canadian Western Bank, interjurisdictional immunity requires impairment of the vital or essential core of banking; general consumer protection disclosure requirements do not impair that core and may validly apply to federally chartered banks.",
+    "why_C_wrong": "Incorrect. Provincial consumer protection laws do not automatically become inapplicable to banks simply because banking contracts are regulated federally; the IJI doctrine requires showing that the specific provincial law impairs the core of banking, which general disclosure requirements do not.",
+    "why_D_wrong": "Incorrect. Provincial laws do not require specific federal authorization to apply to federally regulated entities; the analysis is whether the provincial law impairs the vital or essential core of the federal undertaking, not whether Parliament has approved the provincial law.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 1 — Division of Powers",
+      "heading": "Interjurisdictional Immunity — Banks and Indian Reserves",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1867, s. 91(15) (banking), s. 92(13); Canadian Western Bank v Alberta, 2007 SCC 22"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "interjurisdictional immunity",
+      "banking s. 91(15)",
+      "vital or essential core",
+      "consumer protection",
+      "Canadian Western Bank"
+    ],
+    "tested_concepts": [
+      "IJI applied with restraint post-Canadian Western Bank",
+      "core of banking not impaired by general consumer protection",
+      "paramountcy as alternative resolution"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-01-pogg-002",
+    "subject": "public_law",
+    "chapter_number": 1,
+    "chapter_title": "Division of Powers",
+    "topic_id": "division_of_powers",
+    "topic_heading": "Division of Powers — POGG Power",
+    "subtopic_id": "pogg",
+    "subtopic_heading": "Peace, Order and Good Government — Emergency Branch",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Facing a sudden and severe national shortage of essential pharmaceutical drugs caused by a coordinated cyberattack on supply chains, the federal Cabinet invokes emergency legislation to commandeer provincial hospital pharmacies and centralize drug distribution. Several provinces argue that pharmaceutical regulation and hospital administration fall under provincial jurisdiction under ss. 92(7) and 92(13) of the Constitution Act, 1867, and that the federal law is constitutionally invalid.",
+    "call_of_question": "Under the emergency branch of the POGG power, what conditions must Parliament satisfy to justify legislation that intrudes significantly into provincial jurisdiction?",
+    "options": {
+      "A": "The emergency branch of POGG permits Parliament to permanently regulate any matter it declares to be a national emergency, regardless of whether the emergency conditions persist.",
+      "B": "Under the emergency branch, Parliament may temporarily override provincial jurisdiction in response to a genuine national emergency — war, famine, epidemic, or comparable crisis — where the emergency is real, temporary, and of such pressing magnitude that it justifies federal intrusion; the emergency power lapses when the emergency ends.",
+      "C": "The emergency branch of POGG applies only in time of war declared by Parliament; peacetime economic or public health crises cannot engage the emergency branch.",
+      "D": "The emergency branch requires prior provincial consent; Parliament cannot override provincial jurisdiction under the emergency branch without the agreement of at least seven provinces representing fifty percent of the population."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Constitution Act, 1867, s. 91 (POGG preamble), and as established in Reference re Anti-Inflation Act, [1976] 2 SCR 373, and Reference re Wartime Leasehold Regulations, [1950] SCR 124, the emergency branch of POGG authorizes Parliament to enact legislation in response to a genuine national emergency. The emergency must be real and of sufficient gravity to warrant temporary federal intrusion into matters otherwise within provincial jurisdiction. Crucially, the emergency power is temporary — legislation justified under the emergency branch must lapse or be repealed when the emergency conditions no longer persist. The branch is not limited to wartime; it extends to any genuine national crisis of sufficient magnitude.",
+    "why_A_wrong": "Incorrect. The emergency branch does not authorize permanent federal regulation; legislation must be genuinely temporary and must lapse when the emergency ends. Permanent regulation requires reliance on the national concern branch, which has its own conditions.",
+    "why_B_wrong": "This IS the correct answer. Under the emergency branch, Parliament may temporarily override provincial jurisdiction in response to a genuine national emergency — war, famine, epidemic, or comparable crisis — where the emergency is real, temporary, and of such pressing magnitude that it justifies federal intrusion; the emergency power lapses when the emergency ends.",
+    "why_C_wrong": "Incorrect. The emergency branch is not confined to wartime; Reference re Anti-Inflation Act confirmed it can apply to severe peacetime economic crises, and public health emergencies have been recognized as capable of engaging the emergency branch.",
+    "why_D_wrong": "Incorrect. The emergency branch of POGG does not require prior provincial consent; it operates as an emergency exception to the ordinary division of powers without needing interprovincial agreement or any constitutional amending formula.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 1 — Division of Powers",
+      "heading": "Peace, Order and Good Government — Emergency Branch",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1867, s. 91 (POGG preamble); Reference re Anti-Inflation Act, [1976] 2 SCR 373; Reference re Wartime Leasehold Regulations, [1950] SCR 124"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "POGG emergency branch",
+      "national emergency",
+      "temporary federal intrusion",
+      "Anti-Inflation Act",
+      "wartime"
+    ],
+    "tested_concepts": [
+      "POGG emergency branch conditions",
+      "temporary nature of emergency power",
+      "distinction from national concern branch",
+      "peacetime emergencies can qualify"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-01-pith-002",
+    "subject": "public_law",
+    "chapter_number": 1,
+    "chapter_title": "Division of Powers",
+    "topic_id": "division_of_powers",
+    "topic_heading": "Division of Powers — Characterization of Legislation",
+    "subtopic_id": "pith_and_substance",
+    "subtopic_heading": "Pith and Substance Analysis — Incidental Effects",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Ontario enacts the Environmental Protection and Responsibility Act, which imposes civil liability on manufacturers of toxic chemicals for environmental damage caused by their products. The dominant purpose of the legislation is to create a compensation scheme for environmental harm caused by the chemical industry in Ontario. The legislation has the incidental effect of raising the cost of manufacturing chemicals in Ontario, which may affect interprovincial trade. A chemical manufacturer argues the law is really trade regulation within exclusive federal jurisdiction.",
+    "call_of_question": "Under the pith and substance doctrine, when do incidental effects of provincial legislation on a federal head of power render the provincial law unconstitutional?",
+    "options": {
+      "A": "Any incidental effect of provincial legislation on a matter within federal jurisdiction automatically renders the provincial law unconstitutional.",
+      "B": "Incidental effects on federal matters render the provincial law unconstitutional only if the federal government objects in writing.",
+      "C": "Under the pith and substance doctrine, incidental effects of a provincial law on matters within federal jurisdiction do not render the law unconstitutional, provided the dominant purpose and legal effect of the law fall within a valid head of provincial power; a law is characterized by its pith and substance, not by its incidental effects.",
+      "D": "A provincial law with any effect on interprovincial trade is automatically within federal jurisdiction under the trade and commerce power in s. 91(2)."
+    },
+    "correct_answer": "C",
+    "explanation": "The pith and substance doctrine holds that legislation is characterized by its dominant purpose and legal effect (its 'matter'), not by its incidental effects on other matters. A valid provincial law may incidentally affect matters within federal jurisdiction without becoming unconstitutional on that basis alone, as long as its dominant purpose is within provincial jurisdiction. Here, a provincial compensation scheme for environmental harm is properly characterized as a matter of property and civil rights (s. 92(13)) and environmental protection, which are provincial. The incidental effect of raising production costs, while touching on interprovincial trade, does not change the pith and substance of the legislation.",
+    "why_A_wrong": "Incorrect. The pith and substance doctrine expressly accommodates incidental effects; it is the dominant purpose that determines characterization, not incidental effects.",
+    "why_B_wrong": "Incorrect. The constitutional validity of provincial legislation does not depend on federal government objection; it depends on whether the law, characterized by its pith and substance, falls within a valid provincial head of power.",
+    "why_C_wrong": "This IS the correct answer. Under the pith and substance doctrine, incidental effects of a provincial law on matters within federal jurisdiction do not render the law unconstitutional, provided the dominant purpose and legal effect of the law fall within a valid head of provincial power; a law is characterized by its pith and substance, not by its incidental effects.",
+    "why_D_wrong": "Incorrect. A provincial law is not automatically federalized by having an effect on interprovincial trade; the trade and commerce power under s. 91(2) does not capture every provincial law that affects commercial activity.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 1 — Division of Powers",
+      "heading": "Pith and Substance Analysis — Incidental Effects",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92; Canadian Western Bank v Alberta, 2007 SCC 22; Reference re Firearms Act, [2000] 1 SCR 783"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "pith and substance",
+      "incidental effects",
+      "dominant purpose",
+      "characterization",
+      "valid provincial law"
+    ],
+    "tested_concepts": [
+      "incidental effects do not invalidate valid provincial law",
+      "dominant purpose characterization",
+      "pith and substance doctrine"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

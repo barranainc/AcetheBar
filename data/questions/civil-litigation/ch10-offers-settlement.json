@@ -273,5 +273,115 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-10-ots-006",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "withdrawal_of_offer",
+    "subtopic_heading": "Withdrawal of an Offer Before Acceptance — r.49.04",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The plaintiff served a written offer to settle for $120,000 on October 1. On October 15, before the defendant responded, the plaintiff's counsel served a written notice of withdrawal of the offer. On October 17, the defendant's counsel served a written acceptance of the $120,000 offer.",
+    "call_of_question": "Under r.49.04 of the Rules of Civil Procedure, is the defendant's acceptance of October 17 effective to create a binding settlement?",
+    "options": {
+      "A": "Yes — once an offer is served, it cannot be withdrawn unilaterally; the defendant's acceptance is binding and a settlement has been concluded.",
+      "B": "Yes — an offer to settle can only be withdrawn after the offeree has had a reasonable time to consider it; 14 days is not a reasonable time, so the withdrawal is ineffective.",
+      "C": "No — under r.49.04(1), an offer to settle may be withdrawn at any time before it is accepted, by serving written notice of withdrawal on the other party; a withdrawal served before acceptance terminates the offer.",
+      "D": "No — the offer is deemed accepted because the defendant accepted within 30 days of service of the original offer."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.49.04(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), an offer to settle may be withdrawn at any time before it is accepted, by serving a written notice of withdrawal on the party to whom the offer was made. The offer was made on October 1 and the written notice of withdrawal was served on October 15 — before any acceptance by the defendant. The defendant's purported acceptance on October 17 was therefore made after the offer had already been validly withdrawn, and no binding settlement was created. There is no minimum period during which an offeror must hold an offer open.",
+    "why_A_wrong": "Rule 49.04(1) expressly provides that an offer may be withdrawn at any time before acceptance by serving written notice of withdrawal. An offer to settle is not irrevocable once served.",
+    "why_B_wrong": "There is no 'reasonable time' minimum that must elapse before an offer may be withdrawn under r.49.04. The withdrawal right is exercisable at any time before acceptance, without any waiting period.",
+    "why_C_wrong": "This IS the correct answer. Rule 49.04(1) permits withdrawal at any time before acceptance by written notice; the plaintiff's withdrawal on October 15 was effective and the October 17 acceptance has no legal effect.",
+    "why_D_wrong": "There is no 30-day deemed acceptance rule. An offer may be withdrawn at any time before the offeree serves an acceptance; the 30-day period is not a concept found in r.49.04.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Offers to Settle",
+      "heading": "Withdrawal of an Offer Before Acceptance — r.49.04",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.04(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "withdrawal of offer",
+      "r.49.04",
+      "before acceptance",
+      "written notice",
+      "irrevocable"
+    ],
+    "tested_concepts": [
+      "offer may be withdrawn at any time before acceptance — r.49.04(1)",
+      "withdrawal by written notice effective before acceptance",
+      "no minimum holding period"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-10-ots-007",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "costs_consequences_offers",
+    "subtopic_heading": "Cost Consequences — Offer Not Accepted; Plaintiff's Recovery Exceeds Defendant's Offer",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "In a product liability action, the defendant served a written offer to settle for $200,000 two months before trial. The plaintiff rejected the offer and proceeded to trial. The plaintiff was awarded $250,000 — more than the defendant's offer. The defendant argues that because the judgment exceeded its own offer, there should be no cost consequences against the plaintiff, as the plaintiff 'beat' the defendant's offer.",
+    "call_of_question": "Under r.49.10 of the Rules of Civil Procedure, does the cost consequences provision apply where the plaintiff obtains a judgment more favourable than the defendant's offer?",
+    "options": {
+      "A": "Yes — r.49.10(1) still applies, and the plaintiff must pay the defendant's partial indemnity costs from the date of the offer, regardless of the outcome.",
+      "B": "No — r.49.10(1) applies only where the plaintiff's recovery is no more favourable than the defendant's offer; where the plaintiff's recovery exceeds the defendant's offer, the defendant's offer is not triggered and the ordinary costs follow the event principle applies.",
+      "C": "Yes — r.49.10(1) applies to any rejected offer, and the plaintiff must always pay substantial indemnity costs from the date the defendant made any offer, regardless of the trial outcome.",
+      "D": "No — where the plaintiff's recovery exceeds any offer made by either party, costs are fixed at zero because all offers failed."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.49.10(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the defendant's cost-shifting consequence is triggered only where the plaintiff obtains a judgment that is no more favourable than the terms of the defendant's offer. In other words, the plaintiff must fail to beat the defendant's offer for r.49.10(1) to apply. Where, as here, the plaintiff's recovery of $250,000 exceeds the defendant's offer of $200,000, the plaintiff has obtained a result more favourable than the defendant's offer. Rule 49.10(1) is not triggered. The ordinary costs-follow-the-event rule applies, and the plaintiff is entitled to its costs as the successful party. The defendant's offer created no adverse cost consequence for the plaintiff.",
+    "why_A_wrong": "Rule 49.10(1) is not triggered where the plaintiff beats the defendant's offer. The cost-shifting provision only applies where the plaintiff's recovery is no more favourable than the defendant's offer.",
+    "why_B_wrong": "This IS the correct answer. Rule 49.10(1) requires that the plaintiff's recovery be no more favourable than the defendant's offer to trigger the cost-shifting consequences. Where the plaintiff beats the defendant's offer, ordinary costs apply.",
+    "why_C_wrong": "Rule 49.10(1) does not apply to every rejected defendant's offer. The triggering condition is that the plaintiff's recovery does not exceed the offer. Substantial indemnity is not automatically imposed on the plaintiff simply because the defendant made an offer.",
+    "why_D_wrong": "Where the plaintiff beats the defendant's offer at trial and succeeds, costs do not fall to zero. The successful plaintiff is entitled to ordinary costs on the costs-follow-the-event principle; no offer-to-settle cost consequence arises.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Offers to Settle",
+      "heading": "Cost Consequences — Offer Not Accepted; Plaintiff's Recovery Exceeds Defendant's Offer",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.10(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "r.49.10(1)",
+      "no more favourable",
+      "beats defendant's offer",
+      "cost consequences",
+      "triggering condition"
+    ],
+    "tested_concepts": [
+      "r.49.10(1) — triggered only if plaintiff fails to beat defendant's offer",
+      "where plaintiff beats offer — no r.49.10(1) consequence",
+      "ordinary costs-follow-the-event where offer not triggered"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

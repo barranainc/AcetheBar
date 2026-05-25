@@ -163,5 +163,116 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-16-counsel-001",
+    "subject": "civil_litigation",
+    "chapter_number": 16,
+    "chapter_title": "Class Proceedings",
+    "topic_id": "class_proceedings",
+    "topic_heading": "Class Proceedings in Ontario",
+    "subtopic_id": "class_counsel_duties",
+    "subtopic_heading": "Class Counsel Duties — Duty to Class Members and Court",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Beaumont Class Counsel LLP has been retained as class counsel in a certified environmental contamination class action. During settlement negotiations, counsel negotiates a settlement that provides meaningful compensation to class members with properties in Zone A (where contamination was severe) but provides minimal recovery to class members in Zone B (where contamination was lighter). Some Zone B class members object that the settlement does not adequately represent their interests. Class counsel argues it has a duty to the class as a whole and that any settlement providing a net benefit to the majority satisfies its obligations.",
+    "call_of_question": "Which of the following best describes class counsel's duties in a class proceeding, particularly where different sub-groups of the class have potentially divergent interests?",
+    "options": {
+      "A": "Class counsel owes duties only to the representative plaintiff, not to individual class members; class members must retain their own counsel if they wish to challenge the settlement.",
+      "B": "Class counsel owes a duty to the class as a whole. Where different sub-groups have materially divergent interests, class counsel must consider those divergent interests and, where appropriate, ensure that the settlement is fair to all segments of the class — or disclose the conflict to the court; a settlement that systematically disadvantages a subgroup may not receive court approval.",
+      "C": "Class counsel's only obligation is to obtain court approval of the settlement; once the court approves the settlement, all class members are bound regardless of whether their interests were adequately considered.",
+      "D": "Class counsel may prioritize the interests of the most economically significant group of class members, as the obligation is to maximize the total recovery for the class as a whole without regard to internal allocation."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s.29 of the Class Proceedings Act, 1992 (S.O. 1992, c. 6) and the professional obligations of class counsel, class counsel owes duties to the class as a whole. In a certified class proceeding, class counsel represents all class members, not only the representative plaintiff and not only the most vocal or economically significant sub-group. Where different segments of the class have materially divergent interests — for example, Zone A and Zone B class members with different contamination exposures — class counsel must address the potential for internal class conflicts. If interests are sufficiently divergent, the court may require separate representation for sub-groups. Court approval of a settlement is required under s.29 of the CPA, and the court will assess whether the settlement is fair, reasonable, and in the best interests of the class as a whole — including all sub-groups. A settlement that systematically disadvantages a sub-group without adequate justification risks being refused court approval.",
+    "why_A_wrong": "Class counsel owes duties to all class members, not only the representative plaintiff. In a class proceeding, class counsel represents the interests of all class members, and individual class members cannot simply be told to retain their own counsel if their interests are not being adequately represented.",
+    "why_B_wrong": "This IS the correct answer. Class counsel owes a duty to the class as a whole; divergent sub-group interests must be addressed, and settlements that disadvantage a sub-group without adequate justification may not receive court approval.",
+    "why_C_wrong": "Court approval under s.29 of the CPA is a substantive protective mechanism, not merely a rubber stamp. The court assesses whether the settlement is fair, reasonable, and in the best interests of all class members; approval does not automatically follow from the parties' agreement.",
+    "why_D_wrong": "Maximizing total recovery without regard to internal allocation is not the appropriate standard. Class counsel must consider the fairness of the allocation among all class members and cannot simply subordinate the interests of a disadvantaged sub-group to maximize aggregate recovery.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Class Proceedings",
+      "heading": "Class Counsel Duties — Duty to Class Members and Court",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Class Proceedings Act, 1992, S.O. 1992, c. 6, s.29"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "class counsel's duty to all class members — conflict of interest where sub-groups have divergent interests"
+    },
+    "exam_trigger_words": [
+      "class counsel",
+      "duty to class",
+      "divergent interests",
+      "sub-group",
+      "settlement approval"
+    ],
+    "tested_concepts": [
+      "class counsel duty to class as a whole",
+      "divergent sub-group interests — must be addressed",
+      "s.29 CPA court approval — fair to all class segments",
+      "PR angle — class counsel conflict of interest"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-16-notice-001",
+    "subject": "civil_litigation",
+    "chapter_number": 16,
+    "chapter_title": "Class Proceedings",
+    "topic_id": "class_proceedings",
+    "topic_heading": "Class Proceedings in Ontario",
+    "subtopic_id": "notice_to_class",
+    "subtopic_heading": "Notice to Class Members — Court Approval Required",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A class proceeding involving a data breach has been certified. Class counsel proposes to give notice to class members by posting a notice on the defendant's website and by sending an email to all class members whose email addresses are known. The defendant objects that the notice plan is insufficient, while two class members object that the email notice is too burdensome and they prefer mail notification.",
+    "call_of_question": "Under the Class Proceedings Act, 1992, who has the authority to approve the method and content of notice to class members, and what is the standard applied?",
+    "options": {
+      "A": "Class counsel has sole discretion over the method and content of notice; the court plays no role in approving the notice plan.",
+      "B": "The defendant has the right to veto any notice plan it considers insufficient; the defendant's consent to the notice plan is required before any notice may be given.",
+      "C": "The court must approve the method and content of notice to class members; the notice must be given in the best practicable manner in the circumstances, and the court determines whether the proposed plan satisfies this standard.",
+      "D": "Individual class members must consent to their chosen method of receiving notice; if any class member objects to the proposed notice method, that member is automatically excluded from the class."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Class Proceedings Act, 1992 (S.O. 1992, c. 6) and the Rules of Civil Procedure, the court must approve both the method and the content of notice to class members. The standard is that notice must be given in the best practicable manner in the circumstances, taking into account the number of class members, the cost of notice, and the most effective means of reaching class members. The court determines whether the proposed notice plan — including the channels of communication, the timing, and the content — satisfies this standard. Neither class counsel nor the defendant has unilateral authority to determine the notice plan; court approval is required. Individual class members who prefer a different method of notice do not have a veto over the approved notice plan.",
+    "why_A_wrong": "Class counsel does not have sole discretion over the notice plan. Court approval of the method and content of notice is required under the Class Proceedings Act, 1992.",
+    "why_B_wrong": "The defendant does not have a veto over the notice plan. The defendant may make submissions to the court about the adequacy of the proposed notice, but the court — not the defendant — approves or rejects the notice plan.",
+    "why_C_wrong": "This IS the correct answer. The court must approve the notice plan; the standard is the best practicable manner in the circumstances, and the court determines whether the proposed plan satisfies this requirement.",
+    "why_D_wrong": "Individual class members do not have a veto over the notice plan. Class members who object to the chosen notice method may raise their concerns through opt-out or through submissions, but their objection does not automatically exclude them from the class or allow them to demand a different notice method.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Class Proceedings",
+      "heading": "Notice to Class Members — Court Approval Required",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Class Proceedings Act, 1992, S.O. 1992, c. 6, s.17; Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.12.07"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "notice to class members",
+      "court approval",
+      "best practicable manner",
+      "notice plan",
+      "Class Proceedings Act"
+    ],
+    "tested_concepts": [
+      "court must approve notice plan — CPA 1992",
+      "best practicable manner standard",
+      "neither counsel nor defendant has unilateral authority over notice"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

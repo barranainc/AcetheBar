@@ -163,5 +163,201 @@
       "documents belong to client not lawyer"
     ],
     "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-09-mand-002",
+    "chapter_number": 9,
+    "chapter_title": "Withdrawal from Representation",
+    "topic_id": "withdrawal",
+    "topic_heading": "Withdrawal from Representation — Rule 3.7",
+    "subtopic_id": "mandatory_withdrawal_perjury",
+    "subtopic_heading": "Mandatory Withdrawal — Client Persists in Perjury or Misleading Court",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Cordelia is defending a client charged with assault causing bodily harm. At a pre-trial conference, Cordelia advises the client that his proposed testimony directly contradicts all physical and digital evidence and that Cordelia believes the proposed evidence would be perjured. The client insists he will testify as planned. Cordelia advises the client again in writing that she cannot continue if he intends to give false evidence. The client is unmoved and instructs Cordelia to proceed.",
+    "call_of_question": "What must Cordelia do under Rule 3.7-7 when a client persists in the intention to give perjured testimony?",
+    "options": {
+      "A": "Cordelia may continue the representation because she has fulfilled her obligation by advising the client in writing of the professional consequences.",
+      "B": "Cordelia may continue but must refrain from calling the client as a witness; she may present the defence through other means without eliciting the false testimony.",
+      "C": "Cordelia must withdraw from the representation; Rule 3.7-7 requires mandatory withdrawal where the client persists in an instruction that would require the lawyer to engage in conduct that is dishonest or that would mislead the court; a lawyer cannot continue to represent a client who insists on giving testimony the lawyer believes to be perjured.",
+      "D": "Cordelia may continue if she applies to the court for leave to cross-examine her own client to challenge the false testimony during the client's examination-in-chief."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.7-7 of the LSO Rules of Professional Conduct requires mandatory withdrawal in circumstances where the client persists in conduct that would require the lawyer to mislead the court or engage in dishonest conduct. A client who insists on giving testimony the lawyer believes to be perjured falls squarely within this category. Cordelia cannot continue — she must withdraw. The fact that she has warned the client does not authorize her to continue the retainer and facilitate or allow the false testimony to proceed. The only permissible course is withdrawal.",
+    "why_A_wrong": "Incorrect. Written warning does not authorize continuation of the retainer when the client persists in the instruction. The obligation is mandatory withdrawal, not merely advisement.",
+    "why_B_wrong": "Incorrect. While not calling the client as a witness may be one consequence, the client's instruction that the lawyer facilitate a defence strategy built around false evidence means Cordelia cannot continue the representation at all — she must withdraw.",
+    "why_C_wrong": "This IS the correct answer. Cordelia must withdraw from the representation; Rule 3.7-7 requires mandatory withdrawal where the client persists in an instruction that would require the lawyer to engage in conduct that is dishonest or that would mislead the court; a lawyer cannot continue to represent a client who insists on giving testimony the lawyer believes to be perjured.",
+    "why_D_wrong": "Incorrect. There is no mechanism permitting a defence lawyer to cross-examine their own client during examination-in-chief. This is not a permissible approach and does not address the mandatory withdrawal obligation.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 9",
+      "heading": "Withdrawal from Representation",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.7-7 (mandatory withdrawal — client persists in perjury)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "mandatory withdrawal — client persists in giving perjured testimony"
+    },
+    "exam_trigger_words": ["perjury", "false testimony", "mandatory withdrawal", "persists", "Rule 3.7-7"],
+    "tested_concepts": [
+      "Rule 3.7-7 — mandatory withdrawal when client persists in perjury",
+      "written warning does not authorize continuation",
+      "lawyer cannot facilitate false evidence by remaining in retainer"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-09-nonpay-001",
+    "chapter_number": 9,
+    "chapter_title": "Withdrawal from Representation",
+    "topic_id": "withdrawal",
+    "topic_heading": "Withdrawal from Representation — Rule 3.7",
+    "subtopic_id": "nonpayment_withdrawal",
+    "subtopic_heading": "Non-Payment of Fees — Permissive Withdrawal Requirements",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Dante has been representing a client in a family law matter for 10 months. The client owes $22,000 in unpaid fees. Dante has sent three invoices, each with payment due in 30 days, all of which have been ignored. Dante has not given the client any specific warning that he intends to withdraw if payment is not received. He now wants to withdraw immediately without any further notice.",
+    "call_of_question": "What steps must Dante take before withdrawing on the basis of non-payment of fees under Rule 3.7-1?",
+    "options": {
+      "A": "Dante may withdraw immediately upon discovering non-payment; no additional steps are required once fees are overdue.",
+      "B": "Dante must give the client reasonable notice of his intention to withdraw for non-payment, including a clear statement that the retainer will be terminated if fees are not paid; he must give the client a reasonable opportunity to pay or make alternative arrangements before withdrawing.",
+      "C": "Dante must first obtain a court order authorizing his withdrawal before he can terminate the retainer for non-payment.",
+      "D": "Dante may withdraw immediately but must file a motion with the court to have the client declared liable for Dante's outstanding fees as a condition of withdrawal."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.7-1 recognizes non-payment of fees as a ground for optional withdrawal, but the right to withdraw is not automatic or immediate. The Commentary to Rule 3.7-1 requires that before withdrawing for non-payment, the lawyer must give the client reasonable notice of the intention to withdraw if fees are not paid and must provide the client a reasonable opportunity to address the non-payment. Withdrawal without any notice to the client — beyond having sent unpaid invoices — does not satisfy this requirement. Dante must specifically warn the client that the retainer will be terminated if fees are not paid, and then allow a reasonable time to respond.",
+    "why_A_wrong": "Incorrect. Overdue invoices alone do not authorize immediate withdrawal without notice. Rule 3.7-1 requires the lawyer to specifically notify the client of the intention to withdraw for non-payment and allow a reasonable opportunity to respond.",
+    "why_B_wrong": "This IS the correct answer. Dante must give the client reasonable notice of his intention to withdraw for non-payment, including a clear statement that the retainer will be terminated if fees are not paid; he must give the client a reasonable opportunity to pay or make alternative arrangements before withdrawing.",
+    "why_C_wrong": "Incorrect. A court order is not required before withdrawing for non-payment of fees in a civil matter. Court permission is only required in some criminal matters.",
+    "why_D_wrong": "Incorrect. Filing a motion to have the client declared liable for fees is not a precondition to withdrawal. Fee recovery is pursued through the Solicitors Act assessment process or civil action after withdrawal.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 9",
+      "heading": "Withdrawal from Representation",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.7-1 (non-payment withdrawal — reasonable notice required)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "permissive withdrawal — non-payment — reasonable notice requirement"
+    },
+    "exam_trigger_words": ["non-payment", "withdrawal", "reasonable notice", "fees overdue", "Rule 3.7-1"],
+    "tested_concepts": [
+      "Rule 3.7-1 — non-payment is ground for optional withdrawal",
+      "specific notice of intention to withdraw for non-payment required",
+      "client must have reasonable opportunity to pay before withdrawal"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-09-crim-001",
+    "chapter_number": 9,
+    "chapter_title": "Withdrawal from Representation",
+    "topic_id": "withdrawal",
+    "topic_heading": "Withdrawal from Representation — Rule 3.7",
+    "subtopic_id": "criminal_withdrawal",
+    "subtopic_heading": "Withdrawal from Criminal Proceedings — Court Permission Requirements",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Elena is defence counsel in a multi-week fraud trial that has been ongoing for three weeks. Elena has a personal conflict with her client that she believes makes it impossible to continue the representation. She would like to withdraw immediately. The trial is adjourned for a one-week break before evidence continues.",
+    "call_of_question": "What procedural steps must Elena take before withdrawing from a criminal matter that is mid-trial?",
+    "options": {
+      "A": "Elena may withdraw at any time during a trial recess without any formalities because the adjournment provides an opportunity for new counsel to step in.",
+      "B": "Elena must file a notice of withdrawal with the LSO before withdrawing from the criminal matter.",
+      "C": "In a criminal proceeding, a lawyer who wishes to withdraw mid-trial must generally bring a motion before the trial court and seek leave to withdraw; the court has the authority to refuse leave or impose conditions to protect the accused's right to a fair trial and to prevent prejudice to the proceedings; Elena cannot simply withdraw without court permission during a mid-trial adjournment.",
+      "D": "Elena may withdraw during the adjournment without court permission because the adjournment creates a natural break in the proceedings that gives the court implied permission for counsel changes."
+    },
+    "correct_answer": "C",
+    "explanation": "Once a criminal trial has commenced, a lawyer who wishes to withdraw requires leave from the court. This is because the accused's right to a fair trial and the court's interest in maintaining the orderly conduct of proceedings are engaged once a trial is underway. The court may refuse leave or impose conditions — such as requiring Elena to complete the examination of a particular witness — before permitting withdrawal. A trial adjournment does not constitute implicit court permission to change counsel; formal leave is required.",
+    "why_A_wrong": "Incorrect. A trial recess does not waive the requirement to seek leave from the court before withdrawing mid-trial in a criminal proceeding. Court permission is required regardless of adjournment breaks.",
+    "why_B_wrong": "Incorrect. Filing a notice of withdrawal with the LSO is not the required procedural step for withdrawal from a criminal matter mid-trial. The lawyer must seek leave from the trial court.",
+    "why_C_wrong": "This IS the correct answer. In a criminal proceeding, a lawyer who wishes to withdraw mid-trial must generally bring a motion before the trial court and seek leave to withdraw; the court has the authority to refuse leave or impose conditions to protect the accused's right to a fair trial and to prevent prejudice to the proceedings; Elena cannot simply withdraw without court permission during a mid-trial adjournment.",
+    "why_D_wrong": "Incorrect. An adjournment does not constitute implied leave to withdraw. Permission from the court must be expressly sought and granted through a proper motion.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 9",
+      "heading": "Withdrawal from Representation",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.7-8 (withdrawal from criminal proceedings — court permission)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "withdrawal from criminal proceedings — court permission required"
+    },
+    "exam_trigger_words": ["criminal trial", "mid-trial withdrawal", "leave of court", "court permission", "Rule 3.7-8"],
+    "tested_concepts": [
+      "Rule 3.7-8 — leave of court required to withdraw from criminal proceedings mid-trial",
+      "court may refuse or impose conditions on withdrawal",
+      "adjournment does not constitute implied permission to withdraw"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-09-notice-002",
+    "chapter_number": 9,
+    "chapter_title": "Withdrawal from Representation",
+    "topic_id": "withdrawal",
+    "topic_heading": "Withdrawal from Representation — Rule 3.7",
+    "subtopic_id": "notice_file_preservation",
+    "subtopic_heading": "Notice to Client and File Preservation on Withdrawal — Rule 3.7-9",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Felix decides to withdraw from acting for a client whose litigation matter is active in the courts. He sends the client a brief email that says only 'I am no longer your lawyer effective today.' He does not advise the client about upcoming deadlines, does not transfer the file to new counsel or to the client, and does not take any steps to ensure important court dates are not missed. There is a critical motion scheduled in three days.",
+    "call_of_question": "Has Felix complied with his obligations on withdrawal under Rule 3.7-9?",
+    "options": {
+      "A": "Yes — sending notice to the client is all that is required on withdrawal; the client is responsible for retaining new counsel to manage upcoming deadlines.",
+      "B": "No — Rule 3.7-9 requires that on withdrawal a lawyer give reasonable notice to the client, take steps to avoid foreseeable prejudice to the client including advising of upcoming deadlines, and ensure the client has the information and time necessary to obtain new representation; Felix's one-line email with no information about upcoming events is inadequate.",
+      "C": "Yes — sending a notice of withdrawal is sufficient as long as it is sent before the matter becomes urgent.",
+      "D": "No — but Felix's only error was failing to file a notice of change of solicitor with the court before withdrawing; all other obligations are satisfied by the email."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.7-9 of the LSO Rules of Professional Conduct imposes a set of obligations on a lawyer who withdraws from a retainer. These include: giving the client reasonable notice of the withdrawal; taking steps to avoid foreseeable prejudice to the client, which includes advising about critical upcoming deadlines; and providing sufficient information to allow the client to retain new counsel in a timely manner. A bare one-line email that does not address an imminent motion three days away fails virtually all of these obligations. The client is left without information needed to protect their own legal interests.",
+    "why_A_wrong": "Incorrect. Sending notice of withdrawal is only one of multiple obligations under Rule 3.7-9. The rule also requires taking steps to avoid foreseeable prejudice, including advising of upcoming deadlines.",
+    "why_B_wrong": "This IS the correct answer. No — Rule 3.7-9 requires that on withdrawal a lawyer give reasonable notice to the client, take steps to avoid foreseeable prejudice to the client including advising of upcoming deadlines, and ensure the client has the information and time necessary to obtain new representation; Felix's one-line email with no information about upcoming events is inadequate.",
+    "why_C_wrong": "Incorrect. The adequacy of the notice depends on its content, not only its timing. A notice that fails to warn about imminent deadlines is inadequate regardless of when it is sent.",
+    "why_D_wrong": "Incorrect. Filing a notice of change of solicitor is a procedural court requirement but it is separate from and in addition to the substantive obligations under Rule 3.7-9. Felix's obligations extended far beyond filing court documents.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 9",
+      "heading": "Withdrawal from Representation",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.7-9 (withdrawal obligations — notice and avoiding prejudice)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "withdrawal — inadequate notice and failure to advise of upcoming deadlines"
+    },
+    "exam_trigger_words": ["withdrawal notice", "upcoming deadlines", "no prejudice", "Rule 3.7-9", "file transfer"],
+    "tested_concepts": [
+      "Rule 3.7-9 — reasonable notice on withdrawal must include deadline information",
+      "lawyer must avoid foreseeable prejudice including advising of imminent hearings",
+      "bare email is inadequate notice under Rule 3.7-9"
+    ],
+    "estimated_time_seconds": 90
   }
 ]

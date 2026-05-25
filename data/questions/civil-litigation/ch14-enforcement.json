@@ -1,0 +1,224 @@
+[
+  {
+    "id": "civ-14-enf-writ-001",
+    "subject": "civil_litigation",
+    "chapter_number": 14,
+    "chapter_title": "Enforcement of Judgments",
+    "topic_id": "enforcement_of_judgments",
+    "topic_heading": "Enforcement of Judgments in Ontario",
+    "subtopic_id": "writ_of_seizure",
+    "subtopic_heading": "Writ of Seizure and Sale — How Obtained and Filed",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Petrov Manufacturing Ltd. obtains a final judgment against Bhattacharya Construction Inc. for $185,000. The judgment debtor has not paid. Petrov's counsel wishes to enforce the judgment against Bhattacharya's real and personal property in Ontario.",
+    "call_of_question": "Under the Rules of Civil Procedure, what is the primary mechanism for enforcing a money judgment against a judgment debtor's real and personal property in Ontario?",
+    "options": {
+      "A": "The judgment creditor must bring a motion to the court for permission to seize the debtor's assets; seizure requires a fresh judicial order each time.",
+      "B": "The judgment creditor issues a writ of seizure and sale from the court, which is then filed with the sheriff of the county or district where the judgment debtor's property is located; the sheriff is thereby authorized to seize and sell the debtor's property to satisfy the judgment.",
+      "C": "The judgment creditor may simply take possession of the debtor's property directly, without any court process, upon expiry of 30 days from the date of judgment.",
+      "D": "A judgment against a corporation is not enforceable against the corporation's property; it can only be enforced against the personal assets of the corporation's officers."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.60.07 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a judgment creditor who wishes to enforce a money judgment against a judgment debtor's real or personal property may issue a writ of seizure and sale. The writ is issued from the court and then filed with the sheriff (enforcement office) in each county or district where property of the debtor is located. Filing the writ with the sheriff creates a lien against the debtor's real property and authorizes the sheriff to seize and sell the debtor's personal property to satisfy the judgment. The writ binds real property from the time it is filed with the sheriff.",
+    "why_A_wrong": "A fresh judicial order is not required each time the judgment creditor wishes to proceed against the debtor's property. The writ of seizure and sale is the operative document that authorizes the sheriff to proceed once issued.",
+    "why_B_wrong": "This IS the correct answer. A writ of seizure and sale is issued from the court and filed with the sheriff, who is then authorized to seize and sell the debtor's property to satisfy the judgment.",
+    "why_C_wrong": "A judgment creditor may not simply take possession of the debtor's property unilaterally. Enforcement must be conducted through the proper court process, including issuance and filing of a writ of seizure and sale.",
+    "why_D_wrong": "A judgment against a corporation is enforceable against the corporation's own property. Corporate officers are not personally liable for the corporation's debts unless a separate basis for personal liability exists (such as personal guarantees or piercing the corporate veil). The standard enforcement mechanism is against corporate property.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Enforcement of Judgments",
+      "heading": "Writ of Seizure and Sale — How Obtained and Filed",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.07"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "writ of seizure and sale",
+      "r.60.07",
+      "sheriff",
+      "enforcement",
+      "money judgment"
+    ],
+    "tested_concepts": [
+      "writ of seizure and sale — r.60.07",
+      "filed with sheriff — binds real property",
+      "sheriff authorized to seize and sell"
+    ],
+    "estimated_time_seconds": 80,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-14-enf-garn-001",
+    "subject": "civil_litigation",
+    "chapter_number": 14,
+    "chapter_title": "Enforcement of Judgments",
+    "topic_id": "enforcement_of_judgments",
+    "topic_heading": "Enforcement of Judgments in Ontario",
+    "subtopic_id": "garnishment",
+    "subtopic_heading": "Garnishment — Notice of Garnishment and Garnishee",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Kowalski Plumbing Ltd. has a judgment against Reyes Renovation Corp. for $62,000. Reyes has receivables owed to it by three clients. Kowalski's counsel advises that garnishment may be used to intercept those receivables. Kowalski asks how garnishment works in Ontario.",
+    "call_of_question": "Under r.60.08 of the Rules of Civil Procedure, how does garnishment operate as an enforcement mechanism?",
+    "options": {
+      "A": "Garnishment requires the judgment creditor to obtain a court order after a full hearing at which the judgment debtor may object; the debtor must be given at least 30 days' notice before any garnishment may proceed.",
+      "B": "Under r.60.08, the judgment creditor may issue a notice of garnishment, which is served on the garnishee (a third party who owes money to the judgment debtor); the garnishee is then required to pay the debt it owes to the judgment debtor directly to the court or to the sheriff, up to the amount of the judgment.",
+      "C": "Garnishment in Ontario applies only to employment wages and cannot be used to intercept business receivables owed to a corporation.",
+      "D": "Garnishment can only be used once the judgment debtor has been examined and found to have receivables; it cannot be issued speculatively before the examination."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.60.08 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a judgment creditor may enforce a judgment by garnishment. A notice of garnishment is issued from the court and served on the garnishee — a third party who owes money or property to the judgment debtor. Upon being served with the notice of garnishment, the garnishee is required to pay to the court or sheriff the amount owed to the judgment debtor (up to the amount of the judgment), rather than paying it to the debtor. The monies are then applied to satisfy the judgment. Business receivables owed to a corporate judgment debtor may be garnished; garnishment is not limited to wages.",
+    "why_A_wrong": "A formal prior hearing with 30 days' notice to the debtor is not required before a notice of garnishment is issued. The judgment creditor may issue a notice of garnishment from the court and serve it on the garnishee; the debtor is notified but the process does not require a prior full hearing.",
+    "why_B_wrong": "This IS the correct answer. Rule 60.08 permits the judgment creditor to issue a notice of garnishment served on the garnishee, who must pay the debt owed to the judgment debtor to the court or sheriff up to the judgment amount.",
+    "why_C_wrong": "Garnishment in Ontario is not limited to employment wages. It applies to any debt owed by a third party to the judgment debtor, including business receivables. Corporations may be judgment debtors whose receivables are garnished.",
+    "why_D_wrong": "Garnishment may be issued without prior examination of the judgment debtor. The judgment creditor need not wait until an examination in aid of execution has confirmed the existence of receivables; if the creditor has reason to believe the garnishee owes money to the debtor, it may issue the notice of garnishment.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Enforcement of Judgments",
+      "heading": "Garnishment — Notice of Garnishment and Garnishee",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.08"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "garnishment",
+      "notice of garnishment",
+      "r.60.08",
+      "garnishee",
+      "receivables"
+    ],
+    "tested_concepts": [
+      "r.60.08 — garnishment procedure",
+      "notice of garnishment served on garnishee",
+      "garnishee pays court/sheriff — not limited to wages"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-14-enf-exam-001",
+    "subject": "civil_litigation",
+    "chapter_number": 14,
+    "chapter_title": "Enforcement of Judgments",
+    "topic_id": "enforcement_of_judgments",
+    "topic_heading": "Enforcement of Judgments in Ontario",
+    "subtopic_id": "examination_in_aid",
+    "subtopic_heading": "Examination in Aid of Execution — r.60.18",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Nakamura Media Inc. has obtained a judgment for $290,000 against Osei Broadcasting Corp., which has not paid. Nakamura's counsel believes Osei has assets but is unsure where they are. Counsel wants to examine an officer of Osei under oath to discover the extent and location of Osei's assets.",
+    "call_of_question": "Under r.60.18 of the Rules of Civil Procedure, what examination process is available to a judgment creditor who wishes to discover the assets of a judgment debtor?",
+    "options": {
+      "A": "The judgment creditor must bring a motion and obtain a court order before any asset discovery examination can be conducted; the examination cannot proceed without prior judicial approval.",
+      "B": "Under r.60.18, a judgment creditor may conduct an examination in aid of execution, which allows the judgment creditor to examine the judgment debtor (or, in the case of a corporation, an officer or director) under oath about the debtor's assets, income, and ability to pay the judgment; no prior court order is required to conduct this examination.",
+      "C": "An examination in aid of execution is available only where the judgment debtor has already been found to be in contempt of a prior court order to pay.",
+      "D": "The examination in aid of execution may be conducted only once per judgment; if the first examination reveals no assets, no further examination may be held."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.60.18 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a judgment creditor may examine a judgment debtor — or, where the debtor is a corporation, an officer, director, or employee with knowledge of the debtor's financial affairs — about the debtor's assets, property, debts, income, and ability to satisfy the judgment. This examination in aid of execution is conducted under oath and may be used by the judgment creditor to locate assets available for enforcement. No prior court order is required to schedule and conduct this examination; the judgment creditor issues a notice of examination. The information obtained can then be used to identify assets for garnishment, seizure, or other enforcement measures.",
+    "why_A_wrong": "No prior court order is required before the judgment creditor may conduct an examination in aid of execution under r.60.18. The judgment creditor issues a notice of examination; judicial pre-authorization is not needed.",
+    "why_B_wrong": "This IS the correct answer. Rule 60.18 permits the judgment creditor to examine the judgment debtor under oath about assets and financial affairs without prior court order.",
+    "why_C_wrong": "An examination in aid of execution under r.60.18 is available to any judgment creditor with an unsatisfied judgment; it does not require that the debtor first be found in contempt. Contempt proceedings are a separate enforcement mechanism.",
+    "why_D_wrong": "Rule 60.18 does not limit the examination in aid of execution to a single occurrence. A judgment creditor may conduct further examinations as circumstances change, such as where new assets may have been acquired or where the first examination was inconclusive.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Enforcement of Judgments",
+      "heading": "Examination in Aid of Execution — r.60.18",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.18"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "examination in aid of execution",
+      "r.60.18",
+      "judgment debtor",
+      "assets",
+      "under oath"
+    ],
+    "tested_concepts": [
+      "r.60.18 — examination in aid of execution",
+      "no prior court order required",
+      "corporate debtor — examine officer or director",
+      "disclose assets, income, ability to pay"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-14-enf-contempt-001",
+    "subject": "civil_litigation",
+    "chapter_number": 14,
+    "chapter_title": "Enforcement of Judgments",
+    "topic_id": "enforcement_of_judgments",
+    "topic_heading": "Enforcement of Judgments in Ontario",
+    "subtopic_id": "contempt",
+    "subtopic_heading": "Contempt of Court — Enforcement of Court Orders",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A court order requires the defendant, Szymanski Technologies Inc., to deliver specific proprietary software source code to the plaintiff by a specified date. The date passes and Szymanski refuses to comply. The plaintiff seeks to enforce the order. The defendant argues that because the order relates to the delivery of property rather than the payment of money, no enforcement mechanism is available.",
+    "call_of_question": "What enforcement mechanism is available to the plaintiff where a judgment debtor refuses to comply with a court order to deliver specific property?",
+    "options": {
+      "A": "The defendant is correct — courts can only enforce money judgments; orders to deliver specific property cannot be enforced by any court process.",
+      "B": "The plaintiff may bring a contempt motion against Szymanski for failing to comply with the court order; a party who disobeys a court order may be found in contempt and the court may impose sanctions including a fine, sequestration of assets, or imprisonment until the order is complied with.",
+      "C": "The only remedy for non-compliance with an order to deliver specific property is to bring a new action for damages caused by the non-delivery.",
+      "D": "The plaintiff may enforce the order by hiring a private enforcement agent to physically take the software source code from the defendant's premises without any further court process."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.60.11 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194) and the inherent jurisdiction of the Superior Court, where a party fails to comply with a court order — including an order to deliver specific property — the judgment creditor may move for a finding of contempt of court. A party who disobeys a court order may be found in contempt and the court may impose sanctions including a fine, imprisonment, or sequestration of the party's assets until compliance is achieved. Contempt is a powerful enforcement tool for orders requiring specific performance of acts (non-money obligations) that cannot be enforced through a writ of seizure and sale or garnishment.",
+    "why_A_wrong": "Courts are not limited to enforcing money judgments. Court orders requiring delivery of specific property, performance of acts, or compliance with injunctions are enforceable through the court's contempt power and other mechanisms under r.60.11.",
+    "why_B_wrong": "This IS the correct answer. A contempt motion is the appropriate enforcement mechanism for non-compliance with a court order to deliver specific property; sanctions may include fines, sequestration, or imprisonment.",
+    "why_C_wrong": "Bringing a new action for damages is not the required remedy for non-compliance with a court order to deliver specific property. The existing order may be enforced through contempt proceedings without the need to commence a fresh action.",
+    "why_D_wrong": "A private enforcement agent has no authority to physically seize property from a defendant without proper court process. Self-help enforcement — taking property unilaterally without court authorization — is not permitted and may itself constitute a civil wrong.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Enforcement of Judgments",
+      "heading": "Contempt of Court — Enforcement of Court Orders",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.11"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "contempt",
+      "court order",
+      "non-compliance",
+      "r.60.11",
+      "sanctions"
+    ],
+    "tested_concepts": [
+      "contempt motion for non-compliance with court order",
+      "r.60.11 — enforcement of court orders",
+      "sanctions: fine, sequestration, imprisonment",
+      "non-money orders enforceable by contempt"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

@@ -228,5 +228,234 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-11-s686-001",
+    "subject": "criminal_law",
+    "chapter_number": 11,
+    "chapter_title": "Appeals",
+    "topic_id": "criminal_appeals",
+    "topic_heading": "Criminal Appeals",
+    "subtopic_id": "court_of_appeal_powers",
+    "subtopic_heading": "Court of Appeal Powers on Indictable Conviction Appeal — s. 686",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused was convicted of assault with a weapon after a judge-alone trial. On appeal, the Court of Appeal finds that the trial judge made a legal error in admitting a statement that should have been excluded under the Charter. The error was not harmless — without the statement, a conviction could not have been sustained.",
+    "call_of_question": "Under s. 686(2) of the Criminal Code, which disposition is available to the Court of Appeal where it allows the accused's appeal?",
+    "options": {
+      "A": "The Court of Appeal may only set aside the conviction and order a new trial; it has no power to enter an acquittal.",
+      "B": "The Court of Appeal may set aside the conviction and either order a new trial or, where appropriate, enter a verdict of acquittal.",
+      "C": "The Court of Appeal must set aside the conviction and enter a verdict of acquittal whenever a Charter breach is found.",
+      "D": "The Court of Appeal may reduce the sentence but may not set aside the conviction on a legal error."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 686(2) of the Criminal Code provides that where the Court of Appeal allows an appeal against a conviction, it shall quash the conviction and: (a) direct a judgment or verdict of acquittal to be entered; or (b) order a new trial. The choice between acquittal and a new trial depends on the nature of the error. Where the evidence, properly admitted, is legally insufficient to sustain any conviction, an acquittal is entered. Where the error is one that, if corrected, could have led to conviction on a proper retrial (e.g., the error tainted one piece of evidence but other evidence remains), a new trial is the appropriate remedy. On these facts, since without the excluded statement a conviction could not be sustained, directing an acquittal would be appropriate. A new trial would also be available if some other theory of conviction remained viable.",
+    "why_A_wrong": "The Court of Appeal does have the power to enter an acquittal under s.686(2)(a). It is not limited to ordering a new trial. The choice depends on whether the remaining admissible evidence could support a conviction.",
+    "why_B_wrong": "This IS the correct answer. Under s.686(2), the Court of Appeal may set aside the conviction and either enter a verdict of acquittal (where evidence is insufficient) or order a new trial (where a properly conducted retrial could yield a conviction).",
+    "why_C_wrong": "Finding a Charter breach does not automatically mandate acquittal. The remedy for a Charter breach at trial is determined under s.24 of the Charter. On appeal, even where a Charter-tainted piece of evidence was wrongly admitted, the Court of Appeal must assess whether the remaining admissible evidence could sustain a conviction. An acquittal is entered only where it cannot.",
+    "why_D_wrong": "The Court of Appeal has broad powers on a conviction appeal beyond sentence reduction. Where it finds reversible legal error, it must quash the conviction and order either acquittal or a new trial under s.686(2). Reducing the sentence without addressing the conviction would not be the correct disposition after finding reversible error on conviction.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 11: Appeals",
+      "heading": "Court of Appeal Disposition Powers — s. 686",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 686(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 686",
+      "Court of Appeal powers",
+      "acquittal on appeal",
+      "new trial",
+      "quash conviction",
+      "allows appeal"
+    ],
+    "tested_concepts": [
+      "s.686(2) disposition options — acquittal or new trial",
+      "entry of acquittal vs new trial",
+      "reversible legal error on appeal",
+      "Charter error and appellate remedy"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-11-crown-sent-app-001",
+    "subject": "criminal_law",
+    "chapter_number": 11,
+    "chapter_title": "Appeals",
+    "topic_id": "criminal_appeals",
+    "topic_heading": "Criminal Appeals",
+    "subtopic_id": "crown_sentence_appeal",
+    "subtopic_heading": "Crown Sentence Appeal — s. 676(1)(d)",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused pleads guilty to sexual assault and is sentenced to a conditional sentence order of 18 months in the community. The Crown, believing the sentence is demonstrably unfit, seeks to appeal the sentence to the Court of Appeal.",
+    "call_of_question": "Under s. 676(1)(d) of the Criminal Code, on what basis may the Crown appeal a sentence imposed at trial?",
+    "options": {
+      "A": "The Crown may appeal a sentence only if the trial judge committed an error of law in the sentencing principles applied.",
+      "B": "The Crown may appeal a sentence with leave of the Court of Appeal, on the ground that the sentence is inadequate.",
+      "C": "The Crown may appeal a sentence as of right, without leave, whenever the Crown considers the sentence manifestly inadequate.",
+      "D": "The Crown has no right to appeal a sentence imposed following a guilty plea."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 676(1)(d) of the Criminal Code provides that the Attorney General may appeal to the Court of Appeal against the sentence passed by a trial court, with leave of the Court of Appeal, unless the sentence is one fixed by law. On a Crown sentence appeal, the Court of Appeal applies the standard of review from R v Lacasse, 2015 SCC 64: the Court of Appeal may intervene only if the sentence is demonstrably unfit or the trial judge committed an error in principle that had an impact on the sentence. The ground for a Crown sentence appeal is that the sentence is 'inadequate' from the Crown's perspective — essentially, demonstrably unfit on the low end. Leave is required for Crown sentence appeals, unlike the Crown's as-of-right appeal on questions of law from acquittals (s.676(1)(a)).",
+    "why_A_wrong": "Crown sentence appeals are not limited to legal errors in sentencing principles. The Crown may appeal on the ground that the sentence is inadequate (demonstrably unfit), which can include cases where the trial judge exercised proper legal principles but the resulting sentence is still outside the range. Leave is required either way.",
+    "why_B_wrong": "This IS the correct answer. Under s.676(1)(d), the Crown may appeal a sentence with leave of the Court of Appeal on the ground that the sentence is inadequate.",
+    "why_C_wrong": "Crown sentence appeals require leave — they are not as-of-right appeals. The Crown's as-of-right appeal is limited to questions of law from acquittals (s.676(1)(a)). A Crown sentence appeal always requires leave under s.676(1)(d).",
+    "why_D_wrong": "The Crown's right to appeal sentence under s.676(1)(d) is not limited by the mode of conviction. A sentence following a guilty plea can be appealed by the Crown just as one following a contested trial, subject to obtaining leave and demonstrating the sentence is inadequate.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 11: Appeals",
+      "heading": "Crown Sentence Appeal — s. 676(1)(d)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 676(1)(d); R v Lacasse, 2015 SCC 64"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Crown sentence appeal",
+      "s. 676(1)(d)",
+      "leave required",
+      "demonstrably unfit",
+      "inadequate sentence",
+      "sentence appeal"
+    ],
+    "tested_concepts": [
+      "s.676(1)(d) Crown sentence appeal",
+      "leave required for Crown sentence appeal",
+      "demonstrably unfit standard",
+      "distinction from as-of-right acquittal appeal"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-11-proviso-001",
+    "subject": "criminal_law",
+    "chapter_number": 11,
+    "chapter_title": "Appeals",
+    "topic_id": "criminal_appeals",
+    "topic_heading": "Criminal Appeals",
+    "subtopic_id": "curative_proviso",
+    "subtopic_heading": "Curative Proviso — s. 686(1)(b)(iii)",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is convicted of robbery after a jury trial. On appeal, the Court of Appeal finds that the trial judge made a legal error in instructing the jury on the defence of honest but mistaken belief. However, the evidence of the accused's guilt was overwhelming — numerous eyewitnesses and DNA evidence directly implicated the accused. The Court of Appeal considers whether to apply the curative proviso.",
+    "call_of_question": "Under s. 686(1)(b)(iii) of the Criminal Code, in which circumstances may the Court of Appeal dismiss an appeal despite finding that the trial judge made an error of law?",
+    "options": {
+      "A": "Where the accused consents to dismissal of the appeal and waives the right to a new trial.",
+      "B": "Where no substantial wrong or miscarriage of justice occurred as a result of the error — the curative proviso applies to harmless legal errors.",
+      "C": "Where the Crown establishes that the accused would have been convicted on the same charges even without the error.",
+      "D": "Where the error was procedural rather than substantive."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 686(1)(b)(iii) of the Criminal Code — the 'curative proviso' — provides that the Court of Appeal may dismiss an appeal from conviction where, despite finding that there was an error of law at trial, the Court is of the opinion that no substantial wrong or miscarriage of justice occurred. The test for applying the proviso was clarified in R v Khan, 2001 SCC 86, and R v Bevan, [1993] 2 SCR 599: the proviso applies in two situations: (i) where the error was harmless in the sense that it could not have affected the verdict (minor procedural irregularity); or (ii) where the evidence of guilt was so overwhelming that any reasonable and properly instructed jury would inevitably have convicted. On these facts, with overwhelming eyewitness and DNA evidence, the second branch (overwhelming evidence) of the proviso would likely apply, allowing the Court of Appeal to dismiss the appeal despite the jury instruction error.",
+    "why_A_wrong": "Accused consent is not part of the s.686(1)(b)(iii) proviso analysis. The curative proviso is applied by the Court of Appeal based on the nature of the error and its effect on the verdict — it does not depend on the accused's consent or waiver.",
+    "why_B_wrong": "This IS the correct answer. The curative proviso under s.686(1)(b)(iii) permits dismissal of the appeal where the legal error caused no substantial wrong or miscarriage of justice — either because the error was harmless or because the evidence of guilt was overwhelming.",
+    "why_C_wrong": "The standard is not whether the Crown can establish actual certainty of conviction without the error. The Court of Appeal applies the proviso where no substantial wrong occurred — which may be established by overwhelming evidence, but the framing is whether a reasonable jury would inevitably have convicted, not a retrospective factual determination by the Crown.",
+    "why_D_wrong": "The distinction between procedural and substantive errors does not determine whether the proviso applies. The curative proviso can apply to substantive legal errors (including errors in jury charges on elements of the offence) if the error caused no substantial wrong. The nature of the error as procedural or substantive is relevant but is not the statutory test.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 11: Appeals",
+      "heading": "Curative Proviso — s. 686(1)(b)(iii)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 686(1)(b)(iii); R v Khan, 2001 SCC 86; R v Bevan, [1993] 2 SCR 599"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "curative proviso",
+      "s. 686(1)(b)(iii)",
+      "no substantial wrong",
+      "miscarriage of justice",
+      "overwhelming evidence",
+      "harmless error"
+    ],
+    "tested_concepts": [
+      "s.686(1)(b)(iii) curative proviso",
+      "two branches: harmless error and overwhelming evidence",
+      "substantial wrong or miscarriage of justice",
+      "Khan/Bevan test for proviso application"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-11-error-law-001",
+    "subject": "criminal_law",
+    "chapter_number": 11,
+    "chapter_title": "Appeals",
+    "topic_id": "criminal_appeals",
+    "topic_heading": "Criminal Appeals",
+    "subtopic_id": "error_of_law",
+    "subtopic_heading": "Error of Law vs. Mixed Fact and Law on Appeal",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused was acquitted of impaired driving. The trial judge, after finding the accused's blood alcohol level to be 0.092 at the time of testing, concluded that this was insufficient to establish impairment at the time of driving. The Crown appeals, arguing the trial judge erred in assessing the evidence. The accused argues this is a finding of fact unreviewable by the Crown on appeal.",
+    "call_of_question": "The Crown's appeal is properly frounded as a question of law if which of the following is true?",
+    "options": {
+      "A": "The trial judge reached a conclusion on the evidence that another judge might reasonably have reached differently.",
+      "B": "The trial judge applied a legal standard requiring the Crown to prove impairment at a threshold beyond what the law requires, constituting a legal error in the standard of proof.",
+      "C": "The trial judge made credibility findings that the Court of Appeal considers unreasonable.",
+      "D": "The trial judge failed to give reasons for rejecting the Crown's expert evidence on back-calculation."
+    },
+    "correct_answer": "B",
+    "explanation": "The distinction between a question of law and a question of fact (or mixed fact and law) is critical to Crown appeals under s.676(1)(a), which restricts the Crown to questions of law alone. A 'question of law' on appeal includes: errors in the legal standard applied, errors in the legal test for an element of an offence, errors in the burden of proof, and unreasonable verdicts (in some formulations). A 'question of fact' is a finding about what happened — it is not reviewable by the Crown. On these facts, if the trial judge incorrectly applied the legal threshold for impairment — requiring proof to a standard higher than required by law — that is a question of law. For example, if the trial judge incorrectly concluded that 0.092 BAC could not, as a matter of law, constitute impairment, that is a legal error. By contrast, if the judge simply weighed the evidence and was not satisfied beyond a reasonable doubt, that is a question of fact not open to Crown appeal.",
+    "why_A_wrong": "The fact that another judge might have reached a different conclusion is not a question of law — it describes a question of fact or credibility, which is within the exclusive province of the trier of fact. The Crown cannot appeal a jury or judge's factual assessment simply because the outcome was different from what the Crown expected.",
+    "why_B_wrong": "This IS the correct answer. If the trial judge applied a legal standard for impairment that was incorrect — requiring proof to a higher threshold than the law demands — that is a question of law reviewable by the Crown under s.676(1)(a). Applying the wrong legal standard is a legal error.",
+    "why_C_wrong": "Credibility findings are quintessential questions of fact. The Crown cannot appeal an acquittal on the basis that the trial judge's credibility assessments were unreasonable (except in the limited context of an unreasonable verdict, which has its own analysis). Attacking credibility findings as such is not a question of law for Crown appeal purposes.",
+    "why_D_wrong": "The failure to give reasons for rejecting evidence may in some cases constitute a legal error (e.g., where the reasons are so inadequate they prevent meaningful appellate review), but this is a more attenuated legal error. The clearest and most direct answer is B — applying the wrong legal standard is unambiguously a question of law.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 11: Appeals",
+      "heading": "Error of Law vs. Mixed Fact and Law — Crown Appeal",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 676(1)(a); R v Biniaris, 2000 SCC 15"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "question of law",
+      "question of fact",
+      "mixed fact and law",
+      "Crown appeal",
+      "acquittal",
+      "legal error",
+      "standard applied"
+    ],
+    "tested_concepts": [
+      "distinction between question of law and question of fact",
+      "Crown restricted to questions of law on acquittal appeal",
+      "incorrect legal standard as question of law",
+      "credibility findings as questions of fact"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

@@ -487,5 +487,116 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-06-undertaking-001",
+    "subject": "civil_litigation",
+    "chapter_number": 6,
+    "chapter_title": "Motions",
+    "topic_id": "interlocutory_injunctions",
+    "topic_heading": "Interlocutory Injunctions",
+    "subtopic_id": "undertaking_as_to_damages",
+    "subtopic_heading": "Undertaking as to Damages — Condition for Interlocutory Injunction",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Patel Distribution Ltd. obtains an interlocutory injunction restraining Kowalski Logistics Inc. from operating a competing business pending trial. The trial judge ultimately finds in favour of Kowalski and dismisses Patel's action. Kowalski suffered significant revenue losses during the period the injunction was in force.",
+    "call_of_question": "What is the standard condition imposed on a moving party who obtains an interlocutory injunction, and what is its significance to Kowalski?",
+    "options": {
+      "A": "There is no standard condition on injunctions; Kowalski has no remedy for losses suffered during the injunction period.",
+      "B": "The moving party is routinely required to give an undertaking as to damages — a promise to pay any losses suffered by the restrained party if the injunction is ultimately found to have been wrongly granted; Kowalski may claim on this undertaking.",
+      "C": "An undertaking as to damages is optional and imposed only at the court's discretion; it is rare in commercial disputes.",
+      "D": "Kowalski may recover losses only by commencing a new action for wrongful injunction, not by enforcing any undertaking given on the original motion."
+    },
+    "correct_answer": "B",
+    "explanation": "As a standard condition of granting an interlocutory injunction in Ontario, the moving party is required to give an undertaking as to damages. This undertaking is a promise to compensate the restrained party for any losses it suffers as a result of the injunction if the injunction is ultimately found to have been wrongly granted — that is, if the moving party does not succeed at trial. The undertaking protects the restrained party against the risk of being wrongly enjoined. Once Patel loses at trial, Kowalski may pursue the undertaking as to damages to recover its losses caused by the wrongful injunction, without commencing a separate action.",
+    "why_A_wrong": "The undertaking as to damages is a standard condition of most interlocutory injunctions. Kowalski has a remedy through the undertaking and is not left without recourse.",
+    "why_B_wrong": "This IS the correct answer. The undertaking as to damages is a standard condition on interlocutory injunctions; Kowalski may claim on it after the action is dismissed in its favour.",
+    "why_C_wrong": "An undertaking as to damages is a standard, routinely required condition — not an exceptional or optional one. Courts impose it as a matter of course when granting interlocutory injunctions.",
+    "why_D_wrong": "Kowalski does not need to commence a new action. The undertaking as to damages, given on the original motion, is enforceable within the existing proceeding. A separate wrongful injunction action is not necessary.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 6 — Motions",
+      "heading": "Undertaking as to Damages — Condition for Interlocutory Injunction",
+      "page": "N/A",
+      "rule_or_statute_reference": "RJR-MacDonald Inc v Canada (AG), [1994] 1 SCR 311; Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.40"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "undertaking as to damages",
+      "interlocutory injunction",
+      "wrongly granted",
+      "condition",
+      "compensate restrained party"
+    ],
+    "tested_concepts": [
+      "undertaking as to damages — standard condition on injunctions",
+      "moving party's obligation if injunction wrongly granted",
+      "claim on undertaking after trial loss"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-06-striking-001",
+    "subject": "civil_litigation",
+    "chapter_number": 6,
+    "chapter_title": "Motions",
+    "topic_id": "striking_pleadings",
+    "topic_heading": "Motions to Strike Pleadings",
+    "subtopic_id": "no_reasonable_cause",
+    "subtopic_heading": "Striking Pleadings — No Reasonable Cause of Action Under r.21.01",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The defendant brings a motion under r.21.01(1)(b) to strike the plaintiff's statement of claim on the ground that it discloses no reasonable cause of action. The plaintiff's claim alleges that the defendant, a large retailer, deliberately created a shopping atmosphere that was unconscionably pressuring. The defendant argues the claim is novel and has no legal basis recognized in Ontario.",
+    "call_of_question": "Under r.21.01(1)(b) of the Rules of Civil Procedure and Hunt v Carey Canada Inc, [1990] 2 SCR 959, what is the test for striking a pleading on the ground that it discloses no reasonable cause of action?",
+    "options": {
+      "A": "The court strikes the claim if the defendant can demonstrate that the plaintiff is unlikely to succeed at trial on a balance of probabilities.",
+      "B": "The court strikes the claim only where it is plain and obvious, assuming the facts as pleaded are true, that the claim discloses no reasonable cause of action; a novel or uncertain claim should not be struck on this ground.",
+      "C": "The court strikes the claim if any element of the pleaded claim is disputed by the defendant on the facts.",
+      "D": "The court strikes the claim where the allegations in the statement of claim are improbable or speculative."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.21.01(1)(b) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the court may strike a pleading that discloses no reasonable cause of action. The test, established by the Supreme Court of Canada in Hunt v Carey Canada Inc, [1990] 2 SCR 959, is whether it is plain and obvious — assuming the facts as pleaded to be true — that the claim discloses no reasonable cause of action. The threshold is high: the claim should not be struck merely because it is novel, because the law is uncertain, or because the claim may be difficult to establish. Only if there is no chance of success should the claim be struck at this stage. On a motion under r.21.01(1)(b), no evidence is admissible — only the pleadings are considered.",
+    "why_A_wrong": "The test is not a probability of success assessment. The court does not weigh evidence or assess likelihood of success under r.21.01(1)(b). It asks only whether it is plain and obvious the claim cannot succeed.",
+    "why_B_wrong": "This IS the correct answer. The Hunt v Carey plain and obvious test requires assuming facts as pleaded are true; novel claims are not struck simply because the law is uncertain.",
+    "why_C_wrong": "Disputed facts are irrelevant on a r.21.01(1)(b) motion. The court assumes all pleaded facts to be true. The defendant cannot raise factual disputes to strike the pleading.",
+    "why_D_wrong": "Improbability or speculativeness of the allegations is not the test. The court assumes the facts as pleaded are true and asks only whether the claim is plain and obviously unsustainable in law.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 6 — Motions",
+      "heading": "Striking Pleadings — No Reasonable Cause of Action Under r.21.01",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.21.01(1)(b); Hunt v Carey Canada Inc, [1990] 2 SCR 959"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "plain and obvious",
+      "r.21.01",
+      "strike pleading",
+      "no reasonable cause of action",
+      "Hunt v Carey"
+    ],
+    "tested_concepts": [
+      "plain and obvious test — Hunt v Carey Canada Inc [1990] 2 SCR 959",
+      "r.21.01(1)(b) — striking pleadings",
+      "novel claims not automatically struck",
+      "no evidence admissible on r.21.01 motion"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

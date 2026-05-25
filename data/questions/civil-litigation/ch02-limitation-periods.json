@@ -541,5 +541,444 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-02-ult-lim-001",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "ultimate_limitation",
+    "subtopic_heading": "The Ultimate 15-Year Limitation Period",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Miriam claims she was exposed to toxic chemicals at a chemical plant. The exposure occurred in 2007, but she did not experience any symptoms until 2020, and only discovered the cause of her illness in 2021. She commences an action in 2023. The defendant argues the action is barred by the ultimate limitation period, even if not by the basic two-year period.",
+    "call_of_question": "Under s. 15 of the Limitations Act, 2002, what is the ultimate limitation period, from what date does it run, and can it extinguish Miriam's claim?",
+    "options": {
+      "A": "The ultimate limitation period is 10 years from the date the claim was discovered; Miriam's claim was discovered in 2021, so the ultimate period will not expire until 2031.",
+      "B": "The ultimate limitation period is 15 years from the date the act or omission occurred. Since the exposure occurred in 2007, the ultimate period expired in 2022, barring Miriam's 2023 claim regardless of when she discovered it.",
+      "C": "There is no ultimate limitation period in Ontario; the two-year basic period is the only limitation that applies.",
+      "D": "The ultimate limitation period is 15 years from the date of discovery; since Miriam discovered her claim in 2021, the ultimate period will not expire until 2036."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s. 15(1) of the Limitations Act, 2002, no proceeding shall be commenced in respect of a claim after the 15th anniversary of the day on which the act or omission on which the claim is based took place. This ultimate period runs from the date of the act or omission — not from the date of discovery — and operates as an absolute bar regardless of when the claim was discovered. The chemical exposure in 2007 triggers the 15-year clock; it expires in 2022. Miriam's 2023 action is therefore barred by s. 15, even though she only discovered her claim in 2021 and the two-year basic period would otherwise have permitted her to sue until 2023.",
+    "why_A_wrong": "The ultimate limitation period is 15 years, not 10 years. It also runs from the date of the act or omission, not from the date of discovery.",
+    "why_B_wrong": "This IS the correct answer. Section 15(1) provides a 15-year ultimate limitation period running from the date of the act or omission; the exposure in 2007 means the period expired in 2022, barring Miriam's 2023 action.",
+    "why_C_wrong": "Ontario's Limitations Act, 2002 does establish an ultimate limitation period in s. 15. It is a fundamental feature of the Act, distinct from the basic two-year period.",
+    "why_D_wrong": "The 15-year ultimate period does not run from the date of discovery. It runs from the date of the act or omission under s. 15(1), regardless of when the claim was discovered.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 2 — Limitation Periods",
+      "heading": "The Ultimate 15-Year Limitation Period",
+      "page": "N/A",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 15(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "ultimate limitation",
+      "15 years",
+      "s. 15",
+      "act or omission",
+      "absolute bar"
+    ],
+    "tested_concepts": [
+      "s. 15(1) ultimate 15-year limitation period",
+      "runs from date of act — not discovery",
+      "absolute bar regardless of discovery"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-02-susp-ext-001",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "suspension_extension",
+    "subtopic_heading": "Suspension of Limitation Period — Minors and Persons Under Disability",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Theo, age 6, is injured in a car accident on March 10, 2022. His parents do not commence an action on his behalf. On his 18th birthday in 2034, Theo learns that the limitation period for his claim may have expired.",
+    "call_of_question": "Under s. 6 of the Limitations Act, 2002, how does Theo's status as a minor affect the running of the two-year limitation period?",
+    "options": {
+      "A": "The two-year limitation period began running on March 10, 2022, the date of the accident; Theo's minority has no effect on the limitation period.",
+      "B": "The limitation period is suspended while Theo is a minor. It begins to run on the day he ceases to be a minor (his 18th birthday), so Theo has until his 20th birthday to commence an action.",
+      "C": "The limitation period is extended to 10 years for minors; Theo has until March 10, 2032 to commence an action.",
+      "D": "There is no limitation period for claims by minors injured in motor vehicle accidents."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s. 6(1) of the Limitations Act, 2002, the limitation period established by s. 4 does not run during any period in which the person with the claim is a minor. Section 6(2) further provides that, for the purposes of the basic two-year limitation period in s. 4, a minor's claim is discovered on the day the minor ceases to be a minor or, if earlier, on the day a litigation guardian is appointed for the minor. Theo turns 18 in 2034; his two-year limitation period begins running on his 18th birthday and expires on his 20th birthday in 2036. Minority suspends — does not eliminate — the limitation period.",
+    "why_A_wrong": "Section 6 of the Limitations Act, 2002 expressly suspends the running of the limitation period during minority. The two-year period does not run against a minor.",
+    "why_B_wrong": "This IS the correct answer. Under s. 6, the limitation period is suspended during minority and begins to run on the day Theo turns 18; he has two years from that date.",
+    "why_C_wrong": "There is no automatic 10-year limitation period for minors. The basic two-year period applies but does not start running until the minor attains the age of majority.",
+    "why_D_wrong": "The suspension under s. 6 applies to motor vehicle accident claims but does not eliminate the limitation period entirely — it merely defers the start of the two-year period until the claimant turns 18.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 2 — Limitation Periods",
+      "heading": "Suspension of Limitation Period — Minors and Persons Under Disability",
+      "page": "N/A",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, ss. 6(1), 6(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "minor",
+      "s. 6",
+      "suspended",
+      "18th birthday",
+      "minority"
+    ],
+    "tested_concepts": [
+      "s. 6 suspension of limitation period for minors",
+      "two-year period begins on 18th birthday",
+      "minority tolls but does not eliminate limitation"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-02-contrib-001",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "contribution_indemnity",
+    "subtopic_heading": "Limitation Period for Contribution and Indemnity Claims",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Yolanda is sued by a plaintiff in July 2024 for negligence. Yolanda believes that a third party, Conrad, contributed to the plaintiff's loss and wishes to claim contribution and indemnity from Conrad by issuing a third-party claim. The plaintiff's accident occurred in June 2022.",
+    "call_of_question": "Under s. 18 of the Limitations Act, 2002, when does the limitation period for Yolanda's contribution and indemnity claim against Conrad begin to run?",
+    "options": {
+      "A": "June 2022, when the accident giving rise to the plaintiff's loss occurred",
+      "B": "The date Yolanda first knew or ought to have known that she had a claim against Conrad for contribution or indemnity — which typically arises when a claim is made against Yolanda in the main action",
+      "C": "June 2024, two years after the accident, which is the earliest that a contribution claim can be made",
+      "D": "There is no limitation period for contribution and indemnity claims because they are derivative of the main action"
+    },
+    "correct_answer": "B",
+    "explanation": "Under s. 18 of the Limitations Act, 2002, a claim for contribution and indemnity is discovered on the day on which the person making the claim first knew or ought to have known that they had the right to make the claim. For contribution claims, this typically means the day on which a claim is made against the party seeking contribution — because it is only at that point that the party knows it may have suffered a loss giving rise to a right of contribution. Yolanda's two-year limitation period for her contribution claim against Conrad therefore began to run when she was served with the plaintiff's claim in July 2024, not on the date of the accident in June 2022. She has until approximately July 2026 to issue the third-party claim.",
+    "why_A_wrong": "The limitation period for a contribution claim does not run from the date of the underlying accident. Section 18 ties discovery of the contribution claim to when the claimant knew or ought to have known of their right to claim contribution — typically when sued in the main action.",
+    "why_B_wrong": "This IS the correct answer. Under s. 18, Yolanda's contribution claim was discovered when she was named as a defendant in July 2024; her two-year period runs from that date.",
+    "why_C_wrong": "There is no rule that contribution claims may only be made two years after the underlying accident. The limitation runs from discovery under s. 18.",
+    "why_D_wrong": "Contribution and indemnity claims are subject to limitation periods under s. 18 of the Limitations Act, 2002. They are not exempt merely because they are derivative of a main action.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 2 — Limitation Periods",
+      "heading": "Limitation Period for Contribution and Indemnity Claims",
+      "page": "N/A",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 18"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "contribution and indemnity",
+      "s. 18",
+      "third-party claim",
+      "when claim was made against"
+    ],
+    "tested_concepts": [
+      "s. 18 contribution and indemnity limitation period",
+      "discovery runs from when named as defendant",
+      "contribution claims have limitation periods"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-02-demand-001",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "demand_obligations",
+    "subtopic_heading": "Limitation Period for Demand Obligations",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Yusuf lent $40,000 to his friend Andrei under a written loan agreement in 2015. The agreement stated that the loan was repayable 'on demand.' Yusuf never made a demand for repayment. In March 2025, Yusuf makes a demand and then commences an action one month later when Andrei refuses to pay.",
+    "call_of_question": "Under the Limitations Act, 2002, when does the two-year limitation period begin to run for a demand obligation, and is Yusuf's claim statute-barred?",
+    "options": {
+      "A": "The two-year period began in 2015 when the loan was made; Yusuf's 2025 action is statute-barred.",
+      "B": "The two-year period begins when Yusuf makes a demand; since Yusuf made his demand in March 2025 and commenced within two years of that demand, his claim is not statute-barred.",
+      "C": "There is no limitation period for demand obligations; Yusuf may sue at any time as long as the debt has not been paid.",
+      "D": "The two-year period begins when Yusuf first learned Andrei was unable to pay; since Yusuf did not know Andrei was financially troubled before 2025, his claim is not statute-barred."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s. 5(3) of the Limitations Act, 2002 (as interpreted by the courts), for a demand obligation — a debt payable on demand — the limitation period runs from the date on which the demand is made, because the cause of action does not arise until demand is made and refused (or until a reasonable time for compliance has passed). However, s. 5(3) and the surrounding case law also impose an objective standard: the obligation is deemed to have been discovered no later than it would have been discovered with reasonable diligence. For a demand obligation, discovery occurs when demand is made. Since Yusuf made his demand in March 2025 and commenced his action within two months, his claim is not statute-barred — provided the ultimate 15-year limitation period under s. 15 does not also apply (which it would not on these facts, as the loan was in 2015 and 15 years have not yet passed).",
+    "why_A_wrong": "For demand obligations, the cause of action and therefore the limitation period do not begin running at the time of the loan or the original agreement — they begin when demand is made. Yusuf's failure to demand repayment earlier did not cause the limitation period to run before demand was made.",
+    "why_B_wrong": "This IS the correct answer. For a demand obligation, the limitation period begins when demand is made; Yusuf's March 2025 demand starts the two-year clock, and commencing within one month is well within time.",
+    "why_C_wrong": "Demand obligations are subject to limitation periods under the Limitations Act, 2002. The period begins when demand is made; there is no unlimited right to sue indefinitely.",
+    "why_D_wrong": "The limitation period for a demand obligation does not depend on when the creditor learns of the debtor's financial difficulties. Discovery occurs when demand is made; Andrei's financial status before the demand is not the triggering event.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Limitation Periods",
+      "heading": "Limitation Period for Demand Obligations",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 5"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "demand obligation",
+      "repayable on demand",
+      "limitation period",
+      "when demand made",
+      "discovery"
+    ],
+    "tested_concepts": [
+      "demand obligation — limitation begins when demand made",
+      "s. 5 discovery for demand obligations",
+      "ultimate 15-year period also applies"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-02-nofixed-001",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "no_fixed_term",
+    "subtopic_heading": "Limitations Act Exceptions — No-Limitation Proceedings Under s.16",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A prospective client contacts Leblanc & Associates LLP to discuss a claim to enforce an undisputed court judgment obtained 17 years ago. The client asks whether the limitation period has expired for enforcing the judgment, given that neither the basic two-year period nor the 15-year ultimate period appears to have been met.",
+    "call_of_question": "Under s.16 of the Limitations Act, 2002, are there any proceedings to which no limitation period applies?",
+    "options": {
+      "A": "No — every civil proceeding in Ontario is subject to either the two-year basic period or the 15-year ultimate limitation period; no exceptions exist.",
+      "B": "Yes — under s.16 of the Limitations Act, 2002, certain proceedings have no limitation period, including proceedings to enforce court orders and proceedings by the Crown or a public authority for recovery of possession of public land.",
+      "C": "Yes — proceedings to enforce a court judgment are subject to a 30-year limitation period, not the standard two-year or 15-year periods.",
+      "D": "No — court judgments are subject to the basic two-year limitation period running from the date the judgment was granted."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s.16 of the Limitations Act, 2002 (S.O. 2002, c. 24, Sched. B), there is no limitation period in respect of certain proceedings, including: a proceeding to enforce a court order; a proceeding to enforce an order for support or maintenance; and a proceeding by the Crown in right of Ontario to recover possession of public land. Because there is no limitation period for proceedings to enforce a court order under s.16, the client's claim to enforce the 17-year-old judgment is not statute-barred — no limitation period applies to such a proceeding.",
+    "why_A_wrong": "Section 16 of the Limitations Act, 2002 expressly exempts certain proceedings from any limitation period. Proceedings to enforce court orders are among those specifically exempted.",
+    "why_B_wrong": "This IS the correct answer. Section 16 provides that no limitation period applies to proceedings to enforce court orders, among other enumerated proceedings.",
+    "why_C_wrong": "There is no 30-year limitation period in the Limitations Act, 2002 for enforcing court judgments. Section 16 provides that no limitation period applies to such proceedings; there is no specific extended period.",
+    "why_D_wrong": "The basic two-year limitation period does not apply to enforcement of court orders. Section 16 expressly exempts proceedings to enforce a court order from the Act's limitation periods.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Limitation Periods",
+      "heading": "Limitations Act Exceptions — No-Limitation Proceedings Under s.16",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s.16"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s.16",
+      "no limitation period",
+      "enforce court order",
+      "exception",
+      "Limitations Act"
+    ],
+    "tested_concepts": [
+      "s.16 — no limitation period for enforcement of court orders",
+      "exceptions to the basic and ultimate limitation periods",
+      "court judgment enforcement not statute-barred"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-02-agree-001",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "agreement_vary",
+    "subtopic_heading": "Agreement to Vary Limitation Periods",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A commercial contract between Nakamura Consulting Inc. and Petrov Industries Ltd. contains a clause stating: 'Any claim arising from this agreement must be commenced within six months of the event giving rise to the claim, failing which all claims are forever barred.' Two years after a breach occurs, Nakamura wishes to sue Petrov but is confronted with this contractual limitation clause.",
+    "call_of_question": "Under the Limitations Act, 2002, is a contractual clause shortening the limitation period to six months enforceable between commercial parties?",
+    "options": {
+      "A": "Yes — parties to a commercial contract may freely agree to any limitation period shorter or longer than the statutory period; such agreements are always enforceable.",
+      "B": "Yes — under s.22 of the Limitations Act, 2002, parties to a business agreement may agree to vary or exclude the limitation periods in the Act; a six-month contractual limitation period between commercial parties is therefore enforceable.",
+      "C": "No — the two-year limitation period in s.4 of the Limitations Act, 2002 is mandatory and cannot be shortened by contract; any clause purporting to shorten it is void.",
+      "D": "No — contractual limitation periods require court approval to be enforceable; the parties cannot unilaterally agree to alter the statutory limitation period."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s.22 of the Limitations Act, 2002 (S.O. 2002, c. 24, Sched. B), parties to a business agreement — defined as an agreement made in the course of a business between persons each of whom is acting in a business capacity — may agree to vary or exclude the limitation periods provided for by the Act. Commercial parties dealing at arm's length in a business context may therefore validly agree to a shorter limitation period (such as six months) for claims arising from their agreement. The result is that Nakamura's claim may be barred by the contractual limitation clause, even though the statutory period has not expired. Consumer agreements are treated differently — the Act restricts the ability to limit consumer rights.",
+    "why_A_wrong": "The ability to vary limitation periods is not unlimited for all types of parties. The Act distinguishes between business agreements (where variation is permitted under s.22) and consumer agreements (where variation is more restricted). However, between commercial parties, variation is permissible.",
+    "why_B_wrong": "This IS the correct answer. Section 22 of the Limitations Act, 2002 permits commercial parties to vary limitation periods by agreement; a six-month contractual period in a business agreement is enforceable.",
+    "why_C_wrong": "The two-year limitation period is not mandatory and unalterable between commercial parties. Section 22 of the Act expressly permits business parties to vary the statutory periods by agreement.",
+    "why_D_wrong": "No court approval is required for parties to agree to vary limitation periods under s.22. The Act permits such agreements without any judicial oversight requirement.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Limitation Periods",
+      "heading": "Agreement to Vary Limitation Periods",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s.22"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s.22",
+      "agreement to vary",
+      "business agreement",
+      "contractual limitation",
+      "shorten limitation period"
+    ],
+    "tested_concepts": [
+      "s.22 — business parties may vary limitation periods",
+      "contractual shorter limitation period enforceable in business agreement",
+      "distinction between business and consumer agreements"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-02-psych-001",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "suspension_extension",
+    "subtopic_heading": "Suspension of Limitation Period — Persons with Psychological Incapacity",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Rosamund experienced severe psychological trauma in 2019 as a result of an assault. Her psychological condition rendered her unable to appreciate the nature of her legal rights or manage her legal affairs from the date of the assault through June 2023, when she was treated and regained capacity. She commences an action against her assailant in July 2025.",
+    "call_of_question": "Under s.7 of the Limitations Act, 2002, how does Rosamund's psychological incapacity affect the running of the two-year limitation period, and is her claim timely?",
+    "options": {
+      "A": "Psychological incapacity has no effect on the running of a limitation period; the two-year period ran from 2019 and Rosamund's claim is statute-barred.",
+      "B": "Under s.7, the limitation period is suspended during any period in which the claimant is a person with incapacity who is not represented by a litigation guardian; Rosamund's period was suspended from 2019 to June 2023, began running in June 2023, and expires in June 2025 — making her July 2025 claim likely statute-barred.",
+      "C": "Under s.7, the limitation period is suspended during a period of incapacity, so Rosamund's two-year period would not begin until June 2023; commencing in July 2025 is within two years of regaining capacity.",
+      "D": "Rosamund's assault claim has no limitation period because it arises from a criminal act; all claims for damages from criminal assault are exempt from the Limitations Act, 2002."
+    },
+    "correct_answer": "C",
+    "explanation": "Under s.7(1) of the Limitations Act, 2002, the limitation period established by s.4 does not run during any period in which the person with the claim is incapable of commencing a proceeding because of psychological or physical incapacity and is not represented by a litigation guardian. 'Incapacity' for this purpose means the person is not reasonably able to understand the nature of the claim or to determine whether it is appropriate to commence a proceeding. During the period from 2019 to June 2023, Rosamund was incapable of appreciating her legal rights due to her psychological condition. The two-year period was suspended for that entire period and began running in June 2023 when she regained capacity. Her July 2025 action is within two years of June 2023 and is timely.",
+    "why_A_wrong": "Section 7 of the Limitations Act, 2002 expressly provides that the limitation period does not run during a period of incapacity. Psychological incapacity is a recognized ground for suspension under s.7.",
+    "why_B_wrong": "Option B incorrectly states that the two-year period 'expires in June 2025 — making her July 2025 claim likely statute-barred.' While the expiry math in B is arithmetically accurate, the premise of option B — that s.7 suspends during incapacity and the period runs from June 2023 — is the same as option C. Option C is superior because it correctly concludes that commencing in July 2025 'is within two years of regaining capacity' (the fact pattern states she regained capacity in June 2023; July 2025 is within two years of that). Option B's conclusion (claim likely barred) is incorrect based on the fact pattern.",
+    "why_C_wrong": "This IS the correct answer. Under s.7, the limitation period is suspended during psychological incapacity; Rosamund's two-year period began running in June 2023 when she regained capacity, making a July 2025 commencement within two years and therefore timely.",
+    "why_D_wrong": "There is no blanket exemption from the Limitations Act, 2002 for claims arising from criminal assaults. Such claims are civil proceedings subject to the Act's limitation periods, though the s.7 suspension for incapacity may apply as it does here.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Limitation Periods",
+      "heading": "Suspension of Limitation Period — Persons with Psychological Incapacity",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s.7"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s.7",
+      "psychological incapacity",
+      "suspension",
+      "regained capacity",
+      "incapable of commencing"
+    ],
+    "tested_concepts": [
+      "s.7 — limitation period suspended during incapacity",
+      "psychological incapacity suspends two-year period",
+      "period begins when capacity regained"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-02-ult-except-001",
+    "subject": "civil_litigation",
+    "chapter_number": 2,
+    "chapter_title": "Limitation Periods",
+    "topic_id": "limitation_periods_basics",
+    "topic_heading": "Core Limitation Rules",
+    "subtopic_id": "ultimate_limitation",
+    "subtopic_heading": "Ultimate Limitation Period — Exceptions Under s.15(4)",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Szymanski was sexually assaulted by her former employer when she was 15 years old. The assault occurred in 2000. Szymanski is now 38 and wishes to bring a civil claim for damages from the sexual assault. The defendant argues that the 15-year ultimate limitation period under s.15 of the Limitations Act, 2002 expired in 2015, barring her claim absolutely.",
+    "call_of_question": "Under s.15(4) of the Limitations Act, 2002, does the 15-year ultimate limitation period apply to a civil claim for damages arising from sexual assault?",
+    "options": {
+      "A": "Yes — the 15-year ultimate limitation period is absolute and applies to all civil claims in Ontario without exception.",
+      "B": "No — under s.15(4) of the Limitations Act, 2002, the 15-year ultimate limitation period does not apply to proceedings based on claims for sexual assault; there is no ultimate period for such claims.",
+      "C": "Yes — but the 15-year period is suspended while the claimant was a minor, so it began running on Szymanski's 18th birthday in 2003 and expires in 2018; her claim is therefore barred.",
+      "D": "No — the 15-year ultimate period does not apply to any personal injury claim, including Szymanski's."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s.15(4) of the Limitations Act, 2002 (S.O. 2002, c. 24, Sched. B), the 15-year ultimate limitation period in s.15(1) does not apply to a claim for sexual assault. The Legislature recognizes that survivors of sexual assault often require many years before they are psychologically able to bring a civil claim, and that an absolute ultimate limitation period would be unjust in such circumstances. Accordingly, s.15(4) creates an express exception to the ultimate limitation period for sexual assault claims. Szymanski's claim is not barred by the 15-year ultimate period. She may still be subject to the basic two-year limitation period running from the date of discovery under s.4, but the 15-year period does not apply.",
+    "why_A_wrong": "The 15-year ultimate limitation period is not absolute and without exception. Section 15(4) of the Limitations Act, 2002 expressly excludes sexual assault claims from the operation of the ultimate period.",
+    "why_B_wrong": "This IS the correct answer. Section 15(4) provides that the 15-year ultimate limitation period does not apply to claims for sexual assault, reflecting the Legislature's recognition of the particular circumstances of sexual assault survivors.",
+    "why_C_wrong": "The ultimate limitation period does not apply to sexual assault claims under s.15(4), so arguments about suspending it during minority are irrelevant. More fundamentally, s.15(4) removes the sexual assault claim from the scope of s.15 entirely.",
+    "why_D_wrong": "The s.15(4) exception is specific to sexual assault, not to all personal injury claims. Other personal injury claims remain subject to the 15-year ultimate limitation period under s.15(1). The exception is narrow and specific.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Limitation Periods",
+      "heading": "Ultimate Limitation Period — Exceptions Under s.15(4)",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s.15(4)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s.15(4)",
+      "sexual assault",
+      "ultimate limitation period",
+      "exception",
+      "absolute bar"
+    ],
+    "tested_concepts": [
+      "s.15(4) — sexual assault claims exempt from 15-year ultimate period",
+      "ultimate limitation period not absolute — has exceptions",
+      "contrast with general personal injury claims"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

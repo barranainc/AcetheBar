@@ -439,5 +439,445 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-app-act-001",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "originating_process",
+    "topic_heading": "Originating Process",
+    "subtopic_id": "application_vs_action",
+    "subtopic_heading": "Application vs. Action — When to Use Each",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A client believes her employer has wrongfully denied her contractual right to a share of a business sale. The dispute depends entirely on the proper legal interpretation of a written shareholders' agreement — there are no material facts in dispute. Counsel is deciding whether to proceed by way of action or application.",
+    "call_of_question": "Under r.14.02 of the Rules of Civil Procedure, which originating process is most appropriate where the relief sought requires the determination of a question of law or interpretation with no genuine factual dispute?",
+    "options": {
+      "A": "An action commenced by statement of claim is always the appropriate originating process; applications are only available for certain statutory proceedings.",
+      "B": "An application under r.14.02 is the most appropriate process where the issues involve questions of law or interpretation on an agreed or undisputed factual record, without the need for trial or oral evidence.",
+      "C": "A motion for summary judgment immediately on an action is the preferred approach where there are no material facts in dispute.",
+      "D": "An application can only be used where all parties consent to the process; unilateral election of an application over an action is not permitted."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.14.02 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a proceeding may be commenced by notice of application where it is authorized by statute or the Rules or where the relief claimed is a determination of rights under a document or statute, particularly where there are no material facts in dispute and the proceeding can be resolved on affidavit evidence without a trial. An application is heard by a judge on affidavit evidence and proceeds more quickly than an action through pleadings, discovery, and trial. Where the sole issue is the interpretation of a written contract (shareholders' agreement) on undisputed facts, the application is the more efficient and appropriate process.",
+    "why_A_wrong": "Applications are not limited to statutory proceedings. Rule 14.02 permits applications where the relief sought is appropriate for determination on affidavit evidence, including interpretation of a document on undisputed facts.",
+    "why_B_wrong": "This IS the correct answer. Rule 14.02 permits an application where there are no material facts in dispute and the proceeding turns on questions of law or interpretation; the matter is resolved on affidavit evidence before a judge.",
+    "why_C_wrong": "While summary judgment is available, it requires commencing an action first. An application under r.14.02 is the more efficient originating process where there is no factual dispute and only legal interpretation is at issue.",
+    "why_D_wrong": "An application does not require the consent of all parties. Any party may elect to proceed by application where the procedural requirements of r.14.02 are satisfied.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 3 — Pleadings",
+      "heading": "Application vs. Action — When to Use Each",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.14.02"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "application",
+      "action",
+      "r.14.02",
+      "no factual dispute",
+      "question of law"
+    ],
+    "tested_concepts": [
+      "application vs action — r.14.02",
+      "application appropriate for legal questions on undisputed facts",
+      "affidavit evidence on application"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-capacity-001",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "capacity",
+    "topic_heading": "Capacity and Litigation Guardians",
+    "subtopic_id": "litigation_guardian",
+    "subtopic_heading": "Litigation Guardians — Minors and Persons Under Disability",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 14-year-old named Jonas is injured in a workplace accident and wishes to bring a personal injury action against his employer. His parents do not want to be involved. Counsel is retained to commence the action on Jonas's behalf.",
+    "call_of_question": "Under r.7.01 of the Rules of Civil Procedure, how must an action be commenced on behalf of a minor?",
+    "options": {
+      "A": "A minor may sue in his or her own name; no special procedural steps are required in Ontario civil litigation.",
+      "B": "A minor must commence proceedings through a litigation guardian; the litigation guardian is named as a party and represents the minor's interests throughout the proceeding.",
+      "C": "A minor must obtain a court order before commencing any civil proceeding, regardless of whether a litigation guardian is available.",
+      "D": "A minor may only sue with the consent of both parents; if the parents do not consent, the action cannot be commenced until the minor turns 18."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.7.01(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a proceeding may be commenced by or against a person under disability — including a minor — only by or through a litigation guardian. The litigation guardian acts on behalf of the minor and is named as a party representing the minor's interests. Where no willing family member is available, counsel may seek the appointment of the Office of the Children's Lawyer as litigation guardian or may seek court appointment of a guardian. The litigation guardian must consent in writing to act and must not have interests adverse to those of the minor.",
+    "why_A_wrong": "A minor does not have the legal capacity to sue in their own name under the Rules. Rule 7.01 requires that a minor be represented by a litigation guardian throughout the proceeding.",
+    "why_B_wrong": "This IS the correct answer. Rule 7.01 requires a litigation guardian for a minor; the guardian is named as a party and represents the minor's interests.",
+    "why_C_wrong": "No prior court order is required simply to commence a proceeding on behalf of a minor. The litigation guardian may be designated without a court order; a court order is needed only in specific circumstances, such as approving a settlement.",
+    "why_D_wrong": "The consent of both parents is not a prerequisite under r.7.01. If the parents are unwilling or unavailable, a litigation guardian may still be appointed by the court or the Office of the Children's Lawyer may act.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 3 — Pleadings",
+      "heading": "Litigation Guardians — Minors and Persons Under Disability",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.7.01(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "minor",
+      "litigation guardian",
+      "r.7.01",
+      "person under disability",
+      "capacity"
+    ],
+    "tested_concepts": [
+      "minor must sue through litigation guardian — r.7.01",
+      "litigation guardian named as party",
+      "Office of the Children's Lawyer"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-third-pty-001",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "third_party_claims",
+    "topic_heading": "Third-Party Claims",
+    "subtopic_id": "third_party_claims",
+    "subtopic_heading": "Third-Party Claims — Contribution and Indemnity (Rule 29)",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Bellwood Construction Ltd. is a defendant in a negligence action brought by a homeowner for defective roofing work. Bellwood believes its subcontractor, Peak Roofing Inc., performed the defective work and is responsible for any damages. Bellwood wishes to claim contribution and indemnity from Peak Roofing as part of the main action.",
+    "call_of_question": "Under r.29.01 of the Rules of Civil Procedure, when may a defendant commence a third-party claim, and must Bellwood obtain leave to do so?",
+    "options": {
+      "A": "A third-party claim may only be commenced with leave of the court in all circumstances; Bellwood must bring a motion for leave before issuing any third-party claim.",
+      "B": "Under r.29.01, a defendant may issue a third-party claim without leave of the court if it is issued within the time for delivery of the statement of defence or before the close of pleadings; leave is required only if those deadlines have passed.",
+      "C": "A third-party claim can only be issued if the main plaintiff consents to the addition of a third party to the action.",
+      "D": "A defendant may never issue a third-party claim in a negligence action; contribution and indemnity must be claimed in a separate proceeding commenced after the main action is resolved."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.29.01 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a defendant who claims contribution and indemnity from a person not already a party to the main action may issue a third-party claim. If the third-party claim is issued before the defendant's statement of defence or within the time for delivery of the statement of defence, no leave is required. If the defendant wishes to issue the third-party claim after the close of pleadings or at a later stage, leave of the court is required under r.29.01(2). The third-party claim is a separate pleading issued as part of the main action, enabling all related contribution and indemnity issues to be resolved in a single proceeding.",
+    "why_A_wrong": "Leave is not required in all circumstances. Rule 29.01 permits the issuance of a third-party claim without leave if it is done within the time for delivery of the defence or before the close of pleadings.",
+    "why_B_wrong": "This IS the correct answer. Under r.29.01, Bellwood may issue a third-party claim without leave if done within the required time; leave is required only after the close of pleadings.",
+    "why_C_wrong": "The plaintiff's consent is not required for a defendant to issue a third-party claim. Rule 29.01 is a defendant's procedural right; it operates without the plaintiff's approval.",
+    "why_D_wrong": "A defendant may claim contribution and indemnity from a third party within the main action by issuing a third-party claim under r.29.01. A separate subsequent action is not required and would be less efficient.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 3 — Pleadings",
+      "heading": "Third-Party Claims — Contribution and Indemnity (Rule 29)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.29.01"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "third-party claim",
+      "r.29.01",
+      "contribution and indemnity",
+      "leave",
+      "subcontractor"
+    ],
+    "tested_concepts": [
+      "third-party claim — r.29.01",
+      "no leave required if within time for defence",
+      "leave required after close of pleadings"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-soc-form-001",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "statement_of_claim",
+    "topic_heading": "Statement of Claim",
+    "subtopic_id": "soc_form_content",
+    "subtopic_heading": "Statement of Claim — Form and Endorsement",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A lawyer is preparing a statement of claim for a commercial dispute. The client asks whether the statement of claim must include an endorsement and, if so, what the endorsement must contain.",
+    "call_of_question": "Under r.14.03 of the Rules of Civil Procedure, what must a statement of claim include as part of its form?",
+    "options": {
+      "A": "A statement of claim need not include an endorsement; the relief sought is set out only in the body of the claim.",
+      "B": "A statement of claim must include a backsheet only, setting out the names of the parties and the court; no endorsement is required.",
+      "C": "A statement of claim must be endorsed with a statement of the nature of the claim and the relief sought, which serves as a short-form summary of the action.",
+      "D": "A statement of claim must include the complete evidence the plaintiff intends to rely upon at trial, endorsed on the backsheet."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.14.03 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), an originating process — including a statement of claim — shall be endorsed with a concise statement of the nature of the claim and the relief sought. This endorsement appears on the face of the claim and provides the defendant with a brief summary of what the action is about. The endorsement is distinct from the body of the claim, which sets out the full material facts and relief claimed in detail.",
+    "why_A_wrong": "An endorsement is required under r.14.03. The statement of claim must include a concise endorsement of the nature of the claim and the relief sought.",
+    "why_B_wrong": "A backsheet alone is insufficient. Rule 14.03 requires an endorsement of the nature of the claim and relief sought, not merely identification of the parties and court on a backsheet.",
+    "why_C_wrong": "This IS the correct answer. Rule 14.03 requires the statement of claim to be endorsed with a concise statement of the nature of the claim and the relief sought.",
+    "why_D_wrong": "Evidence is not to be included in the endorsement or anywhere in the statement of claim. Pleadings contain material facts, not evidence. An endorsement is a concise summary, not a complete evidence statement.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 3 — Pleadings",
+      "heading": "Statement of Claim — Form and Endorsement",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.14.03"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "endorsement",
+      "r.14.03",
+      "nature of claim",
+      "relief sought",
+      "statement of claim form"
+    ],
+    "tested_concepts": [
+      "statement of claim endorsement — r.14.03",
+      "concise statement of nature of claim",
+      "endorsement vs body of claim"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-notice-act-001",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "originating_process",
+    "topic_heading": "Originating Process",
+    "subtopic_id": "notice_of_action",
+    "subtopic_heading": "Notice of Action — Preserving Limitation Period Under r.14.08",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Osei & Partners LLP is retained to bring a product liability claim. The two-year limitation period will expire in ten days, but the statement of claim is not yet ready because the expert report is outstanding. Counsel considers whether there is a procedural mechanism to preserve the limitation period without immediately issuing a full statement of claim.",
+    "call_of_question": "Under r.14.08 of the Rules of Civil Procedure, what document may a plaintiff issue to preserve the limitation period when the full statement of claim is not yet ready?",
+    "options": {
+      "A": "A plaintiff may file a caveat with the court to preserve the limitation period; no originating process needs to be issued.",
+      "B": "Under r.14.08, a plaintiff may issue a notice of action, which preserves the limitation period; the plaintiff then has 30 days from the date the notice of action is issued to serve a statement of claim on the defendant.",
+      "C": "A plaintiff may apply for an extension of the limitation period from the court; extensions are routinely granted where the statement of claim is not ready.",
+      "D": "The plaintiff must issue the full statement of claim to preserve the limitation period; no abbreviated document is available to hold the limitation date."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.14.08 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), where a plaintiff is unable to draft a full statement of claim before the limitation period expires, the plaintiff may issue a notice of action. A notice of action preserves the limitation period from the date it is issued. The plaintiff then has 30 days from the date of issuance of the notice of action to serve a statement of claim on the defendant. If the statement of claim is not served within 30 days, the notice of action may expire and no longer protect the plaintiff's position. This mechanism is particularly useful where supporting expert evidence or other documentation needed to draft the claim is not yet available.",
+    "why_A_wrong": "There is no mechanism for a 'caveat' to preserve a limitation period in Ontario civil procedure. The notice of action under r.14.08 is the proper document for this purpose.",
+    "why_B_wrong": "This IS the correct answer. Rule 14.08 permits the plaintiff to issue a notice of action to preserve the limitation period, followed by service of the full statement of claim within 30 days.",
+    "why_C_wrong": "Courts do not routinely grant extensions of limitation periods. The limitation period is a statutory deadline that generally must be met. The notice of action procedure under r.14.08 is the proper mechanism to address the situation described.",
+    "why_D_wrong": "A full statement of claim is not the only option. Rule 14.08 specifically provides for a notice of action as an interim document to preserve the limitation period when the full claim is not ready.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Pleadings",
+      "heading": "Notice of Action — Preserving Limitation Period Under r.14.08",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.14.08"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "notice of action",
+      "r.14.08",
+      "preserve limitation period",
+      "30 days",
+      "statement of claim not ready"
+    ],
+    "tested_concepts": [
+      "notice of action — r.14.08 — preserves limitation period",
+      "30 days to serve statement of claim after notice of action",
+      "alternative to issuing full statement of claim"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-amend-003",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "amendment_of_pleadings",
+    "topic_heading": "Amendment of Pleadings",
+    "subtopic_id": "amendment_with_leave",
+    "subtopic_heading": "Amendment of Pleadings — Leave Required After Close of Pleadings",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The plaintiff in a negligence action served a statement of claim and the defendant delivered a statement of defence. The plaintiff then discovers new information indicating that a second defendant should have been named. The plaintiff wishes to amend the statement of claim to add the new defendant after the close of pleadings. The defendant argues the amendment should be refused because the limitation period for the claim against the new defendant has now expired.",
+    "call_of_question": "Under r.26.01 of the Rules of Civil Procedure, on what basis may the court grant or refuse leave to amend a statement of claim to add a new defendant after the close of pleadings, particularly where the limitation period may have expired?",
+    "options": {
+      "A": "Leave to amend is automatically granted once close of pleadings has occurred; there are no grounds on which the court may refuse the amendment.",
+      "B": "Under r.26.01, the court shall grant leave to amend at any stage of an action on such terms as are just, unless the amendment would cause prejudice that could not be compensated by costs; the court has discretion to refuse an amendment adding a new defendant if the limitation period against that defendant has expired and adding them now would be prejudicial.",
+      "C": "After close of pleadings, amendment is not available; the plaintiff must abandon the existing action and commence a new claim against the new defendant.",
+      "D": "Leave to amend to add a new party is only available before trial; once close of pleadings has occurred, the amendment can only be made by consent of all existing parties."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.26.01 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the court shall grant leave to amend a pleading at any stage of an action on such terms as are just, unless prejudice would result that could not be compensated by costs or an adjournment. The right to amend is available after the close of pleadings and does not require consent of all parties. However, where the plaintiff seeks to add a new defendant and the limitation period against that defendant has expired, the court must consider whether the amendment would be prejudicial — adding a defendant against whom the limitation period has run is a significant consideration. The court will assess whether the new defendant knew about the potential claim, whether there is an arguable issue of discoverability, and whether the expiry of the limitation period against the new defendant is a bar to the amendment.",
+    "why_A_wrong": "Leave to amend is not automatically granted. Rule 26.01 gives the court discretion to refuse an amendment that would cause prejudice that cannot be compensated by costs. The expiry of a limitation period is a significant factor against granting leave.",
+    "why_B_wrong": "This IS the correct answer. Rule 26.01 permits amendment at any stage subject to the court's discretion; the expired limitation period against the new defendant is a key factor the court will weigh in deciding whether to grant leave.",
+    "why_C_wrong": "Amendment is available after the close of pleadings under r.26.01; the plaintiff need not abandon the action. A new proceeding may face its own limitation problems. The amendment route under r.26.01 is the proper mechanism.",
+    "why_D_wrong": "Consent of all existing parties is not required for an amendment under r.26.01. The court may grant leave on such terms as are just; the existing parties may oppose the amendment and the court weighs the arguments.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Pleadings",
+      "heading": "Amendment of Pleadings — Leave Required After Close of Pleadings",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.26.01"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "r.26.01",
+      "leave to amend",
+      "after close of pleadings",
+      "add new defendant",
+      "limitation period expired"
+    ],
+    "tested_concepts": [
+      "r.26.01 — leave to amend at any stage",
+      "no prejudice that costs cannot compensate",
+      "expired limitation against new defendant — key factor"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-crossclaim-001",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "crossclaims",
+    "topic_heading": "Crossclaims",
+    "subtopic_id": "crossclaims",
+    "subtopic_heading": "Crossclaims Between Co-Defendants — Rule 28",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Three defendants are named in a personal injury action. Defendant A — a property owner — believes that Defendant B — a snow removal contractor — is entirely responsible for the icy walkway that caused the plaintiff's injury, and wishes to claim contribution and indemnity from Defendant B within the existing action.",
+    "call_of_question": "Under r.28.01 of the Rules of Civil Procedure, how may Defendant A assert its claim for contribution and indemnity against Defendant B within the main action?",
+    "options": {
+      "A": "Defendant A must commence a separate action against Defendant B; contribution and indemnity claims between co-defendants cannot be raised within the main action.",
+      "B": "Defendant A may file a crossclaim against Defendant B within the main action under r.28.01, claiming contribution and indemnity or asserting that Defendant B alone is liable for the plaintiff's loss.",
+      "C": "Defendant A may only claim contribution and indemnity from Defendant B by making a written demand to Defendant B's insurer; the claim cannot be made through any pleading in the main action.",
+      "D": "Defendant A must wait until the plaintiff's main action is resolved before commencing a claim against Defendant B; cross-defendant claims cannot be brought while the main action is pending."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.28.01(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a defendant may crossclaim against any co-defendant — that is, another defendant who is already a party to the main action — by asserting a claim for contribution and indemnity or by claiming that the co-defendant alone is liable for the plaintiff's loss or a part of it. A crossclaim is a pleading filed within the main action; it enables all related claims among co-defendants to be resolved in a single proceeding without the need for a separate action. Defendant A should therefore file a crossclaim against Defendant B under r.28.01.",
+    "why_A_wrong": "A separate action is not required. Rule 28.01 provides the mechanism for co-defendant claims within the main action. Commencing a separate action for contribution and indemnity would be procedurally unnecessary and less efficient.",
+    "why_B_wrong": "This IS the correct answer. Rule 28.01 permits a defendant to file a crossclaim against a co-defendant for contribution and indemnity or for sole liability within the existing main action.",
+    "why_C_wrong": "Contribution and indemnity is a legal claim that must be pursued through proper pleading procedures under the Rules. It is not resolved by writing to an insurer, and it may be raised as a crossclaim within the main action under r.28.01.",
+    "why_D_wrong": "Defendant A need not wait until the main action is resolved. Rule 28.01 expressly permits the crossclaim to be made within the existing main action while that action is pending, enabling all parties and all related claims to be resolved together.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Pleadings",
+      "heading": "Crossclaims Between Co-Defendants — Rule 28",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.28.01"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "crossclaim",
+      "r.28.01",
+      "co-defendant",
+      "contribution and indemnity",
+      "sole liability"
+    ],
+    "tested_concepts": [
+      "crossclaim — r.28.01 — between co-defendants",
+      "claim contribution and indemnity or sole liability",
+      "within main action — no separate proceeding needed"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-03-defence-001",
+    "subject": "civil_litigation",
+    "chapter_number": 3,
+    "chapter_title": "Pleadings",
+    "topic_id": "statement_of_defence",
+    "topic_heading": "Statement of Defence",
+    "subtopic_id": "time_to_defend",
+    "subtopic_heading": "Time to Deliver Statement of Defence and Default",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A statement of claim for breach of contract is served on the defendant, Beaumont Logistics Inc., in Ontario on March 1. Beaumont's counsel asks how much time the company has to deliver its statement of defence.",
+    "call_of_question": "Under r.18.01 of the Rules of Civil Procedure, how many days does a defendant ordinarily have to deliver a statement of defence after being served with the statement of claim in Ontario?",
+    "options": {
+      "A": "30 days after service of the statement of claim.",
+      "B": "20 days after service of the statement of claim.",
+      "C": "14 days after service of the statement of claim.",
+      "D": "60 days after service of the statement of claim."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.18.01 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a defendant who is served with a statement of claim in Ontario must deliver a statement of defence within 20 days after service. If the defendant is served outside Ontario but within Canada or the United States, the time is 40 days; if served elsewhere, the time is 60 days. A defendant who does not deliver a statement of defence within the prescribed time is noted in default, and the plaintiff may proceed to obtain default judgment under Part 19 of the Rules.",
+    "why_A_wrong": "The time to deliver a statement of defence after service in Ontario is 20 days, not 30 days. Thirty days applies in different circumstances.",
+    "why_B_wrong": "This IS the correct answer. Rule 18.01 provides 20 days to deliver a statement of defence after service within Ontario.",
+    "why_C_wrong": "Fourteen days is not the prescribed period for delivering a statement of defence. The correct period for service in Ontario is 20 days under r.18.01.",
+    "why_D_wrong": "Sixty days applies where the defendant is served outside Canada and the United States, not for service within Ontario. The correct period for Ontario service is 20 days under r.18.01.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Pleadings",
+      "heading": "Time to Deliver Statement of Defence and Default",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.18.01"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "statement of defence",
+      "r.18.01",
+      "20 days",
+      "time to defend",
+      "noted in default"
+    ],
+    "tested_concepts": [
+      "20 days to deliver statement of defence — r.18.01",
+      "service in Ontario — 20 days",
+      "failure to defend — noted in default"
+    ],
+    "estimated_time_seconds": 75,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

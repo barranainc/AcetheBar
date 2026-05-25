@@ -273,5 +273,280 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-06-fippa-3p-001",
+    "subject": "public_law",
+    "chapter_number": 6,
+    "chapter_title": "Privacy and Access to Information",
+    "topic_id": "access_to_information",
+    "topic_heading": "FIPPA — Third-Party Information Exemption",
+    "subtopic_id": "fippa_third_party",
+    "subtopic_heading": "FIPPA Section 17 — Third-Party Commercial Information",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A construction company submits a bid on a provincial government contract. A competitor submits a FIPPA access request for all documents related to the successful bid, including the winning company's pricing breakdown, proprietary cost estimates, and project methodology. The government institution has notified the winning company of the request. The winning company opposes disclosure, arguing the information is commercial and was provided in confidence.",
+    "call_of_question": "Under s. 17 of FIPPA, what test must be satisfied for a third party to successfully claim the third-party information exemption?",
+    "options": {
+      "A": "Any information provided by a private party to a government institution is automatically exempt from disclosure; no further test is required.",
+      "B": "Under FIPPA s. 17, the third-party information exemption applies where disclosure of the record could reasonably be expected to: (1) prejudice significantly the competitive position of the third party; (2) interfere with contractual or other negotiations; (3) result in similar information no longer being supplied to the institution; or the information was supplied in confidence and was treated as confidential by both parties, and disclosure could result in material financial loss to the third party.",
+      "C": "Section 17 applies only to government records relating to pharmaceutical companies; it has no application to construction industry records.",
+      "D": "Section 17 is a mandatory exemption that requires refusal of access to all records submitted by private parties to government institutions, without any further analysis."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, s. 17(1), an institution shall refuse to disclose a record that reveals a trade secret or commercial, financial, labour relations, scientific, or technical information supplied in confidence to the institution by a third party, where the disclosure could reasonably be expected to: (a) prejudice significantly the competitive position or interfere with the contractual or other negotiations of the third party; (b) result in similar information no longer being supplied to the institution; or (c) result in undue loss or gain to any person, group, committee, or financial institution or agency. The third party must establish all elements: the information is commercial in nature, was supplied in confidence, and disclosure would cause the described harm.",
+    "why_A_wrong": "Incorrect. Not all information provided by private parties to government institutions is automatically exempt; the third party must establish the specific conditions set out in s. 17(1), including that the information was supplied in confidence and that defined harms would result from disclosure.",
+    "why_B_wrong": "This IS the correct answer. Under FIPPA s. 17, the third-party information exemption applies where disclosure of the record could reasonably be expected to: (1) prejudice significantly the competitive position of the third party; (2) interfere with contractual or other negotiations; (3) result in similar information no longer being supplied to the institution; or the information was supplied in confidence and was treated as confidential by both parties, and disclosure could result in material financial loss to the third party.",
+    "why_C_wrong": "Incorrect. Section 17 applies broadly to commercial, financial, labour relations, scientific, or technical information supplied by any third party; it is not limited to pharmaceutical companies or any specific industry.",
+    "why_D_wrong": "Incorrect. Section 17 is a mandatory exemption that applies where the conditions are satisfied, but the institution must conduct a contextual analysis to determine whether the specific conditions in s. 17(1) are met; it does not automatically apply to all records submitted by private parties.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 6 — Privacy and Access to Information",
+      "heading": "FIPPA Section 17 — Third-Party Commercial Information",
+      "page": "N/A",
+      "rule_or_statute_reference": "Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, s. 17(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FIPPA s. 17",
+      "third-party information",
+      "commercial information",
+      "supplied in confidence",
+      "competitive position"
+    ],
+    "tested_concepts": [
+      "FIPPA s. 17 third-party information exemption elements",
+      "commercial information supplied in confidence",
+      "harm to competitive position as required element"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-06-fippa-rec-001",
+    "subject": "public_law",
+    "chapter_number": 6,
+    "chapter_title": "Privacy and Access to Information",
+    "topic_id": "access_to_information",
+    "topic_heading": "FIPPA — Records in Custody or Control",
+    "subtopic_id": "fippa_records",
+    "subtopic_heading": "FIPPA — What Constitutes a Record in the Custody or Control of an Institution",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A journalist submits a FIPPA request to the Ontario Ministry of Infrastructure for all emails and text messages sent on the personal cell phones of three senior Ministry officials relating to a major infrastructure contract. The Ministry responds that personal cell phones are not Ministry property and that personal device communications are outside its custody and control. The journalist argues the communications relate to Ministry business and should be disclosed.",
+    "call_of_question": "Under FIPPA, when are records held on personal devices of government officials in the custody or control of the institution for the purpose of the right of access?",
+    "options": {
+      "A": "Records are in the custody or control of the institution only if they are physically stored on government servers or equipment; personal device communications can never be subject to FIPPA access requests.",
+      "B": "Under FIPPA, 'custody or control' is determined by examining the nature of the record's content and the purpose for which it was created; records on personal devices that relate to the conduct of government business may be in the control of the institution for FIPPA purposes, even if they are not physically stored on government equipment.",
+      "C": "All communications on personal devices by government officials are automatically subject to FIPPA regardless of their content.",
+      "D": "FIPPA applies only to records created during working hours on government premises; personal device communications outside office hours are never subject to FIPPA."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, s. 10, the right of access applies to records in the custody or control of an institution. The Information and Privacy Commissioner of Ontario has interpreted 'custody or control' broadly to include records in the physical possession of the institution and records over which the institution has the legal right to obtain. Records on personal devices may be in the institution's 'control' if they relate to government business and the institution has the authority and practical ability to obtain them. The test is functional and content-focused, not limited to physical storage on government equipment.",
+    "why_A_wrong": "Incorrect. 'Custody or control' under FIPPA is not limited to physical government servers or equipment; the IPC has interpreted control to include records the institution has a right to obtain, including content-based analysis of personal device records relating to government business.",
+    "why_B_wrong": "This IS the correct answer. Under FIPPA, 'custody or control' is determined by examining the nature of the record's content and the purpose for which it was created; records on personal devices that relate to the conduct of government business may be in the control of the institution for FIPPA purposes, even if they are not physically stored on government equipment.",
+    "why_C_wrong": "Incorrect. Not all communications on personal devices by government officials are automatically subject to FIPPA; the determination depends on whether the content relates to the conduct of government business and whether the institution has control over the records.",
+    "why_D_wrong": "Incorrect. FIPPA's definition of records is not limited to communications created during working hours on government premises; the focus is on the content and purpose of the record, not when or where it was created.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 6 — Privacy and Access to Information",
+      "heading": "FIPPA — What Constitutes a Record in the Custody or Control of an Institution",
+      "page": "N/A",
+      "rule_or_statute_reference": "Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, s. 10; s. 2(1) (definition of record)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FIPPA",
+      "custody or control",
+      "personal device",
+      "government business",
+      "functional test"
+    ],
+    "tested_concepts": [
+      "FIPPA custody or control functional definition",
+      "personal device records relating to government business",
+      "not limited to physical government storage"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-06-pipeda-cons-001",
+    "subject": "public_law",
+    "chapter_number": 6,
+    "chapter_title": "Privacy and Access to Information",
+    "topic_id": "private_sector_privacy",
+    "topic_heading": "PIPEDA — Consent Exceptions",
+    "subtopic_id": "pipeda_consent",
+    "subtopic_heading": "PIPEDA — Exceptions to the Consent Requirement",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A bank detects unusual activity in a customer's account that suggests possible fraud. Without the customer's consent, the bank shares the customer's account transaction data with the Royal Canadian Mounted Police as part of a fraud investigation. The customer later learns of the disclosure and argues the bank violated PIPEDA by disclosing his personal information without consent.",
+    "call_of_question": "Under PIPEDA, does the disclosure of personal information to law enforcement without the individual's consent constitute a violation of PIPEDA's consent principle?",
+    "options": {
+      "A": "Yes. PIPEDA's consent requirement is absolute; no disclosure of personal information to any third party, including law enforcement, is permitted without the individual's consent.",
+      "B": "No. Under PIPEDA s. 7(3), an organization may disclose personal information without consent where the disclosure is to a government institution that has made a request and identified its lawful authority to obtain the information, or where the organization has reasonable grounds to believe the information relates to a breach of law.",
+      "C": "Yes. The bank violated PIPEDA because only court-ordered production orders can authorize disclosure to law enforcement without consent.",
+      "D": "No. Banks are exempt from all PIPEDA requirements because the Bank Act governs all aspects of banking including privacy."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Personal Information Protection and Electronic Documents Act, S.C. 2000, c. 5, Schedule 1 establishes the consent principle as foundational to PIPEDA. However, s. 7(3) of PIPEDA provides a number of exceptions to the requirement for consent for disclosure. An organization may disclose personal information without consent to a government institution that has identified its lawful authority to obtain the information and indicated that disclosure is requested for a specified purpose (s. 7(3)(c)). Additionally, s. 7(3)(d) permits disclosure without consent where the organization reasonably believes the information could be useful in investigating a contravention of federal or provincial law. The bank's disclosure to the RCMP in the context of a fraud investigation falls within these exceptions.",
+    "why_A_wrong": "Incorrect. PIPEDA's consent requirement is subject to enumerated exceptions in s. 7(3); the consent principle is foundational but not absolute. Law enforcement disclosures in defined circumstances do not require consent.",
+    "why_B_wrong": "This IS the correct answer. No. Under PIPEDA s. 7(3), an organization may disclose personal information without consent where the disclosure is to a government institution that has made a request and identified its lawful authority to obtain the information, or where the organization has reasonable grounds to believe the information relates to a breach of law.",
+    "why_C_wrong": "Incorrect. PIPEDA s. 7(3) permits voluntary disclosure to law enforcement without a court order in defined circumstances; a production order is not the only lawful mechanism for disclosure to law enforcement under PIPEDA.",
+    "why_D_wrong": "Incorrect. Banks are subject to PIPEDA for their commercial activities involving personal information; the Bank Act does not exempt them from PIPEDA's privacy requirements.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 6 — Privacy and Access to Information",
+      "heading": "PIPEDA — Exceptions to the Consent Requirement",
+      "page": "N/A",
+      "rule_or_statute_reference": "Personal Information Protection and Electronic Documents Act, S.C. 2000, c. 5, s. 7(3)(c), s. 7(3)(d)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "PIPEDA s. 7(3)",
+      "consent exception",
+      "law enforcement disclosure",
+      "without consent",
+      "government institution"
+    ],
+    "tested_concepts": [
+      "PIPEDA s. 7(3) consent exceptions",
+      "law enforcement disclosure exception",
+      "consent principle not absolute"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-06-pipeda-breach-001",
+    "subject": "public_law",
+    "chapter_number": 6,
+    "chapter_title": "Privacy and Access to Information",
+    "topic_id": "private_sector_privacy",
+    "topic_heading": "PIPEDA — Privacy Breach Notification",
+    "subtopic_id": "pipeda_breach",
+    "subtopic_heading": "PIPEDA — Mandatory Breach Notification Requirements",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A large e-commerce company suffers a data breach in which a hacker accessed the personal information of approximately 50,000 customers, including credit card numbers, home addresses, and purchase histories. The company's privacy officer determines that the breach created a 'real risk of significant harm' to the affected individuals. The company seeks legal advice on its notification obligations under PIPEDA.",
+    "call_of_question": "Under PIPEDA, what are the mandatory notification obligations when an organization suffers a breach of security safeguards that creates a real risk of significant harm?",
+    "options": {
+      "A": "There are no mandatory notification obligations under PIPEDA; breach notification is voluntary and at the organization's discretion.",
+      "B": "Under PIPEDA ss. 10.1 and 10.2 (as amended by the Digital Privacy Act, 2015), an organization that suffers a breach of security safeguards creating a real risk of significant harm to individuals must: (1) notify the Office of the Privacy Commissioner of Canada as soon as feasible; and (2) notify the individuals whose information was involved in the breach as soon as feasible. The organization must also maintain records of all breaches.",
+      "C": "The organization must notify only the individuals affected; there is no requirement to notify the Privacy Commissioner of Canada.",
+      "D": "Notification obligations under PIPEDA arise only where the breach involved more than 100,000 individuals; breaches affecting fewer individuals need not be reported."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Personal Information Protection and Electronic Documents Act, S.C. 2000, c. 5, as amended by the Digital Privacy Act, S.C. 2015, c. 32, ss. 10.1 and 10.2 (in force since November 1, 2018), organizations are required to notify the Privacy Commissioner of Canada and affected individuals as soon as feasible when a breach of security safeguards creates a real risk of significant harm to an individual. 'Real risk of significant harm' includes bodily harm, humiliation, financial loss, identity theft, and reputational harm. Organizations must also keep and maintain records of all breaches, even those that do not meet the 'real risk' threshold, and make those records available to the Commissioner on request.",
+    "why_A_wrong": "Incorrect. As of November 1, 2018, PIPEDA imposes mandatory breach notification obligations; they are not discretionary.",
+    "why_B_wrong": "This IS the correct answer. Under PIPEDA ss. 10.1 and 10.2 (as amended by the Digital Privacy Act, 2015), an organization that suffers a breach of security safeguards creating a real risk of significant harm to individuals must: (1) notify the Office of the Privacy Commissioner of Canada as soon as feasible; and (2) notify the individuals whose information was involved in the breach as soon as feasible. The organization must also maintain records of all breaches.",
+    "why_C_wrong": "Incorrect. Notification to the Privacy Commissioner of Canada is required in addition to notification of affected individuals; the obligation runs to both the Commissioner and the individuals at risk.",
+    "why_D_wrong": "Incorrect. The mandatory notification obligation under PIPEDA is triggered by 'real risk of significant harm,' not by any numerical threshold for the number of individuals affected; a breach affecting even one individual may trigger the obligation if the real risk test is met.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 6 — Privacy and Access to Information",
+      "heading": "PIPEDA — Mandatory Breach Notification Requirements",
+      "page": "N/A",
+      "rule_or_statute_reference": "Personal Information Protection and Electronic Documents Act, S.C. 2000, c. 5, ss. 10.1, 10.2 (as amended by Digital Privacy Act, S.C. 2015, c. 32)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "PIPEDA breach notification",
+      "real risk of significant harm",
+      "Privacy Commissioner",
+      "ss. 10.1 10.2",
+      "Digital Privacy Act"
+    ],
+    "tested_concepts": [
+      "PIPEDA mandatory breach notification obligations",
+      "notify Commissioner and individuals as soon as feasible",
+      "real risk of significant harm trigger"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-06-fippa-s20-001",
+    "subject": "public_law",
+    "chapter_number": 6,
+    "chapter_title": "Privacy and Access to Information",
+    "topic_id": "access_to_information",
+    "topic_heading": "FIPPA — Economic Interests Exemption",
+    "subtopic_id": "fippa_exemptions",
+    "subtopic_heading": "FIPPA Section 18 — Economic and Other Interests of Ontario",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A business association submits a FIPPA access request to the Ministry of Finance for internal economic analysis reports prepared by ministry economists projecting the fiscal impact of a proposed tax reform. The Ministry refuses access, arguing that disclosure of its economic forecasting methodology and projections would harm Ontario's ability to negotiate effectively with the federal government on equalization arrangements. The requester challenges the refusal before the IPC.",
+    "call_of_question": "Under FIPPA, which exemption permits an institution to refuse disclosure of records where disclosure could reasonably be expected to prejudice the economic interests of Ontario or the competitive position of an Ontario institution?",
+    "options": {
+      "A": "Section 14 (law enforcement) — it applies to any government record whose disclosure could harm the province.",
+      "B": "Section 19 (solicitor-client privilege) — it protects all internal government analysis, including economic forecasts.",
+      "C": "Section 18(1) — a discretionary exemption permitting the institution to refuse disclosure of a record that could reasonably be expected to prejudice the economic interests or competitive position of an Ontario institution, or reveal information that could be exploited to the economic disadvantage of Ontario.",
+      "D": "Section 21 (personal privacy) — it applies where the record contains information about identifiable individuals, including government economists."
+    },
+    "correct_answer": "C",
+    "explanation": "Under the Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, s. 18(1), an institution may refuse to disclose a record that contains: (a) trade secrets or financial, commercial, scientific, or technical information belonging to the Government of Ontario; (b) information where disclosure could reasonably be expected to prejudice the economic interests of an institution or the competitive position of an Ontario institution; or (c) information whose disclosure could be exploited to the economic disadvantage of Ontario. Section 18 is a discretionary exemption (the institution 'may' refuse); the institution must exercise its discretion and demonstrate that disclosure would cause the defined economic harm.",
+    "why_A_wrong": "Incorrect. Section 14 is the law enforcement exemption and applies to records relating to law enforcement investigations, not to economic or fiscal analysis or intergovernmental negotiations.",
+    "why_B_wrong": "Incorrect. Section 19 (solicitor-client privilege) protects legal advice communications between lawyer and client; it does not apply to economic analysis reports prepared by ministry economists who are not providing legal advice.",
+    "why_C_wrong": "This IS the correct answer. Section 18(1) is a discretionary exemption permitting the institution to refuse disclosure of a record that could reasonably be expected to prejudice the economic interests or competitive position of an Ontario institution, or reveal information that could be exploited to the economic disadvantage of Ontario.",
+    "why_D_wrong": "Incorrect. Section 21 (personal privacy) protects personal information about identifiable individuals; it does not apply to aggregate economic analysis or fiscal projections, which are institutional rather than personal information.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 6 — Privacy and Access to Information",
+      "heading": "FIPPA Section 18 — Economic and Other Interests of Ontario",
+      "page": "N/A",
+      "rule_or_statute_reference": "Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, s. 18(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FIPPA s. 18",
+      "economic interests",
+      "competitive position",
+      "Ontario institution",
+      "fiscal analysis"
+    ],
+    "tested_concepts": [
+      "FIPPA s. 18 economic interests discretionary exemption",
+      "prejudice to economic interests or competitive position",
+      "distinction from ss. 14 19 21"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

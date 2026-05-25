@@ -383,5 +383,226 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-12-pi-si-001",
+    "subject": "civil_litigation",
+    "chapter_number": 12,
+    "chapter_title": "Costs",
+    "topic_id": "costs",
+    "topic_heading": "Costs in Civil Litigation",
+    "subtopic_id": "partial_indemnity_costs",
+    "subtopic_heading": "Partial Indemnity vs Substantial Indemnity — Distinguishing the Scales",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Mensah v. Johansson Ltd. is a commercial fraud action. The plaintiff succeeds at trial. In exercising its discretion on costs, the judge must determine whether to award partial indemnity costs or substantial indemnity costs. The defendant engaged in sharp litigation practices — making numerous last-minute adjournment requests, filing unnecessary cross-motions, and generally prolonging the proceedings — but did not engage in any dishonest or fraudulent conduct during the litigation itself.",
+    "call_of_question": "Which costs scale should the court apply, and why?",
+    "options": {
+      "A": "Solicitor-client costs, because the plaintiff was successful in a fraud action and the defendant's litigation conduct caused unnecessary delay.",
+      "B": "Partial indemnity costs, because substantial indemnity costs require reprehensible, scandalous, or outrageous conduct that goes beyond sharp litigation practices, and the defendant's conduct here — though prolific and dilatory — does not cross that threshold.",
+      "C": "Substantial indemnity costs, because the defendant made unnecessary procedural motions and caused the plaintiff to incur extra costs.",
+      "D": "Costs are not available to the plaintiff because the defendant's conduct, while problematic, did not include fraud within the litigation."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.57.01(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), partial indemnity costs are the ordinary scale awarded to a successful party. Substantial indemnity costs — approximately 1.5 times partial indemnity — are reserved for cases where a party's litigation conduct has been reprehensible, scandalous, or outrageous. Sharp litigation practices — making last-minute adjournments, filing unnecessary motions, and causing delay — are dilatory and may attract adverse comment, but courts have generally held that such conduct, while deserving of censure, does not automatically cross the threshold into the reprehensible or outrageous conduct required for substantial indemnity. Partial indemnity is the appropriate scale on these facts; the r.57.01(1) factors for fixing the quantum of partial indemnity costs can account for the impact of the defendant's conduct on the proceedings.",
+    "why_A_wrong": "Solicitor-client costs represent full indemnity and are reserved for the most extreme cases of misconduct. Sharp procedural tactics, while troublesome, do not rise to the level warranting full solicitor-client indemnification.",
+    "why_B_wrong": "This IS the correct answer. The defendant's dilatory litigation conduct does not constitute reprehensible, scandalous, or outrageous conduct sufficient to justify substantial indemnity costs. Partial indemnity is the appropriate scale.",
+    "why_C_wrong": "Making unnecessary procedural motions can be a factor in fixing the quantum of partial indemnity costs under r.57.01(1), but it does not automatically justify a shift to the higher substantial indemnity scale without reprehensible or outrageous conduct.",
+    "why_D_wrong": "A successful plaintiff is entitled to costs as a matter of general principle (costs follow the event under r.57.01). The fact that the defendant's litigation conduct did not include fraud within the litigation does not deny the plaintiff a costs order.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Costs",
+      "heading": "Partial Indemnity vs Substantial Indemnity — Distinguishing the Scales",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "partial indemnity",
+      "substantial indemnity",
+      "reprehensible conduct",
+      "r.57.01",
+      "costs scale"
+    ],
+    "tested_concepts": [
+      "partial indemnity — ordinary default scale",
+      "substantial indemnity requires reprehensible/scandalous/outrageous conduct",
+      "sharp litigation practices insufficient for substantial indemnity"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-12-pi-si-002",
+    "subject": "civil_litigation",
+    "chapter_number": 12,
+    "chapter_title": "Costs",
+    "topic_id": "costs",
+    "topic_heading": "Costs in Civil Litigation",
+    "subtopic_id": "solicitor_client_costs",
+    "subtopic_heading": "Solicitor-Client Costs vs Substantial Indemnity — The Three Scales",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Reyes Construction Ltd. succeeds in a complex contract action where the defendant knowingly maintained a fraudulent defence for three years despite possessing internal emails proving the contract was performed as alleged. The trial judge awards costs. Reyes seeks solicitor-client costs; the defendant argues only partial indemnity is appropriate.",
+    "call_of_question": "Which statement correctly identifies the three costs scales in Ontario and the circumstances appropriate to each?",
+    "options": {
+      "A": "There are only two costs scales in Ontario: partial indemnity (the default) and solicitor-client costs (full indemnity, reserved for the most egregious misconduct).",
+      "B": "There are three costs scales: partial indemnity (the default, awarded to successful parties); substantial indemnity (approximately 1.5 times partial indemnity, awarded for reprehensible litigation conduct); and solicitor-client costs (full indemnity, reserved for the most serious misconduct, bad faith, or abuse of process). Knowingly maintaining a fraudulent defence warrants substantial indemnity or solicitor-client costs at the court's discretion.",
+      "C": "There are three costs scales: partial indemnity (50% of actual fees); substantial indemnity (75% of actual fees); and solicitor-client costs (100% of actual fees). The court must choose the scale that corresponds exactly to the percentage of fees the court believes was reasonable.",
+      "D": "There is only one costs scale in Ontario — partial indemnity — and the court has no power to award costs beyond the Tariff A amounts except in cases of contempt."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.57.01 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194) and established Ontario practice, there are three costs scales in Ontario civil litigation. Partial indemnity is the default scale awarded to successful parties; it reflects a partial recovery of actual legal costs, typically assessed against Tariff A guidelines. Substantial indemnity — approximately 1.5 times partial indemnity — is awarded where a party's litigation conduct has been reprehensible, scandalous, or outrageous, or where triggered by the offer-to-settle regime under r.49.10(2). Solicitor-client costs represent full indemnity for actual legal fees reasonably incurred and are reserved for the most egregious misconduct, bad faith litigation, or abuse of process. Knowingly maintaining a fraudulent defence for three years in the face of contradictory evidence is classic reprehensible conduct that supports substantial indemnity costs at minimum, and may warrant solicitor-client costs in the court's discretion.",
+    "why_A_wrong": "There are three costs scales in Ontario, not two. Substantial indemnity is a distinct scale between partial indemnity and solicitor-client costs.",
+    "why_B_wrong": "This IS the correct answer. There are three costs scales: partial indemnity (default), substantial indemnity (approximately 1.5× partial, for reprehensible conduct), and solicitor-client (full indemnity, for most serious misconduct).",
+    "why_C_wrong": "The description of the three scales as fixed percentages of actual fees (50%, 75%, 100%) is incorrect. The scales are not defined by fixed percentages of actual fees; they are assessed having regard to various factors under r.57.01.",
+    "why_D_wrong": "Ontario courts have the power to award costs beyond Tariff A amounts and at scales other than partial indemnity. Substantial indemnity and solicitor-client costs are well-established scales, not limited to contempt proceedings.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Costs",
+      "heading": "Solicitor-Client Costs vs Substantial Indemnity — The Three Scales",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "three costs scales",
+      "partial indemnity",
+      "substantial indemnity",
+      "solicitor-client costs",
+      "full indemnity"
+    ],
+    "tested_concepts": [
+      "three costs scales in Ontario — partial, substantial, solicitor-client",
+      "substantial indemnity approx 1.5x partial",
+      "solicitor-client costs reserved for most serious misconduct"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-12-lawyer-costs-001",
+    "subject": "civil_litigation",
+    "chapter_number": 12,
+    "chapter_title": "Costs",
+    "topic_id": "costs",
+    "topic_heading": "Costs in Civil Litigation",
+    "subtopic_id": "costs_against_lawyer",
+    "subtopic_heading": "Personal Costs Order Against Lawyer — r.57.07 and Professional Responsibility",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Counsel for the defendant in a civil action becomes aware during the trial that the defendant's key affidavit contains materially false statements. Rather than correcting the record or withdrawing, counsel continues to rely on the affidavit and submits closing arguments that treat the false averments as established facts. The trial judge later discovers the false statements when reviewing records and awards solicitor-client costs personally against defendant's counsel under r.57.07.",
+    "call_of_question": "Under r.57.07 of the Rules of Civil Procedure, which of the following is a recognized basis for ordering a lawyer to pay costs personally, and does the scenario above satisfy it?",
+    "options": {
+      "A": "A personal costs order against a lawyer requires a finding of criminal fraud; the conduct in the scenario does not meet this threshold.",
+      "B": "A personal costs order under r.57.07 may be made where a lawyer has caused costs to be incurred without reasonable cause or has engaged in conduct that is a waste of the court's resources; deliberately relying on a known false affidavit and making submissions based on it satisfies this basis.",
+      "C": "A personal costs order against a lawyer is only available by complaint to the Law Society; a court has no jurisdiction to make such an order directly.",
+      "D": "A personal costs order against a lawyer is only available after the lawyer has been formally reprimanded by the Law Society of Ontario."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.57.07(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the court may order that costs be paid by a lawyer personally where the lawyer has caused costs to be incurred without reasonable cause, has caused costs to be wasted by undue delay or misconduct, or has failed to provide legal services with reasonable care, skill, and efficiency. Deliberately continuing to rely on a known false affidavit and making submissions based on it constitutes conduct that causes costs to be incurred without reasonable cause and is inconsistent with providing legal services with reasonable care — it is also a serious professional responsibility breach (obligation of candour to the tribunal). A court can make a personal costs order under r.57.07 directly and independently of any Law Society proceeding. No criminal fraud finding is required.",
+    "why_A_wrong": "A personal costs order under r.57.07 does not require a criminal fraud finding. The standard is whether the lawyer caused costs to be incurred without reasonable cause or engaged in misconduct causing wasted costs. The scenario clearly satisfies this lower threshold.",
+    "why_B_wrong": "This IS the correct answer. Deliberately relying on a known false affidavit and submitting arguments based on it constitutes conduct causing costs to be incurred without reasonable cause and engages r.57.07 directly.",
+    "why_C_wrong": "Courts have independent jurisdiction under r.57.07 to order a lawyer to pay costs personally. This is a separate remedy from any Law Society disciplinary process, and the two may proceed in parallel.",
+    "why_D_wrong": "A prior formal Law Society reprimand is not a prerequisite for a court to make a personal costs order under r.57.07. The court may act on the basis of the lawyer's conduct in the proceedings before it.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Costs",
+      "heading": "Personal Costs Order Against Lawyer — r.57.07 and Professional Responsibility",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.07(1)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "candour to tribunal — counsel continued to rely on known false affidavit"
+    },
+    "exam_trigger_words": [
+      "r.57.07",
+      "personal costs",
+      "known false affidavit",
+      "candour to tribunal",
+      "costs against lawyer"
+    ],
+    "tested_concepts": [
+      "r.57.07(1) — personal costs order against lawyer",
+      "no criminal fraud required — misconduct causing wasted costs sufficient",
+      "court jurisdiction independent of Law Society process",
+      "PR angle — candour obligation to tribunal"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-12-costs-event-001",
+    "subject": "civil_litigation",
+    "chapter_number": 12,
+    "chapter_title": "Costs",
+    "topic_id": "costs",
+    "topic_heading": "Costs in Civil Litigation",
+    "subtopic_id": "costs_follow_event",
+    "subtopic_heading": "Costs Follow the Event — General Principle and Exceptions",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "In a breach of contract action, the plaintiff claims $500,000 but is awarded only $25,000 at trial. The defendant seeks an order that, because the plaintiff's recovery was so disproportionately small relative to the amount claimed, the defendant should receive its costs of the action rather than the plaintiff.",
+    "call_of_question": "Under the general costs principle in r.57.01 of the Rules of Civil Procedure, who is ordinarily entitled to costs after a contested trial, and does the disproportionately small recovery change this?",
+    "options": {
+      "A": "Costs are always split equally between the parties where one party wins but recovers significantly less than claimed.",
+      "B": "The successful party at trial is ordinarily entitled to costs (costs follow the event); however, the court has discretion under r.57.01 to make any order as to costs, and a grossly disproportionate recovery may be a factor the court considers in exercising that discretion — but the defendant is not automatically entitled to costs simply because the plaintiff recovered far less than claimed.",
+      "C": "The defendant is automatically entitled to costs whenever the plaintiff's recovery is less than one-half of the amount claimed.",
+      "D": "There are no costs consequences where the plaintiff succeeds at trial; costs are only awarded to defendants who succeed."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.57.01 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the court has a broad and general discretion to award costs, and the successful party ordinarily receives costs (costs follow the event). The plaintiff here succeeded — obtaining judgment for $25,000 — and is prima facie entitled to costs. However, the court has discretion to consider the amount claimed versus the amount recovered as a factor under r.57.01(1), and may reduce the costs award or make no costs order or even award costs to the defendant where a plaintiff has advanced a wholly disproportionate claim. This is a discretionary exercise, not an automatic rule; the defendant is not entitled to costs simply because the plaintiff recovered less than claimed, but the court may adjust the costs award in light of the disproportionality.",
+    "why_A_wrong": "Costs are not automatically split equally. The general principle is that costs follow the event (the successful party receives costs), with adjustments available in the court's discretion.",
+    "why_B_wrong": "This IS the correct answer. Costs follow the event as a general principle; a disproportionately small recovery is a discretionary factor, not an automatic entitlement to costs for the defendant.",
+    "why_C_wrong": "There is no automatic rule reversing costs entitlement where the plaintiff recovers less than half of the claimed amount. The court's discretion under r.57.01 does not operate by such a fixed threshold.",
+    "why_D_wrong": "Costs are regularly awarded to successful plaintiffs. The costs-follow-the-event principle applies to both plaintiffs and defendants who succeed at trial.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Costs",
+      "heading": "Costs Follow the Event — General Principle and Exceptions",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "costs follow the event",
+      "r.57.01",
+      "disproportionate recovery",
+      "court discretion",
+      "successful party"
+    ],
+    "tested_concepts": [
+      "costs-follow-the-event principle — r.57.01",
+      "court has discretion to depart from costs-follow-the-event",
+      "disproportionate claim — factor, not automatic reversal"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

@@ -933,5 +933,445 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-23"
+  },
+  {
+    "id": "pub-02-s8-rep-001",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights — Section 8 Search and Seizure",
+    "subtopic_id": "section8_search",
+    "subtopic_heading": "s. 8 — Reasonable Expectation of Privacy",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Police obtain the subscriber information of a residential internet user from the user's internet service provider (ISP) without a warrant. The police use the subscriber name and address to identify a suspect in a child pornography investigation. The accused argues that the warrantless disclosure of his subscriber information by the ISP to police constitutes an unreasonable search and seizure under s. 8 of the Charter.",
+    "call_of_question": "Under R v Spencer, does an internet subscriber have a reasonable expectation of privacy in subscriber information held by their ISP?",
+    "options": {
+      "A": "No. Subscriber information such as name and address is publicly available information and can never attract a reasonable expectation of privacy.",
+      "B": "No. Once a person voluntarily shares personal information with a third party such as an ISP, they lose all reasonable expectation of privacy in that information.",
+      "C": "Yes. Under R v Spencer, 2014 SCC 43, internet subscriber information attracts a reasonable expectation of privacy because internet use — including online activities linked to that subscriber identity — reveals intimate details of a person's life. Warrantless disclosure by the ISP to police constitutes a search within the meaning of s. 8.",
+      "D": "Yes, but only where the subscriber specifically requests privacy from their ISP in writing."
+    },
+    "correct_answer": "C",
+    "explanation": "In R v Spencer, 2014 SCC 43, the Supreme Court of Canada held that an internet subscriber has a reasonable expectation of privacy in subscriber information held by their ISP. The Court reasoned that subscriber information — when combined with the online activities associated with that IP address — reveals highly personal information about the subscriber's internet use, creating a reasonable expectation of privacy in the subscriber's identity as the user of that IP address. Police disclosure requests to an ISP without a warrant therefore constitute a 'search' within the meaning of s. 8 of the Charter, requiring prior judicial authorization to be reasonable.",
+    "why_A_wrong": "Incorrect. Even if a name and address are individually public, the combination of subscriber identity with online activity patterns reveals intimate personal information that attracts a reasonable expectation of privacy under Spencer.",
+    "why_B_wrong": "Incorrect. The third-party disclosure principle does not automatically eliminate all privacy interests; the contextual analysis under Spencer recognizes that the nature of online activity makes subscriber information qualitatively different from ordinary business records.",
+    "why_C_wrong": "This IS the correct answer. Yes. Under R v Spencer, 2014 SCC 43, internet subscriber information attracts a reasonable expectation of privacy because internet use — including online activities linked to that subscriber identity — reveals intimate details of a person's life. Warrantless disclosure by the ISP to police constitutes a search within the meaning of s. 8.",
+    "why_D_wrong": "Incorrect. The reasonable expectation of privacy under Spencer does not depend on explicit written requests for privacy; it arises from the nature of the information itself and the context in which it is disclosed.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 8 — Reasonable Expectation of Privacy",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 8; R v Spencer, 2014 SCC 43"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 8",
+      "reasonable expectation of privacy",
+      "ISP subscriber information",
+      "Spencer",
+      "warrantless"
+    ],
+    "tested_concepts": [
+      "s. 8 reasonable expectation of privacy",
+      "R v Spencer ISP subscriber information",
+      "warrantless disclosure as search"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-02-s9-det-001",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights — Section 9 Arbitrary Detention",
+    "subtopic_id": "section9_detention",
+    "subtopic_heading": "s. 9 — Psychological Detention and the Grant Test",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Police officers on foot patrol stop a young Black man walking in a high-crime neighbourhood late at night. The officers question him, demand his identification, and ask him to empty his pockets. The officers do not tell him he is free to leave. The man complies and contraband is found. He argues the police interaction constituted a psychological detention without reasonable cause, violating s. 9 of the Charter.",
+    "call_of_question": "Under R v Grant, when does a police-citizen interaction constitute a psychological detention within the meaning of s. 9 of the Charter?",
+    "options": {
+      "A": "A detention under s. 9 requires physical restraint; a verbal interaction that does not involve physical contact can never constitute a detention.",
+      "B": "Any police questioning of a citizen automatically constitutes a detention that must be based on reasonable grounds.",
+      "C": "Under R v Grant, a psychological detention occurs when a reasonable person in the circumstances would conclude that they were not free to walk away; relevant factors include the nature of the police conduct, the setting, and whether the person was singled out in circumstances that would lead them to feel compelled to comply.",
+      "D": "A psychological detention is only established where the police officer explicitly says the person is not free to leave."
+    },
+    "correct_answer": "C",
+    "explanation": "In R v Grant, 2009 SCC 32, the Supreme Court of Canada established a contextual test for psychological detention under s. 9. A person is psychologically detained — even without physical restraint — when a reasonable person in the particular circumstances would conclude they were not free to go. The court considers the nature of the police conduct (tone, form of demands vs. requests), the setting, and whether the encounter is targeted at that individual in a way that would lead a reasonable person to feel compelled to comply. On these facts, the combination of demands, the absence of any indication the person could leave, and the targeted nature of the stop may constitute a psychological detention.",
+    "why_A_wrong": "Incorrect. Section 9 protects against both physical and psychological detention; Grant expressly recognized that compelled compliance without physical restraint can constitute detention.",
+    "why_B_wrong": "Incorrect. Grant drew a distinction between general questioning (not necessarily a detention) and targeted, compelled encounters; not every police question amounts to a detention.",
+    "why_C_wrong": "This IS the correct answer. Under R v Grant, a psychological detention occurs when a reasonable person in the circumstances would conclude that they were not free to walk away; relevant factors include the nature of the police conduct, the setting, and whether the person was singled out in circumstances that would lead them to feel compelled to comply.",
+    "why_D_wrong": "Incorrect. Grant does not require an explicit statement that the person cannot leave; the test is objective — what would a reasonable person in those circumstances conclude about their freedom to leave.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 9 — Psychological Detention and the Grant Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 9; R v Grant, 2009 SCC 32"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 9",
+      "psychological detention",
+      "Grant",
+      "arbitrary detention",
+      "free to leave"
+    ],
+    "tested_concepts": [
+      "s. 9 psychological detention",
+      "R v Grant detention test",
+      "reasonable person free to leave standard"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-02-s12-001",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights — Section 12 Cruel and Unusual Treatment",
+    "subtopic_id": "section12_cruel",
+    "subtopic_heading": "s. 12 — Cruel and Unusual Treatment or Punishment",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A federal statute imposes a mandatory minimum sentence of three years for a first-time offender convicted of simple possession of a small quantity of a controlled substance. A first-time offender convicted of possessing a small personal-use quantity receives a three-year sentence. The offender argues the mandatory minimum is grossly disproportionate to the offence and constitutes cruel and unusual punishment under s. 12 of the Charter.",
+    "call_of_question": "What is the legal test under s. 12 of the Charter for determining whether a mandatory minimum sentence constitutes cruel and unusual punishment?",
+    "options": {
+      "A": "A sentence is cruel and unusual only if it is physically painful or degrading; a prison term, however long, cannot constitute cruel and unusual treatment.",
+      "B": "A mandatory minimum sentence violates s. 12 if the judge believes a shorter sentence would have been more appropriate in the circumstances.",
+      "C": "Under s. 12 of the Charter, a sentence — including a mandatory minimum — constitutes cruel and unusual punishment if it is grossly disproportionate to what is appropriate in the circumstances; the court considers whether the sentence is so excessive as to outrage standards of decency, which includes considering not only the particular offender but reasonably foreseeable applications of the mandatory minimum.",
+      "D": "A mandatory minimum sentence is automatically constitutional because Parliament has determined it is a necessary deterrent."
+    },
+    "correct_answer": "C",
+    "explanation": "Under s. 12 of the Charter and as confirmed in R v Nur, 2015 SCC 15, and R v Lloyd, 2016 SCC 13, a sentence constitutes cruel and unusual punishment if it is grossly disproportionate — so excessive as to outrage standards of decency. Courts assess gross disproportionality by considering the particular offender and also the reasonably foreseeable application of the mandatory minimum to other offenders (the 'reasonable hypothetical' approach). A mandatory minimum that would impose a grossly disproportionate sentence on a reasonable hypothetical offender at the low end of the offending spectrum — such as a first-time possession offender — violates s. 12.",
+    "why_A_wrong": "Incorrect. Section 12 applies to any treatment or punishment that is grossly disproportionate, including lengthy prison terms; it is not limited to physically painful or degrading acts.",
+    "why_B_wrong": "Incorrect. The s. 12 test is not whether the judge prefers a shorter sentence; it is whether the mandatory minimum is grossly disproportionate — a much higher threshold than judicial preference.",
+    "why_C_wrong": "This IS the correct answer. Under s. 12 of the Charter, a sentence — including a mandatory minimum — constitutes cruel and unusual punishment if it is grossly disproportionate to what is appropriate in the circumstances; the court considers whether the sentence is so excessive as to outrage standards of decency, which includes considering not only the particular offender but reasonably foreseeable applications of the mandatory minimum.",
+    "why_D_wrong": "Incorrect. Parliamentary designation of a mandatory minimum does not immunize it from s. 12 scrutiny; the Charter applies to legislation enacted by Parliament.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 12 — Cruel and Unusual Treatment or Punishment",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 12; R v Nur, 2015 SCC 15; R v Lloyd, 2016 SCC 13"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 12",
+      "cruel and unusual",
+      "mandatory minimum",
+      "grossly disproportionate",
+      "outrage standards of decency"
+    ],
+    "tested_concepts": [
+      "s. 12 gross disproportionality test",
+      "reasonable hypothetical approach R v Nur",
+      "mandatory minimum sentences and Charter"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-02-jordan-001",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights — Section 11(b) Right to Trial Within Reasonable Time",
+    "subtopic_id": "section11b_jordan",
+    "subtopic_heading": "s. 11(b) — Jordan Framework for Unreasonable Delay",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An accused is charged with a serious fraud offence. From the date the charge is laid to the conclusion of the trial in the Ontario Superior Court of Justice, 42 months elapse. During that period, a three-month delay is attributable to defence counsel's scheduling conflicts and a further two-month delay results from a change of defence counsel that the accused requested. The accused brings a s. 11(b) application for a stay of proceedings.",
+    "call_of_question": "Under the Jordan framework for s. 11(b) analysis, what is the presumptive ceiling for proceedings in the Superior Court of Justice, and how is defence delay treated?",
+    "options": {
+      "A": "There is no fixed ceiling; the court assesses all delays case by case and stays proceedings only if the delay is manifestly unreasonable.",
+      "B": "Under R v Jordan, the presumptive ceiling for proceedings in the Superior Court of Justice is 30 months; delays clearly caused by the defence are subtracted from the total elapsed time in calculating whether the ceiling has been exceeded.",
+      "C": "The presumptive ceiling for Superior Court proceedings is 18 months; any delay beyond 18 months automatically results in a stay of proceedings.",
+      "D": "The Jordan framework does not apply to fraud charges; s. 11(b) only governs summary conviction proceedings."
+    },
+    "correct_answer": "B",
+    "explanation": "In R v Jordan, 2016 SCC 27, the Supreme Court of Canada established a new framework for s. 11(b). The presumptive ceiling for cases in the Superior Court of Justice (or cases tried after a preliminary inquiry) is 30 months from the date of charge to the completion of trial. Delays clearly caused by the defence — not by the Crown or the court — are subtracted from the total elapsed time when calculating whether the ceiling has been exceeded. Here, the five months of defence-caused delay (three months for defence scheduling, two months for the change of counsel requested by the accused) would be subtracted, leaving 37 months. This exceeds the 30-month ceiling, raising a presumption of unreasonable delay.",
+    "why_A_wrong": "Incorrect. Jordan replaced the case-by-case Morin analysis with a presumptive ceiling to bring predictability and efficiency to s. 11(b) analysis.",
+    "why_B_wrong": "This IS the correct answer. Under R v Jordan, the presumptive ceiling for proceedings in the Superior Court of Justice is 30 months; delays clearly caused by the defence are subtracted from the total elapsed time in calculating whether the ceiling has been exceeded.",
+    "why_C_wrong": "Incorrect. The 18-month ceiling applies to cases tried in provincial courts (below Superior Court level); the Superior Court ceiling is 30 months under Jordan.",
+    "why_D_wrong": "Incorrect. The Jordan framework applies to all criminal charges, including indictable offences such as fraud; s. 11(b) is not limited to summary conviction proceedings.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 11(b) — Jordan Framework for Unreasonable Delay",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 11(b); R v Jordan, 2016 SCC 27"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 11(b)",
+      "Jordan",
+      "30-month ceiling",
+      "reasonable time",
+      "defence delay"
+    ],
+    "tested_concepts": [
+      "Jordan 30-month ceiling Superior Court",
+      "defence-caused delay subtracted",
+      "s. 11(b) stay of proceedings"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-02-s33-001",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights — Section 33 Notwithstanding Clause",
+    "subtopic_id": "section33_notwith",
+    "subtopic_heading": "s. 33 — Notwithstanding Clause — Scope and Use",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A provincial legislature enacts a statute declaring that it operates notwithstanding s. 2 (fundamental freedoms) and ss. 7 to 15 of the Charter. The legislation requires provincial civil servants to remove face coverings while providing or receiving public services. A civil servant challenges the law, arguing the notwithstanding clause declaration does not cover the Charter provision she relies on.",
+    "call_of_question": "Under s. 33 of the Charter, which Charter rights may a legislature override using a notwithstanding clause declaration, and for how long does such a declaration remain in effect?",
+    "options": {
+      "A": "A legislature may override any Charter right, including democratic rights (ss. 3-5), mobility rights (s. 6), and language rights (ss. 16-23), through a valid notwithstanding clause declaration.",
+      "B": "Under s. 33, a legislature may expressly declare that a statute operates notwithstanding s. 2 or ss. 7 to 15 of the Charter only; democratic rights, mobility rights, minority language rights, and equality rights under s. 28 cannot be overridden. A valid declaration ceases to have effect after five years but may be re-enacted.",
+      "C": "A notwithstanding clause declaration overrides all Charter rights for ten years, after which it must be renewed.",
+      "D": "Section 33 applies only to federal legislation; provincial legislatures cannot invoke the notwithstanding clause."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 33 of the Charter permits Parliament or a provincial legislature to expressly declare that an Act or a provision thereof shall operate notwithstanding a provision included in s. 2 or ss. 7 to 15 of the Charter. The notwithstanding clause cannot override democratic rights (ss. 3, 4, 5), mobility rights (s. 6), official language rights (ss. 16–23), minority language education rights (s. 23), or the equality guarantee in s. 28. A declaration under s. 33 ceases to have effect five years after it comes into force but may be re-enacted for successive five-year periods.",
+    "why_A_wrong": "Incorrect. Section 33 does not permit override of all Charter rights; democratic rights, mobility rights, and language rights are expressly outside the scope of the notwithstanding clause.",
+    "why_B_wrong": "This IS the correct answer. Under s. 33, a legislature may expressly declare that a statute operates notwithstanding s. 2 or ss. 7 to 15 of the Charter only; democratic rights, mobility rights, minority language rights, and equality rights under s. 28 cannot be overridden. A valid declaration ceases to have effect after five years but may be re-enacted.",
+    "why_C_wrong": "Incorrect. A notwithstanding clause declaration lasts five years, not ten, and it cannot override all Charter rights.",
+    "why_D_wrong": "Incorrect. Section 33 expressly applies to both Parliament and the legislature of a province; both levels of government may invoke the notwithstanding clause within the permitted scope.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 33 — Notwithstanding Clause — Scope and Use",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 33"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 33",
+      "notwithstanding clause",
+      "five-year limit",
+      "s. 2 ss. 7-15",
+      "override"
+    ],
+    "tested_concepts": [
+      "s. 33 scope of notwithstanding clause",
+      "five-year sunset provision",
+      "rights that cannot be overridden democratic mobility language"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-02-s10a-001",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights — Section 10 Rights on Arrest or Detention",
+    "subtopic_id": "section10_arrest",
+    "subtopic_heading": "s. 10(a) — Right to Be Informed of Reasons for Arrest or Detention",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Police officers execute a lawful arrest warrant for a man named John Smith. When they arrive at the suspect's door, the suspect says he is not John Smith but is in fact James Brown. The police nonetheless arrest him and tell him only 'you're being arrested.' They do not inform him of the specific offence for which he is being arrested or why they believe he is the person named in the warrant. He is held for six hours before the misidentification is discovered. He argues his s. 10(a) rights were violated.",
+    "call_of_question": "Under s. 10(a) of the Canadian Charter of Rights and Freedoms, what information must police provide to a person upon arrest or detention?",
+    "options": {
+      "A": "Police must read the person the complete text of the charging document; nothing less satisfies s. 10(a).",
+      "B": "Section 10(a) requires only that police inform the person that they are being arrested; the specific grounds need not be disclosed until the person is formally charged.",
+      "C": "Under s. 10(a) of the Charter, police must promptly inform the person of the reasons for their arrest or detention — including the specific offence alleged and the factual basis for the arrest — with sufficient detail to allow the person to understand why they are being deprived of their liberty and to exercise their right to retain counsel meaningfully.",
+      "D": "Section 10(a) applies only to detention, not to arrest; a person who is formally arrested has no s. 10(a) right to be informed of reasons."
+    },
+    "correct_answer": "C",
+    "explanation": "Under s. 10(a) of the Canadian Charter of Rights and Freedoms, everyone has the right on arrest or detention to be informed promptly of the reasons therefore. This means police must inform the arrestee of the specific offence alleged and sufficient factual basis to understand why they are being deprived of liberty. As established in R v Evans, [1991] 1 SCR 869, the obligation requires meaningful communication of the grounds — not a formal reading of charges — but sufficient to enable the person to understand the reason for detention and to instruct counsel. Where a person is arrested based on a warrant and the arresting officer fails to explain the reason, s. 10(a) is breached.",
+    "why_A_wrong": "Incorrect. Section 10(a) does not require police to read the full text of a charging document; clear and prompt communication of the reasons — the specific offence and why they are being arrested — is sufficient.",
+    "why_B_wrong": "Incorrect. Section 10(a) requires more than a bare statement that the person is being arrested; the specific offence and factual grounds must be communicated promptly so the person can understand their situation and exercise their right to counsel.",
+    "why_C_wrong": "This IS the correct answer. Under s. 10(a) of the Charter, police must promptly inform the person of the reasons for their arrest or detention — including the specific offence alleged and the factual basis for the arrest — with sufficient detail to allow the person to understand why they are being deprived of their liberty and to exercise their right to retain counsel meaningfully.",
+    "why_D_wrong": "Incorrect. Section 10(a) expressly applies to both arrest and detention; the right to be informed of reasons applies to both forms of liberty deprivation.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 10(a) — Right to Be Informed of Reasons for Arrest or Detention",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 10(a); R v Evans, [1991] 1 SCR 869"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 10(a)",
+      "reasons for arrest",
+      "informed promptly",
+      "specific offence",
+      "R v Evans"
+    ],
+    "tested_concepts": [
+      "s. 10(a) right to be informed of reasons for arrest",
+      "specific offence must be communicated",
+      "R v Evans standard"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-02-s11d-001",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights — Section 11(d) Presumption of Innocence",
+    "subtopic_id": "section11d_innocence",
+    "subtopic_heading": "s. 11(d) — Presumption of Innocence in Regulatory Proceedings",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A provincial environmental statute imposes administrative monetary penalties on any person found by a regulatory tribunal to have discharged a pollutant into a waterway. The statute provides that upon proof that a discharge occurred, the respondent bears the burden of proving they took all reasonable precautions to prevent the discharge. A company argues the reverse onus violates the presumption of innocence under s. 11(d) of the Charter.",
+    "call_of_question": "Does s. 11(d) of the Charter, which guarantees the right to be presumed innocent until proven guilty, apply to administrative monetary penalty proceedings before a regulatory tribunal?",
+    "options": {
+      "A": "Yes. Section 11(d) applies to all proceedings — criminal, quasi-criminal, and administrative regulatory — where a penalty is imposed.",
+      "B": "Section 11(d) applies only to true criminal offences under the Criminal Code; it has no application to provincial regulatory or administrative proceedings that impose monetary penalties.",
+      "C": "Under s. 11(d) of the Charter, the presumption of innocence applies to any proceeding that is 'criminal in nature' — typically those that carry stigma and true criminal penalties such as imprisonment. Purely administrative monetary penalty proceedings before a regulatory tribunal, which lack criminal stigma and do not involve imprisonment, generally fall outside s. 11(d); however, if the penalty is sufficiently severe and carries criminal stigma, s. 11 may still apply.",
+      "D": "Section 11(d) applies to administrative proceedings only where the enabling statute expressly provides for a presumption of innocence."
+    },
+    "correct_answer": "C",
+    "explanation": "Under s. 11 of the Canadian Charter of Rights and Freedoms, the rights in ss. 11(a) through (i) apply to any person 'charged with an offence.' Whether an administrative proceeding constitutes being 'charged with an offence' within s. 11 is determined by the test established in R v Wigglesworth, [1987] 2 SCR 541: s. 11 applies if the proceeding is (1) criminal in nature by its very nature — i.e., aimed at promoting public order and welfare in a public sphere of activity; or (2) involves the imposition of a true penal consequence such as imprisonment or a fine large enough to be penal in nature. A regulatory administrative monetary penalty scheme without imprisonment or criminal stigma typically does not engage s. 11(d). The reverse onus may still be challenged under s. 7 (fundamental justice) but not s. 11(d).",
+    "why_A_wrong": "Incorrect. Section 11(d) does not apply to all proceedings involving a penalty; the Wigglesworth test limits s. 11 to proceedings that are criminal in nature or carry true penal consequences. Purely administrative monetary penalties without criminal stigma generally do not attract s. 11(d).",
+    "why_B_wrong": "Incorrect. Section 11(d) is not absolutely limited to Criminal Code offences; provincial quasi-criminal proceedings that carry imprisonment or a truly penal penalty may also attract s. 11 under Wigglesworth.",
+    "why_C_wrong": "This IS the correct answer. Under s. 11(d) of the Charter, the presumption of innocence applies to any proceeding that is 'criminal in nature' — typically those that carry stigma and true criminal penalties such as imprisonment. Purely administrative monetary penalty proceedings before a regulatory tribunal, which lack criminal stigma and do not involve imprisonment, generally fall outside s. 11(d); however, if the penalty is sufficiently severe and carries criminal stigma, s. 11 may still apply.",
+    "why_D_wrong": "Incorrect. Whether s. 11(d) applies is a constitutional question determined by the Wigglesworth test; it does not depend on whether the enabling statute expressly mentions the presumption of innocence.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 11(d) — Presumption of Innocence in Regulatory Proceedings",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 11(d); R v Wigglesworth, [1987] 2 SCR 541"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 11(d)",
+      "presumption of innocence",
+      "regulatory proceedings",
+      "Wigglesworth",
+      "charged with an offence"
+    ],
+    "tested_concepts": [
+      "s. 11(d) scope — criminal in nature test",
+      "Wigglesworth test for s. 11 application",
+      "administrative monetary penalties generally outside s. 11"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-02-s28-001",
+    "subject": "public_law",
+    "chapter_number": 2,
+    "chapter_title": "Charter of Rights and Freedoms — Section 1 and Key Rights",
+    "topic_id": "charter_rights",
+    "topic_heading": "Charter Rights — Section 28 Gender Equality Guarantee",
+    "subtopic_id": "section28_gender",
+    "subtopic_heading": "s. 28 — Charter Rights Guaranteed Equally to Male and Female Persons",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A provincial government relies on a notwithstanding clause declaration under s. 33 to override s. 15 of the Charter in connection with a statute that excludes women from certain senior public service positions. A claimant argues that regardless of the s. 33 override, s. 28 of the Charter independently guarantees Charter rights equally to male and female persons and cannot be displaced by s. 33.",
+    "call_of_question": "What is the legal effect of s. 28 of the Charter, and does a s. 33 notwithstanding clause override negate the protection afforded by s. 28?",
+    "options": {
+      "A": "Section 28 is merely a declaration of principle with no independent legal force; it adds nothing to the Charter beyond what s. 15 already provides.",
+      "B": "Section 28 guarantees that the rights and freedoms in the Charter are guaranteed equally to male and female persons; however, s. 28 does not create freestanding independent rights — it operates as an interpretive guarantee that existing Charter rights apply equally regardless of sex.",
+      "C": "Section 28 creates an absolute bar against any law that distinguishes between men and women, overriding all other Charter provisions including s. 1 and s. 33.",
+      "D": "Section 28 applies only to provincial governments; the federal government is not bound by the guarantee of equal protection for male and female persons."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 28 of the Charter provides that the rights and freedoms referred to in the Charter are guaranteed equally to male and female persons. Section 28 operates as an interpretive guarantee applied to rights enumerated elsewhere in the Charter; it ensures that Charter rights are interpreted and applied equally without discrimination based on sex. Section 28 does not create freestanding rights independent of the rest of the Charter, but it does reinforce the equal application of Charter rights. Its relationship with s. 33 is contested in academic literature, but the prevailing view is that s. 28 operates as a guide to interpretation of enumerated rights rather than as a separate override on s. 33.",
+    "why_A_wrong": "Incorrect. Section 28 has legal significance as an interpretive guarantee; it is not merely symbolic and shapes how Charter rights are applied in the context of sex equality.",
+    "why_B_wrong": "This IS the correct answer. Section 28 guarantees that the rights and freedoms in the Charter are guaranteed equally to male and female persons; however, s. 28 does not create freestanding independent rights — it operates as an interpretive guarantee that existing Charter rights apply equally regardless of sex.",
+    "why_C_wrong": "Incorrect. Section 28 does not override ss. 1 and 33; it is an interpretive provision and does not create an absolute bar against all sex-based distinctions or override the s. 33 notwithstanding mechanism.",
+    "why_D_wrong": "Incorrect. Section 28 applies to Charter rights generally and is not limited to provincial governments; the Charter including s. 28 binds all government actors.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 2 — Charter Rights",
+      "heading": "s. 28 — Charter Rights Guaranteed Equally to Male and Female Persons",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 28"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 28",
+      "guaranteed equally male female",
+      "interpretive guarantee",
+      "sex equality",
+      "s. 33 and s. 28"
+    ],
+    "tested_concepts": [
+      "s. 28 as interpretive guarantee not freestanding right",
+      "equal application of Charter rights to men and women",
+      "relationship between s. 28 and s. 33"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

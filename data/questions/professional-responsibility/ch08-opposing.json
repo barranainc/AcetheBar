@@ -215,5 +215,152 @@
       "misrepresentation to opposing counsel is misconduct"
     ],
     "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-08-threat-001",
+    "chapter_number": 8,
+    "chapter_title": "Dealing with Opposing Parties and Unrepresented Persons",
+    "topic_id": "opposing_parties",
+    "topic_heading": "Dealing with Opposing Parties — Rule 7.2",
+    "subtopic_id": "threatening_criminal",
+    "subtopic_heading": "Threatening Criminal Proceedings to Gain Civil Advantage — Rule 7.2-7",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Zelda is acting for a client who alleges that a business associate defrauded her of $50,000 in a commercial dispute. Zelda sends a letter to the business associate — who is not represented by counsel — stating: 'Unless you pay my client $50,000 within 10 days, my client will instruct me to report you to the police for fraud and we will pursue the maximum criminal penalties available.' The civil claim has not yet been filed.",
+    "call_of_question": "Does Zelda's letter violate Rule 7.2-7 of the Rules of Professional Conduct?",
+    "options": {
+      "A": "No — a lawyer is entitled to inform an opposing party of the legal options available to the client, including criminal reporting, as part of legitimate settlement demands.",
+      "B": "Yes — Rule 7.2-7 prohibits a lawyer from threatening to initiate criminal proceedings against a person primarily as a means to obtain a civil advantage; using the threat of a criminal complaint to coerce payment of a civil debt crosses the line from legitimate settlement demand to improper threat.",
+      "C": "No — because the business associate is not represented by counsel, Zelda is entitled to be more direct in explaining the consequences of non-payment.",
+      "D": "No — Rule 7.2-7 only applies after a civil action has been filed; pre-litigation threats are not covered by the rule."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 7.2-7 of the LSO Rules of Professional Conduct prohibits a lawyer from threatening to initiate criminal or regulatory proceedings against a person primarily as a device to extract a civil concession or payment. The letter Zelda sent explicitly conditions the withholding of a criminal complaint on payment of the civil debt, which is precisely the conduct the rule prohibits. This is distinct from legitimately advising a client on whether to report criminal conduct to the police — the prohibited conduct is using the threat as a settlement lever. The rule applies regardless of the merits of any potential criminal complaint and regardless of whether a civil action has been filed.",
+    "why_A_wrong": "Incorrect. While a lawyer may advise a client on available legal options, there is a critical distinction between providing general legal advice and sending a demand letter that expressly conditions withholding a criminal complaint on civil payment. The latter is prohibited by Rule 7.2-7.",
+    "why_B_wrong": "This IS the correct answer. Yes — Rule 7.2-7 prohibits a lawyer from threatening to initiate criminal proceedings against a person primarily as a means to obtain a civil advantage; using the threat of a criminal complaint to coerce payment of a civil debt crosses the line from legitimate settlement demand to improper threat.",
+    "why_C_wrong": "Incorrect. The unrepresented status of the business associate heightens the obligation to treat the person fairly, not diminishes it. Rule 7.2-7 applies regardless of the opposing party's representation status.",
+    "why_D_wrong": "Incorrect. Rule 7.2-7 applies to threats made at any stage — including pre-litigation — not only after a civil action has been filed.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 8",
+      "heading": "Dealing with Opposing Parties and Unrepresented Persons",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-7 (threatening criminal proceedings to gain civil advantage)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "threatening criminal proceedings to gain civil advantage — Rule 7.2-7"
+    },
+    "exam_trigger_words": ["criminal complaint", "civil advantage", "threat", "pay or we report", "Rule 7.2-7"],
+    "tested_concepts": [
+      "Rule 7.2-7 — no threatening criminal proceedings for civil advantage",
+      "conditioning withdrawal of criminal complaint on civil payment is prohibited",
+      "applies pre-litigation and regardless of representation status"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-08-discrim-001",
+    "chapter_number": 8,
+    "chapter_title": "Dealing with Opposing Parties and Unrepresented Persons",
+    "topic_id": "opposing_parties",
+    "topic_heading": "Discrimination and Harassment — Rule 6.3",
+    "subtopic_id": "anti_discrimination",
+    "subtopic_heading": "Anti-Discrimination Obligation — Rule 6.3-1",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Arnav is representing a defendant in a civil harassment claim. During cross-examination of the plaintiff — a woman of South Asian origin — Arnav's questions repeatedly invoke the plaintiff's cultural background and make references to cultural attitudes toward women in ways that are irrelevant to the issues in the case. The plaintiff's counsel objects that the questions are discriminatory. Arnav argues that he is entitled to test the plaintiff's credibility and that any questions that might be adverse to a witness are permitted in cross-examination.",
+    "call_of_question": "Do Arnav's questions violate the Rules of Professional Conduct?",
+    "options": {
+      "A": "No — vigorous cross-examination is a fundamental right of a litigant, and lawyers may ask any questions they believe may affect credibility, including questions about cultural background.",
+      "B": "Yes — Rule 6.3-1 of the Rules of Professional Conduct prohibits a lawyer from engaging in discriminatory conduct in the course of professional activities; using a witness's race or ethnic origin in an irrelevant and stereotyping manner during cross-examination constitutes discriminatory conduct in the practice of law.",
+      "C": "No — Rule 6.3-1 only applies to conduct in the lawyer's office; it does not apply to conduct during courtroom proceedings.",
+      "D": "No — the judge has the authority to control inappropriate questions in cross-examination, making the professional responsibility rules inapplicable to this situation."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 6.3-1 of the LSO Rules of Professional Conduct requires that a lawyer not discriminate on the basis of race, ancestry, place of origin, colour, ethnic origin, or similar grounds in the course of professional activities. The prohibition extends to conduct in court proceedings — it is not limited to the lawyer's office. Cross-examination that invokes a witness's ethnic or cultural background in a stereotyping or irrelevant manner constitutes discriminatory conduct in the practice of law. The advocate's right to test credibility is real but bounded by the obligation not to engage in discrimination.",
+    "why_A_wrong": "Incorrect. The right of vigorous cross-examination does not extend to discriminatory conduct. Rule 6.3-1 limits how a lawyer may conduct cross-examination, including by prohibiting questions that constitute discrimination on protected grounds.",
+    "why_B_wrong": "This IS the correct answer. Yes — Rule 6.3-1 of the Rules of Professional Conduct prohibits a lawyer from engaging in discriminatory conduct in the course of professional activities; using a witness's race or ethnic origin in an irrelevant and stereotyping manner during cross-examination constitutes discriminatory conduct in the practice of law.",
+    "why_C_wrong": "Incorrect. Rule 6.3-1 applies to all professional activities, including courtroom proceedings. The prohibition on discrimination is not limited to office conduct.",
+    "why_D_wrong": "Incorrect. A judge's authority to control cross-examination is separate from the professional responsibility obligations of the lawyer. The judge's power to intervene does not eliminate the professional misconduct that may arise from discriminatory questioning.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 8",
+      "heading": "Dealing with Opposing Parties and Unrepresented Persons",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 6.3-1 (anti-discrimination in professional activities)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "anti-discrimination — discriminatory cross-examination — Rule 6.3-1"
+    },
+    "exam_trigger_words": ["discrimination", "cross-examination", "ethnic origin", "Rule 6.3-1", "professional activities"],
+    "tested_concepts": [
+      "Rule 6.3-1 — prohibition on discrimination in all professional activities",
+      "applies to courtroom conduct not only office conduct",
+      "vigorous cross-examination bounded by anti-discrimination obligation"
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-08-contact-001",
+    "chapter_number": 8,
+    "chapter_title": "Dealing with Opposing Parties and Unrepresented Persons",
+    "topic_id": "opposing_parties",
+    "topic_heading": "Dealing with Represented and Unrepresented Parties — Rule 7.2",
+    "subtopic_id": "contact_represented_party",
+    "subtopic_heading": "Contact with Opposing Party Represented by Counsel — Exceptions — Rule 7.2-4",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Frances represents an employee in a wrongful dismissal action against her former employer. The employer is represented by in-house legal counsel. Frances sends a letter directly to the employer's CEO — bypassing in-house counsel — to propose a settlement meeting, believing that the CEO has the ultimate authority to settle and that in-house counsel is obstructing resolution. In-house counsel objects to the direct contact.",
+    "call_of_question": "Was Frances's direct letter to the CEO permissible under Rule 7.2-1 given that the employer is represented by in-house counsel?",
+    "options": {
+      "A": "Yes — in-house counsel represents the corporation as an institution, not the individual employees who make up the corporation; the CEO is not a 'represented party' for the purposes of Rule 7.2-1.",
+      "B": "Yes — where the lawyer believes that opposing counsel is obstructing settlement, direct contact with the represented party to propose settlement is a recognized exception to Rule 7.2-1.",
+      "C": "No — Rule 7.2-1 prohibits direct contact with a person who is represented by counsel in the matter without the consent of that counsel; an employer represented by in-house counsel is a 'person represented by a lawyer' — the CEO, as a senior officer of the represented organization, falls within the scope of the rule; Frances's direct letter to the CEO violated Rule 7.2-1.",
+      "D": "Yes — the rule against contacting represented parties only applies to individual persons, not corporations and their officers."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 7.2-1 of the LSO Rules of Professional Conduct prohibits a lawyer from communicating directly with a person known to be represented by another lawyer in the matter, without the other lawyer's knowledge and consent. When the opposing party is a corporation represented by in-house counsel, senior officers of the corporation — including the CEO — are covered by the rule because they speak for the corporation in the matter. Frances's belief that in-house counsel is obstructing settlement does not create an exception; she should have sought to resolve the issue through proper channels, such as a case conference or by raising the matter with the court.",
+    "why_A_wrong": "Incorrect. In-house counsel represents the corporation, and the corporation speaks through its senior officers including the CEO. The CEO is within the scope of the represented party for the purposes of Rule 7.2-1.",
+    "why_B_wrong": "Incorrect. There is no exception to Rule 7.2-1 based on the lawyer's belief that opposing counsel is obstructing settlement. Frances's concerns about obstruction must be addressed through proper channels.",
+    "why_C_wrong": "This IS the correct answer. No — Rule 7.2-1 prohibits direct contact with a person who is represented by counsel in the matter without the consent of that counsel; an employer represented by in-house counsel is a 'person represented by a lawyer' — the CEO, as a senior officer of the represented organization, falls within the scope of the rule; Frances's direct letter to the CEO violated Rule 7.2-1.",
+    "why_D_wrong": "Incorrect. Rule 7.2-1 applies to corporations and their officers when the corporation is the represented party. The rule is not limited to individual natural persons.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 8",
+      "heading": "Dealing with Opposing Parties and Unrepresented Persons",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-1 (no direct contact with represented party — including corporate officers)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "communication with represented party — corporate officer — Rule 7.2-1"
+    },
+    "exam_trigger_words": ["in-house counsel", "corporate officer", "CEO", "direct contact", "Rule 7.2-1"],
+    "tested_concepts": [
+      "Rule 7.2-1 — direct contact prohibition extends to corporate officers of represented entity",
+      "in-house counsel representation covers senior officers of corporation",
+      "no exception for lawyer belief that opposing counsel obstructing"
+    ],
+    "estimated_time_seconds": 120
   }
 ]

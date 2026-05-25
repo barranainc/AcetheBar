@@ -273,5 +273,170 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-13-stay-001",
+    "subject": "civil_litigation",
+    "chapter_number": 13,
+    "chapter_title": "Appeals",
+    "topic_id": "appeals",
+    "topic_heading": "Appeals in Civil Proceedings",
+    "subtopic_id": "stay_pending_appeal",
+    "subtopic_heading": "Stay of Execution Pending Appeal — Test and Procedure",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Nakamura Electronics Inc. loses a commercial judgment for $800,000 at trial and intends to appeal to the Court of Appeal. Nakamura asks its counsel whether it must pay the judgment or whether it can stay execution pending appeal. Counsel must advise on the applicable test for obtaining a stay.",
+    "call_of_question": "What is the test an appellant must satisfy to obtain a stay of execution of a money judgment pending appeal in Ontario?",
+    "options": {
+      "A": "The filing of a notice of appeal automatically stays execution of the judgment pending the appeal; no motion is required.",
+      "B": "To obtain a stay of execution pending appeal, the moving party must satisfy the three-part test from RJR-MacDonald: (1) there is a serious question to be tried (or a non-frivolous appeal); (2) the moving party will suffer irreparable harm if the stay is not granted; and (3) the balance of convenience favours granting the stay.",
+      "C": "A stay of execution pending appeal is available only for injunctions and equitable orders, not for money judgments.",
+      "D": "To obtain a stay, the appellant need only demonstrate that the appeal is not frivolous; no other factors are considered."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.63.02 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194) and the established test drawn from RJR-MacDonald Inc v Canada (AG), [1994] 1 SCR 311, a party seeking a stay of execution of a judgment pending appeal must satisfy three criteria: (1) a serious question to be tried — whether the appeal raises a non-frivolous or arguable issue; (2) irreparable harm — the moving party will suffer irreparable harm if the stay is not granted and must pay the judgment before the appeal is resolved; and (3) balance of convenience — which party will suffer greater harm from granting or refusing the stay. The filing of a notice of appeal alone does not automatically stay a money judgment; a motion for a stay is required. Courts weigh all three factors and have discretion to impose conditions, such as requiring security.",
+    "why_A_wrong": "Filing a notice of appeal does not automatically stay execution of a money judgment in Ontario. A motion for a stay of execution is required, and the appellant must satisfy the three-part test.",
+    "why_B_wrong": "This IS the correct answer. A stay of execution pending appeal requires satisfying the three-part RJR-MacDonald test: serious question, irreparable harm, and balance of convenience.",
+    "why_C_wrong": "Stays of execution are available for money judgments as well as equitable orders. The RJR-MacDonald test applies broadly to stay motions pending appeal in civil proceedings.",
+    "why_D_wrong": "A non-frivolous appeal alone is insufficient to obtain a stay. The moving party must also demonstrate irreparable harm and that the balance of convenience favours a stay. All three parts of the test must be addressed.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Appeals",
+      "heading": "Stay of Execution Pending Appeal — Test and Procedure",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.63.02; RJR-MacDonald Inc v Canada (AG), [1994] 1 SCR 311"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "stay pending appeal",
+      "r.63.02",
+      "RJR-MacDonald",
+      "irreparable harm",
+      "balance of convenience"
+    ],
+    "tested_concepts": [
+      "stay of execution pending appeal — r.63.02",
+      "three-part RJR-MacDonald test",
+      "notice of appeal does not automatically stay judgment"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-13-div-ct-001",
+    "subject": "civil_litigation",
+    "chapter_number": 13,
+    "chapter_title": "Appeals",
+    "topic_id": "appeals",
+    "topic_heading": "Appeals in Civil Proceedings",
+    "subtopic_id": "divisional_court",
+    "subtopic_heading": "Divisional Court Appeal — Final Orders Under $50,000 and Statutory Appeals",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A claimant obtains a final judgment against a contractor for $38,000 in the Superior Court of Justice. The contractor wishes to appeal the judgment. Counsel must identify the correct court to which the appeal lies.",
+    "call_of_question": "Under s.19 of the Courts of Justice Act, which court hears appeals from final orders of the Superior Court of Justice where the amount in dispute does not exceed $50,000?",
+    "options": {
+      "A": "The Court of Appeal for Ontario, as it has jurisdiction over all appeals from the Superior Court of Justice.",
+      "B": "The Divisional Court, which under s.19(1)(a) of the Courts of Justice Act hears appeals from final orders of the Superior Court where the amount in dispute does not exceed $50,000.",
+      "C": "The Small Claims Court, as a final judgment of $38,000 falls within its monetary jurisdiction.",
+      "D": "The Ontario Court of Justice (formerly Provincial Court), which hears all monetary claims under $50,000."
+    },
+    "correct_answer": "B",
+    "explanation": "Under s.19(1)(a) of the Courts of Justice Act, R.S.O. 1990, c. C.43, an appeal lies to the Divisional Court from a final order of the Superior Court of Justice made without a jury in a proceeding where the amount in dispute does not exceed $50,000. With a final judgment of $38,000, the amount in dispute falls below the $50,000 threshold and the appeal lies to the Divisional Court, not the Court of Appeal. The Court of Appeal's jurisdiction under s.6 is reserved for final orders where the amount in dispute exceeds $50,000.",
+    "why_A_wrong": "The Court of Appeal does not have jurisdiction over all appeals from the Superior Court. Under ss.6 and 19 of the Courts of Justice Act, the appellate forum is determined by the amount in dispute: under $50,000 goes to the Divisional Court; over $50,000 goes to the Court of Appeal.",
+    "why_B_wrong": "This IS the correct answer. Section 19(1)(a) of the Courts of Justice Act gives the Divisional Court jurisdiction over appeals from final Superior Court orders where the amount does not exceed $50,000.",
+    "why_C_wrong": "The Small Claims Court is a trial court, not an appellate court. Appeals from Small Claims Court judgments go to the Divisional Court. The Small Claims Court does not hear appeals from the Superior Court.",
+    "why_D_wrong": "The Ontario Court of Justice does not hear appeals from the Superior Court of Justice. It is a separate trial-level court with its own jurisdiction. Appeals from Superior Court final orders go either to the Divisional Court or the Court of Appeal depending on the amount.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Appeals",
+      "heading": "Divisional Court Appeal — Final Orders Under $50,000 and Statutory Appeals",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Courts of Justice Act, R.S.O. 1990, c. C.43, s.19(1)(a)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Divisional Court",
+      "s.19",
+      "$50,000",
+      "final order",
+      "appeal jurisdiction"
+    ],
+    "tested_concepts": [
+      "s.19(1)(a) CJA — Divisional Court for final orders under $50,000",
+      "contrast with Court of Appeal jurisdiction under s.6",
+      "correct appellate forum based on amount in dispute"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-13-notice-app-001",
+    "subject": "civil_litigation",
+    "chapter_number": 13,
+    "chapter_title": "Appeals",
+    "topic_id": "appeals",
+    "topic_heading": "Appeals in Civil Proceedings",
+    "subtopic_id": "notice_of_appeal",
+    "subtopic_heading": "Notice of Appeal — Time to Appeal and Extending Time",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A final judgment was released by the trial judge on March 1. The losing party's counsel did not file a notice of appeal within the prescribed time period. On June 10, more than three months later, counsel brings a motion to extend the time to appeal. Counsel argues that the delay was due to an administrative error in the office and that the appeal has merit.",
+    "call_of_question": "Under r.61.04 of the Rules of Civil Procedure, what is the time to deliver a notice of appeal from a final order, and what factors does a court consider when deciding whether to extend the time to appeal?",
+    "options": {
+      "A": "The time to appeal is 60 days from the date of the order; an extension will be granted automatically upon a showing of administrative error.",
+      "B": "The time to appeal is 30 days from the date of the order; the court has no power to extend the time to appeal once it has passed.",
+      "C": "The time to appeal is 30 days from the date of the order under r.61.04(1); the court may extend time under r.3.02 considering factors including the length of the delay, the reason for the delay, the prejudice to the respondent, and whether the appeal has merit.",
+      "D": "The time to appeal is 15 days from the date of the order; after 15 days the right to appeal is permanently forfeited and cannot be reinstated."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.61.04(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a notice of appeal to the Court of Appeal shall be served and filed within 30 days of the date of the order appealed from. Where a party has not filed within 30 days, the court may extend the time to appeal under r.3.02. Courts consider several factors in deciding whether to extend time: (1) the length of the delay; (2) the reason for the delay (whether it was inadvertent or deliberate); (3) whether the intended appellant has shown that the appeal has merit (i.e., a prima facie ground for the appeal); (4) prejudice to the respondent from granting the extension; and (5) whether refusing the extension would cause a substantial injustice. An extension is not automatic even for an administrative error — the court considers all factors in the interests of justice.",
+    "why_A_wrong": "The time to appeal is 30 days, not 60 days. An extension is also not automatic upon showing an administrative error; the court weighs all relevant factors.",
+    "why_B_wrong": "The court does have power to extend the time to appeal under r.3.02. The expiry of the appeal period does not permanently extinguish the right to appeal; it requires a court order extending time.",
+    "why_C_wrong": "This IS the correct answer. The time to appeal is 30 days under r.61.04(1); extensions are available under r.3.02 upon consideration of delay length, reason, prejudice, and merit.",
+    "why_D_wrong": "The time to appeal is 30 days, not 15 days. The right to appeal is not permanently and irrevocably forfeited after 15 days; an extension of time may be sought under r.3.02.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Appeals",
+      "heading": "Notice of Appeal — Time to Appeal and Extending Time",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.61.04(1); r.3.02"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "notice of appeal",
+      "30 days",
+      "r.61.04",
+      "extend time",
+      "r.3.02"
+    ],
+    "tested_concepts": [
+      "30-day time to appeal — r.61.04(1)",
+      "extension of time — r.3.02",
+      "factors for extension: delay, reason, merit, prejudice"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

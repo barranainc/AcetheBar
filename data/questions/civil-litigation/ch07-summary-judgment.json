@@ -569,10 +569,10 @@
       "D": "No — granting summary judgment on one claim while the other claims proceed to trial would be procedurally unfair to the defendant."
     },
     "correct_answer": "B",
-    "explanation": "Under the Rules of Civil Procedure, r. 20.04(3), the court may grant summary judgment in respect of some claims or some issues while directing a trial on the remaining claims or issues. This partial summary judgment power enables courts to resolve discrete issues that are clearly established without requiring the entire action to proceed to trial. Courts retain a discretion to decline partial summary judgment where granting it would fragment the proceedings and increase overall cost or delay, but where a claim is cleanly separable, partial summary judgment is expressly authorised.",
-    "why_A_wrong": "Rule 20.04(3) expressly provides the court with power to grant partial summary judgment. Summary judgment does not need to dispose of the entire action to be validly granted.",
+    "explanation": "Under the Rules of Civil Procedure, r. 20.04(3), the court may grant summary judgment in respect of some claims or some issues while directing a trial for the remaining issues. This allows courts to resolve discrete issues efficiently while preserving the right to a trial on genuinely contested questions. Courts retain a discretion to decline partial summary judgment where granting it would fragment the proceedings and increase overall cost or delay, but where a claim is cleanly separable, partial summary judgment is expressly authorised.",
+    "why_A_wrong": "Rule 20.04(3) expressly provides the court with power to grant partial summary judgment. Summary judgment need not dispose of the entire action.",
     "why_B_wrong": "This IS the correct answer. Rule 20.04(3) authorises partial summary judgment on some claims while directing a trial on the remaining issues.",
-    "why_C_wrong": "The consent of the responding party is not required for partial summary judgment under r. 20.04(3). The power is discretionary and vested in the court.",
+    "why_C_wrong": "The consent of the responding party is not required for partial summary judgment under r. 20.04(3). The court may grant partial judgment on its own assessment of the record.",
     "why_D_wrong": "Partial summary judgment on a cleanly established claim is not procedurally unfair. Rule 20.04(3) is designed to promote efficiency by resolving discrete issues without full trial, while preserving the trial for genuinely contested matters.",
     "source_reference": {
       "lso_material": "2026 LSO Barrister Examination Materials",
@@ -714,5 +714,170 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-07-costs-sj-001",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_costs",
+    "topic_heading": "Costs on Summary Judgment",
+    "subtopic_id": "costs_on_summary_judgment",
+    "subtopic_heading": "Costs on Summary Judgment — Successful and Unsuccessful Motions",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Nakamura Holdings Ltd. moves for summary judgment to dismiss the plaintiff's breach of contract claim. The motion judge grants summary judgment in favour of Nakamura, finding there is no genuine issue requiring a trial. The plaintiff seeks guidance on what cost order to expect following the dismissal of their claim.",
+    "call_of_question": "What cost consequences generally flow from a successful summary judgment motion, and what scale of costs typically applies?",
+    "options": {
+      "A": "No costs are awarded on a successful summary judgment motion; costs are deferred until the conclusion of the action.",
+      "B": "The successful moving party is presumptively entitled to its costs of the motion on a partial indemnity scale, reflecting the general principle that costs follow the event; the court may also consider whether the motion was brought or defended unreasonably in fixing the amount.",
+      "C": "The successful moving party is automatically entitled to solicitor-client costs because bringing a summary judgment motion is inherently contentious.",
+      "D": "Costs of a summary judgment motion are always awarded in the cause and therefore cannot be fixed until after trial."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.57.01 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), costs follow the event as the general principle — the successful party on a motion is presumptively entitled to its costs. On a summary judgment motion, the successful moving party is ordinarily awarded its costs on a partial indemnity scale, representing the standard default scale for costs in Ontario civil proceedings. The court retains discretion to depart from this scale if the circumstances warrant — for example, where the unsuccessful party's position was clearly unreasonable, the court may award substantial indemnity costs. The court must be given a costs outline and will assess the appropriate amount.",
+    "why_A_wrong": "Costs are not deferred after a summary judgment motion. The successful party is entitled to costs of the motion which are typically fixed at the conclusion of the motion itself.",
+    "why_B_wrong": "This IS the correct answer. The successful moving party is presumptively entitled to partial indemnity costs under the costs-follow-the-event principle in r.57.01.",
+    "why_C_wrong": "Solicitor-client costs are not automatically awarded simply because a summary judgment motion was brought. They are reserved for reprehensible, scandalous, or outrageous conduct, not for the mere act of bringing a contested motion.",
+    "why_D_wrong": "Costs of a summary judgment motion are not automatically in the cause. 'Costs in the cause' is one possible disposition but not the default. The default is costs to the successful party on the motion.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 7 — Summary Judgment",
+      "heading": "Costs on Summary Judgment — Successful and Unsuccessful Motions",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01; r. 20.04"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "costs summary judgment",
+      "partial indemnity",
+      "costs follow event",
+      "r.57.01",
+      "successful moving party"
+    ],
+    "tested_concepts": [
+      "costs follow event on summary judgment motion",
+      "partial indemnity as default scale",
+      "court discretion to depart from partial indemnity"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-07-costs-sj-002",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_costs",
+    "topic_heading": "Costs on Summary Judgment",
+    "subtopic_id": "costs_on_summary_judgment",
+    "subtopic_heading": "Costs on Summary Judgment — Costs Consequences of Unsuccessful Motion",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Osei-Appiah Construction Ltd. brings an ambitious summary judgment motion seeking dismissal of a $900,000 breach of contract claim. The motion record is comprehensive but the motion fails because the motion judge finds there are genuine issues of credibility requiring a trial. The plaintiff seeks substantial indemnity costs of the motion on the basis that the summary judgment motion was a tactical delay and was brought without a reasonable basis.",
+    "call_of_question": "Under the Rules of Civil Procedure, when may a court award substantial indemnity costs against a party that brings an unsuccessful summary judgment motion?",
+    "options": {
+      "A": "Substantial indemnity costs are automatically awarded against the losing party on any unsuccessful summary judgment motion.",
+      "B": "Substantial indemnity costs may be awarded where the court finds the unsuccessful party's conduct in bringing the motion was reprehensible, vexatious, or devoid of any reasonable legal basis — not merely because the motion failed.",
+      "C": "Substantial indemnity costs can only be awarded against a moving party if the opposing party proves the motion was brought in bad faith by sworn evidence.",
+      "D": "The court may not award any costs on a failed summary judgment motion; the parties bear their own costs in that situation."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.57.01 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), costs follow the event on a failed summary judgment motion — the successful respondent is presumptively entitled to costs on a partial indemnity scale. Substantial indemnity costs are reserved for circumstances where a party's conduct has been reprehensible, scandalous, or outrageous. The mere fact that a summary judgment motion fails does not automatically warrant substantial indemnity costs. However, where the court finds the motion was brought for tactical purposes, without legal merit, or in a manner designed to harass or delay rather than to advance genuine summary disposition, a higher scale may be appropriate. An allegation alone that the motion was tactical is insufficient; the conduct must cross the threshold of reprehensibility.",
+    "why_A_wrong": "Substantial indemnity costs are not automatic on a failed motion. The default for an unsuccessful motion is partial indemnity costs to the successful respondent under the costs-follow-the-event principle.",
+    "why_B_wrong": "This IS the correct answer. Substantial indemnity costs require a finding of reprehensible or clearly abusive conduct — not merely an unsuccessful motion.",
+    "why_C_wrong": "Proof of bad faith by sworn evidence is not a prerequisite. The court assesses the conduct objectively and may make a costs finding based on the motion record itself, without requiring a separate affidavit proving bad faith.",
+    "why_D_wrong": "The court does not deprive the successful respondent of costs simply because the motion failed. Costs to the successful respondent are the normal consequence of an unsuccessful motion under r.57.01.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 7 — Summary Judgment",
+      "heading": "Costs on Summary Judgment — Costs Consequences of Unsuccessful Motion",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "improper tactical motion — costs sanctions for vexatious proceedings"
+    },
+    "exam_trigger_words": [
+      "substantial indemnity",
+      "failed summary judgment",
+      "reprehensible",
+      "tactical",
+      "r.57.01 costs"
+    ],
+    "tested_concepts": [
+      "substantial indemnity requires reprehensible conduct — not mere failure",
+      "default costs on failed motion are partial indemnity",
+      "court assesses conduct objectively"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-07-costs-sj-003",
+    "subject": "civil_litigation",
+    "chapter_number": 7,
+    "chapter_title": "Summary Judgment",
+    "topic_id": "summary_judgment_costs",
+    "topic_heading": "Costs on Summary Judgment",
+    "subtopic_id": "costs_on_summary_judgment",
+    "subtopic_heading": "Costs on Summary Judgment — Costs Where Motion Granted in Part Only",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Tremblay Media Inc. moves for summary judgment on a claim involving four discrete issues. The motion judge grants summary judgment on two of the four issues in favour of Tremblay and dismisses the motion on the remaining two issues, finding there are genuine issues requiring a trial on those. Neither party is entirely successful. Both parties seek full costs of the motion.",
+    "call_of_question": "How will a court likely approach costs when a summary judgment motion succeeds on some issues but fails on others?",
+    "options": {
+      "A": "The court will award full costs of the motion to Tremblay because it obtained judgment on at least some issues and is therefore the 'successful party.'",
+      "B": "The court will award full costs of the motion to the defendant because Tremblay failed to obtain judgment on all issues and therefore did not fully succeed.",
+      "C": "The court exercises broad discretion under r.57.01 and may apportion costs, order each party to bear its own costs, or award costs on specific issues — reflecting the mixed outcome and the relative success of each party.",
+      "D": "On a partially successful summary judgment motion, costs are always in the cause and cannot be fixed until after the trial of the remaining issues."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.57.01 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the court has broad discretion in fixing costs and may consider the result achieved, the relative success of each party, and all the circumstances. Where a summary judgment motion is partially successful, the court is not bound to follow a simple costs-follow-the-event rule. The court may: award costs on specific issues to the party who succeeded on those issues; apportion costs globally reflecting overall success; order no costs (each party bears its own); or award costs in the cause on the issues that must proceed to trial while awarding motion costs on the issues resolved. This approach reflects the nuanced discretion codified in r.57.01 and prevents either party from obtaining a windfall on a mixed-result motion.",
+    "why_A_wrong": "Tremblay's partial success does not automatically entitle it to full costs of the motion. The court considers all the circumstances and may apportion or otherwise adjust the costs award to reflect the mixed outcome.",
+    "why_B_wrong": "The defendant's partial success also does not automatically entitle it to full costs. The court has discretion and will consider each party's relative success.",
+    "why_C_wrong": "This IS the correct answer. The court exercises broad discretion under r.57.01 and may apportion costs, issue-based costs, or order no costs to reflect the mixed result.",
+    "why_D_wrong": "Costs are not automatically in the cause on a partially successful summary judgment motion. The court exercises discretion and may fix costs of the motion even when some issues proceed to trial.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 7 — Summary Judgment",
+      "heading": "Costs on Summary Judgment — Costs Where Motion Granted in Part Only",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01; r. 20.04(3)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "partial success",
+      "apportion costs",
+      "r.57.01",
+      "issue-based costs",
+      "mixed outcome"
+    ],
+    "tested_concepts": [
+      "r.57.01 broad discretion on costs",
+      "apportionment on mixed-result motion",
+      "costs do not automatically follow event on partial success"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]

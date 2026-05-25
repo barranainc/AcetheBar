@@ -1,0 +1,177 @@
+[
+  {
+    "id": "crim-12-misc-001",
+    "subject": "criminal_law",
+    "chapter_number": 12,
+    "chapter_title": "Miscarriage of Justice and Extraordinary Remedies",
+    "topic_id": "miscarriage_of_justice",
+    "topic_heading": "Miscarriage of Justice and Extraordinary Remedies",
+    "subtopic_id": "ministerial_review",
+    "subtopic_heading": "Ministerial Review — s. 696.1 Criminal Code",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Roland was convicted of second degree murder in 1998 and has exhausted all conventional appeals, including an unsuccessful application for leave to the Supreme Court of Canada. New DNA evidence has emerged that Roland's supporters argue conclusively exonerates him. Roland's counsel wishes to pursue any available remedy.",
+    "call_of_question": "Under s. 696.1 of the Criminal Code, what process is available to Roland, and what must be established to obtain a remedy?",
+    "options": {
+      "A": "Roland may apply directly to the Supreme Court of Canada for a re-hearing of his appeal on the basis of the new evidence.",
+      "B": "Roland may apply to the Minister of Justice under s. 696.1 for a review of his conviction; the Minister may direct a new trial or refer the matter to the Court of Appeal if satisfied there is a reasonable basis to conclude a miscarriage of justice likely occurred.",
+      "C": "Roland may apply to the Ontario Court of Appeal for a fresh evidence hearing under s. 683 of the Criminal Code without any preconditions.",
+      "D": "Roland's only remedy is a pardon or record suspension through the Parole Board of Canada."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 696.1 of the Criminal Code establishes the ministerial review mechanism — sometimes called the 'conviction review' process — for persons who have been convicted of an offence and who have exhausted all available appeals. The applicant must satisfy the Minister of Justice that there are reasonable grounds to conclude that a miscarriage of justice likely occurred. If satisfied, under s. 696.3, the Minister may: (a) direct a new trial before any court the Minister thinks proper; or (b) refer the matter to the Court of Appeal for hearing and determination as if it were an appeal by the convicted person (or on a specific question as if it were a question of law). The ministerial review process is an extraordinary remedy of last resort designed to address wrongful convictions — it is available only after conventional appeals are exhausted. The DNA evidence in Roland's case would be the basis for the application, and the Minister would assess whether it provides reasonable grounds to conclude a miscarriage of justice likely occurred.",
+    "why_A_wrong": "The Supreme Court of Canada does not accept applications for re-hearing based on new evidence after leave has been denied. The SCC has no mechanism to revisit concluded appeals. The extraordinary remedy for wrongful convictions is the ministerial review under s.696.1, not a further appeal.",
+    "why_B_wrong": "This IS the correct answer. Section 696.1 provides the ministerial review mechanism. After exhausting all appeals, Roland may apply to the Minister of Justice, who may direct a new trial or refer to the Court of Appeal if satisfied there are reasonable grounds to conclude a miscarriage of justice likely occurred.",
+    "why_C_wrong": "A fresh evidence application to the Court of Appeal under s.683 is not available independently once all appeals have been exhausted. The s.683 powers are ancillary to a pending appeal — they do not create a stand-alone avenue to re-open a conviction after all appeals are concluded. The ministerial review under s.696.1 is the pathway.",
+    "why_D_wrong": "A pardon or record suspension through the Parole Board of Canada does not address the underlying conviction — it merely suspends the criminal record from the national repository. A pardon does not constitute an exoneration or legally overturn the conviction. Roland's goal of exoneration requires the ministerial review process, not a pardon.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 12: Miscarriage of Justice and Extraordinary Remedies",
+      "heading": "Ministerial Review — s. 696.1",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 696.1, s. 696.3"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "ministerial review",
+      "s. 696.1",
+      "miscarriage of justice",
+      "exhausted all appeals",
+      "wrongful conviction",
+      "Minister of Justice",
+      "conviction review"
+    ],
+    "tested_concepts": [
+      "s.696.1 ministerial review — last resort remedy",
+      "reasonable grounds to conclude miscarriage of justice likely occurred",
+      "Minister may direct new trial or refer to Court of Appeal",
+      "available only after all appeals exhausted"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-12-misc-002",
+    "subject": "criminal_law",
+    "chapter_number": 12,
+    "chapter_title": "Miscarriage of Justice and Extraordinary Remedies",
+    "topic_id": "miscarriage_of_justice",
+    "topic_heading": "Miscarriage of Justice and Extraordinary Remedies",
+    "subtopic_id": "miscarriage_standard",
+    "subtopic_heading": "Miscarriage of Justice — Standard on Conviction Appeal — s. 686(1)(a)(iii)",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused was convicted of manslaughter. On appeal, the Court of Appeal finds that defence counsel at trial failed to call a critical alibi witness whose evidence was known to counsel before trial. The defence of the case at trial was inadequate. The accused argues his conviction resulted in a miscarriage of justice.",
+    "call_of_question": "Under s. 686(1)(a)(iii) of the Criminal Code, what must the accused demonstrate to establish that the conviction resulted in a miscarriage of justice?",
+    "options": {
+      "A": "The accused must prove that defence counsel was incompetent and that this incompetence caused the conviction.",
+      "B": "The accused must show that a miscarriage of justice occurred — including that the trial was unfair or the verdict is unreliable as a result of counsel's failure — such that the verdict cannot be allowed to stand.",
+      "C": "The accused need only show that the outcome might have been different if the alibi witness had testified.",
+      "D": "The accused must demonstrate that the trial judge was aware of the ineffective assistance and failed to intervene."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 686(1)(a)(iii) allows the Court of Appeal to allow an appeal where the verdict resulted in a miscarriage of justice. For claims of ineffective assistance of counsel, the test is derived from R v GDB, 2000 SCC 22: the accused must establish (1) that counsel's acts or omissions constituted incompetence (falling below the standard of a reasonably competent criminal lawyer), and (2) that the incompetence resulted in a miscarriage of justice — meaning the trial was not fair or the verdict is unreliable. The miscarriage of justice component requires more than showing the outcome 'might have been' different — it requires a reasonable probability that the verdict would have been different but for the incompetence, or that the trial was rendered fundamentally unfair. Merely proving incompetence without the resulting prejudice is insufficient.",
+    "why_A_wrong": "Proving incompetence alone is not sufficient under the GDB test. The accused must also establish the prejudice component — that the incompetence resulted in a miscarriage of justice (unreliable verdict or unfair trial). The two-part test requires both incompetence and resulting prejudice.",
+    "why_B_wrong": "This IS the correct answer. Under s.686(1)(a)(iii) and the GDB test, the accused must show: (1) counsel's acts were incompetent, and (2) the incompetence resulted in a miscarriage of justice (unfair trial or unreliable verdict). Both components are required.",
+    "why_C_wrong": "The 'might have been different' standard is too low. The test requires a reasonable probability that the result would have been different — not merely a possibility. If the outcome might conceivably have been different, that does not establish the miscarriage of justice required. The threshold is more demanding than mere possibility.",
+    "why_D_wrong": "There is no requirement that the trial judge was aware of and failed to address the ineffective assistance. The trial judge is not responsible for monitoring the quality of defence counsel's advocacy. The analysis on appeal focuses on counsel's conduct and its impact on the verdict, not on whether the judge intervened.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 12: Miscarriage of Justice and Extraordinary Remedies",
+      "heading": "Miscarriage of Justice — Ineffective Assistance of Counsel — s. 686(1)(a)(iii)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 686(1)(a)(iii); R v GDB, 2000 SCC 22"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "ineffective assistance of counsel — failure to call material witness known before trial"
+    },
+    "exam_trigger_words": [
+      "miscarriage of justice",
+      "s. 686(1)(a)(iii)",
+      "ineffective assistance of counsel",
+      "GDB test",
+      "alibi witness not called",
+      "unreliable verdict"
+    ],
+    "tested_concepts": [
+      "s.686(1)(a)(iii) miscarriage of justice ground",
+      "GDB two-part test: incompetence + prejudice",
+      "unreliable verdict vs unfair trial",
+      "reasonable probability standard for prejudice",
+      "ineffective assistance of counsel on appeal"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-12-misc-003",
+    "subject": "criminal_law",
+    "chapter_number": 12,
+    "chapter_title": "Miscarriage of Justice and Extraordinary Remedies",
+    "topic_id": "miscarriage_of_justice",
+    "topic_heading": "Miscarriage of Justice and Extraordinary Remedies",
+    "subtopic_id": "stay_proceedings",
+    "subtopic_heading": "Stay of Proceedings as Extraordinary Remedy — Charter s. 24(1)",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is charged with drug trafficking. During the investigation, police engaged in outrageous misconduct: they planted evidence, fabricated documents, and suborned perjury from informants. The accused moves under s. 24(1) of the Charter for a stay of proceedings, arguing that proceeding to trial would bring the administration of justice into disrepute.",
+    "call_of_question": "Under the framework established in R v O'Connor (1995) and affirmed in subsequent jurisprudence, what is the legal test for granting a stay of proceedings as a remedy under s. 24(1) of the Charter?",
+    "options": {
+      "A": "A stay is available whenever the accused's Charter rights have been violated, regardless of the severity of the breach.",
+      "B": "A stay is available only for breaches of ss. 7, 11(d), or 11(h) of the Charter — not for all Charter rights.",
+      "C": "A stay is an exceptional remedy granted only where: (1) the prejudice to the accused's right to a fair trial or to the integrity of the justice system will be manifested, perpetuated, or aggravated through the conduct of the trial or its outcome; and (2) no other remedy is reasonably capable of removing that prejudice.",
+      "D": "A stay is an available remedy wherever a court finds that police misconduct occurred, as a general deterrent."
+    },
+    "correct_answer": "C",
+    "explanation": "In R v O'Connor, [1995] 4 SCR 411, the Supreme Court established the two-part test for granting a stay of proceedings under s. 24(1) of the Charter as an abuse of process or Charter remedy. The test is: (1) the prejudice to the accused's right to a fair trial or to the integrity of the justice system will be manifested, perpetuated, or aggravated through the conduct of the trial or by its outcome; and (2) no other remedy is reasonably capable of removing that prejudice. The stay is described as a remedy of last resort — granted only in the 'clearest of cases' where irreparable harm to the fairness of the trial or to the integrity of the justice system cannot otherwise be addressed. On these facts (planted evidence, fabricated documents, suborned perjury), the case is a strong candidate for a stay as the only remedy that would address the systemic abuse — proceeding to trial would perpetuate the prejudice to the justice system's integrity.",
+    "why_A_wrong": "A stay is not available for every Charter violation. It is an exceptional, last-resort remedy. For routine Charter breaches, s.24(2) exclusion of evidence or other remedies are more appropriate. The O'Connor test confines stays to the clearest of cases — the remedy is not triggered by every Charter violation.",
+    "why_B_wrong": "The availability of a stay is not restricted to specific Charter sections. A stay may be granted for serious breaches of any Charter right (or for abuse of process at common law), provided the O'Connor two-part test is satisfied. There is no closed list of Charter sections that ground a stay.",
+    "why_C_wrong": "This IS the correct answer. The O'Connor two-part test requires: (1) prejudice to trial fairness or system integrity manifested/perpetuated/aggravated by continuing; and (2) no other remedy capable of removing the prejudice. This is the established framework for stays under s.24(1).",
+    "why_D_wrong": "General deterrence of police misconduct is not a sufficient basis for a stay. The s.24(1) remedy must be proportionate to the actual prejudice — a stay based solely on deterrence without satisfying the O'Connor test would be an error of law. Deterrence may inform the analysis but cannot substitute for the two-part test.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 12: Miscarriage of Justice and Extraordinary Remedies",
+      "heading": "Stay of Proceedings — Charter s. 24(1) — O'Connor Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 24(1); R v O'Connor, [1995] 4 SCR 411"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "stay of proceedings",
+      "s. 24(1) Charter",
+      "O'Connor test",
+      "clearest of cases",
+      "remedy of last resort",
+      "abuse of process",
+      "manifested perpetuated aggravated"
+    ],
+    "tested_concepts": [
+      "O'Connor two-part test for stay of proceedings",
+      "stay as last-resort remedy",
+      "prejudice to fair trial or justice system integrity",
+      "no other remedy capable of removing prejudice",
+      "clearest of cases standard"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  }
+]

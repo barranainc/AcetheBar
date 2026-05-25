@@ -539,5 +539,201 @@
       "compliance with valid court order"
     ],
     "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-03-priv-conf-001",
+    "chapter_number": 3,
+    "chapter_title": "Confidentiality",
+    "topic_id": "confidentiality",
+    "topic_heading": "Duty of Confidentiality — Rule 3.3",
+    "subtopic_id": "privilege_vs_confidentiality",
+    "subtopic_heading": "Confidentiality vs. Solicitor-Client Privilege — Key Distinctions",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Renata represented a client in a business dispute four years ago. The client shared with Renata that she was paying a supplier in cash off-book to avoid HST. This information was not shared for the purpose of obtaining legal advice — the client mentioned it casually as business background. Opposing counsel in a new proceeding now seeks disclosure of everything Renata knows about the client's business practices, and subpoenas Renata to testify. Renata claims solicitor-client privilege over all information she received from the client.",
+    "call_of_question": "Is Renata correct that all information received from a client in the course of a retainer is protected by solicitor-client privilege?",
+    "options": {
+      "A": "Yes — all information communicated between a lawyer and client in the course of a professional relationship is automatically protected by solicitor-client privilege.",
+      "B": "No — solicitor-client privilege protects only confidential communications made for the dominant purpose of seeking or giving legal advice; information shared as casual business background, not for the purpose of legal advice, may be covered by the duty of confidentiality under Rule 3.3-1 but is not necessarily solicitor-client privileged.",
+      "C": "No — solicitor-client privilege has been abolished in Ontario and all former client communications are now subject to disclosure on subpoena.",
+      "D": "Yes — anything a client tells a lawyer becomes privileged once the retainer is established, regardless of the purpose for which the communication was made."
+    },
+    "correct_answer": "B",
+    "explanation": "Solicitor-client privilege is a specific legal protection that applies to confidential communications between a lawyer and client made for the dominant purpose of seeking or giving legal advice. Not all communications within a professional relationship meet this threshold — information shared as background or for non-legal purposes is covered by the broader duty of confidentiality under Rule 3.3-1, but is not necessarily privileged. Rule 3.3-1 covers all information acquired in the professional relationship; privilege is a narrower and stronger protection, but its scope is defined by the purpose of the communication, not merely by the existence of the retainer.",
+    "why_A_wrong": "Incorrect. Not all lawyer-client communications are automatically privileged. Solicitor-client privilege requires that the communication be confidential and made for the dominant purpose of seeking or giving legal advice.",
+    "why_B_wrong": "This IS the correct answer. No — solicitor-client privilege protects only confidential communications made for the dominant purpose of seeking or giving legal advice; information shared as casual business background, not for the purpose of legal advice, may be covered by the duty of confidentiality under Rule 3.3-1 but is not necessarily solicitor-client privileged.",
+    "why_C_wrong": "Incorrect. Solicitor-client privilege is a fundamental principle of Canadian law recognized by the courts and protected by the Rules of Professional Conduct. It has not been abolished.",
+    "why_D_wrong": "Incorrect. The existence of a retainer does not convert all communications into privileged communications. The purpose of the specific communication is the key test.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 3",
+      "heading": "Confidentiality",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.3-1 (confidentiality vs. solicitor-client privilege)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "confidentiality — distinction from solicitor-client privilege"
+    },
+    "exam_trigger_words": ["solicitor-client privilege", "confidentiality", "dominant purpose", "legal advice", "background information"],
+    "tested_concepts": [
+      "solicitor-client privilege — dominant purpose of legal advice",
+      "Rule 3.3-1 confidentiality is broader than privilege",
+      "purpose of communication determines privilege — not existence of retainer"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-03-jt-ret-conf-001",
+    "chapter_number": 3,
+    "chapter_title": "Confidentiality",
+    "topic_id": "confidentiality",
+    "topic_heading": "Duty of Confidentiality — Rule 3.3",
+    "subtopic_id": "joint_retainer_confidentiality",
+    "subtopic_heading": "Confidentiality after Joint Retainer Ends — Post-Retainer Obligations",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Simone acted for two business partners, Abdi and Celine, in a joint retainer to draft their shareholders' agreement three years ago. During the joint retainer, each disclosed business strategy information to Simone in the course of the joint representation. The joint retainer ended when the agreement was completed. Abdi now retains Simone to advise him on an internal dispute with Celine. Simone wonders whether she can use information Celine shared during the joint retainer to advise Abdi in the new dispute.",
+    "call_of_question": "What obligations does Simone have regarding information Celine shared during the former joint retainer, now that Simone is acting for Abdi alone in a dispute with Celine?",
+    "options": {
+      "A": "Since the joint retainer has ended and there was no confidentiality between joint clients during the retainer, the information is now freely available for Simone to use in advising Abdi.",
+      "B": "Simone may use the information from the joint retainer in advising Abdi, but only if Abdi was present when Celine shared it during the joint retainer meetings.",
+      "C": "Simone cannot act for Abdi in the dispute with Celine because she received confidential information from Celine during the joint retainer; even though information was not confidential between the joint clients during the retainer, it becomes subject to the former-client confidentiality obligation once the joint retainer ends — Celine is now Simone's former client and Simone must not act against her using information acquired in the prior representation.",
+      "D": "Simone may act for Abdi against Celine in the new dispute because the joint retainer is finished and all obligations arising from it have ended."
+    },
+    "correct_answer": "C",
+    "explanation": "During a joint retainer, information received from one joint client is not confidential from the other joint client. However, once the joint retainer ends, each former joint client becomes a former client to whom the lawyer owes the full confidentiality duty of Rule 3.3-1 and the former-client conflict obligation of Rule 3.4-10. Celine is now Simone's former client. Information Celine shared during the joint retainer was not confidential from Abdi at that time, but Simone may not now use it to advance Abdi's position in a dispute against Celine — doing so would breach the confidentiality and former-client conflict duties.",
+    "why_A_wrong": "Incorrect. While information was not confidential between the joint clients during the retainer, it does not follow that Simone may use it against a former joint client after the retainer ends. Celine is Simone's former client, and the duties of confidentiality and former-client conflict now apply.",
+    "why_B_wrong": "Incorrect. Abdi's presence when Celine shared information is not the relevant test. The issue is whether Simone may now use former client information to act against that former client — she cannot.",
+    "why_C_wrong": "This IS the correct answer. Simone cannot act for Abdi in the dispute with Celine because she received confidential information from Celine during the joint retainer; even though information was not confidential between the joint clients during the retainer, it becomes subject to the former-client confidentiality obligation once the joint retainer ends — Celine is now Simone's former client and Simone must not act against her using information acquired in the prior representation.",
+    "why_D_wrong": "Incorrect. The end of the joint retainer does not end all professional obligations. Former-client confidentiality and conflict obligations persist after the retainer ends.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 3",
+      "heading": "Confidentiality",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rules 3.3-1, 3.4-10 (former joint client confidentiality)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "confidentiality — former joint client post-retainer obligations"
+    },
+    "exam_trigger_words": ["joint retainer", "former client", "post-retainer", "confidentiality after retainer ends", "acting against former joint client"],
+    "tested_concepts": [
+      "Rule 3.3-1 — former client confidentiality survives end of joint retainer",
+      "information not confidential between joint clients during retainer",
+      "cannot use former joint client information to act against them"
+    ],
+    "estimated_time_seconds": 180
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-03-withdraw-conf-001",
+    "chapter_number": 3,
+    "chapter_title": "Confidentiality",
+    "topic_id": "confidentiality",
+    "topic_heading": "Duty of Confidentiality — Rule 3.3",
+    "subtopic_id": "withdrawal_no_disclosure",
+    "subtopic_heading": "Confidentiality and Withdrawal — Cannot Disclose Reason for Withdrawal",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Thomas is representing a defendant in a criminal matter. He discovers during the retainer that his client has been lying to him about a material fact in a way that would cause Thomas to make misrepresentations to the court. Thomas decides he must withdraw. At the next court appearance, the judge asks Thomas why he is withdrawing on short notice without replacement counsel. The Crown counsel presses the matter, suggesting the withdrawal may indicate the client's guilt.",
+    "call_of_question": "What may Thomas disclose to the court about the reasons for his withdrawal?",
+    "options": {
+      "A": "Thomas must provide the full reason for his withdrawal to the court so the judge can assess whether the withdrawal is justified.",
+      "B": "Thomas may only disclose that he is withdrawing for professional reasons and must not reveal any confidential information about the client in explaining his withdrawal; the duty of confidentiality prevents him from disclosing the substance of the client's conduct that necessitated the withdrawal.",
+      "C": "Thomas should disclose to the Crown that the client lied to him, as this protects the administration of justice from being misled.",
+      "D": "Thomas may disclose the reason for withdrawal if the court orders him to, but not voluntarily."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 3.3-1 of the LSO Rules of Professional Conduct imposes a duty of confidentiality that continues even when a lawyer withdraws. A lawyer who withdraws for professional reasons — including because the client's conduct would require the lawyer to mislead the court — must decline to provide reasons that would disclose confidential information. Thomas may tell the court only that he is withdrawing for professional reasons, without disclosing the substance of the client's conduct. The duty of confidentiality is not overridden by judicial curiosity or Crown pressure.",
+    "why_A_wrong": "Incorrect. The duty of confidentiality prevents Thomas from explaining the full reason for his withdrawal. He must protect the client's confidential information even on withdrawal.",
+    "why_B_wrong": "This IS the correct answer. Thomas may only disclose that he is withdrawing for professional reasons and must not reveal any confidential information about the client in explaining his withdrawal; the duty of confidentiality prevents him from disclosing the substance of the client's conduct that necessitated the withdrawal.",
+    "why_C_wrong": "Incorrect. Disclosing to the Crown that the client lied would be a serious breach of confidentiality. The duty of confidentiality is not suspended to protect the Crown or the administration of justice in this context.",
+    "why_D_wrong": "Incorrect. Even a court order does not automatically override solicitor-client privilege and confidentiality — Thomas should seek to assert privilege and confidentiality in response to any such order and challenge it appropriately.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 3",
+      "heading": "Confidentiality",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rules 3.3-1, 3.7-9 (confidentiality on withdrawal)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "confidentiality — cannot disclose reason for withdrawal"
+    },
+    "exam_trigger_words": ["withdrawal", "reason for withdrawal", "professional reasons", "cannot disclose", "confidentiality on withdrawal"],
+    "tested_concepts": [
+      "Rule 3.3-1 — confidentiality continues on withdrawal",
+      "lawyer may only state 'professional reasons' for withdrawal",
+      "duty of confidentiality prevails over judicial or Crown inquiry"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-03-post-ret-001",
+    "chapter_number": 3,
+    "chapter_title": "Confidentiality",
+    "topic_id": "confidentiality",
+    "topic_heading": "Duty of Confidentiality — Rule 3.3",
+    "subtopic_id": "post_retainer_obligations",
+    "subtopic_heading": "Confidentiality Obligations After the Retainer Ends — Scope",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Ursula represented a corporate client in a regulatory investigation three years ago. The retainer ended without any ongoing obligations. Ursula is now approached by a journalist investigating the corporation. The journalist asks whether the corporation was the subject of a regulatory investigation, what outcome was reached, and whether any internal documents were reviewed. Ursula believes she can speak freely because the retainer ended long ago and the information is 'old.'",
+    "call_of_question": "Is Ursula's belief that she may freely speak with the journalist about her former client's regulatory investigation correct?",
+    "options": {
+      "A": "Yes — once a retainer ends, a lawyer has no ongoing confidentiality obligations to former clients and may discuss past matters freely.",
+      "B": "Yes — three years is a sufficient period of time for confidentiality obligations to expire; confidentiality has a reasonable duration after which it is no longer enforceable.",
+      "C": "No — the duty of confidentiality under Rule 3.3-1 is permanent and survives the end of the retainer indefinitely; Ursula must not disclose any information about the former client's regulatory matter, including whether it existed, what its outcome was, or what documents were reviewed, regardless of the time elapsed.",
+      "D": "No — but Ursula may disclose matters that are already publicly known through court or regulatory filings."
+    },
+    "correct_answer": "C",
+    "explanation": "Rule 3.3-1 of the LSO Rules of Professional Conduct provides that the duty of confidentiality continues at all times — it has no expiry date and survives the end of the professional relationship indefinitely. Ursula has no basis to disclose information about the regulatory investigation to the journalist. The passage of three years does not erode or eliminate the confidentiality obligation. Even matters that ultimately became publicly known require care — the lawyer should not affirmatively confirm, contextualize, or add detail beyond what is already in the public record.",
+    "why_A_wrong": "Incorrect. The duty of confidentiality does not end with the retainer. Rule 3.3-1 expressly provides that the duty is permanent.",
+    "why_B_wrong": "Incorrect. There is no time limitation on the duty of confidentiality under Rule 3.3-1. Three years — or any other period — does not cause the obligation to expire.",
+    "why_C_wrong": "This IS the correct answer. No — the duty of confidentiality under Rule 3.3-1 is permanent and survives the end of the retainer indefinitely; Ursula must not disclose any information about the former client's regulatory matter, including whether it existed, what its outcome was, or what documents were reviewed, regardless of the time elapsed.",
+    "why_D_wrong": "Incorrect. While Ursula should be cautious about confirming publicly known information, Option C is the most complete and accurate statement of her obligations. Merely being cautious about public information does not capture the full scope of the permanent confidentiality obligation.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 3",
+      "heading": "Confidentiality",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.3-1 (permanent duty — survives retainer)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "confidentiality — permanence after retainer ends"
+    },
+    "exam_trigger_words": ["former client", "retainer ended", "journalist", "time elapsed", "permanent duty"],
+    "tested_concepts": [
+      "Rule 3.3-1 — confidentiality is permanent — survives retainer indefinitely",
+      "no time limitation on confidentiality obligation",
+      "cannot disclose former client information to media or third parties"
+    ],
+    "estimated_time_seconds": 90
   }
 ]

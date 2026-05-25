@@ -218,5 +218,201 @@
       "lawyer cannot follow client instruction to raise baseless defences"
     ],
     "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-07-perjury-001",
+    "chapter_number": 7,
+    "chapter_title": "Duties to Tribunals and Third Parties",
+    "topic_id": "duties_tribunals",
+    "topic_heading": "Duties as Advocate — Rule 5.1-2",
+    "subtopic_id": "perjured_evidence",
+    "subtopic_heading": "Knowingly Adducing Perjured Evidence — Mandatory Withdrawal",
+    "difficulty": "exam_trap",
+    "fact_pattern": "Lawyer Valentina is defending an accused charged with assault. During trial preparation, the accused tells Valentina that the alibi witness Valentina intends to call will be lying — the accused was actually at the scene but claims his alibi witness has agreed to provide false testimony. The accused insists Valentina proceed and call the alibi witness anyway, since the Crown cannot disprove the alibi.",
+    "call_of_question": "What must Valentina do under Rule 5.1-2 of the Rules of Professional Conduct?",
+    "options": {
+      "A": "Valentina must call the alibi witness because the accused has the right to present a full defence and the Crown's burden to disprove the alibi is not affected by what Valentina knows privately.",
+      "B": "Valentina must not call a witness she knows will give false testimony; she must advise the accused that she cannot present knowingly false evidence and that she must withdraw if the accused persists in the instruction; Valentina may not knowingly adduce perjured evidence regardless of the accused's instructions.",
+      "C": "Valentina may call the witness because solicitor-client privilege protects her from having to act on information received from the accused during a privileged consultation.",
+      "D": "Valentina must immediately disclose to the Crown that the alibi is false because her duty to the court overrides solicitor-client privilege in criminal proceedings."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 5.1-2 of the LSO Rules of Professional Conduct prohibits a lawyer from knowingly adducing false or perjured evidence before a tribunal. Once Valentina knows the intended alibi evidence is false, she cannot present it regardless of the accused's instructions. She must advise the accused that she cannot proceed on those instructions and that she will withdraw if he persists. Rule 5.1-2(f) makes clear that a lawyer must not, with knowledge that evidence is false, offer it. Valentina may not disclose the contents of the privileged communication to the Crown — but she must refuse to act on the instruction.",
+    "why_A_wrong": "Incorrect. The right to make full answer and defence does not extend to presenting evidence the lawyer knows to be false. The duty to the court under Rule 5.1-2 prohibits knowingly adducing perjured evidence.",
+    "why_B_wrong": "This IS the correct answer. Valentina must not call a witness she knows will give false testimony; she must advise the accused that she cannot present knowingly false evidence and that she must withdraw if the accused persists in the instruction; Valentina may not knowingly adduce perjured evidence regardless of the accused's instructions.",
+    "why_C_wrong": "Incorrect. Solicitor-client privilege protects Valentina from disclosing the communication, but it does not authorize her to act on a privileged instruction to present false evidence. Privilege protects the communication from disclosure; it does not authorize misconduct.",
+    "why_D_wrong": "Incorrect. Valentina must not disclose to the Crown — the privileged communication remains protected. Her response is to refuse the instruction and withdraw if necessary, not to breach privilege.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 7",
+      "heading": "Duties to Tribunals and Third Parties",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.1-2(f) (knowing adduction of perjured evidence)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "duty to tribunal — knowing adduction of perjured evidence; mandatory withdrawal"
+    },
+    "exam_trigger_words": ["perjured evidence", "false testimony", "alibi witness", "must withdraw", "Rule 5.1-2"],
+    "tested_concepts": [
+      "Rule 5.1-2(f) — cannot knowingly adduce perjured evidence",
+      "client instruction does not authorize presenting false evidence",
+      "privilege protects communication but does not authorize misconduct"
+    ],
+    "estimated_time_seconds": 180
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-07-mislead-001",
+    "chapter_number": 7,
+    "chapter_title": "Duties to Tribunals and Third Parties",
+    "topic_id": "duties_tribunals",
+    "topic_heading": "Duties as Advocate — Rule 5.1-2",
+    "subtopic_id": "duty_not_to_mislead",
+    "subtopic_heading": "Duty Not to Mislead Court — Silence and Omission",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Winston is acting for a plaintiff in a motion for summary judgment. During oral argument, the judge asks Winston directly whether there is any evidence contradicting the plaintiff's version of events. Winston is aware of an email that seriously undermines the plaintiff's credibility on the key issue but that has not been produced by either party. Winston says 'no' to the judge's question.",
+    "call_of_question": "Has Winston's answer to the judge's question breached his duty of candour under Rule 5.1-2?",
+    "options": {
+      "A": "No — Winston is not required to disclose evidence harmful to his client's case; the adversarial system places that obligation on the opposing party.",
+      "B": "Yes — when directly asked by the court whether there is contradictory evidence, a lawyer who is aware of such evidence cannot answer falsely; Rule 5.1-2 prohibits a lawyer from knowingly making a false statement to the tribunal, including by giving a false answer to a direct judicial inquiry.",
+      "C": "No — Winston's obligation of confidentiality to his client prevents him from disclosing the email or acknowledging that it exists.",
+      "D": "No — because the email has not been produced, it is not properly before the court and Winston has no duty to acknowledge its existence."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 5.1-2 of the LSO Rules of Professional Conduct prohibits a lawyer from knowingly making a false statement to a tribunal. When a judge directly asks whether contradictory evidence exists, a lawyer who is aware of such evidence cannot answer 'no' — that is a knowing false statement to the tribunal. The adversarial system does not authorize lying to a judge in response to a direct question. Winston was not required to volunteer the email unprompted, but once directly asked, he could not falsely deny knowledge of contradictory evidence.",
+    "why_A_wrong": "Incorrect. While lawyers are generally not required to volunteer information harmful to their client, they cannot answer a direct judicial question falsely. Winston was directly asked and gave a false answer.",
+    "why_B_wrong": "This IS the correct answer. Yes — when directly asked by the court whether there is contradictory evidence, a lawyer who is aware of such evidence cannot answer falsely; Rule 5.1-2 prohibits a lawyer from knowingly making a false statement to the tribunal, including by giving a false answer to a direct judicial inquiry.",
+    "why_C_wrong": "Incorrect. The duty of confidentiality does not authorize making false statements to the court. Winston could have declined to answer or said he could not answer without breaching confidence — but he could not say 'no' falsely.",
+    "why_D_wrong": "Incorrect. The existence of the email in Winston's knowledge is the relevant fact, not whether it has been formally produced. A lawyer cannot deny knowing about evidence simply because it has not been formally produced.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 7",
+      "heading": "Duties to Tribunals and Third Parties",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.1-2 (duty not to mislead — false answer to direct judicial inquiry)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "duty of candour — false answer to direct judicial inquiry"
+    },
+    "exam_trigger_words": ["direct judicial question", "false answer", "mislead court", "candour", "Rule 5.1-2"],
+    "tested_concepts": [
+      "Rule 5.1-2 — cannot knowingly make false statement to tribunal",
+      "false answer to direct judicial inquiry is breach of candour",
+      "confidentiality does not authorize lying to court"
+    ],
+    "estimated_time_seconds": 150
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-07-exparte-001",
+    "chapter_number": 7,
+    "chapter_title": "Duties to Tribunals and Third Parties",
+    "topic_id": "duties_tribunals",
+    "topic_heading": "Duties as Advocate — Rule 5.1-2",
+    "subtopic_id": "ex_parte_communications",
+    "subtopic_heading": "Ex Parte Communications with the Court",
+    "difficulty": "hard",
+    "fact_pattern": "Lawyer Xavier is representing a plaintiff in a civil action. Frustrated by what he sees as excessive delays in scheduling a motion, he telephones the chambers of the presiding judge directly without notice to opposing counsel to request an urgent hearing date and to explain his concerns about the scheduling process. The judge's assistant takes a message. When opposing counsel later learns of the call, she objects.",
+    "call_of_question": "Has Xavier engaged in improper ex parte communication with the court, and is the objection well-founded?",
+    "options": {
+      "A": "No — contacting the court's scheduling office or chambers to request a hearing date is an administrative matter that is not subject to the prohibition on ex parte communications.",
+      "B": "Yes — any direct communication with the court, including to scheduling staff or chambers, without notice to opposing counsel regarding the substance of the proceeding is improper ex parte communication; Xavier should have communicated through proper channels, such as a consent motion or scheduling conference notice to all parties.",
+      "C": "No — ex parte communications with the court are only prohibited when they are made in writing; an oral telephone message does not violate any rule.",
+      "D": "No — because Xavier did not actually speak with the judge, no ex parte communication occurred."
+    },
+    "correct_answer": "B",
+    "explanation": "The prohibition on ex parte communications with the court applies to any substantive communication with the court or judicial staff about a proceeding, without the knowledge of opposing counsel. Contacting chambers to complain about scheduling and request a hearing is not a purely administrative scheduling request — it involves conveying the lawyer's view of the scheduling process to judicial staff, which is a substantive communication about the matter. All parties are entitled to be present when any such communication is made. Xavier should have written to all parties and used the court's formal scheduling procedures to address his concerns.",
+    "why_A_wrong": "Incorrect. While routine scheduling communications may be handled directly, contacting chambers to convey concerns about scheduling delays and request priority consideration crosses from purely administrative to substantive communication that all parties should receive notice of.",
+    "why_B_wrong": "This IS the correct answer. Yes — any direct communication with the court, including to scheduling staff or chambers, without notice to opposing counsel regarding the substance of the proceeding is improper ex parte communication; Xavier should have communicated through proper channels, such as a consent motion or scheduling conference notice to all parties.",
+    "why_C_wrong": "Incorrect. The medium of communication — oral vs. written — is irrelevant to whether the communication is improper. The prohibition applies to substantive ex parte communications regardless of form.",
+    "why_D_wrong": "Incorrect. An ex parte communication does not require the lawyer to speak with the judge personally. Communicating substantively with chambers staff about a proceeding without opposing counsel's knowledge is equally problematic.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 7",
+      "heading": "Duties to Tribunals and Third Parties",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.1-2 (ex parte communications with court)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "duty to tribunal — improper ex parte communication"
+    },
+    "exam_trigger_words": ["ex parte", "chambers", "without notice", "opposing counsel", "scheduling communication"],
+    "tested_concepts": [
+      "Rule 5.1-2 — prohibition on ex parte communications with court",
+      "substantive communication with chambers requires notice to all parties",
+      "form of communication irrelevant to ex parte prohibition"
+    ],
+    "estimated_time_seconds": 120
+  },
+  {
+    "subject": "professional_responsibility",
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24",
+    "question_type": "single_best_answer",
+    "id": "pr-07-auth-001",
+    "chapter_number": 7,
+    "chapter_title": "Duties to Tribunals and Third Parties",
+    "topic_id": "duties_tribunals",
+    "topic_heading": "Duties as Advocate — Rule 5.1-2",
+    "subtopic_id": "adverse_authority",
+    "subtopic_heading": "Disclosure of Adverse Legal Authority to the Court",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Yasmine is representing a landlord in an application before the Landlord and Tenant Board. She is aware of a binding provincial court decision that directly contradicts the statutory interpretation she is advancing, which was decided just three weeks earlier. Opposing counsel — a self-represented tenant — has not cited this decision and appears unaware of it. Yasmine decides not to mention it.",
+    "call_of_question": "Does Yasmine have an obligation to disclose the contrary binding decision to the Landlord and Tenant Board even though opposing counsel has not raised it?",
+    "options": {
+      "A": "No — in an adversarial system, a lawyer has no obligation to cite authorities that harm the client's case; discovering and citing helpful authorities is the opposing party's responsibility.",
+      "B": "Yes — Rule 5.1-2 requires a lawyer as advocate to disclose to the tribunal any binding legal authority directly relevant to the matter that is adverse to the client's position, regardless of whether the opposing party has found it; the self-represented status of the tenant does not change this obligation.",
+      "C": "No — the duty to disclose adverse legal authorities only applies in courts, not before administrative tribunals like the Landlord and Tenant Board.",
+      "D": "No — the decision was issued only three weeks ago and is too recent to be considered binding; Yasmine has no obligation to cite newly released decisions."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 5.1-2 of the LSO Rules of Professional Conduct requires a lawyer as advocate to cite relevant binding legal authorities known to the lawyer, even if unfavourable to the client's position. This duty applies before all tribunals, including administrative bodies like the Landlord and Tenant Board. The fact that the opposing party is self-represented and has not found the authority does not relieve Yasmine of the obligation — the duty runs to the tribunal, not to the opposing party. A recently issued decision is binding if it meets the applicable binding authority standard.",
+    "why_A_wrong": "Incorrect. The adversarial system does not permit a lawyer to withhold binding adverse authorities from the tribunal. Rule 5.1-2 imposes a positive obligation to disclose such authorities.",
+    "why_B_wrong": "This IS the correct answer. Yes — Rule 5.1-2 requires a lawyer as advocate to disclose to the tribunal any binding legal authority directly relevant to the matter that is adverse to the client's position, regardless of whether the opposing party has found it; the self-represented status of the tenant does not change this obligation.",
+    "why_C_wrong": "Incorrect. The duty to disclose adverse binding authorities applies in all courts and tribunals before which a lawyer appears, including administrative tribunals such as the Landlord and Tenant Board.",
+    "why_D_wrong": "Incorrect. A recently issued decision is binding if it comes from a court of appropriate authority. The age of the decision does not determine whether it must be disclosed — its binding nature and relevance do.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Professional Responsibility",
+      "chapter": "Chapter 7",
+      "heading": "Duties to Tribunals and Third Parties",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 5.1-2 (disclosure of adverse binding authority)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "duty to tribunal — disclosure of adverse binding authority"
+    },
+    "exam_trigger_words": ["adverse authority", "binding decision", "self-represented", "administrative tribunal", "disclose to tribunal"],
+    "tested_concepts": [
+      "Rule 5.1-2 — duty to disclose adverse binding authorities to tribunal",
+      "duty applies before administrative tribunals not only courts",
+      "self-represented opposing party does not change disclosure obligation"
+    ],
+    "estimated_time_seconds": 90
   }
 ]

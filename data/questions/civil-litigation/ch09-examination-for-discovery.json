@@ -550,5 +550,225 @@
     "similarity_risk": "low",
     "created_at": "2026-05-23",
     "updated_at": "2026-05-23"
+  },
+  {
+    "id": "civ-09-corp-disc-001",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "examination_for_discovery",
+    "topic_heading": "Examination for Discovery",
+    "subtopic_id": "corporate_examination",
+    "subtopic_heading": "Corporate Discovery — Multiple Representatives Under r.31.03",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Adekunle Energy Corp. is a defendant in a complex commercial dispute involving five separate contracts, each managed by a different vice-president. The plaintiff, Whitmore Systems Inc., argues that it needs to examine multiple corporate representatives — one for each contract — and that the corporation's designation of a single CFO who has general financial knowledge but no direct involvement in any of the five contracts is insufficient.",
+    "call_of_question": "Under r.31.03 of the Rules of Civil Procedure, how many corporate representatives may a party be required to examine, and what remedy is available if the designated representative lacks sufficient knowledge?",
+    "options": {
+      "A": "A corporation may always limit examination to a single designated representative, regardless of the complexity of the issues; the examining party has no right to examine additional individuals.",
+      "B": "A corporation must make available as many representatives as the examining party requests, with no limit on the number.",
+      "C": "A corporation generally designates one or more representatives on its behalf; if the designated representative lacks knowledge of the relevant matters, the examining party may bring a motion and the court may order examination of one or more additional persons with direct knowledge of the relevant matters.",
+      "D": "The plaintiff may examine any officer or director of the corporation directly without the corporation's designation, as long as the individual has personal knowledge."
+    },
+    "correct_answer": "C",
+    "explanation": "Under r.31.03 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a corporation to be examined for discovery shall designate one or more officers, directors, or employees to be examined on its behalf. The corporation has the right to designate its representatives, but if the designated person or persons lack adequate knowledge of the relevant matters — for example, a CFO with no direct knowledge of the five specific contracts at issue — the examining party may bring a motion. The court has jurisdiction under r.31.03 to order that additional persons with direct knowledge be examined to ensure the examining party is not left without adequate discovery. There is no absolute right to examine every officer involved; the remedy lies in a court motion.",
+    "why_A_wrong": "While the corporation has the right to designate its representative, the court can order examination of additional persons if the designate lacks knowledge of relevant matters. Limiting examination to a single unknowledgeable representative is not an absolute right.",
+    "why_B_wrong": "The examining party does not have an unlimited right to demand examination of every individual who has any knowledge. The corporation designates representatives; the court can intervene if the designate is inadequate, but there is no unlimited entitlement.",
+    "why_C_wrong": "This IS the correct answer. Rule 31.03 allows the corporation to designate, but the court can order examination of additional persons with direct knowledge if the designated representative is inadequate.",
+    "why_D_wrong": "The examining party cannot unilaterally compel examination of individual officers or directors who have not been designated by the corporation. The mechanism for obtaining access to a knowledgeable individual is a court motion under r.31.03.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Examination for Discovery",
+      "heading": "Corporate Discovery — Multiple Representatives Under r.31.03",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.31.03"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "corporate representative",
+      "r.31.03",
+      "designate",
+      "lacks knowledge",
+      "motion to compel"
+    ],
+    "tested_concepts": [
+      "r.31.03 — corporate designation of discovery representative",
+      "court may order examination of additional persons if designate inadequate",
+      "plaintiff cannot unilaterally choose corporate examinees"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-09-use-trial-001",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "examination_for_discovery",
+    "topic_heading": "Examination for Discovery",
+    "subtopic_id": "use_at_trial",
+    "subtopic_heading": "Use of Discovery Evidence at Trial — r.31.11",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At trial, counsel for the plaintiff seeks to read in a portion of the defendant's examination for discovery transcript. The defendant gave clear and specific answers at discovery that are directly contrary to his trial testimony. Plaintiff's counsel proposes to use the discovery transcript to contradict the defendant's trial evidence.",
+    "call_of_question": "Under r.31.11 of the Rules of Civil Procedure, for what purposes may a party use the evidence given by an adverse party at examination for discovery?",
+    "options": {
+      "A": "Discovery evidence may only be used to refresh the witness's memory at trial; it cannot be used as substantive evidence or to contradict the witness.",
+      "B": "Discovery evidence may be used at trial to contradict the trial testimony of the person examined, or as an admission by an adverse party, or for any other purpose permitted by the rules of evidence.",
+      "C": "Discovery evidence may only be used if the person examined refuses to testify at trial; it cannot be read in where the witness is available and testifies.",
+      "D": "Discovery evidence is not admissible at trial under any circumstances; it is confined to the pre-trial process."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.31.11(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), at trial a party may use the evidence given by an opposing party at examination for discovery: (a) to contradict or impeach the evidence given at trial; (b) as an admission by an adverse party; and (c) for any other purpose permitted by the rules of evidence. Where, as here, the defendant's discovery answers directly contradict his trial testimony, plaintiff's counsel may read in those portions of the discovery transcript to impeach the defendant's credibility and as admissions against interest. The person examined does not need to refuse to testify for discovery evidence to be used at trial.",
+    "why_A_wrong": "Discovery evidence is not limited to refreshing memory. Rule 31.11(1) expressly permits its use for impeachment and as an admission by an adverse party at trial.",
+    "why_B_wrong": "This IS the correct answer. Rule 31.11(1) permits use of discovery evidence at trial to contradict testimony, as an admission, or for any other purpose permitted by the rules of evidence.",
+    "why_C_wrong": "Discovery evidence may be read in and used at trial even where the witness is available and testifying. Its use as a prior inconsistent statement or admission does not require the witness to be unavailable.",
+    "why_D_wrong": "Discovery evidence is admissible at trial for specific purposes under r.31.11(1). It is not limited to the pre-trial process.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Examination for Discovery",
+      "heading": "Use of Discovery Evidence at Trial — r.31.11",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.31.11(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "r.31.11",
+      "use at trial",
+      "read in",
+      "contradict",
+      "admission"
+    ],
+    "tested_concepts": [
+      "r.31.11(1) — three uses of discovery evidence at trial",
+      "impeachment of trial testimony",
+      "admission by adverse party"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-09-use-trial-002",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "examination_for_discovery",
+    "topic_heading": "Examination for Discovery",
+    "subtopic_id": "use_at_trial",
+    "subtopic_heading": "Use of Discovery Evidence at Trial — Read-In Procedure",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At trial, the plaintiff's counsel intends to read in portions of the defendant Orimoto Holdings Inc.'s examination for discovery transcript as part of the plaintiff's case. The defendant's counsel objects, arguing that if any portion of the transcript is read in, the defendant is entitled to require that additional portions of the transcript, which provide context for the read-in portions, also be read in at the same time.",
+    "call_of_question": "Under r.31.11 of the Rules of Civil Procedure, is the defendant's position correct?",
+    "options": {
+      "A": "No — the plaintiff has an absolute right to read in any portions of the discovery transcript it chooses; the defendant cannot add context at that time and must raise any contextual points through its own evidence.",
+      "B": "Yes — under r.31.11(2), where a party reads in part of the examination for discovery of an adverse party, any other party may require that any other part of that examination be added that qualifies or explains the part read in.",
+      "C": "The defendant's objection is correct only if the contextual portions were given by a different witness at a separate examination.",
+      "D": "No — the defendant forfeited the right to add contextual portions by not raising the issue before the plaintiff began the read-in."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.31.11(2) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), where a party reads in part of an examination for discovery of an adverse party as part of its case, any other party may require that any other part of that examination that qualifies or explains the part read in also be read in at that time. This prevents a party from using selective excerpts that could mislead the trier of fact by omitting necessary context. The defendant's counsel is correct to insist that contextual portions be added when plaintiff's counsel reads in portions of Orimoto's discovery transcript. The rule ensures fair and complete use of discovery evidence at trial.",
+    "why_A_wrong": "The plaintiff does not have an absolute right to read in selective portions without contextual correction. Rule 31.11(2) specifically entitles any other party to require that qualifying or explanatory portions also be read in at the same time.",
+    "why_B_wrong": "This IS the correct answer. Rule 31.11(2) gives the defendant the right to require that contextual portions qualifying or explaining the read-in portions also be added at the same time.",
+    "why_C_wrong": "The right under r.31.11(2) applies to any part of the same examination that qualifies or explains the portion read in. It is not limited to portions given by a different witness at a separate examination.",
+    "why_D_wrong": "There is no rule that the right to add contextual portions under r.31.11(2) is forfeited if not raised before the read-in begins. The right to require qualifying portions arises when the read-in occurs.",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Examination for Discovery",
+      "heading": "Use of Discovery Evidence at Trial — Read-In Procedure",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.31.11(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "read in",
+      "r.31.11(2)",
+      "qualifying portions",
+      "explains",
+      "contextual"
+    ],
+    "tested_concepts": [
+      "r.31.11(2) — right to add qualifying/explanatory portions",
+      "prevention of selective read-ins",
+      "fair and complete use of discovery evidence"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-09-use-trial-003",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "examination_for_discovery",
+    "topic_heading": "Examination for Discovery",
+    "subtopic_id": "use_at_trial",
+    "subtopic_heading": "Use of Discovery Evidence at Trial — Adverse Party vs Own Client",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At trial, the defendant's counsel seeks to read in portions of the defendant's own examination for discovery transcript as part of the defendant's case in chief. The defendant was examined for discovery by the plaintiff. The defendant is now available and testifying at trial. The plaintiff objects, arguing that a party may not use its own discovery evidence to bolster its own case.",
+    "call_of_question": "Under r.31.11 of the Rules of Civil Procedure, may a party read in its own examination for discovery as part of its own case in chief?",
+    "options": {
+      "A": "Yes — a party may always read in its own examination for discovery as part of its own case, because it constitutes part of the trial record.",
+      "B": "No — under r.31.11, only the adverse party (the examining party) may read in the discovery evidence; the party who was examined cannot read in their own examination for discovery as part of their own case.",
+      "C": "Yes — a party may read in its own examination for discovery but only to rebut evidence introduced by the opposing party.",
+      "D": "No — once a party testifies at trial, their examination for discovery is automatically excluded from the record."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.31.11(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the right to use examination for discovery evidence at trial is conferred on the adverse party — the party who conducted the examination. The examination for discovery is a mechanism for the opposing party to obtain admissions and test the case of the party examined. A party cannot use its own examination for discovery as part of its own case in chief; to permit this would allow a party to create self-serving testimony outside the trial process. The rule operates as an asymmetric right: only the adverse party (here, the plaintiff) may read in the defendant's discovery evidence; the defendant cannot read in its own discovery evidence to bolster its own case.",
+    "why_A_wrong": "A party does not have the right to read in its own examination for discovery as part of its own case. The right under r.31.11(1) belongs to the adverse party — the party who examined the witness. Self-serving use of one's own discovery evidence is not permitted.",
+    "why_B_wrong": "This IS the correct answer. Rule 31.11(1) confers the right to use discovery evidence on the adverse party. The party examined cannot read in their own examination as part of their own case.",
+    "why_C_wrong": "The rule does not create a rebuttal exception permitting a party to read in its own discovery evidence. The asymmetric structure of r.31.11 restricts use to the adverse party in all circumstances.",
+    "why_D_wrong": "A witness testifying at trial does not cause their discovery transcript to be automatically excluded. Rather, the transcript remains available to the adverse party for impeachment and as admissions under r.31.11(1).",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Examination for Discovery",
+      "heading": "Use of Discovery Evidence at Trial — Adverse Party vs Own Client",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.31.11(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "own discovery",
+      "r.31.11",
+      "adverse party",
+      "self-serving",
+      "case in chief"
+    ],
+    "tested_concepts": [
+      "r.31.11(1) — only adverse party may read in discovery evidence",
+      "examined party cannot use own discovery as own evidence",
+      "asymmetric right to use discovery at trial"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-24",
+    "updated_at": "2026-05-24"
   }
 ]
