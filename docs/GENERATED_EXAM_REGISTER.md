@@ -93,15 +93,60 @@ Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
 
 ---
 
+### Generated Barrister D
+
+| Field | Value |
+|-------|-------|
+| **Exam key** | `bard` |
+| **Tab label** | Generated Barrister D |
+| **Assembly file** | `data/exams/generated-barrister-d.json` |
+| **Manifest** | `data/exams/generated-barrister-d-manifest.json` |
+| **Assembled** | 2026-05-24 (reassembled after Phase 2E-QA fix to crim-02-sw-issu-004 explanation; original: 2026-05-25T01:25:52 UTC) |
+| **Assembly tool** | `tools/assemble_exam.py --exam-id generated-barrister-d --exam-label "Generated Barrister D" --seed 2 --exclude data/exams/generated-barrister-c-manifest.json` |
+| **Seed** | 2 (deterministic — re-running with seed 2 and same exclusion produces identical question selection) |
+| **Total questions** | 160 |
+| **Subject allocation** | Civil Litigation: 43 · Criminal Law: 43 · Family Law: 39 · Public Law: 35 |
+| **PR treatment** | Embedded overlay (pr_angle.applicable) — PR is not a separate section |
+| **PR-angle count** | 2 |
+| **Validation status** | All 160 questions: `draft` |
+| **Similarity risk** | All 160 questions: `low` |
+| **Difficulty split** | Easy: 28 · Medium: 71 · Hard: 49 · Exam-trap: 12 |
+| **Legal review** | Phase 2E QA complete — 1 fix applied, 1 question flagged for human review. See `docs/LEGAL_QA_GENERATED_BARRISTER_D.md`. |
+| **Baked into index.html** | Yes — `bard` base64 payload updated 2026-05-24 after Phase 2E QA (length: 432,264 chars) |
+| **Source question files** | See manifest `source_files` array (43 chapter files across 4 subjects) |
+| **Overlap with C** | 0 questions — verified via set intersection of question_ids_used |
+
+#### Legal Source Constraints
+- All questions draw exclusively from official 2026 LSO Barrister materials
+- No questions are sourced from Access the Bar, Brigham, or any third-party prep provider
+- Excluded all 160 questions used in Generated Barrister C
+
+#### Phase 2E Legal QA Summary (2026-05-24)
+- **158 questions:** PASS — no legal content issues found
+- **1 question:** FIXED — crim-06-burden-001 source_reference citation corrected ([1997] 3 SCR 320 → [1997] 2 SCR 1 for *R v Lifchus*)
+- **1 question:** HUMAN REVIEW — crim-02-sw-issu-004: explanation cleaned of drafting artifact; core legal proposition (30-day s.487 warrant expiry) requires reviewer confirmation against 2026 LSO Criminal Law materials
+- Full per-question table: `docs/LEGAL_QA_GENERATED_BARRISTER_D.md`
+
+#### To Re-Assemble Exam D
+```bash
+python3 tools/assemble_exam.py \
+  --exam-id generated-barrister-d \
+  --exam-label "Generated Barrister D" \
+  --seed 2 \
+  --exclude data/exams/generated-barrister-c-manifest.json
+```
+Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
+
+---
+
 ## Section 3 — Future Generated Exams (Not Yet Built)
 
 | Planned ID | Label | Target allocation | Seed | Status |
 |------------|-------|-------------------|------|--------|
-| `bard` | Generated Barrister D | 43/43/39/35 | 2 | Not yet generated — requires Phase 2D question generation |
-| `bare` | Generated Barrister E | 43/43/39/35 | 3 | Not yet generated |
+| `bare` | Generated Barrister E | 43/43/39/35 | 3 | Not yet generated — requires Phase 2F question generation |
 | `barf` | Generated Barrister F | 43/43/39/35 | 4 | Not yet generated |
 
-**Note:** Exams D, E, F will exclude questions already used in Exam C (via `--exclude` flag on `tools/assemble_exam.py`). Each will require sufficient question bank depth beyond the 185-question Phase 2A/2B baseline.
+**Note:** Exams E, F will exclude questions already used in Exams C and D (via `--exclude` flag on `tools/assemble_exam.py`). Each will require sufficient question bank depth beyond the current baseline.
 
 ---
 
