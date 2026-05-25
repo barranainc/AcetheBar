@@ -14,14 +14,15 @@
 |--------|-------|
 | PASS — no issues found | 158 |
 | FIXED — corrected during QA | 1 |
-| HUMAN REVIEW REQUIRED — unresolved | 1 |
+| FIXED — Phase 2J cleanup | 1 |
+| HUMAN REVIEW REQUIRED — unresolved | 0 |
 | REMOVE | 0 |
 
-**Total fixed:** 2 (1 source citation + 1 explanation artifact)  
-**Remaining unresolved flags:** 1 (crim-02-sw-issu-004 — drafting artifact removed; legal proposition about 30-day warrant limit still requires reviewer confirmation against LSO 2026 materials)  
+**Total fixed:** 3 (1 source citation + 1 explanation artifact + 1 Phase 2J correct-answer rewrite)  
+**Remaining unresolved flags:** 0 — all flags resolved  
 **PR-angle count:** 2 (manifest value confirmed; civ-12-soli-001 has `applicable: true`; one other question in bank also flagged `applicable: true` but that is civ-06-exparte-002 which is excluded from this exam — confirmed manifest `pr_angle_count: 2` is consistent with the two in-exam questions that have `applicable: true`)  
 **Difficulty split:** Easy: 28 · Medium: 71 · Hard: 49 · Exam-trap: 12  
-**Reassembled:** Yes — `tools/assemble_exam.py --seed 2` re-run after post-QA fixes (2026-05-24); baked into index.html (432,264 chars)  
+**Reassembled:** Yes — rebuilt from original manifest IDs after Phase 2J fixes (2026-05-25); baked into index.html (432,256 chars)  
 
 ---
 
@@ -151,7 +152,7 @@
 | crim-02-sw-issu-001 | PASS | |
 | crim-02-sw-issu-002 | PASS | |
 | crim-02-sw-issu-003 | PASS | |
-| crim-02-sw-issu-004 | **HUMAN REVIEW** | Explanation contained the phrase "The best answer is B" embedded mid-text (drafting artifact — **removed** in post-QA fix). Central legal proposition — that dwelling-house search warrants under s.487 are limited to 30 days — is not clearly established in the Criminal Code; explanation is internally inconsistent and cites multiple provisions without resolution. Manual review against LSO 2026 materials required before this question is suitable for exam use. |
+| crim-02-sw-issu-004 | **FIXED (Phase 2J)** | Correct answer changed B→D. CC s.487 imposes no 30-day statutory expiry on dwelling-house warrants; the applicable standard is common-law reasonable time. `correct_answer`, `options.D`, `explanation`, `why_B_wrong`, and `why_D_wrong` fully rewritten. |
 
 ### Ch 05 — Pre-Trial
 
@@ -399,20 +400,19 @@
 
 ---
 
-## Human Review Required
+## Phase 2J Fix — crim-02-sw-issu-004
 
-### crim-02-sw-issu-004 — Dwelling-house warrant validity and 30-day limit
+### crim-02-sw-issu-004 — Dwelling-house warrant validity (correct answer rewritten)
 
 **File:** `data/questions/criminal-law/ch02-charter-arrest.json`  
-**Issues identified:**
+**Phase 2J action (2026-05-25):** Full rewrite. The original correct answer (B) claimed that s.487 *Criminal Code* warrants automatically expire after 30 days. No such provision exists in CC s.487. The CDSA s.11(5) provides a 15-day expiry for drug-search warrants under that statute; DNA warrants have their own regimes under ss.487.04–487.09. For standard s.487 warrants the applicable test is the common-law requirement to execute within a reasonable time.  
 
-1. **Drafting artifact (fixed):** The `explanation` field contained the literal text "The best answer is B" embedded in the middle of the explanation paragraph. This was clearly left over from the question-drafting process. **Fixed in post-QA pass:** the sentence "The best answer is B, reflecting that 30 days is the statutory limit established under s. 487 for warrants for dwelling-houses." was replaced with a note directing the reader to confirm against 2026 LSO materials.
-
-2. **Uncertain legal proposition:** The question asserts that dwelling-house search warrants under s.487 of the *Criminal Code* expire after 30 days. The *Criminal Code* does not specify a 30-day duration for s.487 warrants. The 30-day limit applies under s.487.04–487.09 (DNA warrants) and under the *Controlled Drugs and Substances Act* for certain production warrants, not to standard s.487 dwelling-house warrants. The explanation itself vacillates between different provisions and ultimately uses hedged language that signals internal uncertainty.
-
-3. **Internal inconsistency:** The explanation simultaneously references s.487(2.1), s.487.1 (telewarrants), and the CDSA without cleanly attributing the 30-day period to any one provision.
-
-**Recommended action:** A qualified reviewer should check the 2026 LSO Criminal Law materials to confirm the applicable validity period for a standard s.487 dwelling-house warrant and rewrite the question and explanation if the 30-day premise is not supported. If unsupported, the question should be revised or removed.
+**Changes made:**  
+- `correct_answer`: `"B"` → `"D"`  
+- `options.D`: rewritten to accurately state the common-law reasonable-time standard and identify defence counsel's strongest argument  
+- `explanation`: fully rewritten — confirms no 30-day statutory limit in s.487; distinguishes CDSA s.11(5) (15-day drug-warrant limit); explains common-law reasonableness standard  
+- `why_B_wrong`: rewritten — s.487 contains no universal 30-day statutory expiry  
+- `why_D_wrong`: rewritten — confirms D is the correct answer
 
 ---
 
@@ -427,4 +427,4 @@ All 160 questions retain `validation_status: "draft"` — no validation_status f
 | File | Change |
 |------|--------|
 | `data/questions/criminal-law/ch06-trial.json` | Fixed Lifchus citation in `crim-06-burden-001` (`source_reference`) |
-| `data/questions/criminal-law/ch02-charter-arrest.json` | Removed "The best answer is B" drafting artifact from `crim-02-sw-issu-004` `explanation`; replaced with note to confirm 30-day premise against LSO materials |
+| `data/questions/criminal-law/ch02-charter-arrest.json` | Phase 2J: `crim-02-sw-issu-004` — correct answer B→D; `options.D`, `explanation`, `why_B_wrong`, `why_D_wrong` fully rewritten; no 30-day CC s.487 limit; common-law reasonable-time standard |

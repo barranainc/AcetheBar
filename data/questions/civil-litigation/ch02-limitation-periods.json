@@ -726,7 +726,7 @@
       "D": "The two-year period begins when Yusuf first learned Andrei was unable to pay; since Yusuf did not know Andrei was financially troubled before 2025, his claim is not statute-barred."
     },
     "correct_answer": "B",
-    "explanation": "Under s. 5(3) of the Limitations Act, 2002 (as interpreted by the courts), for a demand obligation — a debt payable on demand — the limitation period runs from the date on which the demand is made, because the cause of action does not arise until demand is made and refused (or until a reasonable time for compliance has passed). However, s. 5(3) and the surrounding case law also impose an objective standard: the obligation is deemed to have been discovered no later than it would have been discovered with reasonable diligence. For a demand obligation, discovery occurs when demand is made. Since Yusuf made his demand in March 2025 and commenced his action within two months, his claim is not statute-barred — provided the ultimate 15-year limitation period under s. 15 does not also apply (which it would not on these facts, as the loan was in 2015 and 15 years have not yet passed).",
+    "explanation": "Under s. 5(1) of the Limitations Act, 2002 (as interpreted by the courts), for a demand obligation — a debt payable on demand — the limitation period runs from the date on which the demand is made, because the cause of action does not arise until demand is made and refused (or until a reasonable time for compliance has passed). However, s. 5(1) and the surrounding case law also impose an objective standard: the obligation is deemed to have been discovered no later than it would have been discovered with reasonable diligence. For a demand obligation, discovery occurs when demand is made. Since Yusuf made his demand in March 2025 and commenced his action within two months, his claim is not statute-barred — provided the ultimate 15-year limitation period under s. 15 does not also apply (which it would not on these facts, as the loan was in 2015 and 15 years have not yet passed).",
     "why_A_wrong": "For demand obligations, the cause of action and therefore the limitation period do not begin running at the time of the loan or the original agreement — they begin when demand is made. Yusuf's failure to demand repayment earlier did not cause the limitation period to run before demand was made.",
     "why_B_wrong": "This IS the correct answer. For a demand obligation, the limitation period begins when demand is made; Yusuf's March 2025 demand starts the two-year clock, and commencing within one month is well within time.",
     "why_C_wrong": "Demand obligations are subject to limitation periods under the Limitations Act, 2002. The period begins when demand is made; there is no unlimited right to sue indefinitely.",
@@ -759,7 +759,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-02-nofixed-001",

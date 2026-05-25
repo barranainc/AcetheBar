@@ -1630,14 +1630,14 @@
       "A": "Crown counsel — the Criminal Code imposes no expiry date on search warrants; they remain valid indefinitely.",
       "B": "Defence counsel — search warrants automatically expire 30 days after issuance under the Criminal Code.",
       "C": "Defence counsel — a search warrant for a dwelling-house must be executed within 30 days under s. 487.1 of the Criminal Code.",
-      "D": "Defence counsel — the common-law rule requires all search warrants to be executed within a reasonable time, and 49 days is unreasonable as a matter of law."
+      "D": "Defence counsel — the Criminal Code does not impose a statutory 30-day expiry on s. 487 warrants; under common law, a search warrant must be executed within a reasonable time after issuance, and an unexplained 49-day delay may support a Charter s. 8 challenge."
     },
-    "correct_answer": "B",
-    "explanation": "Section 487(2.1) of the Criminal Code provides that a search warrant issued under s. 487(1) for a dwelling-house must not authorize the search of the dwelling-house unless a judge (not just a justice of the peace) issues it, and related provisions address expiry. More precisely, under the Criminal Code framework, a search warrant issued by a justice of the peace expires on the date of execution specified in the warrant, and if no date is specified, general warrant execution rules apply. The Criminal Code at s. 487 does not itself set a universal 30-day expiry for all warrants. However, the Controlled Drugs and Substances Act at s. 11(5) and related provisions, and general practice under s. 487, require execution 'as soon as practicable.' In Ontario practice and under the Code, a search warrant that is not executed within a reasonable time becomes stale. The leading principle is that the grounds justifying the warrant must exist at the time of execution; a 49-day delay may render the ITO grounds stale. Candidates must know the expiry rules that apply to specific warrant types. Note: the precise statutory basis for the 30-day limit should be confirmed against the 2026 LSO Criminal Law materials.",
-    "why_A_wrong": "Crown counsel is incorrect. The Criminal Code and related statutes impose timing constraints on warrant execution. A warrant that is not executed within the permitted period or that is executed when the ITO grounds have gone stale will be found unlawful.",
-    "why_B_wrong": "This IS the correct answer. The Criminal Code imposes expiry constraints on search warrants; 30 days is the applicable limit for dwelling-house warrants, and executing after 49 days renders the warrant invalid.",
-    "why_C_wrong": "Section 487.1 governs telewarrants (obtaining search warrants by telephone or radio), not the general expiry of s. 487 dwelling-house warrants. Citing s. 487.1 for expiry timing is a misapplication of the provision.",
-    "why_D_wrong": "The Criminal Code's timing rules are statutory, not purely common-law. While 'reasonable time' is a relevant consideration, the governing rule is the statutory 30-day limit for dwelling-house warrants, not an open-ended common-law reasonableness assessment.",
+    "correct_answer": "D",
+    "explanation": "The Criminal Code, s. 487 does not establish a universal statutory expiry period for search warrants. Option B's claim that warrants automatically expire at 30 days under the Criminal Code is unsupported — no such provision exists in s. 487 itself. Option C erroneously cites s. 487.1, which governs telewarrants (obtaining search warrants by telephone or radio) and has no bearing on dwelling-house warrant expiry. Under common law, a search warrant must be executed within a reasonable time, having regard to all the circumstances. Courts assess: whether the ITO grounds establishing probable cause remained fresh at the time of execution; the nature of the offence; any explanation for the delay; and prejudice caused. A 49-day unexplained delay could support a defence argument that the warrant was executed unreasonably late, rendering the search unreasonable under Charter s. 8. Note: the CDSA, s. 11(5) provides a 15-day statutory expiry for drug-search warrants under that statute, which illustrates that specific statutory expiry rules exist in other regimes but not in Criminal Code s. 487.",
+    "why_A_wrong": "Crown counsel is incorrect. A warrant that is not executed within a reasonable time becomes stale and may be challenged. The common-law requirement that a warrant be executed while ITO grounds remain fresh imposes a meaningful timing constraint on s. 487 warrant execution, even absent a specific statutory expiry date.",
+    "why_B_wrong": "Option B incorrectly states that search warrants automatically expire 30 days after issuance under the Criminal Code. No such 30-day statutory limit exists in Criminal Code s. 487. The timing of warrant execution is governed by the common-law reasonable-time requirement and the continuing freshness of the ITO grounds, not by an automatic statutory expiry.",
+    "why_C_wrong": "Section 487.1 of the Criminal Code governs the issuance of search warrants by telephone or radio (telewarrants). It is not a provision establishing a 30-day execution deadline for dwelling-house warrants. Citing s. 487.1 for a general warrant expiry rule is a misapplication of the provision.",
+    "why_D_wrong": "This IS the correct answer. Criminal Code s. 487 imposes no statutory 30-day expiry on search warrants. The applicable test is the common-law requirement that a warrant be executed within a reasonable time; whether a 49-day delay was unreasonable is a fact-specific inquiry that supports a Charter s. 8 challenge.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
@@ -1668,6 +1668,6 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   }
 ]

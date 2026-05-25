@@ -42,6 +42,19 @@ Generated exams are assembled from `data/questions/` using `tools/assemble_exam.
 
 > All generated exams carry **`validation_status: draft`** on every question until a qualified reviewer has source-checked each question against the official 2026 LSO Barrister Examination materials. Generated exams must **not** be presented as official LSO content. Tab labels must use "Generated" (not "LSO") to distinguish them from imported official exams.
 
+### Phase 2J — Consolidated Human-Review Cleanup (2026-05-25)
+
+See `docs/GENERATED_EXAM_HUMAN_REVIEW_FLAGS.md` for the full register of all human-review flags across C/D/E/F.
+
+**Phase 2J resolved 2 of 5 flags:**
+- **D — crim-02-sw-issu-004:** Correct answer rewritten B→D. CC s.487 imposes no 30-day statutory expiry on search warrants; the applicable test is the common-law requirement to execute within a reasonable time. Question, explanation, and rationale fields fully rewritten.
+- **E — civ-02-demand-001:** Citation corrected from s.5(3)→s.5(1). Limitations Act, 2002 s.5 has only two subsections; s.5(3) does not exist. Substantive legal proposition (demand-obligation limitation runs from date demand is made) unchanged.
+
+**3 flags remain unresolved (require human source-check against official CYFSA/FLA text):**
+- C — fam-04-mh-consent-003: FLA s.21 subsection for BFP protection
+- F — fam-08-review-001: CYFSA s.116(6) status review
+- F — fam-08-review-var-001: CYFSA s.116(6) status review variation
+
 ---
 
 ### Generated Barrister C
@@ -111,8 +124,8 @@ Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
 | **Validation status** | All 160 questions: `draft` |
 | **Similarity risk** | All 160 questions: `low` |
 | **Difficulty split** | Easy: 28 · Medium: 71 · Hard: 49 · Exam-trap: 12 |
-| **Legal review** | Phase 2E QA complete — 1 fix applied, 1 question flagged for human review. See `docs/LEGAL_QA_GENERATED_BARRISTER_D.md`. |
-| **Baked into index.html** | Yes — `bard` base64 payload updated 2026-05-24 after Phase 2E QA (length: 432,264 chars) |
+| **Legal review** | Phase 2D QA + Phase 2J cleanup — 3 total fixes, 0 unresolved flags. See `docs/LEGAL_QA_GENERATED_BARRISTER_D.md`. Phase 2J: `crim-02-sw-issu-004` correct answer B→D (no 30-day CC s.487 limit; common-law reasonable time). |
+| **Baked into index.html** | Yes — `bard` base64 payload re-baked 2026-05-25 after Phase 2J fix (length: 432,256 chars) |
 | **Source question files** | See manifest `source_files` array (43 chapter files across 4 subjects) |
 | **Overlap with C** | 0 questions — verified via set intersection of question_ids_used |
 
@@ -124,7 +137,7 @@ Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
 #### Phase 2E Legal QA Summary (2026-05-24)
 - **158 questions:** PASS — no legal content issues found
 - **1 question:** FIXED — crim-06-burden-001 source_reference citation corrected ([1997] 3 SCR 320 → [1997] 2 SCR 1 for *R v Lifchus*)
-- **1 question:** HUMAN REVIEW — crim-02-sw-issu-004: explanation cleaned of drafting artifact; core legal proposition (30-day s.487 warrant expiry) requires reviewer confirmation against 2026 LSO Criminal Law materials
+- **1 question:** FIXED (Phase 2J) — crim-02-sw-issu-004: correct answer B→D; CC s.487 imposes no 30-day statutory expiry; common-law reasonable-time standard applies; question fully rewritten
 - Full per-question table: `docs/LEGAL_QA_GENERATED_BARRISTER_D.md`
 
 #### To Re-Assemble Exam D
@@ -157,8 +170,8 @@ Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
 | **Validation status** | All 160 questions: `draft` |
 | **Similarity risk** | All 160 questions: `low` |
 | **Difficulty split** | Easy: 10 · Medium: 72 · Hard: 65 · Exam-trap: 13 |
-| **Legal review status** | Source-checked with flagged questions — see `docs/LEGAL_QA_GENERATED_BARRISTER_E.md` · 154 PASS · 5 FIXED · 1 HUMAN REVIEW REQUIRED (`civ-02-demand-001` — possible s.5(3) citation) · 0 REMOVE |
-| **Baked into index.html** | Yes — `bare` base64 payload re-baked 2026-05-25 after QA fixes (length: 468,144 chars) |
+| **Legal review status** | Source-checked, all flags resolved — see `docs/LEGAL_QA_GENERATED_BARRISTER_E.md` · 154 PASS · 6 FIXED · 0 HUMAN REVIEW REQUIRED · 0 REMOVE. Phase 2J: `civ-02-demand-001` citation corrected s.5(3)→s.5(1). |
+| **Baked into index.html** | Yes — `bare` base64 payload re-baked 2026-05-25 after Phase 2J fix (length: 468,144 chars) |
 | **Source question files** | See manifest `source_files` array (across 4 subjects) |
 | **Overlap with C** | 0 questions — verified via set intersection of question_ids_used |
 | **Overlap with D** | 0 questions — verified via set intersection of question_ids_used |

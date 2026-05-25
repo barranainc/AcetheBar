@@ -15,7 +15,8 @@
 |---------|------:|
 | PASS | 154 |
 | FIXED | 5 |
-| HUMAN REVIEW REQUIRED | 1 |
+| FIXED — Phase 2J cleanup | 1 |
+| HUMAN REVIEW REQUIRED | 0 |
 | REMOVE | 0 |
 | **Total** | **160** |
 
@@ -33,11 +34,17 @@
 
 ---
 
+## Phase 2J Fix — civ-02-demand-001
+
+| Question ID | File | What Changed |
+|-------------|------|--------------|
+| `civ-02-demand-001` | `data/questions/civil-litigation/ch02-limitation-periods.json` | Phase 2J: `"s. 5(3)"` → `"s. 5(1)"` in `explanation` (two occurrences). Limitations Act, 2002 s.5 has only two subsections; s.5(3) does not exist. The demand-obligation discovery rule derives from judicial interpretation of s.5(1)(a)(i) (the day the person knew the injury/loss occurred). Citation corrected to s.5(1). Substantive legal proposition unchanged. |
+
+---
+
 ## Flagged Questions — HUMAN REVIEW REQUIRED
 
-| Question ID | File | Reason |
-|-------------|------|--------|
-| `civ-02-demand-001` | `data/questions/civil-litigation/ch02-limitation-periods.json` | Explanation cites `"s. 5(3) of the Limitations Act, 2002"` as the source of the demand-obligation discovery rule (limitation period for a demand debt runs from the date demand is made). Section 5 of the Limitations Act, 2002 has only two subsections (s.5(1) discovery rule and s.5(2) presumption of knowledge); there is no s.5(3) addressing demand obligations. The demand-obligation rule derives from judicial interpretation of s.5(1)(a). A qualified reviewer should verify whether the 2026 LSO materials cite a specific provision for this rule and correct the citation if s.5(3) does not exist. The substantive legal proposition (limitation period for demand obligations runs from date of demand) is correct. |
+*No unresolved flags remain after Phase 2J cleanup.*
 
 ---
 
@@ -49,7 +56,7 @@
 |---|-------------|---------|-------|
 | 1 | `civ-02-agree-001` | PASS | |
 | 2 | `civ-02-contrib-001` | PASS | |
-| 3 | `civ-02-demand-001` | HUMAN REVIEW REQUIRED | s.5(3) citation unverifiable — see Flagged section |
+| 3 | `civ-02-demand-001` | **FIXED (Phase 2J)** | s.5(3)→s.5(1); Limitations Act s.5 has no s.(3) |
 | 4 | `civ-02-psych-001` | FIXED | Commencement date July→May 2025 to correct arithmetic |
 | 5 | `civ-02-susp-ext-001` | PASS | |
 | 6 | `civ-02-ult-except-001` | FIXED | Explanation corrected: s.16(1)(h) removes basic period too |
@@ -91,7 +98,7 @@
 | 42 | `civ-14-enf-exam-001` | PASS | |
 | 43 | `civ-16-notice-001` | PASS | |
 
-**Civil Litigation:** 40 PASS · 2 FIXED · 1 HUMAN REVIEW REQUIRED · 0 REMOVE
+**Civil Litigation:** 40 PASS · 3 FIXED · 0 HUMAN REVIEW REQUIRED · 0 REMOVE
 
 ---
 
@@ -246,7 +253,7 @@
 - Correct answers verified to be definitively correct; distractors verified to be plausibly wrong for stated reasons.
 - No web browsing, no outside law, no Brigham/Access the Bar imported exams used as legal authority.
 - All `validation_status` fields remain `"draft"` pending individual source-check against LSO text.
-- One question flagged HUMAN REVIEW REQUIRED for a potentially hallucinated subsection citation (`civ-02-demand-001` — s.5(3)). The substantive legal rule it tests is correct.
+- Phase 2J: `civ-02-demand-001` citation corrected (s.5(3)→s.5(1)); no unresolved flags remain.
 
 ---
 
@@ -254,8 +261,9 @@
 
 Five source files were modified before final assembly. After all fixes were applied, the compact E exam was rebuilt from the original 160 QA'd question IDs. (Pool growth from Phase 2H caused seed 3 to select different questions on re-run; the exam was locked to its original QA'd question set.)
 
-**Post-fix payload:** 468,144 chars (was 467,732 before QA fixes — +412 chars)  
+**Post-QA payload:** 468,144 chars (was 467,732 before QA fixes — +412 chars)  
+**Post-Phase-2J payload:** 468,144 chars (s.5(3)→s.5(1) is same byte count; b64 length unchanged)  
 **Allocation confirmed:** CIV 43 · CRIM 43 · FAM 39 · PUB 35  
 **Overlap:** E∩C=0 · E∩D=0 · E∩F=0 · C∪D∪E∪F=640 unique IDs  
-**validate_html.py:** ✅ all 4 checks pass  
+**validate_html.py:** ✅ all 4 checks pass (2026-05-25)  
 **validate_question.py:** ✅ 0 errors
