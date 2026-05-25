@@ -450,27 +450,27 @@
     "subtopic_heading": "Correctness Standard of Review",
     "difficulty": "exam_trap",
     "question_type": "single_best_answer",
-    "fact_pattern": "A social assistance review tribunal makes a decision that an applicant submits exceeds its statutory jurisdiction. The applicant argues that correctness review must apply because any decision made in excess of jurisdiction is, by definition, a jurisdictional question attracting correctness. The tribunal argues all its decisions — including jurisdictional determinations — are reviewable only on a reasonableness standard.",
-    "call_of_question": "Under Vavilov, does correctness apply to all decisions a tribunal makes that could be characterized as 'jurisdictional' in nature?",
+    "fact_pattern": "A worker's compensation claim arising from a workplace injury involves allegations that the employer also committed a human rights violation during the termination that followed. The Ontario Workplace Safety and Insurance Tribunal (WSIT) asserts it has exclusive jurisdiction over all matters arising out of the workplace injury, including the human rights allegations. The Human Rights Tribunal of Ontario (HRTO) simultaneously asserts that human rights violations fall exclusively within its jurisdiction under the Human Rights Code, and that WSIT cannot adjudicate Code complaints. Both tribunals have issued conflicting interlocutory decisions on the jurisdictional question. Neither statute expressly addresses which body prevails when both claim authority. The worker seeks judicial review of WSIT's jurisdictional ruling.",
+    "call_of_question": "Under Vavilov, on what standard of review should a court assess WSIT's assertion that it has exclusive jurisdiction over the human rights allegations?",
     "options": {
-      "A": "Yes. Any decision a tribunal makes that can be described as going to its jurisdiction — including exceeding its statutory mandate — attracts correctness review under Vavilov.",
-      "B": "No. Vavilov eliminated the old jurisdictional correctness category entirely; all administrative decisions now attract reasonableness without exception.",
-      "C": "No. Vavilov significantly narrowed the jurisdictional correctness category; correctness for jurisdictional reasons now applies only where there is a question of jurisdiction between two or more administrative bodies, not simply where a tribunal may have exceeded its statutory mandate.",
-      "D": "Yes. The statutory mandate of a tribunal is always a jurisdictional question, and courts apply correctness whenever a tribunal may have acted beyond its enabling statute."
+      "A": "Reasonableness, because Vavilov establishes a general default of reasonableness for all administrative decisions, and a tribunal's view of its own jurisdiction is a question of statutory interpretation within its home statute.",
+      "B": "Correctness, because this is a true question of competing jurisdiction between two administrative bodies — the precise category Vavilov identified as attracting correctness to ensure consistent resolution of inter-tribunal conflicts.",
+      "C": "Correctness, because any question about a tribunal's jurisdiction is reviewed on correctness under Vavilov, which preserved the broad jurisdictional correctness category from Dunsmuir.",
+      "D": "Reasonableness, because the HRTO's concurrent assertion of jurisdiction is not before the reviewing court; only WSIT's own decision is under review, and that decision concerns WSIT's interpretation of its own enabling statute."
     },
-    "correct_answer": "C",
-    "explanation": "Under Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, the Supreme Court of Canada explicitly narrowed the jurisdictional correctness category. Post-Vavilov, 'jurisdictional' correctness applies only to disputes about jurisdiction between two or more administrative bodies — for example, where two tribunals each claim or disclaim authority over the same matter. A tribunal allegedly exceeding its statutory mandate is not treated as a jurisdictional question attracting correctness; instead, whether a tribunal acted within its enabling statute is reviewed on a reasonableness standard as a question of the tribunal's interpretation of its own home statute.",
-    "why_A_wrong": "Incorrect. The old Dunsmuir/CUPE framework that applied correctness broadly to 'true questions of jurisdiction' was expressly rejected and replaced by Vavilov; exceeding a statutory mandate is no longer a standalone correctness trigger.",
-    "why_B_wrong": "Incorrect. Vavilov did retain a narrow jurisdictional correctness category — specifically for disputes between two or more administrative bodies — so it was not entirely eliminated.",
-    "why_C_wrong": "This IS the correct answer. No. Vavilov significantly narrowed the jurisdictional correctness category; correctness for jurisdictional reasons now applies only where there is a question of jurisdiction between two or more administrative bodies, not simply where a tribunal may have exceeded its statutory mandate.",
-    "why_D_wrong": "Incorrect. Post-Vavilov, a tribunal's interpretation of the scope of its own statutory mandate is treated as a question of statutory interpretation within its home statute, attracting reasonableness review, not correctness.",
+    "correct_answer": "B",
+    "explanation": "Under Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, the Supreme Court significantly narrowed the jurisdictional correctness category. Post-Vavilov, correctness on jurisdictional grounds applies only where there is a genuine question of competing jurisdiction between two or more administrative bodies — each claiming or disclaiming authority over the same matter. That is precisely the scenario here: both WSIT and HRTO assert exclusive jurisdiction over the same human rights allegations arising from a workplace dispute. This is not merely a question of WSIT interpreting its own enabling statute (which would attract reasonableness); it is a true inter-tribunal jurisdictional conflict of the type Vavilov expressly preserved as a correctness category. The court must determine, on correctness, which tribunal has lawful authority, because the answer must be the same regardless of which tribunal decides it.",
+    "why_A_wrong": "Incorrect. While a tribunal's interpretation of its own enabling statute is generally reviewed on reasonableness, this scenario does not involve a single tribunal interpreting its own home statute in isolation. The competing claims of two separate tribunals over the same dispute engage Vavilov's narrow inter-tribunal correctness category, not the general reasonableness default.",
+    "why_B_wrong": "This IS the correct answer. Correctness applies because this is a true question of competing jurisdiction between two administrative bodies — the precise category Vavilov identified as attracting correctness to ensure consistent resolution of inter-tribunal conflicts.",
+    "why_C_wrong": "Incorrect. Vavilov expressly rejected the broad pre-Dunsmuir approach of applying correctness to any decision that could be characterized as 'jurisdictional.' The old wide jurisdictional correctness category was abolished. The narrow correctness category preserved by Vavilov applies specifically to disputes between two or more administrative bodies, not to every jurisdictional question a single tribunal faces.",
+    "why_D_wrong": "Incorrect. The fact that only WSIT's decision is before the court does not convert an inter-tribunal jurisdictional conflict into a single-tribunal home-statute interpretation question. The defining feature of the Vavilov inter-tribunal category is that two bodies have made conflicting claims of authority — the court cannot resolve this purely from WSIT's perspective on its own mandate.",
     "source_reference": {
       "lso_material": "2026 LSO Barrister Examination Materials",
       "subject": "Public Law",
       "chapter": "Judicial Review",
       "heading": "Correctness Standard of Review",
       "page": "see blueprint",
-      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65"
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65; Human Rights Code, R.S.O. 1990, c. H.19; Workplace Safety and Insurance Act, 1997, S.O. 1997, c. 16, Sched. A"
     },
     "pr_angle": {
       "applicable": false,
@@ -478,21 +478,22 @@
     },
     "exam_trigger_words": [
       "Vavilov",
-      "jurisdictional",
+      "competing jurisdiction",
       "correctness",
-      "exceeding statutory mandate",
-      "between two tribunals"
+      "two tribunals",
+      "inter-tribunal conflict"
     ],
     "tested_concepts": [
-      "Vavilov narrow jurisdictional correctness category",
-      "inter-tribunal jurisdictional disputes",
-      "exceeding statutory mandate reviewed on reasonableness"
+      "Vavilov inter-tribunal jurisdictional correctness category",
+      "correctness for competing jurisdiction between two bodies",
+      "reasonableness for single-tribunal home-statute interpretation",
+      "distinction between inter-tribunal conflict and exceeding statutory mandate"
     ],
     "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-04-jr-remedy-001",
@@ -725,29 +726,29 @@
     "topic_heading": "Judicial Review — Procedure and Privative Clauses",
     "subtopic_id": "div_court",
     "subtopic_heading": "Divisional Court — Jurisdiction over Judicial Review of Ontario Tribunals",
-    "difficulty": "easy",
+    "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "A regulated real estate agent receives an adverse decision from the Real Estate Council of Ontario (RECO). The agent wishes to challenge the decision by way of judicial review in Ontario. She is unsure whether to file in the Superior Court of Justice or the Divisional Court.",
-    "call_of_question": "Which Ontario court has jurisdiction to hear judicial review applications of decisions made by Ontario provincial administrative tribunals?",
+    "fact_pattern": "On April 2, 2025, the Ontario Environmental Review Tribunal refuses to issue a required environmental compliance approval to a developer, giving written reasons. The developer wants to challenge this refusal and also compel the Tribunal to reconsider and issue the approval. Counsel identifies two potential claims: (1) quashing the refusal as unreasonable; and (2) compelling the Tribunal to exercise its statutory discretion in the developer's favour. Counsel is also aware that the Tribunal's enabling statute requires leave of the Divisional Court before a judicial review application may be commenced. The developer instructs counsel to file without delay. Today is April 29, 2025.",
+    "call_of_question": "Which of the following correctly identifies the court, the required procedural step before filing, the applicable time constraint, and the appropriate remedies for the developer's two claims?",
     "options": {
-      "A": "The Ontario Court of Appeal has exclusive jurisdiction to review decisions of Ontario tribunals.",
-      "B": "The Superior Court of Justice has exclusive jurisdiction over all judicial review applications in Ontario.",
-      "C": "The Divisional Court, as a branch of the Superior Court of Justice, has jurisdiction under s. 6(1) of the Courts of Justice Act to hear and determine applications for judicial review of Ontario provincial tribunals.",
-      "D": "The Federal Court has jurisdiction over all administrative tribunal decisions in Canada, including provincial tribunals."
+      "A": "File in the Superior Court of Justice; no leave required; no time limit applies; seek certiorari to quash and prohibition to prevent future refusals.",
+      "B": "File in the Divisional Court; obtain leave of the Divisional Court before filing because the enabling statute requires it; the JRPA requires the application be made promptly and in any event within 30 days of the decision (deadline: May 2, 2025); seek certiorari to quash the unreasonable refusal and mandamus to compel the Tribunal to reconsider.",
+      "C": "File in the Federal Court; no leave required because the developer has a right to judicial review; a six-month limitation period applies; seek certiorari and mandamus.",
+      "D": "File in the Divisional Court; no leave required because the JRPA never imposes a leave requirement; the 30-day limit begins from the date counsel was retained; seek prohibition to stop the refusal taking effect and mandamus to compel a positive decision."
     },
-    "correct_answer": "C",
-    "explanation": "Under the Courts of Justice Act, R.S.O. 1990, c. C.43, s. 6(1), the Divisional Court has jurisdiction to hear and determine applications for judicial review. The Divisional Court is a branch of the Superior Court of Justice and is the primary forum for judicial review of decisions by Ontario provincial administrative tribunals. Leave to appeal from the Divisional Court goes to the Court of Appeal; the Federal Court has no jurisdiction over provincial tribunals.",
-    "why_A_wrong": "Incorrect. The Court of Appeal hears appeals from the Divisional Court but does not have original judicial review jurisdiction over Ontario tribunals.",
-    "why_B_wrong": "Incorrect. While the Superior Court of Justice retains inherent jurisdiction, the Divisional Court — as a specialized branch — has been assigned primary judicial review jurisdiction over Ontario tribunals under s. 6(1) of the Courts of Justice Act.",
-    "why_C_wrong": "This IS the correct answer. The Divisional Court, as a branch of the Superior Court of Justice, has jurisdiction under s. 6(1) of the Courts of Justice Act to hear and determine applications for judicial review of Ontario provincial tribunals.",
-    "why_D_wrong": "Incorrect. The Federal Court has jurisdiction over federal boards, commissions, and tribunals; it has no jurisdiction over Ontario provincial administrative tribunals.",
+    "correct_answer": "B",
+    "explanation": "Several procedural elements converge here. Court: The Divisional Court has jurisdiction over judicial review of Ontario provincial administrative tribunals under s. 6(1) of the Courts of Justice Act, R.S.O. 1990, c. C.43. Leave: Where the enabling statute requires leave as a condition of judicial review, the applicant must obtain leave from the Divisional Court before filing — general JRPA procedure does not override a statutory leave requirement in the tribunal's enabling legislation. Timing: Under the Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 5, the application must be made promptly and in any event within 30 days of the decision (April 2 + 30 days = May 2, 2025); the developer must move urgently. Remedies: Certiorari quashes an existing unlawful decision (the refusal); mandamus compels a public authority to perform a statutory duty it has refused or failed to perform (compelling the Tribunal to reconsider). Prohibition prevents a future act not yet taken and is inapt here; the refusal has already been made.",
+    "why_A_wrong": "Incorrect on three elements. The Superior Court of Justice is not the primary forum for Ontario tribunal judicial review — that is the Divisional Court. Prohibition prevents a future unlawful act; it is the wrong remedy where a decision has already been issued. And the JRPA does impose a 30-day time limit.",
+    "why_B_wrong": "This IS the correct answer. File in the Divisional Court; obtain leave of the Divisional Court before filing because the enabling statute requires it; the JRPA requires the application be made promptly and in any event within 30 days of the decision (deadline: May 2, 2025); seek certiorari to quash the unreasonable refusal and mandamus to compel the Tribunal to reconsider.",
+    "why_C_wrong": "Incorrect. The Federal Court has no jurisdiction over Ontario provincial tribunals; it reviews federal boards and tribunals only. The applicable time limit under JRPA s. 5 is 30 days, not six months.",
+    "why_D_wrong": "Incorrect on two elements. The enabling statute here expressly requires leave — a statutory leave requirement overrides the default JRPA procedure. The 30-day period runs from the date of the decision (April 2, 2025), not from the date counsel was retained. Prohibition is also the wrong remedy for a decision already made.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
       "chapter": "Chapter 4 — Judicial Review",
       "heading": "Divisional Court — Jurisdiction over Judicial Review of Ontario Tribunals",
       "page": "N/A",
-      "rule_or_statute_reference": "Courts of Justice Act, R.S.O. 1990, c. C.43, s. 6(1); Judicial Review Procedure Act, R.S.O. 1990, c. J.1"
+      "rule_or_statute_reference": "Courts of Justice Act, R.S.O. 1990, c. C.43, s. 6(1); Judicial Review Procedure Act, R.S.O. 1990, c. J.1, ss. 2, 5"
     },
     "pr_angle": {
       "applicable": false,
@@ -755,21 +756,24 @@
     },
     "exam_trigger_words": [
       "Divisional Court",
-      "Courts of Justice Act s. 6",
-      "judicial review",
-      "Ontario tribunal",
-      "jurisdiction"
+      "leave requirement",
+      "30-day limit",
+      "certiorari",
+      "mandamus"
     ],
     "tested_concepts": [
       "Divisional Court jurisdiction under CJA s. 6(1)",
-      "Divisional Court as primary JR forum for Ontario tribunals",
-      "distinction from Federal Court jurisdiction"
+      "statutory leave requirement overrides default JRPA procedure",
+      "JRPA s. 5 30-day time limit from date of decision",
+      "certiorari quashes existing decision",
+      "mandamus compels performance of statutory duty",
+      "prohibition vs certiorari distinction"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-04-div-court-002",
@@ -1110,51 +1114,52 @@
     "topic_heading": "Judicial Review — Timing and Delay",
     "subtopic_id": "jr_delay",
     "subtopic_heading": "Delay in Bringing Judicial Review — Time Limits",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "An applicant receives an adverse decision from an Ontario tribunal on March 1, 2024. She does not file a judicial review application until September 15, 2024 — more than six months later. The Judicial Review Procedure Act provides that an application for judicial review shall be made promptly and, in any event, within 30 days after the impugned decision unless the court extends the time. The applicant argues the six-month delay should be excused because she was unaware of the time limit.",
-    "call_of_question": "Under the Judicial Review Procedure Act, what is the time limit for commencing a judicial review application in Ontario, and what is required for an extension of time?",
+    "fact_pattern": "A licensed contractor receives a written decision on June 1, 2025 from the Ontario Building Materials Evaluation Commission (OBMEC) revoking his registration. The OBMEC is established under the Building Materials Evaluation Act, which provides in s. 47: 'A person aggrieved by a decision of the Commission may apply for judicial review within 60 days after the decision is communicated to the applicant.' The contractor takes no step until August 15, 2025 — 75 days after the decision — when he files a judicial review application in the Divisional Court. He relies on s. 47 of the enabling statute, arguing the 60-day period has not yet expired because he did not receive the decision letter until June 16, 2025. The Commission argues that the JRPA's 30-day limit (s. 5) began to run on June 1 and the application is out of time regardless of s. 47.",
+    "call_of_question": "Which limitation period controls the contractor's judicial review application, and has the application been filed in time?",
     "options": {
-      "A": "There is no time limit for commencing judicial review in Ontario; an applicant may bring an application at any time as long as the issue is still justiciable.",
-      "B": "Under the Judicial Review Procedure Act, an application for judicial review must be made promptly and in any event within 30 days after the impugned decision; the court has discretion to extend the time and will consider factors including the length of the delay, the reasons for delay, prejudice to the respondent, and the merits of the underlying application.",
-      "C": "The time limit for judicial review in Ontario is six months; the applicant has filed within the applicable time limit.",
-      "D": "The 30-day limit is absolute and jurisdictional; no extension is possible under any circumstances."
+      "A": "The JRPA's 30-day limit controls exclusively; the enabling statute cannot modify the JRPA time limit. The application, filed 75 days after the decision, is out of time unless the court extends the period.",
+      "B": "The enabling statute's 60-day limitation period controls over the JRPA's 30-day default, because a specific statutory limitation period in the tribunal's enabling legislation displaces the general JRPA time limit. Whether the application is in time depends on when the decision was 'communicated' to the contractor — if June 16 is accepted, the August 15 filing falls within 60 days and is timely.",
+      "C": "Both time limits apply concurrently; the contractor must satisfy whichever is shorter. The application was filed 75 days after the decision date and is out of time under the 30-day JRPA limit, and the enabling statute provides no relief.",
+      "D": "Neither time limit applies because the JRPA and enabling statutes cannot restrict the inherent jurisdiction of the Divisional Court to hear judicial review applications; no limitation period is mandatory."
     },
     "correct_answer": "B",
-    "explanation": "Under the Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 5, an application for judicial review shall be made promptly and, in any event, within 30 days after the date of the decision, unless the court extends the time. Courts exercise their discretion to extend the time by considering the length of the delay, whether there is a reasonable explanation for it, whether granting the extension would prejudice the respondent, and whether the underlying application has arguable merit. Ignorance of the time limit is relevant but not automatically sufficient; the applicant here has significantly exceeded the 30-day period and will need to provide a compelling explanation for a six-month delay.",
-    "why_A_wrong": "Incorrect. The JRPA s. 5 imposes a 30-day time limit on applications for judicial review; there is no general open-ended period for commencing such applications.",
-    "why_B_wrong": "This IS the correct answer. Under the Judicial Review Procedure Act, an application for judicial review must be made promptly and in any event within 30 days after the impugned decision; the court has discretion to extend the time and will consider factors including the length of the delay, the reasons for delay, prejudice to the respondent, and the merits of the underlying application.",
-    "why_C_wrong": "Incorrect. The time limit under the JRPA is 30 days, not six months; the applicant has significantly exceeded the statutory deadline and is outside the time limit without an extension.",
-    "why_D_wrong": "Incorrect. The 30-day limit is not absolute and jurisdictional; s. 5 of the JRPA expressly contemplates that the court may extend the time, giving courts discretion to excuse delay in appropriate circumstances.",
+    "explanation": "Where an enabling statute expressly prescribes a specific limitation period for judicial review of a particular tribunal's decisions, that specific provision governs and displaces the JRPA's general 30-day default under s. 5. The JRPA sets a default that applies in the absence of a more specific statutory provision; it is not a mandatory floor that overrides specific limitations in enabling legislation. Here, s. 47 of the Building Materials Evaluation Act expressly provides a 60-day period running from when the decision is 'communicated' to the applicant — not from the decision date. If the contractor can establish that communication occurred on June 16, 2025, the 60-day period expires August 15, 2025, and the August 15 filing is timely. The burden of establishing the communication date falls on the contractor. The Commission's reliance on the JRPA 30-day period is misplaced because the specific statutory provision displaces the JRPA general default.",
+    "why_A_wrong": "Incorrect. The JRPA's 30-day limit is a general default, not an absolute override of specific limitation periods in enabling legislation. Where a tribunal's enabling statute prescribes its own limitation period for judicial review, that specific provision controls. The JRPA does not preclude enabling statutes from setting different time limits.",
+    "why_B_wrong": "This IS the correct answer. The enabling statute's 60-day limitation period controls over the JRPA's 30-day default, because a specific statutory limitation period in the tribunal's enabling legislation displaces the general JRPA time limit. Whether the application is in time depends on when the decision was 'communicated' to the contractor — if June 16 is accepted, the August 15 filing falls within 60 days and is timely.",
+    "why_C_wrong": "Incorrect. The two time limits do not apply concurrently. Specific enabling legislation prescribing a limitation period for judicial review of a tribunal's decisions displaces the general JRPA default; they do not both apply simultaneously, requiring satisfaction of the shorter period.",
+    "why_D_wrong": "Incorrect. Statutory limitation periods applicable to judicial review do constrain when applications may be commenced, subject to the court's discretion to extend. The Divisional Court's jurisdiction under s. 6 of the Courts of Justice Act does not override validly enacted statutory limitation periods. Courts can extend time under JRPA s. 5 and analogous provisions, but that is different from saying no limit applies.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
       "chapter": "Chapter 4 — Judicial Review",
       "heading": "Delay in Bringing Judicial Review — Time Limits",
       "page": "N/A",
-      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 5"
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 5; Courts of Justice Act, R.S.O. 1990, c. C.43, s. 6(1)"
     },
     "pr_angle": {
       "applicable": false,
       "pr_issue_type": null
     },
     "exam_trigger_words": [
-      "30-day limit",
-      "JRPA s. 5",
-      "extension of time",
-      "delay",
-      "promptly"
+      "enabling statute limitation period",
+      "JRPA s. 5 default",
+      "specific displaces general",
+      "communication of decision",
+      "overlapping time limits"
     ],
     "tested_concepts": [
-      "JRPA 30-day time limit for judicial review",
-      "discretion to extend time on judicial review",
-      "factors for extension of time"
+      "specific enabling statute limitation displaces JRPA general default",
+      "JRPA 30-day period as default not mandatory override",
+      "when limitation period begins to run — communication vs. decision date",
+      "interaction between JRPA and enabling statute time limits"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-04-vavilov-001",

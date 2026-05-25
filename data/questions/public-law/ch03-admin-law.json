@@ -8,22 +8,22 @@
     "topic_heading": "The Duty of Procedural Fairness",
     "subtopic_id": "duty_of_fairness",
     "subtopic_heading": "The Duty of Fairness and Baker Factors",
-    "difficulty": "easy",
+    "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "An administrative tribunal is considering revoking a dentist's professional licence following a complaint of professional misconduct. Revocation will permanently end the dentist's ability to practice, eliminating his livelihood.",
-    "call_of_question": "According to the Baker framework, which factor most strongly suggests that a high level of procedural fairness is owed to the dentist?",
+    "fact_pattern": "A provincial occupational licensing board processes approximately 4,000 renewal applications per year through a delegated officer system using a standardized document review. The enabling statute does not specify any procedural requirements and contains no appeal right. An applicant whose licence renewal is denied learns the decision was made in three minutes based solely on a file note that she had one prior disciplinary notation. Without a licence, she cannot work as a registered massage therapist — her sole source of income. She seeks a hearing before denial. The board argues its mass-processing mandate (Factor 1) requires efficiency, while the applicant argues the significance of losing her livelihood (Factor 3) demands oral process. The statute's silence on procedure (Factor 2) is accepted as neutral.",
+    "call_of_question": "Applying the Baker framework to these competing factors, which assessment of the required level of procedural fairness is most defensible?",
     "options": {
-      "A": "Factor 1 — the decision is of a legislative nature, suggesting minimal procedural requirements.",
-      "B": "Factor 3 — the greater the impact of the decision on the individual's rights, interests, or livelihood, the higher the level of procedural fairness required.",
-      "C": "Factor 5 — the tribunal has historically granted broad procedural rights in similar hearings.",
-      "D": "Factor 2 — the enabling statute is detailed and technical, indicating Parliament intended robust procedure."
+      "A": "Because Factor 1 — the mass administrative nature of the decision — predominates, minimal procedural fairness is required; file review is sufficient and no oral hearing is warranted.",
+      "B": "Because the enabling statute is silent on procedure (Factor 2), the Baker factors are inapplicable and the common law duty of fairness does not arise.",
+      "C": "Weighing all relevant factors holistically: although Factor 1 (mass administrative decision) pulls toward lower procedural requirements, Factor 3 (loss of sole livelihood) and Factor 2 (absence of any statutory appeal right) together pull strongly toward a higher standard; the applicant is owed at minimum a meaningful opportunity to know the case against her and respond in writing before the denial is finalized, even if not a full oral hearing.",
+      "D": "Because Factor 3 predominates whenever livelihood is at stake, the applicant is automatically entitled to a full oral hearing with cross-examination rights regardless of the board's operational context."
     },
-    "correct_answer": "B",
-    "explanation": "Baker v Canada, [1999] 2 SCR 817, identified the importance of the decision to the individual (Factor 3) as a key determinant of the level of procedural fairness required. Licence revocation that ends a person's livelihood has profound personal consequences, strongly supporting higher procedural protection.",
-    "why_A_wrong": "Incorrect. Licence revocation is adjudicative in nature; Factor 1 actually supports higher fairness here because the decision resembles a judicial one.",
-    "why_B_wrong": "This IS the correct answer. Factor 3 — the greater the impact of the decision on the individual's rights, interests, or livelihood, the higher the level of procedural fairness required.",
-    "why_C_wrong": "Incorrect. Factor 5 concerns the decision-maker's own procedural choices, not the impact on the individual.",
-    "why_D_wrong": "Incorrect. Factor 2 concerns the statutory scheme, not the severity of impact on the individual.",
+    "correct_answer": "C",
+    "explanation": "Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817, held that the duty of fairness exists on a spectrum and requires holistic weighing of all five factors — none is automatically determinative. Here: Factor 1 (mass, routine licensing process) pulls toward lower procedural entitlement; however, Factor 2 (no statutory appeal rights) pulls upward because the absence of any corrective mechanism increases the need for procedural protection at first instance; and Factor 3 (loss of sole livelihood) pulls strongly upward because the individual stakes are severe. Weighing these factors, the applicant is owed more than a unilateral file review — she must at minimum receive sufficient notice of the concern about the disciplinary notation and an opportunity to respond — but a full oral hearing is not necessarily required. Both extremes (pure file review, or automatic full oral hearing regardless of operational context) are incorrect because neither reflects the holistic Baker balancing approach.",
+    "why_A_wrong": "Incorrect. Treating Factor 1 as automatically determinative misapplies Baker. The mass administrative nature of a process is one relevant consideration, but courts weigh all five factors together. Where the individual impact is severe and no appeal right exists, Factor 1 alone cannot justify minimal procedural protection.",
+    "why_B_wrong": "Incorrect. A silent statute on procedure is addressed under Factor 2 of Baker, which treats absence of procedural specification as relevant to — not an exclusion of — the common law duty of fairness. The absence of statutory procedure does not displace the Baker analysis; if anything, it increases the court's role in setting minimum fairness requirements.",
+    "why_C_wrong": "This IS the correct answer. Weighing all relevant factors holistically: although Factor 1 (mass administrative decision) pulls toward lower procedural requirements, Factor 3 (loss of sole livelihood) and Factor 2 (absence of any statutory appeal right) together pull strongly toward a higher standard; the applicant is owed at minimum a meaningful opportunity to know the case against her and respond in writing before the denial is finalized, even if not a full oral hearing.",
+    "why_D_wrong": "Incorrect. Factor 3 does not operate as an automatic trump card requiring a full oral hearing whenever livelihood is at stake. Baker expressly rejected bright-line rules: the right to be heard must be calibrated to the circumstances, and operational context is a legitimate consideration. A written response opportunity may satisfy fairness even where stakes are high.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "public_law",
@@ -39,20 +39,22 @@
     "exam_trigger_words": [
       "Baker",
       "procedural fairness",
-      "licence revocation",
-      "Factor 3",
+      "competing factors",
+      "mass decision",
       "livelihood"
     ],
     "tested_concepts": [
-      "Baker factors",
+      "Baker holistic factor balancing",
+      "Factor 1 mass administrative process",
+      "Factor 2 absence of appeal right",
       "Factor 3 importance to individual",
-      "duty of fairness content"
+      "no single factor automatically determinative"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-03-baker-fair-002",

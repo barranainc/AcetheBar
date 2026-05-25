@@ -7,30 +7,30 @@
     "topic_id": "criminal_appeals",
     "topic_heading": "Criminal Appeals",
     "subtopic_id": "summary_conviction_appeal",
-    "subtopic_heading": "Summary Conviction Appeals — s. 813 Criminal Code",
-    "difficulty": "easy",
+    "subtopic_heading": "Summary Conviction Appeals — s. 813 and s. 839 Criminal Code",
+    "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "The accused is convicted of a summary conviction offence in the Ontario Court of Justice. He wishes to appeal the conviction on the basis that the trial judge misapplied the law.",
-    "call_of_question": "Under s. 813 of the Criminal Code, to which court does the accused appeal from a summary conviction?",
+    "fact_pattern": "Yusra is convicted of a summary conviction offence in the Ontario Court of Justice. She appeals to the Superior Court of Justice under s. 813, arguing the trial judge made an error of law. The Superior Court dismisses her appeal. Yusra is dissatisfied with the Superior Court's decision and believes the Superior Court also erred on a question of law. She asks her counsel whether she may appeal further and, if so, on what terms.",
+    "call_of_question": "Under s. 839 of the Criminal Code, may Yusra appeal the Superior Court's decision to the Court of Appeal for Ontario, and if so, on what basis?",
     "options": {
-      "A": "The Court of Appeal for Ontario.",
-      "B": "The Superior Court of Justice (as a summary conviction appeal court).",
-      "C": "The Supreme Court of Canada.",
-      "D": "The Divisional Court, which has exclusive jurisdiction over all criminal appeals."
+      "A": "Yes — Yusra may appeal to the Court of Appeal on any ground, including questions of fact, as of right.",
+      "B": "Yes — Yusra may appeal to the Court of Appeal on a question of law alone, but only with leave of the Court of Appeal.",
+      "C": "No — once the Superior Court dismisses a summary conviction appeal, no further appeal is available within the criminal justice system.",
+      "D": "Yes — Yusra may appeal to the Court of Appeal on a question of law as of right, without requiring leave."
     },
     "correct_answer": "B",
-    "explanation": "Section 813 of the Criminal Code provides that the defendant or the informant may appeal to the summary conviction appeal court against a conviction, acquittal, or sentence. In Ontario, the summary conviction appeal court is the Superior Court of Justice (pursuant to the provincial designation). The appeal from a summary conviction goes first to the Superior Court of Justice, not to the Court of Appeal. A further appeal on a question of law lies to the Court of Appeal for Ontario with leave, under s. 839 of the Criminal Code.",
-    "why_A_wrong": "The Court of Appeal is not the first-level appeal court for summary convictions. Summary conviction appeals go to the summary conviction appeal court (Superior Court of Justice in Ontario). The Court of Appeal hears further appeals on questions of law with leave under s. 839.",
-    "why_B_wrong": "This IS the correct answer. Under s. 813, the summary conviction appeal court in Ontario is the Superior Court of Justice.",
-    "why_C_wrong": "The Supreme Court of Canada is not a first-level appeal court for summary convictions. It hears appeals only on questions of law of public importance with leave, typically after the Court of Appeal has considered the matter.",
-    "why_D_wrong": "The Divisional Court does not have jurisdiction over criminal appeals. The Divisional Court handles civil appeals and judicial review of administrative decisions. Criminal summary conviction appeals go to the Superior Court of Justice acting as a summary conviction appeal court.",
+    "explanation": "Section 839(1) of the Criminal Code provides that a party to a summary conviction proceeding may, with leave of the Court of Appeal, appeal to the Court of Appeal on a question of law alone from the decision of the summary conviction appeal court (i.e., the Superior Court of Justice). Two requirements apply: (1) the appeal must raise a question of law — not fact or mixed fact and law — and (2) leave of the Court of Appeal must be obtained. Yusra's belief that the Superior Court erred on a question of law satisfies the subject-matter requirement, but she must still seek and obtain leave. The further appeal is not as of right, and is not available on questions of fact.",
+    "why_A_wrong": "Overstatement Trap. Section 839 limits further appeals to questions of law only — not questions of fact or mixed fact and law. An appeal on any ground as of right does not exist at this stage of the summary conviction appeal ladder.",
+    "why_B_wrong": "This IS the correct answer. Under s. 839(1), Yusra may appeal to the Court of Appeal on a question of law alone, but only with leave. Both conditions — question of law and leave — must be met.",
+    "why_C_wrong": "Wrong Forum or Wrong Procedure Trap. A further appeal is available under s. 839 after the Superior Court disposes of a summary conviction appeal. The proceeding does not terminate at the Superior Court level; the Court of Appeal has jurisdiction on a question of law with leave.",
+    "why_D_wrong": "Wrong Timeline Trap. Section 839 requires leave of the Court of Appeal — the further appeal is not as of right. This is a critical distinction: the initial summary conviction appeal to the Superior Court under s. 813 is as of right for the defendant, but the subsequent appeal to the Court of Appeal under s. 839 requires leave and is restricted to questions of law.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
       "chapter": "Chapter 11: Appeals",
-      "heading": "Summary Conviction Appeals — s. 813",
+      "heading": "Summary Conviction Appeals — s. 813 and s. 839",
       "page": "N/A",
-      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 813, s. 839"
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 813, s. 839(1)"
     },
     "pr_angle": {
       "applicable": false,
@@ -38,21 +38,23 @@
     },
     "exam_trigger_words": [
       "summary conviction appeal",
-      "s. 813",
-      "Superior Court of Justice",
-      "appeal court",
-      "summary conviction appeal court"
+      "s. 839",
+      "Court of Appeal",
+      "leave required",
+      "question of law",
+      "further appeal"
     ],
     "tested_concepts": [
-      "s. 813 summary conviction appeal court",
-      "Superior Court of Justice as appeal court for summary convictions",
-      "further appeal to Court of Appeal (s. 839)"
+      "s. 839 further appeal from summary conviction appeal court",
+      "leave required for s. 839 Court of Appeal appeal",
+      "question of law alone restriction under s. 839",
+      "leave vs as-of-right appeal distinction"
     ],
-    "estimated_time_seconds": 60,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-11-ind-app-001",
@@ -637,50 +639,50 @@
     "topic_id": "criminal_appeals",
     "topic_heading": "Criminal Appeals",
     "subtopic_id": "summary_sentence_appeal",
-    "subtopic_heading": "Summary Conviction Appeal — Sentence Appeal Jurisdiction",
-    "difficulty": "easy",
+    "subtopic_heading": "Summary Conviction Appeal — Sentence — Post-Window Remedies",
+    "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "The accused is convicted in the Ontario Court of Justice of a summary conviction offence and sentenced to 60 days' intermittent custody. She believes the sentence is excessive and wishes to appeal.",
-    "call_of_question": "Under s. 813 of the Criminal Code, may the accused appeal the sentence in a summary conviction matter, and is leave of the court required?",
+    "fact_pattern": "Bertrand was convicted in the Ontario Court of Justice of a summary conviction offence and sentenced to 90 days' intermittent imprisonment. He did not appeal. Forty days after sentencing, Bertrand's employer offers him a full-time position that requires him to work on the intermittent custody weekends. Bertrand retains counsel and asks whether there is any mechanism available to modify or revisit his sentence given that the 30-day appeal period under s. 815 has now expired.",
+    "call_of_question": "Now that the s. 815 appeal period has expired without appeal, which of the following most accurately describes the options available to Bertrand?",
     "options": {
-      "A": "The accused may not appeal the sentence in a summary conviction matter — only the Crown may appeal a sentence in such proceedings.",
-      "B": "The accused may appeal the sentence, but leave of the summary conviction appeal court is required.",
-      "C": "The accused may appeal the sentence to the summary conviction appeal court as of right, without leave.",
-      "D": "The accused must first apply to the Ontario Court of Justice to vary the sentence before appealing to the summary conviction appeal court."
+      "A": "Bertrand has no available remedy — the expiry of the appeal period extinguishes all mechanisms to revisit a summary conviction sentence.",
+      "B": "Bertrand may apply to the Ontario Court of Justice for a variation of the intermittent custody order under s. 732(2) of the Criminal Code, which permits the court to vary the days and hours of an intermittent sentence where it is not practicable for the offender to comply with the original order.",
+      "C": "Bertrand should file a late s. 813 appeal; the court has a general discretion to extend the appeal period in any case where there are good reasons for the delay.",
+      "D": "Bertrand may apply for a prerogative writ of certiorari in the Superior Court of Justice to quash the intermittent sentence on the basis that the changed circumstances render it unlawful."
     },
-    "correct_answer": "C",
-    "explanation": "Section 813(a) of the Criminal Code provides that the defendant in summary conviction proceedings may appeal to the summary conviction appeal court against the conviction, against the sentence, or against a verdict of not criminally responsible on account of mental disorder. The appeal is as of right — no leave is required for either a conviction appeal or a sentence appeal by the defendant under s. 813. In Ontario, the summary conviction appeal court is the Superior Court of Justice. This contrasts with the Crown's right to appeal a sentence under s. 676(1)(d) (indictable) which requires leave. Summary conviction sentence appeals by the defendant are as-of-right under s. 813.",
-    "why_A_wrong": "Section 813(a) expressly provides the defendant with the right to appeal the sentence in summary conviction proceedings. Both the defendant and the informant (Crown) have appeal rights under s. 813. The defendant's right to appeal sentence is as of right.",
-    "why_B_wrong": "No leave is required for a defendant to appeal sentence under s. 813. The appeal is as of right. This is one of the distinctions between summary conviction appeals (s. 813, as of right for defendant) and indictable sentence appeals (s. 675(1)(b.1), which may require leave).",
-    "why_C_wrong": "This IS the correct answer. Under s. 813(a), the defendant may appeal the sentence in a summary conviction matter to the summary conviction appeal court as of right, without requiring leave.",
-    "why_D_wrong": "There is no requirement to first apply to the trial court to vary the sentence before filing a summary conviction appeal. The defendant proceeds directly to the summary conviction appeal court under s. 813. No internal application to the originating court is required.",
+    "correct_answer": "B",
+    "explanation": "Section 732(2) of the Criminal Code provides that a court that imposes an intermittent sentence may, on application of the offender, vary the days or hours of the intermittent sentence if it is not practicable for the offender to serve the sentence on the days or at the times originally specified. This is a distinct mechanism from an appeal — it is a statutory application to the sentencing court to vary the logistics of an intermittent order, not to alter the sentence itself. Bertrand's changed employment circumstances may support a variation of the specific days or hours, even though the appeal window has closed. This provision exists precisely to address situations where compliance with the original intermittent schedule becomes impracticable after sentencing.",
+    "why_A_wrong": "Understatement Trap. The expiry of the appeal period does not eliminate all avenues. The Criminal Code provides specific post-sentencing mechanisms, including the s. 732(2) variation procedure for intermittent sentences, that operate independently of the appeal process and do not require a live appeal.",
+    "why_B_wrong": "This IS the correct answer. Section 732(2) authorizes the sentencing court to vary the days or hours of an intermittent sentence where compliance with the original schedule is not practicable — a targeted remedy for exactly this situation, available even after the appeal window has closed.",
+    "why_C_wrong": "Wrong Timeline Trap. The Criminal Code does not confer a general discretion to extend the s. 815 appeal period on compassionate or good-reason grounds. Extensions are permitted only in limited defined circumstances, and a change in employment is not a ground for extending the appeal period where the accused simply chose not to appeal within time. The appropriate vehicle is the s. 732(2) variation, not a late appeal.",
+    "why_D_wrong": "Wrong Forum or Wrong Procedure Trap. Certiorari is a supervisory prerogative remedy used to quash decisions made without jurisdiction or in breach of natural justice — it is not available to revisit a sentence that was lawfully imposed simply because circumstances changed after sentencing. Changed circumstances do not render the original order unlawful; they may ground a s. 732(2) variation application.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
       "chapter": "Chapter 11: Appeals",
-      "heading": "Summary Conviction Sentence Appeal — s. 813",
+      "heading": "Summary Conviction Sentence Appeal — s. 813; Intermittent Sentence Variation — s. 732(2)",
       "page": "N/A",
-      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 813(a)"
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 732(2), s. 813(a), s. 815"
     },
     "pr_angle": {
       "applicable": false,
       "pr_issue_type": null
     },
     "exam_trigger_words": [
-      "s. 813",
-      "summary conviction appeal",
-      "sentence appeal",
-      "as of right",
-      "no leave required",
-      "defendant sentence appeal"
+      "intermittent sentence",
+      "s. 732(2)",
+      "variation of sentence",
+      "appeal window expired",
+      "post-appeal remedy",
+      "s. 815"
     ],
     "tested_concepts": [
-      "s. 813(a) defendant's as-of-right summary conviction sentence appeal",
-      "no leave required for summary conviction sentence appeal by defendant",
-      "Superior Court of Justice as summary conviction appeal court in Ontario",
-      "summary conviction vs indictable appeal right to appeal sentence"
+      "s. 732(2) variation of intermittent sentence",
+      "expiry of appeal period does not eliminate all remedies",
+      "certiorari not available to revisit lawful sentence on changed circumstances",
+      "distinguishing appeal from statutory variation mechanism"
     ],
-    "estimated_time_seconds": 60,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-25",

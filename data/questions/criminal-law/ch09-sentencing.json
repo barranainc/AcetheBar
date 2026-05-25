@@ -8,29 +8,29 @@
     "topic_heading": "Sentencing Principles and Purposes",
     "subtopic_id": "s718_purpose",
     "subtopic_heading": "Purposes and Principles of Sentencing — s. 718",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "A judge is sentencing an offender for a first offence of fraud over $5,000. Counsel on both sides make submissions on the applicable principles. The judge must apply the objectives of sentencing set out in the Criminal Code.",
-    "call_of_question": "Under s. 718 of the Criminal Code, which of the following is NOT a recognized fundamental purpose or objective of sentencing?",
+    "fact_pattern": "Duncan pleaded guilty to a first offence of fraud over $5,000. He defrauded multiple victims of their retirement savings over several years, causing widespread financial devastation to elderly victims. The sentencing judge states: 'This case demands a sentence that will send a clear message. I am imposing a two-year federal penitentiary term not because Mr. Duncan poses an ongoing danger to society, but because the community must understand that this type of conduct is unacceptable and will be met with severe consequences.' Defence counsel argues the judge has imposed a sentence for an improper purpose.",
+    "call_of_question": "Which s. 718 sentencing purpose best justifies the judge's stated rationale for the sentence imposed?",
     "options": {
-      "A": "To denounce unlawful conduct and the harm done to victims or to the community.",
-      "B": "To deter the offender and other persons from committing offences.",
-      "C": "To guarantee that the victim receives financial compensation from the offender.",
-      "D": "To separate offenders from society, where necessary."
+      "A": "Separation — the judge is separating Duncan from society where necessary to protect the public.",
+      "B": "Denunciation — the judge is expressing society's condemnation of the unlawful conduct and the harm caused to the community.",
+      "C": "Rehabilitation — the sentence serves to assist Duncan in becoming a law-abiding member of society.",
+      "D": "Reparations — the sentence serves to provide financial compensation to the victims of the fraud."
     },
-    "correct_answer": "C",
-    "explanation": "Section 718 of the Criminal Code sets out the fundamental purposes of sentencing as: (a) denouncing unlawful conduct; (b) deterring the offender and others; (c) separating offenders from society where necessary; (d) assisting in rehabilitating offenders; (e) providing reparations for harm done to victims or the community; and (f) promoting a sense of responsibility in offenders. While s.718.2(e.1) allows victim surcharge orders and s.738 allows restitution orders, a 'guarantee' of financial compensation is not a purpose of sentencing under s.718. Victim compensation through restitution orders is a tool, not a guaranteed purpose.",
-    "why_A_wrong": "Denunciation (denouncing unlawful conduct) IS one of the s. 718 purposes — specifically s.718(a). It is a correct statement of a sentencing objective.",
-    "why_B_wrong": "Deterrence (both specific deterrence of the offender and general deterrence of others) IS one of the s.718 purposes — specifically s.718(b). It is a correct sentencing objective.",
-    "why_C_wrong": "This IS the correct answer. Guaranteeing that the victim receives financial compensation is NOT listed as a purpose of sentencing under s.718. While restitution is available under s.738, it is not a guaranteed purpose of sentencing.",
-    "why_D_wrong": "Separation of offenders from society where necessary IS a s.718 purpose — s.718(c). It is particularly relevant to incapacitation in cases involving dangerous or repeat offenders.",
+    "correct_answer": "B",
+    "explanation": "Section 718(a) of the Criminal Code identifies denunciation — denouncing unlawful conduct and the harm done to victims or the community — as a fundamental sentencing purpose. The judge's stated rationale is textbook denunciation: the sentence is imposed to send a message that the conduct is unacceptable and to reflect society's condemnation. The judge expressly excluded ongoing danger as a basis, ruling out separation (s. 718(c)). Rehabilitation (s. 718(d)) is forward-looking and directed at the offender's reintegration — not the message sent to the community. Reparations (s. 718(e)) would involve restitution orders for victims under s. 738, not a custodial sentence. Defence counsel's objection lacks merit: denunciation is a recognized and legitimate sentencing purpose under s. 718.",
+    "why_A_wrong": "Wrong Timeline Trap. The judge specifically stated that Duncan does not pose an ongoing danger to society, which is the operative condition for the separation purpose under s. 718(c). The sentence cannot be justified on the separation rationale when the judge has explicitly disavowed it.",
+    "why_B_wrong": "This IS the correct answer. Denunciation under s. 718(a) is the purpose best aligned with the judge's stated rationale — a sentence intended to convey societal condemnation of the conduct and its impact on the community.",
+    "why_C_wrong": "Misapplied Tool. Rehabilitation under s. 718(d) is directed at assisting the offender's reform and reintegration. It is offender-focused and forward-looking. The judge's rationale is community-focused and message-oriented, which describes denunciation, not rehabilitation.",
+    "why_D_wrong": "General Rule Trap. Reparations under s. 718(e) relate to restorative measures and are implemented through restitution orders to victims under s. 738 of the Criminal Code, not through the imposition of a custodial sentence. A jail term does not serve the reparations purpose; it is separate from any financial remedy available to victims.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
       "chapter": "Chapter 9: Sentencing",
       "heading": "Purposes of Sentencing — s. 718",
       "page": "N/A",
-      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 718, s. 718.1, s. 738"
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 718(a), s. 718(c), s. 718(d), s. 718(e), s. 738"
     },
     "pr_angle": {
       "applicable": false,
@@ -40,24 +40,22 @@
       "s. 718",
       "purposes of sentencing",
       "denunciation",
-      "deterrence",
-      "rehabilitation",
       "separation",
-      "reparations"
+      "rehabilitation",
+      "reparations",
+      "sentencing rationale"
     ],
     "tested_concepts": [
-      "s. 718 sentencing objectives",
-      "denunciation",
-      "deterrence",
-      "rehabilitation",
-      "separation",
-      "what is NOT a sentencing purpose"
+      "s. 718(a) denunciation",
+      "distinguishing denunciation from separation",
+      "reparations vs. custodial sentence",
+      "applying s. 718 purposes to specific judicial reasoning"
     ],
-    "estimated_time_seconds": 60,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-09-gladue-001",

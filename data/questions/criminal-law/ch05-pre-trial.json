@@ -380,42 +380,42 @@
     "topic_id": "pre_trial_procedure",
     "topic_heading": "Pre-Trial Procedure — Plea Bargaining",
     "subtopic_id": "plea_bargaining",
-    "subtopic_heading": "Plea Bargaining — Role of the Court",
-    "difficulty": "medium",
+    "subtopic_heading": "Plea Bargaining — Counsel's Authority to Agree to Facts",
+    "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "The accused pleads guilty to assault on the basis of a joint submission for a conditional sentence by the Crown and defence. The sentencing judge states: 'I find this proposed sentence far too lenient given the violence involved. I intend to impose a nine-month custodial sentence instead.' Defence counsel argues the judge must accept the joint submission.",
-    "call_of_question": "Under R. v. Anthony-Cook, 2016 SCC 43, what is the standard a sentencing judge must apply before departing from a joint submission on sentence?",
+    "fact_pattern": "Carson is charged with assault causing bodily harm. His counsel, Ms. Rao, negotiates a plea arrangement with the Crown. The Crown agrees to accept a guilty plea to simple assault and to recommend a suspended sentence, in exchange for an agreed statement of facts that includes the following admission: 'The accused struck the victim twice in the face, causing bruising, and expressed no remorse.' Carson has not reviewed or approved this agreed statement of facts. At the plea hearing, Ms. Rao presents the agreed statement of facts on Carson's behalf without first obtaining Carson's specific instruction on its contents. Carson later complains that he never agreed to the 'no remorse' admission, which he says is false.",
+    "call_of_question": "Which of the following best describes Ms. Rao's professional responsibility obligation regarding the agreed statement of facts?",
     "options": {
-      "A": "The judge may reject a joint submission whenever the judge disagrees with it on the merits.",
-      "B": "The judge must accept a joint submission unless the proposed sentence would bring the administration of justice into disrepute or is otherwise contrary to the public interest.",
-      "C": "The judge may reject a joint submission if the proposed sentence falls outside the normal range for similar offences.",
-      "D": "The judge must accept a joint submission in all circumstances; joint submissions are binding on the court."
+      "A": "Ms. Rao acted properly — counsel conducting plea negotiations may agree to factual admissions as part of a plea arrangement on behalf of a client without specific instructions, as negotiations are within counsel's general authority to manage the proceeding.",
+      "B": "Ms. Rao acted properly — once the client authorizes counsel to negotiate a plea, counsel has implied authority to agree to any facts necessary to complete the arrangement, including characterizations adverse to the client.",
+      "C": "Ms. Rao breached her professional responsibility obligation — counsel must obtain the client's informed instructions before agreeing to facts in an agreed statement of facts, particularly where those facts are adverse to the client.",
+      "D": "Ms. Rao acted properly — agreed statements of facts in plea proceedings are documents controlled by Crown; defence counsel merely reviews and accepts them, and no separate client instruction is required for each factual admission."
     },
-    "correct_answer": "B",
-    "explanation": "In R. v. Anthony-Cook, 2016 SCC 43, the Supreme Court of Canada held that a sentencing judge should not depart from a joint submission on sentence unless the proposed sentence would bring the administration of justice into disrepute or is otherwise contrary to the public interest. This is a high threshold — higher than 'unfit' or 'outside the normal range.' The rationale is that joint submissions reflect a complex negotiation involving give and take by both parties, and certainty in their outcome is critical to the integrity of the plea bargaining process. The judge may reject the submission only where a reasonable and informed person would view the sentence as fundamentally unacceptable, not merely where the judge would impose a different sentence.",
-    "why_A_wrong": "Under Anthony-Cook, the judge cannot reject a joint submission merely because the judge disagrees with it on the merits or would impose a different sentence. The test is the public interest/disrepute standard, which is significantly higher than judicial disagreement.",
-    "why_B_wrong": "This IS the correct answer. Under Anthony-Cook, the judge must accept a joint submission unless accepting it would bring the administration of justice into disrepute or is otherwise contrary to the public interest.",
-    "why_C_wrong": "Falling outside the normal sentencing range is not sufficient to reject a joint submission under Anthony-Cook. The normal range is one input but the court must apply the public interest/disrepute test, which is a much higher threshold.",
-    "why_D_wrong": "Joint submissions are not absolutely binding on the court in all circumstances. The exception in Anthony-Cook — disrepute or contrary to public interest — preserves judicial authority to reject profoundly unacceptable joint submissions. However, this exception is narrow and not easily met.",
+    "correct_answer": "C",
+    "explanation": "A client's decision to plead guilty is a fundamental decision that belongs to the client — not counsel. The agreed statement of facts presented at the plea hearing forms part of the record on which the guilty plea is entered and the sentencing proceeds. Admissions in the agreed statement of facts are binding on the accused, may affect the sentence, and may have consequences in related proceedings. Counsel must obtain the client's informed and specific instructions before agreeing to facts on the client's behalf, especially where those facts are adverse to the client (such as the 'no remorse' admission). Ms. Rao's failure to review and obtain approval of the agreed statement from Carson before presenting it at the plea hearing is a breach of her professional responsibility obligations. The client must understand and authorize each material admission.",
+    "why_A_wrong": "Ethics Override Trap. Counsel's general authority to manage proceedings does not extend to agreeing to factual admissions adverse to the client without specific instruction. The plea itself and the facts supporting it require the client's informed consent. General authority to 'manage the proceeding' does not override the requirement for specific client instruction on substantive admissions.",
+    "why_B_wrong": "Ethics Override Trap. Authorization to negotiate a plea arrangement does not carry implied authority to agree to any facts counsel deems necessary. The scope of the client's instructions is defined by what the client has actually authorized. A blanket 'negotiate a plea' instruction does not authorize counsel to make specific factual admissions — particularly adverse ones — without the client's review and approval.",
+    "why_C_wrong": "This IS the correct answer. Counsel must obtain the client's informed instructions before agreeing to facts in an agreed statement of facts, especially where those facts are adverse to the client. Presenting an agreed statement of facts the client has not reviewed or approved is a breach of professional responsibility.",
+    "why_D_wrong": "Pragmatic Bluff. The agreed statement of facts is not solely a Crown document that defence 'accepts' passively. Defence counsel is an active participant in drafting and agreeing to its contents. Presenting it at the plea hearing is counsel's act, which requires client instruction. The characterization of counsel's role as mere review and acceptance misstates the nature of counsel's obligations in plea proceedings.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
       "chapter": "Chapter 5: Pre-Trial Procedure",
-      "heading": "Plea Bargaining — Joint Submissions",
+      "heading": "Plea Bargaining — Counsel's Role and Client Instructions",
       "page": "N/A",
-      "rule_or_statute_reference": "R. v. Anthony-Cook, 2016 SCC 43"
+      "rule_or_statute_reference": "LSO Rules of Professional Conduct, r. 5.1-1 (competence), r. 3.2-9 (client decision on plea); R. v. Anthony-Cook, 2016 SCC 43"
     },
     "pr_angle": {
-      "applicable": false,
-      "pr_issue_type": null
+      "applicable": true,
+      "pr_issue_type": "counsel acting without client instruction on plea facts"
     },
-    "exam_trigger_words": ["joint submission", "Anthony-Cook", "brings administration of justice into disrepute", "public interest", "reject joint submission"],
-    "tested_concepts": ["Anthony-Cook public interest/disrepute standard", "high threshold for rejecting joint submissions", "judicial role in plea bargaining", "certainty in plea negotiations"],
-    "estimated_time_seconds": 120,
+    "exam_trigger_words": ["agreed statement of facts", "client instructions", "plea bargaining", "adverse facts", "counsel's authority", "professional responsibility"],
+    "tested_concepts": ["client's authority over plea decisions and plea facts", "counsel's obligation to obtain specific instructions before agreeing to adverse facts", "scope of counsel's authority in plea negotiations", "professional responsibility in criminal plea proceedings"],
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-05-prelim-002",

@@ -1357,47 +1357,51 @@
     "topic_id": "confidentiality",
     "topic_heading": "Duty of Confidentiality — Rule 3.3",
     "subtopic_id": "government_client_confidentiality",
-    "subtopic_heading": "Government Client — Confidentiality Applies to Public Bodies",
-    "difficulty": "easy",
-    "fact_pattern": "Lawyer Tamsin acts as in-house counsel for a provincial government ministry. In the course of that role, she receives confidential legal advice about the ministry's internal decision-making on a controversial policy. A journalist files an access-to-information request for the ministry's internal legal advice. Several politicians from a different party also ask Tamsin directly to share the legal advice, arguing that the public has a right to know how government makes decisions. Tamsin is unsure whether the 'public interest' justifies disclosure of the privileged advice.",
-    "call_of_question": "Does the fact that Tamsin's client is a government ministry alter her duty of confidentiality or permit disclosure of privileged legal advice in the 'public interest'?",
+    "subtopic_heading": "Government Lawyer — Who Is the Client — Internal Audit Demand for Communications",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Renata is employed as counsel in the Ministry of Health (Ontario). She has been advising the Ministry on a procurement contract. The Ministry of Finance has launched an internal government audit of the procurement and sends Renata a formal written demand for production of her complete legal file, including her communications with Ministry of Health officials and her legal memoranda, on the ground that the audit team needs them to assess government decision-making. Renata is uncertain whether the Ministry of Finance audit team is part of 'the client' and whether she must comply.",
+    "call_of_question": "What is Renata's obligation in response to the Ministry of Finance audit team's demand for her legal file?",
     "options": {
-      "A": "Yes — government bodies are public institutions and there is no solicitor-client privilege over legal advice given to government; all legal advice to government is subject to disclosure.",
-      "B": "Yes — where a sufficient public interest exists, a lawyer acting for government may disclose otherwise confidential legal advice to the public or to opposition politicians.",
-      "C": "No — the duty of confidentiality under Rule 3.3-1 applies equally when the client is a government body; solicitor-client privilege attaches to legal advice given to government in the same way as to private clients; the 'public interest' does not constitute a recognized exception to confidentiality.",
-      "D": "No — the legal advice is protected, but only if the access-to-information request is denied by the ministry under the applicable legislation; Tamsin has no independent obligation to assert confidentiality."
+      "A": "Renata must produce the file because the Ministry of Finance is a branch of the same government; all Ontario government ministries share a common client, so the audit team's demand is equivalent to a client direction.",
+      "B": "Renata must produce the file because internal government audit demands supersede solicitor-client privilege as a matter of administrative law.",
+      "C": "Renata must not produce the file without direction from the appropriate Crown law officer or the official within the Ministry of Health who holds authority to waive privilege; the Ministry of Finance audit team is a third party, not the client — the client is the Crown as represented by the Ministry of Health — and the audit demand is not a client direction authorizing disclosure.",
+      "D": "Renata may use her own judgment to decide whether the audit team's need for the information outweighs the confidentiality interest, and may produce the file if she concludes the public interest in the audit is sufficiently important."
     },
     "correct_answer": "C",
-    "explanation": "The duty of confidentiality under Rule 3.3-1 applies to all clients, including government bodies. Solicitor-client privilege protects legal advice given to government in the same manner as legal advice given to private clients — this is well-established in Canadian law. A general 'public interest' argument does not constitute a recognized exception to solicitor-client privilege or the ethical duty of confidentiality. Tamsin's duty is to maintain confidentiality and assert privilege over the legal advice. The access-to-information process operates separately — privileged advice is typically exempt from disclosure under access-to-information legislation — but the lawyer's independent professional duty is to assert and protect privilege regardless of that process.",
-    "why_A_wrong": "Incorrect. Government bodies are entitled to solicitor-client privilege over legal advice in the same manner as private clients. The public nature of the client does not eliminate privilege.",
-    "why_B_wrong": "Incorrect. 'Public interest' is not a recognized exception to solicitor-client privilege or the duty of confidentiality under the Rules. This reasoning would dramatically undermine legal advice to government if adopted.",
-    "why_C_wrong": "This IS the correct answer. No — the duty of confidentiality under Rule 3.3-1 applies equally when the client is a government body; solicitor-client privilege attaches to legal advice given to government in the same way as to private clients; the 'public interest' does not constitute a recognized exception to confidentiality.",
-    "why_D_wrong": "Incorrect. Tamsin has an independent professional obligation to maintain confidentiality and assert privilege — she cannot simply defer to whatever the ministry decides in the access-to-information process. Her professional duties operate independently.",
+    "explanation": "A government lawyer's 'client' is the Crown, represented through the specific ministry or government body being advised — in this case, the Ministry of Health. Although both the Ministry of Health and the Ministry of Finance are branches of the Ontario government, the Ministry of Finance audit team is not the client for purposes of Renata's retainer. The duty of confidentiality and the protection of solicitor-client privilege run to the Crown as represented by the Ministry of Health, not to every government entity that asserts an interest. A demand from an internal audit team of a different ministry is a third-party demand — not a client direction — and does not authorize disclosure. Renata must seek direction from the appropriate Crown law officer or the authorized representative of the Ministry of Health before producing any privileged material. She cannot unilaterally decide to comply or refuse.",
+    "why_A_wrong": "Incorrect. This is an Ethics Override Trap. The fact that all Ontario ministries are part of the same government does not collapse them into a single client for all purposes. The audit team of a different ministry is a distinct government body, not the client whose confidence Renata holds.",
+    "why_B_wrong": "Incorrect. This is a General Rule Trap. Internal government audit authority does not automatically override solicitor-client privilege. Privilege belongs to the client (the Crown through the Ministry of Health) and can only be waived by the authorized client representative — not by the audit team.",
+    "why_C_wrong": "This IS the correct answer. Renata must not produce the file without direction from the appropriate Crown law officer or the official within the Ministry of Health who holds authority to waive privilege; the Ministry of Finance audit team is a third party, not the client — the client is the Crown as represented by the Ministry of Health — and the audit demand is not a client direction authorizing disclosure.",
+    "why_D_wrong": "Incorrect. This is a Pragmatic Bluff. The balancing of public interest against confidentiality is not Renata's decision to make on her own. The decision to waive or assert privilege belongs to the client, not the lawyer. Renata has no authority to weigh the audit's importance and unilaterally disclose privileged communications.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
       "chapter": "Chapter 3",
       "heading": "Confidentiality",
       "page": "N/A",
-      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.3-1; solicitor-client privilege for government clients"
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.3-1; Rule 2.03 (government lawyer — identity of client); solicitor-client privilege for government clients"
     },
     "pr_angle": {
       "applicable": true,
-      "pr_issue_type": "confidentiality — government client — public interest not an exception"
+      "pr_issue_type": "confidentiality — government lawyer — identity of client — third-party audit demand"
     },
     "exam_trigger_words": [
-      "government client",
-      "public interest",
-      "access to information",
-      "privilege for government",
-      "in-house counsel"
+      "government lawyer",
+      "identity of client",
+      "Crown client",
+      "internal audit",
+      "solicitor-client privilege",
+      "ministry demand",
+      "who is the client"
     ],
     "tested_concepts": [
-      "Rule 3.3-1 — confidentiality applies equally to government clients",
-      "privilege attaches to government legal advice same as private clients",
-      "public interest is not a recognized exception to confidentiality"
+      "government lawyer's client is the Crown through the specific advised ministry — not all government bodies",
+      "a different ministry's audit team is a third party, not the client",
+      "privilege belongs to the client — only authorized client representative can waive",
+      "lawyer cannot unilaterally decide to disclose or withhold — must seek client direction"
     ],
-    "estimated_time_seconds": 90
+    "updated_at": "2026-05-25",
+    "estimated_time_seconds": 120
   },
   {
     "subject": "professional_responsibility",

@@ -396,49 +396,52 @@
     "chapter_title": "Marketing, Advertising, and Discrimination",
     "topic_id": "marketing_advertising",
     "topic_heading": "Prohibited Solicitation — Rule 4.3-1",
-    "subtopic_id": "prohibited_solicitation",
-    "subtopic_heading": "Direct Solicitation of Vulnerable Persons — Rule 4.3-1",
+    "subtopic_id": "prohibited_solicitation_nurse_referral",
+    "subtopic_heading": "Direct Solicitation — Disaster Victim — Contact from Nurse — PI Context — Rule 4.3-1",
     "difficulty": "medium",
-    "fact_pattern": "Lawyer Yasmine is a personal injury lawyer. She learns from a hospital worker acquaintance that a patient, Zack, was seriously injured in a multi-vehicle accident and is currently in hospital recovering from his injuries. Yasmine visits Zack at the hospital, introduces herself as a personal injury lawyer, and tells him she can help him get maximum compensation and that he should sign a retainer with her before he speaks to anyone else. Zack, who is heavily medicated at the time, signs the retainer agreement.",
-    "call_of_question": "Has Yasmine violated Rule 4.3-1 of the Rules of Professional Conduct?",
+    "fact_pattern": "Lawyer Brennan is a personal injury lawyer. A nurse at a trauma centre who is a social acquaintance texts Brennan the name, phone number, and room number of a patient, Corinne, who was seriously injured in a building collapse disaster two days earlier. The nurse writes: 'You should call her — she needs a good PI lawyer and has no one helping her.' Brennan calls Corinne at the hospital that evening, identifies himself as a personal injury lawyer, and offers to come in to sign her up. Corinne agrees to meet him the next morning and signs a retainer agreement.",
+    "call_of_question": "Has Brennan violated Rule 4.3-1, and does it matter that Corinne ultimately agreed to retain him?",
     "options": {
-      "A": "No — visiting a potential client in hospital to explain one's services is a permissible form of advertising and client development.",
-      "B": "No — Yasmine's solicitation is permissible because she acted in good faith and did not charge an excessive fee.",
-      "C": "Yes — Rule 4.3-1 prohibits a lawyer from directly soliciting a person who is in circumstances of vulnerability; visiting an accident victim who is hospitalized and medicated to pressure them into signing a retainer agreement is prohibited solicitation.",
-      "D": "Yes — but only because Yasmine used a hospital worker to identify Zack, which is a separate breach of confidentiality rules."
+      "A": "No — Brennan did not visit the hospital uninvited; he called first and Corinne agreed to the meeting, which means contact was effectively client-initiated from that point onward.",
+      "B": "No — the nurse is a legitimate referral source; referrals from healthcare workers are a standard part of personal injury practice and do not constitute impermissible solicitation under Rule 4.3-1.",
+      "C": "Yes — Rule 4.3-1 prohibits a lawyer from directly soliciting a prospective client who is in circumstances of vulnerability; Corinne is a recently injured disaster victim in hospital, and Brennan initiated contact with her — acting on information obtained through a back-channel source — and sought to secure a retainer; the fact that Corinne agreed to the meeting does not convert Brennan's outreach into client-initiated contact.",
+      "D": "Yes — but the breach is primarily the nurse's, not Brennan's; Brennan's conduct was permissible once the nurse provided the contact information and he was entitled to rely on the referral."
     },
     "correct_answer": "C",
-    "explanation": "Rule 4.3-1 of the LSO Rules of Professional Conduct prohibits a lawyer from directly soliciting legal business from a person who is vulnerable — including persons who have recently suffered trauma or who are emotionally distressed or physically incapacitated. This prohibition reflects the risk that vulnerable persons cannot exercise the same independent judgment in accepting legal representation as they would in ordinary circumstances. Visiting an accident victim in hospital who is heavily medicated, pressuring them to sign a retainer, and instructing them not to speak to anyone else is a paradigmatic example of prohibited solicitation. The good faith of the lawyer or the reasonableness of the fees is irrelevant to the solicitation violation.",
-    "why_A_wrong": "Incorrect. Direct in-person solicitation of a vulnerable person in hospital is not a form of permissible advertising. Rule 4.3-1 specifically prohibits this type of conduct, which is sometimes called 'ambulance chasing.'",
-    "why_B_wrong": "Incorrect. Good faith and reasonable fees are not defences to a breach of Rule 4.3-1. The prohibition on direct solicitation of vulnerable persons applies regardless of the lawyer's intentions or fee structure.",
-    "why_C_wrong": "This IS the correct answer. Rule 4.3-1 prohibits a lawyer from directly soliciting a person who is in circumstances of vulnerability; visiting an accident victim who is hospitalized and medicated to pressure them into signing a retainer agreement is prohibited solicitation.",
-    "why_D_wrong": "Incorrect. While using a hospital worker to identify patients may raise additional concerns, the direct solicitation of the vulnerable patient is itself the primary violation of Rule 4.3-1 and is independently sufficient to establish the breach.",
+    "explanation": "Rule 4.3-1 of the LSO Rules of Professional Conduct prohibits a lawyer from directly soliciting prospective clients who are in circumstances of vulnerability — including persons who have recently suffered trauma, are physically incapacitated, or are emotionally distressed. Corinne is a disaster victim, two days post-injury, hospitalized — she is plainly in circumstances of vulnerability. Brennan initiated contact with her using information obtained through a back-channel source (a nurse acquaintance) without any indication that Corinne was seeking legal representation or had asked to be contacted. The fact that Corinne agreed to the meeting and signed a retainer does not transform the initiation of contact from prohibited solicitation into client-initiated contact. Under Rule 4.3-1, the prohibited act is the lawyer's initiation of contact with a vulnerable person for the purpose of obtaining a retainer — Corinne's downstream agreement does not retroactively legitimize the initial contact. The nurse's conduct may raise separate concerns, but the prohibition falls squarely on Brennan as the lawyer who made the contact.",
+    "why_A_wrong": "Incorrect. This is a Pragmatic Bluff. The fact that Corinne agreed to the meeting after Brennan called does not convert Brennan's initiation into client-initiated contact. The prohibited act under Rule 4.3-1 is the lawyer's initial outreach to a vulnerable person — Corinne's agreement to the subsequent meeting does not cure the solicitation.",
+    "why_B_wrong": "Incorrect. This is a General Rule Trap. A permissible referral is one where a third party refers a client who then chooses to contact the lawyer, or where a lawyer receives a referral through a legitimate referral network. Using a back-channel hospital contact to obtain a vulnerable patient's personal information and then directly calling her is not a legitimate referral — it is an indirect mechanism for achieving the prohibited solicitation.",
+    "why_C_wrong": "This IS the correct answer. Rule 4.3-1 prohibits a lawyer from directly soliciting a prospective client who is in circumstances of vulnerability; Corinne is a recently injured disaster victim in hospital, and Brennan initiated contact with her — acting on information obtained through a back-channel source — and sought to secure a retainer; the fact that Corinne agreed to the meeting does not convert Brennan's outreach into client-initiated contact.",
+    "why_D_wrong": "Incorrect. This is a Misapplied Tool. Rule 4.3-1 imposes the obligation on the lawyer — not on the referral source. Brennan cannot deflect responsibility to the nurse. A lawyer who receives improperly obtained contact information for a vulnerable person and uses it to initiate solicitation cannot shelter behind the source of the information. The obligation to not directly solicit runs to Brennan regardless of how he obtained Corinne's contact details.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
       "chapter": "Chapter 13",
       "heading": "Marketing, Advertising, and Discrimination",
       "page": "N/A",
-      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 4.3-1 (prohibited solicitation of vulnerable persons)"
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 4.3-1 (prohibited solicitation of vulnerable persons — PI context)"
     },
     "pr_angle": {
       "applicable": true,
-      "pr_issue_type": "solicitation — vulnerable persons"
+      "pr_issue_type": "solicitation — vulnerable disaster victim — back-channel contact from nurse — client agreement does not cure solicitation"
     },
     "exam_trigger_words": [
       "solicitation",
       "vulnerable",
-      "hospital",
-      "accident victim",
-      "ambulance chasing",
-      "Rule 4.3-1"
+      "disaster victim",
+      "nurse referral",
+      "client-initiated contact",
+      "Rule 4.3-1",
+      "personal injury"
     ],
     "tested_concepts": [
-      "Rule 4.3-1 — direct solicitation of vulnerable persons prohibited",
-      "visiting hospitalized accident victim to solicit retainer is prohibited",
-      "good faith and reasonable fees are not defences to solicitation violation"
+      "Rule 4.3-1 — direct solicitation of vulnerable persons prohibited — disaster victim in hospital",
+      "back-channel contact through healthcare worker is not a legitimate referral",
+      "client agreement after prohibited solicitation does not cure the initial violation — Pragmatic Bluff",
+      "prohibition runs to the lawyer — cannot shelter behind the referral source's conduct — Misapplied Tool"
     ],
-    "estimated_time_seconds": 90
+    "updated_at": "2026-05-25",
+    "estimated_time_seconds": 120
   },
   {
     "subject": "professional_responsibility",

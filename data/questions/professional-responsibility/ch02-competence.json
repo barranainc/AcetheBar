@@ -983,44 +983,47 @@
     "subtopic_id": "specialist_holding_out",
     "subtopic_heading": "Specialist Certification — Holding Out and Standard of Care",
     "difficulty": "medium",
-    "fact_pattern": "Zara is a lawyer who practises primarily in employment law. She has not been certified as a specialist by the Law Society of Ontario. On her website and business cards, she describes herself as 'Ontario's leading employment law specialist' and 'a board-certified specialist in employment matters.' She has not applied for or received any specialist certification from the LSO. Several clients have retained her based on the specialist representation, and one client has complained to the LSO that they expected a higher level of expertise than Zara demonstrated.",
-    "call_of_question": "Which of the following best describes the professional responsibility issues raised by Zara's self-description?",
+    "fact_pattern": "Nadia is a barrister who has handled 18 medical malpractice cases over six years. She has not applied for or received LSO certified specialist designation in civil litigation or any other area. Nadia sends a targeted marketing letter to physicians' professional associations describing herself as 'a certified specialist in medical malpractice litigation' and stating that her 'specialist expertise' gives clients an advantage over other firms. A physician retains Nadia on that basis. The matter proceeds to trial and the client is dissatisfied with the outcome, alleging that Nadia did not perform at the level of a specialist.",
+    "call_of_question": "What professional responsibility obligations has Nadia breached, and what is the significance of the 'certified specialist' representation?",
     "options": {
-      "A": "No rule is breached because 'specialist' is a marketing term that does not have a regulated meaning in Ontario.",
-      "B": "Zara has breached the rules against misleading advertising and the rules on specialist designation; a lawyer cannot hold herself out as a specialist or use the term 'specialist' in marketing unless certified by the LSO; doing so creates a misleading impression and may expose Zara to a higher standard of care.",
-      "C": "Zara has not breached any rule because she merely described her focus area; the use of 'specialist' is permissible as long as the lawyer practices predominantly in that area.",
-      "D": "Zara has breached the rules but only if a client can prove they were financially harmed by relying on the misleading description."
+      "A": "Nadia has breached Rule 4.2-1 (misleading advertising) only; the competence rules are unaffected because she has genuine experience in the area.",
+      "B": "Nadia has not breached any rule; 'certified specialist' in a marketing letter is understood by sophisticated clients as a general description of focus, not a claim of LSO accreditation.",
+      "C": "Nadia has breached both the rules on specialist designation and the rules against misleading advertising; because she used the phrase 'certified specialist' without LSO certification, she has created a false impression of formal accreditation; additionally, a lawyer who holds herself out as a specialist is held to the standard of care of a specialist — her actual experience level does not reduce that obligation.",
+      "D": "Nadia has breached the rules, but only if a client can prove actual financial loss directly attributable to the misrepresentation; no professional responsibility finding arises from the marketing letter alone."
     },
-    "correct_answer": "B",
-    "explanation": "Under the LSO Rules and By-Laws, a lawyer may not use the term 'specialist' or hold themselves out as a specialist unless they have been formally certified as a specialist by the Law Society of Ontario. Unauthorized use of the term 'specialist' is misleading advertising — it creates an impression of formal accreditation that does not exist. Beyond the advertising concern, holding oneself out as a specialist creates an expectation of a higher standard of care commensurate with that specialist representation. The competence obligation applies at the level of skill the lawyer held out, not merely the general practitioner standard.",
-    "why_A_wrong": "Incorrect. The term 'specialist' in the Ontario legal market has a specific regulated meaning. Only lawyers who have been certified by the LSO may use it. It is not a generic marketing term that lawyers may freely apply.",
-    "why_B_wrong": "This IS the correct answer. Zara has breached the rules against misleading advertising and the rules on specialist designation; a lawyer cannot hold herself out as a specialist or use the term 'specialist' in marketing unless certified by the LSO; doing so creates a misleading impression and may expose Zara to a higher standard of care.",
-    "why_C_wrong": "Incorrect. Practicing predominantly in an area does not entitle a lawyer to use the regulated term 'specialist.' Concentration of practice and formal specialist certification are distinct concepts.",
-    "why_D_wrong": "Incorrect. A breach of the rules on specialist designation and misleading advertising is a professional responsibility issue independent of whether any specific client suffered financial harm.",
+    "correct_answer": "C",
+    "explanation": "Under the LSO Rules and By-Laws, only lawyers who have obtained formal LSO certified specialist designation may use the terms 'specialist' or 'certified specialist' in marketing materials. Using 'certified specialist' without LSO certification is misleading advertising under Rule 4.2-1 — it falsely implies formal accreditation the lawyer does not hold. Beyond the advertising breach, a lawyer who holds herself out as a specialist — whether or not formally certified — is held to the standard of care of a specialist when clients retain her on that basis. Nadia's 18 cases of experience do not reduce the standard of care she attracted by the representation. The breach arises from the marketing letter itself; financial loss to the client is not a prerequisite for a professional responsibility finding.",
+    "why_A_wrong": "Incorrect. This is an Understatement Trap. The breach is not limited to the advertising rules. A lawyer who holds out as a specialist attracts a specialist standard of care under the competence rules — her genuine experience does not cure the elevated obligation she created by the representation.",
+    "why_B_wrong": "Incorrect. This is a Pragmatic Bluff. The phrase 'certified specialist' in Ontario legal marketing has a specific regulated meaning — LSO accreditation. The sophistication of the audience does not transform a misleading claim into a permissible one. 'Specialist' is a controlled term.",
+    "why_C_wrong": "This IS the correct answer. Nadia has breached both the rules on specialist designation and the rules against misleading advertising; because she used the phrase 'certified specialist' without LSO certification, she has created a false impression of formal accreditation; additionally, a lawyer who holds herself out as a specialist is held to the standard of care of a specialist — her actual experience level does not reduce that obligation.",
+    "why_D_wrong": "Incorrect. This is a General Rule Trap. A professional responsibility breach for misleading advertising and unauthorized use of the specialist designation arises independently of whether the client suffered financial loss. The breach is in the conduct, not its financial consequences.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
       "chapter": "Chapter 2",
       "heading": "Competence and Quality of Service",
       "page": "N/A",
-      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2; LSO By-Laws — specialist certification; Rule 4.2-1 (misleading advertising)"
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.1-2 (competence); Rule 4.2-1 (misleading advertising); LSO By-Laws — certified specialist designation"
     },
     "pr_angle": {
       "applicable": true,
-      "pr_issue_type": "competence — specialist designation; misleading advertising"
+      "pr_issue_type": "competence — specialist designation; misleading advertising; elevated standard of care"
     },
     "exam_trigger_words": [
-      "specialist",
-      "certified",
+      "certified specialist",
+      "specialist designation",
+      "LSO certification",
       "holding out",
       "standard of care",
-      "marketing"
+      "misleading advertising"
     ],
     "tested_concepts": [
-      "LSO rules — 'specialist' designation requires formal LSO certification",
-      "unauthorized use of 'specialist' is misleading advertising",
-      "holding out as specialist creates higher standard of care obligation"
+      "only LSO-certified lawyers may use 'certified specialist' in marketing",
+      "unauthorized use of 'certified specialist' is misleading advertising under Rule 4.2-1",
+      "holding out as a specialist attracts specialist standard of care regardless of actual experience",
+      "professional responsibility breach does not require proof of client financial loss"
     ],
+    "updated_at": "2026-05-25",
     "estimated_time_seconds": 120
   }
 ]

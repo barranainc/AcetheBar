@@ -53,16 +53,18 @@
 
 ### Q5. How many are REWRITE?
 
-**43 total.**
+**43 total at audit time. 0 unresolved as of 2026-05-25 (Phase 2K-Improve-A).**
 
-| Pool | REWRITE |
-|------|--------:|
-| Exam C | 8 |
-| Exam D | 10 |
-| Exam E | 12 |
-| Exam F | 4 |
-| PR Drills | 9 |
-| **Total** | **43** |
+| Pool | REWRITE (audit) | Rewritten (Phase 2K-Improve-A) | Unresolved |
+|------|----------------:|-------------------------------:|-----------:|
+| Exam C | 8 | 8 | 0 |
+| Exam D | 10 | 10 | 0 |
+| Exam E | 12 | 12 | 0 |
+| Exam F | 4 | 4 | 0 |
+| PR Drills | 9 | 9 | 0 |
+| **Total** | **43** | **41 unique** | **0** |
+
+> Note: The backlog lists 43 rows but 41 unique question_ids (pub-03-baker-fair-001 and pr-04-wit-001 each appear twice as separate exam appearances). All 41 unique questions were rewritten. All 7 generated exam payloads were rebuilt and re-baked. See `docs/PHASE_2K_IMPROVE_A_REWRITE_LOG.md`.
 
 ---
 
@@ -450,13 +452,15 @@ Phase 2K-Improve is a focused quality-upgrade cycle targeting the 43 REWRITE and
 
 ### Milestones
 
-| Milestone | Target | Output |
-|-----------|--------|--------|
-| M1 — Legal flag resolution | Before any improvement work | Three legal flag questions resolved by qualified reviewer; status updated in GENERATED_EXAM_HUMAN_REVIEW_FLAGS.md |
-| M2 — Stage 1 REWRITEs complete | Week 4 | 16 replacement questions for highest-priority REWRITE items (anti_idx=2 cluster, no-equivalent-coverage cluster) |
-| M3 — Stage 2 REWRITEs complete | Week 8 | Remaining 27 REWRITE replacement questions written and passed rubric pre-check |
-| M4 — Top 50 IMPROVEs upgraded | Week 12 | 50 improved questions (distractor tightening, scenario upgrading, ethics integration additions) |
-| M5 — Re-bake and re-audit | Week 14+ | Exams E, D, C, F re-baked in priority order; PR Drill A/B reassignments updated; re-audit against rubric confirms target PASS rates |
+| Milestone | Target | Output | Status |
+|-----------|--------|--------|--------|
+| M1 — Legal flag resolution | Before any improvement work | Three legal flag questions resolved by qualified reviewer; status updated in GENERATED_EXAM_HUMAN_REVIEW_FLAGS.md | ⏳ Pending |
+| M2 — Stage 1 REWRITEs complete | Week 4 | 16 replacement questions for highest-priority REWRITE items (anti_idx=2 cluster, no-equivalent-coverage cluster) | ✅ 2026-05-25 |
+| M3 — Stage 2 REWRITEs complete | Week 8 | Remaining 27 REWRITE replacement questions written and passed rubric pre-check | ✅ 2026-05-25 |
+| M4 — Top 50 IMPROVEs upgraded | Week 12 | 50 improved questions (distractor tightening, scenario upgrading, ethics integration additions) | ⏳ Pending |
+| M5 — Re-bake and re-audit | Week 14+ | Exams E, D, C, F re-baked in priority order; PR Drill A/B reassignments updated; re-audit against rubric confirms target PASS rates | ⏳ Pending (payloads re-baked; re-audit not yet run) |
+
+> **Phase 2K-Improve-A (2026-05-25):** M2 and M3 completed together in a single parallel-agent session. All 41 unique REWRITE questions rewritten; all 7 generated exam payloads rebuilt and re-baked into index.html. `validation_status` unchanged on all questions. Re-audit (M5 re-audit component) is the next step before updating target PASS rate estimates.
 
 ### Target PASS rates after Phase 2K-Improve
 

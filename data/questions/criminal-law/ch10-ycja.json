@@ -8,22 +8,22 @@
     "topic_heading": "Youth Criminal Justice Act",
     "subtopic_id": "young_person_definition",
     "subtopic_heading": "YCJA — Who is a Young Person",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "A 17-year-old is arrested and charged with theft over $5,000. The question arises whether the Youth Criminal Justice Act applies to this accused.",
-    "call_of_question": "Under s. 2(1) of the Youth Criminal Justice Act, who qualifies as a 'young person' subject to the Act?",
+    "fact_pattern": "Marcus began committing a series of thefts from a convenience store at the age of 11 years and 10 months. He continued stealing on multiple occasions over the following three months. By the time the last theft occurred, Marcus had turned 12. He is now charged with all the thefts in a single information. The Crown takes the position that the YCJA applies to all charges; defence counsel argues it does not apply to the offences committed before Marcus turned 12.",
+    "call_of_question": "Under s. 2(1) of the Youth Criminal Justice Act, how should the court assess the YCJA's application to Marcus's charges?",
     "options": {
-      "A": "A person who is 12 years of age or older but under 16 years of age at the time the alleged offence was committed.",
-      "B": "A person who is 12 years of age or older but under 18 years of age at the time the alleged offence was committed.",
-      "C": "A person who is 14 years of age or older but under 18 years of age at the time the alleged offence was committed.",
-      "D": "A person who is under 18 years of age at the time of sentencing, regardless of age at the time of the offence."
+      "A": "The YCJA applies to all charges because Marcus was under 18 throughout, and the age threshold is assessed at the time of the information, not each individual offence.",
+      "B": "The YCJA applies only to offences committed on or after Marcus's 12th birthday; offences committed while he was under 12 cannot be prosecuted under any criminal law.",
+      "C": "The YCJA applies to all charges because, once a person meets the definition of 'young person' for any offence, the Act applies to all offences in the same proceeding.",
+      "D": "The YCJA does not apply to Marcus at all because he began the offending before he turned 12 and the charges arise from a continuous course of conduct."
     },
     "correct_answer": "B",
-    "explanation": "Section 2(1) of the Youth Criminal Justice Act, S.C. 2002, c. 1 defines 'young person' as a person who is or was, while being proceeded against under the Act, twelve years of age or older but under eighteen years of age. The Act applies based on age at the time the alleged offence was committed, not at the time of trial or sentencing. The minimum age of criminal responsibility in Canada is 12 years — a child under 12 cannot be charged with a criminal offence. A 17-year-old at the time of the offence is a 'young person' within the YCJA.",
-    "why_A_wrong": "The YCJA applies to persons 12 to under 18, not 12 to under 16. There is no upper age limit of 16 in the YCJA definition.",
-    "why_B_wrong": "This IS the correct answer. Under s. 2(1) of the YCJA, a young person is 12 years of age or older but under 18 years of age at the time the alleged offence was committed.",
-    "why_C_wrong": "The minimum age under the YCJA is 12, not 14. A 12- or 13-year-old can be charged under the YCJA. The age range is 12 to under 18.",
-    "why_D_wrong": "The relevant age is the age at the time the alleged offence was committed, not at the time of sentencing. If a person commits an offence while 17 but is sentenced at age 19, the YCJA still governs the proceedings (though adult sentences may be imposed in certain circumstances).",
+    "explanation": "Section 2(1) of the Youth Criminal Justice Act defines a 'young person' as a person who is twelve years of age or older but under eighteen years of age at the time of the alleged offence. The critical reference point is the age at the time each alleged offence was committed. A child under 12 is below the minimum age of criminal responsibility in Canada and cannot be charged with a criminal offence — neither under the YCJA nor under adult proceedings. Therefore, thefts committed while Marcus was 11 years and 10 months old cannot be prosecuted at all, as he lacked criminal capacity at that time. The YCJA applies only to the offences committed on or after his 12th birthday. Each charge must be assessed individually against the offender's age at the time of that particular offence.",
+    "why_A_wrong": "Wrong Timeline Trap. The YCJA's age threshold is assessed at the time of each individual offence, not at the time the information is laid. The fact that Marcus was under 18 throughout the entire period does not bring offences committed before his 12th birthday within the YCJA or any other criminal law.",
+    "why_B_wrong": "This IS the correct answer. The s. 2(1) definition requires that the person be 12 or older at the time of the alleged offence. Charges arising from conduct before Marcus turned 12 cannot be prosecuted criminally; only offences from his 12th birthday onward fall under the YCJA.",
+    "why_C_wrong": "General Rule Trap. There is no 'contamination' or 'once qualifying, always qualifying' rule under the YCJA. Each charge is assessed by reference to the accused's age at the time of that specific offence. Meeting the definition for one charge does not bring earlier charges (committed while under 12) within the YCJA.",
+    "why_D_wrong": "Overstatement Trap. The fact that Marcus was under 12 when some offences occurred does not deprive him of YCJA protection for the offences committed after he turned 12. The Act applies on a charge-by-charge basis. Offences committed after his 12th birthday are within the YCJA regardless of the earlier offending.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
@@ -40,21 +40,21 @@
       "young person",
       "YCJA",
       "12 years of age",
-      "under 18",
-      "definition",
-      "youth criminal justice"
+      "age at time of offence",
+      "minimum age of criminal responsibility",
+      "borderline age"
     ],
     "tested_concepts": [
-      "YCJA definition of young person",
-      "age 12 minimum",
-      "under 18 upper limit",
-      "age at time of offence"
+      "YCJA s. 2(1) definition of young person",
+      "age at time of offence — not at time of information",
+      "minimum age of criminal responsibility — under 12 cannot be charged",
+      "charge-by-charge age assessment"
     ],
-    "estimated_time_seconds": 60,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-10-ycja-ejm-001",

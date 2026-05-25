@@ -1453,29 +1453,29 @@
     "topic_heading": "Charter Rights on Arrest and Detention",
     "subtopic_id": "search_warrant_issuance",
     "subtopic_heading": "Search Warrant Issuance — s. 487 Criminal Code",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "Police are investigating a suspected drug trafficking operation. A detective prepares a sworn document describing her grounds for believing that controlled substances and cash proceeds will be found at a specific residential address. She attends before a judicial officer to obtain authority to search the premises.",
-    "call_of_question": "Under s. 487 of the Criminal Code, who has jurisdiction to issue a search warrant for a residential dwelling?",
+    "fact_pattern": "Detective Rowan is investigating a suspected fraud. She has reasonable grounds to believe that business records evidencing the fraud will be found at a commercial office located three hours away from the nearest courthouse. It is 11:00 p.m. on a Thursday. Detective Rowan has confirmed that no justice of the peace is available at the courthouse at that hour, but she can reach one by telephone. The matter is time-sensitive because she has information that the records may be shredded by morning. Defence counsel, reviewing the warrant after the fact, argues that a warrant obtained by telephone is constitutionally invalid and the search was unlawful.",
+    "call_of_question": "Under the Criminal Code, was the search warrant validly obtained in these circumstances?",
     "options": {
-      "A": "Only a Superior Court judge.",
-      "B": "A justice of the peace or a judge.",
-      "C": "Any peace officer of the rank of sergeant or above.",
-      "D": "A justice of the peace only, not a judge."
+      "A": "No — a search warrant under s. 487 must be obtained in person before a justice; a warrant obtained by telephone has no legal basis and the search is unlawful.",
+      "B": "Yes — s. 487.1 of the Criminal Code provides that a peace officer may apply for a search warrant by telephone or other means of telecommunication if it is impracticable to appear personally before a justice; the requirements of s. 487 must still be met.",
+      "C": "Yes — a peace officer with reasonable grounds to believe that urgent circumstances exist may conduct the search without a warrant; after-the-fact review by a justice cures any defect.",
+      "D": "No — s. 487.1 telewarrants are available only for drug offences; a telewarrant for documents related to fraud is not authorized under the Criminal Code."
     },
     "correct_answer": "B",
-    "explanation": "Section 487(1) of the Criminal Code authorizes a justice (which includes both a justice of the peace and a judge per the Code's definition) to issue a search warrant. The applicant must satisfy the justice on reasonable grounds to believe: (a) an offence has been or is suspected of having been committed; (b) evidence of the offence, or something that will afford evidence, will be found at the place; and (c) the thing sought will afford evidence. Justices of the peace routinely issue search warrants; superior court judges may also do so.",
-    "why_A_wrong": "While a Superior Court judge may issue a search warrant, restricting the power to judges alone is incorrect. Section 487(1) uses the term 'justice,' which includes justices of the peace. Most search warrants are issued by justices of the peace.",
-    "why_B_wrong": "This IS the correct answer. Section 487(1) authorizes a justice — which includes both a justice of the peace and a judge — to issue a search warrant.",
-    "why_C_wrong": "Peace officers have no authority to issue search warrants. They may apply for warrants but cannot issue them. The issuing authority must be a justice (a justice of the peace or a judge), who is independent of the investigative process.",
-    "why_D_wrong": "The Criminal Code defines 'justice' to include both justices of the peace and judges. Either may issue a s. 487 search warrant. The restriction to justices of the peace alone is incorrect.",
+    "explanation": "Section 487.1 of the Criminal Code expressly authorizes a peace officer to apply for a search warrant by telephone or other means of telecommunication when it would be impracticable to appear personally before a justice. The justice must be satisfied that the application discloses reasonable grounds to believe the things sought will be found and will afford evidence of the offence. The substantive requirements of s. 487 still apply — the telewarrant mechanism only alters the procedural means of making the application. The conditions here — distance, unavailability of a justice in person, time sensitivity — are exactly what s. 487.1 was designed to address. The resulting warrant is legally valid.",
+    "why_A_wrong": "Exception Trap. Section 487.1 expressly creates an exception to in-person application where it is impracticable to attend personally before a justice. The assumption that a warrant must always be obtained in person is incorrect; the Criminal Code provides a telewarrant mechanism for precisely these circumstances.",
+    "why_B_wrong": "This IS the correct answer. Section 487.1 permits telewarrant applications where attending personally is impracticable, provided the substantive s. 487 grounds are met.",
+    "why_C_wrong": "Premature Escalation Trap. A warrantless search is not authorized simply because circumstances are urgent. The Criminal Code provides the telewarrant mechanism under s. 487.1 as the appropriate route when time is short and in-person attendance is impracticable. A peace officer may not bypass the warrant requirement on the basis of urgency alone in these circumstances.",
+    "why_D_wrong": "Overstatement Trap. Section 487.1 is not limited to drug offences. The telewarrant provision applies broadly to search warrant applications under s. 487 and is not restricted by offence type. Any investigation that meets the s. 487 grounds may proceed by telewarrant when in-person attendance is impracticable.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
       "chapter": "Chapter 2: Charter Rights — Arrest, Detention, and Search",
-      "heading": "Search Warrant Issuance — s. 487",
+      "heading": "Search Warrant Issuance — s. 487 and s. 487.1 Telewarrant",
       "page": "N/A",
-      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 487(1); Interpretation Act definition of 'justice'"
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 487(1); s. 487.1"
     },
     "pr_angle": {
       "applicable": false,
@@ -1484,20 +1484,22 @@
     "exam_trigger_words": [
       "search warrant",
       "s. 487",
-      "justice of the peace",
-      "who can issue",
-      "residential dwelling"
+      "s. 487.1",
+      "telewarrant",
+      "impracticable to appear",
+      "telephone warrant"
     ],
     "tested_concepts": [
-      "s. 487 search warrant issuance authority",
-      "definition of justice",
-      "judicial independence in warrant issuance"
+      "s. 487 search warrant requirements",
+      "s. 487.1 telewarrant procedure",
+      "when telewarrant is available",
+      "impracticability standard"
     ],
-    "estimated_time_seconds": 60,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-02-sw-issu-002",

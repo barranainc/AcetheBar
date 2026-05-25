@@ -727,42 +727,51 @@
     "chapter_title": "Fees, Billing, and Financial Dealings with Clients",
     "topic_id": "fees_billing",
     "topic_heading": "Fees and Disbursements — Rule 3.6",
-    "subtopic_id": "fee_splitting",
-    "subtopic_heading": "Fee Splitting with Non-Lawyers — Prohibition",
-    "difficulty": "easy",
-    "fact_pattern": "Lawyer Cedric runs a busy personal injury practice. He has an informal arrangement with his office manager, who is not a lawyer or paralegal, whereby the office manager receives 5% of the fee from any client the office manager personally recruited for the firm. Cedric views this as a performance bonus tied to business development results.",
-    "call_of_question": "Is Cedric's fee-sharing arrangement with his office manager permissible under the Rules of Professional Conduct?",
+    "subtopic_id": "referral_fee_conditions",
+    "subtopic_heading": "Referral Fee from Paralegal Colleague — Permissibility and Required Conditions",
+    "difficulty": "medium",
+    "fact_pattern": "Lawyer Petra practises civil litigation. A paralegal colleague, Marco, who handles Small Claims Court matters, refers a client to Petra for a Superior Court proceeding that exceeds his jurisdiction. Petra completes the file successfully and invoices the client $6,000. After closing, Petra sends Marco a $200 cheque with a note reading 'Thanks for thinking of me — appreciate the relationship.' The client was never told about the payment. Petra believes the payment is a personal gesture of appreciation, not a referral fee.",
+    "call_of_question": "Is Petra's $200 payment to Marco permissible under Rule 3.6-6, and if not, what conditions would have been required?",
     "options": {
-      "A": "Yes — sharing a percentage of fees with a non-lawyer employee is permissible as a performance incentive as long as it is called a 'bonus' rather than a 'fee split.'",
-      "B": "No — sharing legal fees with a non-licensee, even under the label of a 'bonus,' is prohibited under the Rules of Professional Conduct; a fee share tied to specific legal fees earned from clients the employee recruits is a prohibited fee split with a non-lawyer.",
-      "C": "Yes — an office manager is an employee of the firm and may receive a percentage of fees as compensation.",
-      "D": "No — but only because the 5% share exceeds the maximum permitted non-lawyer bonus under By-Law 9."
+      "A": "Yes — a nominal thank-you payment between colleagues is a professional courtesy and is not captured by the referral fee rules; Rule 3.6-6 applies only to formal referral arrangements disclosed in retainer agreements.",
+      "B": "Yes — referral fees to paralegal licensees are expressly permitted because paralegals are LSO licensees; no disclosure to the client is required.",
+      "C": "No — a payment made to a referral source because of a client referral is a referral fee regardless of how it is characterized; a referral fee is permissible only if it is fair and reasonable, does not increase the total fee charged to the client, and is disclosed to and consented to by the client; Petra's payment fails because the client was never told.",
+      "D": "No — referral fees to paralegal licensees are entirely prohibited under Rule 3.6-6; no payment of any kind may be made to a paralegal in exchange for a client referral."
     },
-    "correct_answer": "B",
-    "explanation": "The Rules of Professional Conduct prohibit sharing legal fees with non-licensees. The prohibition extends beyond arrangements expressly called 'fee splits' — it applies whenever a non-lawyer receives compensation calculated as a share of specific legal fees earned from particular client files. Calling the payment a 'bonus' does not change its character if it is in fact a percentage of legal fees tied to specific files or clients the employee brought in. An office manager may receive a salary, benefits, and discretionary performance bonuses tied to general business success, but may not receive a percentage of the legal fees earned from specific client files.",
-    "why_A_wrong": "Incorrect. The label applied to the payment does not determine its character. A payment calculated as a percentage of specific legal fees earned from files the employee recruited is a prohibited fee split regardless of what it is called.",
-    "why_B_wrong": "This IS the correct answer. No — sharing legal fees with a non-licensee, even under the label of a 'bonus,' is prohibited under the Rules of Professional Conduct; a fee share tied to specific legal fees earned from clients the employee recruits is a prohibited fee split with a non-lawyer.",
-    "why_C_wrong": "Incorrect. Employee status does not make fee splitting permissible. Non-lawyer employees may receive salary and discretionary bonuses but not a percentage of specific legal fees.",
-    "why_D_wrong": "Incorrect. There is no By-Law 9 maximum for non-lawyer bonuses because such percentage arrangements with non-licensees are prohibited altogether, not merely capped.",
+    "correct_answer": "C",
+    "explanation": "Under Rule 3.6-6, a referral fee arrangement is one where a lawyer pays another licensee or person as a result of the referral of a client. The characterization the lawyer applies to the payment — 'thank you,' 'gift,' 'appreciation' — does not determine its legal character. If the payment is made because Marco referred a client, it is a referral fee. Rule 3.6-6 permits referral fees between licensees provided three conditions are all met: (1) the fee is fair and reasonable; (2) the fee does not increase the total amount charged to the client; and (3) the client is informed of and consents to the referral fee arrangement. Petra's payment fails the disclosure and consent condition — the client was never told. The payment to a fellow licensee (paralegal) is not categorically prohibited; it is conditionally permissible. Calling the payment a 'thank you' is a Pragmatic Bluff that does not alter the analysis.",
+    "why_A_wrong": "Incorrect. This is a Pragmatic Bluff. The label 'thank you' or 'professional courtesy' does not take a payment outside the referral fee rules. The substance of the arrangement controls: if the payment is made because of the referral, Rule 3.6-6 applies. The rule is not limited to formally documented referral arrangements.",
+    "why_B_wrong": "Incorrect. This is a General Rule Trap. While referral fees to paralegal licensees are conditionally permissible (unlike payments to non-licensees), they are not automatically permissible without disclosure. Client disclosure and consent are mandatory conditions regardless of the payee's licensee status.",
+    "why_C_wrong": "This IS the correct answer. No — a payment made to a referral source because of a client referral is a referral fee regardless of how it is characterized; a referral fee is permissible only if it is fair and reasonable, does not increase the total fee charged to the client, and is disclosed to and consented to by the client; Petra's payment fails because the client was never told.",
+    "why_D_wrong": "Incorrect. This is an Overstatement Trap. Referral fees to paralegal licensees are not categorically prohibited. Payments to fellow licensees (as opposed to non-licensees) are conditionally permissible under Rule 3.6-6 if the three required conditions are satisfied.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
       "chapter": "Chapter 5",
       "heading": "Fees, Billing, and Financial Dealings with Clients",
       "page": "N/A",
-      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.6-6 (fee splitting — prohibition with non-licensees)"
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.6-6 (referral fees — conditions for permissibility)"
     },
     "pr_angle": {
       "applicable": true,
-      "pr_issue_type": "fee splitting — prohibited with non-licensees"
+      "pr_issue_type": "referral fee — characterization as 'thank you'; permissibility conditions; client disclosure required"
     },
-    "exam_trigger_words": ["fee splitting", "non-lawyer", "non-licensee", "office manager", "prohibited fee share"],
-    "tested_concepts": [
-      "Rule 3.6-6 — fee splitting with non-licensees is prohibited",
-      "labelling a fee split as a 'bonus' does not cure prohibition",
-      "percentage of specific legal fees to non-lawyer employee is prohibited"
+    "exam_trigger_words": [
+      "referral fee",
+      "thank-you payment",
+      "fee splitting",
+      "paralegal referral",
+      "client disclosure",
+      "Rule 3.6-6"
     ],
-    "estimated_time_seconds": 90
+    "tested_concepts": [
+      "Rule 3.6-6 — referral fee label does not control — substance of arrangement governs",
+      "referral fee conditions: fair and reasonable; does not increase client's total fee; client disclosure and consent",
+      "referral fees to paralegal licensees are conditionally permissible, not categorically prohibited",
+      "client disclosure and consent are mandatory — 'thank you' characterization is a Pragmatic Bluff"
+    ],
+    "updated_at": "2026-05-25",
+    "estimated_time_seconds": 120
   },
   {
     "subject": "professional_responsibility",

@@ -282,28 +282,28 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23",
+    "updated_at": "2026-05-25",
     "chapter_number": 3,
     "chapter_title": "Net Family Property and Equalization",
     "topic_id": "nfp_equalization",
     "topic_heading": "Net Family Property and Equalization Payment",
     "subtopic_id": "deductions_at_marriage",
     "subtopic_heading": "Property Owned at Date of Marriage — Deduction",
-    "difficulty": "easy",
-    "fact_pattern": "A husband and wife are calculating their respective NFPs on separation. Both owned property at the date of marriage. The husband asks why the FLA allows a deduction for property owned at the date of marriage.",
-    "call_of_question": "What is the purpose of the marriage-date deduction in the NFP formula?",
+    "difficulty": "medium",
+    "fact_pattern": "On the valuation date, the wife claims a marriage-date deduction under FLA s.4(1)(b) for a $120,000 investment portfolio she held at the date of marriage. The husband contests the deduction, arguing that the portfolio has since been blended with joint marital savings accounts, the proceeds reinvested multiple times, and that the wife cannot demonstrate the current assets are traceable to the original portfolio. The wife argues the deduction is available as long as she held the asset at marriage, regardless of later transformation.",
+    "call_of_question": "How should the court resolve the dispute over the wife's marriage-date deduction?",
     "options": {
-      "A": "To penalize spouses who entered the marriage with greater wealth.",
-      "B": "To ensure that only wealth accumulated during the marriage is subject to equalization on breakdown, not pre-marital assets.",
-      "C": "To ensure both spouses have equal NFP at the end of the marriage.",
-      "D": "To prevent the non-owning spouse from making any claim against property owned before the marriage date."
+      "A": "The wife is entitled to the full $120,000 deduction because FLA s.4(1)(b) requires only that she prove the asset existed at the date of marriage; subsequent transformation is irrelevant to the deduction.",
+      "B": "The wife loses the deduction entirely because the original portfolio was blended with joint funds; the deduction is forfeited whenever an asset is commingled with marital property during the marriage.",
+      "C": "The marriage-date deduction under FLA s.4(1)(b) is available for the value of property owned at the date of marriage; the deduction is based on the value at marriage, not the current form of the asset — but where the asset is so thoroughly commingled that its identity and traceability to the date-of-marriage asset cannot be established, the court may reduce or disallow the deduction.",
+      "D": "No marriage-date deduction is available for investment portfolios; the deduction under FLA s.4(1)(b) applies only to real property."
     },
-    "correct_answer": "B",
-    "explanation": "The marriage-date deduction reflects the legislative intent that equalization should share only the wealth accumulated during the marriage through the combined efforts and shared life of the spouses. Property owned before the marriage represents the individual wealth each spouse brought in, which is not intended to be shared through the equalization regime.",
-    "why_A_wrong": "The deduction has no punitive purpose. It equally reduces the NFP of any spouse who owned property at marriage, regardless of their relative wealth.",
-    "why_B_wrong": "This IS the correct answer. The deduction ensures equalization captures only marital accumulation, not pre-marital wealth.",
-    "why_C_wrong": "The deduction does not equalize the spouses' NFPs; it reduces each spouse's NFP by their own pre-marital property. The resulting NFPs will differ if marital accumulations differ.",
-    "why_D_wrong": "The non-owning spouse has no claim against the other's pre-marital property in any case. The deduction operates within the NFP formula to reduce the equalization base; it is not a bar to claims.",
+    "correct_answer": "C",
+    "explanation": "Under FLA s.4(1)(b), each spouse deducts from their NFP the value of property owned at the date of marriage, after deducting any debts related to that property. The deduction is fixed at the marriage-date value, not the current value, and reflects the legislative intent that pre-marital wealth should not be subject to equalization. However, where an asset claimed as a marriage-date asset has been so thoroughly commingled with joint or marital assets that its identity cannot be traced — its provenance obscured through repeated reinvestment and blending — the court retains discretion to reduce or disallow the deduction to the extent the claimed value cannot be attributed to the original pre-marital asset. The correct approach is neither automatic entitlement nor automatic forfeiture, but a traceability analysis.",
+    "why_A_wrong": "General Rule Trap. While FLA s.4(1)(b) does not require the original asset to survive in its original form, the deduction is not absolute when the asset has been so thoroughly commingled that traceability is lost. The wife must be able to establish that what she is claiming as the marriage-date asset can be traced back to property held at marriage.",
+    "why_B_wrong": "Overstatement Trap. Commingling does not automatically forfeit the marriage-date deduction. Some degree of transformation or reinvestment is consistent with retaining the deduction if the spouse can establish the lineage of the asset back to the marriage date. Forfeiture is not the automatic rule.",
+    "why_C_wrong": "This IS the correct answer. FLA s.4(1)(b) provides the deduction at marriage-date value; the traceability of the asset through subsequent transformations governs whether the deduction survives; courts examine whether the claimed asset can be identified as the evolution of the marriage-date property.",
+    "why_D_wrong": "Exception Trap. The FLA s.4(1)(b) marriage-date deduction applies to all property owned at the date of marriage — including investment portfolios, savings accounts, and personal property — not only real property.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Family Law",
@@ -318,15 +318,19 @@
     },
     "exam_trigger_words": [
       "marriage-date deduction",
-      "purpose",
-      "equalization",
-      "pre-marital assets"
+      "traceability",
+      "commingled",
+      "FLA s.4(1)(b)",
+      "valuation date",
+      "NFP dispute"
     ],
     "tested_concepts": [
-      "purpose of marriage-date deduction",
-      "equalization of marital accumulation"
+      "FLA s.4(1)(b) marriage-date deduction",
+      "traceability requirement for commingled assets",
+      "deduction fixed at marriage-date value",
+      "application of deduction rationale to contested facts"
     ],
-    "estimated_time_seconds": 90
+    "estimated_time_seconds": 120
   },
   {
     "id": "fam-03-deduct-marr-002",

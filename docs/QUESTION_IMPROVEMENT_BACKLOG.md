@@ -21,7 +21,26 @@ These questions carry unresolved legal flags. No psychometric work should be don
 
 ---
 
-## Priority 1 — Rewrite
+## Priority 1 — Rewrite ✅ RESOLVED — Phase 2K-Improve-A (2026-05-25)
+
+All 41 unique REWRITE items below were rewritten in Phase 2K-Improve-A. See `docs/PHASE_2K_IMPROVE_A_REWRITE_LOG.md` for per-question change notes and payload rebuild summary.
+
+**Resolution summary:**
+
+| Subject | Questions rewritten | Correct answer changed |
+|---|---|---|
+| Civil Litigation | 8 | 6 |
+| Criminal Law | 9 | 2 (letter renumbering only) |
+| Family Law | 6 | 2 |
+| Public Law | 10 | 1 (letter renumbering only) |
+| Professional Responsibility | 8 | 1 |
+| **Total** | **41** | **~12** |
+
+All 7 generated exam payloads (barc, bard, bare, barf, prdra, prdrb, prb200) were rebuilt from existing manifest `question_ids_used` and re-baked into index.html. `validation_status` was not changed on any question. Validation: 963 questions, 0 errors; all integrity checks pass.
+
+> Note: The backlog lists 43 rows but 41 unique question_ids (pub-03-baker-fair-001 and pr-04-wit-001 each appear twice). All 41 unique items are resolved.
+
+---
 
 All questions with REWRITE verdict across the five audits. These should be redesigned before the next quality review cycle. Each currently fails to generate genuine application demand: the correct answer is accessible without applying the tested rule to distinguishing facts, and/or one or more distractors are obviously wrong to any prepared candidate.
 

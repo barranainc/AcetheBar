@@ -8,29 +8,29 @@
     "topic_heading": "Crown Duty to Disclose",
     "subtopic_id": "stinchcombe_obligations",
     "subtopic_heading": "Crown Duty to Disclose — Stinchcombe Principles",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "The Crown has obtained a signed statement from a witness who says the accused was definitely not at the location where the crime was committed. Crown has decided not to call this witness at trial and has not provided the statement to defence.",
-    "call_of_question": "Is Crown required to disclose this exculpatory witness statement to defence?",
+    "fact_pattern": "During an investigation into an organized drug trafficking network, police obtained wiretap authorizations. Several intercepted communications were recorded between the accused and an unidentified caller. The Crown holds a confidential informer tip that corroborated the wiretap evidence, but the informer's identity is unknown to defence. Defence requests full disclosure of all wiretap-related materials and the identity of any informer whose information was used to obtain the authorizations. Crown refuses to disclose the informer's identity, relying on informer privilege, but does not dispute that the tip was used to support the wiretap application.",
+    "call_of_question": "Under the Stinchcombe disclosure framework, which of the following most accurately describes Crown's disclosure obligations in this situation?",
     "options": {
-      "A": "No — the Crown need only disclose evidence it intends to introduce at trial.",
-      "B": "Yes — under R v Stinchcombe, the Crown must disclose all relevant information regardless of whether it intends to use it at trial, including exculpatory evidence that may assist the defence.",
-      "C": "Only if defence specifically requests the statement in a disclosure application.",
-      "D": "No — a witness statement favourable to the accused is protected by litigation privilege."
+      "A": "Crown must disclose everything, including the informer's identity, because the Stinchcombe duty is absolute and no exceptions exist for information used to obtain a wiretap authorization.",
+      "B": "Crown's Stinchcombe duty applies to the wiretap materials, but informer privilege is a recognized exception — Crown may withhold the informer's identity while disclosing other relevant wiretap-related information.",
+      "C": "Crown need not disclose any wiretap-related materials unless defence files a formal O'Connor application for third-party disclosure.",
+      "D": "Wiretap authorizations and related materials are protected from disclosure under the principle of derivative privilege; Crown's only obligation is to disclose the resulting intercepted communications."
     },
     "correct_answer": "B",
-    "explanation": "R v Stinchcombe [1991] 3 SCR 326 established the foundational rule that the Crown must disclose all relevant information in its possession — whether inculpatory or exculpatory — to the defence. The obligation is not limited to evidence Crown intends to use at trial. An exculpatory alibi witness statement is precisely the kind of evidence that must be disclosed because it may assist the accused in making a full answer and defence, as guaranteed by s. 7 of the Charter.",
-    "why_A_wrong": "Stinchcombe explicitly rejected limiting disclosure to evidence Crown plans to use. The duty extends to all relevant information, regardless of Crown's intended use.",
-    "why_B_wrong": "This IS the correct answer. Yes — under R v Stinchcombe, the Crown must disclose all relevant information regardless of whether it intends to use it at trial, including exculpatory evidence that may assist the defence.",
-    "why_C_wrong": "Stinchcombe imposes an affirmative and ongoing duty on Crown to disclose relevant material. Defence need not make a specific application for each item; the duty is proactive, not demand-driven.",
-    "why_D_wrong": "Litigation privilege does not shield exculpatory evidence from Stinchcombe disclosure. The duty to make full answer and defence overrides any such claim in the context of relevant evidence.",
+    "explanation": "R v Stinchcombe [1991] 3 SCR 326 establishes that the Crown must disclose all relevant information — whether inculpatory or exculpatory — in its possession. The duty extends to wiretap-related materials, including the Information to Obtain (ITO) used to secure the authorization. However, informer privilege is a recognized exception to Stinchcombe disclosure: the Crown is entitled — and in fact obligated — to protect the identity of a confidential informer. Where the informer's identity is at the core of the disclosure request, the court applies a balancing process; if innocence is at stake, the privilege may yield, but in the ordinary case informer privilege overrides the general Stinchcombe disclosure duty. Crown must disclose the other relevant wiretap materials while withholding the informer's identity.",
+    "why_A_wrong": "General Rule Trap. Stinchcombe is not absolute — informer privilege is a well-established exception recognized in Stinchcombe itself and subsequent cases. The Crown has a concurrent obligation to protect the identity of its confidential informers, which prevails over the general disclosure duty absent a finding that innocence is at stake.",
+    "why_B_wrong": "This IS the correct answer. Stinchcombe applies to wiretap materials broadly, but informer privilege is an established exception permitting Crown to withhold the informer's identity while disclosing the remaining relevant material.",
+    "why_C_wrong": "Wrong Procedure Trap. The O'Connor framework governs production of third-party records held by parties outside the Crown (such as private counselling records). It does not apply to disclosure of Crown-held materials. Wiretap-related materials in Crown's possession fall under the Stinchcombe disclosure duty, not the O'Connor application process.",
+    "why_D_wrong": "Misapplied Tool. There is no general 'derivative privilege' that shields all wiretap application materials from disclosure. Wiretap ITOs and related Crown-held materials are subject to Stinchcombe disclosure (subject to applicable exceptions such as informer privilege or the sealing order process under s. 187 of the Criminal Code). Intercepted communications are themselves disclosable — not the ceiling of Crown's obligation.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
       "chapter": "Chapter 4: Disclosure",
       "heading": "Crown Duty to Disclose — Stinchcombe Principles",
       "page": "N/A",
-      "rule_or_statute_reference": "R v Stinchcombe, [1991] 3 SCR 326; Canadian Charter of Rights and Freedoms, s. 7"
+      "rule_or_statute_reference": "R v Stinchcombe, [1991] 3 SCR 326; Canadian Charter of Rights and Freedoms, s. 7; Criminal Code, R.S.C. 1985, c. C-46, s. 187"
     },
     "pr_angle": {
       "applicable": false,
@@ -39,20 +39,22 @@
     "exam_trigger_words": [
       "Stinchcombe",
       "disclosure",
-      "exculpatory",
-      "all relevant information",
+      "informer privilege",
+      "wiretap",
+      "exception to disclosure",
       "Crown duty"
     ],
     "tested_concepts": [
       "Stinchcombe disclosure duty",
-      "exculpatory evidence",
-      "all relevant information"
+      "informer privilege as exception to disclosure",
+      "wiretap materials and disclosure",
+      "limits of Stinchcombe obligation"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-04-stinch-002",
@@ -498,22 +500,22 @@
     "topic_heading": "Crown Duty to Disclose",
     "subtopic_id": "timing_disclosure",
     "subtopic_heading": "Timing of Disclosure — Before Election and Plea",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "Oliver is charged with break and enter. At his first appearance, the Crown provides him with a one-page synopsis rather than full disclosure. The Crown explains that the full disclosure package will be ready in three weeks, by which time Oliver will already have been required to make his election. Oliver's lawyer objects that the election should be postponed until full disclosure is provided.",
-    "call_of_question": "Under the Stinchcombe duty to disclose, is defence counsel's objection legally sound?",
+    "fact_pattern": "Priya is charged with fraud over $5,000. She is a sophisticated litigant who spent several years working in financial compliance. At her first court appearance, the Crown provides a comprehensive disclosure package covering all known evidence. Three weeks before the scheduled election date, Crown obtains forensic accounting records from a third-party bank that significantly strengthen its case. Crown discloses these records to defence two days before the election date. Defence counsel immediately seeks an adjournment of the election, arguing that two days is insufficient time to meaningfully review the new materials and that the timing violates Stinchcombe.",
+    "call_of_question": "Under the Stinchcombe framework for timing of disclosure, which of the following most accurately describes the Crown's obligations in this situation?",
     "options": {
-      "A": "No — the election must proceed on the scheduled date regardless of whether full disclosure has been provided; disclosure is a separate process.",
-      "B": "Yes — Stinchcombe requires that initial disclosure be made before the accused is required to elect the mode of trial; requiring election before disclosure violates the right to make full answer and defence.",
-      "C": "No — a synopsis is sufficient disclosure for the purpose of election; full production may follow later.",
-      "D": "Yes — but only if the charge is a serious indictable offence; for minor offences the election may proceed without disclosure."
+      "A": "The Crown has no obligation to disclose evidence obtained after the initial disclosure package is provided; only the initial disclosure must precede the election.",
+      "B": "The Crown's disclosure obligation is continuing — newly obtained relevant evidence must be disclosed promptly; where late disclosure prejudices the accused's ability to make an informed election, an adjournment is the appropriate remedy.",
+      "C": "The Crown has fully discharged its Stinchcombe obligation by providing initial disclosure before the election; there is no duty to provide further materials even if new evidence is obtained before trial.",
+      "D": "The Crown's obligation to disclose newly obtained evidence arises only after the election is made; disclosure before election applies only to evidence in Crown's possession at the time of the first appearance."
     },
     "correct_answer": "B",
-    "explanation": "In R. v. Stinchcombe, [1991] 3 SCR 326, the Supreme Court held that the duty to disclose must be complied with before the accused is required to elect the mode of trial or enter a plea. The rationale is that the accused cannot meaningfully decide whether to elect a jury trial, a judge-alone trial, or a preliminary inquiry — and cannot make a fully informed guilty plea — without knowing what evidence the Crown holds. Providing only a synopsis and requiring election before full disclosure violates the Stinchcombe obligation. The appropriate remedy would be an adjournment of the election until initial disclosure is complete.",
-    "why_A_wrong": "Stinchcombe is explicit that disclosure must precede the election. Proceeding to election before disclosure would deprive the accused of the ability to make an informed decision about mode of trial, violating s. 7 of the Charter.",
-    "why_B_wrong": "This IS the correct answer. Stinchcombe requires initial disclosure before election or plea. Defence counsel's objection is legally sound and the election should be postponed until full disclosure is provided.",
-    "why_C_wrong": "A synopsis is not equivalent to full initial disclosure for the purpose of satisfying the Stinchcombe timing requirement. A synopsis does not give the accused sufficient information to make an informed election or plea.",
-    "why_D_wrong": "The Stinchcombe timing requirement — disclosure before election — applies to all criminal charges regardless of seriousness. There is no exception for minor indictable offences. The right to make full answer and defence applies across the board.",
+    "explanation": "Stinchcombe establishes that the Crown's duty to disclose is both initial and continuing. The initial duty requires disclosure before election or plea; the continuing duty requires prompt disclosure of any additional relevant materials that come into Crown's possession at any stage. When Crown obtains forensic records three weeks before election but discloses them only two days before, the question is whether the accused had adequate time to review them and make an informed election. The appropriate remedy where late disclosure in the continuing duty cycle prejudices the election is an adjournment, not a stay. Two days to review complex financial forensic records for a fraud charge — while potentially sufficient in some cases — may be inadequate depending on the volume and complexity of the material, and defence counsel's adjournment request engages the Stinchcombe continuing duty analysis.",
+    "why_A_wrong": "General Rule Trap. Stinchcombe explicitly imposes a continuing obligation — the duty does not expire after initial disclosure. Crown must disclose newly obtained relevant evidence promptly throughout the proceedings. Limiting disclosure to the initial package is incorrect.",
+    "why_B_wrong": "This IS the correct answer. The Stinchcombe duty is continuing; newly obtained evidence must be disclosed promptly. Where late disclosure prejudices the accused's ability to make a meaningful election, an adjournment addresses the prejudice without requiring a more drastic remedy.",
+    "why_C_wrong": "Overstatement Trap. Initial disclosure before election satisfies only the initial limb of the Stinchcombe obligation. The continuing duty survives the election and requires ongoing timely disclosure of newly acquired evidence throughout the proceeding. The Crown cannot stop disclosing after the election is made.",
+    "why_D_wrong": "Wrong Timeline Trap. The continuing Stinchcombe duty applies throughout the proceedings — before and after election. Newly acquired evidence must be disclosed promptly regardless of where the parties are in the proceeding. Restricting the pre-election disclosure obligation to evidence held at the time of the first appearance misconstrues the continuing nature of the duty.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
@@ -526,13 +528,13 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["timing of disclosure", "before election", "Stinchcombe", "synopsis insufficient", "adjournment of election"],
-    "tested_concepts": ["Stinchcombe timing — before election and plea", "synopsis insufficient for election", "adjournment as remedy", "s. 7 right to full answer and defence"],
+    "exam_trigger_words": ["timing of disclosure", "continuing duty", "Stinchcombe", "newly obtained evidence", "adjournment", "pre-election disclosure"],
+    "tested_concepts": ["Stinchcombe continuing duty to disclose", "newly obtained evidence and timely disclosure", "adjournment as remedy for late disclosure", "initial vs continuing Stinchcombe obligation"],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-04-remedy-001",

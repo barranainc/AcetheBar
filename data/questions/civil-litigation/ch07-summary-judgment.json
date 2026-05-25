@@ -671,49 +671,49 @@
     "subtopic_heading": "Partial Summary Judgment",
     "difficulty": "exam_trap",
     "question_type": "single_best_answer",
-    "fact_pattern": "Tanaka Leasing Corp. sues Bruneau Auto Group Ltd. on a claim involving a disputed equipment lease. Bruneau cross-claims against its co-defendant Patel Logistics Inc. for contribution. Tanaka moves for partial summary judgment solely against Bruneau on the issue of Bruneau's liability under the lease, while agreeing that damages and the cross-claim between Bruneau and Patel will proceed to trial. Bruneau's counsel advises the client that partial summary judgment is inappropriate in Ontario because the rule requires summary judgment to resolve the entire action.",
-    "call_of_question": "Is Bruneau's counsel correct that summary judgment must always dispose of the entire action?",
+    "fact_pattern": "Sorrento Foods Ltd. sues both Wexford Refrigeration Inc. (the equipment supplier) and Bergkamp Transport Corp. (the carrier) for losses arising from a spoiled shipment. Sorrento moves for partial summary judgment against Wexford alone on the issue of whether the refrigeration unit was defective at delivery — a question the motion judge can resolve on the affidavit record. However, Wexford argues that its liability is inextricably intertwined with Bergkamp's because the spoilage may have resulted from Bergkamp's handling after delivery. Sorrento counters that the defect question is a discrete, self-contained issue. The motion judge must decide whether to grant partial summary judgment on the defect issue or dismiss the motion on intertwinement grounds.",
+    "call_of_question": "Under r. 20.04(3) of the Rules of Civil Procedure and the Hryniak framework, which factor is most decisive in determining whether partial summary judgment should be granted on the defect issue alone?",
     "options": {
-      "A": "Yes — Ontario courts have consistently held that summary judgment must resolve every claim and every party or it cannot be granted.",
-      "B": "Yes — where there is a cross-claim outstanding between co-defendants, no summary judgment of any kind may be granted until the cross-claim is also resolved.",
-      "C": "No — r. 20.04(3) of the Rules of Civil Procedure expressly authorises the court to grant summary judgment on some claims or against some parties, directing a trial on the remainder; partial summary judgment on Bruneau's liability is legally available, subject to the court's discretion.",
-      "D": "No — but the court may only grant partial summary judgment if Tanaka discontinues its claim against Patel Logistics before the motion is heard."
+      "A": "Whether resolving the defect issue on a partial basis would create a risk of inconsistent findings at the subsequent trial on Bergkamp's liability, such that the overall result would be unjust or inefficient.",
+      "B": "Whether Sorrento has already obtained a consent from Bergkamp agreeing not to contest any finding made on the partial summary judgment motion.",
+      "C": "Whether the defect issue constitutes more than half of the disputed issues in the action; partial summary judgment is only available where the severed issue represents the majority of the litigation.",
+      "D": "Whether the motion is brought before the examinations for discovery are complete; partial summary judgment cannot be granted at any stage before all discoveries are conducted."
     },
-    "correct_answer": "C",
-    "explanation": "Under the Rules of Civil Procedure, r. 20.04(3), summary judgment may be granted on a claim, a part of a claim, or against some but not all parties, while directing a trial on the remaining matters. Counsel's advice that summary judgment must always dispose of the entire action is incorrect and contradicts the express text of r. 20.04(3). Courts will exercise their discretion to grant partial summary judgment where doing so is just and does not unnecessarily fragment the proceedings or increase cost. The existence of a cross-claim between co-defendants does not automatically bar partial summary judgment against one defendant on a discrete issue.",
-    "why_A_wrong": "This is a common misconception. Rule 20.04(3) expressly authorises partial summary judgment. Ontario courts do not require summary judgment to resolve the entire action.",
-    "why_B_wrong": "An outstanding cross-claim between co-defendants does not automatically bar partial summary judgment against one defendant on a separate discrete issue. The court retains discretion under r. 20.04(3).",
-    "why_C_wrong": "This IS the correct answer. Rule 20.04(3) expressly authorises partial summary judgment on some claims or against some parties, subject to the court's discretion on whether it is appropriate.",
-    "why_D_wrong": "A discontinuance against other parties is not a prerequisite for partial summary judgment against one defendant. The court may grant partial judgment and direct a trial on the remaining issues including cross-claims.",
+    "correct_answer": "A",
+    "explanation": "Under r. 20.04(3) of the Rules of Civil Procedure, the court may grant judgment on some claims or against some parties while directing a trial on the remainder. However, Hryniak v Mauldin, 2014 SCC 7 makes clear that the motion judge retains a discretion to refuse partial summary judgment where doing so would not achieve a fair and just result. The controlling consideration when issues appear intertwined across multiple defendants is whether severing the defect question would create a real risk of inconsistent findings. If the trial on Bergkamp's liability might produce findings about the cause of spoilage that conflict with the partial summary judgment conclusion on defect, the proceeding would be fragmented in an unjust way. That risk — not a consent, a proportional share of issues, or the stage of discovery — is the factor the court must weigh under the Hryniak framework.",
+    "why_A_wrong": "This IS the correct answer. The intertwinement risk — specifically whether partial judgment would produce inconsistent findings at the subsequent trial — is the decisive Hryniak factor. Courts will refuse partial summary judgment where severing the issue would undermine the fair and just resolution of the whole proceeding.",
+    "why_B_wrong": "Bergkamp's consent is not a prerequisite for, nor a substitute for, the court's analysis. The motion judge must independently assess whether partial summary judgment is appropriate; a co-defendant's consent to the motion's findings does not cure an intertwinement problem because the consent is not binding on the trial judge. (Misapplied Tool — substituting consent procedure for the correctness test)",
+    "why_C_wrong": "There is no rule requiring the severed issue to represent a majority or any minimum proportion of the litigation. Rule 20.04(3) contains no such threshold; the governing question is whether partial judgment can be done fairly and justly, not whether it covers a certain share of the issues. (Overstatement Trap — inventing a proportionality requirement)",
+    "why_D_wrong": "Partial summary judgment is not categorically unavailable before discoveries are complete. While the state of the record is relevant to whether the court can make a fair and just determination, there is no bright-line rule prohibiting the motion at any particular stage. (Wrong Timeline Trap — treating discovery completion as a binary prerequisite)",
     "source_reference": {
       "lso_material": "2026 LSO Barrister Examination Materials",
       "subject": "Civil Litigation",
       "chapter": "Summary Judgment",
       "heading": "Partial Summary Judgment",
       "page": "see blueprint",
-      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 20.04(3)"
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r. 20.04(3); Hryniak v Mauldin, 2014 SCC 7"
     },
     "pr_angle": {
       "applicable": false,
       "pr_issue_type": null
     },
     "exam_trigger_words": [
-      "entire action",
       "partial summary judgment",
+      "intertwinement",
       "r. 20.04(3)",
-      "cross-claim",
-      "some parties"
+      "Hryniak",
+      "inconsistent findings"
     ],
     "tested_concepts": [
-      "r. 20.04(3) — summary judgment need not resolve entire action",
-      "partial summary judgment against some parties",
-      "cross-claim does not bar partial summary judgment"
+      "r. 20.04(3) — partial summary judgment requires fair and just result",
+      "Hryniak intertwinement analysis — risk of inconsistent findings",
+      "court discretion to refuse partial SJ where issues intertwined across defendants"
     ],
     "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-07-costs-sj-001",

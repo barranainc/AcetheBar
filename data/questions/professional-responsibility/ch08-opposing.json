@@ -424,42 +424,51 @@
     "chapter_title": "Dealing with Opposing Parties and Unrepresented Persons",
     "topic_id": "opposing_parties",
     "topic_heading": "Dealing with Represented and Unrepresented Parties — Rule 7.2",
-    "subtopic_id": "no_legal_advice_unrepresented",
-    "subtopic_heading": "No Legal Advice to Unrepresented Party — Rule 7.2-9 Commentary",
+    "subtopic_id": "basic_info_vs_legal_advice_line",
+    "subtopic_heading": "Basic Legal Information vs. Substantive Advice — Limitation Period Scenario — Rule 7.2-9",
     "difficulty": "medium",
-    "fact_pattern": "Lawyer Kendra acts for a lender in a mortgage transaction. The borrower has no legal representation. Kendra explains the mortgage documents to the borrower in detail, answers the borrower's questions about what the acceleration clause means and how the enforcement process works, and advises the borrower that the interest rate is standard in the market. Kendra believes she is being helpful and transparent.",
-    "call_of_question": "Has Kendra's conduct toward the unrepresented borrower complied with the Rules of Professional Conduct?",
+    "fact_pattern": "Lawyer Dmitri acts for the defendant in a personal injury action. The plaintiff is self-represented. During an early case-management conference, the plaintiff asks Dmitri to explain 'how the limitation period works.' Dmitri tells the plaintiff: 'Generally, there is a two-year limitation period in Ontario for personal injury claims. Whether your claim was filed in time is something you should confirm with a lawyer.' The plaintiff then asks: 'So is my claim okay? I filed it about two years and one month after the accident.' Dmitri is considering how to respond to that second question.",
+    "call_of_question": "How should Dmitri respond to the plaintiff's second question under Rule 7.2-9, and what is the line between permissible information and prohibited advice?",
     "options": {
-      "A": "Yes — explaining the documents to an unrepresented party promotes understanding and transparency; Rule 7.2-9 does not prohibit lawyers from explaining documents.",
-      "B": "No — while a lawyer dealing with an unrepresented party must advise the person to seek independent legal advice, the lawyer must not go further and give legal advice to the unrepresented party, as this creates a conflict with the lawyer's duty to their own client; Kendra crossed the line by advising on the legal effect of clauses and characterizing the interest rate.",
-      "C": "Yes — since Kendra disclosed she acts for the lender, the borrower cannot claim to have relied on her as their own lawyer.",
-      "D": "Yes — advising unrepresented parties about the documents they are signing is required by Rule 7.2-9 as part of the duty not to take advantage of them."
+      "A": "Dmitri may answer the second question honestly by telling the plaintiff whether the claim appears to be filed within the limitation period, since providing accurate legal information benefits the administration of justice and does not constitute legal advice.",
+      "B": "Dmitri must refuse all engagement with the plaintiff about limitation periods because raising the topic at all gives the plaintiff an unfair advantage over the defendant.",
+      "C": "Dmitri must not answer the second question; telling the plaintiff whether their specific claim is or is not time-barred is legal advice — applying the law to the plaintiff's facts — which Dmitri is prohibited from giving to an adverse unrepresented party; Dmitri should reiterate that the plaintiff should consult a lawyer about their specific situation.",
+      "D": "Dmitri may answer the second question because the plaintiff asked directly and any refusal would be misleading; an unrepresented party who asks a direct legal question is entitled to an honest direct answer from opposing counsel."
     },
-    "correct_answer": "B",
-    "explanation": "Rule 7.2-9 and its Commentary draw a clear distinction between two duties when dealing with an unrepresented person: first, the lawyer must advise the person to seek independent legal advice; and second, the lawyer must not go further and give legal advice to the unrepresented party. Explaining the legal effect of the acceleration clause and advising that the interest rate is 'standard' constitutes legal advice — it is not merely explaining the documents. By doing so, Kendra crossed from her permissible role (urging independent counsel) into the prohibited role (giving legal advice to the opposing unrepresented party), which creates a risk of role confusion and conflict with her duties to the lender.",
-    "why_A_wrong": "Incorrect. There is a distinction between explaining what a document says (permissible) and advising on its legal consequences and market standards (legal advice). Kendra's explanations went beyond mere clarification into substantive legal advice.",
-    "why_B_wrong": "This IS the correct answer. No — while a lawyer dealing with an unrepresented party must advise the person to seek independent legal advice, the lawyer must not go further and give legal advice to the unrepresented party, as this creates a conflict with the lawyer's duty to their own client; Kendra crossed the line by advising on the legal effect of clauses and characterizing the interest rate.",
-    "why_C_wrong": "Incorrect. Disclosing who you act for does not authorize giving legal advice to the opposing unrepresented party. The issue is not whether the borrower understood Kendra's role, but whether Kendra crossed the line from explanation to legal advice.",
-    "why_D_wrong": "Incorrect. Rule 7.2-9 requires advising the person to seek independent counsel — it does not require or authorize the lawyer to give substantive legal advice to the unrepresented party. Those are distinct obligations.",
+    "correct_answer": "C",
+    "explanation": "Rule 7.2-9 and its Commentary establish that a lawyer dealing with an unrepresented opposing party may provide basic legal information — general explanations of how legal processes work, where to find court offices, what types of timelines generally exist. However, the lawyer must not give the unrepresented person legal advice — that is, apply the law to the specific facts of their situation and tell them what their rights are or what they should do. Dmitri's first response (explaining that a two-year limitation period generally exists and recommending the plaintiff verify with a lawyer) is basic legal information. The second question — whether this specific claim, filed two years and one month after the accident, is timely — is a request for legal advice: it asks Dmitri to assess the plaintiff's specific circumstances against the limitation period. Answering it would require applying the Limitations Act, 2002 to the facts and offering an opinion on the plaintiff's legal position. That is prohibited. Dmitri must decline and again direct the plaintiff to seek counsel.",
+    "why_A_wrong": "Incorrect. This is a Pragmatic Bluff. The phrase 'accurate legal information benefits the administration of justice' does not transform a legal opinion about a specific limitation period into permissible information-sharing. The distinction is not about accuracy — it is about whether the lawyer is applying law to facts. Answering whether this specific claim is timely applies law to facts and is prohibited advice.",
+    "why_B_wrong": "Incorrect. This is an Overstatement Trap. Dmitri's first response — explaining how limitation periods generally work — is permissible basic legal information. Rule 7.2-9 does not prohibit all discussion; it prohibits legal advice. Refusal to explain how general processes work would be unnecessarily withholding basic information.",
+    "why_C_wrong": "This IS the correct answer. Dmitri must not answer the second question; telling the plaintiff whether their specific claim is or is not time-barred is legal advice — applying the law to the plaintiff's facts — which Dmitri is prohibited from giving to an adverse unrepresented party; Dmitri should reiterate that the plaintiff should consult a lawyer about their specific situation.",
+    "why_D_wrong": "Incorrect. This is an Ethics Override Trap. The plaintiff's direct question does not authorize Dmitri to give legal advice. A lawyer's obligation under Rule 7.2-9 does not shift based on whether the unrepresented person asked a direct question — the prohibition on giving legal advice is not lifted by the form of the request.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
       "chapter": "Chapter 8",
       "heading": "Dealing with Opposing Parties and Unrepresented Persons",
       "page": "N/A",
-      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-9 Commentary (no legal advice to unrepresented party)"
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-9 Commentary (basic information vs. legal advice to unrepresented party)"
     },
     "pr_angle": {
       "applicable": true,
-      "pr_issue_type": "unrepresented party — prohibition on giving legal advice beyond recommending counsel"
+      "pr_issue_type": "unrepresented party — basic information permissible; legal advice prohibited — limitation period scenario"
     },
-    "exam_trigger_words": ["unrepresented", "legal advice", "explain documents", "Rule 7.2-9", "duty to recommend counsel"],
-    "tested_concepts": [
-      "Rule 7.2-9 Commentary — cannot give legal advice to unrepresented opposing party",
-      "distinction between explaining documents and giving legal advice",
-      "duty to recommend counsel is separate from prohibition on advising"
+    "exam_trigger_words": [
+      "unrepresented",
+      "legal advice vs. legal information",
+      "limitation period",
+      "Rule 7.2-9",
+      "apply law to facts",
+      "self-represented plaintiff"
     ],
-    "estimated_time_seconds": 90
+    "tested_concepts": [
+      "Rule 7.2-9 — basic legal information permissible; legal advice prohibited to adverse unrepresented party",
+      "distinction: general explanation of limitation period (information) vs. whether specific claim is timely (advice)",
+      "applying law to the unrepresented party's specific facts is prohibited advice regardless of whether they asked",
+      "direct question from unrepresented party does not unlock legal advice — Ethics Override Trap"
+    ],
+    "updated_at": "2026-05-25",
+    "estimated_time_seconds": 120
   },
   {
     "subject": "professional_responsibility",

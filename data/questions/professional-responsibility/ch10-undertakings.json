@@ -175,42 +175,51 @@
     "chapter_title": "Undertakings",
     "topic_id": "undertakings",
     "topic_heading": "Undertakings — Rule 7.2-11",
-    "subtopic_id": "trust_conditions",
-    "subtopic_heading": "Trust Conditions vs. Undertakings — Key Distinctions",
+    "subtopic_id": "trust_conditions_scope_exceeded",
+    "subtopic_heading": "Trust Condition Scope — Client Instruction to Exceed Condition — Required Action",
     "difficulty": "hard",
-    "fact_pattern": "In a commercial real estate transaction, the purchaser's lawyer sends the vendor's lawyer funds from the purchaser in trust, with a trust condition letter stating: 'These funds are sent to you in trust on the condition that they are used only to discharge the existing mortgage on the property and pay any realty tax arrears. They are not to be released for any other purpose until the title is clear.' The vendor's lawyer's client instructs her to release the funds to the vendor immediately before the mortgage is discharged.",
-    "call_of_question": "What is the legal status of the trust condition and what obligation does it impose on the vendor's lawyer?",
+    "fact_pattern": "Lawyer Fatima acts for the defendant in a civil proceeding. Opposing counsel, Lawyer Yusuf, sends Fatima a draft settlement agreement with a covering trust condition letter that reads: 'This draft is delivered to you in trust on the condition that it is to be shown to your client for approval purposes only and is not to be filed with any court, disclosed to any third party, or used for any purpose other than obtaining your client's instructions.' Fatima's client, after reviewing the draft, instructs Fatima to file the draft with the court as part of a motion record and also to provide a copy to a litigation funding company that is reviewing whether to fund the client's claim.",
+    "call_of_question": "What must Fatima do in response to her client's instructions, given the trust condition under which the document was received?",
     "options": {
-      "A": "The trust condition is a courtesy communication only; it has no binding legal force unless it is in the form of a signed undertaking.",
-      "B": "A trust condition received by a lawyer creates a binding obligation on the receiving lawyer to deal with the funds only in accordance with the terms of the condition; the vendor's lawyer is bound by the trust condition and must not release the funds contrary to its terms regardless of client instructions.",
-      "C": "The trust condition is binding on the vendor client but not on the vendor's lawyer; the vendor's lawyer may follow her client's instructions to release the funds.",
-      "D": "The vendor's lawyer may release the funds to the vendor if she provides a written undertaking to the purchaser's lawyer that the mortgage will be discharged within five business days."
+      "A": "Fatima must follow her client's instructions; once a document is in her possession and her client has directed her to use it, client autonomy overrides any restriction imposed by opposing counsel.",
+      "B": "Fatima must comply with the trust condition and must not file the draft with the court or provide it to the litigation funder; the trust condition is a binding professional obligation on her personally from the moment she accepted the document, and client instructions cannot override it.",
+      "C": "Fatima may file the draft with the court if she first seeks and obtains leave from the court; judicial authorization supersedes a trust condition imposed by a private lawyer.",
+      "D": "Fatima should ask Yusuf to modify the trust condition; if Yusuf refuses, Fatima may proceed on her client's instructions because a trust condition that is overly restrictive cannot be enforced against a receiving lawyer."
     },
     "correct_answer": "B",
-    "explanation": "When a lawyer receives funds subject to a trust condition, the receiving lawyer is personally bound to deal with the funds only in accordance with the terms of the condition. A trust condition is not merely a letter of instruction to the client — it is a binding professional obligation on the receiving lawyer. If the vendor's lawyer accepts the funds subject to the trust condition, she must comply with its terms regardless of what her client instructs. She may not release the funds to the vendor before the mortgage is discharged. If she is unwilling to be bound by the condition, she must return the funds uncashed.",
-    "why_A_wrong": "Incorrect. A trust condition received and accepted by a lawyer is binding on the receiving lawyer as a professional obligation — it is not merely a courtesy communication.",
-    "why_B_wrong": "This IS the correct answer. A trust condition received by a lawyer creates a binding obligation on the receiving lawyer to deal with the funds only in accordance with the terms of the condition; the vendor's lawyer is bound by the trust condition and must not release the funds contrary to its terms regardless of client instructions.",
-    "why_C_wrong": "Incorrect. The trust condition binds the receiving lawyer personally — it is not addressed to the client. Client instructions to the contrary do not override the lawyer's professional obligation under the trust condition.",
-    "why_D_wrong": "Incorrect. Providing a subsequent undertaking does not retroactively authorize release of funds in breach of the trust condition. The trust condition must be complied with; an undertaking to later do what the condition already requires is not a proper workaround.",
+    "explanation": "A trust condition imposed by a delivering lawyer on documents or funds binds the receiving lawyer personally and immediately upon acceptance. Fatima accepted the draft settlement agreement subject to the trust condition that it was to be used only for obtaining client instructions and was not to be filed with any court or disclosed to third parties. That condition restricts the permissible use of the document absolutely within the stated scope. Fatima's client has now instructed her to use the document in ways that plainly exceed the trust condition — filing it with the court and sharing it with a litigation funder are both prohibited by the condition's terms. The critical point, and the Ethics Override Trap, is that client instruction cannot override the trust condition. The trust condition runs between Fatima personally and Yusuf as a professional obligation — it is not subject to modification by the client. If Fatima cannot comply with the condition (i.e., if her client's instructions make it impossible to proceed), her options are to seek Yusuf's agreement to vary the condition, or to withdraw from the file if client instructions are irreconcilable with the condition. She must not simply act on client direction in breach of the condition.",
+    "why_A_wrong": "Incorrect. This is an Ethics Override Trap — the paradigmatic wrong answer for trust condition questions. Client autonomy does not override a trust condition. The trust condition runs between the two lawyers professionally; the client is not a party to it and cannot waive it on Fatima's behalf.",
+    "why_B_wrong": "This IS the correct answer. Fatima must comply with the trust condition and must not file the draft with the court or provide it to the litigation funder; the trust condition is a binding professional obligation on her personally from the moment she accepted the document, and client instructions cannot override it.",
+    "why_C_wrong": "Incorrect. This is a Wrong Forum or Wrong Procedure Trap. Judicial authorization or court leave does not supersede a solicitor-to-solicitor trust condition. The trust condition is a professional obligation between lawyers — a court has no jurisdiction to relieve a lawyer from a binding trust condition simply because a party seeks to file the document.",
+    "why_D_wrong": "Incorrect. This is a Pragmatic Bluff. A receiving lawyer who is unwilling to be bound by a trust condition should not accept the document in the first place, or should return it immediately. A trust condition is not 'unenforceable' because it is restrictive — its restrictiveness is precisely the point. If Yusuf does not agree to vary it, Fatima is bound by it as accepted.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
       "chapter": "Chapter 10",
       "heading": "Undertakings",
       "page": "N/A",
-      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-11 (trust conditions — binding on receiving lawyer)"
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 7.2-11 (trust conditions — binding on receiving lawyer; client instruction cannot override)"
     },
     "pr_angle": {
       "applicable": true,
-      "pr_issue_type": "trust conditions — binding professional obligation on receiving lawyer"
+      "pr_issue_type": "trust conditions — scope of condition; client instruction to exceed scope; Ethics Override Trap"
     },
-    "exam_trigger_words": ["trust condition", "in trust", "binding obligation", "receiving lawyer", "funds subject to condition"],
-    "tested_concepts": [
-      "trust condition is binding professional obligation on receiving lawyer",
-      "client instructions cannot override trust condition",
-      "must return uncashed funds if unwilling to be bound"
+    "exam_trigger_words": [
+      "trust condition",
+      "scope of condition",
+      "receiving lawyer",
+      "client instruction",
+      "in trust on condition",
+      "exceed trust condition"
     ],
-    "estimated_time_seconds": 120
+    "tested_concepts": [
+      "trust condition is binding professional obligation on receiving lawyer personally upon acceptance",
+      "client instruction cannot override trust condition — Ethics Override Trap",
+      "using documents beyond trust condition scope is a professional responsibility breach",
+      "if unwilling to be bound by condition, must not accept the document or must return it"
+    ],
+    "updated_at": "2026-05-25",
+    "estimated_time_seconds": 150
   },
   {
     "subject": "professional_responsibility",

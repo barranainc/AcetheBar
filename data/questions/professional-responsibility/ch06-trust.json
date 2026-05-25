@@ -824,42 +824,51 @@
     "chapter_number": 6,
     "chapter_title": "Trust Accounting and Financial Management",
     "topic_id": "trust_accounting",
-    "topic_heading": "Trust Shortages — Causes and Liability",
-    "subtopic_id": "misappropriation_vs_shortage",
-    "subtopic_heading": "Misappropriation vs. Inadvertent Shortage — Professional Consequences",
+    "topic_heading": "Disputed Trust Funds — Obligations When Transaction Fails to Close",
+    "subtopic_id": "disputed_trust_funds_failed_closing",
+    "subtopic_heading": "Disputed Client Funds in Trust — Failed Real Estate Transaction — Mixed Fund Obligations",
     "difficulty": "hard",
-    "fact_pattern": "Two separate lawyers at the same firm experience trust shortages. Lawyer A transferred $30,000 from client trust funds to cover personal debts, intending to repay the funds before the next reconciliation. Lawyer B had a $30,000 shortage arising from a calculation error in how she applied a settlement amount to the correct client ledger; she discovered the error herself during monthly reconciliation and reported it immediately. Both lawyers self-reported to the LSO.",
-    "call_of_question": "How does the professional responsibility framework distinguish between Lawyer A's conduct and Lawyer B's conduct with respect to trust shortages?",
+    "fact_pattern": "Lawyer Orla acts for the purchaser in a residential real estate transaction. She holds the full purchase price of $820,000 in her trust account. The transaction fails to close because the vendor alleges the purchaser breached the agreement of purchase and sale. The purchaser instructs Orla to return the funds to them immediately. The vendor's lawyer writes to Orla demanding that the funds be paid to the vendor as liquidated damages for the purchaser's alleged breach. Orla believes the purchaser's position is correct, but the dispute is genuinely contested. The funds remain in trust.",
+    "call_of_question": "What are Orla's trust accounting obligations with respect to the $820,000 held in trust, given the competing claims?",
     "options": {
-      "A": "Both lawyers face identical professional consequences because a $30,000 trust shortage is treated the same regardless of the cause.",
-      "B": "Lawyer B faces more serious consequences because she discovered the shortage herself during reconciliation, which indicates poor record-keeping practices.",
-      "C": "Lawyer A's intentional misappropriation of client trust funds is one of the most serious forms of professional misconduct — likely resulting in licence revocation and potential criminal charges; Lawyer B's inadvertent shortage, promptly discovered and reported, while still professional misconduct requiring discipline, is treated as a significantly less serious matter reflecting poor accounting controls rather than dishonesty.",
-      "D": "The intent behind a trust shortage is irrelevant to professional discipline; the only relevant factor is whether the shortage was remedied."
+      "A": "Orla must follow her client's instructions and return the funds to the purchaser immediately; her duty is to act on client direction and the purchaser's claim to the funds is at least as strong as the vendor's.",
+      "B": "Orla must pay the funds to whichever party she believes has the stronger legal claim, using her professional judgment, to prevent the funds from being frozen indefinitely in trust.",
+      "C": "Orla must keep the funds in trust until the dispute is resolved; she cannot unilaterally disburse to her client or to the vendor's side; she must notify both parties of the competing claims, and if the parties cannot reach agreement, she should seek direction from the court or another appropriate mechanism such as interpleader.",
+      "D": "Orla may transfer the funds to her general account to prevent liability while the dispute is pending, provided she maintains a ledger record of the amount owing to the prevailing party."
     },
     "correct_answer": "C",
-    "explanation": "The LSO's professional conduct framework treats intentional misappropriation of client trust funds as among the gravest possible misconduct — it involves deliberate dishonesty with client money, fundamentally undermines trust in the legal profession, and almost invariably results in revocation of the licence (disbarment) and referral to criminal authorities. An inadvertent trust shortage arising from an honest accounting error, promptly discovered, reported, and remedied, is also professional misconduct (because trust accounting rules are strict) but is treated as reflecting poor practice controls rather than dishonesty and typically results in lesser discipline such as conditions on the licence, supervision, or a reprimand.",
-    "why_A_wrong": "Incorrect. The professional consequences for misappropriation and inadvertent shortage are categorically different. Intent and honesty are central to the disciplinary analysis.",
-    "why_B_wrong": "Incorrect. Discovering a shortage oneself during reconciliation is evidence of a functioning, if imperfect, reconciliation process — it is not an aggravating factor. Prompt self-discovery and reporting are mitigating in the inadvertent shortage context.",
-    "why_C_wrong": "This IS the correct answer. Lawyer A's intentional misappropriation of client trust funds is one of the most serious forms of professional misconduct — likely resulting in licence revocation and potential criminal charges; Lawyer B's inadvertent shortage, promptly discovered and reported, while still professional misconduct requiring discipline, is treated as a significantly less serious matter reflecting poor accounting controls rather than dishonesty.",
-    "why_D_wrong": "Incorrect. Intent is highly relevant to professional discipline in trust shortage cases. Remediation is relevant to mitigation but does not equalize the analysis between intentional misappropriation and honest error.",
+    "explanation": "When a lawyer holds funds in trust and there are competing claims to those funds — here, both the purchaser (return of deposit) and the vendor (liquidated damages) assert entitlement — the lawyer's obligation under LSO By-Law 9 and the trust accounting rules is to keep the funds in trust and not disburse to either side until the dispute is resolved. The fact that the funds belong to Orla's own client does not authorize her to pay them out on client instruction alone when a legitimate adverse claim exists. Disbursing unilaterally would expose Orla to liability for breach of trust accounting obligations and potentially to a claim by the party whose interest she prejudiced. The proper course is to: keep the funds in trust; notify both parties in writing; attempt to obtain an agreement; and if no agreement is reached, seek a court order (such as an interpleader application) to determine entitlement. The funds cannot be moved to a general account under any circumstances.",
+    "why_A_wrong": "Incorrect. This is an Ethics Override Trap. Client instruction does not authorize disbursement when an adverse party has a live, legitimate claim to the same funds. The trust accounting rules require that disputed funds remain in trust regardless of the client's direction.",
+    "why_B_wrong": "Incorrect. This is a Pragmatic Bluff. A lawyer cannot resolve a disputed entitlement to trust funds by applying her own judgment about which party has the stronger claim. That determination must be made by agreement of the parties or by a court — not by the lawyer unilaterally.",
+    "why_C_wrong": "This IS the correct answer. Orla must keep the funds in trust until the dispute is resolved; she cannot unilaterally disburse to her client or to the vendor's side; she must notify both parties of the competing claims, and if the parties cannot reach agreement, she should seek direction from the court or another appropriate mechanism such as interpleader.",
+    "why_D_wrong": "Incorrect. This is a Wrong Procedure Trap. Moving trust funds to a general account is never permissible regardless of the circumstances. Trust funds must remain in a designated trust account — transferring them to a general account for any reason, including convenience during a dispute, is a breach of the trust accounting rules.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
       "chapter": "Chapter 6",
       "heading": "Trust Accounting and Financial Management",
       "page": "N/A",
-      "rule_or_statute_reference": "LSO By-Law 9; Law Society Act, R.S.O. 1990, c. L.8 (professional misconduct — trust misappropriation)"
+      "rule_or_statute_reference": "LSO By-Law 9 (trust accounting — mixed and disputed funds); Rules of Professional Conduct (LSO), Rule 3.2"
     },
     "pr_angle": {
       "applicable": true,
-      "pr_issue_type": "trust accounting — misappropriation vs. inadvertent shortage; professional consequences"
+      "pr_issue_type": "trust accounting — disputed funds — failed closing — cannot disburse without resolution"
     },
-    "exam_trigger_words": ["misappropriation", "inadvertent shortage", "licence revocation", "dishonesty", "trust funds"],
-    "tested_concepts": [
-      "intentional misappropriation of trust funds is gravest professional misconduct",
-      "inadvertent shortage is misconduct but treated less seriously than misappropriation",
-      "intent is central to professional discipline analysis in trust shortage cases"
+    "exam_trigger_words": [
+      "disputed trust funds",
+      "failed to close",
+      "competing claims",
+      "interpleader",
+      "trust account obligation",
+      "client instruction to disburse"
     ],
+    "tested_concepts": [
+      "disputed trust funds must remain in trust until entitlement is determined by agreement or court",
+      "client instruction does not authorize unilateral disbursement of disputed funds — Ethics Override Trap",
+      "lawyer cannot resolve disputed entitlement using own judgment — Pragmatic Bluff",
+      "trust funds cannot be moved to general account under any circumstances"
+    ],
+    "updated_at": "2026-05-25",
     "estimated_time_seconds": 120
   },
   {

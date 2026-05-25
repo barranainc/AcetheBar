@@ -395,27 +395,27 @@
     "subtopic_heading": "Pleading Material Facts — Distinguishing Facts from Evidence",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "A plaintiff brings a negligence action arising from a motor vehicle accident. The statement of claim includes the following allegation: 'The defendant failed to exercise the care of a reasonably prudent driver.' The defendant brings a motion to strike this allegation as insufficient, arguing that the plaintiff has pleaded a legal conclusion rather than material facts supporting the allegation of negligence.",
-    "call_of_question": "Under r.25.06(1) of the Rules of Civil Procedure, is the defendant's objection well-founded, and what is required in a pleading?",
+    "fact_pattern": "Priya sues her former employer, Caldwell Logistics Ltd., for wrongful dismissal. Her draft statement of claim contains the following four items: (1) 'Caldwell terminated Priya's employment without notice on March 3, 2025'; (2) 'Caldwell's vice-president told Priya the reason was her performance, but Priya's annual reviews for the three preceding years all rated her performance as 'exceeds expectations''; (3) 'a psychologist's report documenting Priya's workplace stress symptoms'; and (4) 'Caldwell failed to act in good faith in the manner of dismissal.' Caldwell brings a motion to strike, arguing that items (2), (3), and (4) are improperly pleaded under r.25.06(1).",
+    "call_of_question": "Under r.25.06(1) of the Rules of Civil Procedure, which of the following best classifies items (2), (3), and (4)?",
     "options": {
-      "A": "The defendant's objection is unfounded; legal conclusions such as 'failed to exercise reasonable care' are proper and sufficient as pleaded material facts.",
-      "B": "The defendant's objection is partly well-founded; while a legal conclusion is not proper pleading, a party may plead the legal effect of facts without stating the underlying facts, as long as the conclusion is clear.",
-      "C": "The defendant's objection is well-founded; under r.25.06(1), a pleading must contain material facts — the actual acts or omissions of the defendant — not bare legal conclusions; the plaintiff must plead what the defendant specifically did or failed to do that constitutes negligence.",
-      "D": "The defendant's objection is unfounded because negligence claims need not specify individual acts of negligence; a general allegation of failure to exercise reasonable care is sufficient in all negligence actions."
+      "A": "Item (2) is a properly pleaded material fact; item (3) is evidence that must be excluded from the pleading; item (4) is a bare legal conclusion that must be supported by specific material facts.",
+      "B": "Items (2), (3), and (4) are all properly pleaded because they all relate to the wrongful dismissal claim and provide the defendant with notice of the case to meet.",
+      "C": "Items (2) and (4) are both properly pleaded legal effects of facts, permissible under r.25.07; item (3) is a material fact that must remain in the pleading.",
+      "D": "Item (2) is evidence and must be struck; item (3) is a material fact relating to damages; item (4) is properly pleaded as a legal conclusion identifying the cause of action."
     },
-    "correct_answer": "C",
-    "explanation": "Under r.25.06(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), every pleading shall contain a concise statement of the material facts on which the party relies — not the evidence by which those facts are to be proved, and not bare legal conclusions without the underlying facts. A statement that the defendant 'failed to exercise the care of a reasonably prudent driver' is a legal conclusion, not a statement of the material facts that constitute the alleged negligence. The plaintiff must plead the specific acts or omissions of the defendant — for example, that the defendant ran a red light, was speeding, failed to signal, or was using a cellphone — that constitute negligence. Bare legal conclusions without supporting facts may be struck under r.25.11 or made the subject of a demand for particulars under r.25.10.",
-    "why_A_wrong": "Bare legal conclusions are not proper material facts. Rule 25.06(1) requires the actual acts or omissions — the specific conduct — that form the basis of the claim. A conclusion that the defendant 'failed to exercise reasonable care' does not identify what the defendant specifically did or failed to do.",
-    "why_B_wrong": "While r.25.07 permits pleading the legal effect of facts in some circumstances, this does not excuse the plaintiff from pleading the underlying material facts. The defendant's objection targets the absence of specific acts or omissions, not just the presence of a legal conclusion.",
-    "why_C_wrong": "This IS the correct answer. Under r.25.06(1), material facts — the specific acts or omissions of the defendant — must be pleaded, not bare legal conclusions. The defendant's objection that the plaintiff has omitted the specific negligent conduct is well-founded.",
-    "why_D_wrong": "Negligence claims are not exempt from the material facts pleading requirement. The plaintiff must identify the specific acts or omissions constituting negligence. A general allegation of failure to exercise reasonable care is insufficient without the underlying specific facts.",
+    "correct_answer": "A",
+    "explanation": "Rule 25.06(1) of the Rules of Civil Procedure requires a pleading to contain material facts — not the evidence by which those facts will be proved, and not bare legal conclusions without underlying facts. Item (1) ('terminated without notice on March 3, 2025') is a material fact: it identifies the specific event with date and circumstances. Item (2) ('vice-president's stated reason' + 'three years of exceeding expectations reviews') is also a material fact: it pleads the specific conduct and circumstances that give rise to the bad faith claim. Item (3) (the psychologist's report) is evidence — a document that will prove a fact at trial — not a fact itself; it must not be pleaded in the statement of claim. Item (4) ('failed to act in good faith') is a bare legal conclusion; without identifying what specific acts or omissions constituted the bad faith, it adds nothing beyond a label and must be supported by or replaced with specific factual allegations.",
+    "why_A_wrong": "This IS the correct answer. Item (2) is a properly pleaded material fact (specific conduct and specific performance record). Item (3) is evidence (a report, not a fact). Item (4) is a bare legal conclusion without the underlying specific acts.",
+    "why_B_wrong": "The notice function of pleadings does not override the material facts requirement. Mere relevance to the claim is insufficient: evidence must be excluded from pleadings, and legal conclusions must be grounded in specific factual allegations, regardless of whether the defendant has general notice of the claim. (Pragmatic Bluff — treating 'notice' as the only pleading requirement, ignoring the evidence/fact/legal-conclusion distinction)",
+    "why_C_wrong": "Rule 25.07 permits pleading the legal effect of facts in certain limited circumstances — typically where the law itself attaches a consequence to a pleaded fact. Item (4) as drafted does not plead any underlying facts at all; it is simply a legal label. Moreover, item (3) — the psychologist's report — is not a material fact; it is a piece of documentary evidence and has no place in a pleading regardless of its relevance to damages. (Misapplied Tool — misapplying r.25.07 to a bare legal conclusion, and misclassifying evidence as a material fact)",
+    "why_D_wrong": "Item (2) is not evidence; it pleads specific facts (VP's statement, three years of reviews) that constitute the material circumstances of the dismissal. Item (3) is evidence, not a material fact. Item (4) is a bare legal conclusion, not a proper cause-of-action label; it would need supporting facts to be properly pleaded. This option wrongly reclassifies facts as evidence and evidence as facts. (Wrong Timeline Trap — applying standards from the wrong stage: item (3) is a trial exhibit, not a pleading fact)",
     "source_reference": {
       "lso_material": "2026 LSO Barrister Examination Materials",
       "subject": "Civil Litigation",
       "chapter": "Default Proceedings and Dismissal for Delay",
       "heading": "Pleading Material Facts — Distinguishing Facts from Evidence",
       "page": "see blueprint",
-      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.25.06(1)"
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.25.06(1), r.25.07"
     },
     "pr_angle": {
       "applicable": false,
@@ -424,20 +424,21 @@
     "exam_trigger_words": [
       "material facts",
       "r.25.06(1)",
+      "evidence vs fact",
       "legal conclusion",
-      "specific acts or omissions",
-      "negligence pleading"
+      "wrongful dismissal pleading"
     ],
     "tested_concepts": [
-      "r.25.06(1) — plead material facts not legal conclusions",
-      "specific acts or omissions required for negligence",
-      "distinction between facts, evidence, and legal conclusions"
+      "r.25.06(1) — material facts vs evidence vs legal conclusions",
+      "specific conduct and circumstances are material facts",
+      "reports and documents are evidence — not to be pleaded",
+      "bare legal conclusions require underlying factual support"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-05-amend-r26-001",

@@ -340,20 +340,20 @@
     "subtopic_heading": "Striking Out Pleadings — No Reasonable Cause of Action (r.21.01)",
     "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "A defendant brings a motion under r.21.01(1)(b) of the Rules of Civil Procedure to strike the plaintiff's statement of claim on the grounds that it discloses no reasonable cause of action. The plaintiff's claim is novel and has not been recognised by Ontario courts, but is not clearly without foundation. No evidence is filed on the motion.",
-    "call_of_question": "What is the test on a r.21.01(1)(b) motion to strike for no reasonable cause of action, and what is the outcome if the claim is novel?",
+    "fact_pattern": "Desrochers Technology Corp. sues Halverson Media Inc. in Ontario for the tort of unlawful interference with economic relations, alleging that Halverson deliberately induced a key client to terminate its contract with Desrochers by making false statements. No Ontario court has recognised unlawful interference with economic relations as a freestanding tort on facts identical to these. Halverson brings a motion under r.21.01(1)(b) to strike the statement of claim as disclosing no reasonable cause of action. Halverson files a detailed affidavit deposing to facts that it contends make the claim implausible. No responding evidence is filed by Desrochers.",
+    "call_of_question": "On Halverson's r.21.01(1)(b) motion to strike, how should the court treat Halverson's affidavit, and what is the correct outcome for Desrochers' novel claim?",
     "options": {
-      "A": "The court will strike the claim unless the plaintiff proves on a balance of probabilities that the cause of action is well-established in Ontario law.",
-      "B": "The court applies the test from Hunt v. Carey Canada Inc.: the claim will be struck only if it is plain and obvious, assuming all facts pleaded to be true, that the pleading discloses no reasonable cause of action; a novel but arguable claim should not be struck.",
-      "C": "A motion under r.21.01(1)(b) must be supported by evidence; if no evidence is filed, the motion must be dismissed.",
-      "D": "The court will strike any claim that has not been previously recognised by Ontario courts because such a claim has no reasonable prospect of success."
+      "A": "The court must consider Halverson's affidavit evidence because the motion raises factual questions; if the evidence makes the claim appear implausible, the court should strike the claim.",
+      "B": "The court must strike the claim because unlawful interference with economic relations has not been recognised on identical facts in Ontario; a novel claim has no reasonable prospect of success by definition.",
+      "C": "The court should convert the r.21.01(1)(b) motion into a summary judgment motion under r.20.04 because Halverson has filed evidence; the plaintiff must then file responding evidence or the claim will be dismissed.",
+      "D": "The court must disregard Halverson's affidavit entirely — no evidence is admissible on a r.21.01(1)(b) motion — and will strike the claim only if it is plain and obvious, assuming all pleaded facts to be true, that the claim discloses no reasonable cause of action; because the tort is arguable, the claim should not be struck."
     },
-    "correct_answer": "B",
-    "explanation": "Under r.21.01(1)(b) of the Rules of Civil Procedure, the applicable test is from Hunt v. Carey Canada Inc., [1990] 2 SCR 959: the claim will be struck only if it is plain and obvious, assuming the facts as pleaded are true, that the pleading discloses no reasonable cause of action. The court assumes all facts pleaded to be true and gives the claim the most generous reading possible. No evidence is admissible on a r.21.01(1)(b) motion. A novel claim that raises an arguable point of law that has not been authoritatively settled should not be struck, as such claims deserve to be adjudicated at trial.",
-    "why_A_wrong": "The plaintiff is not required to prove its case on a balance of probabilities on a r.21.01(1)(b) motion. All facts pleaded are assumed to be true; the only question is whether the pleading discloses a reasonable cause of action.",
-    "why_B_wrong": "This IS the correct answer. The Hunt v. Carey test requires the claim be struck only if it is plain and obvious, on assumed facts, that no reasonable cause of action is disclosed. Novel claims survive the test.",
-    "why_C_wrong": "No evidence is admissible on a r.21.01(1)(b) motion to strike. The motion is determined solely on the basis of the pleadings, with all facts assumed to be true.",
-    "why_D_wrong": "Novelty alone is not grounds to strike. The Supreme Court in Hunt v. Carey confirmed that novel claims that raise arguable legal questions should not be struck — the law must be permitted to develop.",
+    "correct_answer": "D",
+    "explanation": "Under r.21.01(1)(b) of the Rules of Civil Procedure, no evidence is admissible; the court's analysis is confined to the four corners of the pleadings. All facts pleaded are assumed to be true and given the most generous possible reading. The test from Hunt v. Carey Canada Inc., [1990] 2 SCR 959 is whether it is plain and obvious that the claim discloses no reasonable cause of action. Novelty is not a ground to strike: where the tort is arguable under existing principles — even if not yet authoritatively recognised on identical facts — the claim must survive. Halverson's affidavit is irrelevant and must be set aside entirely. The motion judge applies the pleadings-only test; because unlawful interference with economic relations is an arguable developing tort, the claim is not plain and obviously unsustainable.",
+    "why_A_wrong": "No evidence is admissible on a r.21.01(1)(b) motion. The court cannot consider Halverson's affidavit at all. If Halverson wishes to rely on evidence, the appropriate vehicle is a summary judgment motion under r.20.04, not a r.21.01 strike motion. (Misapplied Tool — wrongly importing the evidence-based summary judgment standard into a pleadings-only motion)",
+    "why_B_wrong": "Novelty is not a ground to strike under r.21.01(1)(b). Hunt v. Carey Canada Inc. expressly holds that novel but arguable claims should not be struck — the law must be allowed to develop. The absence of identical Ontario precedent does not make the claim plain and obviously unsustainable. (Exception Trap — treating the absence of prior authority as a disqualifying exception)",
+    "why_C_wrong": "A r.21.01(1)(b) motion cannot be converted into a summary judgment motion simply because one party files affidavit evidence. The evidence is inadmissible on the r.21.01 motion and must be ignored; if Halverson wants to move for summary judgment, it must bring a separate motion under r.20.04. Converting the motion would improperly deprive Desrochers of the procedural protections that apply to each distinct motion type. (Misapplied Tool — using the wrong procedural vehicle to cure an inadmissible evidence problem)",
+    "why_D_wrong": "This IS the correct answer. Rule 21.01(1)(b) is a pleadings-only motion: evidence is inadmissible, the facts are assumed true, and the claim is struck only if it is plain and obvious that no reasonable cause of action is disclosed. A novel but arguable tort claim survives.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -368,22 +368,22 @@
     },
     "exam_trigger_words": [
       "strike",
-      "r.21.01",
-      "no reasonable cause of action",
+      "r.21.01(1)(b)",
+      "no evidence admissible",
       "plain and obvious",
-      "Hunt v Carey"
+      "novel claim"
     ],
     "tested_concepts": [
-      "plain and obvious test — r.21.01(1)(b)",
-      "Hunt v. Carey Canada Inc. [1990] 2 SCR 959",
-      "no evidence on r.21.01 motion",
-      "novel claims survive r.21.01 motions"
+      "r.21.01(1)(b) — no evidence admissible; pleadings-only motion",
+      "Hunt v. Carey Canada Inc. — plain and obvious test on assumed facts",
+      "novelty alone does not justify striking — arguable claims survive",
+      "r.21.01 vs r.20.04 — distinct vehicles; cannot convert motion by filing evidence"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-03-strike-002",

@@ -770,5 +770,61 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-04-exam-001",
+    "subject": "civil_litigation",
+    "chapter_number": 9,
+    "chapter_title": "Examination for Discovery",
+    "topic_id": "examination_for_discovery",
+    "topic_heading": "Examination for Discovery",
+    "subtopic_id": "refusals_undertakings",
+    "subtopic_heading": "Undertakings — Timeline for Fulfilment and Motion to Compel",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "On March 1, counsel for the defendant Okafor Realty Corp. was examined for discovery in a commercial lease dispute. During the examination, Okafor's representative gave three undertakings, including an undertaking to produce a valuation report 'as soon as possible.' No specific deadline was agreed on the record. On April 15, Okafor provided two of the three undertaking responses but did not produce the valuation report. On June 30 — four months after the examination — plaintiff's counsel moves under r.31.08 to compel the outstanding undertaking. At the motion, Okafor argues the motion is premature because no agreed deadline was set for the undertaking.",
+    "call_of_question": "Under the Rules of Civil Procedure and Ontario discovery practice, which statement best describes the deadline for fulfilling a discovery undertaking given without a specific date, and the timeliness of plaintiff's motion?",
+    "options": {
+      "A": "Because no deadline was specified on the record, Okafor has an unlimited period to produce the valuation report; a motion to compel is premature until a court-ordered deadline is first set and missed.",
+      "B": "The undertaking must be fulfilled within 60 days of the examination for discovery; the motion brought on June 30 — 121 days after the examination — is automatically time-barred.",
+      "C": "Undertakings given at examination for discovery must be fulfilled within a reasonable time; the court will assess whether four months without production of the valuation report is unreasonable, not whether a specific agreed deadline was missed.",
+      "D": "An undertaking given without a specific deadline is unenforceable until the parties agree in writing on a production date; the motion must be dismissed until that agreement is reached."
+    },
+    "correct_answer": "C",
+    "explanation": "Under Ontario discovery practice, there is no fixed statutory deadline for fulfilling discovery undertakings where no specific date was agreed at the examination. The governing standard is that undertakings must be fulfilled within a reasonable time. On a motion to compel under r.31.08 of the Rules of Civil Procedure, the court will assess whether the time elapsed — here, four months without producing the valuation report — is reasonable in the circumstances, taking into account the nature of the documents, any explanation offered for the delay, and any prejudice to the examining party. The absence of a specific agreed deadline does not give the party an unlimited period to comply; it simply means the standard is reasonableness, not a missed fixed date. The plaintiff's motion brought four months after the examination, with two of three undertakings outstanding, is procedurally proper: the issue is whether the court finds the delay unreasonable.",
+    "why_A_wrong": "An undertaking given without a specific deadline is not enforceable only after a court-ordered deadline is first set. The standard is reasonableness; a court-ordered deadline is the remedy after a motion to compel is brought, not a prerequisite for bringing the motion. Courts routinely hear r.31.08 motions where no specific production date was agreed. (Wrong Procedure Trap — requiring a prior court order as a precondition that does not exist under the rules)",
+    "why_B_wrong": "There is no 60-day rule for fulfilling discovery undertakings in the Rules of Civil Procedure. A candidate who believes there is a fixed 60-day deadline — perhaps confusing undertaking deadlines with other procedural timelines — will select this option. The standard is reasonableness of time, not a fixed deadline. (Wrong Timeline Trap — importing a non-existent fixed 60-day period as the undertaking compliance deadline)",
+    "why_C_wrong": "This IS the correct answer. The governing standard is reasonable time. The court on the r.31.08 motion assesses whether four months without production of the valuation report is an unreasonable delay — it does not dismiss the motion simply because no specific date was agreed.",
+    "why_D_wrong": "An undertaking given at discovery is immediately binding and does not require a subsequent written agreement to be enforceable. The obligation arises at the moment the undertaking is given on the examination record. Requiring a subsequent written agreement would effectively allow a party to avoid compliance simply by refusing to agree in writing. (Misapplied Tool — treating a discovery undertaking as a contractual agreement requiring written formalization)",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Examination for Discovery",
+      "heading": "Undertakings — Timeline for Fulfilment and Motion to Compel",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.31.08"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "undertaking deadline",
+      "r.31.08",
+      "reasonable time",
+      "no specific date",
+      "motion to compel"
+    ],
+    "tested_concepts": [
+      "no fixed statutory deadline for undertaking fulfilment — reasonable time standard",
+      "r.31.08 motion to compel — court assesses reasonableness of delay",
+      "no prior court order required before bringing motion to compel undertaking",
+      "discovery undertaking binding on examination record without written formalization"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
   }
 ]

@@ -8,29 +8,29 @@
     "topic_heading": "SPPA — Application and Scope",
     "subtopic_id": "sppa_application",
     "subtopic_heading": "SPPA Application — When Does the SPPA Apply",
-    "difficulty": "easy",
+    "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "A licensed electrician receives a notice from the Electrical Safety Authority stating that his licence is suspended pending investigation of a complaint. The electrician argues the SPPA applies and that he is entitled to a hearing before his licence is suspended. The Authority argues the SPPA does not apply because the suspension is a temporary administrative step, not a final decision.",
-    "call_of_question": "Under the Statutory Powers Procedure Act, what is the threshold requirement for the SPPA to apply to a tribunal's decision?",
+    "fact_pattern": "A homeowner files a complaint with the Ontario Tarion Warranty Corporation alleging defective construction by a registered builder. Tarion's enabling statute, the Ontario New Home Warranties Plan Act, provides in s. 14(2) that where Tarion receives a complaint, it 'may, at its discretion, convene a hearing to review the complaint.' Tarion resolves the homeowner's complaint through an internal conciliation process without convening any formal hearing. The homeowner argues the SPPA applied to the conciliation process and that Tarion violated the Act by not providing him with notice and opportunity to make submissions as required by the SPPA. Tarion argues the SPPA did not apply because it was not required to hold a hearing.",
+    "call_of_question": "Did the SPPA apply to Tarion's conciliation process?",
     "options": {
-      "A": "The SPPA applies to any decision made by any government body in Ontario, including purely administrative and ministerial decisions.",
-      "B": "The SPPA applies only to decisions of courts; administrative tribunals are governed exclusively by their enabling statutes.",
-      "C": "Under s. 3(1) of the SPPA, the Act applies to a proceeding by a tribunal in the exercise of a 'statutory power of decision' conferred by or under an Act of the Legislature where the tribunal is required by or under such Act or otherwise by law to hold or to afford parties an opportunity for a hearing.",
-      "D": "The SPPA applies only where the decision-maker is explicitly named in a Schedule to the SPPA."
+      "A": "Yes. The SPPA applies to any proceeding in which a tribunal exercises a statutory power of decision; because Tarion's decision to resolve the complaint affected the homeowner's legal rights, the SPPA applied regardless of whether a hearing was formally held.",
+      "B": "Yes. The SPPA applies whenever a complaint is filed with a statutory body; the homeowner's filing of a complaint automatically triggered the SPPA's procedural requirements.",
+      "C": "No. Under s. 3(1) of the SPPA, the Act applies only where the tribunal is required by or under the enabling statute or otherwise by law to hold or afford an opportunity for a hearing. Because s. 14(2) of the enabling statute provides that Tarion 'may' convene a hearing — a discretionary not mandatory provision — Tarion was not required to hold a hearing, and the SPPA was not triggered.",
+      "D": "No. The SPPA does not apply to private warranty corporations such as Tarion because they are not government tribunals; the SPPA only governs decisions made by ministries and provincial government departments."
     },
     "correct_answer": "C",
-    "explanation": "The Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 3(1), provides that the Act applies to a proceeding by a tribunal in the exercise of a statutory power of decision where the tribunal is required by or under the Act or otherwise by law to hold or afford the parties to the proceeding an opportunity for a hearing before making a decision. The definition of 'statutory power of decision' in s. 1 means a power or right conferred by or under a statute to make a decision deciding or prescribing the legal rights, powers, privileges, immunities, duties or liabilities of any person or party. A licence suspension is a statutory power of decision and the SPPA applies if a hearing is required.",
-    "why_A_wrong": "Incorrect. The SPPA does not apply to every government decision; it applies specifically to proceedings involving a statutory power of decision where a hearing is required. Purely ministerial or administrative decisions that do not require a hearing are not governed by the SPPA.",
-    "why_B_wrong": "Incorrect. The SPPA expressly applies to tribunals, not courts; courts are governed by their own procedural rules.",
-    "why_C_wrong": "This IS the correct answer. Under s. 3(1) of the SPPA, the Act applies to a proceeding by a tribunal in the exercise of a 'statutory power of decision' conferred by or under an Act of the Legislature where the tribunal is required by or under such Act or otherwise by law to hold or to afford parties an opportunity for a hearing.",
-    "why_D_wrong": "Incorrect. The SPPA's application is defined by its own s. 3(1) and the definition of 'statutory power of decision' in s. 1; there is no Schedule-based list of named tribunals.",
+    "explanation": "The pivotal requirement for SPPA application under s. 3(1) is that the tribunal must be 'required by or under' the enabling statute 'or otherwise by law' to hold or to afford the parties an opportunity for a hearing. Where the enabling statute uses 'may' rather than 'shall' for hearing convocation, the tribunal retains discretion over whether to hold a hearing. A discretionary ('may') hearing power does not satisfy the 'required to hold' threshold in s. 3(1). Tarion's enabling statute gives it discretion to convene a hearing; it does not require one. Consequently, the SPPA was not triggered and Tarion's informal conciliation process — while subject to common law fairness standards — was not bound by the SPPA's specific procedural requirements. This 'may vs shall' distinction is the central application threshold in SPPA jurisprudence.",
+    "why_A_wrong": "Incorrect. The SPPA does not apply to every proceeding in which a statutory power of decision is exercised. The s. 3(1) 'required to hold a hearing' threshold must also be met. A body that exercises a statutory power of decision but has no obligation to hold a hearing does not trigger the SPPA, even if the decision affects the applicant's legal rights.",
+    "why_B_wrong": "Incorrect. Filing a complaint with a statutory body does not automatically trigger the SPPA. The test is whether the body was required to hold or afford an opportunity for a hearing before deciding. The mere receipt of a complaint does not satisfy the s. 3(1) threshold.",
+    "why_C_wrong": "This IS the correct answer. No. Under s. 3(1) of the SPPA, the Act applies only where the tribunal is required by or under the enabling statute or otherwise by law to hold or afford an opportunity for a hearing. Because s. 14(2) of the enabling statute provides that Tarion 'may' convene a hearing — a discretionary not mandatory provision — Tarion was not required to hold a hearing, and the SPPA was not triggered.",
+    "why_D_wrong": "Incorrect. The SPPA applies to any tribunal exercising a statutory power of decision conferred by or under an Ontario statute, including bodies that are not part of the government's organizational structure. Tarion, as a corporation created by and exercising powers under provincial legislation, would qualify as a tribunal for SPPA purposes — but the 'required to hold a hearing' threshold was not met in any case.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
       "chapter": "Chapter 5 — Statutory Powers Procedure Act",
       "heading": "SPPA Application — When Does the SPPA Apply",
       "page": "N/A",
-      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 1 (definitions), s. 3(1) (application)"
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 1 (definitions), s. 3(1) (application); Ontario New Home Warranties Plan Act, R.S.O. 1990, c. O.31"
     },
     "pr_angle": {
       "applicable": false,
@@ -38,21 +38,22 @@
     },
     "exam_trigger_words": [
       "SPPA application",
-      "statutory power of decision",
+      "required to hold a hearing",
       "s. 3(1)",
-      "hearing required",
-      "tribunal"
+      "may vs shall",
+      "discretionary hearing"
     ],
     "tested_concepts": [
-      "SPPA s. 3(1) application threshold",
-      "definition of statutory power of decision s. 1",
-      "hearing requirement as trigger for SPPA"
+      "SPPA s. 3(1) required to hold hearing threshold",
+      "may vs shall distinction for SPPA application",
+      "discretionary hearing power does not trigger SPPA",
+      "statutory power of decision alone insufficient without hearing requirement"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-05-sppa-notice-001",
@@ -338,22 +339,22 @@
     "topic_heading": "SPPA — Hearing Procedure",
     "subtopic_id": "sppa_summons",
     "subtopic_heading": "Summons to Witness — SPPA Section 12",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "A respondent in a professional discipline hearing governed by the SPPA wishes to compel a reluctant witness to attend and give evidence. The witness refuses to attend voluntarily. The respondent's counsel asks the tribunal to issue a summons requiring the witness to appear and produce documents. The tribunal clerk states the tribunal has no power to compel witnesses and that only courts can issue summonses.",
-    "call_of_question": "Under s. 12 of the SPPA, does an Ontario tribunal governed by the Act have the power to issue summonses requiring witnesses to attend and produce documents at a hearing?",
+    "fact_pattern": "A nurse is the respondent in a professional discipline hearing before the College of Nurses of Ontario, which is governed by the SPPA. The hearing concerns allegations that she provided incompetent care to three patients on a single shift in 2023. The nurse's counsel requests that the tribunal issue a summons under s. 12 of the SPPA to a third-party data management company, requiring it to produce all electronic health records it has archived for any patient of that hospital from 2020 to 2023 — a dataset spanning over 40,000 patient files. The College's counsel objects: the request covers records of patients entirely unrelated to the three patients named in the allegations, and the connection between unrelated historical records and the specific 2023 care incidents has not been explained.",
+    "call_of_question": "Should the tribunal issue the summons as requested?",
     "options": {
-      "A": "No. Only superior courts have the power to issue summonses and require witness attendance; administrative tribunals cannot compel witnesses.",
-      "B": "Yes. Under s. 12 of the SPPA, a tribunal may require by summons the attendance of any person and the production at the hearing of any document or thing that the tribunal considers relevant to the subject matter of the proceeding.",
-      "C": "Yes, but only where the witness is a government employee; private individuals cannot be summonsed by an administrative tribunal.",
-      "D": "Yes, but only where the enabling statute of the tribunal expressly grants this power; the SPPA alone is insufficient."
+      "A": "Yes. Under s. 12 of the SPPA, a tribunal may summons documents from any person; the tribunal has no authority to limit the scope of a summons request once the power to issue is established.",
+      "B": "Yes. The nurse has a right to a full defence, and any hospital records from the relevant period may potentially be relevant; the tribunal should issue the summons and let the data management company object if it wishes.",
+      "C": "No. While the tribunal has the power under s. 12 to issue summonses for documents it considers relevant to the subject matter of the proceeding, the request as framed seeks records of 40,000 patients with no demonstrated connection to the three named patients or the specific incidents under review. The tribunal should decline to issue a summons in that form; the nurse may apply for a narrower summons directed at records of the three named patients.",
+      "D": "No. The tribunal has no power to issue summonses to third-party private companies; the s. 12 summons power applies only to parties to the proceeding."
     },
-    "correct_answer": "B",
-    "explanation": "Under the Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, s. 12(1), a tribunal may by summons require the attendance of any person at a hearing and the production of any document or other thing if the tribunal considers it relevant to the subject matter of the proceeding. A summons under s. 12 is not restricted to government employees; it applies to any person. The SPPA provides this power independently of the tribunal's enabling statute. Failure to comply with a tribunal summons may be enforced through superior court contempt proceedings under s. 13 of the SPPA.",
-    "why_A_wrong": "Incorrect. Section 12 of the SPPA expressly grants Ontario tribunals the power to issue summonses requiring witness attendance; this power is conferred by the SPPA itself, not just by courts.",
-    "why_B_wrong": "This IS the correct answer. Yes. Under s. 12 of the SPPA, a tribunal may require by summons the attendance of any person and the production at the hearing of any document or thing that the tribunal considers relevant to the subject matter of the proceeding.",
-    "why_C_wrong": "Incorrect. Section 12 of the SPPA contains no restriction to government employees; it applies to 'any person' whose attendance or document production is relevant to the proceeding.",
-    "why_D_wrong": "Incorrect. The power to issue summonses under s. 12 derives from the SPPA itself; the tribunal's enabling statute need not separately grant this power for SPPA-governed tribunals.",
+    "correct_answer": "C",
+    "explanation": "Section 12(1) of the SPPA gives a tribunal the power to issue a summons requiring any person to produce documents or things 'that the tribunal considers relevant to the subject matter of the proceeding.' The relevance requirement is the governing constraint: the tribunal does not have an unconstrained summons power. The subject matter of the proceeding is the alleged incompetent care of three specific patients in 2023. A request for 40,000 patient files spanning three years and extending to entirely unrelated patients is not limited to documents relevant to that subject matter. Issuing such a sweeping summons would be beyond the proper exercise of the s. 12 power. The tribunal should decline the overbroad request but may issue a targeted summons for records of the three patients at issue. The nurse's right to a full defence does not expand 'relevant to the subject matter' into a general discovery mechanism.",
+    "why_A_wrong": "Incorrect. Section 12 does not give the tribunal unlimited summons authority. The power is expressly conditioned on the tribunal considering the requested documents or witnesses 'relevant to the subject matter of the proceeding.' The tribunal both may and should assess relevance before issuing a summons; it is not required to issue every summons requested.",
+    "why_B_wrong": "Incorrect. The right to a full defence does not transform the s. 12 relevance requirement into a general discovery mandate. Speculative or untethered relevance — the mere possibility that something in 40,000 records might help — does not satisfy the standard. Relevance must be demonstrated, not merely asserted. The objection mechanism is also an insufficient substitute for the tribunal's duty to apply the relevance test at the outset.",
+    "why_C_wrong": "This IS the correct answer. While the tribunal has the power under s. 12 to issue summonses for documents it considers relevant to the subject matter of the proceeding, the request as framed seeks records of 40,000 patients with no demonstrated connection to the three named patients or the specific incidents under review. The tribunal should decline to issue a summons in that form; the nurse may apply for a narrower summons directed at records of the three named patients.",
+    "why_D_wrong": "Incorrect. Section 12 of the SPPA expressly applies to 'any person' — it is not limited to parties to the proceeding. The tribunal may summons third parties, including private companies. The issue here is not the target of the summons but the scope of the document request in relation to the relevance standard.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
@@ -369,20 +370,21 @@
     "exam_trigger_words": [
       "SPPA s. 12",
       "summons",
-      "compel witness",
-      "produce documents",
-      "relevant"
+      "relevant to subject matter",
+      "overbroad summons",
+      "third party documents"
     ],
     "tested_concepts": [
-      "SPPA s. 12 summons power",
-      "applies to any person not just government employees",
-      "SPPA alone grants summons power"
+      "SPPA s. 12 relevance requirement limits summons scope",
+      "tribunal must assess relevance before issuing summons",
+      "summons power applies to any person including third parties",
+      "relevance to subject matter of proceeding not general discovery"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-05-sppa-excl-001",

@@ -510,39 +510,39 @@
     "subtopic_heading": "Surety — Role and Obligations",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "Keon is released on bail with his aunt, Marlene, as his surety. The bail order requires Keon to reside at Marlene's home, observe a 10:00 p.m. curfew, and report to police weekly. Marlene pledges $5,000 as her recognizance. Three months into his release, Keon starts coming home well past midnight on multiple occasions. Marlene confronts him but he continues to breach the curfew.",
-    "call_of_question": "What is the proper course of action for Marlene if she can no longer control or supervise Keon?",
+    "fact_pattern": "Nizhoni is released on bail with her employer, Gerald, as her surety. Gerald pledges $8,000. The bail order requires Nizhoni to report to police weekly, abstain from alcohol, and notify Gerald of her whereabouts. Six weeks into the bail period, Gerald receives a call from Nizhoni: she tells him she has been drinking and is at a bar downtown in violation of her conditions. She asks Gerald not to report her, saying it was a one-time slip and she will comply from now on. Gerald is conflicted — he values his relationship with Nizhoni but understands he has legal responsibilities. He asks a lawyer what his obligations are now that he is aware of the breach.",
+    "call_of_question": "Under the Criminal Code's framework for surety obligations, which of the following best describes Gerald's position now that he has actual knowledge of Nizhoni's breach?",
     "options": {
-      "A": "Marlene must immediately report Keon's breach to police and will automatically lose her $5,000 pledge.",
-      "B": "Marlene may notify the court that she is no longer able to supervise Keon, and may be relieved of her obligations as surety; the court may then revoke the recognizance and issue an arrest warrant for Keon.",
-      "C": "Marlene must continue as surety for the entire period until trial; she cannot withdraw once appointed.",
-      "D": "Marlene's only remedy is to apply for a variation of bail conditions to reduce Keon's curfew obligation."
+      "A": "Gerald has no obligation to act — a surety's duty is limited to attending court and signing the recognizance; ongoing supervision of the accused's conduct is voluntary.",
+      "B": "Gerald must immediately telephone police and report the breach; failure to do so renders Gerald personally liable for the full $8,000 recognizance without any court process.",
+      "C": "Now that Gerald has actual knowledge of the breach, he must decide whether he can continue to supervise Nizhoni; if he cannot, he may surrender her into custody under s. 764(3) and apply to be relieved of his recognizance, which triggers forfeiture proceedings only if the court orders estreatment after a formal process.",
+      "D": "Gerald should apply to vary the bail conditions to remove the alcohol abstention requirement; once conditions are varied, his surety obligations are automatically discharged."
     },
-    "correct_answer": "B",
-    "explanation": "Under the Criminal Code, a surety who can no longer supervise an accused may surrender the accused into custody and apply to be relieved of their obligations. Section 767.1 provides a mechanism for a surety to bring the accused before a justice and be discharged from the recognizance. Once the surety surrenders the accused, the court may revoke the bail and issue a warrant for arrest if the accused is not surrendered directly. Estreatment of the surety's pledge occurs only if the accused breaches bail conditions and the court proceedings are not initiated to recover the surety — not automatically upon every breach report.",
-    "why_A_wrong": "Automatic loss of the surety's pledge does not occur merely because the accused breached bail conditions. Estreatment proceedings require a formal process. Moreover, Marlene's reporting of the breach does not by itself cause automatic forfeiture.",
-    "why_B_wrong": "This IS the correct answer. A surety who can no longer control the accused may surrender the accused and apply to be relieved of obligations under s. 767.1; the court may then issue a warrant.",
-    "why_C_wrong": "A surety is not irrevocably committed for the duration of proceedings. The Criminal Code provides mechanisms for a surety to be released from their obligations by surrendering the accused to custody and notifying the court.",
-    "why_D_wrong": "A variation of bail conditions is a remedy available to the accused or on consent of both parties; it does not resolve Marlene's concern about her inability to supervise Keon. The appropriate remedy for Marlene is to surrender the accused and apply to be relieved of her surety obligations.",
+    "correct_answer": "C",
+    "explanation": "A surety accepts responsibility for ensuring the accused complies with bail conditions. Under s. 764(3) of the Criminal Code, the surety's recognizance is forfeited if the accused fails to comply with conditions, but forfeiture (estreatment) follows a formal court process — it is not automatic. Where a surety has actual knowledge of a breach and can no longer ensure compliance, the appropriate legal step is to surrender the accused into custody under s. 764(3). The surety may then appear before a justice and apply to be discharged from the recognizance, preventing further liability. Gerald cannot simply ignore the breach because he now knows about it — doing so risks his recognizance being estreated if the breach is later established. His safest course is to exercise the surrender right and seek discharge.",
+    "why_A_wrong": "Understatement Trap. A surety's obligations are not limited to appearing at court. By signing the recognizance, the surety undertakes to ensure the accused complies with bail conditions. Active supervision is part of the surety's role. A surety with actual knowledge of a breach who takes no action remains at risk of estreatment.",
+    "why_B_wrong": "Wrong Timeline Trap. Automatic and immediate personal liability for the full recognizance does not arise simply because Gerald learns of the breach. Estreatment requires a formal court proceeding. While Gerald has an obligation to act, the consequence of inaction is exposure to estreatment proceedings — not immediate automatic forfeiture.",
+    "why_C_wrong": "This IS the correct answer. With actual knowledge of the breach, Gerald must decide if he can continue as surety. His statutory option is to surrender Nizhoni under s. 764(3) and apply for discharge; forfeiture of the recognizance only follows if the court orders estreatment through a formal process.",
+    "why_D_wrong": "Wrong Procedure Trap. A variation of bail conditions addresses the terms of the accused's release — it does not discharge the surety's existing obligations. Removing the alcohol condition would require Crown consent or a court order and would not retroactively address the breach Gerald already knows about. Gerald's surety obligations continue independently of any condition variation.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
       "chapter": "Chapter 3: Bail — Judicial Interim Release",
       "heading": "Surety — Role and Estreatment",
       "page": "N/A",
-      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 767, s. 767.1"
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 764(3), s. 766"
     },
     "pr_angle": {
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["surety", "surrender accused", "relieved of obligations", "recognizance", "s. 767.1", "estreatment"],
-    "tested_concepts": ["surety's right to surrender accused", "s. 767.1 relief from surety obligations", "estreatment process", "surety supervision role"],
+    "exam_trigger_words": ["surety", "surrender accused", "s. 764(3)", "recognizance", "breach of conditions", "estreatment", "actual knowledge of breach"],
+    "tested_concepts": ["surety's duty on learning of breach", "s. 764(3) surrender right", "estreatment as formal process — not automatic", "surety supervision obligation"],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-03-surety-002",

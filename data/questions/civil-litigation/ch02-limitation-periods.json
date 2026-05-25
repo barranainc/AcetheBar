@@ -608,20 +608,20 @@
     "subtopic_heading": "Suspension of Limitation Period — Minors and Persons Under Disability",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "Theo, age 6, is injured in a car accident on March 10, 2022. His parents do not commence an action on his behalf. On his 18th birthday in 2034, Theo learns that the limitation period for his claim may have expired.",
-    "call_of_question": "Under s. 6 of the Limitations Act, 2002, how does Theo's status as a minor affect the running of the two-year limitation period?",
+    "fact_pattern": "Mirela is injured in a slip-and-fall accident on April 15, 2020, when she is 14 years old. Her claim is immediately obvious: the occupier left ice on a public walkway. On September 1, 2021 — while Mirela is still 15 — her aunt is appointed as her litigation guardian by court order. The litigation guardian does not commence an action. Mirela turns 18 on April 15, 2024. Her lawyer must now determine when the two-year limitation period began to run and when it expires.",
+    "call_of_question": "Under ss. 6(1) and 6(2) of the Limitations Act, 2002, when did the two-year limitation period begin to run for Mirela's claim, and when does it expire?",
     "options": {
-      "A": "The two-year limitation period began running on March 10, 2022, the date of the accident; Theo's minority has no effect on the limitation period.",
-      "B": "The limitation period is suspended while Theo is a minor. It begins to run on the day he ceases to be a minor (his 18th birthday), so Theo has until his 20th birthday to commence an action.",
-      "C": "The limitation period is extended to 10 years for minors; Theo has until March 10, 2032 to commence an action.",
-      "D": "There is no limitation period for claims by minors injured in motor vehicle accidents."
+      "A": "The limitation period began running on April 15, 2020, the date of the accident; Mirela's minority does not affect the limitation period because the claim was immediately discoverable.",
+      "B": "The limitation period began running on April 15, 2024 — Mirela's 18th birthday — and expires on April 15, 2026, because the limitation period is suspended during minority and runs from the later of the litigation guardian appointment and the 18th birthday.",
+      "C": "The limitation period began running on September 1, 2021 — the date the litigation guardian was appointed — and expires on September 1, 2023, because s. 6(2) provides that a minor's claim is discovered on the earlier of the litigation guardian appointment date or the 18th birthday.",
+      "D": "The limitation period is suspended indefinitely during minority and does not begin to run until Mirela affirmatively elects to proceed; no fixed expiry date exists."
     },
-    "correct_answer": "B",
-    "explanation": "Under s. 6(1) of the Limitations Act, 2002, the limitation period established by s. 4 does not run during any period in which the person with the claim is a minor. Section 6(2) further provides that, for the purposes of the basic two-year limitation period in s. 4, a minor's claim is discovered on the day the minor ceases to be a minor or, if earlier, on the day a litigation guardian is appointed for the minor. Theo turns 18 in 2034; his two-year limitation period begins running on his 18th birthday and expires on his 20th birthday in 2036. Minority suspends — does not eliminate — the limitation period.",
-    "why_A_wrong": "Section 6 of the Limitations Act, 2002 expressly suspends the running of the limitation period during minority. The two-year period does not run against a minor.",
-    "why_B_wrong": "This IS the correct answer. Under s. 6, the limitation period is suspended during minority and begins to run on the day Theo turns 18; he has two years from that date.",
-    "why_C_wrong": "There is no automatic 10-year limitation period for minors. The basic two-year period applies but does not start running until the minor attains the age of majority.",
-    "why_D_wrong": "The suspension under s. 6 applies to motor vehicle accident claims but does not eliminate the limitation period entirely — it merely defers the start of the two-year period until the claimant turns 18.",
+    "correct_answer": "C",
+    "explanation": "Under s. 6(1) of the Limitations Act, 2002, the basic two-year limitation period does not run while the claimant is a minor. Under s. 6(2), for purposes of s. 4 (the basic two-year period), a minor's claim is discovered on the earlier of: (a) the day the person ceases to be a minor (turns 18); or (b) the day a litigation guardian is appointed for the minor. Here, the litigation guardian was appointed on September 1, 2021 — before Mirela's 18th birthday. Under s. 6(2), discovery is triggered on the earlier date, which is the litigation guardian's appointment on September 1, 2021. The two-year period therefore ran from September 1, 2021, and expired on September 1, 2023 — more than six months before Mirela turned 18. The action is now out of time.",
+    "why_A_wrong": "Section 6(1) expressly suspends the limitation period during minority regardless of when the claim was discoverable. The general discovery rule in s. 5 is displaced by the specific s. 6 regime for minors. (General Rule Trap — applying the ordinary discovery rule to a minor when the specific s. 6 regime governs)",
+    "why_B_wrong": "This is the most dangerous wrong answer. Section 6(2) uses the earlier of the two dates — not the later. Because the litigation guardian was appointed in 2021, the limitation period was triggered then, not on Mirela's 18th birthday in 2024. A candidate who correctly knows that the 18th birthday matters, but misreads s. 6(2) as selecting the later date, will choose this option and miss the expiry by almost three years. (Wrong Timeline Trap — reversing 'earlier of' to 'later of' in s. 6(2))",
+    "why_C_wrong": "This IS the correct answer. Section 6(2) selects the earlier of the litigation guardian appointment date (September 1, 2021) and the 18th birthday (April 15, 2024). The two-year limitation period therefore ran from September 1, 2021 and expired September 1, 2023.",
+    "why_D_wrong": "There is no indefinite or elective suspension of the limitation period for minors. Section 6 provides a specific framework that ties the start of the limitation period to the earlier of two objective events; it does not grant the minor a right to choose when time begins to run. (Overstatement Trap — overstating the scope of the protection for minors)",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -636,21 +636,21 @@
     },
     "exam_trigger_words": [
       "minor",
-      "s. 6",
-      "suspended",
-      "18th birthday",
-      "minority"
+      "s. 6(2)",
+      "litigation guardian",
+      "earlier of",
+      "18th birthday"
     ],
     "tested_concepts": [
-      "s. 6 suspension of limitation period for minors",
-      "two-year period begins on 18th birthday",
-      "minority tolls but does not eliminate limitation"
+      "s. 6(2) — earlier of: litigation guardian appointment date or 18th birthday triggers limitation",
+      "litigation guardian appointed before majority — limitation runs from appointment date",
+      "s. 6 suspension regime displaces general s. 5 discovery rule for minors"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-02-contrib-001",

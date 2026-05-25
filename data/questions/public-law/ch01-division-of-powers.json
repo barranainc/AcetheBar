@@ -8,38 +8,52 @@
     "topic_heading": "Division of Powers — Characterization of Legislation",
     "subtopic_id": "pith_and_substance",
     "subtopic_heading": "Pith and Substance Analysis",
-    "difficulty": "easy",
+    "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "Ontario enacts legislation requiring all handguns sold in the province to undergo a mandatory waiting period of 10 days before transfer to the purchaser. The federal government challenges the legislation, arguing it relates to criminal law under s. 91(27) of the Constitution Act, 1867. Ontario responds that the law is directed at public safety and consumer protection under s. 92(13) (property and civil rights) and s. 92(16) (matters of a merely local or private nature).",
-    "call_of_question": "In determining the constitutional validity of Ontario's waiting period law, what is the first step in the division of powers analysis?",
+    "fact_pattern": "Parliament enacts the Safe Food Packaging Act. The statute requires all manufacturers and importers of consumer food packaging to meet federally prescribed chemical-safety standards, prohibits the sale of non-compliant packaging, and makes violation a federal offence carrying fines and imprisonment. The statute's preamble states the purpose is 'to protect the health and safety of Canadians from toxic substances in food-contact materials.' Ontario challenges the Act, arguing its pith and substance is regulation of 'property and civil rights in the province' under s. 92(13) because it governs commercial sale of manufactured goods — a matter of contracts and commerce within Ontario. The federal government argues the dominant purpose is criminal law under s. 91(27) — prohibiting harmful conduct with a penal sanction — or alternatively general regulation of trade and commerce under s. 91(2).",
+    "call_of_question": "Applying the pith and substance analysis, under which head of federal power is this statute most accurately characterized, and why?",
     "options": {
-      "A": "Determine whether the law conflicts with existing federal legislation under the federal paramountcy doctrine.",
-      "B": "Determine the pith and substance of the law — its dominant purpose and legal effect — to identify which head of power it falls under.",
-      "C": "Determine whether the law engages s. 7 of the Canadian Charter of Rights and Freedoms.",
-      "D": "Determine whether the law falls under interjurisdictional immunity by assessing whether it affects a vital or essential part of a federal undertaking."
+      "A": "Section 92(13) — property and civil rights — because the statute primarily regulates the manufacture and sale of commercial products, which is a matter of commercial contract and property law within the province.",
+      "B": "Section 91(2) — regulation of trade and commerce — because any federal statute that affects the flow of goods between provinces automatically falls under the general trade and commerce power regardless of its stated purpose.",
+      "C": "Section 91(27) — criminal law — because the statute's dominant purpose is to protect public health by prohibiting the use of toxic substances in food packaging, backed by penal sanctions. Prohibitions supported by penalties aimed at genuine public safety evils fall within the criminal law power, even where they incidentally affect commercial activity.",
+      "D": "The statute cannot be characterized under a single head of power; it must be split by reading down the criminal sanctions from the regulatory standards, each assigned separately to s. 91(27) and s. 92(13) respectively."
     },
-    "correct_answer": "B",
-    "explanation": "The pith and substance analysis is the foundational first step in any division of powers analysis. The court identifies the dominant purpose and legal effect of the legislation to characterize it as falling under a federal (s. 91) or provincial (s. 92) head of power. Incidental effects on the other level's jurisdiction do not render a law unconstitutional so long as its dominant character is within the enacting government's jurisdiction. Only after characterization does the court assess paramountcy, interjurisdictional immunity, or Charter compliance.",
-    "why_A_wrong": "Incorrect. Federal paramountcy is analyzed only after the law has been characterized through pith and substance analysis; paramountcy assumes the provincial law is otherwise valid.",
-    "why_B_wrong": "This IS the correct answer. Determine the pith and substance of the law — its dominant purpose and legal effect — to identify which head of power it falls under.",
-    "why_C_wrong": "Incorrect. Charter analysis is separate from the division of powers analysis; the first step in a constitutional challenge based on division of powers is always characterization of the law through pith and substance.",
-    "why_D_wrong": "Incorrect. Interjurisdictional immunity is assessed after characterization and after confirming the law is a valid exercise of provincial power; it is not the first step.",
+    "correct_answer": "C",
+    "explanation": "Pith and substance analysis identifies the dominant purpose and legal effect of the legislation; incidental effects on other heads of power do not change its constitutional character. Here, the statute's dominant purpose — as revealed by its preamble, structure, and operative provisions — is protecting Canadians from toxic substances in food packaging through prohibition backed by criminal penalties. This is a paradigm use of the criminal law power under s. 91(27): a prohibition directed at a genuine public safety evil (toxic contamination of food), enforced by penal sanctions. The incidental effect on commercial activity (regulating packaging manufacturers and importers) does not change the dominant character of the law. Option A incorrectly treats the commercial effect as the dominant purpose; effects on trade and commerce are incidental. Option B incorrectly treats any goods-flow effect as automatically engaging s. 91(2); the general trade and commerce branch requires either interprovincial trade regulation or a general regulatory scheme affecting all of Canada's trade that provinces cannot enact severally — that analysis is not met by a product safety prohibition. Option D (reading down or 'severance') applies only after characterization when a law contains multiple separable provisions of different constitutional character; it is not a substitute for characterization itself.",
+    "why_A_wrong": "Incorrect. Applying pith and substance, the dominant purpose of the Act is not to regulate commercial contracts or property rights — it is to prohibit a public safety hazard (toxic chemicals in food contact materials). The commercial dimension is an incidental legal effect, not the dominant character. Courts do not characterize federal legislation by its effect on commercial actors when the statute's evident purpose is public safety through criminal prohibition.",
+    "why_B_wrong": "Incorrect. The general trade and commerce power under s. 91(2) does not automatically apply to any federal statute affecting goods. The second branch of s. 91(2) (general regulation of trade affecting Canada as a whole) requires a general regulatory scheme that the provinces could not enact individually and that targets trade as such — not a public safety prohibition that happens to affect commercial activity. A product safety statute with penal sanctions is more naturally classified as criminal law.",
+    "why_C_wrong": "This IS the correct answer. Section 91(27) — criminal law — because the statute's dominant purpose is to protect public health by prohibiting the use of toxic substances in food packaging, backed by penal sanctions. Prohibitions supported by penalties aimed at genuine public safety evils fall within the criminal law power, even where they incidentally affect commercial activity.",
+    "why_D_wrong": "Incorrect. Severance (reading down parts of a statute and assigning each to different heads of power) is a remedial doctrine applied after characterization when portions of a single statute exceed the enacting government's jurisdiction. It is not an approach to initial characterization of a statute whose provisions form a coherent whole directed at a single dominant purpose.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
       "chapter": "Chapter 1 — Division of Powers",
       "heading": "Pith and Substance Analysis",
       "page": "N/A",
-      "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92; Canadian Western Bank v Alberta, 2007 SCC 22"
+      "rule_or_statute_reference": "Constitution Act, 1867, ss. 91(2), 91(27), 92(13); Canadian Western Bank v Alberta, 2007 SCC 22; R v Hydro-Quebec, [1997] 3 SCR 213"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["pith and substance", "dominant purpose", "characterization", "division of powers", "incidental effects"],
-    "tested_concepts": ["pith and substance as first step", "dominant purpose vs incidental effects", "federal vs provincial heads of power"],
-    "estimated_time_seconds": 90,
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "pith and substance",
+      "dominant purpose",
+      "criminal law s. 91(27)",
+      "trade and commerce s. 91(2)",
+      "property and civil rights s. 92(13)"
+    ],
+    "tested_concepts": [
+      "pith and substance characterization applied",
+      "criminal law power — prohibition plus penal sanction for public safety",
+      "incidental commercial effect does not change dominant character",
+      "s. 91(27) vs. s. 91(2) vs. s. 92(13) characterization",
+      "severance vs. initial characterization"
+    ],
+    "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-01-param-001",

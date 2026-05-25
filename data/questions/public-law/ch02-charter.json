@@ -8,22 +8,22 @@
     "topic_heading": "Charter Rights and the Section 1 Oakes Test",
     "subtopic_id": "oakes_test",
     "subtopic_heading": "The Oakes Test — Two-Stage Analysis",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "A provincial law prohibiting certain political advertising during election periods is challenged under the Charter. The government argues the law is a valid limit on freedom of expression.",
-    "call_of_question": "Who bears the burden of justifying a limit on a Charter right under s. 1 of the Canadian Charter of Rights and Freedoms?",
+    "fact_pattern": "A provincial law restricts the display of commercial signs in languages other than French in storefront windows. A shop owner successfully establishes that the law infringes her s. 2(b) freedom of expression. The government then argues at the s. 1 stage. The shop owner argues that because the right infringed is a fundamental freedom, the burden of justification should shift to her to show the law goes further than necessary, not to the government. The government counters that it need only show a rational connection, not minimal impairment, because the infringement was minor.",
+    "call_of_question": "Which party bears the burden at Stage 2 of the Oakes proportionality analysis, and on what standard?",
     "options": {
-      "A": "The individual claimant must prove the law is unjustified.",
-      "B": "The burden is shared equally between the government and the claimant.",
-      "C": "The government bears the burden of demonstrating, on a balance of probabilities, that the limitation on the Charter right is reasonable and justified in a free and democratic society.",
-      "D": "No burden of proof applies under s. 1; the court assesses the law objectively."
+      "A": "The burden shifts to the claimant at Stage 2 because she must demonstrate the law is not the least restrictive means available.",
+      "B": "The government bears the burden throughout the entire Oakes test, including Stage 2 proportionality; it must demonstrate on a balance of probabilities that the means chosen are rationally connected, minimally impairing, and proportionate in their effects.",
+      "C": "The burden is shared at Stage 2: the government establishes rational connection, and the claimant must then rebut minimal impairment by identifying a less restrictive alternative.",
+      "D": "The government's burden at Stage 2 is limited to rational connection; the minimal impairment and effects branches are assessed objectively by the court without either party bearing a formal burden."
     },
-    "correct_answer": "C",
-    "explanation": "Under s. 1 of the Charter and as confirmed in R v Oakes, [1986] 1 SCR 103, the government bears the onus of proving, on a balance of probabilities, that a Charter infringement is a reasonable limit that is demonstrably justified in a free and democratic society.",
-    "why_A_wrong": "Incorrect. The burden does not fall on the claimant to disprove justification; once a Charter breach is established, the government must justify it.",
-    "why_B_wrong": "Incorrect. The burden is not shared. It rests exclusively on the government to demonstrate the limit is justified.",
-    "why_C_wrong": "This IS the correct answer. The government bears the burden of demonstrating, on a balance of probabilities, that the limitation on the Charter right is reasonable and justified in a free and democratic society.",
-    "why_D_wrong": "Incorrect. s. 1 analysis is not objective and burden-free; the government must affirmatively justify the infringement.",
+    "correct_answer": "B",
+    "explanation": "Under R v Oakes, [1986] 1 SCR 103, the government bears the burden throughout the s. 1 analysis — both Stage 1 (pressing and substantial objective) and all three branches of Stage 2 (rational connection, minimal impairment, and proportionality of effects). The burden is on the government at all stages, on a balance of probabilities. There is no shifting of the burden to the claimant at any point in the Oakes test, and the minor or serious nature of the infringement does not change which party must discharge the burden or eliminate the minimal impairment requirement.",
+    "why_A_wrong": "Incorrect. This describes a burden-shifting model that does not exist in Canadian Charter jurisprudence. The burden never shifts to the claimant at any stage of the Oakes analysis — the government must justify the infringement throughout.",
+    "why_B_wrong": "This IS the correct answer. The government bears the burden throughout the entire Oakes test, including Stage 2 proportionality; it must demonstrate on a balance of probabilities that the means chosen are rationally connected, minimally impairing, and proportionate in their effects.",
+    "why_C_wrong": "Incorrect. There is no shared or divided burden at Stage 2. Oakes assigned the full burden of justification to the government at every step of the analysis; the claimant need not rebut any branch.",
+    "why_D_wrong": "Incorrect. The government's burden at Stage 2 is not limited to rational connection. Oakes requires the government to satisfy all three branches of proportionality — rational connection, minimal impairment, and proportionality of effects — and bears the burden of proof on each.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "public_law",
@@ -38,21 +38,21 @@
     },
     "exam_trigger_words": [
       "s. 1",
-      "reasonable limit",
-      "burden",
-      "justification",
-      "Oakes"
+      "burden of proof",
+      "Oakes Stage 2",
+      "minimal impairment",
+      "shifting burden"
     ],
     "tested_concepts": [
-      "s. 1 burden of proof",
-      "Charter justification",
-      "Oakes test stage 1"
+      "government bears Oakes burden throughout",
+      "no burden shifting to claimant at Stage 2",
+      "balance of probabilities standard on s. 1"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-02-oakes-test-002",
@@ -226,50 +226,52 @@
     "topic_heading": "Charter Rights and the Section 1 Oakes Test",
     "subtopic_id": "oakes_test",
     "subtopic_heading": "The Oakes Test — Two-Stage Analysis",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "After a full Charter challenge, a court finds that a provincial law restricting Sunday business hours infringes freedom of religion but that the government has satisfied every element of the Oakes test: the objective is pressing and substantial, and the measures are rationally connected, minimally impairing, and proportionate in their effects.",
-    "call_of_question": "What is the legal effect when a government successfully satisfies all elements of the Oakes test under s. 1 of the Charter?",
+    "fact_pattern": "A federal statute prohibits all outdoor advertising within 300 metres of any school, including pharmacies displaying legal health-product signage. A pharmacy successfully establishes that this blanket prohibition infringes its s. 2(b) freedom of expression. At the s. 1 stage, the government proves a pressing and substantial objective (protecting children from exposure to commercial advertising) and a rational connection between the prohibition and that objective. However, expert evidence shows that a 100-metre exclusion zone around school entrances would achieve equivalent child-protection outcomes, and that the 300-metre radius was not the result of any empirical study. The government did not explain why a narrower measure was rejected.",
+    "call_of_question": "The court finds the 300-metre prohibition fails the minimal impairment branch. What is the consequence for the law, and what remedial option is most appropriate?",
     "options": {
-      "A": "The law is struck down and must be redrafted to fully eliminate the Charter infringement.",
-      "B": "The court must refer the matter to the legislature for review before the law can be upheld.",
-      "C": "The Charter infringement is justified under s. 1; the law is saved and upheld as constitutional.",
-      "D": "The court upholds the law but must order the government to compensate those whose rights were limited."
+      "A": "The law is saved under s. 1 because it satisfies Stage 1 and the rational connection branch; failure of minimal impairment is not fatal where the government's objective is pressing.",
+      "B": "The law is struck down in its entirety under s. 52(1) of the Constitution Act, 1982, with no further remedial analysis required.",
+      "C": "The law is constitutionally invalid under s. 52(1) because it fails minimal impairment; the court should then consider whether to read down the provision to a distance (such as 100 metres) that achieves the same objective while minimally impairing expression, rather than striking the law down entirely.",
+      "D": "The law is suspended for 12 months under s. 24(1) of the Charter to give Parliament time to cure the defect, and remains in full force during the suspension period."
     },
     "correct_answer": "C",
-    "explanation": "When a court finds a Charter infringement but the government satisfies all elements of the Oakes test, the limitation is 'demonstrably justified in a free and democratic society' under s. 1. The law is upheld as constitutional and no remedy is granted.",
-    "why_A_wrong": "Incorrect. A law that passes the Oakes test is saved, not struck down.",
-    "why_B_wrong": "Incorrect. Courts do not refer matters to the legislature after a successful s. 1 justification; they uphold the law.",
-    "why_C_wrong": "This IS the correct answer. The Charter infringement is justified under s. 1; the law is saved and upheld as constitutional.",
-    "why_D_wrong": "Incorrect. Successful s. 1 justification ends the constitutional analysis; there is no automatic requirement to compensate rights-holders.",
+    "explanation": "Failure at any branch of the Oakes proportionality analysis means the government has not justified the infringement under s. 1, and the law is declared invalid under s. 52(1) of the Constitution Act, 1982. However, s. 52(1) does not mandate total invalidity; courts have remedial flexibility. Where a law is too broad but a narrower version could validly achieve the government's objective, the appropriate remedy is reading down — giving the provision a narrower interpretation (here, applying the prohibition only within 100 metres) — rather than invalidating the entire statute. Reading down preserves the valid legislative purpose while excising only the unconstitutional excess. Suspension of a declaration is available under s. 52(1) discretion but is distinct from s. 24(1), which provides personal remedies; a blanket suspension keeping the full 300-metre zone in force would not be justified where a clear narrower alternative exists.",
+    "why_A_wrong": "Incorrect. All three branches of Stage 2 proportionality — rational connection, minimal impairment, and proportionality of effects — must be satisfied. The government cannot pass s. 1 by succeeding only at Stage 1 and rational connection while failing minimal impairment. Each branch is independently required.",
+    "why_B_wrong": "Incorrect. Total invalidation is one possible outcome under s. 52(1), but courts must consider whether partial invalidity (reading down) is more appropriate. Where the problem is overbreadth rather than a fundamental constitutional defect in the entire measure, reading down to cure the excess is the preferred remedy.",
+    "why_C_wrong": "This IS the correct answer. The law is constitutionally invalid under s. 52(1) because it fails minimal impairment; the court should then consider whether to read down the provision to a distance (such as 100 metres) that achieves the same objective while minimally impairing expression, rather than striking the law down entirely.",
+    "why_D_wrong": "Incorrect. A suspended declaration keeps the unconstitutional law operative for a defined period; while courts may do this (under s. 52(1) discretion, not s. 24(1)) where immediate invalidity would cause serious harm, it is not the appropriate remedy where a clear, narrower alternative exists that the court can itself fashion through reading down. Section 24(1) provides personal remedies to named claimants, not declarations of invalidity.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "public_law",
       "chapter": "Chapter 2 — Charter Rights",
       "heading": "The Oakes Test — Two-Stage Analysis",
       "page": "N/A",
-      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 1; R v Oakes, [1986] 1 SCR 103"
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 1; Constitution Act, 1982, s. 52(1); R v Oakes, [1986] 1 SCR 103; Schachter v Canada, [1992] 2 SCR 679"
     },
     "pr_angle": {
       "applicable": false,
       "pr_issue_type": null
     },
     "exam_trigger_words": [
-      "s. 1 saved",
-      "Oakes satisfied",
-      "constitutional",
+      "minimal impairment",
+      "reading down",
+      "s. 52(1)",
+      "Oakes fails",
       "Charter remedy"
     ],
     "tested_concepts": [
-      "effect of passing Oakes test",
-      "s. 1 justification",
-      "Charter remedies"
+      "consequence of failing minimal impairment",
+      "s. 52(1) declaration of invalidity",
+      "reading down vs. striking down",
+      "s. 24(1) vs. s. 52(1) distinction"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-02-s15-equal-001",

@@ -867,40 +867,51 @@
     "topic_id": "conflicts_of_interest",
     "topic_heading": "Conflicts of Interest — Rule 3.4",
     "subtopic_id": "lawyer_as_witness_conflict",
-    "subtopic_heading": "Lawyer as Witness — When Must Lawyer Withdraw — Rule 3.4-7",
+    "subtopic_heading": "Lawyer as Witness — Ethics Override — Client Consent Insufficient — Rule 3.4-7",
     "difficulty": "hard",
-    "fact_pattern": "Lawyer Ezra is lead trial counsel for the plaintiff in a personal injury action. During pre-trial preparation, he realizes he personally witnessed the accident that forms the basis of the claim — he happened to be driving by and saw the collision. He is the only independent witness to the specific sequence of events. His client wants him to testify as a witness and remain as trial counsel. Ezra believes he can manage both roles professionally.",
-    "call_of_question": "What must Ezra do under Rule 3.4-7 of the Rules of Professional Conduct?",
+    "fact_pattern": "Lawyer Sabine is lead trial counsel for the plaintiff in a commercial contract dispute. Three days before trial, Sabine realizes that she is the only person who witnessed the client sign the contract at the centre of the litigation — the execution was done in her office and no paralegal or assistant was present. The defendant intends to challenge the authenticity of the client's signature. Sabine's client expressly tells her: 'I want you to stay as my lawyer and also testify — I trust only you.' Sabine considers whether she may honour that instruction. The trial is in three days and replacing counsel now would cause delay.",
+    "call_of_question": "What must Sabine do, and does her client's express consent resolve the conflict under Rule 3.4-7?",
     "options": {
-      "A": "Ezra may act as both trial counsel and a witness if his client provides written informed consent to the dual role.",
-      "B": "Ezra must withdraw as trial counsel if he is to testify as a witness at trial; Rule 3.4-7 provides that a lawyer must not act as advocate and witness in the same proceeding, except in limited circumstances such as testimony on uncontested matters; testifying on the key facts of the accident makes Ezra a material witness and triggers the withdrawal requirement.",
-      "C": "Ezra may remain as trial counsel and also testify as a witness, provided he testifies at the beginning of the trial before beginning his role as advocate.",
-      "D": "Ezra may remain as counsel and testify only if he offers to step aside from cross-examination of opposing witnesses to avoid the appearance of partiality."
+      "A": "Sabine may act as both trial counsel and a witness because her client has provided express, informed consent to the dual role, and client autonomy governs conflicts of this kind.",
+      "B": "Sabine must withdraw as trial counsel; she may testify as a witness in the proceeding but cannot continue as advocate because Rule 3.4-7 prohibits acting as advocate in a proceeding where the lawyer is a necessary witness to a material contested issue; client consent does not override this prohibition.",
+      "C": "Sabine may remain as trial counsel and testify as a witness if she limits her testimony strictly to the narrow fact of witnessing the signature and does not comment on any other aspect of the litigation.",
+      "D": "Sabine may remain as trial counsel because the three-day timeline to trial constitutes 'substantial hardship to the client' — the hardship exception in Rule 3.4-7 applies and her continued representation is therefore permissible."
     },
     "correct_answer": "B",
-    "explanation": "Rule 3.4-7 of the LSO Rules of Professional Conduct provides that a lawyer must not act as advocate in a proceeding in which the lawyer is likely to be called as a witness, unless certain narrow exceptions apply — such as when the evidence is uncontested or when withdrawal would work substantial hardship on the client. Testifying on the contested sequence of events in a personal injury accident is material, contested testimony that squarely engages the prohibition. Client consent does not override Rule 3.4-7 because the rule protects the administration of justice, not merely the client's interests.",
-    "why_A_wrong": "Incorrect. Client consent does not cure the Rule 3.4-7 prohibition. The rule protects the integrity of the proceeding, not only the client — it cannot be waived by client consent alone.",
-    "why_B_wrong": "This IS the correct answer. Ezra must withdraw as trial counsel if he is to testify as a witness at trial; Rule 3.4-7 provides that a lawyer must not act as advocate and witness in the same proceeding, except in limited circumstances such as testimony on uncontested matters; testifying on the key facts of the accident makes Ezra a material witness and triggers the withdrawal requirement.",
-    "why_C_wrong": "Incorrect. The sequence of testimony does not resolve the conflict. Rule 3.4-7 prohibits the combination of roles regardless of when the testimony is given.",
-    "why_D_wrong": "Incorrect. Partial step-aside arrangements do not satisfy Rule 3.4-7. Once the lawyer is a material witness, full withdrawal from the advocacy role is required.",
+    "explanation": "Rule 3.4-7 of the LSO Rules of Professional Conduct prohibits a lawyer from acting as an advocate in a proceeding in which the lawyer is likely to be called as a witness. The rule provides narrow exceptions: testimony on uncontested matters, testimony relating solely to fees, or withdrawal that would cause the client substantial hardship. Sabine is a necessary witness on a contested material issue — the authenticity of the signature is in dispute and she is the only observer. Client consent is the key Ethics Override Trap in this question: while the Rules sometimes permit clients to consent to conflicts, Rule 3.4-7 protects the administration of justice, not merely the client's interests, and client consent cannot waive the prohibition. As for the hardship exception: the hardship must be to the client from the withdrawal itself — inconvenience from timing does not automatically qualify, and the analysis requires that no other option is reasonably available. On these facts, Sabine must withdraw as advocate and, if necessary, arrange for replacement counsel; she may then testify as a witness.",
+    "why_A_wrong": "Incorrect. This is an Ethics Override Trap. Client consent is the paradigmatic wrong answer for Rule 3.4-7 questions. The rule protects the integrity of the judicial process, not only the client's interest — it cannot be waived by client consent alone, however express or informed.",
+    "why_B_wrong": "This IS the correct answer. Sabine must withdraw as trial counsel; she may testify as a witness in the proceeding but cannot continue as advocate because Rule 3.4-7 prohibits acting as advocate in a proceeding where the lawyer is a necessary witness to a material contested issue; client consent does not override this prohibition.",
+    "why_C_wrong": "Incorrect. This is a Misapplied Tool. Limiting the scope of testimony does not resolve the Rule 3.4-7 conflict. The prohibition attaches to the combination of roles in the same proceeding — it is not cured by narrowing the subject matter of the testimony.",
+    "why_D_wrong": "Incorrect. This is a Wrong Timeline Trap. The hardship exception in Rule 3.4-7 requires genuine substantial hardship arising from withdrawal — not mere inconvenience from a tight timeline. The three-day delay does not automatically satisfy the exception, particularly since the conflict only became apparent at that late stage because Sabine did not identify it earlier. The exception does not excuse a lawyer from timely conflict identification.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
       "chapter": "Chapter 4",
       "heading": "Conflicts of Interest",
       "page": "N/A",
-      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-7 (lawyer as witness)"
+      "rule_or_statute_reference": "Rules of Professional Conduct (LSO), Rule 3.4-7 (lawyer as witness — prohibition and exceptions)"
     },
     "pr_angle": {
       "applicable": true,
-      "pr_issue_type": "conflict — lawyer as witness and advocate in same proceeding"
+      "pr_issue_type": "conflict — lawyer as necessary witness — client consent is Ethics Override Trap — hardship exception analysis"
     },
-    "exam_trigger_words": ["lawyer as witness", "trial counsel", "Rule 3.4-7", "advocate and witness", "material witness"],
-    "tested_concepts": [
-      "Rule 3.4-7 — lawyer cannot be advocate and witness in same proceeding",
-      "client consent does not override Rule 3.4-7",
-      "exception for uncontested matters only"
+    "exam_trigger_words": [
+      "lawyer as witness",
+      "trial counsel",
+      "Rule 3.4-7",
+      "advocate and witness",
+      "necessary witness",
+      "material issue",
+      "client consent",
+      "hardship exception"
     ],
+    "tested_concepts": [
+      "Rule 3.4-7 — lawyer cannot be advocate and witness in same proceeding on contested material issue",
+      "client consent does not override Rule 3.4-7 — Ethics Override Trap",
+      "hardship exception requires genuine substantial hardship — not mere timing inconvenience",
+      "limiting testimony scope does not cure the dual-role prohibition"
+    ],
+    "updated_at": "2026-05-25",
     "estimated_time_seconds": 150
   },
   {

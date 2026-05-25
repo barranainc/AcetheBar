@@ -175,50 +175,50 @@
     "subtopic_heading": "Class Counsel Duties — Duty to Class Members and Court",
     "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "Beaumont Class Counsel LLP has been retained as class counsel in a certified environmental contamination class action. During settlement negotiations, counsel negotiates a settlement that provides meaningful compensation to class members with properties in Zone A (where contamination was severe) but provides minimal recovery to class members in Zone B (where contamination was lighter). Some Zone B class members object that the settlement does not adequately represent their interests. Class counsel argues it has a duty to the class as a whole and that any settlement providing a net benefit to the majority satisfies its obligations.",
-    "call_of_question": "Which of the following best describes class counsel's duties in a class proceeding, particularly where different sub-groups of the class have potentially divergent interests?",
+    "fact_pattern": "Fennell Class Counsel LLP acts as class counsel in a certified product liability class action against Dumont Pharma Inc. There are approximately 4,000 class members. During the proceeding, Fennell learns that its named partner personally holds Dumont Pharma shares and that the firm received a referral fee from Dumont's insurer for an unrelated matter three years ago. The representative plaintiff, Ms. Kowalczyk, is unaware of either connection. Fennell has not disclosed these facts to the class or to the court. A settlement is being finalized and requires court approval under s.29 of the Class Proceedings Act, 1992.",
+    "call_of_question": "What is Fennell's most immediate professional obligation in these circumstances before the settlement approval hearing?",
     "options": {
-      "A": "Class counsel owes duties only to the representative plaintiff, not to individual class members; class members must retain their own counsel if they wish to challenge the settlement.",
-      "B": "Class counsel owes a duty to the class as a whole. Where different sub-groups have materially divergent interests, class counsel must consider those divergent interests and, where appropriate, ensure that the settlement is fair to all segments of the class — or disclose the conflict to the court; a settlement that systematically disadvantages a subgroup may not receive court approval.",
-      "C": "Class counsel's only obligation is to obtain court approval of the settlement; once the court approves the settlement, all class members are bound regardless of whether their interests were adequately considered.",
-      "D": "Class counsel may prioritize the interests of the most economically significant group of class members, as the obligation is to maximize the total recovery for the class as a whole without regard to internal allocation."
+      "A": "Fennell must disclose both the shareholder interest and the prior referral fee relationship to the representative plaintiff, to the class members (through the court-approved notice process), and to the court before the settlement approval hearing; if a material conflict exists that cannot be consented to, Fennell may need to withdraw.",
+      "B": "Fennell need not disclose either fact because the referral fee occurred three years ago and the shareholding is a personal matter unrelated to the class proceeding; the settlement should proceed on its merits.",
+      "C": "Fennell must disclose the shareholder interest only if the named partner personally participated in the settlement negotiations; the referral fee is not a conflict of interest because it predates the class action.",
+      "D": "Fennell's obligation is fully satisfied by disclosing the conflict to the court only; there is no obligation to disclose conflicts to individual class members because class counsel owes duties only to the representative plaintiff."
     },
-    "correct_answer": "B",
-    "explanation": "Under s.29 of the Class Proceedings Act, 1992 (S.O. 1992, c. 6) and the professional obligations of class counsel, class counsel owes duties to the class as a whole. In a certified class proceeding, class counsel represents all class members, not only the representative plaintiff and not only the most vocal or economically significant sub-group. Where different segments of the class have materially divergent interests — for example, Zone A and Zone B class members with different contamination exposures — class counsel must address the potential for internal class conflicts. If interests are sufficiently divergent, the court may require separate representation for sub-groups. Court approval of a settlement is required under s.29 of the CPA, and the court will assess whether the settlement is fair, reasonable, and in the best interests of the class as a whole — including all sub-groups. A settlement that systematically disadvantages a sub-group without adequate justification risks being refused court approval.",
-    "why_A_wrong": "Class counsel owes duties to all class members, not only the representative plaintiff. In a class proceeding, class counsel represents the interests of all class members, and individual class members cannot simply be told to retain their own counsel if their interests are not being adequately represented.",
-    "why_B_wrong": "This IS the correct answer. Class counsel owes a duty to the class as a whole; divergent sub-group interests must be addressed, and settlements that disadvantage a sub-group without adequate justification may not receive court approval.",
-    "why_C_wrong": "Court approval under s.29 of the CPA is a substantive protective mechanism, not merely a rubber stamp. The court assesses whether the settlement is fair, reasonable, and in the best interests of all class members; approval does not automatically follow from the parties' agreement.",
-    "why_D_wrong": "Maximizing total recovery without regard to internal allocation is not the appropriate standard. Class counsel must consider the fairness of the allocation among all class members and cannot simply subordinate the interests of a disadvantaged sub-group to maximize aggregate recovery.",
+    "correct_answer": "A",
+    "explanation": "Class counsel owes a duty of loyalty to the class as a whole, which includes all class members — not only the representative plaintiff. Under the Rules of Professional Conduct and the Class Proceedings Act, 1992 (S.O. 1992, c. 6), class counsel must identify, disclose, and address conflicts of interest. A named partner's shareholding in the defendant company creates a direct financial conflict: counsel is advising on a settlement that may affect the value of shares the firm's partner holds. A prior referral fee relationship with the defendant's insurer, even if dated, may create a reasonable apprehension of bias that must be disclosed. Both conflicts must be disclosed to the representative plaintiff, to the class (via the court-approved notice process), and to the court before the settlement approval hearing under s.29. If informed consent to act cannot be obtained or the conflict is non-consentable, withdrawal may be required. The settlement approval hearing is not the time for the court to first learn of these facts.",
+    "why_A_wrong": "This IS the correct answer. Both conflicts must be disclosed to the representative plaintiff, the class through the notice process, and the court. Class counsel's duty of loyalty extends to all class members; non-disclosure of a material conflict before a settlement approval hearing is a serious professional obligation breach.",
+    "why_B_wrong": "The age of the referral fee and the 'personal' nature of the shareholding do not extinguish the disclosure obligation. A conflict of interest is assessed by whether it creates a reasonable apprehension that class counsel's loyalty is compromised — not by whether it is recent or labelled 'personal'. Undisclosed conflicts that surface after settlement approval can result in the settlement being set aside and disciplinary consequences for counsel. (General Rule Trap — applying the general position that old matters are irrelevant, ignoring the conflict-of-interest analysis)",
+    "why_C_wrong": "Personal participation in negotiations is not the threshold for disclosure. A conflict of interest arising from a financial interest in the opposing party exists independently of whether the conflicted partner personally conducted negotiations; the firm as a whole is affected. (Understatement Trap — narrowing the disclosure obligation to direct participation when the conflict analysis is firm-wide)",
+    "why_D_wrong": "Class counsel's duty extends to all class members, not only the representative plaintiff. Disclosure to the court alone is insufficient; class members must have the opportunity to be informed of conflicts affecting the integrity of the proceeding before they are bound by the settlement. The notice process under the CPA exists precisely to protect class members' rights. (Ethics Override Trap — treating court disclosure as a complete substitute for the full disclosure obligation owed to all class members)",
     "source_reference": {
       "lso_material": "2026 LSO Barrister Examination Materials",
       "subject": "Civil Litigation",
       "chapter": "Class Proceedings",
       "heading": "Class Counsel Duties — Duty to Class Members and Court",
       "page": "see blueprint",
-      "rule_or_statute_reference": "Class Proceedings Act, 1992, S.O. 1992, c. 6, s.29"
+      "rule_or_statute_reference": "Class Proceedings Act, 1992, S.O. 1992, c. 6, s.29; LSO Rules of Professional Conduct, r. 3.4"
     },
     "pr_angle": {
       "applicable": true,
-      "pr_issue_type": "class counsel's duty to all class members — conflict of interest where sub-groups have divergent interests"
+      "pr_issue_type": "class counsel conflict of interest — undisclosed financial interest and prior referral fee relationship — duty to disclose to court, representative plaintiff, and all class members"
     },
     "exam_trigger_words": [
-      "class counsel",
-      "duty to class",
-      "divergent interests",
-      "sub-group",
-      "settlement approval"
+      "class counsel conflict",
+      "shareholding",
+      "referral fee",
+      "disclosure obligation",
+      "s.29 settlement approval"
     ],
     "tested_concepts": [
-      "class counsel duty to class as a whole",
-      "divergent sub-group interests — must be addressed",
-      "s.29 CPA court approval — fair to all class segments",
-      "PR angle — class counsel conflict of interest"
+      "class counsel owes duty to all class members — not only representative plaintiff",
+      "conflict of interest — financial interest in opposing party must be disclosed",
+      "disclosure to court, representative plaintiff, and class before settlement approval",
+      "s.29 CPA settlement approval — court assesses fairness including counsel conflicts"
     ],
-    "estimated_time_seconds": 150,
+    "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-16-notice-001",
@@ -274,5 +274,61 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-08-cpa-001",
+    "subject": "civil_litigation",
+    "chapter_number": 16,
+    "chapter_title": "Class Proceedings",
+    "topic_id": "class_proceedings",
+    "topic_heading": "Class Proceedings in Ontario",
+    "subtopic_id": "aggregate_assessment",
+    "subtopic_heading": "Aggregate Assessment of Monetary Relief — s.24 CPA and Non-Identifiable Class Members",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A certified class action against Vantage Financial Inc. for systemic overcharging of service fees has reached the damages phase. The common issues trial has established that Vantage overcharged customers by a uniform percentage over a four-year period. Class counsel moves for aggregate assessment of the total overcharge under s.24 of the Class Proceedings Act, 1992. Vantage argues that aggregate assessment is unavailable because not all class members can be individually identified — some accounts were closed and records were purged — and that the court must first determine each class member's individual loss before any damages can be awarded.",
+    "call_of_question": "Under s.24 of the Class Proceedings Act, 1992, is Vantage correct that aggregate assessment of monetary relief is unavailable where some class members cannot be individually identified?",
+    "options": {
+      "A": "Yes — s.24 of the CPA requires individual proof of each class member's loss before the court may award aggregate monetary relief; aggregate assessment is merely a shortcut unavailable where individual records are missing.",
+      "B": "No — s.24 of the CPA expressly permits the court to assess aggregate monetary relief for the class as a whole without proof of individual class members' claims; the inability to identify all class members does not bar aggregate assessment.",
+      "C": "No — but the aggregate assessment may only proceed if class counsel can demonstrate that at least 90 percent of class members are individually identifiable; otherwise, the court must direct individual assessment.",
+      "D": "Yes — where class member records have been destroyed, any damages award would be speculative; the proper remedy is to dismiss the damages claim and refer the matter back to individual proceedings."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 24(1) of the Class Proceedings Act, 1992 (S.O. 1992, c. 6) expressly provides that the court may make an order for the aggregate assessment of monetary relief where: (a) monetary relief is claimed on behalf of some or all class members; (b) no questions of fact or law other than those relating to the assessment of monetary relief are remaining to be determined; and (c) the aggregate or a part of the defendant's liability to some or all class members can reasonably be determined without proof of individual class members' claims. The statute explicitly contemplates aggregate assessment without individual proof of each class member's claim. Non-identifiability of some class members is a feature the legislature anticipated: s.24 was designed precisely for situations where individual proof is impractical. Vantage's argument — that individual identification is a precondition — contradicts the express text of s.24(1)(c) and the purpose of aggregate monetary awards. The court may assess the aggregate amount and then address distribution under s.24(2) by directing payment to class members who come forward or to a cy-près recipient.",
+    "why_A_wrong": "This is the trap answer — it states a rule that sounds procedurally reasonable to a candidate familiar with the general principle that damages must be proved, but it directly contradicts s.24(1)(c) of the CPA. Section 24 exists specifically to permit aggregate monetary awards without individual proof of each class member's claim. A candidate who applies the general common law damages rule (individual proof required) without recognizing the specific CPA override will choose this option. (General Rule Trap — applying the general civil damages proof standard when the CPA s.24 regime expressly displaces it)",
+    "why_B_wrong": "This IS the correct answer. Section 24(1)(c) of the CPA expressly permits aggregate assessment without individual proof of class members' claims; non-identifiability of some members does not bar the award.",
+    "why_C_wrong": "There is no 90 percent identifiability threshold in the Class Proceedings Act, 1992. The statute imposes no minimum percentage of identifiable class members as a precondition to aggregate assessment. This number is invented and designed to trap candidates who know aggregate assessment is available in principle but assume there must be some minimum identifiability floor. (Overstatement Trap — importing a non-existent numerical threshold into the s.24 analysis)",
+    "why_D_wrong": "Speculative damages concerns do not require dismissal where s.24 provides a statutory mechanism for aggregate assessment. Destruction of individual records is addressed by the aggregate methodology itself — the court can assess the total overcharge from Vantage's records without needing individual class member files. Dismissing the damages claim and requiring individual proceedings would defeat the purpose of the class proceeding and is not a consequence the CPA contemplates in this situation. (Premature Escalation Trap — invoking the most extreme remedy of dismissal when the statute provides a proportionate resolution mechanism)",
+    "source_reference": {
+      "lso_material": "2026 LSO Barrister Examination Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Class Proceedings",
+      "heading": "Aggregate Assessment of Monetary Relief — s.24 CPA",
+      "page": "see blueprint",
+      "rule_or_statute_reference": "Class Proceedings Act, 1992, S.O. 1992, c. 6, s.24(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "aggregate assessment",
+      "s.24 CPA",
+      "non-identifiable class members",
+      "without individual proof",
+      "monetary relief"
+    ],
+    "tested_concepts": [
+      "s.24(1)(c) CPA — aggregate assessment permitted without individual proof of class members' claims",
+      "non-identifiability of some class members does not bar s.24 aggregate award",
+      "s.24 displaces common law individual damages proof requirement in class proceedings",
+      "cy-près distribution available where members cannot be individually identified"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
   }
 ]
