@@ -510,20 +510,20 @@
     "subtopic_heading": "Reasonable Apprehension of Bias",
     "difficulty": "easy",
     "question_type": "single_best_answer",
-    "fact_pattern": "A member of a provincial energy regulatory board is assigned to adjudicate a rate application filed by a natural gas company. Before the hearing, the company's lawyer discovers that the board member, prior to his appointment, publicly wrote and circulated an opinion paper strongly advocating for the very rate-setting methodology the company now opposes. The applicant submits a motion to disqualify the board member on grounds of bias.",
-    "call_of_question": "What is the legal test for a reasonable apprehension of bias as established by the Supreme Court of Canada?",
+    "fact_pattern": "Dr. Amara Singh is a rate-setting economist who, before her appointment to the Ontario Energy Board, co-authored and publicly circulated a detailed policy paper arguing that the \"revenue-cap\" method for calculating natural gas distribution rates systematically undervalues capital investment and disadvantages utilities. GasCo Ltd. has filed a rate application before the OEB using the revenue-cap method, and Dr. Singh has been assigned as the presiding member. GasCo's counsel brings a motion to disqualify Dr. Singh before the hearing begins. Dr. Singh responds that she wrote the paper years ago in an academic capacity, that she has no financial interest in the outcome, and that she will approach the evidence with an open mind.",
+    "call_of_question": "Applying the legal test for reasonable apprehension of bias, how should the OEB rule on GasCo's motion?",
     "options": {
-      "A": "Whether the decision-maker actually harbours subjective bias against the party seeking disqualification.",
-      "B": "Whether a reasonable and informed person, having thought the matter through, would conclude that it is more likely than not that the decision-maker, whether consciously or unconsciously, would not decide fairly.",
-      "C": "Whether the decision-maker has any prior connection whatsoever to the subject matter of the proceeding.",
-      "D": "Whether there is direct evidence that the decision-maker communicated privately with one party before or during the hearing."
+      "A": "The motion should be dismissed because Dr. Singh has no financial interest in the outcome and has declared her willingness to approach the evidence with an open mind, which satisfies the requirement of actual impartiality.",
+      "B": "The motion should be granted because a reasonable and informed person, knowing that Dr. Singh publicly advocated against the very methodology now under review, would apprehend that she might not bring an open mind to the rate application, regardless of her stated intention.",
+      "C": "The motion should be dismissed because prior academic writing on policy matters is categorically excluded from the reasonable apprehension of bias test, which applies only to personal relationships and financial conflicts.",
+      "D": "The motion should succeed only if GasCo can produce direct evidence that Dr. Singh's views on the revenue-cap method have not changed since she wrote the paper — mere publication of an opinion paper is insufficient without proof of continuing prejudice."
     },
     "correct_answer": "B",
-    "explanation": "The test for reasonable apprehension of bias was established in Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369, per de Grandpre J (dissent adopted as the correct test): the question is whether a reasonable and informed person, having thought the matter through, would apprehend that the decision-maker, consciously or unconsciously, would not decide fairly. This is an objective test measured from the perspective of a reasonable and fully informed observer — not whether actual bias exists.",
-    "why_A_wrong": "Incorrect. The test is objective, not subjective; actual bias need not be proven. A reasonable apprehension of bias is sufficient to ground disqualification.",
-    "why_B_wrong": "This IS the correct answer. Whether a reasonable and informed person, having thought the matter through, would conclude that it is more likely than not that the decision-maker, whether consciously or unconsciously, would not decide fairly.",
-    "why_C_wrong": "Incorrect. Prior connection alone does not establish reasonable apprehension of bias; the test requires that such connection, viewed objectively, would cause a reasonable informed person to apprehend unfairness in the adjudication.",
-    "why_D_wrong": "Incorrect. Ex parte communication with one party is evidence of bias, but the reasonable apprehension test does not require direct evidence of bias — it asks whether a reasonable person would apprehend a lack of impartiality on the available facts.",
+    "explanation": "The test for reasonable apprehension of bias, established in Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369, asks whether a reasonable and fully informed person, having thought the matter through, would apprehend that the decision-maker — consciously or unconsciously — would not decide fairly. The test is objective and does not require proof of actual bias or subjective partiality. Dr. Singh's prior public advocacy against the precise methodology she is now asked to assess would cause a reasonable and informed observer to apprehend a real risk of unfairness. Her denial of subjective bias and her declaration of open-mindedness are irrelevant to the objective test — actual bias need not be established. Option A falls into the Subjective Bias Trap by conflating the objective test with a requirement of actual bias. Option C is wrong because the test is not confined to financial conflicts or personal relationships; it applies to all circumstances creating an objective apprehension of unfairness, including strong prior advocacy. Option D imposes a non-existent evidentiary requirement — the test does not require proof that the views are continuing; the public paper itself is a sufficient factual foundation for the objective analysis.",
+    "why_A_wrong": "Subjective Bias Trap: the reasonable apprehension of bias test is objective, not subjective. Dr. Singh's stated open-mindedness and absence of a financial interest are irrelevant; a reasonable informed observer assessing the prior public advocacy would still apprehend unfairness.",
+    "why_B_wrong": "This IS the correct answer. A reasonable and informed person would apprehend that Dr. Singh, having publicly and forcefully argued against the revenue-cap method, might not bring a truly open mind to assessing that same methodology in a live proceeding.",
+    "why_C_wrong": "Overstatement Trap: there is no categorical exclusion for academic or policy writing from the bias analysis. The Committee for Justice and Liberty test applies to all circumstances that would cause a reasonable observer to apprehend a lack of impartiality, including strong prior public advocacy on the very issue in dispute.",
+    "why_D_wrong": "Wrong Forum/Procedure Trap: the reasonable apprehension test does not require direct evidence of continuing prejudice or proof that the decision-maker's views persist. The objective question is whether a reasonable person would apprehend bias on the known facts — the prior publication is itself the factual trigger for that analysis.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
@@ -538,22 +538,25 @@
     },
     "exam_trigger_words": [
       "reasonable apprehension of bias",
-      "Committee for Justice and Liberty",
-      "informed person",
+      "disqualification",
+      "prior advocacy",
       "objective test",
-      "disqualification"
+      "open mind",
+      "prior academic writing",
+      "Committee for Justice and Liberty"
     ],
     "tested_concepts": [
-      "reasonable apprehension of bias test",
-      "objective standard",
-      "Committee for Justice and Liberty test",
-      "prior connection to subject matter"
+      "reasonable apprehension of bias — objective standard",
+      "prior public advocacy as basis for bias",
+      "actual bias vs apprehension of bias",
+      "irrelevance of stated open-mindedness to objective test",
+      "scope of bias test beyond financial conflicts"
     ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-03-bias-002",

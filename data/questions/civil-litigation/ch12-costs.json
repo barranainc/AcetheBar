@@ -52,20 +52,20 @@
     "subtopic_heading": "Bill of Costs and Assessment — r.58.02",
     "difficulty": "easy",
     "question_type": "single_best_answer",
-    "fact_pattern": "A successful plaintiff has obtained a costs order at trial. Rather than having the court fix costs immediately, the judge directs the plaintiff to proceed to assessment of costs. The plaintiff's counsel is preparing the documentation required for the assessment process.",
-    "call_of_question": "Under r.58.02 of the Rules of Civil Procedure, what document must a party prepare to initiate an assessment of costs?",
+    "fact_pattern": "Vasquez wins a four-day commercial trial against Drummond Corp. At the conclusion of trial, Vasquez's counsel asks the judge to fix costs immediately. The judge notes that the matter is complex, that the amounts in dispute are substantial, and that it would be preferable for the costs to be assessed by an assessment officer rather than fixed summarily. The judge makes a costs order entitling Vasquez to his costs of the action, to be assessed. Vasquez's counsel returns to the office to prepare for the assessment process. Drummond's counsel calls and asks whether Drummond must consent to any document Vasquez files before the assessment proceeds.",
+    "call_of_question": "Under r.58.02 of the Rules of Civil Procedure, what must Vasquez's counsel prepare to initiate the formal assessment of costs, and is Drummond's consent required before that document is filed?",
     "options": {
-      "A": "A costs outline setting out an estimate of anticipated fees and disbursements.",
-      "B": "A bill of costs, which is a detailed statement of all services performed and disbursements incurred by the party entitled to costs.",
-      "C": "An affidavit from the client confirming the legal fees actually paid.",
-      "D": "A request for assessment, accompanied by a copy of the order granting costs, filed directly with the Court of Appeal."
+      "A": "Vasquez must file the costs outline that was served at trial; that document doubles as the bill of costs for the assessment, and Drummond's consent is required before the assessment officer may review it.",
+      "B": "Vasquez must prepare a bill of costs — a detailed itemized statement of all services performed and disbursements incurred — and file it with the court for review by an assessment officer; Drummond's consent is not required to file the bill of costs.",
+      "C": "Vasquez must obtain an affidavit from his client confirming the total legal fees paid to date, and serve it on Drummond; Drummond may then dispute the amount at a costs hearing before the trial judge.",
+      "D": "Vasquez must bring a motion before the Divisional Court to have the costs assessed; costs assessed at the trial level cannot be reviewed without Divisional Court leave."
     },
     "correct_answer": "B",
-    "explanation": "Under r.58.02 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a party who is entitled to costs of a proceeding shall prepare a bill of costs, which is assessed by an assessment officer. The bill of costs is a detailed itemized statement setting out all services performed by counsel and all disbursements incurred in the proceeding, to be assessed against the applicable tariff or as ordered by the court. The assessment officer reviews the bill of costs and issues a certificate of assessment.",
-    "why_A_wrong": "A costs outline is prepared for the purpose of a judge fixing costs summarily at the conclusion of a hearing. A bill of costs is the document required for formal assessment under r.58.02.",
-    "why_B_wrong": "This IS the correct answer. Rule 58.02 requires a bill of costs — a detailed itemized statement of services and disbursements — for the formal assessment process.",
-    "why_C_wrong": "An affidavit from the client confirming amounts paid is not the required document for assessment under r.58.02. The bill of costs is the required document, prepared by counsel.",
-    "why_D_wrong": "Assessment of costs is conducted by an assessment officer at the trial court level, not the Court of Appeal. The document filed is a bill of costs under r.58.02, not a request for assessment to the Court of Appeal.",
+    "explanation": "Under r.58.02 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a party entitled to costs shall prepare a bill of costs — a detailed itemized statement setting out all services performed by counsel and all disbursements incurred — and file it with the court for assessment by an assessment officer. The bill of costs is not the same as the costs outline (which is a summary document used for fixing costs summarily at a hearing). Drummond's consent is not required to file a bill of costs; Drummond will have the opportunity to dispute items in the bill at the assessment. The assessment officer reviews the bill, hears any objections, and issues a certificate of assessment that, upon filing with the registrar, has the force of a court order.",
+    "why_A_wrong": "A costs outline and a bill of costs are distinct documents. The costs outline is a summary prepared for a judge to fix costs summarily at the conclusion of a hearing; it does not substitute for the detailed bill of costs required for formal assessment under r.58.02. Drummond's consent is not required to file the bill of costs. (Misapplied Tool — using the wrong document from the wrong procedural stage)",
+    "why_B_wrong": "This IS the correct answer. Vasquez must prepare a bill of costs under r.58.02 — a detailed itemized statement of services and disbursements — filed without requiring Drummond's consent; Drummond may dispute items at the assessment.",
+    "why_C_wrong": "An affidavit from the client confirming fees paid is not the document required for assessment under r.58.02. The bill of costs is prepared by counsel and sets out services and disbursements; a client affidavit is not the prescribed instrument, and the assessment does not take place before the trial judge. (Wrong Forum/Procedure Trap — directing the process to the wrong forum with the wrong document)",
+    "why_D_wrong": "Assessment of costs is conducted by an assessment officer at the Superior Court of Justice level, not by the Divisional Court. There is no requirement for Divisional Court leave to have costs assessed; the assessment process flows from the costs order made at trial pursuant to Part 58 of the Rules. (Wrong Forum/Procedure Trap — inventing a Divisional Court leave requirement that does not exist)",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -75,13 +75,13 @@
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.58.02"
     },
     "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["bill of costs", "r.58.02", "assessment", "assessment officer", "detailed statement"],
-    "tested_concepts": ["bill of costs required for assessment — r.58.02", "assessment officer reviews bill of costs", "costs outline vs bill of costs distinction"],
-    "estimated_time_seconds": 75,
+    "exam_trigger_words": ["bill of costs", "r.58.02", "assessment", "assessment officer", "costs outline vs bill of costs", "detailed statement"],
+    "tested_concepts": ["bill of costs required for formal assessment — r.58.02", "distinction between costs outline (summary fixing) and bill of costs (formal assessment)", "assessment officer reviews bill of costs — no opposing consent required to file", "certificate of assessment issued upon completion"],
+    "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-12-si-001",

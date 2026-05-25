@@ -10,20 +10,20 @@
     "subtopic_heading": "FIPPA — Right of Access; Mandatory vs Discretionary Exemptions",
     "difficulty": "easy",
     "question_type": "single_best_answer",
-    "fact_pattern": "A journalist submits an access to information request under FIPPA to the Ontario Ministry of Health for records relating to a ministerial briefing on a healthcare policy matter. The Ministry responds that the records are exempt and refuses access. The journalist challenges the refusal at the Information and Privacy Commissioner.",
-    "call_of_question": "Under FIPPA, what is the general right of access and what is the key distinction between mandatory and discretionary exemptions?",
+    "fact_pattern": "Beatrice Fontaine is a policy researcher at a Toronto-based think tank who lives in Québec. She submits a FIPPA request to the Ontario Ministry of Health for two categories of records: (1) a ministerial briefing note prepared by Ministry lawyers advising the Minister on potential litigation exposure arising from a delayed drug-approval decision; and (2) records identifying by name the individual patients who filed complaints about the drug-approval delay. The Ministry's access coordinator reviews the request and, without citing any provision or explaining any exercise of discretion, sends a single-line refusal stating: \"The requested records are exempt under FIPPA.\"",
+    "call_of_question": "Which of the following best describes the legal errors, if any, in the Ministry's refusal?",
     "options": {
-      "A": "FIPPA does not grant any general right of access; access to government records is provided only at the discretion of the institution.",
-      "B": "Under FIPPA s. 10, every person has a right of access to a record in the custody or under the control of an institution, subject to limited exemptions; mandatory exemptions (such as s. 21 personal privacy) must be applied by the institution, while discretionary exemptions (such as s. 19 solicitor-client privilege) may be applied if the institution decides in its discretion to claim them.",
-      "C": "FIPPA grants a right of access only to Ontario residents; non-residents and corporations have no right of access to government records.",
-      "D": "Under FIPPA all exemptions are mandatory; once an exemption applies, the institution must always withhold the record."
+      "A": "The refusal is valid in its entirety because Beatrice, as a Québec resident rather than an Ontario resident, has no right of access under FIPPA, and the Ministry was correct to deny the request without further analysis.",
+      "B": "The refusal is defective because the Ministry failed to distinguish between a mandatory exemption (s. 21 personal privacy for the patient records) and a discretionary exemption (s. 19 solicitor-client privilege for the legal briefing note); for the s. 19 exemption the Ministry was required to affirmatively exercise and justify its discretion to withhold, which it did not do.",
+      "C": "The refusal is valid for both categories of records because once any statutory exemption potentially applies to a record, the institution has fulfilled its FIPPA obligations by issuing a blanket refusal without identifying the specific exemption relied upon.",
+      "D": "The refusal is defective only as to the patient records because s. 21 personal privacy is a mandatory exemption that the Ministry must apply automatically regardless of the circumstances; the legal briefing note is exempt under s. 19 and no further analysis or exercise of discretion is required for solicitor-client privileged records."
     },
     "correct_answer": "B",
-    "explanation": "Under the Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. F.31, s. 10, every person has a right of access to a record or part of a record in the custody or under the control of an institution unless the record or part falls within one of the enumerated exemptions. FIPPA distinguishes between mandatory exemptions (where the institution shall refuse access — e.g., s. 21 personal privacy) and discretionary exemptions (where the institution may refuse access — e.g., s. 14 law enforcement, s. 19 solicitor-client privilege). For discretionary exemptions, the institution must exercise its discretion to claim the exemption; if it fails to do so, access must be granted.",
-    "why_A_wrong": "Incorrect. FIPPA s. 10 establishes a positive right of access as the default; the burden is on the institution to demonstrate that an exemption applies, not on the requester to prove entitlement.",
-    "why_B_wrong": "This IS the correct answer. Under FIPPA s. 10, every person has a right of access to a record in the custody or under the control of an institution, subject to limited exemptions; mandatory exemptions (such as s. 21 personal privacy) must be applied by the institution, while discretionary exemptions (such as s. 19 solicitor-client privilege) may be applied if the institution decides in its discretion to claim them.",
-    "why_C_wrong": "Incorrect. FIPPA s. 10 grants a right of access to 'every person' without restriction to Ontario residents; corporations and non-residents may also submit access requests.",
-    "why_D_wrong": "Incorrect. FIPPA contains both mandatory and discretionary exemptions; not all exemptions are mandatory. Discretionary exemptions require the institution to affirmatively exercise its discretion to withhold.",
+    "explanation": "Under FIPPA s. 10, every person — without restriction to Ontario residents — has a right of access to a record in the custody or under the control of an institution. The burden is on the institution to demonstrate that an exemption applies. FIPPA draws a critical distinction between mandatory exemptions (using 'shall refuse' — e.g., s. 21 personal privacy) and discretionary exemptions (using 'may refuse' — e.g., s. 19 solicitor-client privilege, s. 14 law enforcement). For discretionary exemptions, the institution must affirmatively decide to exercise its discretion to withhold and must be able to demonstrate that it did so; a blanket refusal with no identification of the exemption claimed and no exercise of discretion is procedurally defective. Here, the s. 21 exemption for patient names would be mandatory (the Ministry shall withhold), but the s. 19 exemption for the legal briefing note is discretionary — the Ministry must identify the exemption, confirm the record qualifies, and show it exercised its discretion to claim the exemption. Option A is wrong because FIPPA s. 10 grants access to 'every person,' not merely Ontario residents. Option C is wrong because a blanket refusal without specifying the exemption and without exercising discretion for discretionary exemptions violates the Act's procedural requirements. Option D incorrectly characterizes the s. 19 exemption — solicitor-client privilege under FIPPA is discretionary, not mandatory, and the Ministry must exercise its discretion; the statement that 'no further analysis or exercise of discretion is required' is the critical error.",
+    "why_A_wrong": "Overstatement Trap: FIPPA s. 10 grants a right of access to 'every person' — there is no residency requirement. Beatrice's Québec residence does not disqualify her from submitting a FIPPA request to an Ontario institution.",
+    "why_B_wrong": "This IS the correct answer. The Ministry's blanket refusal was procedurally defective: for the s. 19 solicitor-client privilege exemption (discretionary), it was required to identify the exemption and demonstrate that it exercised its discretion to withhold; it did neither.",
+    "why_C_wrong": "General Rule Trap: while institutions may rely on exemptions, a blanket refusal citing no specific provision and exercising no discretion does not satisfy FIPPA's procedural requirements. The institution bears the burden of demonstrating the exemption applies and, for discretionary exemptions, of showing it exercised its discretion.",
+    "why_D_wrong": "Exception Trap: s. 19 solicitor-client privilege under FIPPA is a discretionary exemption — the institution 'may' refuse, not 'shall' refuse. The statement that no exercise of discretion is required for s. 19 records reverses the mandatory/discretionary distinction and is the core error in Option D.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Public Law",
@@ -41,18 +41,25 @@
       "right of access",
       "mandatory exemption",
       "discretionary exemption",
-      "s. 10"
+      "s. 10",
+      "s. 19 solicitor-client privilege",
+      "s. 21 personal privacy",
+      "exercise of discretion",
+      "blanket refusal"
     ],
     "tested_concepts": [
-      "FIPPA s. 10 general right of access",
+      "FIPPA s. 10 — right of access for every person regardless of residency",
       "mandatory vs discretionary FIPPA exemptions",
-      "burden on institution to demonstrate exemption"
+      "s. 19 solicitor-client privilege as a discretionary exemption",
+      "s. 21 personal privacy as a mandatory exemption",
+      "institution's burden to identify exemption and exercise discretion",
+      "procedural deficiency in blanket refusal"
     ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "pub-06-fippa-exc-001",

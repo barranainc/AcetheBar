@@ -10,36 +10,36 @@
     "subtopic_heading": "Best Interests — DA s.16(3) Primary Consideration and Enumerated Factors",
     "difficulty": "easy",
     "question_type": "single_best_answer",
-    "fact_pattern": "In contested parenting proceedings under the Divorce Act, the father argues that the court must primarily consider which parent will facilitate the most contact between the child and the other parent. The mother argues that the court's primary consideration should be the child's physical, emotional, and psychological safety, security, and wellbeing.",
-    "call_of_question": "Under the Divorce Act (as amended in 2021), what is the primary consideration governing parenting orders?",
+    "fact_pattern": "Marco and Diane are divorcing. Their eight-year-old daughter, Sofia, has been living primarily with Diane since separation. A psychologist's report documents that Marco has episodes of explosive anger and that Sofia exhibits anxiety symptoms after parenting exchanges. Marco seeks an order for equal parenting time, arguing that under the Divorce Act he has historically been an engaged father and that maximizing his contact with Sofia is in her best interests. Diane seeks primary parenting time with Marco having supervised parenting time every other weekend. Marco's counsel argues that the maximum contact principle requires the court to order equal parenting time unless there is proof of direct physical harm to Sofia.",
+    "call_of_question": "Under the Divorce Act s.16(3), how should the court approach the tension between the maximum contact principle and the documented concerns about Sofia's psychological wellbeing?",
     "options": {
-      "A": "The maximum contact principle — the court must maximize the child's time with both parents as the primary consideration.",
-      "B": "The child's physical, emotional, and psychological safety, security, and wellbeing is the primary consideration under DA s.16(3); all other best interests factors are subordinate to this primary consideration.",
-      "C": "Continuity of care — the court must primarily consider which parent has been the primary caregiver to date.",
-      "D": "The parents' respective financial resources, as this best protects the child's security."
+      "A": "The court must order equal parenting time because the maximum contact principle in DA s.16.1 is the primary consideration; restrictions on Marco's parenting time require proof that he has directly harmed Sofia, not merely that she exhibits anxiety symptoms.",
+      "B": "The court must give primary weight to Sofia's physical, emotional, and psychological safety, security, and wellbeing as the overriding primary consideration under DA s.16(3); the maximum contact principle in DA s.16.1 is a factor to consider but is expressly subordinate to this primary consideration; the documented anxiety symptoms and anger episodes are directly relevant to Sofia's psychological safety.",
+      "C": "Because Marco has been an engaged father and there is no finding of family violence under DA s.16(3)(j), the court must start from equal parenting time and require Diane to prove that a different arrangement is necessary.",
+      "D": "The court must primarily consider continuity of Sofia's existing living arrangements with Diane, as preserving the status quo after separation is the paramount principle in parenting order applications."
     },
     "correct_answer": "B",
-    "explanation": "Under the 2021 amendments to the Divorce Act, s.16(3) establishes that the best interests of the child are the only consideration, and s.16(3) specifies that the child's physical, emotional, and psychological safety, security, and wellbeing is the primary consideration in applying the best interests test. The 24 enumerated factors in s.16(3) are all relevant but are subordinate to this overriding primary consideration. The maximum contact principle in s.16.1 is a factor to consider but is not the primary consideration and is explicitly subject to the primary consideration of safety and wellbeing.",
-    "why_A_wrong": "Maximum contact (DA s.16.1) is a factor to be considered, not the primary consideration. The 2021 amendments restructured the Act to make the child's safety, security, and wellbeing the paramount primary consideration, displacing maximum contact from the top of the hierarchy.",
-    "why_B_wrong": "This IS the correct answer. DA s.16(3) establishes the child's physical, emotional, and psychological safety, security, and wellbeing as the primary consideration in all parenting decisions.",
-    "why_C_wrong": "Continuity of care is one of the 24 enumerated factors in DA s.16(3) but is not the primary consideration. Past caregiving history is relevant context, not the paramount criterion.",
-    "why_D_wrong": "Financial resources of the parents are not listed as the primary consideration for parenting orders. Financial matters are addressed separately through child support. The primary consideration is the child's safety, security, and wellbeing.",
+    "explanation": "Under the 2021 amendments to the Divorce Act, s.16(3) establishes that the best interests of the child are the only consideration, and specifies that the child's physical, emotional, and psychological safety, security, and wellbeing is the primary consideration. The 24 enumerated factors in s.16(3) — including family violence under s.16(3)(j) and the nature and history of the relationship under s.16(3)(c) — are all relevant but subordinate to this overriding primary consideration. DA s.16.1 directs the court to give effect to the principle that a child should have as much time with each parent as is consistent with the child's best interests — but this maximum contact principle is explicitly conditioned on best interests, and is therefore expressly subordinate to the primary consideration of Sofia's safety and wellbeing. Marco's counsel's argument — that the maximum contact principle requires equal time absent proof of direct physical harm — misstates the hierarchy: documented psychological harm (anxiety symptoms linked to parenting exchanges and Marco's anger) engages the primary consideration directly, without requiring proof of physical harm.",
+    "why_A_wrong": "General Rule Trap. The maximum contact principle in DA s.16.1 is not the primary consideration — it is a factor to be weighed within the best interests analysis, and it is expressly conditioned on the child's best interests. The 2021 amendments made the child's safety, security, and wellbeing the overriding primary consideration, displacing maximum contact from the top of the hierarchy. Proof of physical harm is not the threshold; documented psychological harm suffices.",
+    "why_B_wrong": "This IS the correct answer. DA s.16(3) establishes Sofia's physical, emotional, and psychological safety, security, and wellbeing as the primary consideration; the maximum contact principle is subordinate to it; the documented anxiety symptoms and anger episodes are directly relevant to this primary consideration.",
+    "why_C_wrong": "Exception Trap. There is no presumption of equal parenting time under the Divorce Act as amended in 2021. The Act removed the maximum contact presumption and replaced it with a best interests framework in which safety and wellbeing is the primary consideration. DA s.16(3)(j) includes family violence as an enumerated factor, but the primary consideration of psychological safety and wellbeing applies independently of a formal family violence finding.",
+    "why_D_wrong": "Misapplied Tool. Continuity of care and the status quo are enumerated factors in the DA s.16(3) best interests analysis but they are not the primary consideration. The primary consideration is the child's physical, emotional, and psychological safety, security, and wellbeing — which encompasses the documented anxiety symptoms, regardless of the prior living arrangement.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Family Law",
       "chapter": "Chapter 7 — Parenting Orders and Decision-Making",
       "heading": "Best Interests of the Child — DA s.16(3)",
       "page": "N/A",
-      "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16(3) (as amended S.C. 2019, c. 16)"
+      "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16(3), s. 16.1 (as amended S.C. 2019, c. 16)"
     },
     "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["best interests", "primary consideration", "DA s.16(3)", "safety security wellbeing", "2021 amendments"],
-    "tested_concepts": ["DA s.16(3) primary consideration", "safety security wellbeing paramount", "maximum contact subordinate", "2021 Divorce Act amendments"],
-    "estimated_time_seconds": 90,
+    "exam_trigger_words": ["best interests", "primary consideration", "DA s.16(3)", "safety security wellbeing", "maximum contact", "DA s.16.1", "psychological harm", "2021 amendments"],
+    "tested_concepts": ["DA s.16(3) primary consideration safety security wellbeing", "maximum contact principle subordinate to primary consideration", "no presumption of equal parenting time", "psychological harm engages primary consideration", "2021 Divorce Act amendments hierarchy"],
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "fam-07-bi-002",

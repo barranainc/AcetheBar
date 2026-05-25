@@ -8,22 +8,22 @@
     "topic_heading": "Pre-Trial Procedure — Guilty Pleas and Election",
     "subtopic_id": "guilty_plea_requirements",
     "subtopic_heading": "Guilty Plea Requirements — s. 606 Criminal Code",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "Marcus is charged with fraud over $5,000. At his first appearance in the Ontario Court of Justice, he tells the judge he wants to plead guilty. Defence counsel advises that the court must conduct an inquiry before accepting the plea.",
-    "call_of_question": "Under s. 606(1.1) of the Criminal Code, which of the following must the court be satisfied of before accepting a guilty plea?",
+    "fact_pattern": "Nathaniel is charged with assault causing bodily harm. At the plea hearing, the judge asks Nathaniel directly whether he is pleading guilty freely and without pressure. Nathaniel confirms he is. The judge then asks whether he understands that by pleading guilty he is admitting the essential elements of the offence and that he could receive a custodial sentence. Nathaniel confirms he understands. The Crown then reads the agreed facts: Nathaniel punched the complainant once in the face, fracturing her orbital bone. When the judge asks Nathaniel whether he agrees with those facts, Nathaniel says: 'I guess so — I was really drunk and don't remember the details clearly, but my lawyer says the video shows it.' Defence counsel states that Nathaniel is relying on the video footage disclosed by the Crown, which defence has reviewed and which counsel confirms shows Nathaniel striking the complainant.",
+    "call_of_question": "Given Nathaniel's equivocal acknowledgement of the facts, what should the judge do before accepting the guilty plea?",
     "options": {
-      "A": "That the accused has obtained independent legal advice and that the Crown consents to the plea.",
-      "B": "That the accused is making the plea voluntarily, understands the nature of the charge, understands the consequences of the plea, and that the facts admitted are sufficient to support a conviction.",
-      "C": "That the accused's counsel has reviewed the disclosure and that the accused has no outstanding Charter applications.",
-      "D": "That the accused understands the nature of the charge and that the Crown has provided a sentencing recommendation."
+      "A": "Accept the plea immediately — Nathaniel's voluntariness and comprehension of the charge and consequences are confirmed, and the Crown's agreed facts are on the record; no further inquiry is needed.",
+      "B": "Reject the plea outright and enter a not guilty plea because Nathaniel said he does not clearly remember the events, which means the plea cannot be voluntary.",
+      "C": "Conduct a further inquiry to satisfy itself that the facts admitted are sufficient to support a conviction for assault causing bodily harm before accepting the plea, since Nathaniel's personal adoption of the facts was equivocal.",
+      "D": "Accept the plea once the Crown confirms that the video evidence is admissible at trial, because admissibility of the underlying evidence governs whether the factual basis is sufficient."
     },
-    "correct_answer": "B",
-    "explanation": "Section 606(1.1) of the Criminal Code requires the court to be satisfied of four things before accepting a guilty plea: (a) the accused is making the plea voluntarily; (b) the accused understands the nature of the charge; (c) the accused understands that the plea is an admission of the essential elements of the offence; (d) the accused understands the nature and consequences of the plea, including any direct consequences. The court must also be satisfied that the facts admitted by the accused are sufficient to support a conviction for the offence to which the accused is pleading guilty. Crown consent and independent legal advice are not statutory prerequisites under s. 606(1.1).",
-    "why_A_wrong": "Section 606(1.1) does not require proof of independent legal advice or Crown consent as conditions for accepting a guilty plea. The section focuses on the voluntariness and comprehension of the accused, not procedural consent mechanisms.",
-    "why_B_wrong": "This IS the correct answer. Section 606(1.1) requires the court to confirm voluntariness, understanding of the charge, understanding of the consequences, and factual sufficiency before accepting a guilty plea.",
-    "why_C_wrong": "Disclosure review and the absence of outstanding Charter applications are not preconditions under s. 606(1.1). The inquiry centres on the accused's understanding and voluntariness, not on the state of the proceedings.",
-    "why_D_wrong": "While the court inquires about the accused's understanding of the charge, a Crown sentencing recommendation is not a precondition under s. 606(1.1). The four requirements focus on the accused's subjective comprehension and voluntariness.",
+    "correct_answer": "C",
+    "explanation": "Section 606(1.1) of the Criminal Code requires the court to be satisfied of four conditions before accepting a guilty plea: (a) the plea is voluntary; (b) the accused understands the nature of the charge; (c) the accused understands the consequences of the plea; and (d) the facts admitted by the accused are sufficient to support a conviction. On these facts, conditions (a), (b), and (c) are satisfied — Nathaniel confirmed voluntariness and understanding of both the charge and the consequences. However, condition (d) — factual sufficiency — is in issue because Nathaniel's personal adoption of the facts was equivocal: he said 'I guess so' and attributed his acceptance to what his lawyer told him rather than his own clear admission. Before accepting the plea, the judge must conduct a further inquiry to be satisfied that the facts admitted are sufficient to support a conviction. The judge should question Nathaniel directly about the acts alleged and clarify whether he is personally admitting to having struck the complainant and caused bodily harm. Counsel's confirmation of the video evidence and the agreed facts on the record do not substitute for the accused's own informed factual admission.",
+    "why_A_wrong": "Accepting the plea immediately overlooks the unsatisfied fourth condition under s. 606(1.1) — that the facts admitted by the accused are sufficient to support a conviction. Nathaniel's equivocal response ('I guess so') to the facts is not a clear personal admission. Three of the four s. 606(1.1) conditions being met does not permit the court to skip the fourth. This is a General Rule Trap: the candidate knows the s. 606(1.1) elements in general but misses that all four must be independently satisfied.",
+    "why_B_wrong": "Lack of personal recollection does not automatically invalidate voluntariness. An accused may plead guilty without independent memory of events if the plea is otherwise informed — for example, where the accused accepts that the evidence against them is reliable and admits guilt on that basis. Voluntariness concerns coercion or threats, not memory gaps. Immediately entering a not guilty plea overstates the consequence of equivocation as to facts and conflates the voluntariness inquiry with the factual basis inquiry. This is an Overstatement Trap.",
+    "why_C_wrong": "This IS the correct answer. The judge must conduct a further inquiry into the factual basis before accepting the plea. Nathaniel's equivocal adoption of the facts means the fourth condition of s. 606(1.1) — factual sufficiency — has not yet been satisfied, and the court must address this before proceeding.",
+    "why_D_wrong": "The admissibility of the underlying evidence at a hypothetical future trial is irrelevant to the s. 606(1.1) factual basis inquiry. The court is not assessing whether the Crown's evidence would be admissible at trial; it is assessing whether the facts as personally admitted by the accused are sufficient to support a conviction. Whether the video would be admissible has no bearing on whether Nathaniel has personally admitted to the acts constituting the offence. This is a Misapplied Tool trap: admissibility is the right legal concept in many contexts but is the wrong tool here.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
@@ -38,23 +38,23 @@
     },
     "exam_trigger_words": [
       "guilty plea",
-      "s. 606",
-      "voluntarily",
-      "understands the nature",
+      "s. 606(1.1)",
+      "factual basis",
       "sufficient to support a conviction",
-      "court must be satisfied"
+      "equivocal admission",
+      "further inquiry"
     ],
     "tested_concepts": [
       "s. 606(1.1) four-part guilty plea inquiry",
-      "voluntariness of guilty plea",
-      "factual basis requirement",
-      "understanding nature and consequences of plea"
+      "factual sufficiency — accused's personal adoption of facts",
+      "voluntariness distinguished from memory gaps",
+      "court's duty to inquire when facts equivocally admitted"
     ],
-    "estimated_time_seconds": 75,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-05-plea-002",

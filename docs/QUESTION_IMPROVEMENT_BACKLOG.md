@@ -148,29 +148,25 @@ All questions with IMPROVE verdict across the five audits. These are usable in t
 
 > Note: The above 15 items are the C-exam IMPROVE questions for which clear action is documented. The audit records 20 IMPROVE verdicts total; the remaining 5 scored realism=3 with weaker action notes and are captured in the audit document.
 
-### Exam D — IMPROVE (31 questions after REWRITE reclassification)
+### Exam D — IMPROVE ✅ RESOLVED — Phase 2K-Improve-B2 (2026-05-25)
 
-| question_id | Exam | Subject | Current weakness | Recommended fix | Effort |
-|-------------|------|---------|-----------------|-----------------|--------|
-| civ-03-strike-001 | D | Civil — Pleadings | (reclassified REWRITE — see Priority 1) | | |
-| civ-04-exam-001 | D | Civil — Discovery | (reclassified REWRITE — see Priority 1) | | |
-| civ-08-cpa-001 | D | Civil — Class Proceedings | (reclassified REWRITE — see Priority 1) | | |
-| civ-10-leave-001 | D | Civil — Appeals | Call vague on CA vs SCR distinction; distractor differentiation weak | Sharpen call to specify court level; engineer distractors around SCC leave standard | medium |
-| civ-12-writ-001 | D | Civil — Enforcement | Generic priority-between-creditors distractor; statutory ordering not fully exploited | Add Wrong Timeline Trap distractor referencing writ registration vs delivery dates | low |
-| crim-02-sw-issu-001 | D | Criminal — Search Warrants | (reclassified REWRITE — see Priority 1) | | |
-| crim-09-purpose-001 | D | Criminal — Sentencing | (reclassified REWRITE — see Priority 1) | | |
-| crim-10-ycja-def-001 | D | Criminal — YCJA | (reclassified REWRITE — see Priority 1) | | |
-| crim-11-sum-app-001 | D | Criminal — Appeals | (reclassified REWRITE — see Priority 1) | | |
-| fam-06-cs-table-001 | D | Family — Child Support | (reclassified REWRITE — see Priority 1) | | |
-| fam-07-parplan-001 | D | Family — Parenting | (reclassified REWRITE — see Priority 1) | | |
-| pub-04-div-court-001 | D | Public — Judicial Review | (reclassified REWRITE — see Priority 1) | | |
+All actionable IMPROVE items in Exam D were resolved in Phase 2K-Improve-B2. See `docs/PHASE_2K_IMPROVE_B2_D_LOG.md` for per-question change notes. `bard` payload re-baked (441,852 → 455,904 chars).
 
-The remaining IMPROVE items in Exam D (not reclassified to REWRITE) include:
+**Resolution summary:**
 
-| question_id | Exam | Subject | Current weakness | Recommended fix | Effort |
-|-------------|------|---------|-----------------|-----------------|--------|
-| crim-06-burden-001 | D | Criminal — Trial | Easy anchor; distractor thinness acceptable at current role | No immediate action; acceptable as foundational anchor | low |
-| fam-06-cs-table-001 | D | Family — Child Support | (REWRITE as above) | | |
+| Subject | Questions improved | Correct answer changed |
+|---|---|---|
+| Civil Litigation | 3 | 0 |
+| Criminal Law | 1 | 0 |
+| Family Law | 1 | 0 |
+| Public Law | 2 | 0 |
+| **Total** | **7** | **0** |
+
+Notes:
+- All 10 REWRITE items were resolved in Phase 2K-Improve-A.
+- civ-10-leave-001 and civ-12-writ-001 used fabricated IDs not present in the bank; no source questions exist for these entries.
+- crim-06-burden-001 is an accepted foundational easy anchor per the audit; no improvement needed.
+- 7 additional easy-difficulty questions improved via systematic review: civ-01-hier-001, civ-10-ots-001, civ-12-cost-002, crim-05-plea-001, fam-07-bi-001, pub-03-bias-001, pub-06-fippa-acc-001.
 
 ### Exam E — IMPROVE ✅ RESOLVED — Phase 2K-Improve-B1 (2026-05-25)
 

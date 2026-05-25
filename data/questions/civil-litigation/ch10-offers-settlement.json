@@ -10,20 +10,20 @@
     "subtopic_heading": "Making an Offer to Settle — Requirements Under r.49.02",
     "difficulty": "easy",
     "question_type": "single_best_answer",
-    "fact_pattern": "The defendant in a breach of contract action wants to make a formal offer to settle the action. The defendant's counsel is preparing the offer and asks what formal requirements must be satisfied under the Rules of Civil Procedure for the offer to attract the cost consequences under r.49.10.",
-    "call_of_question": "Under r.49.02 of the Rules of Civil Procedure, what are the basic requirements for a valid offer to settle?",
+    "fact_pattern": "Delacroix Manufacturing Ltd. is the defendant in a breach of supply contract action. Examinations for discovery have been completed. Delacroix's counsel telephones plaintiff's counsel and verbally proposes settling the entire action for $95,000. Plaintiff's counsel says she will consider it. Two weeks later, Delacroix's counsel sends a signed written document to plaintiff's counsel by email, again proposing settlement for $95,000 and specifying that the offer is open until 30 days before trial. The plaintiff rejects both the telephone proposal and the written document. The trial proceeds, and the plaintiff recovers only $80,000. Delacroix seeks cost consequences under r.49.10(1).",
+    "call_of_question": "Which of Delacroix's proposals, if either, qualifies as an offer to settle capable of attracting cost consequences under r.49.10?",
     "options": {
-      "A": "An offer to settle must be filed with the court and approved by a judge before it is effective.",
-      "B": "An offer to settle may be made orally or in writing; if made in writing, it is effective when delivered to the opposing party's counsel.",
-      "C": "An offer to settle must be in writing, signed by the party or their counsel, and served on the opposing party; it is effective when served.",
-      "D": "An offer to settle must be made before the statement of defence is delivered; offers made after defence cannot attract cost consequences."
+      "A": "Both the telephone proposal and the written document qualify as offers to settle under r.49.02, because both communicated a genuine willingness to settle for $95,000.",
+      "B": "Neither proposal qualifies because an offer to settle must be filed with the court and assigned a court file number to be effective under r.49.02.",
+      "C": "Only the written document qualifies; under r.49.02, an offer to settle must be in writing and served on the opposing party to be effective — the oral telephone proposal does not satisfy these requirements.",
+      "D": "Neither proposal qualifies because r.49.10 cost consequences are only available for offers made before examinations for discovery have been completed."
     },
     "correct_answer": "C",
-    "explanation": "Under r.49.02(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a party may make an offer to settle at any time. Rule 49.02(2) requires that an offer to settle be made in writing, and r.49.02(3) provides that an offer to settle is effective when it is served on the other party. The offer must be in writing to attract the cost consequences under r.49.10. An oral offer does not constitute an offer to settle for the purposes of r.49. The offer need not be filed with or approved by the court.",
-    "why_A_wrong": "Offers to settle are not filed with the court and do not require judicial approval. They are served on the opposing party and are effective upon service under r.49.02(3).",
-    "why_B_wrong": "An oral offer does not satisfy the requirements of r.49.02. The offer must be in writing to attract the cost consequences of r.49.10.",
-    "why_C_wrong": "This IS the correct answer. Rule 49.02 requires the offer to be in writing, signed, and served on the other party; it is effective upon service.",
-    "why_D_wrong": "An offer to settle may be made at any time during the proceeding, including before trial, after discovery, or even on the eve of trial. There is no restriction limiting offers to the pre-defence stage.",
+    "explanation": "Under r.49.02(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a party may make an offer to settle at any time. Under r.49.02(2), the offer must be in writing. Under r.49.02(3), the offer is effective when it is served on the other party. The oral telephone proposal does not satisfy the writing requirement and therefore cannot attract cost consequences under r.49.10. The written document signed by counsel and sent to plaintiff's counsel satisfies all three requirements — it is in writing, it is signed, and it was served (by email, which is an accepted method of service on a represented party). The written offer was made after discoveries, which is permissible — r.49.02 imposes no discovery deadline. The written offer at $95,000 was not beaten by the plaintiff's $80,000 recovery, so r.49.10(1) applies to that offer.",
+    "why_A_wrong": "The oral telephone proposal does not qualify as an offer to settle under r.49.02. The rule requires the offer to be in writing; verbal settlement discussions, however genuine, cannot attract cost consequences under r.49.10. (Pragmatic Bluff — treating genuine intent as sufficient without meeting the formal requirements)",
+    "why_B_wrong": "Offers to settle are not filed with the court and do not require a court file number. They are served on the opposing party and are effective upon service under r.49.02(3). Filing with the court is not a requirement under r.49. (Wrong Forum/Procedure Trap — inventing a filing requirement that does not exist)",
+    "why_C_wrong": "This IS the correct answer. Only the written, signed, and served document qualifies under r.49.02; the oral telephone proposal does not meet the writing requirement.",
+    "why_D_wrong": "Rule 49.02(1) permits an offer to settle to be made at any time during the proceeding. There is no rule limiting r.49.10 cost consequences to offers made before discoveries have been completed. Offers made after discovery are equally capable of attracting cost consequences. (Wrong Timeline Trap — inventing a pre-discovery deadline that does not exist in the Rules)",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -33,13 +33,13 @@
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.02"
     },
     "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["offer to settle", "r.49.02", "in writing", "served", "effective"],
-    "tested_concepts": ["offer to settle must be in writing — r.49.02", "effective upon service", "any party may make offer at any time"],
-    "estimated_time_seconds": 75,
+    "exam_trigger_words": ["offer to settle", "r.49.02", "in writing", "served", "effective", "oral offer", "cost consequences"],
+    "tested_concepts": ["offer to settle must be in writing — r.49.02", "oral proposal does not qualify for r.49.10", "effective upon service", "offer may be made at any time including after discoveries"],
+    "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-10-ots-002",
