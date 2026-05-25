@@ -148,11 +148,20 @@ All questions with IMPROVE verdict across the five audits. These are usable in t
 
 > Note: The above 15 items are the C-exam IMPROVE questions for which clear action is documented. The audit records 20 IMPROVE verdicts total; the remaining 5 scored realism=3 with weaker action notes and are captured in the audit document.
 
-### Exam D — IMPROVE ✅ RESOLVED — Phase 2K-Improve-B2 (2026-05-25)
+### Exam D — IMPROVE ⚠️ PARTIALLY RESOLVED — Phase 2K-Improve-B2 (2026-05-25)
 
-All actionable IMPROVE items in Exam D were resolved in Phase 2K-Improve-B2. See `docs/PHASE_2K_IMPROVE_B2_D_LOG.md` for per-question change notes. `bard` payload re-baked (441,852 → 455,904 chars).
+Named in-manifest IMPROVE items: ✅ RESOLVED. See `docs/PHASE_2K_IMPROVE_B2_D_LOG.md` for per-question change notes. `bard` payload re-baked (441,852 → 455,904 chars).
 
-**Resolution summary:**
+Reconciliation status (see `docs/PHASE_2K_IMPROVE_B2_D_RECONCILIATION.md`):
+
+| Category | Status |
+|---|---|
+| Named in-manifest IMPROVE items (9 of 13 named) | ✅ RESOLVED — 8 rewritten in Phase 2K-Improve-A; 1 retained as foundational anchor |
+| 2 fabricated IDs (civ-10-leave-001, civ-12-writ-001) | ⚠️ UNRESOLVABLE — IDs do not exist in bank |
+| 2 wrong-exam IDs (civ-04-exam-001, civ-08-cpa-001) | ⚠️ NOT EXAM D QUESTIONS — exist in bank but not in D or any exam manifest |
+| 28 unnamed IMPROVE items | ⚠️ UNVERIFIABLE — cannot be individually identified without re-audit |
+
+**B2 improvement summary (7 questions, 0 correct answers changed):**
 
 | Subject | Questions improved | Correct answer changed |
 |---|---|---|
@@ -166,7 +175,8 @@ Notes:
 - All 10 REWRITE items were resolved in Phase 2K-Improve-A.
 - civ-10-leave-001 and civ-12-writ-001 used fabricated IDs not present in the bank; no source questions exist for these entries.
 - crim-06-burden-001 is an accepted foundational easy anchor per the audit; no improvement needed.
-- 7 additional easy-difficulty questions improved via systematic review: civ-01-hier-001, civ-10-ots-001, civ-12-cost-002, crim-05-plea-001, fam-07-bi-001, pub-03-bias-001, pub-06-fippa-acc-001.
+- 7 easy-difficulty questions improved via systematic review in B2: civ-01-hier-001, civ-10-ots-001, civ-12-cost-002, crim-05-plea-001, fam-07-bi-001, pub-03-bias-001, pub-06-fippa-acc-001.
+- A fresh re-audit of Exam D is required to confirm whether unnamed IMPROVE items remain unaddressed.
 
 ### Exam E — IMPROVE ✅ RESOLVED — Phase 2K-Improve-B1 (2026-05-25)
 
