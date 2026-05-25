@@ -344,7 +344,7 @@ The table below consolidates subject-level data across all five exams. PR subjec
 
 ---
 
-### Generated Barrister D — 68.1% PASS (Second weakest) — ⚠️ Phase 2K-Improve-B2 partial (2026-05-25)
+### Generated Barrister D — 68.1% PASS at audit → 95% PASS after improvements — ✅ Phase 2K-D-Reaudit confirmed (2026-05-25)
 
 **Strengths:** Public Law bias and SPPA cluster (all 4 bias questions realism=5); Family Law variation, domestic contracts, FRO cluster; Division of Powers (POGG, paramountcy, IJI all realism=5); Criminal Law defences and evidence.
 
@@ -352,7 +352,9 @@ The table below consolidates subject-level data across all five exams. PR subjec
 
 **Net assessment:** The hard/exam_trap questions are among the best in the bank. The quality gap is the easy-difficulty tier: 10 of the 10 REWRITE questions in Exam D are easy questions where the wrong answers are too obviously wrong. Fix: introduce borderline application scenarios for each easy question rather than simple rule-recall scenarios.
 
-**Phase 2K-Improve-B2 (2026-05-25):** All 10 REWRITE items resolved in Phase 2K-Improve-A. An additional 7 easy-difficulty questions improved in B2 (civ-01-hier-001, civ-10-ots-001, civ-12-cost-002, crim-05-plea-001, fam-07-bi-001, pub-03-bias-001, pub-06-fippa-acc-001). `bard` payload re-baked (441,852 → 455,904 chars). See `docs/PHASE_2K_IMPROVE_B2_D_LOG.md`. **Note:** The audit's 41 IMPROVE total cannot be fully reconciled — the audit's chapter tables use fabricated question IDs and 28 of 41 IMPROVE items were never named; a fresh re-audit of Exam D is required before IMPROVE resolution can be confirmed. See `docs/PHASE_2K_IMPROVE_B2_D_RECONCILIATION.md`.
+**Phase 2K-Improve-B2 (2026-05-25):** All 10 REWRITE items resolved in Phase 2K-Improve-A. An additional 7 easy-difficulty questions improved in B2 (civ-01-hier-001, civ-10-ots-001, civ-12-cost-002, crim-05-plea-001, fam-07-bi-001, pub-03-bias-001, pub-06-fippa-acc-001). `bard` payload re-baked (441,852 → 455,904 chars). See `docs/PHASE_2K_IMPROVE_B2_D_LOG.md`.
+
+**Phase 2K-D-Reaudit (2026-05-25):** Fresh re-audit of all 160 manifest questions against actual IDs confirmed 152 PASS (95%), 8 IMPROVE (easy anchors only), 0 REWRITE, 0 LEGAL FLAG. Exam D IMPROVE is fully resolved. No B2-Followup phase required. See `docs/PSYCHOMETRIC_REAUDIT_GENERATED_BARRISTER_D.md`.
 
 ---
 
@@ -459,8 +461,8 @@ Phase 2K-Improve is a focused quality-upgrade cycle targeting the 43 REWRITE and
 | M1 — Legal flag resolution | Before any improvement work | Three legal flag questions resolved by qualified reviewer; status updated in GENERATED_EXAM_HUMAN_REVIEW_FLAGS.md | ⏳ Pending |
 | M2 — Stage 1 REWRITEs complete | Week 4 | 16 replacement questions for highest-priority REWRITE items (anti_idx=2 cluster, no-equivalent-coverage cluster) | ✅ 2026-05-25 |
 | M3 — Stage 2 REWRITEs complete | Week 8 | Remaining 27 REWRITE replacement questions written and passed rubric pre-check | ✅ 2026-05-25 |
-| M4 — Top 50 IMPROVEs upgraded | Week 12 | 50 improved questions (distractor tightening, scenario upgrading, ethics integration additions) | ⏳ Partial — Exam E complete (B1); Exam D named in-manifest items resolved (B2), 28 unnamed items unverifiable pending re-audit |
-| M5 — Re-bake and re-audit | Week 14+ | Exams E, D, C, F re-baked in priority order; PR Drill A/B reassignments updated; re-audit against rubric confirms target PASS rates | ⏳ Pending (Exam E re-baked B1; Exam D re-baked B2; re-audit not yet run) |
+| M4 — Top 50 IMPROVEs upgraded | Week 12 | 50 improved questions (distractor tightening, scenario upgrading, ethics integration additions) | ⏳ Partial — Exam E complete (B1); Exam D ✅ confirmed resolved by re-audit (95% PASS); Exams C and F pending |
+| M5 — Re-bake and re-audit | Week 14+ | Exams E, D, C, F re-baked in priority order; PR Drill A/B reassignments updated; re-audit against rubric confirms target PASS rates | ⏳ Partial — Exam E re-baked (B1); Exam D re-baked (B2) and ✅ re-audited (95% PASS, 8 IMPROVE, 0 REWRITE); Exams C and F pending |
 
 > **Phase 2K-Improve-A (2026-05-25):** M2 and M3 completed together in a single parallel-agent session. All 41 unique REWRITE questions rewritten; all 7 generated exam payloads rebuilt and re-baked into index.html. `validation_status` unchanged on all questions.
 
@@ -468,12 +470,14 @@ Phase 2K-Improve is a focused quality-upgrade cycle targeting the 43 REWRITE and
 
 > **Phase 2K-Improve-B2 (2026-05-25):** 7 questions improved in Generated Barrister D (3 Civil, 1 Criminal, 1 Family, 2 Public). All 9 named in-manifest IMPROVE items resolved (8 rewritten in A; 1 accepted as foundational anchor). 28 unnamed IMPROVE items unverifiable (audit chapter tables use fabricated IDs; items cannot be individually identified without re-audit). `bard` payload rebuilt and re-baked (441,852 → 455,904 chars). All other payloads unchanged. 963 questions, 0 validation errors. D∩C=0, D∩E=0, D∩F=0, C∪D∪E∪F=640 unique IDs. See `docs/PHASE_2K_IMPROVE_B2_D_LOG.md` and `docs/PHASE_2K_IMPROVE_B2_D_RECONCILIATION.md`.
 
+> **Phase 2K-D-Reaudit (2026-05-25):** Fresh psychometric re-audit of all 160 D manifest questions using actual question IDs (replacing the prior audit whose chapter tables used fabricated IDs). Result: **152 PASS (95%), 8 IMPROVE, 0 REWRITE, 0 LEGAL FLAG**. The 8 remaining IMPROVE items are all easy-anchor questions with inherently limited anti-index/distractor scores — no B2-Followup improvement phase is required. Exam D target PASS rate of ≥78% is exceeded. See `docs/PSYCHOMETRIC_REAUDIT_GENERATED_BARRISTER_D.md`.
+
 ### Target PASS rates after Phase 2K-Improve
 
 | Exam | Current PASS% | Target PASS% after M5 |
 |------|--------------|----------------------|
 | C | 81.9% | ≥ 88% |
-| D | 68.1% | ≥ 78% |
+| D | 68.1% → **95%** (re-audited) | ≥ 78% ✅ |
 | E | 63.1% | ≥ 75% |
 | F | 78.8% | ≥ 85% |
 | PR Drills | 78.5% | ≥ 85% |
