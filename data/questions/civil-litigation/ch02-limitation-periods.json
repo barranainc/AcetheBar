@@ -882,19 +882,19 @@
     "subtopic_heading": "Suspension of Limitation Period — Persons with Psychological Incapacity",
     "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "Rosamund experienced severe psychological trauma in 2019 as a result of an assault. Her psychological condition rendered her unable to appreciate the nature of her legal rights or manage her legal affairs from the date of the assault through June 2023, when she was treated and regained capacity. She commences an action against her assailant in July 2025.",
+    "fact_pattern": "Rosamund experienced severe psychological trauma in 2019 as a result of an assault. Her psychological condition rendered her unable to appreciate the nature of her legal rights or manage her legal affairs from the date of the assault through June 2023, when she was treated and regained capacity. She commences an action against her assailant in May 2025.",
     "call_of_question": "Under s.7 of the Limitations Act, 2002, how does Rosamund's psychological incapacity affect the running of the two-year limitation period, and is her claim timely?",
     "options": {
       "A": "Psychological incapacity has no effect on the running of a limitation period; the two-year period ran from 2019 and Rosamund's claim is statute-barred.",
-      "B": "Under s.7, the limitation period is suspended during any period in which the claimant is a person with incapacity who is not represented by a litigation guardian; Rosamund's period was suspended from 2019 to June 2023, began running in June 2023, and expires in June 2025 — making her July 2025 claim likely statute-barred.",
-      "C": "Under s.7, the limitation period is suspended during a period of incapacity, so Rosamund's two-year period would not begin until June 2023; commencing in July 2025 is within two years of regaining capacity.",
+      "B": "Under s.7, the limitation period is suspended during any period in which the claimant is a person with incapacity who is not represented by a litigation guardian; Rosamund's period was suspended from 2019 to June 2023, began running in June 2023, and expires in June 2025 — making her May 2025 claim likely statute-barred.",
+      "C": "Under s.7, the limitation period is suspended during a period of incapacity, so Rosamund's two-year period would not begin until June 2023; commencing in May 2025 is within two years of regaining capacity.",
       "D": "Rosamund's assault claim has no limitation period because it arises from a criminal act; all claims for damages from criminal assault are exempt from the Limitations Act, 2002."
     },
     "correct_answer": "C",
-    "explanation": "Under s.7(1) of the Limitations Act, 2002, the limitation period established by s.4 does not run during any period in which the person with the claim is incapable of commencing a proceeding because of psychological or physical incapacity and is not represented by a litigation guardian. 'Incapacity' for this purpose means the person is not reasonably able to understand the nature of the claim or to determine whether it is appropriate to commence a proceeding. During the period from 2019 to June 2023, Rosamund was incapable of appreciating her legal rights due to her psychological condition. The two-year period was suspended for that entire period and began running in June 2023 when she regained capacity. Her July 2025 action is within two years of June 2023 and is timely.",
+    "explanation": "Under s.7(1) of the Limitations Act, 2002, the limitation period established by s.4 does not run during any period in which the person with the claim is incapable of commencing a proceeding because of psychological or physical incapacity and is not represented by a litigation guardian. 'Incapacity' for this purpose means the person is not reasonably able to understand the nature of the claim or to determine whether it is appropriate to commence a proceeding. During the period from 2019 to June 2023, Rosamund was incapable of appreciating her legal rights due to her psychological condition. The two-year period was suspended for that entire period and began running in June 2023 when she regained capacity. Her May 2025 action is within two years of June 2023 and is timely.",
     "why_A_wrong": "Section 7 of the Limitations Act, 2002 expressly provides that the limitation period does not run during a period of incapacity. Psychological incapacity is a recognized ground for suspension under s.7.",
-    "why_B_wrong": "Option B incorrectly states that the two-year period 'expires in June 2025 — making her July 2025 claim likely statute-barred.' While the expiry math in B is arithmetically accurate, the premise of option B — that s.7 suspends during incapacity and the period runs from June 2023 — is the same as option C. Option C is superior because it correctly concludes that commencing in July 2025 'is within two years of regaining capacity' (the fact pattern states she regained capacity in June 2023; July 2025 is within two years of that). Option B's conclusion (claim likely barred) is incorrect based on the fact pattern.",
-    "why_C_wrong": "This IS the correct answer. Under s.7, the limitation period is suspended during psychological incapacity; Rosamund's two-year period began running in June 2023 when she regained capacity, making a July 2025 commencement within two years and therefore timely.",
+    "why_B_wrong": "Option B incorrectly states that the two-year period 'expires in June 2025 — making her May 2025 claim likely statute-barred.' While the expiry math in B is arithmetically accurate, the premise of option B — that s.7 suspends during incapacity and the period runs from June 2023 — is the same as option C. Option C is superior because it correctly concludes that commencing in May 2025 'is within two years of regaining capacity' (the fact pattern states she regained capacity in June 2023; May 2025 is within two years of that). Option B's conclusion (claim likely barred) is incorrect based on the fact pattern.",
+    "why_C_wrong": "This IS the correct answer. Under s.7, the limitation period is suspended during psychological incapacity; Rosamund's two-year period began running in June 2023 when she regained capacity, making a May 2025 commencement within two years and therefore timely.",
     "why_D_wrong": "There is no blanket exemption from the Limitations Act, 2002 for claims arising from criminal assaults. Such claims are civil proceedings subject to the Act's limitation periods, though the s.7 suspension for incapacity may apply as it does here.",
     "source_reference": {
       "lso_material": "2026 LSO Barrister Examination Materials",
@@ -924,7 +924,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-02-ult-except-001",
@@ -946,7 +946,7 @@
       "D": "No — the 15-year ultimate period does not apply to any personal injury claim, including Szymanski's."
     },
     "correct_answer": "B",
-    "explanation": "Under s.15(4) of the Limitations Act, 2002 (S.O. 2002, c. 24, Sched. B), the 15-year ultimate limitation period in s.15(1) does not apply to a claim for sexual assault. The Legislature recognizes that survivors of sexual assault often require many years before they are psychologically able to bring a civil claim, and that an absolute ultimate limitation period would be unjust in such circumstances. Accordingly, s.15(4) creates an express exception to the ultimate limitation period for sexual assault claims. Szymanski's claim is not barred by the 15-year ultimate period. She may still be subject to the basic two-year limitation period running from the date of discovery under s.4, but the 15-year period does not apply.",
+    "explanation": "Under s.15(4) of the Limitations Act, 2002 (S.O. 2002, c. 24, Sched. B), the 15-year ultimate limitation period in s.15(1) does not apply to a claim for sexual assault. The Legislature recognizes that survivors of sexual assault often require many years before they are psychologically able to bring a civil claim, and that an absolute ultimate limitation period would be unjust in such circumstances. Accordingly, s.15(4) creates an express exception to the ultimate limitation period for sexual assault claims. Szymanski's claim is not barred by the 15-year ultimate period. Under s.16(1)(h) of the Limitations Act, 2002, no limitation period applies to a claim arising from sexual assault — neither the basic two-year period under s.4 nor the ultimate 15-year period under s.15 applies to Szymanski's claim. Her civil claim for damages from the sexual assault is not subject to any limitation period.",
     "why_A_wrong": "The 15-year ultimate limitation period is not absolute and without exception. Section 15(4) of the Limitations Act, 2002 expressly excludes sexual assault claims from the operation of the ultimate period.",
     "why_B_wrong": "This IS the correct answer. Section 15(4) provides that the 15-year ultimate limitation period does not apply to claims for sexual assault, reflecting the Legislature's recognition of the particular circumstances of sexual assault survivors.",
     "why_C_wrong": "The ultimate limitation period does not apply to sexual assault claims under s.15(4), so arguments about suspending it during minority are irrelevant. More fundamentally, s.15(4) removes the sexual assault claim from the scope of s.15 entirely.",
@@ -979,6 +979,6 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   }
 ]

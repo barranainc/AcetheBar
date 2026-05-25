@@ -157,8 +157,8 @@ Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
 | **Validation status** | All 160 questions: `draft` |
 | **Similarity risk** | All 160 questions: `low` |
 | **Difficulty split** | Easy: 10 · Medium: 72 · Hard: 65 · Exam-trap: 13 |
-| **Legal review** | Phase 2G-QA not yet started — all questions remain `draft` |
-| **Baked into index.html** | Yes — `bare` base64 payload baked 2026-05-24 (length: 467,732 chars) |
+| **Legal review status** | Source-checked with flagged questions — see `docs/LEGAL_QA_GENERATED_BARRISTER_E.md` · 154 PASS · 5 FIXED · 1 HUMAN REVIEW REQUIRED (`civ-02-demand-001` — possible s.5(3) citation) · 0 REMOVE |
+| **Baked into index.html** | Yes — `bare` base64 payload re-baked 2026-05-25 after QA fixes (length: 468,144 chars) |
 | **Source question files** | See manifest `source_files` array (across 4 subjects) |
 | **Overlap with C** | 0 questions — verified via set intersection of question_ids_used |
 | **Overlap with D** | 0 questions — verified via set intersection of question_ids_used |

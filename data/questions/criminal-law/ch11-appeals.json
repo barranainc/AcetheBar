@@ -412,7 +412,7 @@
     "difficulty": "exam_trap",
     "question_type": "single_best_answer",
     "fact_pattern": "The accused was acquitted of impaired driving. The trial judge, after finding the accused's blood alcohol level to be 0.092 at the time of testing, concluded that this was insufficient to establish impairment at the time of driving. The Crown appeals, arguing the trial judge erred in assessing the evidence. The accused argues this is a finding of fact unreviewable by the Crown on appeal.",
-    "call_of_question": "The Crown's appeal is properly frounded as a question of law if which of the following is true?",
+    "call_of_question": "The Crown's appeal is properly grounded as a question of law if which of the following is true?",
     "options": {
       "A": "The trial judge reached a conclusion on the evidence that another judge might reasonably have reached differently.",
       "B": "The trial judge applied a legal standard requiring the Crown to prove impairment at a threshold beyond what the law requires, constituting a legal error in the standard of proof.",

@@ -1,8 +1,9 @@
 {
   "exam_id": "generated-barrister-e",
   "exam_label": "Generated Barrister E",
-  "generated_at": "2026-05-25T03:04:02.326244+00:00",
+  "generated_at": "2026-05-25T17:51:20.262952+00:00",
   "seed": 3,
+  "all_questions_mode": false,
   "total_questions": 160,
   "subject_allocation": {
     "civil_litigation": {
@@ -26,6 +27,7 @@
       "target": 35
     }
   },
+  "pr_angle_count": 3,
   "question_ids_used": [
     "civ-02-agree-001",
     "civ-02-contrib-001",
@@ -525,6 +527,7 @@
     "data/questions/civil-litigation/ch12-costs.json",
     "data/questions/civil-litigation/ch13-appeals.json",
     "data/questions/civil-litigation/ch14-enforcement.json",
+    "data/questions/civil-litigation/ch15-default.json",
     "data/questions/civil-litigation/ch16-class-actions.json",
     "data/questions/criminal-law/ch01-court-jurisdiction.json",
     "data/questions/criminal-law/ch02-charter-arrest.json",
@@ -559,12 +562,11 @@
     "data/questions/public-law/ch08-human-rights.json",
     "data/questions/public-law/ch09-aboriginal.json"
   ],
-  "pr_angle_count": 3,
   "difficulty_distribution": {
-    "hard": 65,
     "medium": 72,
-    "easy": 10,
-    "exam_trap": 13
+    "exam_trap": 13,
+    "hard": 65,
+    "easy": 10
   },
   "validation_status_counts": {
     "draft": 160
@@ -573,5 +575,6 @@
     "low": 160
   },
   "status": "draft",
-  "notes": "Generated Barrister exams are AI-assisted and assembled from the internal question bank. All questions carry validation_status='draft' until individually source-checked against official 2026 LSO materials by a qualified reviewer. Do not present as official LSO exam content."
+  "legal_review_status": "source-checked with flagged questions",
+  "notes": "Generated Barrister E is AI-assisted and assembled from the internal question bank. Questions carry validation_status=draft until individually source-checked. Phase 2G-QA completed 2026-05-25. See docs/LEGAL_QA_GENERATED_BARRISTER_E.md."
 }

@@ -32,9 +32,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31, s. 3(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["FRO", "automatic registration", "FRSAEA s.3", "support order", "Director"],
-    "tested_concepts": ["FRSAEA s.3(1) mandatory automatic filing", "all support orders automatically filed", "payments through FRO default", "not opt-in"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FRO",
+      "automatic registration",
+      "FRSAEA s.3",
+      "support order",
+      "Director"
+    ],
+    "tested_concepts": [
+      "FRSAEA s.3(1) mandatory automatic filing",
+      "all support orders automatically filed",
+      "payments through FRO default",
+      "not opt-in"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -74,9 +88,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31, s. 14 (garnishment), s. 34 (driver's licence suspension)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["garnishment", "driver's licence suspension", "FRO", "FRSAEA s.14", "FRSAEA s.34", "arrears enforcement"],
-    "tested_concepts": ["FRSAEA s.14 garnishment", "FRSAEA s.34 driver's licence suspension", "no court order required", "FRO self-executing powers"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "garnishment",
+      "driver's licence suspension",
+      "FRO",
+      "FRSAEA s.14",
+      "FRSAEA s.34",
+      "arrears enforcement"
+    ],
+    "tested_concepts": [
+      "FRSAEA s.14 garnishment",
+      "FRSAEA s.34 driver's licence suspension",
+      "no court order required",
+      "FRO self-executing powers"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -116,9 +145,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31, s. 37(11)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["default hearing", "FRSAEA s.37", "incarceration 180 days", "last resort", "range of remedies"],
-    "tested_concepts": ["FRSAEA s.37(11) default hearing remedies", "incarceration last resort", "installments security recognizance", "court proceeding not mediation"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "default hearing",
+      "FRSAEA s.37",
+      "incarceration 180 days",
+      "last resort",
+      "range of remedies"
+    ],
+    "tested_concepts": [
+      "FRSAEA s.37(11) default hearing remedies",
+      "incarceration last resort",
+      "installments security recognizance",
+      "court proceeding not mediation"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -158,9 +201,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31, s. 7(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["opt out FRO", "joint notice", "FRSAEA s.7", "both parties sign", "withdrawal from FRO"],
-    "tested_concepts": ["FRSAEA s.7(1) joint withdrawal notice", "both parties must sign", "voluntary payment insufficient", "no unilateral opt-out"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "opt out FRO",
+      "joint notice",
+      "FRSAEA s.7",
+      "both parties sign",
+      "withdrawal from FRO"
+    ],
+    "tested_concepts": [
+      "FRSAEA s.7(1) joint withdrawal notice",
+      "both parties must sign",
+      "voluntary payment insufficient",
+      "no unilateral opt-out"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -200,9 +257,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31; Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 16(1)(c)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["limitation period arrears", "no limitation period", "Limitations Act s.16(1)(c)", "interest on arrears", "support enforcement"],
-    "tested_concepts": ["no limitation period support arrears", "Limitations Act 2002 s.16(1)(c) exception", "interest from date due", "court orders exempt from limitation"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "limitation period arrears",
+      "no limitation period",
+      "Limitations Act s.16(1)(c)",
+      "interest on arrears",
+      "support enforcement"
+    ],
+    "tested_concepts": [
+      "no limitation period support arrears",
+      "Limitations Act 2002 s.16(1)(c) exception",
+      "interest from date due",
+      "court orders exempt from limitation"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -242,9 +313,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31, s. 34"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["driver's licence suspension", "FRSAEA s.34", "30 days notice", "Registrar", "arrears enforcement"],
-    "tested_concepts": ["FRSAEA s.34 two-step process", "30-day notice then suspension", "no court order required", "no minimum arrears threshold", "payor may apply to court"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "driver's licence suspension",
+      "FRSAEA s.34",
+      "30 days notice",
+      "Registrar",
+      "arrears enforcement"
+    ],
+    "tested_concepts": [
+      "FRSAEA s.34 two-step process",
+      "30-day notice then suspension",
+      "no court order required",
+      "no minimum arrears threshold",
+      "payor may apply to court"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -282,16 +368,31 @@
       "chapter": "Chapter 10 — Family Responsibility and Support Arrears Enforcement",
       "heading": "Contempt of Court — Support Order Enforcement",
       "page": "N/A",
-      "rule_or_statute_reference": "Family Law Rules, O. Reg. 114/99, r. 31; Courts of Justice Act, R.S.O. 1990, c. C.43, s. 140"
+      "rule_or_statute_reference": "Family Law Rules, O. Reg. 114/99, r. 31"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["contempt of court", "support order", "wilful breach", "incarceration", "FRO concurrent", "contumacious"],
-    "tested_concepts": ["contempt available for support order breach", "concurrent with FRO enforcement", "wilful non-compliance beyond reasonable doubt", "incarceration available"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "contempt of court",
+      "support order",
+      "wilful breach",
+      "incarceration",
+      "FRO concurrent",
+      "contumacious"
+    ],
+    "tested_concepts": [
+      "contempt available for support order breach",
+      "concurrent with FRO enforcement",
+      "wilful non-compliance beyond reasonable doubt",
+      "incarceration available"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "fam-10-inter-prov-001",
@@ -326,9 +427,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Interjurisdictional Support Orders Act, 2002, S.O. 2002, c. 13; Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["inter-provincial enforcement", "ISO Act", "RESA", "payor relocated", "FRO coordination", "reciprocal enforcement"],
-    "tested_concepts": ["ISO Act 2002 inter-provincial enforcement", "RESA framework", "FRO coordinates with other province", "no need for new BC order", "applies to all support orders"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "inter-provincial enforcement",
+      "ISO Act",
+      "RESA",
+      "payor relocated",
+      "FRO coordination",
+      "reciprocal enforcement"
+    ],
+    "tested_concepts": [
+      "ISO Act 2002 inter-provincial enforcement",
+      "RESA framework",
+      "FRO coordinates with other province",
+      "no need for new BC order",
+      "applies to all support orders"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -368,9 +485,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31, s. 35"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["vehicle registration", "licence plate suspension", "FRSAEA s.35", "vehicle permit", "corporate registration"],
-    "tested_concepts": ["FRSAEA s.35 vehicle permit suspension", "separate from driver's licence suspension", "corporate registration scrutinized", "Director's broad enforcement powers"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "vehicle registration",
+      "licence plate suspension",
+      "FRSAEA s.35",
+      "vehicle permit",
+      "corporate registration"
+    ],
+    "tested_concepts": [
+      "FRSAEA s.35 vehicle permit suspension",
+      "separate from driver's licence suspension",
+      "corporate registration scrutinized",
+      "Director's broad enforcement powers"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",

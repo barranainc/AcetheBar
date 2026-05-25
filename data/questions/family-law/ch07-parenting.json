@@ -598,18 +598,18 @@
     "subtopic_heading": "Best Interests Enumerated Factors — DA s.16(3) Application",
     "difficulty": "exam_trap",
     "question_type": "single_best_answer",
-    "fact_pattern": "In contested parenting proceedings under the Divorce Act, the father's counsel argues that because the children (ages 6 and 10) have expressed a clear preference to live primarily with the father, the court must order that arrangement. The children's preference has been communicated through the Office of the Children's Lawyer. The mother argues that the children's views are only one of 24 factors and cannot be determinative.",
+    "fact_pattern": "In contested parenting proceedings under the Divorce Act, the father's counsel argues that because the children (ages 6 and 10) have expressed a clear preference to live primarily with the father, the court must order that arrangement. The children's preference has been communicated through the Office of the Children's Lawyer. The mother argues that the children's views are only one of 16 factors and cannot be determinative.",
     "call_of_question": "Under DA s.16(3), what is the weight to be given to the children's expressed preferences in a parenting determination?",
     "options": {
       "A": "The children's expressed preference is determinative; if the children clearly prefer one parent, the court must order accordingly.",
-      "B": "The children's expressed preference is one of 24 enumerated factors in DA s.16(3) and must be considered by the court; however, it is not determinative — the court must weigh it against all other best interests factors, and greater weight is given to the preferences of older children who can articulate reasons for their preference.",
+      "B": "The children's expressed preference is one of 16 enumerated factors in DA s.16(3) and must be considered by the court; however, it is not determinative — the court must weigh it against all other best interests factors, and greater weight is given to the preferences of older children who can articulate reasons for their preference.",
       "C": "Children under 12 have no legal standing to express a preference in parenting proceedings; their views are inadmissible.",
       "D": "The children's preference must be followed by the court unless there is evidence of parental alienation, in which case it is ignored entirely."
     },
     "correct_answer": "B",
-    "explanation": "Divorce Act s.16(3)(e) lists 'the child's views and preferences, giving due weight to the child's age and maturity' as one of the 24 enumerated best interests factors. Children's views must be considered but are not determinative. Courts give increasing weight to a child's preference as the child matures — the views of a well-reasoned 10-year-old carry more weight than those of a 4-year-old. At age 6 and 10, the preferences are relevant and to be considered, but must be weighed against all other factors including the children's safety, stability, each parent's ability to care for the children, and family violence. The court cannot simply adopt the children's stated preference without examining the full best interests picture.",
+    "explanation": "Divorce Act s.16(3)(e) lists 'the child's views and preferences, giving due weight to the child's age and maturity' as one of the 16 enumerated best interests factors. Children's views must be considered but are not determinative. Courts give increasing weight to a child's preference as the child matures — the views of a well-reasoned 10-year-old carry more weight than those of a 4-year-old. At age 6 and 10, the preferences are relevant and to be considered, but must be weighed against all other factors including the children's safety, stability, each parent's ability to care for the children, and family violence. The court cannot simply adopt the children's stated preference without examining the full best interests picture.",
     "why_A_wrong": "Children's preferences, even strongly expressed ones, are not automatically determinative. DA s.16(3)(e) requires the court to give 'due weight' to the child's age and maturity, meaning the preference is one factor among many in the best interests analysis.",
-    "why_B_wrong": "This IS the correct answer. Children's views are one of 24 DA s.16(3) factors, given weight based on age and maturity, but are not determinative; all factors must be balanced.",
+    "why_B_wrong": "This IS the correct answer. Children's views are one of 16 DA s.16(3) factors, given weight based on age and maturity, but are not determinative; all factors must be balanced.",
     "why_C_wrong": "There is no age-12 threshold below which children's views are inadmissible. DA s.16(3)(e) requires consideration of the views of all children, with weight determined by age and maturity. Even young children's stated preferences may be relevant.",
     "why_D_wrong": "Parental alienation concerns may affect the weight given to a child's preference, but there is no automatic rule that alienated children's preferences are entirely ignored or that non-alienated children's preferences are followed absolutely. The court assesses all factors.",
     "source_reference": {
@@ -622,12 +622,12 @@
     },
     "pr_angle": {"applicable": false, "pr_issue_type": null},
     "exam_trigger_words": ["children's preference", "DA s.16(3)(e)", "views preferences", "age and maturity", "not determinative", "due weight"],
-    "tested_concepts": ["DA s.16(3)(e) children's views", "preference not determinative", "age and maturity weighting", "one of 24 factors", "OCL views"],
+    "tested_concepts": ["DA s.16(3)(e) children's views", "preference not determinative", "age and maturity weighting", "one of 16 factors", "OCL views"],
     "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "fam-07-reloc-004",
