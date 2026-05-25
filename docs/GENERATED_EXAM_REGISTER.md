@@ -188,6 +188,111 @@ Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
 
 ---
 
+## Section 2B — Generated PR Drills
+
+Generated PR drills draw exclusively from `data/questions/professional-responsibility/`. They use the same compact 8-field format and `assemble_pr_drill.py` tool. All questions remain `validation_status: draft`.
+
+---
+
+### Generated PR Drill A
+
+| Field | Value |
+|-------|-------|
+| **Exam key** | `prdra` |
+| **Tab label** | Generated PR Drill A |
+| **Assembly file** | `data/exams/generated-pr-drill-a.json` |
+| **Manifest** | `data/exams/generated-pr-drill-a-manifest.json` |
+| **Assembled** | 2026-05-25 (Phase PR-2) |
+| **Assembly tool** | `tools/assemble_pr_drill.py --exam-id generated-pr-drill-a --exam-label "Generated PR Drill A" --seed 101 --count 100` |
+| **Seed** | 101 (deterministic — re-running with seed 101 produces identical selection) |
+| **Total questions** | 100 |
+| **Source folder** | `data/questions/professional-responsibility/` |
+| **Chapter distribution** | Ch01:5 · Ch02:10 · Ch03:16 · Ch04:14 · Ch05:6 · Ch06:9 · Ch07:8 · Ch08:7 · Ch09:5 · Ch10:6 · Ch11:6 · Ch12:4 · Ch13:4 |
+| **Difficulty split** | Easy:19 · Medium:40 · Hard:28 · Exam-trap:13 |
+| **Validation status** | All 100 questions: `draft` |
+| **Legal review status** | Not source-checked |
+| **Similarity risk** | All 100 questions: `low` |
+| **Overlap with Drill B** | 0 questions — verified |
+| **Baked into index.html** | Yes — `prdra` base64 payload baked 2026-05-25 (length: 289,064 chars) |
+
+#### To Re-Assemble Drill A
+```bash
+python3 tools/assemble_pr_drill.py \
+  --exam-id generated-pr-drill-a \
+  --exam-label "Generated PR Drill A" \
+  --seed 101 \
+  --count 100
+```
+Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
+
+---
+
+### Generated PR Drill B
+
+| Field | Value |
+|-------|-------|
+| **Exam key** | `prdrb` |
+| **Tab label** | Generated PR Drill B |
+| **Assembly file** | `data/exams/generated-pr-drill-b.json` |
+| **Manifest** | `data/exams/generated-pr-drill-b-manifest.json` |
+| **Assembled** | 2026-05-25 (Phase PR-2) |
+| **Assembly tool** | `tools/assemble_pr_drill.py --exam-id generated-pr-drill-b --exam-label "Generated PR Drill B" --seed 102 --count 100 --exclude data/exams/generated-pr-drill-a-manifest.json` |
+| **Seed** | 102 (deterministic — re-running with seed 102 and same exclusion produces identical selection) |
+| **Total questions** | 100 |
+| **Source folder** | `data/questions/professional-responsibility/` |
+| **Chapter distribution** | Ch01:7 · Ch02:9 · Ch03:11 · Ch04:12 · Ch05:14 · Ch06:14 · Ch07:5 · Ch08:5 · Ch09:7 · Ch10:5 · Ch11:2 · Ch12:4 · Ch13:5 |
+| **Difficulty split** | Easy:19 · Medium:37 · Hard:29 · Exam-trap:15 |
+| **Validation status** | All 100 questions: `draft` |
+| **Legal review status** | Not source-checked |
+| **Similarity risk** | All 100 questions: `low` |
+| **Overlap with Drill A** | 0 questions — verified |
+| **Baked into index.html** | Yes — `prdrb` base64 payload baked 2026-05-25 (length: 285,404 chars) |
+
+#### To Re-Assemble Drill B
+```bash
+python3 tools/assemble_pr_drill.py \
+  --exam-id generated-pr-drill-b \
+  --exam-label "Generated PR Drill B" \
+  --seed 102 \
+  --count 100 \
+  --exclude data/exams/generated-pr-drill-a-manifest.json
+```
+Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
+
+---
+
+### Generated PR Bank 200
+
+| Field | Value |
+|-------|-------|
+| **Exam key** | `prb200` |
+| **Tab label** | Generated PR Bank 200 |
+| **Assembly file** | `data/exams/generated-pr-bank-200.json` |
+| **Manifest** | `data/exams/generated-pr-bank-200-manifest.json` |
+| **Assembled** | 2026-05-25 (Phase PR-2) |
+| **Assembly tool** | `tools/assemble_pr_drill.py --exam-id generated-pr-bank-200 --exam-label "Generated PR Bank 200" --all-questions` |
+| **Seed** | N/A — `--all-questions` mode; chapter-ordered, deterministic |
+| **Total questions** | 200 |
+| **Source folder** | `data/questions/professional-responsibility/` |
+| **Chapter distribution** | Ch01:12 · Ch02:19 · Ch03:27 · Ch04:26 · Ch05:20 · Ch06:23 · Ch07:13 · Ch08:12 · Ch09:12 · Ch10:11 · Ch11:8 · Ch12:8 · Ch13:9 |
+| **Difficulty split** | Easy:38 · Medium:77 · Hard:57 · Exam-trap:28 |
+| **Validation status** | All 200 questions: `draft` |
+| **Legal review status** | Not source-checked |
+| **Similarity risk** | All 200 questions: `low` |
+| **Ordering** | Grouped by chapter (Ch01→Ch13), then by question ID within each chapter |
+| **Baked into index.html** | Yes — `prb200` base64 payload baked 2026-05-25 (length: 574,612 chars) |
+
+#### To Re-Assemble PR Bank 200
+```bash
+python3 tools/assemble_pr_drill.py \
+  --exam-id generated-pr-bank-200 \
+  --exam-label "Generated PR Bank 200" \
+  --all-questions
+```
+Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
+
+---
+
 ## Section 3 — Future Generated Exams (Not Yet Built)
 
 | Planned ID | Label | Target allocation | Seed | Status |
