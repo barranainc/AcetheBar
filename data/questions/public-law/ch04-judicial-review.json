@@ -1155,5 +1155,555 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-04-vavilov-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "standard_of_review",
+    "topic_heading": "Standard of Review — Vavilov Framework",
+    "subtopic_id": "vavilov_framework",
+    "subtopic_heading": "Vavilov Post-2019 Standard of Review Framework",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "In 2019, the Supreme Court of Canada released Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, which significantly revised the framework for selecting the standard of review on judicial review. A law student asks you to explain the new default rule established in Vavilov.",
+    "call_of_question": "Under the Vavilov framework, what is the default standard of review applicable to most administrative decisions, and when does correctness apply instead?",
+    "options": {
+      "A": "The default standard of review is correctness; reasonableness applies only where the legislature has expressly provided for deference.",
+      "B": "Under Vavilov, reasonableness is the default standard of review for administrative decisions. Correctness applies in three specific situations: (1) where a legislature has provided for a statutory right of appeal from a tribunal to a court; (2) where constitutional questions or questions of central importance to the legal system as a whole and outside the adjudicator's expertise arise; and (3) jurisdictional questions (though Vavilov largely abolished the concept of jurisdictional questions).",
+      "C": "After Vavilov, all tribunal decisions are reviewed on the correctness standard because the Supreme Court eliminated deference to administrative decision-makers.",
+      "D": "Under Vavilov, the standard of review is still determined by applying a contextual analysis to identify whether the legislature intended to confer deference, which requires examining the privative clause, expertise of the decision-maker, purpose of the statute, and nature of the question."
+    },
+    "correct_answer": "B",
+    "explanation": "In Vavilov (2019 SCC 65), the Supreme Court substantially revised the standard of review framework. The key change was the adoption of a clear default: reasonableness is the presumptive standard for administrative decisions. Correctness is reserved for a defined set of categories: (1) where a legislature has enacted a statutory right of appeal to a court, in which case the standard is determined by the ordinary appellate standards (correctness for questions of law, palpable and overriding error for facts and mixed fact-and-law); (2) constitutional questions (e.g., division of powers, Charter); (3) questions of general law of central importance to the legal system as a whole and outside the decision-maker's specialized expertise; and (4) questions regarding the jurisdictional boundaries between two or more administrative bodies. The contextual Dunsmuir balancing test was abolished.",
+    "why_A_wrong": "Incorrect. Vavilov reversed the historical approach; reasonableness is now the default, not correctness. Correctness is the exception, not the rule.",
+    "why_B_wrong": "This IS the correct answer. Under Vavilov, reasonableness is the default standard of review for administrative decisions. Correctness applies in three specific situations: (1) where a legislature has provided for a statutory right of appeal from a tribunal to a court; (2) where constitutional questions or questions of central importance to the legal system as a whole and outside the adjudicator's expertise arise; and (3) jurisdictional questions (though Vavilov largely abolished the concept of jurisdictional questions).",
+    "why_C_wrong": "Incorrect. Vavilov did not eliminate deference; it reaffirmed and strengthened the reasonableness standard as the default. The court rejected a return to correctness as the baseline.",
+    "why_D_wrong": "Incorrect. Vavilov specifically rejected the contextual Dunsmuir framework and replaced it with a categorical approach. The old four-factor contextual analysis no longer determines the standard of review.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Standard of Review — Vavilov Framework",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Vavilov",
+      "standard of review",
+      "reasonableness",
+      "correctness",
+      "default"
+    ],
+    "tested_concepts": [
+      "Vavilov default reasonableness standard",
+      "correctness exceptions post-Vavilov",
+      "abolition of Dunsmuir contextual analysis"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-04-vavilov-002",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "standard_of_review",
+    "topic_heading": "Standard of Review — Reasonableness Review",
+    "subtopic_id": "reasonableness_review",
+    "subtopic_heading": "Reasonableness Review — What Makes a Decision Unreasonable",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario immigration tribunal denies a work permit application. In its written reasons, the tribunal correctly states the legal test but then ignores two pieces of highly relevant evidence — a letter from the employer and a medical report — without any explanation. The tribunal's conclusion appears inconsistent with its own factual findings. On judicial review, the applicant argues the decision is unreasonable under Vavilov.",
+    "call_of_question": "Under the Vavilov reasonableness framework, which of the following best describes what a reviewing court must find in order to conclude a decision is unreasonable?",
+    "options": {
+      "A": "The decision is unreasonable only if the tribunal applied the wrong legal test; factual errors alone are insufficient for a finding of unreasonableness.",
+      "B": "Under Vavilov, a decision is unreasonable if the reviewing court, after reading the reasons in light of the record, concludes that the decision lacks the hallmarks of reasonableness — justification, transparency, and intelligibility — or where the decision is not justified in relation to the relevant facts and law. Ignoring highly relevant evidence without explanation and reaching a conclusion inconsistent with one's own findings are paradigm cases of unreasonable decisions.",
+      "C": "Under Vavilov, reasonableness review requires the court to ask whether the decision is correct; if the court would have decided differently, the decision is unreasonable.",
+      "D": "A decision can be found unreasonable only if the tribunal fails to issue written reasons; where reasons are given, courts must defer regardless of their quality."
+    },
+    "correct_answer": "B",
+    "explanation": "Under Vavilov (2019 SCC 65), reasonableness review focuses on whether the decision has the hallmarks of justification, transparency, and intelligibility, and whether it is justified in relation to the facts and law constraining the decision-maker. The Court identified several categories of unreasonable decisions, including: (a) decisions that fail to account for the evidence on the record; (b) decisions where the reasoning fails to grapple with key issues or relevant evidence; (c) decisions internally inconsistent (reaching conclusions inconsistent with one's own factual findings); and (d) decisions that ignore or mischaracterize relevant evidence without explanation. Ignoring the employer letter and medical report without explanation, combined with internal inconsistency, squarely falls within Vavilov's description of an unreasonable decision. Reasonableness is not a correctness review in disguise.",
+    "why_A_wrong": "Incorrect. Vavilov makes clear that unreasonableness is not limited to legal errors; failures in reasoning about facts, ignoring relevant evidence, and internal inconsistency in findings are all recognized as grounds for unreasonableness.",
+    "why_B_wrong": "This IS the correct answer. Under Vavilov, a decision is unreasonable if the reviewing court, after reading the reasons in light of the record, concludes that the decision lacks the hallmarks of reasonableness — justification, transparency, and intelligibility — or where the decision is not justified in relation to the relevant facts and law. Ignoring highly relevant evidence without explanation and reaching a conclusion inconsistent with one's own findings are paradigm cases of unreasonable decisions.",
+    "why_C_wrong": "Incorrect. Reasonableness review is not a correctness standard in disguise. A reviewing court does not substitute its own view for that of the tribunal merely because it would have decided differently; disagreement with the outcome is not itself a ground for unreasonableness.",
+    "why_D_wrong": "Incorrect. Vavilov confirmed that written reasons are expected from formal tribunals but the existence of reasons is not the end of the analysis; courts must assess the quality of those reasons. Poor quality or internally inconsistent reasons are themselves a basis for unreasonableness.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Reasonableness Review — What Makes a Decision Unreasonable",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "unreasonable",
+      "Vavilov",
+      "justification transparency intelligibility",
+      "ignoring evidence",
+      "internal inconsistency"
+    ],
+    "tested_concepts": [
+      "Vavilov hallmarks of reasonableness",
+      "categories of unreasonable decisions",
+      "ignoring relevant evidence as unreasonableness"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-04-vavilov-003",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "standard_of_review",
+    "topic_heading": "Standard of Review — Correctness Contexts Post-Vavilov",
+    "subtopic_id": "correctness_contexts",
+    "subtopic_heading": "Correctness Review — Statutory Appeal Routes",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario professional college's Discipline Committee finds a member guilty of professional misconduct and orders the member struck off the rolls. The enabling statute provides: 'Any party may appeal a decision of the Discipline Committee to the Divisional Court on a question of law.' The member appeals, arguing the Committee misinterpreted a key term in its enabling statute. The College argues reasonableness applies because the Committee is an expert tribunal interpreting its home statute.",
+    "call_of_question": "Under the Vavilov framework, what standard of review applies to the Committee's interpretation of its enabling statute when the matter reaches the Divisional Court on a statutory appeal?",
+    "options": {
+      "A": "Reasonableness applies because the Discipline Committee is a specialized expert tribunal interpreting its home statute, and Vavilov preserves deference in such circumstances.",
+      "B": "The standard of review is determined by the ordinary appellate standards: correctness for questions of law, and palpable and overriding error for questions of fact and mixed fact and law. Where a legislature has enacted a statutory right of appeal, the Vavilov framework directs courts to apply these appellate standards rather than the reasonableness standard, regardless of the tribunal's expertise.",
+      "C": "On a statutory appeal limited to questions of law, courts apply a hybrid standard: reasonableness for interpretations of the tribunal's home statute but correctness for interpretations of external statutes.",
+      "D": "Under Vavilov, the existence of a statutory appeal route is irrelevant to the standard of review; reasonableness is always the default for administrative decisions."
+    },
+    "correct_answer": "B",
+    "explanation": "Vavilov (2019 SCC 65) established that where a legislature has enacted a statutory right of appeal from a tribunal to a court, the ordinary appellate standards apply — correctness for questions of law, palpable and overriding error for questions of fact and mixed fact/law — rather than reasonableness. This is a categorical exception to the reasonableness default, premised on the constitutional role of courts and the legislature's deliberate choice to establish an appellate pathway. The tribunal's expertise is no longer a free-floating factor that overrides the legislature's choice to provide for court oversight. On a statutory appeal, the Divisional Court applies correctness to the legal question of statutory interpretation, even if the Committee is interpreting its home statute.",
+    "why_A_wrong": "Incorrect. While Vavilov does generally preserve deference to expert tribunals on home statute interpretation during judicial review, it also carves out a specific exception: where the legislature has provided a statutory appeal route, appellate standards (correctness for law) apply, regardless of expertise.",
+    "why_B_wrong": "This IS the correct answer. The standard of review is determined by the ordinary appellate standards: correctness for questions of law, and palpable and overriding error for questions of fact and mixed fact and law. Where a legislature has enacted a statutory right of appeal, the Vavilov framework directs courts to apply these appellate standards rather than the reasonableness standard, regardless of the tribunal's expertise.",
+    "why_C_wrong": "Incorrect. Vavilov does not establish a hybrid standard for statutory appeals. The ordinary appellate standards apply consistently: correctness for all questions of law, palpable and overriding error for facts and mixed questions.",
+    "why_D_wrong": "Incorrect. The existence of a statutory right of appeal is specifically identified in Vavilov as the first categorical exception to the default reasonableness standard. It is directly relevant and triggers the application of ordinary appellate standards.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Correctness Review — Statutory Appeal Routes",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65; Judicial Review Procedure Act, R.S.O. 1990, c. J.1"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "statutory appeal",
+      "correctness",
+      "Vavilov",
+      "appellate standards",
+      "questions of law"
+    ],
+    "tested_concepts": [
+      "Vavilov statutory appeal exception to reasonableness",
+      "appellate standards on statutory appeal",
+      "correctness for legal questions on appeal"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-04-standing-002",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_procedure",
+    "topic_heading": "Judicial Review — Standing",
+    "subtopic_id": "public_interest_standing",
+    "subtopic_heading": "Public Interest Standing — Downtown Eastside Test",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A non-profit organization representing sex workers in Ontario seeks judicial review of a provincial regulation that criminalizes solicitation in public spaces. The organization has no members who are individually named applicants, and none of the sex workers it represents have personally been charged. The organization argues it has public interest standing to challenge the regulation. The Attorney General argues the organization lacks standing because no member has been directly affected.",
+    "call_of_question": "Under the Downtown Eastside test for public interest standing, which of the following best states the test a court applies when deciding whether to grant public interest standing to a non-profit organization?",
+    "options": {
+      "A": "Public interest standing is available only where at least one individual plaintiff can demonstrate direct personal harm from the challenged law; a non-profit alone cannot have standing.",
+      "B": "Under Canada (Attorney General) v Downtown Eastside Sex Workers United Against Violence, 2012 SCC 45, courts exercise discretion to grant public interest standing by considering three factors: (1) whether there is a serious justiciable issue; (2) whether the applicant has a real stake or genuine interest in the issue; and (3) whether the proposed application is a reasonable and effective means of bringing the issue before the court, having regard to other means available and the desirability of having the issue decided in a concrete factual context.",
+      "C": "Public interest standing is available as of right where the organization demonstrates it is a recognized non-profit with a mandate that includes the subject matter of the challenge; no further test is required.",
+      "D": "Courts grant public interest standing automatically to any organization seeking to challenge government action on behalf of a marginalized group, provided the organization has 1000 or more members."
+    },
+    "correct_answer": "B",
+    "explanation": "In Canada (AG) v Downtown Eastside Sex Workers United Against Violence, 2012 SCC 45, the Supreme Court confirmed that public interest standing is a discretionary remedy governed by a three-part test: (1) Is there a serious justiciable issue raised? (2) Does the applicant have a real stake or genuine interest in the issue? (3) Is the proposed proceeding a reasonable and effective means of bringing the matter before the court, considering other means (e.g., individual litigants bringing personal challenges) and whether a concrete factual record is achievable? The test is holistic and flexible; the factors are not a strict checklist but are to be considered together. An organization with a genuine mandate to advocate for sex workers and a serious constitutional challenge to a solicitation law would likely satisfy all three factors, particularly where individual members face personal risks in bringing individual claims.",
+    "why_A_wrong": "Incorrect. Downtown Eastside specifically confirmed that organizations without individually named plaintiffs who suffered direct harm can obtain public interest standing if the three-factor test is met. The requirement of a directly harmed individual is too narrow.",
+    "why_B_wrong": "This IS the correct answer. Under Canada (Attorney General) v Downtown Eastside Sex Workers United Against Violence, 2012 SCC 45, courts exercise discretion to grant public interest standing by considering three factors: (1) whether there is a serious justiciable issue; (2) whether the applicant has a real stake or genuine interest in the issue; and (3) whether the proposed application is a reasonable and effective means of bringing the issue before the court, having regard to other means available and the desirability of having the issue decided in a concrete factual context.",
+    "why_C_wrong": "Incorrect. Public interest standing is never available as of right for non-profits simply based on organizational mandate; it remains a discretionary remedy governed by the three-part Downtown Eastside test.",
+    "why_D_wrong": "Incorrect. There is no membership threshold in Canadian standing law. The Downtown Eastside test does not require any minimum membership number; it focuses on the nature of the issue, the interest of the applicant, and the suitability of the proceeding.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Public Interest Standing — Downtown Eastside Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canada (Attorney General) v Downtown Eastside Sex Workers United Against Violence, 2012 SCC 45"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "public interest standing",
+      "Downtown Eastside",
+      "non-profit organization",
+      "serious justiciable issue",
+      "reasonable and effective means"
+    ],
+    "tested_concepts": [
+      "Downtown Eastside three-part public interest standing test",
+      "discretionary nature of public interest standing",
+      "genuine interest requirement"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-04-mootness-002",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_procedure",
+    "topic_heading": "Judicial Review — Mootness",
+    "subtopic_id": "mootness_discretion",
+    "subtopic_heading": "Mootness — Discretion to Hear Despite Mootness",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A prisoner successfully completes a prison sentence before their judicial review application challenging a disciplinary segregation order is heard. The disciplinary order has expired and the sentence has been served. The prisoner argues the court should still decide the case because: (1) the issue is capable of repetition yet evading review (segregation orders are short and frequently challenged after completion); (2) there is an adversarial context because the Crown still defends the order; and (3) the case raises a systemic constitutional issue affecting all federally sentenced persons.",
+    "call_of_question": "Under the Borowski two-stage mootness framework, assuming the case is moot at stage one, which of the following MOST accurately describes the court's analysis at stage two?",
+    "options": {
+      "A": "At stage two, if the case is capable of repetition yet evading review, the court must hear it; this factor alone is sufficient to require the court to exercise its discretion to decide the matter.",
+      "B": "At Borowski stage two, the court exercises discretion by weighing three factors: (1) whether an adversarial context still exists (to sharpen the issues); (2) whether judicial economy favours deciding the issue (systemic importance, avoiding future litigation); and (3) whether deciding the case would be consistent with the court's adjudicative role (avoiding advisory opinions on hypothetical facts). No single factor is automatically determinative; the court must balance all three, and courts have declined to hear moot cases even where all three factors favour hearing.",
+      "C": "At Borowski stage two, a systemic constitutional issue is automatically sufficient to require the court to decide the moot case; constitutional questions are never truly moot.",
+      "D": "Stage two of Borowski requires the court to determine whether any person in Canada could conceivably face the same issue in the future; if so, the case must be decided."
+    },
+    "correct_answer": "B",
+    "explanation": "Under Borowski v Canada (AG), [1989] 1 SCR 342, if a case is found moot at stage one (no live controversy), the court exercises discretion at stage two by weighing three specific factors, none of which is automatically determinative: (1) Whether there remains an adversarial relationship — if the parties are still adversarial, the court has better arguments to work with; (2) Judicial economy — whether deciding the case avoids future litigation on a question of wide systemic importance; and (3) The court's adjudicative role — courts should be cautious not to venture into advisory opinion territory by deciding purely hypothetical issues. The exam trap here is assuming that any one factor (especially systemic importance or repetition-yet-evading-review) compels the court to hear the case. Courts have discretion and have declined even where systemic factors favoured hearing. All three factors must be balanced holistically.",
+    "why_A_wrong": "Incorrect. Capable of repetition yet evading review is a relevant consideration going to judicial economy at stage two, but it is not automatically determinative. The court must still balance all three Borowski stage-two factors.",
+    "why_B_wrong": "This IS the correct answer. At Borowski stage two, the court exercises discretion by weighing three factors: (1) whether an adversarial context still exists (to sharpen the issues); (2) whether judicial economy favours deciding the issue (systemic importance, avoiding future litigation); and (3) whether deciding the case would be consistent with the court's adjudicative role (avoiding advisory opinions on hypothetical facts). No single factor is automatically determinative; the court must balance all three, and courts have declined to hear moot cases even where all three factors favour hearing.",
+    "why_C_wrong": "Incorrect. A constitutional issue is not automatically exempt from mootness. Courts have refused to decide moot constitutional questions where the Borowski stage-two factors did not justify the exercise of discretion. Constitutional cases can be and are dismissed on mootness grounds.",
+    "why_D_wrong": "Incorrect. The Borowski test does not ask whether any conceivable future person could face the same issue. That standard would effectively eliminate mootness doctrine entirely. The focus is on whether the three specific Borowski stage-two factors justify using judicial resources on this case.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Mootness — Discretion to Hear Despite Mootness",
+      "page": "N/A",
+      "rule_or_statute_reference": "Borowski v Canada (Attorney General), [1989] 1 SCR 342"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "mootness",
+      "Borowski stage two",
+      "discretion",
+      "capable of repetition",
+      "advisory opinion"
+    ],
+    "tested_concepts": [
+      "Borowski stage two three factors",
+      "no single factor automatically determinative",
+      "discretion to decide moot cases"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-04-prerog-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "prerogative_remedies",
+    "topic_heading": "Prerogative Remedies — Certiorari and Mandamus",
+    "subtopic_id": "certiorari_mandamus",
+    "subtopic_heading": "Certiorari and Mandamus — Traditional Use and JRPA",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A landowner applies to an Ontario municipal committee for a minor variance. The committee refuses without providing any reasons. The landowner wants to challenge the refusal in court. Her lawyer advises that under the Judicial Review Procedure Act, the traditional prerogative remedies of certiorari and mandamus have been absorbed into a simplified application for judicial review.",
+    "call_of_question": "Under the Judicial Review Procedure Act, R.S.O. 1990, c. J.1, how does the Act affect the traditional prerogative remedies of certiorari, mandamus, and prohibition?",
+    "options": {
+      "A": "The JRPA abolishes prerogative remedies entirely; they are no longer available in Ontario.",
+      "B": "Under the Judicial Review Procedure Act, the traditional prerogative remedies — certiorari (quashing decisions), mandamus (compelling performance of public duties), and prohibition (preventing excess of jurisdiction) — are preserved but are now sought through a single unified application for judicial review rather than separate prerogative writ proceedings. The court may grant any one or more of these remedies on a judicial review application.",
+      "C": "Prerogative remedies are still obtained through separate writ proceedings in Ontario; the JRPA only applies to statutory appeals.",
+      "D": "Under the JRPA, certiorari is the only available prerogative remedy; mandamus and prohibition were abolished and replaced with declaratory relief."
+    },
+    "correct_answer": "B",
+    "explanation": "The Judicial Review Procedure Act, R.S.O. 1990, c. J.1, consolidated and simplified judicial review in Ontario. Historically, certiorari (to quash a decision), mandamus (to compel performance of a public duty), prohibition (to prevent excess of jurisdiction), and other prerogative remedies required separate writ proceedings. The JRPA replaced these with a single application for judicial review, while preserving the underlying remedies. Under s. 2 of the JRPA, a court may, on an application for judicial review, grant any relief that could have been obtained on an application for an order in the nature of certiorari, mandamus, prohibition, quo warranto, or on an action for a declaration or injunction. The landowner can file a single JRPA application seeking certiorari (to quash the refusal) or mandamus (to compel the committee to provide reasons and reconsider).",
+    "why_A_wrong": "Incorrect. The JRPA did not abolish prerogative remedies; it preserved them while simplifying the procedural mechanism for obtaining them through a unified application.",
+    "why_B_wrong": "This IS the correct answer. Under the Judicial Review Procedure Act, the traditional prerogative remedies — certiorari (quashing decisions), mandamus (compelling performance of public duties), and prohibition (preventing excess of jurisdiction) — are preserved but are now sought through a single unified application for judicial review rather than separate prerogative writ proceedings. The court may grant any one or more of these remedies on a judicial review application.",
+    "why_C_wrong": "Incorrect. The JRPA applies to judicial review applications (not just statutory appeals) and eliminated the need for separate writ proceedings. Separate prerogative writ proceedings are no longer the mechanism in Ontario.",
+    "why_D_wrong": "Incorrect. All of the traditional prerogative remedies — certiorari, mandamus, and prohibition — are preserved under the JRPA and available on a judicial review application. None were abolished.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Prerogative Remedies — JRPA Unified Application",
+      "page": "N/A",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "certiorari",
+      "mandamus",
+      "prohibition",
+      "JRPA",
+      "unified application"
+    ],
+    "tested_concepts": [
+      "JRPA preservation of prerogative remedies",
+      "unified application replaces separate writs",
+      "certiorari mandamus prohibition under JRPA"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-04-prerog-002",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "prerogative_remedies",
+    "topic_heading": "Prerogative Remedies — Prohibition",
+    "subtopic_id": "prohibition",
+    "subtopic_heading": "Prohibition — Preventing Excess of Jurisdiction",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario administrative tribunal is about to hear a case that a lawyer believes falls entirely outside the tribunal's statutory jurisdiction. The hearing is scheduled for tomorrow. The lawyer wants to obtain immediate relief from the Divisional Court to stop the tribunal from proceeding with the hearing before it makes a decision that would have to be quashed after-the-fact.",
+    "call_of_question": "Which prerogative remedy is most appropriate to prevent a tribunal from proceeding with a hearing that allegedly falls outside its jurisdiction, and what must be shown?",
+    "options": {
+      "A": "Mandamus is the appropriate remedy; it compels the tribunal to defer to the reviewing court's jurisdiction determination before proceeding.",
+      "B": "Prohibition is the appropriate remedy. Prohibition lies to prevent a tribunal from proceeding with a matter that is outside its jurisdiction or where the tribunal is about to act in excess of its jurisdiction. It is a prospective remedy — it prevents the error before it occurs — distinguishable from certiorari, which quashes a decision already made. The applicant must establish that the tribunal lacks jurisdiction over the subject matter or is about to exceed its jurisdiction.",
+      "C": "The appropriate remedy is certiorari, which can be granted prospectively to prevent future decisions in addition to quashing past decisions.",
+      "D": "There is no remedy available until the tribunal makes its final decision; courts will not intervene in ongoing tribunal proceedings prior to the final decision."
+    },
+    "correct_answer": "B",
+    "explanation": "Prohibition is the prerogative remedy that lies to prevent a tribunal from proceeding with a matter outside its jurisdiction or where the tribunal proposes to act in excess of its jurisdiction. It is fundamentally prospective — issued before the error occurs — and prevents the tribunal from making an ultra vires decision in the first place. This is distinguishable from certiorari (which quashes a decision already made) and mandamus (which compels a tribunal to perform a public duty it has failed to perform). In Ontario, prohibition is sought through a judicial review application under the JRPA. The applicant must establish that the tribunal is acting or about to act without, or in excess of, its jurisdiction. Courts may also require the applicant to demonstrate that they cannot adequately raise the jurisdictional objection within the tribunal proceedings themselves (i.e., the tribunal cannot cure the defect).",
+    "why_A_wrong": "Incorrect. Mandamus compels the performance of a public duty; it does not prevent a tribunal from proceeding. It would be used to compel a tribunal to hear a case or take a required step, not to stop it.",
+    "why_B_wrong": "This IS the correct answer. Prohibition is the appropriate remedy. Prohibition lies to prevent a tribunal from proceeding with a matter that is outside its jurisdiction or where the tribunal is about to act in excess of its jurisdiction. It is a prospective remedy — it prevents the error before it occurs — distinguishable from certiorari, which quashes a decision already made. The applicant must establish that the tribunal lacks jurisdiction over the subject matter or is about to exceed its jurisdiction.",
+    "why_C_wrong": "Incorrect. Certiorari is a retrospective remedy that quashes a decision already made; it cannot be issued prospectively to prevent future decisions. Prohibition is the correct prospective remedy.",
+    "why_D_wrong": "Incorrect. Courts can and do intervene before final decisions through prohibition, particularly where the alleged jurisdictional defect cannot be remedied after-the-fact and proceeding to a full hearing would be wasted or harmful. The premature intervention doctrine is a consideration of discretion, not an absolute bar.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Prerogative Remedies — Prohibition",
+      "page": "N/A",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "prohibition",
+      "excess of jurisdiction",
+      "prospective remedy",
+      "prevent tribunal",
+      "before decision"
+    ],
+    "tested_concepts": [
+      "prohibition as prospective remedy",
+      "prohibition vs certiorari distinction",
+      "excess of jurisdiction grounds for prohibition"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-04-certiorari-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "prerogative_remedies",
+    "topic_heading": "Prerogative Remedies — Certiorari",
+    "subtopic_id": "certiorari",
+    "subtopic_heading": "Certiorari — Quashing Administrative Decisions",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A university committee decides to expel a student for academic misconduct. The student seeks judicial review arguing she was not given notice of the specific allegations against her before the hearing, violating procedural fairness. She asks the court to quash the expulsion decision. The university argues certiorari should not issue because the internal appeal process has not been exhausted.",
+    "call_of_question": "What is the function of certiorari in administrative law, and is the university's argument about exhaustion of internal appeals a valid objection?",
+    "options": {
+      "A": "Certiorari quashes a decision but only applies where the decision-maker acted beyond its statutory authority; procedural unfairness does not ground certiorari.",
+      "B": "Certiorari is the prerogative remedy that quashes (sets aside) a decision made by a tribunal or administrative body. It is available on grounds including: excess of jurisdiction, breach of procedural fairness/natural justice, and errors of law on the face of the record. The university's argument raises the adequate alternative remedy doctrine: courts generally decline to grant certiorari where an adequate internal appeal exists that has not been exhausted, unless special circumstances apply (e.g., the appeal body cannot provide the full remedy sought).",
+      "C": "Certiorari is available as of right once any procedural unfairness is established; courts have no discretion to decline to issue certiorari and the exhaustion of internal appeals is irrelevant.",
+      "D": "Certiorari can only be sought after all internal appeal processes have been completed; the student's application is premature and must be dismissed."
+    },
+    "correct_answer": "B",
+    "explanation": "Certiorari is the prerogative remedy (sought through a JRPA application in Ontario) that quashes or sets aside a decision of an administrative body. It lies on grounds including excess of jurisdiction, breach of natural justice/procedural fairness, and errors of law on the face of the record. The university's argument is a valid objection based on the adequate alternative remedy doctrine: courts have discretion to decline to grant certiorari (or any other form of judicial review) where an adequate internal appeal mechanism exists and has not been exhausted. However, the doctrine is one of discretion, not an absolute jurisdictional bar; courts may grant certiorari despite an available internal appeal where: the appeal body cannot provide the full remedy (e.g., it cannot address procedural fairness retroactively), where there are delays, or where special circumstances justify intervention. The student can argue these exceptions.",
+    "why_A_wrong": "Incorrect. Certiorari is available on grounds beyond excess of statutory authority, including breach of procedural fairness/natural justice. A failure to provide adequate notice of allegations is a classic procedural fairness ground for certiorari.",
+    "why_B_wrong": "This IS the correct answer. Certiorari is the prerogative remedy that quashes (sets aside) a decision made by a tribunal or administrative body. It is available on grounds including: excess of jurisdiction, breach of procedural fairness/natural justice, and errors of law on the face of the record. The university's argument raises the adequate alternative remedy doctrine: courts generally decline to grant certiorari where an adequate internal appeal exists that has not been exhausted, unless special circumstances apply (e.g., the appeal body cannot provide the full remedy sought).",
+    "why_C_wrong": "Incorrect. Certiorari is not available as of right; it is a discretionary remedy. Courts may decline to grant certiorari even where grounds are established, including where an adequate alternative remedy exists. The existence of an internal appeal is a valid reason for the court to exercise its discretion against granting relief.",
+    "why_D_wrong": "Incorrect. There is no absolute rule requiring exhaustion of all internal processes before certiorari can be sought. The adequate alternative remedy doctrine is a matter of judicial discretion, not jurisdiction. Courts may grant certiorari without exhaustion of internal appeals in appropriate circumstances.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Certiorari — Quashing Administrative Decisions",
+      "page": "N/A",
+      "rule_or_statute_reference": "Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "certiorari",
+      "quash",
+      "procedural fairness",
+      "internal appeal",
+      "adequate alternative remedy"
+    ],
+    "tested_concepts": [
+      "certiorari grounds including procedural fairness",
+      "discretionary nature of certiorari",
+      "adequate alternative remedy and certiorari"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-04-habeas-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "prerogative_remedies",
+    "topic_heading": "Prerogative Remedies — Habeas Corpus",
+    "subtopic_id": "habeas_corpus",
+    "subtopic_heading": "Habeas Corpus — Challenging Unlawful Detention",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A federal prisoner is transferred to a provincial maximum-security institution under a federal-provincial agreement. The prisoner argues the transfer was made without adequate procedural protections and constitutes unlawful additional punishment, violating his Charter rights. He files an application for habeas corpus with certiorari in aid in the Ontario Superior Court of Justice, seeking release or a transfer back to the federal institution. The Crown argues he should pursue judicial review in the Federal Court instead.",
+    "call_of_question": "Which court has jurisdiction to hear a habeas corpus application challenging a prisoner's transfer to a provincial institution, and what must an applicant establish on a habeas corpus application?",
+    "options": {
+      "A": "The Federal Court has exclusive jurisdiction over challenges to federal prison decisions; the Ontario Superior Court of Justice cannot hear habeas corpus applications relating to federal prisoners.",
+      "B": "The Ontario Superior Court of Justice has inherent jurisdiction to hear habeas corpus applications. On a habeas corpus application, the applicant must establish: (1) deprivation of liberty; and (2) that the deprivation is unlawful (e.g., violation of procedural fairness, excess of jurisdiction, or Charter breach). Where habeas corpus is available, it is the preferred remedy over judicial review because it provides a speedy determination by the Superior Court. A prisoner in a provincial institution can use habeas corpus in the provincial Superior Court even if the underlying decision was made by a federal authority.",
+      "C": "Habeas corpus is only available to challenge wrongful convictions; it cannot be used to challenge prison transfers or conditions of confinement.",
+      "D": "Habeas corpus requires the applicant to establish that they are completely innocent of the offence for which they are imprisoned; a mere procedural defect in a transfer decision does not ground habeas corpus."
+    },
+    "correct_answer": "B",
+    "explanation": "Habeas corpus is one of the oldest and most fundamental prerogative remedies, directed at securing the release of a person unlawfully detained or challenging the lawfulness of a detention. In R v Miller, [1985] 2 SCR 613 and May v Ferndale Institution, 2005 SCC 82, the Supreme Court confirmed that provincial Superior Courts have jurisdiction to hear habeas corpus applications challenging prison conditions, transfers, and administrative decisions that affect the degree of liberty enjoyed by a prisoner. The applicant must establish: (1) a deprivation of residual liberty (here, the transfer to a higher security institution); and (2) that the deprivation is unlawful (e.g., for lack of procedural fairness). Habeas corpus is preferred over judicial review in such cases because it is heard by the Superior Court and provides a quicker remedy. The Federal Court's concurrent jurisdiction does not exclude the provincial Superior Court.",
+    "why_A_wrong": "Incorrect. Provincial Superior Courts have inherent jurisdiction over habeas corpus applications, including where the detention relates to federal authorities. The Federal Court does not have exclusive jurisdiction over challenges to the liberty of persons in federal prisons when habeas corpus is the remedy sought.",
+    "why_B_wrong": "This IS the correct answer. The Ontario Superior Court of Justice has inherent jurisdiction to hear habeas corpus applications. On a habeas corpus application, the applicant must establish: (1) deprivation of liberty; and (2) that the deprivation is unlawful (e.g., violation of procedural fairness, excess of jurisdiction, or Charter breach). Where habeas corpus is available, it is the preferred remedy over judicial review because it provides a speedy determination by the Superior Court. A prisoner in a provincial institution can use habeas corpus in the provincial Superior Court even if the underlying decision was made by a federal authority.",
+    "why_C_wrong": "Incorrect. Habeas corpus is not limited to wrongful convictions; it is available to challenge any unlawful deprivation of liberty, including prison transfers, administrative segregation, and changes in conditions of confinement that affect residual liberty.",
+    "why_D_wrong": "Incorrect. Habeas corpus does not require proof of innocence. It is directed at the lawfulness of the detention or liberty deprivation, not the underlying facts of the offence. A procedural defect in a transfer decision that removes residual liberty can ground habeas corpus.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Habeas Corpus — Challenging Unlawful Detention",
+      "page": "N/A",
+      "rule_or_statute_reference": "May v Ferndale Institution, 2005 SCC 82; R v Miller, [1985] 2 SCR 613; Canadian Charter of Rights and Freedoms, s. 10(c)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "habeas corpus",
+      "unlawful detention",
+      "prison transfer",
+      "Superior Court jurisdiction",
+      "deprivation of liberty"
+    ],
+    "tested_concepts": [
+      "habeas corpus requirements — deprivation plus unlawfulness",
+      "provincial Superior Court jurisdiction over habeas corpus",
+      "habeas corpus for prison transfers and conditions"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-04-injunct-001",
+    "subject": "public_law",
+    "chapter_number": 4,
+    "chapter_title": "Judicial Review",
+    "topic_id": "judicial_review_procedure",
+    "topic_heading": "Judicial Review — Interlocutory Injunction",
+    "subtopic_id": "injunction_administrative",
+    "subtopic_heading": "Interlocutory Injunction in Administrative Law — RJR-MacDonald Test",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A telecommunications company receives a decision from an Ontario regulatory tribunal revoking its licence to operate, effective in 72 hours. The company files a judicial review application and simultaneously seeks an interlocutory injunction to stay the revocation pending the outcome of the judicial review. The company argues that revocation will cause it irreparable harm (loss of business and employees) before the court can hear the judicial review. The tribunal argues the revocation is lawful and the public interest in consumer protection outweighs the company's interests.",
+    "call_of_question": "Under the RJR-MacDonald test for an interlocutory injunction in an administrative law context, which of the following best states the three-part test and how the public interest factor is addressed?",
+    "options": {
+      "A": "On an interlocutory injunction in administrative law, a court will grant the injunction automatically where the applicant demonstrates irreparable harm; the other factors are secondary.",
+      "B": "Under RJR-MacDonald Inc v Canada (AG), [1994] 1 SCR 311, an applicant for an interlocutory injunction (or stay) must satisfy a three-part test: (1) Is there a serious question to be tried (not frivolous or vexatious)? (2) Will the applicant suffer irreparable harm if the injunction is not granted (harm not compensable by damages)? (3) Does the balance of convenience favour granting the injunction, including public interest considerations? In administrative law, courts give significant weight to the public interest served by the impugned regulatory decision; the company must demonstrate its irreparable harm outweighs the public interest in the tribunal's regulatory decision.",
+      "C": "In administrative law, a court will only grant an interlocutory injunction against a regulatory decision if the applicant can prove on a balance of probabilities that the underlying decision is wrong; a serious question to be tried is insufficient.",
+      "D": "An interlocutory injunction is never available against an administrative tribunal decision pending judicial review; the only available relief is an expedited hearing of the judicial review application."
+    },
+    "correct_answer": "B",
+    "explanation": "The test for an interlocutory injunction or stay pending judicial review is the three-part RJR-MacDonald test (also called the American Cyanamid test in Canada): (1) Serious question to be tried — whether the application is not frivolous or vexatious; the court does not conduct a detailed examination of the merits at this stage; (2) Irreparable harm — whether damages or other remedies would not adequately compensate the applicant if the injunction is not granted; loss of business and employees before JR is heard can qualify; (3) Balance of convenience — the court weighs the relative harm to each party and, critically in administrative/regulatory contexts, the public interest. Where a regulatory body has made a decision in the public interest (e.g., consumer protection from a non-compliant telecom), the public interest weighs against staying the decision. The company must show its irreparable harm outweighs this public interest.",
+    "why_A_wrong": "Incorrect. Irreparable harm alone is not sufficient for an interlocutory injunction. All three RJR-MacDonald factors must be satisfied; where the balance of convenience (including public interest) weighs heavily against granting the injunction, it may be denied even if irreparable harm is established.",
+    "why_B_wrong": "This IS the correct answer. Under RJR-MacDonald Inc v Canada (AG), [1994] 1 SCR 311, an applicant for an interlocutory injunction (or stay) must satisfy a three-part test: (1) Is there a serious question to be tried (not frivolous or vexatious)? (2) Will the applicant suffer irreparable harm if the injunction is not granted (harm not compensable by damages)? (3) Does the balance of convenience favour granting the injunction, including public interest considerations? In administrative law, courts give significant weight to the public interest served by the impugned regulatory decision; the company must demonstrate its irreparable harm outweighs the public interest in the tribunal's regulatory decision.",
+    "why_C_wrong": "Incorrect. The RJR-MacDonald test does not require proof on a balance of probabilities that the underlying decision is wrong. The first stage — serious question to be tried — sets a low threshold, deliberately avoiding a mini-trial on the merits at the interlocutory stage.",
+    "why_D_wrong": "Incorrect. Interlocutory injunctions and stays pending judicial review are well-established remedies available in administrative law. Courts regularly grant stays of regulatory decisions pending judicial review where the RJR-MacDonald test is met.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 4 — Judicial Review",
+      "heading": "Interlocutory Injunction in Administrative Law — RJR-MacDonald Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "RJR-MacDonald Inc v Canada (Attorney General), [1994] 1 SCR 311; Judicial Review Procedure Act, R.S.O. 1990, c. J.1"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "interlocutory injunction",
+      "RJR-MacDonald",
+      "stay pending judicial review",
+      "irreparable harm",
+      "balance of convenience"
+    ],
+    "tested_concepts": [
+      "RJR-MacDonald three-part test",
+      "public interest in balance of convenience",
+      "stay pending judicial review in administrative law"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
   }
 ]

@@ -514,5 +514,462 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-10-extrajud-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "extrajudicial_sanctions",
+    "subtopic_heading": "Extrajudicial Sanctions — YCJA s. 10",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 16-year-old with one prior police caution is charged with theft over $5,000, an indictable offence. The Crown is considering diverting the matter through a formal extrajudicial sanctions (EJS) program under the YCJA rather than proceeding with the charge.",
+    "call_of_question": "Under s. 10 of the YCJA, which of the following is a mandatory precondition before an extrajudicial sanction may be used?",
+    "options": {
+      "A": "The young person must have no prior criminal record or prior extrajudicial measure of any kind.",
+      "B": "The young person must accept responsibility for the act or omission that forms the basis of the offence alleged.",
+      "C": "The Crown must consent in writing to the EJS and authorize the specific program to be used.",
+      "D": "The offence must be a summary conviction offence — extrajudicial sanctions are unavailable for indictable offences."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 10(2) of the YCJA sets out the mandatory conditions that must be satisfied before an extrajudicial sanction (EJS) may be used. Section 10(2)(b) requires that the young person accept responsibility for the act or omission that forms the basis of the offence alleged. Other conditions under s. 10(2) include: (a) the sanction must be part of a program authorized by the Attorney General; (c) the young person must freely consent; (d) the young person must have had the opportunity to consult with counsel before consenting; and (f) the acceptance of responsibility is not admissible in evidence against the young person in any civil or criminal proceeding. Notably, EJS is not categorically barred for indictable offences — there is no offence-type restriction. A prior police caution does not automatically foreclose EJS, though it is a relevant factor.",
+    "why_A_wrong": "A prior extrajudicial measure does not categorically bar a subsequent EJS. Section 10(2) does not require a clean record. A prior police caution is a relevant factor in assessing adequacy, but not an automatic disqualifier.",
+    "why_B_wrong": "This IS the correct answer. Under s. 10(2)(b) YCJA, acceptance of responsibility for the act or omission forming the basis of the offence is a mandatory precondition for EJS.",
+    "why_C_wrong": "Individual Crown written consent for each EJS use is not a statutory precondition. The requirement under s. 10(2)(a) is that the EJS program be authorized by the Attorney General — this is satisfied by program-level authorization, not case-by-case Crown consent.",
+    "why_D_wrong": "Extrajudicial sanctions are not limited to summary conviction offences. The YCJA contains no categorical offence-type bar on EJS. The nature of the offence informs whether EJS is adequate and appropriate, but indictable offences are not categorically excluded.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Extrajudicial Sanctions — YCJA s. 10",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 10(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "extrajudicial sanction",
+      "EJS",
+      "YCJA s. 10",
+      "accept responsibility",
+      "mandatory precondition",
+      "consent"
+    ],
+    "tested_concepts": [
+      "s. 10(2)(b) acceptance of responsibility as mandatory EJS precondition",
+      "EJS available for indictable offences",
+      "distinction between EJS and EJM",
+      "EJS conditions under s. 10(2)"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-10-detention-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "youth_detention",
+    "subtopic_heading": "Pre-Trial Detention of Young Persons — YCJA s. 29",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 14-year-old is arrested and charged with assault. She comes from a chaotic home environment and has no stable housing. A youth worker suggests that pre-trial detention would benefit her because a youth facility would give her access to counselling and programming unavailable in the community. The Crown seeks detention on this basis.",
+    "call_of_question": "Under s. 29(1) of the YCJA, which of the following correctly states the restriction on pre-trial detention of a young person?",
+    "options": {
+      "A": "A young person may be detained before trial if detention would benefit the young person by providing access to programs or services unavailable in the community.",
+      "B": "A young person may not be detained before trial unless a custodial youth sentence could be imposed and the offence appears on a statutory schedule.",
+      "C": "A young person shall not be detained in a youth custody facility as a substitute for appropriate child protection, mental health, or other social measures.",
+      "D": "Pre-trial detention is unavailable for young persons; release on bail must always be granted to a person under 18 years of age."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 29(1) of the YCJA provides that a youth justice court judge or a justice shall not detain a young person in custody prior to sentencing as a substitute for appropriate child protection, mental health, or other social measures. This provision codifies the principle that the youth justice system must not serve as a surrogate for other social service systems that have failed the young person. Even if detention would provide beneficial programming, using pre-trial detention for that purpose is expressly prohibited by s. 29(1). The youth justice court applies Criminal Code bail principles as modified by YCJA principles of restraint, but the s. 29(1) prohibition is an additional statutory bar that overrides access-to-services rationales.",
+    "why_A_wrong": "Section 29(1) expressly prohibits using pre-trial detention as a substitute for social measures, even when detention would provide beneficial services. Detaining a young person to access counselling or treatment programs is precisely the impermissible use that s. 29(1) bars.",
+    "why_B_wrong": "The YCJA does not restrict pre-trial detention to a specific schedule of offences. Pre-trial detention of young persons is governed by the Criminal Code bail provisions as modified by the YCJA, with the s. 29(1) prohibition as an additional restriction. There is no offence-schedule requirement.",
+    "why_C_wrong": "This IS the correct answer. Section 29(1) YCJA prohibits detaining a young person as a substitute for child protection, mental health, or other social measures. Using detention to access counselling services is the paradigm case s. 29(1) bars.",
+    "why_D_wrong": "Pre-trial detention of young persons is available — it is not categorically prohibited. The YCJA modifies but does not eliminate Criminal Code bail provisions. Young persons can be detained on primary, secondary, or tertiary grounds, subject to the restrictions in s. 29(1) and the principle of restraint.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Pre-Trial Detention of Young Persons — YCJA s. 29",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 29(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "pre-trial detention",
+      "YCJA s. 29",
+      "substitute for social measures",
+      "child protection",
+      "youth detention restriction",
+      "counselling services"
+    ],
+    "tested_concepts": [
+      "s. 29(1) YCJA — no detention as substitute for social measures",
+      "detention impermissible for beneficial services rationale",
+      "YCJA principle of restraint in pre-trial detention",
+      "youth justice system not a surrogate for other systems"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-10-privacy-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "victim_witness_publication",
+    "subtopic_heading": "Publication Ban on Young Victim or Witness — YCJA s. 111",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 15-year-old victim of a sexual assault is the complainant in a proceeding against an adult accused. A journalist plans to publish a story about the case and asks whether publishing the victim's name is permitted.",
+    "call_of_question": "Under s. 111 of the YCJA, what is the default rule regarding publication of information that would identify a young person as a victim or witness in any proceeding?",
+    "options": {
+      "A": "There is no restriction on publishing the identity of a young person who is a victim because only the accused receives a publication ban under the YCJA.",
+      "B": "The publication ban under s. 111 only applies to young persons who are witnesses, not victims.",
+      "C": "No person shall publish the name of a young person, or any other information related to a young person, if it would identify the young person as a victim or witness in a proceeding; but the court may lift the ban on application.",
+      "D": "The publication ban on young victims applies only in youth court proceedings, not in adult criminal proceedings."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 111(1) of the YCJA provides that no person shall publish the name of a young person, or any other information related to a young person, if it would identify the young person as a victim or witness in any proceeding under the YCJA or any offence under any other Act of Parliament. This publication ban is distinct from the accused publication ban in s. 110 and applies regardless of the court in which the proceedings are held. Under s. 111(2), the youth justice court judge may, after taking into account the interests of the young person and the public interest in disclosure, make an order permitting the publication. The ban on publishing identifying information about young victims and witnesses is broader in scope than the accused ban — it applies to proceedings under any federal legislation, not just YCJA proceedings.",
+    "why_A_wrong": "Section 111 extends the YCJA publication ban protection to young victims and witnesses, not just accused young persons. The s. 110 ban covers accused young persons; s. 111 separately covers young victims and witnesses. Both bans exist in the YCJA.",
+    "why_B_wrong": "Section 111 applies to both young victims and young witnesses — it is not limited to witnesses only. The section protects 'a young person ... as a victim or witness.' Both categories receive the same publication protection.",
+    "why_C_wrong": "This IS the correct answer. Section 111(1) prohibits publication of identifying information about young victims and witnesses in any proceeding. The court may lift the ban under s. 111(2) on application, balancing the young person's interests and the public interest.",
+    "why_D_wrong": "Section 111 is not limited to youth court proceedings. It applies to any proceeding under the YCJA or any offence under any other federal Act. A young victim in an adult criminal proceeding (as in this fact pattern) is protected by s. 111, which extends beyond youth court.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Publication Ban — Young Victim or Witness — YCJA s. 111",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 111(1), s. 111(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "publication ban",
+      "young victim",
+      "young witness",
+      "YCJA s. 111",
+      "identifying information",
+      "victim publication"
+    ],
+    "tested_concepts": [
+      "s. 111 YCJA publication ban on young victims and witnesses",
+      "distinction between s. 110 (accused) and s. 111 (victim/witness)",
+      "court may lift ban under s. 111(2)",
+      "ban applies beyond youth court proceedings"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-10-reintegration-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "reintegration_leave",
+    "subtopic_heading": "Reintegration Leave — YCJA s. 91",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 16-year-old is serving a 12-month custodial youth sentence. She has made significant progress in her rehabilitation program. The youth facility staff recommend that she be granted temporary absences to attend vocational training in the community as part of a structured reintegration plan.",
+    "call_of_question": "Under s. 91 of the YCJA, who has authority to authorize a reintegration leave from a youth custody facility, and for what purposes may such leave be granted?",
+    "options": {
+      "A": "Only a youth justice court judge may authorize reintegration leave, and only for medical emergencies.",
+      "B": "The provincial director has authority to authorize reintegration leave for purposes including medical, humanitarian, or rehabilitative reasons, including to attend educational or vocational training.",
+      "C": "Reintegration leave may only be authorized in the last 30 days of the custodial portion of the sentence.",
+      "D": "The young person must apply to the Parole Board of Canada for temporary absence, which is governed by the Corrections and Conditional Release Act, not the YCJA."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 91 of the YCJA provides that the provincial director may, with the consent of the young person and of a parent of the young person if the young person is under 18 years of age, authorize a reintegration leave from a youth custody facility. Under s. 91(1), the provincial director may authorize leave for specific purposes including: (a) medical or compassionate reasons; (b) rehabilitative purposes, including attending educational, vocational, or work programs; and (c) reintegration into the community. Reintegration leave is a YCJA mechanism entirely separate from the federal Corrections and Conditional Release Act, which governs adult federal offenders. The YCJA's emphasis on rehabilitation supports structured community access during the custodial sentence to facilitate the young person's transition back to the community.",
+    "why_A_wrong": "Section 91 grants authority to the provincial director, not the youth justice court, to authorize reintegration leave. The purposes extend well beyond medical emergencies to include rehabilitative and community reintegration purposes. Court approval is not required for reintegration leave under s. 91.",
+    "why_B_wrong": "This IS the correct answer. Under s. 91(1) YCJA, the provincial director may authorize reintegration leave for medical, humanitarian, rehabilitative, and reintegration purposes — including attending vocational or educational programs in the community.",
+    "why_C_wrong": "The YCJA does not restrict reintegration leave to the final 30 days of the custodial portion of the sentence. Leave can be authorized at any point during the custodial sentence when the provincial director determines it is appropriate for the young person's rehabilitation and reintegration.",
+    "why_D_wrong": "Youth offenders under the YCJA are not subject to the Corrections and Conditional Release Act for reintegration leave purposes. The YCJA contains its own reintegration leave framework in s. 91, administered by the provincial director. The CCRA applies to adult federal offenders, not young persons under the YCJA.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Reintegration Leave — YCJA s. 91",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 91(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "reintegration leave",
+      "YCJA s. 91",
+      "provincial director",
+      "temporary absence",
+      "rehabilitation",
+      "vocational training",
+      "youth custody"
+    ],
+    "tested_concepts": [
+      "s. 91(1) YCJA — provincial director authorizes reintegration leave",
+      "purposes of reintegration leave — medical, rehabilitative, community",
+      "YCJA reintegration leave distinct from CCRA",
+      "parental consent required if under 18"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-10-principles-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "declaration_of_principle",
+    "subtopic_heading": "Declaration of Principle — YCJA s. 3",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A youth justice court judge is determining the appropriate response for a 15-year-old charged with a first offence of mischief. The judge considers the underlying principles of the YCJA to guide the decision.",
+    "call_of_question": "Under s. 3 of the YCJA, which of the following is a declared principle of the youth criminal justice system?",
+    "options": {
+      "A": "Young persons must be held accountable through intervention that is proportionate to the seriousness of the offence and the degree of responsibility of the young person.",
+      "B": "Young persons who commit offences should be treated identically to adult offenders to promote uniformity in the criminal justice system.",
+      "C": "The primary objective of the youth criminal justice system is general deterrence of youth crime in the community.",
+      "D": "Parents bear criminal responsibility for offences committed by young persons under their care."
+    },
+    "correct_answer": "A",
+    "explanation": "Section 3(1)(b)(ii) of the YCJA establishes that the youth criminal justice system must ensure that young persons are subject to meaningful consequences and are held accountable through interventions that are proportionate to the seriousness of their offences and the degree of their responsibility. The Declaration of Principle in s. 3 includes: rehabilitation and reintegration of young persons; fair and proportionate accountability; protection of the public; special considerations for young persons due to their reduced moral culpability and greater needs; timely intervention; and reinforcement of societal values. The YCJA explicitly rejects identical treatment with adults and emphasizes individualized, rehabilitative responses. General deterrence is not the primary objective — rehabilitation and reintegration are central.",
+    "why_A_wrong": "This IS the correct answer. Section 3(1)(b)(ii) YCJA declares that young persons are to be held accountable through interventions proportionate to the seriousness of the offence and the degree of their responsibility.",
+    "why_B_wrong": "The YCJA explicitly does not treat young persons identically to adults. Section 3(1)(b) recognizes young persons' reduced moral culpability, developmental differences, and greater needs. The separate YCJA regime exists precisely because youth justice is distinct from adult criminal justice.",
+    "why_C_wrong": "General deterrence is not the primary declared objective of the YCJA. Section 3(1)(a) states the purpose is to protect the public by holding young persons accountable through rehabilitation, reintegration, and meaningful consequences. General deterrence — while relevant in adult sentencing — is given significantly less weight in youth sentencing.",
+    "why_D_wrong": "Parents do not bear criminal responsibility for offences of their young persons under the YCJA. The YCJA does impose obligations on parents (e.g., notice, participation in proceedings), but does not make parents criminally responsible. The young person bears individual accountability for their own acts.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Declaration of Principle — YCJA s. 3",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 3(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Declaration of Principle",
+      "YCJA s. 3",
+      "proportionate accountability",
+      "rehabilitation",
+      "youth justice principles",
+      "reduced moral culpability"
+    ],
+    "tested_concepts": [
+      "s. 3(1) YCJA Declaration of Principle",
+      "proportionate accountability as YCJA principle",
+      "rehabilitation and reintegration as primary goals",
+      "general deterrence not primary in youth justice"
+    ],
+    "estimated_time_seconds": 60,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-10-intensive-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "ircs",
+    "subtopic_heading": "Intensive Rehabilitative Custody and Supervision — YCJA s. 42(2)(r)",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 17-year-old is convicted of manslaughter. The young person has a diagnosed mental disorder that contributed significantly to the offending behaviour. The Crown applies for an intensive rehabilitative custody and supervision (IRCS) order, arguing it is the most appropriate sentence.",
+    "call_of_question": "Under s. 42(7) of the YCJA, which of the following is a prerequisite before the court may impose an intensive rehabilitative custody and supervision (IRCS) order?",
+    "options": {
+      "A": "The offence must be a first-degree murder, second-degree murder, attempted murder, manslaughter, or aggravated sexual assault, and the young person must be suffering from a mental illness or disorder, a psychological disorder, or an emotional disturbance.",
+      "B": "The IRCS order requires the prior consent of the young person and approval of the provincial director for the relevant treatment program.",
+      "C": "The IRCS order is available for any serious violent offence and requires only a pre-sentence report recommending treatment.",
+      "D": "The IRCS order requires that an adult sentence application has been made and rejected before it may be considered as an alternative."
+    },
+    "correct_answer": "A",
+    "explanation": "Section 42(7) of the YCJA establishes the conditions for an intensive rehabilitative custody and supervision (IRCS) order. The court may impose an IRCS order only if: (a) the young person has been convicted of a first-degree murder, second-degree murder, attempted murder, manslaughter, or aggravated sexual assault; (b) the young person is suffering from a mental illness or disorder, a psychological disorder, or an emotional disturbance; (c) a plan of treatment or set of programmes has been developed for the young person, and there are reasonable grounds to believe the plan or programme would reduce the risk of the young person repeating the offence or committing a serious violent offence; and (d) the provincial director has determined that an intensive rehabilitative custody and supervision program is available to the young person. IRCS is a specialized custodial sentence designed to address mental-health-linked serious violent offending in young persons.",
+    "why_A_wrong": "This IS the correct answer. Section 42(7) YCJA requires conviction of one of the enumerated serious violent offences AND that the young person be suffering from a mental illness, disorder, or psychological/emotional disturbance, along with a viable treatment plan.",
+    "why_B_wrong": "While the provincial director's determination that a program is available is required (s. 42(7)(d)), the young person's personal consent is not listed as a mandatory precondition in s. 42(7). Consent is relevant to treatment participation but is not part of the s. 42(7) threshold test.",
+    "why_C_wrong": "IRCS is not available for any serious violent offence. Section 42(7)(a) limits IRCS to the five specific enumerated offences: first-degree murder, second-degree murder, attempted murder, manslaughter, and aggravated sexual assault. A pre-sentence report alone does not satisfy the preconditions.",
+    "why_D_wrong": "An adult sentence application is not a precondition for IRCS. IRCS is an independent youth sentence option. The court may consider IRCS without a prior adult sentencing application having been made or rejected.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Intensive Rehabilitative Custody and Supervision — YCJA s. 42(7)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 42(2)(r), s. 42(7)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "intensive rehabilitative custody and supervision",
+      "IRCS",
+      "YCJA s. 42(7)",
+      "mental illness",
+      "psychological disorder",
+      "enumerated violent offences"
+    ],
+    "tested_concepts": [
+      "s. 42(7) IRCS prerequisites",
+      "enumerated offences for IRCS eligibility",
+      "mental illness or disorder requirement for IRCS",
+      "treatment plan requirement for IRCS"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-10-review-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "sentence_review",
+    "subtopic_heading": "Review of Youth Sentences — YCJA s. 94",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 16-year-old is serving a two-year non-custodial youth sentence. After serving six months, he applies for a review of his sentence, asking that the conditions be varied because his circumstances have significantly improved.",
+    "call_of_question": "Under s. 94(1) of the YCJA, after what period may a young person apply for a review of a non-custodial youth sentence?",
+    "options": {
+      "A": "After one year of the sentence has elapsed.",
+      "B": "After six months of the sentence has elapsed or after the person has served one-half of the sentence, whichever comes first.",
+      "C": "At any time, provided there is a material change in circumstances.",
+      "D": "After six months of the sentence has elapsed."
+    },
+    "correct_answer": "D",
+    "explanation": "Section 94(1) of the YCJA provides that the youth justice court may review a youth sentence imposed on a young person, on application by the young person, the young person's parent, the Attorney General, or the provincial director, if six months have elapsed since the youth sentence was imposed. Section 94(2) allows a review at any time with leave of the youth justice court if there are exceptional circumstances. The standard waiting period before a non-custodial sentence can be reviewed on the young person's application is six months. This reflects the YCJA's emphasis on adaptability — youth sentences can be modified to reflect changed circumstances, but with the six-month threshold to prevent repeated applications disrupting the sentence structure.",
+    "why_A_wrong": "The statutory period for applying for review under s. 94(1) is six months, not one year. Waiting a full year before applying would exceed the statutory minimum and would not reflect the YCJA's intent to allow timely review of youth sentences.",
+    "why_B_wrong": "The YCJA does not use a 'six months or one-half of sentence, whichever is earlier' formula for non-custodial sentence reviews under s. 94(1). The threshold is a flat six months from the imposition of the sentence.",
+    "why_C_wrong": "An application at any time is available only with leave of the court under s. 94(2), and only where there are exceptional circumstances. Without exceptional circumstances, the young person must wait six months before applying for a review. 'Material change in circumstances' describes s. 94(2), not the general s. 94(1) right.",
+    "why_D_wrong": "This IS the correct answer. Under s. 94(1) YCJA, a young person may apply for a review of a non-custodial youth sentence after six months have elapsed since the sentence was imposed.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Review of Youth Sentences — YCJA s. 94",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 94(1), s. 94(2)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "review of youth sentence",
+      "YCJA s. 94",
+      "six months",
+      "non-custodial sentence review",
+      "application for review",
+      "vary conditions"
+    ],
+    "tested_concepts": [
+      "s. 94(1) YCJA — six-month threshold for sentence review",
+      "s. 94(2) exceptional circumstances for immediate review",
+      "who may apply for review of youth sentence",
+      "YCJA sentence flexibility"
+    ],
+    "estimated_time_seconds": 60,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-10-parent-001",
+    "subject": "criminal_law",
+    "chapter_number": 10,
+    "chapter_title": "Youth Criminal Justice",
+    "topic_id": "youth_criminal_justice",
+    "topic_heading": "Youth Criminal Justice Act",
+    "subtopic_id": "notice_to_parents",
+    "subtopic_heading": "Notice to Parents — YCJA s. 26",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A 13-year-old is arrested by police and taken to the police station for processing. The young person's parents live in the same city and are reachable by phone. Police give the young person an oral caution and release him without charges, relying on an extra-judicial measure.",
+    "call_of_question": "Under s. 26 of the YCJA, in what circumstances is notice to a parent required, and is it required when police use an extra-judicial measure such as a caution?",
+    "options": {
+      "A": "Notice to parents is required only when the young person is charged by information; a police caution does not trigger the notice obligation.",
+      "B": "Notice to parents is required whenever police take any action under the YCJA, including administering a police caution, because s. 26(1) mandates notice upon any arrest or detention.",
+      "C": "Notice to parents is required whenever a young person is detained or is subject to a judicial interim release application; it is not required for an out-of-court police caution.",
+      "D": "Notice to parents is required only if the young person requests it or if the young person is under 12 years of age."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 26(1) of the YCJA requires that where a young person is arrested and detained in custody, or where a young person is released on an undertaking, a parent must be notified as soon as possible, and the notice must include information about the charge, the arrest, and the right to retain counsel. The notice obligation under s. 26 is triggered by arrest and detention, or by proceedings in court (including release on undertaking). A police caution administered without formal detention or laying of charges does not trigger the s. 26 notice obligation — police cautions and other informal extra-judicial measures are handled outside the formal YCJA notice framework. However, police are encouraged to involve parents in EJM processes as a matter of practice even when not legally required.",
+    "why_A_wrong": "Notice is not limited to cases where a charge by information is laid. Section 26 also requires notice when a young person is detained or when judicial proceedings are commenced. The trigger is detention or court proceedings, not only the laying of an information.",
+    "why_B_wrong": "Section 26(1) does not mandate notice upon every police action or contact with a young person. The section is triggered by arrest and detention or by court proceedings — not by every exercise of a police power. An informal police caution used as an EJM does not trigger the s. 26 notice requirement.",
+    "why_C_wrong": "This IS the correct answer. Section 26 requires notice to parents upon detention or court proceedings (including release on undertaking), but a police caution used as an extra-judicial measure without formal detention or court proceedings does not trigger the statutory notice obligation.",
+    "why_D_wrong": "The notice obligation is not limited to cases where the young person requests it, nor does it have an age-12 threshold. Section 26 applies to any young person (aged 12 to under 18) who is arrested and detained or subject to court proceedings. The right to parental notice is not conditioned on the young person's request.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 10: Youth Criminal Justice",
+      "heading": "Notice to Parents — YCJA s. 26",
+      "page": "N/A",
+      "rule_or_statute_reference": "Youth Criminal Justice Act, S.C. 2002, c. 1, s. 26(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "notice to parents",
+      "YCJA s. 26",
+      "parent notification",
+      "arrest and detention",
+      "police caution",
+      "parental notice trigger"
+    ],
+    "tested_concepts": [
+      "s. 26(1) YCJA — notice obligation triggered by detention or court proceedings",
+      "police caution as EJM does not trigger s. 26 notice",
+      "notice required upon arrest, detention, or undertaking",
+      "distinction between EJM process and formal YCJA proceedings"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
   }
 ]

@@ -218,5 +218,280 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-09-duty-consult-001",
+    "subject": "public_law",
+    "chapter_number": 9,
+    "chapter_title": "Indigenous Law and Crown Obligations",
+    "topic_id": "duty_to_consult",
+    "topic_heading": "Duty to Consult — Trigger",
+    "subtopic_id": "consult_trigger",
+    "subtopic_heading": "Duty to Consult — When Duty Is Triggered",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A provincial government is considering approval of a new mining project in an area where a First Nation has filed but not yet proven a claim to Aboriginal title. The project would involve road construction through the claimed territory. The province argues the duty to consult does not arise because the Aboriginal title claim has not been proven in court and s. 35 rights have not been established.",
+    "call_of_question": "Under Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73, when is the Crown's duty to consult triggered?",
+    "options": {
+      "A": "The duty to consult arises only after Aboriginal rights or title have been formally established by a court judgment; unproven claims do not trigger any duty.",
+      "B": "Under Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73, the duty to consult is triggered when the Crown has: (1) actual or constructive knowledge of the potential existence of an Aboriginal right or title; (2) contemplates conduct (Crown action or decision); and (3) that conduct might adversely affect that right or title. Proof of the right or title in court is not required; a credible, unresolved claim is sufficient to trigger the duty.",
+      "C": "The duty to consult applies only to decisions made under federal legislation; provincial resource management decisions never trigger the duty.",
+      "D": "The duty to consult is triggered only where the First Nation has filed a Statement of Claim in court asserting Aboriginal title; administrative claims or notices to government are insufficient."
+    },
+    "correct_answer": "B",
+    "explanation": "In Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73, the Supreme Court established that the duty to consult is triggered at a low threshold — not proof of Aboriginal rights or title, but rather the Crown's knowledge (actual or constructive) that a credible claim exists, combined with contemplated Crown action that might adversely affect the claimed rights or title. The rationale is the honour of the Crown and the practical reality that waiting for court-established rights before consulting would leave Aboriginal peoples unprotected during the often-lengthy rights litigation process. The province's argument that only proven rights attract consultation is squarely rejected by Haida Nation. A filed (though not yet proven) claim to Aboriginal title, combined with a resource project in the claimed territory, clearly triggers the duty.",
+    "why_A_wrong": "Incorrect. Haida Nation directly and explicitly rejected the argument that court-established rights are a prerequisite to the duty to consult. The duty arises from credible, unproven claims and is not delayed until rights are established in court.",
+    "why_B_wrong": "This IS the correct answer. Under Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73, the duty to consult is triggered when the Crown has: (1) actual or constructive knowledge of the potential existence of an Aboriginal right or title; (2) contemplates conduct (Crown action or decision); and (3) that conduct might adversely affect that right or title. Proof of the right or title in court is not required; a credible, unresolved claim is sufficient to trigger the duty.",
+    "why_C_wrong": "Incorrect. The duty to consult applies to both federal and provincial Crown action. Haida Nation itself was a challenge to a provincial (British Columbia) forest management decision, confirming that provincial resource management decisions can and do trigger the duty.",
+    "why_D_wrong": "Incorrect. Filing a Statement of Claim in court is not a prerequisite to triggering the duty to consult. The duty is triggered by the Crown's knowledge of a credible claim to Aboriginal rights or title; such knowledge can come from administrative filings, notice to government, publicly known claims, or the Crown's own knowledge of traditional land use.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 9 — Indigenous Law and Crown Obligations",
+      "heading": "Duty to Consult — When Duty Is Triggered",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1982, s. 35; Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "duty to consult",
+      "Haida Nation",
+      "trigger",
+      "unproven claim",
+      "knowledge"
+    ],
+    "tested_concepts": [
+      "Haida Nation three-part trigger for duty to consult",
+      "proof of rights not required — credible claim sufficient",
+      "provincial Crown subject to duty to consult"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-09-duty-consult-002",
+    "subject": "public_law",
+    "chapter_number": 9,
+    "chapter_title": "Indigenous Law and Crown Obligations",
+    "topic_id": "duty_to_consult",
+    "topic_heading": "Duty to Consult — Depth of Consultation",
+    "subtopic_id": "consult_depth",
+    "subtopic_heading": "Duty to Consult — Spectrum of Depth and Strength of Claim",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A First Nation holds a strong treaty right protecting its fishing grounds from development. The provincial government proposes to issue a permit for an industrial facility that would discharge treated wastewater into the river system at the heart of the treaty fishing grounds, significantly affecting fish populations. The province offers to notify the First Nation and accept written submissions, but does not provide meaningful opportunity for the First Nation to influence the permit conditions.",
+    "call_of_question": "Under the Haida Nation spectrum of consultation, was the province's approach to consultation adequate in these circumstances?",
+    "options": {
+      "A": "Notification and written submissions are always sufficient consultation regardless of the strength of the claim or the severity of the impact; deeper consultation is only required where the First Nation has a court order.",
+      "B": "Under Haida Nation v British Columbia, 2004 SCC 73, the depth of consultation required sits on a spectrum calibrated to the strength of the Aboriginal right or claim and the severity of the potential impact on that right. Where a strong, established treaty right is at significant risk from proposed Crown action, the Crown must engage in deep consultation — which goes beyond mere notification and receipt of written submissions to include meaningful dialogue, genuine consideration of the First Nation's concerns, and accommodation where appropriate. Notification and written submissions alone are inadequate where the treaty right is strong and the impact serious.",
+      "C": "The duty to consult is satisfied whenever the Crown informs a First Nation of a proposed action in advance; what the First Nation does with that notification is their responsibility.",
+      "D": "Deep consultation (as opposed to minimal notice) is only required for decisions that would permanently extinguish an Aboriginal right; a temporary wastewater discharge permit does not require more than notification."
+    },
+    "correct_answer": "B",
+    "explanation": "Haida Nation v British Columbia, 2004 SCC 73, established that the duty to consult exists on a spectrum: at the low end (weak or speculative claims, minor impacts), notice and an opportunity to respond may suffice; at the high end (strong, established rights, significant adverse impacts), deep consultation is required, including meaningful dialogue, genuine consideration of the First Nation's concerns, and potentially accommodation. An established treaty right protecting fishing grounds is a strong, recognized right at the top of the spectrum. A proposed wastewater discharge that would significantly affect fish populations is a potentially severe adverse impact on that right. This combination places the consultation obligation at the high end of the spectrum — notification and written submissions alone are plainly inadequate. The province must engage in genuine dialogue, consider the First Nation's concerns in setting permit conditions, and accommodate where feasible.",
+    "why_A_wrong": "Incorrect. Notification and written submissions are not universally sufficient. Haida Nation's spectrum approach calibrates the depth of consultation to the strength of the claim and severity of the impact. For strong rights and serious impacts, much deeper consultation is required.",
+    "why_B_wrong": "This IS the correct answer. Under Haida Nation v British Columbia, 2004 SCC 73, the depth of consultation required sits on a spectrum calibrated to the strength of the Aboriginal right or claim and the severity of the potential impact on that right. Where a strong, established treaty right is at significant risk from proposed Crown action, the Crown must engage in deep consultation — which goes beyond mere notification and receipt of written submissions to include meaningful dialogue, genuine consideration of the First Nation's concerns, and accommodation where appropriate. Notification and written submissions alone are inadequate where the treaty right is strong and the impact serious.",
+    "why_C_wrong": "Incorrect. The duty to consult is not discharged merely by informing the First Nation of a proposed action. Haida Nation requires meaningful consultation appropriate to the circumstances, not a unilateral notification that shifts responsibility to the First Nation.",
+    "why_D_wrong": "Incorrect. Deep consultation is not limited to decisions permanently extinguishing Aboriginal rights. Haida Nation's spectrum is based on strength of the right and severity of the impact; a significant adverse impact on an established treaty right (even from a temporary permit) can require deep consultation.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 9 — Indigenous Law and Crown Obligations",
+      "heading": "Duty to Consult — Spectrum of Depth and Strength of Claim",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1982, s. 35; Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "consultation spectrum",
+      "Haida Nation",
+      "depth of consultation",
+      "strong claim",
+      "meaningful dialogue"
+    ],
+    "tested_concepts": [
+      "Haida Nation spectrum — depth calibrated to strength of claim and impact",
+      "notification insufficient for strong rights and serious impacts",
+      "deep consultation requirements"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-09-accommodate-001",
+    "subject": "public_law",
+    "chapter_number": 9,
+    "chapter_title": "Indigenous Law and Crown Obligations",
+    "topic_id": "duty_to_accommodate",
+    "topic_heading": "Duty to Accommodate — Content and Limits",
+    "subtopic_id": "accommodation",
+    "subtopic_heading": "Duty to Accommodate — What Accommodation Requires",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Following deep consultation with a First Nation regarding a proposed pipeline, the Crown acknowledges that the project will adversely affect the First Nation's s. 35 rights. The First Nation demands a veto over the project — arguing that the duty to accommodate requires the Crown to obtain the First Nation's free, prior, and informed consent before proceeding. The Crown argues consultation is complete and it can approve the project over the First Nation's objection.",
+    "call_of_question": "Under Haida Nation and subsequent case law, does the duty to accommodate include a First Nation veto over Crown decisions affecting their s. 35 rights?",
+    "options": {
+      "A": "Yes — where the duty to consult is triggered and consultation has occurred, the First Nation has an absolute veto over any Crown decision that would adversely affect their s. 35 rights.",
+      "B": "Under Haida Nation v British Columbia, 2004 SCC 73, the duty to consult and accommodate does not give First Nations a veto over Crown decisions. Accommodation requires the Crown to genuinely consider the First Nation's concerns and make reasonable adjustments to minimize adverse impacts, but it does not give First Nations the right to block government decisions entirely. The Crown may proceed with a project over a First Nation's objection if it has fulfilled its consultation obligations and provided appropriate accommodation, though courts will scrutinize whether the accommodation was adequate. A veto would only be available for decisions affecting established core Aboriginal rights in extreme cases.",
+      "C": "The duty to accommodate requires the Crown to obtain the First Nation's written consent before proceeding; unanimous consent from all members of the First Nation is required.",
+      "D": "Once the consultation process is complete and the Crown has accepted written submissions, the accommodation obligation is automatically discharged; no further steps are required regardless of the adequacy of the consultation."
+    },
+    "correct_answer": "B",
+    "explanation": "Haida Nation expressly addresses and rejects the concept of a First Nation veto over Crown resource decisions. The Court held that the duty to consult and, where appropriate, accommodate does not give Aboriginal peoples a veto over Crown decisions; it is a process right, not an outcome right. Accommodation requires the Crown to genuinely consider the First Nation's concerns and make reasonable adjustments — route modifications, environmental conditions, revenue sharing, monitoring requirements — but does not require the Crown to obtain consent or abandon projects. This remains the law even under the principle of free, prior, and informed consent in UNDRIP; Canadian courts have not interpreted UNDRIP as creating a legal veto in domestic law. That said, where accommodation is grossly inadequate, courts may grant judicial review to require additional consultation and accommodation before the project proceeds.",
+    "why_A_wrong": "Incorrect. Haida Nation explicitly stated that the duty to consult and accommodate does not give First Nations a veto over Crown decisions. The duty is one of process — genuine consultation and reasonable accommodation — not an outcome guarantee.",
+    "why_B_wrong": "This IS the correct answer. Under Haida Nation v British Columbia, 2004 SCC 73, the duty to consult and accommodate does not give First Nations a veto over Crown decisions. Accommodation requires the Crown to genuinely consider the First Nation's concerns and make reasonable adjustments to minimize adverse impacts, but it does not give First Nations the right to block government decisions entirely. The Crown may proceed with a project over a First Nation's objection if it has fulfilled its consultation obligations and provided appropriate accommodation, though courts will scrutinize whether the accommodation was adequate. A veto would only be available for decisions affecting established core Aboriginal rights in extreme cases.",
+    "why_C_wrong": "Incorrect. Canadian law does not require written consent from all members of a First Nation as a condition of Crown decision-making. The duty is to consult and accommodate, not to obtain consent. UNDRIP's free, prior, and informed consent standard has not been interpreted in Canadian law as a legal veto requiring unanimous membership consent.",
+    "why_D_wrong": "Incorrect. Receipt of written submissions does not automatically discharge the accommodation obligation. Accommodation requires the Crown to genuinely consider the submissions and make reasonable adjustments where feasible. A formalistic process that accepts submissions but disregards them does not satisfy the duty.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 9 — Indigenous Law and Crown Obligations",
+      "heading": "Duty to Accommodate — What Accommodation Requires",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1982, s. 35; Haida Nation v British Columbia (Minister of Forests), 2004 SCC 73"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "veto",
+      "accommodation",
+      "Haida Nation",
+      "free prior informed consent",
+      "Crown decision"
+    ],
+    "tested_concepts": [
+      "no veto for First Nations under duty to accommodate",
+      "accommodation as reasonable adjustment not consent requirement",
+      "UNDRIP not creating legal veto in Canadian law"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-09-s35-002",
+    "subject": "public_law",
+    "chapter_number": 9,
+    "chapter_title": "Indigenous Law and Crown Obligations",
+    "topic_id": "section_35",
+    "topic_heading": "Section 35 — Sparrow Justification Test",
+    "subtopic_id": "sparrow_justification",
+    "subtopic_heading": "Sparrow Justification — Crown Burden and Priority",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The federal government enacts a fisheries regulation that limits the annual salmon catch of a First Nation whose members have exercised an Aboriginal fishing right for generations. The regulation prioritizes commercial fishing licences over the First Nation's food fishing right. The First Nation challenges the regulation as an unjustified infringement of their s. 35 Aboriginal right. The Crown argues the regulation is justified because conservation of salmon is a valid legislative objective.",
+    "call_of_question": "Under the Sparrow justification framework, which of the following MOST accurately states the Crown's burden once an infringement of a s. 35 right has been established?",
+    "options": {
+      "A": "Once an infringement is established, the Crown must prove the regulation promotes conservation; no additional priority requirement applies, and commercial fishing interests may be prioritized over Aboriginal food fishing.",
+      "B": "Under R v Sparrow, [1990] 1 SCR 1075, once infringement of a s. 35 right is established, the Crown bears the burden of justifying the infringement by showing: (1) the infringement is in furtherance of a valid legislative objective (e.g., conservation, resource management, protection of public safety — though objectives must be compelling and substantial); and (2) the infringement upholds the honour of the Crown, which includes the requirement that Aboriginal rights be given priority over other user groups. Prioritizing commercial fishing licences over Aboriginal food fishing rights would undermine the priority requirement and would not justify the infringement under Sparrow.",
+      "C": "Under Sparrow, the Crown is not required to demonstrate any priority for Aboriginal rights; it need only show the regulation serves a valid public interest, and courts will defer to the Crown's resource management choices.",
+      "D": "The Sparrow justification test mirrors the s. 1 Oakes test; the Crown must show the regulation is prescribed by law and proportional to the government's objective. Conservation is always a proportionate objective for fisheries regulations."
+    },
+    "correct_answer": "B",
+    "explanation": "R v Sparrow, [1990] 1 SCR 1075, established a two-stage justification test for Crown infringement of s. 35 rights. Stage 1 asks whether the Crown has a valid legislative objective — the Court was clear that not all objectives will qualify; the objective must be compelling and substantial (conservation is a recognized valid objective, but mere economic convenience is not). Stage 2 requires the Crown to satisfy the honour of the Crown, which includes the critical requirement that Aboriginal rights be given priority over other user groups in resource allocation. This is the exam trap: many candidates know 'conservation' is a valid objective and assume it automatically justifies the infringement. But Sparrow's priority requirement means that even where conservation is the objective, Aboriginal food fishing must be given priority in the allocation of the conservation-limited resource over commercial fishing interests. A regulation that gives priority to commercial licences over Aboriginal food fishing fails at Stage 2 of Sparrow, regardless of the validity of the conservation objective.",
+    "why_A_wrong": "Incorrect. Conservation alone does not justify the infringement. Sparrow's Stage 2 (honour of the Crown) requires that Aboriginal rights be given priority over other user groups in the allocation of the resource. Prioritizing commercial licences over Aboriginal food fishing rights fails this requirement.",
+    "why_B_wrong": "This IS the correct answer. Under R v Sparrow, [1990] 1 SCR 1075, once infringement of a s. 35 right is established, the Crown bears the burden of justifying the infringement by showing: (1) the infringement is in furtherance of a valid legislative objective (e.g., conservation, resource management, protection of public safety — though objectives must be compelling and substantial); and (2) the infringement upholds the honour of the Crown, which includes the requirement that Aboriginal rights be given priority over other user groups. Prioritizing commercial fishing licences over Aboriginal food fishing rights would undermine the priority requirement and would not justify the infringement under Sparrow.",
+    "why_C_wrong": "Incorrect. Sparrow rejects blanket deference to Crown resource management choices. The justification test imposes real substantive requirements, including the priority requirement at Stage 2. Courts do not simply defer to the Crown's allocation decisions.",
+    "why_D_wrong": "Incorrect. The Sparrow justification test is not identical to the Oakes s. 1 test. While both require valid objectives, Sparrow has its own tailored elements — including the priority requirement — that are distinct from Oakes. Conservation is a recognized valid objective under Sparrow but it does not automatically satisfy the full justification analysis.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 9 — Indigenous Law and Crown Obligations",
+      "heading": "Sparrow Justification — Crown Burden and Priority",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1982, s. 35; R v Sparrow, [1990] 1 SCR 1075"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Sparrow",
+      "s. 35 justification",
+      "conservation",
+      "priority",
+      "honour of the Crown"
+    ],
+    "tested_concepts": [
+      "Sparrow two-stage justification test",
+      "priority requirement — Aboriginal rights over other user groups",
+      "conservation as valid objective but not sufficient alone"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-09-title-001",
+    "subject": "public_law",
+    "chapter_number": 9,
+    "chapter_title": "Indigenous Law and Crown Obligations",
+    "topic_id": "aboriginal_title",
+    "topic_heading": "Aboriginal Title — Tsilhqot'in Nation",
+    "subtopic_id": "tsilhqotin_title",
+    "subtopic_heading": "Aboriginal Title — Tsilhqot'in Nation Test and Consequences",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The Tsilhqot'in Nation seeks a declaration of Aboriginal title over a large area of British Columbia land that was used by their ancestors in a semi-nomadic pattern — traversing the territory for hunting, fishing, and seasonal settlement. The Crown argues Aboriginal title can only be established over specific sites of intensive, regular, and exclusive use; vast tracts of land used in a mobile pattern cannot be the subject of Aboriginal title.",
+    "call_of_question": "Under Tsilhqot'in Nation v British Columbia, 2014 SCC 44, what is the test for establishing Aboriginal title over territory, and was the Crown's narrow interpretation of the test correct?",
+    "options": {
+      "A": "Aboriginal title can only be established over specific sites of intensive regular use; the Crown's narrow site-specific approach is correct and semi-nomadic use of vast tracts cannot ground Aboriginal title.",
+      "B": "Under Tsilhqot'in Nation v British Columbia, 2014 SCC 44, Aboriginal title is established over territory (not merely specific sites) where the claimant can demonstrate: (1) sufficient occupation — whether intensive or through semi-nomadic patterns of use — prior to Crown sovereignty; (2) continuity of occupation between pre-sovereignty use and present-day rights; and (3) exclusive occupation, meaning the group treated the land as its own and excluded others. The Court rejected the Crown's site-specific approach: semi-nomadic, territorial use of vast tracts of land can establish title over the entire territory, not just the specific sites of intensive use. Once title is established, the Crown must justify any infringement under the Sparrow framework.",
+      "C": "Aboriginal title in Canada is limited to lands specifically identified in treaties; lands not covered by treaties cannot be the subject of an Aboriginal title claim in court.",
+      "D": "Tsilhqot'in Nation established that Aboriginal title gives First Nations absolute ownership of land that cannot be infringed by the Crown under any circumstances; the Sparrow justification test does not apply to Aboriginal title lands."
+    },
+    "correct_answer": "B",
+    "explanation": "Tsilhqot'in Nation v British Columbia, 2014 SCC 44, was a landmark decision granting the first judicial declaration of Aboriginal title over a vast territory in Canadian history. The Court held that the test for Aboriginal title requires: (1) Sufficient occupation — the land must have been used, controlled, or occupied by the claimant's ancestors prior to Crown sovereignty; this does not require intensive, permanent settlement at specific sites; semi-nomadic patterns of territorial use (hunting, fishing, traveling through) are sufficient if the group exercised regular and exclusive control over the land; (2) Continuity — a connection between historic occupation and present-day rights must be shown; and (3) Exclusivity — the group must have treated the land as its own and had the intention and capacity to exclude others. Once Aboriginal title is established, the Crown must justify any infringement under a modified Sparrow framework: the objective must be compelling and substantial, the infringement must be consistent with the Crown's fiduciary duty to the First Nation, and the First Nation must be compensated for interference with its title land.",
+    "why_A_wrong": "Incorrect. The Tsilhqot'in Nation Court explicitly and emphatically rejected the Crown's site-specific approach, which would have limited Aboriginal title to specific sites of intensive use. The Court held that territorial, semi-nomadic use can establish title over entire territories.",
+    "why_B_wrong": "This IS the correct answer. Under Tsilhqot'in Nation v British Columbia, 2014 SCC 44, Aboriginal title is established over territory (not merely specific sites) where the claimant can demonstrate: (1) sufficient occupation — whether intensive or through semi-nomadic patterns of use — prior to Crown sovereignty; (2) continuity of occupation between pre-sovereignty use and present-day rights; and (3) exclusive occupation, meaning the group treated the land as its own and excluded others. The Court rejected the Crown's site-specific approach: semi-nomadic, territorial use of vast tracts of land can establish title over the entire territory, not just the specific sites of intensive use. Once title is established, the Crown must justify any infringement under the Sparrow framework.",
+    "why_C_wrong": "Incorrect. Aboriginal title is not limited to lands covered by treaties. Where no treaties were made, Aboriginal peoples may establish title over their traditional territories through litigation, as the Tsilhqot'in Nation did. Large portions of British Columbia and other provinces were never covered by treaties.",
+    "why_D_wrong": "Incorrect. Aboriginal title does not give First Nations absolute immunity from Crown infringement. Tsilhqot'in Nation confirmed that while the Crown must obtain consent or justify infringement, justification is possible where the Crown can demonstrate a compelling and substantial objective that is consistent with the Crown's fiduciary duty. The Sparrow framework — modified for title — applies to infringement of Aboriginal title lands.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 9 — Indigenous Law and Crown Obligations",
+      "heading": "Aboriginal Title — Tsilhqot'in Nation Test and Consequences",
+      "page": "N/A",
+      "rule_or_statute_reference": "Constitution Act, 1982, s. 35; Tsilhqot'in Nation v British Columbia, 2014 SCC 44; R v Sparrow, [1990] 1 SCR 1075"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Aboriginal title",
+      "Tsilhqot'in",
+      "sufficient occupation",
+      "semi-nomadic",
+      "exclusive occupation"
+    ],
+    "tested_concepts": [
+      "Tsilhqot'in three-part Aboriginal title test",
+      "territorial use sufficient — site-specific approach rejected",
+      "Sparrow framework applies to Aboriginal title infringement"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
   }
 ]

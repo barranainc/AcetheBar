@@ -173,5 +173,179 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-12-misc-004",
+    "subject": "criminal_law",
+    "chapter_number": 12,
+    "chapter_title": "Miscarriage of Justice and Extraordinary Remedies",
+    "topic_id": "miscarriage_of_justice",
+    "topic_heading": "Miscarriage of Justice and Extraordinary Remedies",
+    "subtopic_id": "entrapment",
+    "subtopic_heading": "Entrapment — R v Mack — Stay as Exclusive Remedy",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Police suspected Marcus of drug dealing but had no evidence. An undercover officer persistently contacted Marcus for several weeks, each time requesting that Marcus obtain cocaine for the officer. Marcus initially refused repeatedly but eventually agreed and provided cocaine to the undercover officer. Marcus is charged with trafficking. He raises the defence of entrapment.",
+    "call_of_question": "Under the entrapment doctrine established in R v Mack, [1988] 2 SCR 903, which of the following correctly describes the legal framework and the available remedy if entrapment is established?",
+    "options": {
+      "A": "Entrapment is a complete defence that, if proven, results in an acquittal because it negates the accused's criminal intent.",
+      "B": "Entrapment constitutes an abuse of process; if established, the court must enter a stay of proceedings — this is the only available remedy.",
+      "C": "Entrapment is available only where police had absolutely no reasonable suspicion of the accused before initiating contact.",
+      "D": "Entrapment negates the actus reus of the offence because the illegal act was induced by state agents, resulting in an acquittal."
+    },
+    "correct_answer": "B",
+    "explanation": "In R v Mack, [1988] 2 SCR 903, the Supreme Court held that entrapment in Canada is not a substantive defence that negates mens rea or actus reus, but is instead an abuse of process doctrine. If entrapment is established, the court must enter a stay of proceedings — not an acquittal. Two forms of entrapment were recognized: (1) opportunity-based entrapment, where the state provides an opportunity to commit a crime without reasonable suspicion or bona fide inquiry that the person is involved in criminal activity; and (2) inducement-based entrapment (conduct-based), where the state goes beyond providing an opportunity and actually induces or persuades a person who would not otherwise have committed the offence. On these facts, Marcus's repeated refusals followed by the officer's persistent approach suggests conduct-based entrapment. The remedy for entrapment, if established, is exclusively a stay of proceedings — not an acquittal — because the abuse of process analysis is directed at the conduct of the state, not the guilt of the accused.",
+    "why_A_wrong": "Entrapment in Canada does not result in an acquittal. It is an abuse of process doctrine, not a substantive defence negating mens rea or actus reus. An acquittal is not the appropriate remedy — a stay of proceedings is the exclusive remedy for entrapment.",
+    "why_B_wrong": "This IS the correct answer. Under Mack, entrapment is an abuse of process doctrine. If established, the exclusive remedy is a stay of proceedings — not an acquittal. The stay is entered because state conduct, not the accused's guilt, is the focus.",
+    "why_C_wrong": "The requirement is not that police had 'absolutely no reasonable suspicion.' The Mack test asks whether police were acting on reasonable suspicion or as part of a bona fide inquiry, or whether they went beyond providing an opportunity to actively inducing the offence. Entrapment can be found even where police had some prior suspicion if their conduct crossed the line into impermissible inducement.",
+    "why_D_wrong": "Entrapment does not negate the actus reus. The accused committed the physical act — providing cocaine is trafficking regardless of police inducement. Entrapment focuses on the propriety of the state's conduct, not on whether the elements of the offence were met. The remedy is a stay, not an acquittal.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 12: Miscarriage of Justice and Extraordinary Remedies",
+      "heading": "Entrapment — Abuse of Process — Stay of Proceedings",
+      "page": "N/A",
+      "rule_or_statute_reference": "R v Mack, [1988] 2 SCR 903; Criminal Code, R.S.C. 1985, c. C-46"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "entrapment",
+      "R v Mack",
+      "abuse of process",
+      "stay of proceedings",
+      "opportunity-based entrapment",
+      "inducement",
+      "undercover officer"
+    ],
+    "tested_concepts": [
+      "entrapment as abuse of process in Canada",
+      "stay of proceedings as exclusive remedy for entrapment",
+      "opportunity-based vs conduct-based entrapment (Mack)",
+      "entrapment does not result in acquittal"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-12-misc-005",
+    "subject": "criminal_law",
+    "chapter_number": 12,
+    "chapter_title": "Miscarriage of Justice and Extraordinary Remedies",
+    "topic_id": "miscarriage_of_justice",
+    "topic_heading": "Miscarriage of Justice and Extraordinary Remedies",
+    "subtopic_id": "lost_disclosure",
+    "subtopic_heading": "Lost or Destroyed Evidence — Miscarriage of Justice and Appropriate Remedy",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "During a murder investigation, police collected biological samples from a crime scene and had them analyzed. After the analysis, the samples were lost before trial, making retesting impossible. The accused is convicted at trial. On appeal, the accused argues the lost evidence resulted in a miscarriage of justice because defence experts could not independently test the samples.",
+    "call_of_question": "Where evidence is lost or destroyed by the Crown, which of the following best describes the framework courts apply to determine whether a miscarriage of justice occurred and what remedy, if any, is appropriate?",
+    "options": {
+      "A": "Lost evidence automatically entitles the accused to a stay of proceedings because any Crown destruction of evidence is a per se Charter breach under s. 7.",
+      "B": "The court assesses whether the loss of evidence was the result of bad faith or negligence, whether the evidence was material to the accused's ability to make full answer and defence, and whether prejudice to the accused can be remedied — with a stay available in only the clearest of cases.",
+      "C": "Lost evidence creates a presumption of innocence in the accused's favour that the Crown must rebut, and the trial is automatically invalidated.",
+      "D": "The loss of physical evidence is irrelevant if the Crown still has expert reports summarizing the analysis — the right to full answer and defence is satisfied by disclosure of the reports."
+    },
+    "correct_answer": "B",
+    "explanation": "Where the Crown loses or destroys evidence, the court applies a contextual framework: (1) Was the loss the result of bad faith, unacceptable negligence, or something less? (2) Was the evidence material — would it have been useful to the defence? (3) Can the resulting prejudice be remedied by a lesser measure? The Supreme Court in R v La, [1997] 2 SCR 680, and R v Bero (2000) ONCA confirmed that the loss of evidence can constitute a breach of s. 7 (right to make full answer and defence), but the appropriate remedy depends on the circumstances. Automatic stays are not granted — a stay is reserved for the clearest of cases where the prejudice cannot otherwise be remedied and a fair trial is impossible. Bad faith in destruction of evidence is more likely to warrant a stay than inadvertent loss. Mere negligence resulting in lost evidence typically warrants a remedy short of a stay.",
+    "why_A_wrong": "Lost evidence does not automatically warrant a stay of proceedings. The court must examine the circumstances of the loss, whether it was bad faith or negligence, and whether lesser remedies can address the prejudice. A stay is an exceptional remedy of last resort, not an automatic consequence of lost evidence.",
+    "why_B_wrong": "This IS the correct answer. Courts assess the circumstances of the loss (bad faith vs. negligence), the materiality of the evidence, and whether the prejudice can be remedied. A stay is available in only the clearest of cases where no lesser remedy suffices.",
+    "why_C_wrong": "Loss of evidence does not create a presumption of innocence or automatically invalidate the trial. The accused bears the burden of showing that the loss constituted a breach of s. 7 and caused prejudice to the right to make full answer and defence. There is no 'automatic invalidation' of a trial based on lost evidence.",
+    "why_D_wrong": "While disclosure of expert reports mitigates some prejudice, it may not fully address the loss of the right to independent testing. Where biological samples are lost and independent retesting would have been material to the defence, the right to full answer and defence may still be compromised even if written reports were disclosed. The court must assess actual prejudice to the defence.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 12: Miscarriage of Justice and Extraordinary Remedies",
+      "heading": "Lost or Destroyed Evidence — s. 7 Charter and Remedies",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 7; R v La, [1997] 2 SCR 680"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "lost evidence",
+      "destroyed evidence",
+      "full answer and defence",
+      "s. 7 Charter",
+      "bad faith",
+      "stay of proceedings",
+      "R v La"
+    ],
+    "tested_concepts": [
+      "framework for lost/destroyed evidence: bad faith, materiality, remedy",
+      "stay not automatic for lost evidence",
+      "bad faith destruction vs. negligent loss",
+      "full answer and defence under s. 7 Charter"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-12-misc-006",
+    "subject": "criminal_law",
+    "chapter_number": 12,
+    "chapter_title": "Miscarriage of Justice and Extraordinary Remedies",
+    "topic_id": "miscarriage_of_justice",
+    "topic_heading": "Miscarriage of Justice and Extraordinary Remedies",
+    "subtopic_id": "abuse_of_process_common_law",
+    "subtopic_heading": "Abuse of Process — Common Law Doctrine vs. Charter s. 7",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is charged with assault. Before the preliminary inquiry, the Crown attorney made a public statement to the media suggesting that the accused is guilty and describing in detail evidence not yet disclosed. Defence counsel brings a motion to stay the proceedings, arguing that the Crown's media statement constitutes an abuse of process that has irreparably tainted the jury pool and undermined the fairness of the proceeding.",
+    "call_of_question": "Where the abuse of process alleged does not involve a specific Charter violation but rather prosecutorial conduct that undermines the integrity of the process, which of the following correctly describes the available framework?",
+    "options": {
+      "A": "The court has no power to grant a stay unless the accused identifies a specific Charter right that was violated — common law abuse of process was subsumed into the Charter after 1982.",
+      "B": "The abuse of process doctrine exists independently at common law and under s. 7 of the Charter; a stay may be granted for conduct that undermines the integrity of the justice system even if no specific enumerated Charter right was breached.",
+      "C": "Abuse of process is an exclusively pre-Charter doctrine and cannot be applied in a modern proceeding governed by the Charter.",
+      "D": "The remedy for abuse of process based on prosecutorial conduct is always a permanent stay — courts have no discretion to impose lesser remedies."
+    },
+    "correct_answer": "B",
+    "explanation": "The abuse of process doctrine has both a common law foundation and a Charter s. 7 dimension. Prior to the Charter, courts recognized that proceedings could be stayed where the Crown's conduct was so unfair or oppressive as to amount to an abuse of process — even without a specific constitutional violation. The Charter did not replace this doctrine; rather, s. 7 of the Charter (the right to life, liberty, and security of the person, including the right to a fair trial) provides an additional constitutional basis for challenging prosecutorial misconduct. In R v O'Connor, [1995] 4 SCR 411 and subsequent cases, the Supreme Court confirmed that a stay remains an exceptional remedy available in the 'clearest of cases' where: (1) the prejudice to the accused's right to a fair trial or to the integrity of the justice system will be manifested, perpetuated, or aggravated through the conduct of the trial or its outcome; and (2) no other remedy is reasonably capable of removing that prejudice. Courts retain discretion to grant lesser remedies (e.g., a jury instruction, exclusion of evidence) before resorting to a stay.",
+    "why_A_wrong": "The common law abuse of process doctrine was not subsumed into or replaced by the Charter. It continues to operate independently. Courts can grant stays under the common law doctrine without requiring the accused to establish a specific enumerated Charter breach. Both streams coexist.",
+    "why_B_wrong": "This IS the correct answer. Abuse of process operates at common law and under Charter s. 7. A stay may be granted for conduct that undermines the integrity of the justice system without requiring a violation of a specific enumerated Charter right, provided the O'Connor test is satisfied.",
+    "why_C_wrong": "Abuse of process is not an exclusively pre-Charter doctrine. The Supreme Court has consistently applied and developed it post-Charter, expressly holding that the doctrine continues to operate both under the common law and as part of Charter s. 7 jurisprudence.",
+    "why_D_wrong": "The remedy for abuse of process is not automatically a permanent stay. Courts have a range of remedies available and choose the one appropriate to the circumstances. A stay is reserved for the clearest of cases — courts may instead give directions to the jury, order production of materials, or provide other remedies short of a stay. The O'Connor test contemplates that a stay is appropriate only where no lesser remedy can remove the prejudice.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 12: Miscarriage of Justice and Extraordinary Remedies",
+      "heading": "Abuse of Process — Common Law and Charter s. 7",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 7; R v O'Connor, [1995] 4 SCR 411"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "abuse of process",
+      "common law",
+      "Charter s. 7",
+      "stay of proceedings",
+      "prosecutorial misconduct",
+      "integrity of justice system",
+      "O'Connor"
+    ],
+    "tested_concepts": [
+      "abuse of process doctrine — common law and Charter s. 7",
+      "stay available without specific Charter violation",
+      "O'Connor test applies to common law abuse of process",
+      "discretion to grant lesser remedies — stay not automatic"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
   }
 ]

@@ -601,5 +601,578 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-09-ag-mit-001",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "aggravating_mitigating",
+    "subtopic_heading": "Aggravating and Mitigating Factors — s. 718.2",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Joseph is convicted of assault. Evidence at trial established that he targeted the victim because of the victim's sexual orientation. The sentencing judge must determine the appropriate sentence.",
+    "call_of_question": "Under s. 718.2(a)(i) of the Criminal Code, how does the victim's sexual orientation affect the sentencing analysis?",
+    "options": {
+      "A": "The victim's sexual orientation is irrelevant to sentencing because it is a personal characteristic of the victim, not the offender.",
+      "B": "Evidence that the offence was motivated by bias, prejudice, or hate based on sexual orientation is a statutory aggravating factor that must increase the sentence.",
+      "C": "The victim's sexual orientation is a mitigating factor because it suggests the offence was motivated by personal animus rather than general criminal propensity.",
+      "D": "Section 718.2 requires the judge to apply the same sentence as a comparable offence not motivated by hate; the victim's characteristics are irrelevant."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 718.2(a)(i) of the Criminal Code provides that evidence that the offence was motivated by bias, prejudice, or hate based on, among other grounds, sexual orientation, is a statutory aggravating factor that the sentencing court must consider and that shall be treated as an aggravating circumstance. The enumerated grounds in s. 718.2(a)(i) include race, national or ethnic origin, language, colour, religion, sex, age, mental or physical disability, sexual orientation, gender identity and expression. The presence of a hate motivation does not merely permit an increase — the court is required to treat it as an aggravating factor. Failure to consider a statutory aggravating factor is an error in principle.",
+    "why_A_wrong": "The victim's characteristics are highly relevant to sentencing under s. 718.2(a)(i) when the offender targeted the victim because of those characteristics. A hate motivation based on the victim's sexual orientation is expressly listed as a statutory aggravating factor.",
+    "why_B_wrong": "This IS the correct answer. Section 718.2(a)(i) designates hate-motivated offences based on sexual orientation as a statutory aggravating factor requiring enhanced sentence.",
+    "why_C_wrong": "A hate motivation is an aggravating factor, not a mitigating one. The fact that the offender targeted a victim due to sexual orientation is treated as more serious than an equivalent offence not motivated by bias, because it reflects greater moral blameworthiness and causes broader harm to the targeted community.",
+    "why_D_wrong": "Section 718.2 does not require equivalent sentences for hate-motivated and non-hate-motivated offences. The purpose of s. 718.2(a)(i) is precisely to increase sentences where hate motivation is proven — it is an aggravating factor, not a neutralizer.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Aggravating Factors — s. 718.2(a)(i) Hate Motivation",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 718.2(a)(i)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "aggravating factor",
+      "s. 718.2(a)(i)",
+      "sexual orientation",
+      "hate motivation",
+      "bias prejudice hate",
+      "statutory aggravating"
+    ],
+    "tested_concepts": [
+      "s. 718.2(a)(i) hate motivation as aggravating factor",
+      "sexual orientation listed ground",
+      "mandatory consideration of statutory aggravating factors",
+      "hate motivation increases sentence"
+    ],
+    "estimated_time_seconds": 60,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-09-ag-mit-002",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "aggravating_mitigating",
+    "subtopic_heading": "Mitigating Factors — Guilty Plea and Remorse",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "At a sentencing hearing for fraud, defence counsel submits that the accused entered an early guilty plea, saving court resources and the victims from testifying. Counsel argues this should be treated as a significant mitigating factor.",
+    "call_of_question": "Under s. 718.2(e) of the Criminal Code and established sentencing principles, is an early guilty plea a recognized mitigating factor?",
+    "options": {
+      "A": "No — a guilty plea merely relieves the Crown from proving its case; it carries no mitigating weight at sentencing.",
+      "B": "Yes — an early guilty plea is a recognized mitigating factor that may significantly reduce sentence, reflecting remorse, saving court resources, and sparing victims from testifying.",
+      "C": "A guilty plea is relevant only if the accused has no prior criminal record.",
+      "D": "A guilty plea can reduce the sentence by a fixed one-third deduction as required by the Criminal Code."
+    },
+    "correct_answer": "B",
+    "explanation": "An early guilty plea is a well-established mitigating factor in Canadian sentencing law. Courts recognize the plea as indicating: (a) remorse on the part of the accused; (b) a willingness to take responsibility; (c) saving judicial resources (court time, prosecution costs); and (d) sparing victims the trauma of testifying. While no fixed discount applies in Canada (unlike some jurisdictions), the timing and circumstances of the plea are significant — an early guilty plea, before the case has incurred significant trial preparation costs, carries greater weight than a last-minute plea. Guilty pleas are also relevant to rehabilitation prospects. The Criminal Code does not mandate a specific percentage discount, but appellate courts have recognized that significant mitigating weight should be given to genuine early guilty pleas.",
+    "why_A_wrong": "A guilty plea is a recognized mitigating factor in Canadian sentencing. While it is true that a plea relieves the Crown of its burden of proof, the courts also credit the accused for the practical and symbolic value of the plea — remorse, resource savings, and sparing witnesses.",
+    "why_B_wrong": "This IS the correct answer. An early guilty plea is a recognized and significant mitigating factor, reflecting remorse, saving resources, and sparing victims, and typically results in a reduction of the sentence that would otherwise be appropriate.",
+    "why_C_wrong": "A guilty plea is a mitigating factor regardless of the accused's prior record. While a prior record affects the overall sentencing analysis, the absence of a prior record is not a precondition to receiving mitigating credit for a guilty plea.",
+    "why_D_wrong": "Canadian law does not prescribe a fixed one-third deduction for a guilty plea. This concept exists in some other jurisdictions but has not been adopted in Canada. The weight given to a guilty plea is discretionary, based on the circumstances of the case — including the stage at which the plea was entered.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Mitigating Factors — Guilty Plea",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 718.2; R. v. Wong, 2018 SCC 25"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "guilty plea",
+      "mitigating factor",
+      "early plea",
+      "remorse",
+      "saving court resources",
+      "sparing victims"
+    ],
+    "tested_concepts": [
+      "guilty plea as mitigating factor",
+      "no fixed percentage discount in Canada",
+      "early plea carries more weight than late plea",
+      "remorse and responsibility as mitigating"
+    ],
+    "estimated_time_seconds": 60,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-09-ag-mit-003",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "aggravating_mitigating",
+    "subtopic_heading": "Aggravating Factor — Abuse of Position of Trust",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Margaret, an accountant, is convicted of fraud over $5,000 after misappropriating client funds over a three-year period. The sentencing judge is considering aggravating factors.",
+    "call_of_question": "Under s. 718.2(a)(iii) of the Criminal Code, does Margaret's position as an accountant with access to client funds constitute a statutory aggravating factor?",
+    "options": {
+      "A": "No — being an accountant is not a listed aggravating factor under s. 718.2; only certain specific professions are enumerated.",
+      "B": "Yes — s. 718.2(a)(iii) provides that evidence that the offender abused a position of trust or authority in relation to the victim is a statutory aggravating factor.",
+      "C": "No — breach of trust is only an aggravating factor in sexual offences; for fraud it is merely a circumstance of the offence itself.",
+      "D": "Yes — but only if the client specifically authorized the accountant to invest the funds."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 718.2(a)(iii) of the Criminal Code provides that evidence that the offender abused a position of trust or authority in relation to the victim is a statutory aggravating circumstance that the court must take into account. An accountant handling client funds occupies a position of trust — clients entrust their financial affairs to accountants, who owe fiduciary and professional duties. Misappropriating those funds is a clear abuse of the position of trust, which attracts enhanced punishment. The provision is not limited to sexual offences or any particular offence type; it applies broadly to any offence where the offender was in a position of trust relative to the victim.",
+    "why_A_wrong": "Section 718.2(a)(iii) does not list specific professions — it refers broadly to 'a position of trust or authority.' The accountant-client relationship is a recognized position of trust, and the provision applies to any position of trust, not just enumerated professions.",
+    "why_B_wrong": "This IS the correct answer. Section 718.2(a)(iii) makes abuse of a position of trust a statutory aggravating factor. An accountant misappropriating client funds is a clear example of abusing a position of trust.",
+    "why_C_wrong": "Section 718.2(a)(iii) applies to all criminal offences where a position of trust is abused — not only sexual offences. Fraud by an accountant is a paradigm case for this aggravating factor. The fact that the offence is fraud does not limit the application of the aggravating factor.",
+    "why_D_wrong": "The aggravating factor is not conditioned on any specific form of authorization. The position of trust arises from the accountant-client relationship itself, not from specific investment authority. Any abuse of that professional trust relationship triggers the aggravating factor.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Aggravating Factors — s. 718.2(a)(iii) Abuse of Trust",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 718.2(a)(iii)"
+    },
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "lawyer/accountant in position of trust misappropriating client funds — parallel professional responsibility issue"
+    },
+    "exam_trigger_words": [
+      "abuse of trust",
+      "s. 718.2(a)(iii)",
+      "position of trust",
+      "fiduciary",
+      "accountant",
+      "aggravating factor"
+    ],
+    "tested_concepts": [
+      "s. 718.2(a)(iii) abuse of position of trust",
+      "broad application across offence types",
+      "accountant-client = position of trust",
+      "statutory aggravating — must be considered"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-09-vic-001",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "victim_impact",
+    "subtopic_heading": "Victim Impact Statements — s. 722",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The victim of a serious assault has prepared a victim impact statement for the sentencing hearing. The statement describes the physical and emotional harm she suffered. Crown counsel wants the victim to read the statement in open court and requests that the victim be allowed to include her opinion on the appropriate sentence.",
+    "call_of_question": "Under s. 722 of the Criminal Code, what is the proper scope of a victim impact statement?",
+    "options": {
+      "A": "A victim impact statement may include any information the victim wishes to share, including their view on the appropriate sentence for the offender.",
+      "B": "A victim impact statement is limited to a description of the harm done to the victim — physical or emotional harm, and loss of or damage to property — and must not include the victim's opinion about the appropriate sentence.",
+      "C": "A victim impact statement is not admissible at sentencing because it is hearsay; the victim must testify in person and be subject to cross-examination.",
+      "D": "Victim impact statements are limited to homicide cases; in assault cases only the Crown's submissions address the impact on the victim."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 722(1) of the Criminal Code provides that a victim may prepare and file a statement describing the harm done to them as a result of the commission of the offence and any loss of or damage to property, for the court's consideration at sentencing. Section 722(8) expressly provides that in considering a victim impact statement, the court shall not take into account any portions that express opinions on the appropriate sentence. The victim's view of what sentence the offender should receive is excluded as it is not relevant evidence for sentencing purposes — the sentencing judge exercises independent discretion. The statement is about impact on the victim, not advice on the sentence.",
+    "why_A_wrong": "Section 722(8) expressly bars the court from considering portions of a victim impact statement that contain the victim's opinion about the appropriate sentence. Victim impact statements are limited to describing harm and loss; they may not include sentencing recommendations.",
+    "why_B_wrong": "This IS the correct answer. Under s. 722(1) and (8), victim impact statements are limited to describing harm and property loss; the court must not consider any portion expressing the victim's opinion about the appropriate sentence.",
+    "why_C_wrong": "Victim impact statements are expressly authorized by statute (s. 722) and are admissible at sentencing without cross-examination. The relaxed evidentiary rules at sentencing include admission of victim impact statements. The victim does not need to testify; the statement is read or presented as provided by the Code.",
+    "why_D_wrong": "Victim impact statements are available in all criminal proceedings, not just homicide cases. Section 722 applies broadly to any offence for which the accused is being sentenced. Any victim of any criminal offence may provide a statement.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Victim Impact Statements — s. 722",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 722(1), s. 722(8)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "victim impact statement",
+      "s. 722",
+      "appropriate sentence excluded",
+      "harm and loss only",
+      "s. 722(8)"
+    ],
+    "tested_concepts": [
+      "s. 722(1) scope of victim impact statement",
+      "s. 722(8) court must not consider sentencing opinions",
+      "victim's sentence views excluded",
+      "physical/emotional harm and property loss allowed"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-09-vic-002",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "victim_impact",
+    "subtopic_heading": "Restitution Orders — s. 738",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Boris is convicted of fraud. His victim, a small business owner, suffered a financial loss of $85,000 as a result of the fraud. The Crown seeks a restitution order under s. 738 of the Criminal Code requiring Boris to repay the victim $85,000.",
+    "call_of_question": "Under s. 738 of the Criminal Code, which of the following correctly describes the court's power to order restitution?",
+    "options": {
+      "A": "The court may order restitution only if the victim has already commenced a civil lawsuit and the court is satisfied there will be no double recovery.",
+      "B": "The court may order restitution, but only up to $25,000 — amounts above that threshold require a civil proceeding.",
+      "C": "The court may order the offender to make restitution to the victim for readily ascertainable pecuniary loss resulting from the offence; a restitution order does not prevent the victim from pursuing civil remedies but credit must be given for amounts paid under the restitution order.",
+      "D": "A restitution order can only be made as a condition of a conditional sentence and not as a freestanding order."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 738(1) of the Criminal Code authorizes the court to order the offender to make restitution to a person for readily ascertainable pecuniary loss suffered as a result of the commission of the offence or the offender's failure to comply with a condition of a conditional sentence. Section 741.2 provides that a restitution order does not affect the victim's civil remedies — the victim may still bring a civil action for the loss. If the offender pays under the restitution order, credit is given against any civil judgment to prevent double recovery. There is no dollar cap on restitution orders; courts may order any readily ascertainable amount. Restitution orders may be made as part of any sentence, not just as a condition of a conditional sentence.",
+    "why_A_wrong": "The victim need not have commenced civil proceedings before a restitution order can be made. Restitution under s. 738 is independent of civil litigation. The court does not need to consider pending civil proceedings as a precondition.",
+    "why_B_wrong": "There is no $25,000 cap on restitution orders under the Criminal Code. The court may order restitution for the full amount of readily ascertainable pecuniary loss, which in this case is $85,000.",
+    "why_C_wrong": "This IS the correct answer. Section 738(1) allows restitution for readily ascertainable pecuniary loss; s. 741.2 preserves civil remedies with credit against restitution paid.",
+    "why_D_wrong": "Restitution orders under s. 738 may be made as part of any sentence — they are not limited to conditional sentences. The court may include a restitution order as part of a sentence involving imprisonment, a fine, probation, or any other disposition.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Restitution Orders — s. 738",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 738(1), s. 741.2"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "restitution",
+      "s. 738",
+      "pecuniary loss",
+      "readily ascertainable",
+      "civil remedies preserved",
+      "s. 741.2"
+    ],
+    "tested_concepts": [
+      "s. 738(1) restitution for pecuniary loss",
+      "no dollar cap on restitution orders",
+      "s. 741.2 civil remedies not barred",
+      "credit against civil judgment for amounts paid",
+      "restitution not limited to conditional sentences"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-09-rest-001",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "restorative_justice",
+    "subtopic_heading": "Restorative Justice — s. 718(e) and (f)",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A first-time offender pleads guilty to mischief. The Crown and defence agree that a restorative justice approach, including participation in a community conference where the offender faces the victim and community members, would be beneficial. The sentencing judge must consider whether restorative justice principles are relevant.",
+    "call_of_question": "Under s. 718(e) and (f) of the Criminal Code, which sentencing objectives are consistent with restorative justice principles?",
+    "options": {
+      "A": "Denunciation and deterrence — restorative justice is not a recognized sentencing objective in the Criminal Code.",
+      "B": "Providing reparations for harm done to victims or the community, and promoting a sense of responsibility in offenders and acknowledgment of the harm done to victims and the community.",
+      "C": "Separation from society and rehabilitation — restorative justice is a form of community-based incapacitation.",
+      "D": "Incapacitation — restorative justice programs are only appropriate where the offender is separated from the community."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 718(e) and (f) of the Criminal Code include restorative justice-oriented objectives: (e) to provide reparations for harm done to victims or to the community; and (f) to promote a sense of responsibility in offenders, and acknowledgment of the harm done to victims and to the community. These two objectives directly reflect restorative justice principles — repairing relationships, making the offender face the consequences of their actions, and providing the victim and community with recognition of the harm done. Community conferences and circle sentencing are examples of restorative justice processes that advance these objectives.",
+    "why_A_wrong": "Restorative justice IS recognized in the Criminal Code through s. 718(e) and (f). Denunciation (s. 718(a)) and deterrence (s. 718(b)) are also sentencing objectives, but they are not specifically associated with restorative justice principles.",
+    "why_B_wrong": "This IS the correct answer. Sections 718(e) and (f) — reparations for harm and promoting responsibility and acknowledgment — are the sentencing objectives most directly aligned with restorative justice principles.",
+    "why_C_wrong": "Separation from society (s. 718(c)) and rehabilitation (s. 718(d)) are distinct sentencing objectives. Restorative justice is not a form of incapacitation — it is community-based and involves accountability without necessarily restricting liberty.",
+    "why_D_wrong": "Restorative justice is the opposite of incapacitation — it keeps the offender in the community and facilitates direct engagement with the victim and community. Incapacitation (separation) is a distinct sentencing objective under s. 718(c).",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Restorative Justice — s. 718(e) and (f)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 718(e), s. 718(f)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "restorative justice",
+      "s. 718(e)",
+      "s. 718(f)",
+      "reparations",
+      "sense of responsibility",
+      "community conference"
+    ],
+    "tested_concepts": [
+      "s. 718(e) reparations for harm",
+      "s. 718(f) sense of responsibility and acknowledgment",
+      "restorative justice objectives in Criminal Code",
+      "community-based accountability"
+    ],
+    "estimated_time_seconds": 60,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-09-rest-002",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "restorative_justice",
+    "subtopic_heading": "Proportionality — s. 718.1 Fundamental Principle",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A judge is sentencing a youthful first offender for a relatively minor drug trafficking offence. The Crown argues that a lengthy penitentiary sentence is necessary to send a message of general deterrence to the broader community. The defence argues that the proposed sentence is grossly excessive given the offender's personal circumstances and the nature of the offence.",
+    "call_of_question": "Under s. 718.1 of the Criminal Code, what is the fundamental principle of sentencing that limits the court's response to general deterrence arguments?",
+    "options": {
+      "A": "The fundamental principle is rehabilitation — every sentence must prioritize the rehabilitation of the offender over all other considerations.",
+      "B": "The fundamental principle is proportionality — a sentence must be proportionate to the gravity of the offence and the degree of responsibility of the offender.",
+      "C": "The fundamental principle is deterrence — sentences must be calibrated to maximize their deterrent effect on the general public.",
+      "D": "The fundamental principle is parity — offenders convicted of the same offence must receive the same sentence."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 718.1 of the Criminal Code states that a sentence must be proportionate to the gravity of the offence and the degree of responsibility of the offender. This is the fundamental principle of sentencing in Canada — it operates as an overarching constraint on all other sentencing objectives. While general deterrence (s. 718(b)) is a legitimate sentencing objective, it cannot justify a sentence that is disproportionate to the offence and the offender's culpability. A sentence cannot be made disproportionately longer simply to send a message to the community. Proportionality is the master principle that limits all other sentencing goals.",
+    "why_A_wrong": "Rehabilitation is one of the sentencing objectives under s. 718(d), but it is not the fundamental principle under s. 718.1. The fundamental principle in the Criminal Code is proportionality, not rehabilitation. All objectives must operate within the constraint of proportionality.",
+    "why_B_wrong": "This IS the correct answer. Section 718.1 provides that proportionality to the gravity of the offence and the degree of responsibility of the offender is the fundamental principle of sentencing.",
+    "why_C_wrong": "Deterrence (s. 718(b)) is a sentencing objective, but it is not the fundamental principle and cannot override proportionality. A sentence disproportionately long solely for deterrent effect would violate s. 718.1.",
+    "why_D_wrong": "Parity (s. 718.2(b) — similar sentences for similar offences in similar circumstances) is a sentencing principle, but it is not the fundamental principle. Proportionality under s. 718.1 is the foundational constraint on all sentences.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Proportionality — Fundamental Principle s. 718.1",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 718.1"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "proportionality",
+      "s. 718.1",
+      "fundamental principle",
+      "gravity of offence",
+      "degree of responsibility",
+      "general deterrence limit"
+    ],
+    "tested_concepts": [
+      "s. 718.1 proportionality as fundamental principle",
+      "limits deterrence-based sentence inflation",
+      "gravity of offence + degree of responsibility",
+      "proportionality overrides other objectives"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-09-abst-001",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "probation",
+    "subtopic_heading": "Probation Orders — Compulsory Conditions — s. 732.1",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Wendy is convicted of impaired driving and sentenced to 12 months of probation. The probation order includes conditions: (1) report to a probation officer as directed; (2) abstain from consuming alcohol; and (3) not attend any establishment that sells alcohol. The defence objects to conditions (2) and (3) as impermissible restrictions.",
+    "call_of_question": "Under s. 732.1 of the Criminal Code, are conditions (2) and (3) permissible conditions of a probation order?",
+    "options": {
+      "A": "No — conditions on a probation order cannot restrict the offender's right to consume alcohol, as that is a personal lifestyle choice protected by the Charter.",
+      "B": "Yes — both conditions are permissible; abstinence from alcohol and restrictions on visiting liquor establishments are reasonable conditions under s. 732.1(3)(h) for an impaired driving offence.",
+      "C": "No — probation may only require reporting to a probation officer; restrictions on consumption of substances require a separate court order.",
+      "D": "Yes — but only if the offender consents to both conditions at the time of sentencing."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 732.1(3) of the Criminal Code sets out optional conditions that a court may impose on a probation order, including any reasonable conditions that the court considers desirable for securing the good conduct of the offender and for preventing the repetition of the offence or the commission of other offences. Section 732.1(3)(h) specifically allows the court to require the offender to abstain from consuming alcohol or other intoxicating substances and to require the offender to avoid certain establishments or persons. For an impaired driving offence, conditions prohibiting alcohol consumption and attendance at liquor-serving establishments are directly connected to the offence and are reasonable in the circumstances. Courts have upheld such conditions as valid under s. 732.1.",
+    "why_A_wrong": "Probation conditions may restrict the offender's behavior, including alcohol consumption. While such conditions limit personal choices, they are authorized by s. 732.1(3) and are designed to prevent recidivism. Charter challenges to such conditions have generally not succeeded where the conditions are reasonably connected to the offence.",
+    "why_B_wrong": "This IS the correct answer. Under s. 732.1(3)(h), abstaining from alcohol and avoiding establishments where alcohol is the principal product are permissible conditions that are reasonable and directly connected to an impaired driving offence.",
+    "why_C_wrong": "Probation orders under s. 732.1 may include a wide range of optional conditions beyond mere reporting. Section 732.1(3) lists many optional conditions, including abstinence from substances. No separate court order is required.",
+    "why_D_wrong": "The offender's consent is not required for probation conditions under s. 732.1. The court imposes conditions as part of the sentence; the offender does not have a veto over conditions. The offender may challenge conditions on appeal but does not need to consent at sentencing.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Probation — Optional Conditions s. 732.1(3)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 732.1(3)(h)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "probation",
+      "s. 732.1",
+      "abstain from alcohol",
+      "optional conditions",
+      "impaired driving",
+      "liquor establishments"
+    ],
+    "tested_concepts": [
+      "s. 732.1(3)(h) abstinence condition permissible",
+      "optional probation conditions",
+      "conditions must be reasonable and related to offence",
+      "no offender consent required for conditions"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-09-long-term-001",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "long_term_offender",
+    "subtopic_heading": "Long-Term Offender Designation — s. 753.1",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Henri is convicted of a sexual offence involving a child. He has prior convictions for similar offences and psychological assessments indicate a high likelihood of reoffending due to a paraphilic disorder. The Crown applies for a long-term offender (LTO) designation under s. 753.1 of the Criminal Code.",
+    "call_of_question": "Under s. 753.1 of the Criminal Code, which of the following criteria must be satisfied before a court can designate an offender as a long-term offender?",
+    "options": {
+      "A": "The court must be satisfied that the offender is a substantial risk to reoffend, but no minimum sentence is required before the LTO designation is made.",
+      "B": "The court must be satisfied that: (1) it would be appropriate to impose a sentence of imprisonment of two years or more; (2) there is a substantial risk that the offender will reoffend; and (3) there is a reasonable possibility of eventual control of the risk in the community.",
+      "C": "The LTO designation requires prior designation as a dangerous offender; it is only available as an alternative to a dangerous offender finding.",
+      "D": "The LTO designation can only be made where the Crown proves beyond a reasonable doubt that the offender will reoffend within two years of release."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 753.1(1) of the Criminal Code provides that the court may designate an offender as a long-term offender if: (a) it would be appropriate to impose a sentence of imprisonment of two years or more; (b) there is a substantial risk that the offender will reoffend; and (c) there is a reasonable possibility of eventual control of the risk in the community. The LTO designation is distinct from the dangerous offender designation — it is typically applied where the risk is significant but there is hope for eventual management in the community through supervised release. Upon LTO designation, the court imposes a penitentiary sentence plus a long-term supervision order of up to 10 years in the community following release.",
+    "why_A_wrong": "A minimum sentence of two years is a prerequisite — s. 753.1(1)(a) requires that it would be appropriate to impose a sentence of imprisonment of two years or more. Without that threshold, the LTO designation cannot be made. The risk factor alone is insufficient.",
+    "why_B_wrong": "This IS the correct answer. Section 753.1(1) requires all three conditions: sentence of two years or more, substantial risk of reoffence, and reasonable possibility of eventual community control of the risk.",
+    "why_C_wrong": "The LTO designation is an independent designation — it is not derivative of a dangerous offender finding. Often the Crown applies for either dangerous offender or LTO status alternatively; the court may make either designation on an appropriate application.",
+    "why_D_wrong": "The Crown does not need to prove that the offender will reoffend 'within two years' or to any standard of virtual certainty. The standard is 'substantial risk' of reoffending — a risk that is real and not merely theoretical. Proof beyond a reasonable doubt applies to the factual basis for the designation, but not in the way described in option D.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Long-Term Offender Designation — s. 753.1",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 753.1(1)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "long-term offender",
+      "LTO",
+      "s. 753.1",
+      "substantial risk",
+      "reasonable possibility of control",
+      "long-term supervision order"
+    ],
+    "tested_concepts": [
+      "s. 753.1(1) LTO three criteria",
+      "two-year sentence threshold",
+      "substantial risk of reoffence",
+      "reasonable possibility of eventual community control",
+      "LTO vs dangerous offender distinction"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-09-dang-off-001",
+    "subject": "criminal_law",
+    "chapter_number": 9,
+    "chapter_title": "Sentencing",
+    "topic_id": "sentencing",
+    "topic_heading": "Sentencing Principles and Purposes",
+    "subtopic_id": "dangerous_offender",
+    "subtopic_heading": "Dangerous Offender Designation — s. 753",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The Crown applies for a dangerous offender (DO) designation against an offender convicted of aggravated assault, his third serious personal injury offence. Psychiatric evidence indicates a severe personality disorder with low impulse control and a pattern of brutal violence. The accused's counsel argues the Crown must prove a pattern of behaviour showing a failure to restrain violent impulses.",
+    "call_of_question": "Under s. 753(1)(a) of the Criminal Code, what must the Crown establish to support a dangerous offender designation for an offender convicted of a serious personal injury offence?",
+    "options": {
+      "A": "The Crown must prove that the offender has a diagnosed mental disorder and that the disorder will cause future offending.",
+      "B": "The Crown must establish, by evidence beyond a reasonable doubt, that the offence constitutes a pattern of behaviour showing a failure to restrain violent impulses to the point of brutal violence, or that the conduct shows a failure to restrain sexual impulses likely to cause injury.",
+      "C": "The Crown must prove that the offender is likely to reoffend within 24 months of release on the basis of actuarial risk assessments.",
+      "D": "The Crown must establish prior convictions for at least five serious personal injury offences."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 753(1)(a) of the Criminal Code provides that the court may designate an offender as a dangerous offender where the offence constitutes a serious personal injury offence and the court is satisfied that the offender constitutes a threat to the life, safety, or physical or mental well-being of other persons on the basis of a pattern of behaviour by the offender showing a failure to restrain violent impulses to the degree of brutal and repeated violence or a failure to restrain sexual impulses likely to cause injury. The Crown must prove this beyond a reasonable doubt. The dangerous offender designation results in an indeterminate sentence (detention without a fixed end date), subject to periodic parole board review.",
+    "why_A_wrong": "A diagnosed mental disorder is not a statutory precondition for a DO designation. The DO provisions focus on patterns of violent or sexual behaviour and the threat posed to public safety, not specifically on psychiatric diagnosis. Psychiatric evidence may be relevant but is not a prerequisite.",
+    "why_B_wrong": "This IS the correct answer. Under s. 753(1)(a), the Crown must establish beyond a reasonable doubt a pattern of behaviour showing failure to restrain violent impulses to the degree of brutal/repeated violence or failure to restrain sexual impulses likely to cause injury.",
+    "why_C_wrong": "The DO application does not require proof of likely reoffending within a specific 24-month window. The test focuses on the pattern of past conduct and the threat to public safety — not on a specific time horizon for reoffending. Actuarial risk assessments are evidence but are not the statutory criterion.",
+    "why_D_wrong": "There is no minimum number of prior convictions required for a DO designation. The Crown may seek a DO designation on a single serious personal injury offence if, combined with other evidence, the offender's pattern of behaviour satisfies the s. 753(1) criteria. The section does not prescribe a minimum number of predicate offences.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 9: Sentencing",
+      "heading": "Dangerous Offender Designation — s. 753",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 753(1)(a)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "dangerous offender",
+      "DO",
+      "s. 753",
+      "indeterminate sentence",
+      "pattern of behaviour",
+      "brutal violence",
+      "failure to restrain"
+    ],
+    "tested_concepts": [
+      "s. 753(1)(a) DO designation criteria",
+      "pattern of behaviour — failure to restrain violent impulses",
+      "brutal and repeated violence standard",
+      "indeterminate sentence on DO designation",
+      "beyond reasonable doubt standard for DO"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
   }
 ]

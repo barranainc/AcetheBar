@@ -548,5 +548,280 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-05-sppa-disc-001",
+    "subject": "public_law",
+    "chapter_number": 5,
+    "chapter_title": "Statutory Powers Procedure Act",
+    "topic_id": "sppa_disclosure",
+    "topic_heading": "SPPA — Disclosure of Documents",
+    "subtopic_id": "sppa_disclosure",
+    "subtopic_heading": "Disclosure Before Hearing — SPPA Section 5.4",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A party before an Ontario tribunal governed by the SPPA requests copies of all documents in the tribunal's file relating to her case, including documents the tribunal intends to rely on at the hearing, documents submitted by the opposing party, and documents produced to the tribunal during an investigation that preceded the hearing. The tribunal refuses to disclose any documents prior to the hearing, arguing the SPPA only requires disclosure of documents at the hearing itself.",
+    "call_of_question": "Under the SPPA, what obligations does a tribunal have regarding pre-hearing disclosure of documents to a party?",
+    "options": {
+      "A": "The SPPA imposes no pre-hearing disclosure obligations; parties receive documents only when they are introduced as evidence at the hearing.",
+      "B": "Under the SPPA, s. 5.4 provides that a tribunal may, at any time before the hearing, order production of documents or things relevant to the subject-matter of the proceeding. Additionally, s. 8 requires a tribunal to give parties notice of the hearing, and SPPA procedural fairness principles require disclosure of documents the tribunal or a party intends to rely upon, in advance of the hearing, so the party can meaningfully respond. The tribunal's blanket refusal to provide any pre-hearing disclosure violates procedural fairness obligations.",
+      "C": "Under the SPPA, full document disclosure is mandatory only in proceedings where the party faces a potential penalty of more than $10,000; for other proceedings, no disclosure is required.",
+      "D": "The SPPA requires pre-hearing disclosure only if a party specifically requests production at least 90 days before the hearing; requests made later in the process are not recognized."
+    },
+    "correct_answer": "B",
+    "explanation": "The SPPA provides several disclosure-related provisions. Section 5.4 empowers a tribunal to order production or inspection of documents relevant to the subject matter of the proceeding. Section 8 requires adequate notice of the hearing, which under common law procedural fairness principles means parties must know the case they have to meet. This principle — developed through Baker, and applicable to SPPA tribunals — requires that parties have access, before the hearing, to documents the decision-maker intends to rely upon and documents submitted by opponents. A blanket refusal to provide any pre-hearing disclosure contradicts both the SPPA's production provisions and the common law duty of fairness that overlays all SPPA proceedings. The duty of disclosure is calibrated to the gravity of the proceeding and the nature of the interests at stake.",
+    "why_A_wrong": "Incorrect. The SPPA does impose pre-hearing disclosure obligations through s. 5.4 (production orders) and through common law procedural fairness principles that require parties to know the case against them before the hearing.",
+    "why_B_wrong": "This IS the correct answer. Under the SPPA, s. 5.4 provides that a tribunal may, at any time before the hearing, order production of documents or things relevant to the subject-matter of the proceeding. Additionally, s. 8 requires a tribunal to give parties notice of the hearing, and SPPA procedural fairness principles require disclosure of documents the tribunal or a party intends to rely upon, in advance of the hearing, so the party can meaningfully respond. The tribunal's blanket refusal to provide any pre-hearing disclosure violates procedural fairness obligations.",
+    "why_C_wrong": "Incorrect. The SPPA does not create a monetary threshold for disclosure obligations. The duty to disclose documents before a hearing arises from procedural fairness principles and s. 5.4, which apply to all SPPA proceedings regardless of the financial penalty at stake.",
+    "why_D_wrong": "Incorrect. The SPPA does not establish a 90-day pre-request requirement for document disclosure. Section 5.4 allows production orders at any time before the hearing, and procedural fairness principles require disclosure in a timely manner that allows the party to prepare.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 5 — Statutory Powers Procedure Act",
+      "heading": "Disclosure Before Hearing — SPPA Section 5.4",
+      "page": "N/A",
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, ss. 5.4, 8; Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "SPPA disclosure",
+      "pre-hearing disclosure",
+      "s. 5.4",
+      "production of documents",
+      "procedural fairness"
+    ],
+    "tested_concepts": [
+      "SPPA s. 5.4 production orders",
+      "procedural fairness duty to disclose before hearing",
+      "party's right to know the case to meet"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-05-sppa-rec-003",
+    "subject": "public_law",
+    "chapter_number": 5,
+    "chapter_title": "Statutory Powers Procedure Act",
+    "topic_id": "sppa_reconsideration",
+    "topic_heading": "SPPA — Record on Judicial Review",
+    "subtopic_id": "sppa_record",
+    "subtopic_heading": "Certified Tribunal Record — Contents and Completeness",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A party obtains a judicial review of a decision of an Ontario SPPA-governed tribunal. The tribunal prepares and files a certified record of proceedings. The party discovers that the certified record omits two documents: (1) an internal email exchange among tribunal staff that occurred before the hearing, discussing the likely outcome of the case; and (2) an expert report submitted by the opposing party at the hearing that the tribunal states it did not rely on. The party argues both documents should be included in the certified record.",
+    "call_of_question": "What must be included in the certified tribunal record on judicial review, and must the record include documents the tribunal claims it did not rely on?",
+    "options": {
+      "A": "The certified record need only include the tribunal's written decision and any statutory provisions cited in the decision; evidence and procedural documents are not part of the record.",
+      "B": "The certified tribunal record must include all materials that were before the decision-maker at the time the decision was made, including documents submitted by the parties, evidence received at the hearing, and any other material considered by the tribunal — regardless of whether the tribunal claims it did not rely on a particular document. Internal emails among tribunal staff that relate to the proceeding and were created before the decision may also be includable, particularly if they suggest bias or improper considerations.",
+      "C": "The certified record includes all documents submitted by the parties but excludes all internal tribunal communications, as these are subject to absolute privilege.",
+      "D": "The certified record only includes documents the tribunal expressly identifies in its written reasons as having been relied upon; other documents in the file are not part of the record."
+    },
+    "correct_answer": "B",
+    "explanation": "On judicial review, the certified tribunal record should contain all materials that were before the decision-maker at the time the decision was made. This includes: all documents filed by the parties, evidence introduced at the hearing, the decision and reasons, notices, correspondence, and any other material before the tribunal. A tribunal cannot unilaterally exclude documents by claiming it did not rely on them; the reviewing court is entitled to assess for itself whether the decision is properly grounded in the record, and whether relevant material was improperly ignored. Internal emails among tribunal staff are more complex: they may be subject to deliberative privilege but can be ordered produced where they are relevant to a claim of bias or improper external influence. The party's argument regarding the expert report (which should be in the record regardless of claimed reliance) is well-founded; the argument regarding internal emails raises a deliberative privilege issue requiring more analysis.",
+    "why_A_wrong": "Incorrect. The certified record is far broader than just the decision and cited statutory provisions. It must contain all materials before the decision-maker, including evidence and procedural documents.",
+    "why_B_wrong": "This IS the correct answer. The certified tribunal record must include all materials that were before the decision-maker at the time the decision was made, including documents submitted by the parties, evidence received at the hearing, and any other material considered by the tribunal — regardless of whether the tribunal claims it did not rely on a particular document. Internal emails among tribunal staff that relate to the proceeding and were created before the decision may also be includable, particularly if they suggest bias or improper considerations.",
+    "why_C_wrong": "Incorrect. Internal tribunal communications are not subject to absolute privilege. Deliberative privilege may protect some internal communications, but it can be overridden where bias or improper decision-making is alleged. The statement that internal communications are absolutely excluded is too broad.",
+    "why_D_wrong": "Incorrect. The certified record is not limited to documents expressly cited in the reasons. A tribunal cannot sanitize the record by omitting documents it claims were not relied upon; the record must reflect what was before the decision-maker.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 5 — Statutory Powers Procedure Act",
+      "heading": "Certified Tribunal Record — Contents and Completeness",
+      "page": "N/A",
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22; Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 10"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "certified tribunal record",
+      "judicial review",
+      "materials before the decision-maker",
+      "internal communications",
+      "reliance"
+    ],
+    "tested_concepts": [
+      "certified record must include all materials before decision-maker",
+      "tribunal cannot exclude documents by claiming non-reliance",
+      "deliberative privilege and internal tribunal communications"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-05-sppa-party-001",
+    "subject": "public_law",
+    "chapter_number": 5,
+    "chapter_title": "Statutory Powers Procedure Act",
+    "topic_id": "sppa_parties",
+    "topic_heading": "SPPA — Who Is a Party",
+    "subtopic_id": "sppa_parties",
+    "subtopic_heading": "SPPA — Definition of Party and Participation Rights",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "An Ontario environmental tribunal governed by the SPPA is holding a hearing on whether to approve a waste disposal facility. Three groups wish to participate: (1) the company that applied for the approval; (2) a municipality in whose territory the facility would be located; and (3) a group of neighbourhood residents who are concerned about noise and property values but have no direct legal interest in the approval decision. The company argues only the company and the issuing authority should be parties; the residents argue they should have full party status.",
+    "call_of_question": "Under the SPPA, who qualifies as a 'party' to a proceeding, and how does the SPPA address participation rights for those who are not statutory parties?",
+    "options": {
+      "A": "Under the SPPA, 'party' means any person who wishes to participate in a tribunal proceeding; all three groups are automatically parties.",
+      "B": "Under the SPPA, s. 1(1) defines 'party' as a person entitled to participate as a party by the statute under which the proceeding arises or by the rules of the tribunal. The enabling statute and tribunal rules define who has party status. The SPPA also provides that tribunals may allow other persons to participate as interveners or in a non-party capacity under s. 9.1 (intervener status). The neighbourhood residents may seek intervener or participant status even if they do not qualify as statutory parties.",
+      "C": "Under the SPPA, only the applicant and the decision-making authority are parties to a proceeding; municipalities and residents can never be parties.",
+      "D": "Under the SPPA, a person becomes a party automatically whenever they file written submissions with the tribunal; the residents' written concerns automatically make them parties."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the SPPA, s. 1(1), 'party' means a person entitled to be a party to a proceeding by virtue of the statute under which the proceeding arises, by tribunal rules, or as otherwise determined by the tribunal. Party status depends primarily on the enabling statute and the tribunal's own rules — not everyone who has an interest automatically becomes a party. The SPPA also allows tribunals to grant intervener/participant status under s. 9.1, which allows persons who may be affected by a proceeding to make submissions even if they are not full parties. The municipality likely has statutory party status if the enabling legislation provides for municipal participation. The neighbourhood residents would need to apply for intervener or participant status, as they likely lack statutory party entitlement but may qualify for non-party participation.",
+    "why_A_wrong": "Incorrect. Not everyone who wishes to participate is automatically a party under the SPPA. Party status is defined by the enabling statute, tribunal rules, or the SPPA itself. Wanting to participate is insufficient.",
+    "why_B_wrong": "This IS the correct answer. Under the SPPA, s. 1(1) defines 'party' as a person entitled to participate as a party by the statute under which the proceeding arises or by the rules of the tribunal. The enabling statute and tribunal rules define who has party status. The SPPA also provides that tribunals may allow other persons to participate as interveners or in a non-party capacity under s. 9.1 (intervener status). The neighbourhood residents may seek intervener or participant status even if they do not qualify as statutory parties.",
+    "why_C_wrong": "Incorrect. The SPPA does not limit parties to the applicant and issuing authority. The enabling statute and tribunal rules may designate additional parties, including municipalities and affected persons in appropriate circumstances.",
+    "why_D_wrong": "Incorrect. Filing written submissions does not automatically confer party status. Under the SPPA, party status is determined by the enabling statute and tribunal rules, not by the act of filing submissions.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 5 — Statutory Powers Procedure Act",
+      "heading": "SPPA — Definition of Party and Participation Rights",
+      "page": "N/A",
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22, ss. 1(1), 9.1"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "party",
+      "SPPA s. 1(1)",
+      "intervener",
+      "participant",
+      "s. 9.1"
+    ],
+    "tested_concepts": [
+      "SPPA definition of party — enabling statute and rules",
+      "intervener and participant status under s. 9.1",
+      "participation rights for non-statutory parties"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-05-bias-001",
+    "subject": "public_law",
+    "chapter_number": 5,
+    "chapter_title": "Statutory Powers Procedure Act",
+    "topic_id": "bias_tribunal",
+    "topic_heading": "SPPA — Bias at Tribunal Level",
+    "subtopic_id": "reasonable_apprehension_bias",
+    "subtopic_heading": "Reasonable Apprehension of Bias — Test and Application",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A member of an Ontario professional discipline tribunal was, ten years ago, a senior partner at the same law firm where the respondent member is currently a partner. The tribunal member had no direct professional relationship with the respondent. At the outset of the hearing, a party raises a concern about bias. The tribunal member says he harbours no actual bias and states he can decide the case fairly. He declines to recuse himself.",
+    "call_of_question": "Under the test for reasonable apprehension of bias established in Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369, must the tribunal member recuse himself, and does his assertion of subjective impartiality resolve the issue?",
+    "options": {
+      "A": "The test for bias is subjective; because the tribunal member sincerely believes he is impartial, there is no bias and he need not recuse himself.",
+      "B": "Under Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369, the test for reasonable apprehension of bias is objective: whether an informed person, viewing the matter realistically and practically, and having thought it through, would conclude that it is more likely than not that the decision-maker, whether consciously or unconsciously, would not decide fairly. A tribunal member's assertion of subjective impartiality is irrelevant to this objective test. A former partnership at the same firm as the respondent, even 10 years ago, may or may not meet this threshold, depending on the nature and recency of the connection, but the assessment is conducted objectively.",
+      "C": "Under the SPPA, a tribunal member must automatically recuse himself from any proceeding where they have ever worked at the same firm as any party; there is no need for a case-by-case analysis.",
+      "D": "Bias is only relevant if the tribunal member had a direct financial interest in the outcome of the proceeding; a prior professional connection without financial interest cannot amount to bias."
+    },
+    "correct_answer": "B",
+    "explanation": "The leading Canadian authority on the test for reasonable apprehension of bias is Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369, where de Grandpré J. articulated the objective test: the question is what an informed person, viewing the matter realistically and practically, having thought the matter through, would conclude. The test is objective — whether there is an appearance of bias that would undermine public confidence in the administration of justice — not whether the decision-maker actually harbours bias. A tribunal member's sincere assertion of impartiality is therefore entirely irrelevant to the legal analysis; the question is what an outside observer would reasonably conclude. A former partnership at the same firm as the respondent, even 10 years ago, is a fact to be weighed in the objective analysis: courts consider the nature of the connection, the recency, and whether any ongoing relationship exists.",
+    "why_A_wrong": "Incorrect. The test for reasonable apprehension of bias is objective, not subjective. A decision-maker's sincere belief in their own impartiality is irrelevant; the question is what a reasonable outside observer would conclude.",
+    "why_B_wrong": "This IS the correct answer. Under Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369, the test for reasonable apprehension of bias is objective: whether an informed person, viewing the matter realistically and practically, and having thought it through, would conclude that it is more likely than not that the decision-maker, whether consciously or unconsciously, would not decide fairly. A tribunal member's assertion of subjective impartiality is irrelevant to this objective test. A former partnership at the same firm as the respondent, even 10 years ago, may or may not meet this threshold, depending on the nature and recency of the connection, but the assessment is conducted objectively.",
+    "why_C_wrong": "Incorrect. There is no automatic recusal rule based on any former professional connection. The SPPA and common law require a case-by-case application of the objective reasonable apprehension of bias test; automatic rules would be unworkable and over-inclusive.",
+    "why_D_wrong": "Incorrect. Bias is not limited to financial interests. Professional connections, personal relationships, prior involvement in the matter, and pre-judgement of issues can all ground a reasonable apprehension of bias. Financial interest is just one possible factor.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 5 — Statutory Powers Procedure Act",
+      "heading": "Reasonable Apprehension of Bias — Test and Application",
+      "page": "N/A",
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22; Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "reasonable apprehension of bias",
+      "Committee for Justice and Liberty",
+      "objective test",
+      "recusal",
+      "impartiality"
+    ],
+    "tested_concepts": [
+      "objective test for reasonable apprehension of bias",
+      "subjective impartiality irrelevant to bias test",
+      "former professional connection as potential bias ground"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-05-sppa-appeal-001",
+    "subject": "public_law",
+    "chapter_number": 5,
+    "chapter_title": "Statutory Powers Procedure Act",
+    "topic_id": "sppa_appeal",
+    "topic_heading": "SPPA — Internal Appeal vs. Judicial Review",
+    "subtopic_id": "internal_appeal_jr",
+    "subtopic_heading": "Internal Appeal vs. Judicial Review — When to Use Which",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A licensed real estate agent receives a suspension decision from the Real Estate Council of Ontario. The enabling statute provides an internal appeal to a Registrar's Review Panel within 30 days. The agent's lawyer advises the agent to skip the internal appeal and proceed directly to judicial review in the Divisional Court, arguing judicial review is more favourable because it allows challenges to both the procedure and the merits.",
+    "call_of_question": "Which of the following MOST accurately describes the relationship between internal statutory appeals and judicial review in Ontario administrative law?",
+    "options": {
+      "A": "A party may freely choose between an internal statutory appeal and judicial review; the two remedies are interchangeable, and counsel should advise whichever forum has a more favourable standard of review.",
+      "B": "The existence of an adequate internal statutory appeal is a strong reason for a reviewing court to decline to exercise its discretion to grant judicial review. Under Ontario administrative law, courts generally require parties to exhaust internal statutory appeal mechanisms before seeking judicial review, treating the internal appeal as an adequate alternative remedy. However, exceptional circumstances — such as where the internal appeal body cannot provide the required remedy, cannot address Charter issues, or where urgent circumstances exist — may justify direct judicial review without exhausting the internal appeal.",
+      "C": "Judicial review is always preferable to internal appeals because courts apply a correctness standard on judicial review, which is more favourable than the deference given on internal appeals.",
+      "D": "Under the SPPA, internal appeals are mandatory prerequisites to any judicial review application; failure to pursue an internal appeal deprives the Divisional Court of jurisdiction to hear the matter."
+    },
+    "correct_answer": "B",
+    "explanation": "This is a classic exam trap. The relationship between internal statutory appeals and judicial review is one of the most tested areas. The key principle is that internal statutory appeals are treated as adequate alternative remedies; courts exercise discretion to decline judicial review where a party has not exhausted internal statutory processes. The adequate alternative remedy doctrine (not a jurisdictional bar, but a discretionary principle) means that skipping an internal appeal to proceed directly to judicial review is risky — the court will likely refuse to hear the application. The correct advice is to pursue the internal appeal first, preserving judicial review as a last resort. Option C is wrong because post-Vavilov, judicial review of tribunal decisions is conducted on the reasonableness standard, not correctness — making the premise of C false. Option D overstates the rule — failing to pursue an internal appeal does not deprive the court of jurisdiction; it merely gives the court a strong reason to decline to exercise its discretion.",
+    "why_A_wrong": "Incorrect. The two remedies are not freely interchangeable. The existence of an adequate internal statutory appeal means courts will generally decline to hear a judicial review application brought without first exhausting internal processes. This is a significant practical constraint.",
+    "why_B_wrong": "This IS the correct answer. The existence of an adequate internal statutory appeal is a strong reason for a reviewing court to decline to exercise its discretion to grant judicial review. Under Ontario administrative law, courts generally require parties to exhaust internal statutory appeal mechanisms before seeking judicial review, treating the internal appeal as an adequate alternative remedy. However, exceptional circumstances — such as where the internal appeal body cannot provide the required remedy, cannot address Charter issues, or where urgent circumstances exist — may justify direct judicial review without exhausting the internal appeal.",
+    "why_C_wrong": "Incorrect. Post-Vavilov (2019 SCC 65), judicial review of tribunal decisions on their merits typically applies the reasonableness standard, not correctness. The premise that judicial review gives access to correctness review is wrong in most circumstances, making the advice legally unsound.",
+    "why_D_wrong": "Incorrect. Failure to pursue an internal appeal does not deprive the Divisional Court of jurisdiction to hear a judicial review application; the court retains jurisdiction but exercises its discretion to decline the application on the ground that an adequate alternative remedy was not pursued.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 5 — Statutory Powers Procedure Act",
+      "heading": "Internal Appeal vs. Judicial Review — When to Use Which",
+      "page": "N/A",
+      "rule_or_statute_reference": "Statutory Powers Procedure Act, R.S.O. 1990, c. S.22; Judicial Review Procedure Act, R.S.O. 1990, c. J.1, s. 2; Canada (Border Services Agency) v CB Powell Limited, 2010 FCA 61"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "internal appeal",
+      "judicial review",
+      "adequate alternative remedy",
+      "exhaustion",
+      "Divisional Court discretion"
+    ],
+    "tested_concepts": [
+      "adequate alternative remedy doctrine",
+      "internal appeals must be exhausted before JR",
+      "discretionary nature of court's refusal not jurisdictional"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
   }
 ]

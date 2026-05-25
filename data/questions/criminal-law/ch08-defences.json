@@ -685,6 +685,468 @@
     "updated_at": "2026-05-24"
   },
   {
+    "id": "crim-08-claim-right-001",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "claim_of_right",
+    "subtopic_heading": "Claim of Right — Honest Belief",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Thomas believed that a bicycle stored in his neighbour's garage was his own bicycle that had been stolen from him two years earlier. He entered the garage without permission and took the bicycle. In fact, the bicycle belonged to the neighbour. Thomas is charged with theft.",
+    "call_of_question": "Which of the following best describes the effect of Thomas's honest belief that the bicycle was his own property?",
+    "options": {
+      "A": "Thomas has a complete defence if his belief was both honest and reasonable.",
+      "B": "Thomas has no defence because he entered private property without permission, which negates any claim of right.",
+      "C": "Thomas has a complete defence if his belief in his entitlement to the property was honest, even if it was unreasonable.",
+      "D": "Thomas has a partial defence that reduces theft to mischief."
+    },
+    "correct_answer": "C",
+    "explanation": "A claim of right to property negates the mens rea element of theft (the fraudulent intent). Under Canadian law, if an accused honestly — even if unreasonably — believed he had a legal right to take the property, that honest belief negates the 'fraudulently' requirement of theft under s. 322(1) of the Criminal Code. The test is subjective: the accused's honest belief, not whether a reasonable person would have shared that belief, is what matters. An unreasonable belief may be evidence of bad faith, but if the trier of fact finds the belief was genuinely held, it constitutes a complete defence to theft. The claim of right does not apply where the accused knew or believed the property belonged to someone else and sought to acquire it by dishonest means.",
+    "why_A_wrong": "The claim of right defence does not require that the belief be reasonable. Reasonableness is relevant to credibility — the more unreasonable the belief, the less likely a trier of fact will accept it as genuine — but the legal test is subjective honesty, not objective reasonableness.",
+    "why_B_wrong": "The manner of retrieval (entering without permission) does not necessarily negate a claim of right as a defence to theft. While the entry may constitute trespass, the claim of right goes to the mens rea of theft specifically. Thomas could have a defence to theft even if liable for trespass.",
+    "why_C_wrong": "This IS the correct answer. The claim of right to property is a complete defence to theft if the accused honestly believed he was entitled to take the property, even if that belief was unreasonable.",
+    "why_D_wrong": "Claim of right is a complete defence to theft — it does not result in conviction of a lesser offence. If the defence succeeds, the accused is acquitted of theft. Claim of right does not operate as a partial defence that reduces the charge.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "Claim of Right — s. 322(1) Theft Mens Rea",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 322(1); R. v. Dorosh (2004), 183 CCC (3d) 224 (Sask. CA)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "claim of right",
+      "honest belief",
+      "theft",
+      "s. 322",
+      "fraudulently",
+      "property believed to be own"
+    ],
+    "tested_concepts": [
+      "claim of right negates theft mens rea",
+      "subjective honesty standard (not objective reasonableness)",
+      "complete defence to theft",
+      "belief in legal entitlement to property"
+    ],
+    "estimated_time_seconds": 60,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-08-mistake-fact-001",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "mistake_of_fact",
+    "subtopic_heading": "Mistake of Fact — Honest Belief; Air of Reality",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is charged with sexual assault. He claims that he honestly believed the complainant was consenting to sexual activity. The complainant testified that she said 'no' clearly twice before the accused continued. At the close of the defence case, the trial judge must determine whether to leave the honest belief in consent defence to the jury.",
+    "call_of_question": "What is the correct legal test for whether the trial judge should leave the honest belief in consent defence to the jury?",
+    "options": {
+      "A": "The trial judge must leave the defence to the jury if there is any evidence that the accused subjectively believed the complainant was consenting, regardless of the basis for that belief.",
+      "B": "The trial judge should leave the honest belief in consent defence to the jury only if there is an air of reality to the defence — meaning there is evidence upon which a properly instructed jury acting reasonably could acquit.",
+      "C": "The defence must be left to the jury because it is the jury's exclusive role to assess credibility and the subjective state of the accused.",
+      "D": "The trial judge must first determine whether the accused's belief was reasonable before leaving the defence to the jury."
+    },
+    "correct_answer": "B",
+    "explanation": "The honest belief in consent defence for sexual assault requires an air of reality before it can be put to the jury. The air of reality test (from R. v. Cinous, 2002 SCC 29, applied to all defences) asks whether there is evidence upon which a properly instructed jury acting reasonably could acquit based on the defence. The accused must point to evidence supporting each element of the defence. For sexual assault, s. 273.2 of the Criminal Code further provides that the honest belief defence is unavailable if the accused: (a) took no reasonable steps to ascertain consent; or (b) the belief arose from recklessness or wilful blindness. On these facts, the complainant said 'no' twice — this virtually eliminates the air of reality for honest belief in consent. The trial judge has a gatekeeping role and need not leave the defence if there is no air of reality.",
+    "why_A_wrong": "The air of reality test imposes a threshold beyond mere evidence of subjective belief. The judge does not leave the defence simply because the accused asserts belief — s.273.2 further restricts the defence where the accused was reckless or took no reasonable steps to ascertain consent. A complainant saying 'no' twice defeats any air of reality for honest belief.",
+    "why_B_wrong": "This IS the correct answer. The honest belief in consent defence requires an air of reality — evidence upon which a jury could reasonably acquit — before the trial judge will leave it to the jury.",
+    "why_C_wrong": "While credibility is generally for the jury, the trial judge has a gatekeeping function to screen defences that lack an air of reality. Credibility assessment is distinct from the legal threshold of whether there is sufficient evidence to support the defence at all.",
+    "why_D_wrong": "The honest belief defence does not require reasonable belief — the test is subjective honesty. However, s.273.2 imposes the requirement that the accused took reasonable steps to ascertain consent. Reasonableness is a factor under s.273.2, not a precondition to the subjective belief test itself. The trial judge's role is air-of-reality gatekeeping, not pre-assessing reasonableness of the belief.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "Mistake of Fact — Honest Belief in Consent (Sexual Assault)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 273.2; R. v. Ewanchuk, [1999] 1 SCR 330; R. v. Cinous, 2002 SCC 29"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "honest belief in consent",
+      "s. 273.2",
+      "air of reality",
+      "sexual assault",
+      "reasonable steps",
+      "Ewanchuk",
+      "mistake of fact"
+    ],
+    "tested_concepts": [
+      "air of reality test for honest belief in consent",
+      "s. 273.2 — no reasonable steps defeats defence",
+      "recklessness and wilful blindness defeat belief",
+      "trial judge gatekeeping function",
+      "subjective honesty (not reasonableness) of belief"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-08-mistake-law-001",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "mistake_of_law",
+    "subtopic_heading": "Mistake of Law — s. 19 Criminal Code",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Denise genuinely believed, based on advice from a friend who claimed to be familiar with the regulations, that it was legal to carry a concealed weapon in public for self-defence purposes. Relying on this understanding, she carried a prohibited firearm. She is charged with possessing a prohibited firearm.",
+    "call_of_question": "Can Denise rely on her honest but mistaken belief about the legality of carrying a concealed weapon as a defence?",
+    "options": {
+      "A": "Yes — if Denise's belief about the law was genuine, it is a complete defence because mens rea requires knowledge that the act was unlawful.",
+      "B": "No — under s. 19 of the Criminal Code, ignorance of the law is not an excuse, and a genuine mistake of law does not constitute a defence.",
+      "C": "Yes — but only if Denise can show she took reasonable steps to verify the law before relying on her friend's advice.",
+      "D": "No — but Denise may have a partial defence that reduces the charge from possession of a prohibited firearm to possession of an unregistered firearm."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 19 of the Criminal Code codifies the common law maxim ignorantia juris non excusat — ignorance of the law is no excuse. A genuine, honest mistake about whether conduct is prohibited by law is not a defence in Canadian criminal law. Denise's belief — however sincere — that carrying a concealed weapon was legal does not excuse the offence. The rationale is that allowing a mistake-of-law defence would permit anyone to avoid criminal liability by claiming not to know the law, which would be unworkable and would undermine legal norms. Note that there are two narrow exceptions: (1) officially induced error (where a government official provided incorrect legal advice and the accused reasonably relied on it); and (2) colour of right to property (s. 322(1) — which applies to property offences, not regulatory/firearms offences).",
+    "why_A_wrong": "Mistake of law is not a defence in Canadian criminal law under s. 19 of the Criminal Code. Mens rea for most offences does not require knowledge that the conduct is prohibited by law — the mental element relates to the facts, not to the legal characterization of those facts. Denise intended to carry the weapon; that is sufficient mens rea.",
+    "why_B_wrong": "This IS the correct answer. Section 19 of the Criminal Code expressly provides that ignorance of the law is not an excuse. Denise's mistaken belief about the legality of her conduct is not a defence.",
+    "why_C_wrong": "There is no 'reasonable steps' exception to s. 19 for mistake of law in general. The officially induced error doctrine requires reliance on an official government source (not a friend), and requires official misleading conduct — it is not activated merely by taking reasonable personal steps to verify.",
+    "why_D_wrong": "Mistake of law does not create a partial defence that reduces the charge. The offence either has the required mens rea (knowledge of the facts) or it does not. Since Denise knew she was carrying the weapon, the mens rea of the possession offence is satisfied; s. 19 precludes any mistake-of-law defence.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "Mistake of Law — s. 19 Criminal Code",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 19; R. v. Jorgensen, [1995] 4 SCR 55 (officially induced error)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "mistake of law",
+      "s. 19",
+      "ignorance of the law",
+      "no excuse",
+      "ignorantia juris"
+    ],
+    "tested_concepts": [
+      "s. 19 ignorance of law is no excuse",
+      "mistake of law vs mistake of fact",
+      "officially induced error exception",
+      "colour of right exception (property only)"
+    ],
+    "estimated_time_seconds": 60,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-08-colour-right-001",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "colour_of_right",
+    "subtopic_heading": "Colour of Right — s. 322(1)(a) Criminal Code",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Nathan, a contractor, removed lumber from a construction site believing he was owed money by the developer and that the lumber was collateral for an unpaid debt. He had no legal security interest in the lumber and no right to seize it as payment. Nathan is charged with theft. His counsel argues colour of right.",
+    "call_of_question": "Which of the following correctly states the colour of right doctrine as it applies to Nathan's situation?",
+    "options": {
+      "A": "Colour of right is available only where the accused had a legally valid claim of right, such as a registered lien or court order.",
+      "B": "Colour of right applies where the accused honestly believed he had a legal entitlement to the property — the belief need not be reasonable, but it must be an honest belief in a legal (not merely moral) right.",
+      "C": "Colour of right is available whenever the accused was owed money by the owner of the property taken; the moral claim is sufficient.",
+      "D": "Colour of right is not available for property offences involving lumber or building materials; it applies only to personal property."
+    },
+    "correct_answer": "B",
+    "explanation": "Colour of right under s. 322(1)(a) of the Criminal Code provides a defence to theft where the accused honestly believed he had a legal right or title to the property taken. The key requirements are: (1) the belief must be honest (subjective test — not required to be reasonable); and (2) the belief must be in a legal right, not merely a moral claim. A belief that one is morally owed money and is 'entitled' to take property as compensation does not constitute colour of right unless the accused genuinely believed he had a legal entitlement (for example, a mistaken belief in a lien, legal title, or contractual right). On these facts, Nathan's belief that he could seize lumber as payment for a debt may or may not qualify — the court would assess whether he honestly believed in a legal right (not just moral entitlement) to take the lumber.",
+    "why_A_wrong": "Colour of right does not require a legally valid claim — the accused need not actually have the right, only honestly believe they do. Even an honestly held but legally erroneous belief in a right to take the property is sufficient. The defence is about the accused's subjective state, not the objective legal validity of their claim.",
+    "why_B_wrong": "This IS the correct answer. Colour of right requires an honest belief in a legal entitlement to the property — the belief need not be reasonable but must be in a legal right, not merely a moral claim.",
+    "why_C_wrong": "A moral claim (being owed money) is insufficient for colour of right. The accused must honestly believe in a legal right to the specific property, not simply a general entitlement to compensation. Self-help remedies based on moral claims do not qualify as colour of right unless the accused honestly believed in a legal (proprietary or contractual) entitlement.",
+    "why_D_wrong": "Colour of right is not restricted to personal property or any particular type of property. It applies to all forms of property subject to theft charges. There is no categorical exclusion for lumber, building materials, or any other class of property.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "Colour of Right — s. 322(1)(a)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 322(1)(a); R. v. Lilly, [1983] 1 SCR 794"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "colour of right",
+      "s. 322(1)(a)",
+      "honest belief",
+      "legal entitlement",
+      "moral vs legal right",
+      "theft defence"
+    ],
+    "tested_concepts": [
+      "colour of right — honest belief in legal entitlement",
+      "subjective standard (not reasonableness required)",
+      "legal right vs moral claim",
+      "defence applies to property offences only"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-08-consent-001",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "consent_defence",
+    "subtopic_heading": "Consent in Sexual Assault — s. 273.1 and s. 273.2",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused claims that the complainant consented to sexual contact. The complainant testified that while she did not verbally object at the moment of the act, she had said 'not tonight' earlier in the evening and then remained silent when the accused initiated sexual activity. The accused argues that her silence and passivity constituted consent.",
+    "call_of_question": "Under s. 273.1(2) of the Criminal Code, which of the following correctly describes whether the complainant's silence can constitute consent to sexual activity?",
+    "options": {
+      "A": "Silence and passivity constitute implied consent; the absence of a 'no' is equivalent to a 'yes' in law.",
+      "B": "The complainant's silence cannot constitute consent; under s. 273.1(2)(d), no consent is obtained where the complainant does not express agreement by words or conduct.",
+      "C": "Whether silence constitutes consent is a question of fact for the jury; if the accused honestly believed silence meant consent, the defence is available.",
+      "D": "Consent requires only that the complainant not actively resist; her passivity is sufficient to establish consent in law."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 273.1(2) of the Criminal Code enumerates situations in which no consent is obtained, including (under s. 273.1(2)(d)) where 'the complainant does not express agreement by words or conduct' — in other words, the absence of objection does not constitute consent. The Supreme Court confirmed in R. v. Ewanchuk, [1999] 1 SCR 330, that there is no defence of 'implied consent' to sexual assault in Canada. Consent requires active, voluntary agreement — silence, passivity, and absence of resistance are not consent. The 'no means no' principle extends further: in Ewanchuk, the court confirmed that prior indication that the complainant did not want sexual activity is relevant context. The accused's belief that silence equated to consent, where the complainant had earlier said 'not tonight,' cannot constitute an honest belief for s. 273.2 purposes because it arose from willful blindness or recklessness.",
+    "why_A_wrong": "Implied consent is not recognized in Canadian law for sexual assault. R. v. Ewanchuk expressly rejected the implied consent defence. Silence and passivity are not consent under s. 273.1(2)(d). The accused cannot rely on a 'no objection = yes' inference.",
+    "why_B_wrong": "This IS the correct answer. Section 273.1(2)(d) provides that no consent is obtained where the complainant does not express agreement by words or conduct. Silence does not constitute consent.",
+    "why_C_wrong": "While honest belief in consent is a potentially available defence under s. 273.2, it cannot be based on silence where the complainant had earlier said 'not tonight.' The s. 273.2 defence requires that the accused took reasonable steps to ascertain consent, and relying on silence after a prior refusal does not meet that standard. Furthermore, s. 273.1(2)(d) establishes as a matter of law that silence is not consent.",
+    "why_D_wrong": "Passive non-resistance is not consent in Canadian law. The Ewanchuk decision expressly rejected the notion that consent can be inferred from absence of active resistance. Sexual assault law requires positive, voluntary agreement expressed by words or conduct.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "Consent — Sexual Assault s. 273.1",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 273.1(2)(d), s. 273.2; R. v. Ewanchuk, [1999] 1 SCR 330"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "consent",
+      "sexual assault",
+      "s. 273.1",
+      "silence",
+      "Ewanchuk",
+      "implied consent",
+      "no means no"
+    ],
+    "tested_concepts": [
+      "s. 273.1(2)(d) — no consent without expressed agreement",
+      "Ewanchuk rejection of implied consent",
+      "silence is not consent",
+      "no means no principle",
+      "s. 273.2 honest belief must include reasonable steps"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-08-abandon-001",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "abandonment_defence",
+    "subtopic_heading": "Abandonment of Common Purpose — Withdrawal from Joint Enterprise",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Omar agreed with two others to break into a warehouse and steal electronics. On the night of the break-in, just before entering the warehouse, Omar told his co-conspirators 'I don't want to do this anymore' and walked away. He did not contact police, did not attempt to discourage the others, and did not take any steps to prevent the break-in. His co-conspirators proceeded and committed the robbery.",
+    "call_of_question": "Under R. v. Gauthier, 2013 SCC 32, has Omar successfully withdrawn from the common purpose so as to avoid criminal liability as a party?",
+    "options": {
+      "A": "Yes — Omar verbally communicated his withdrawal before the offence was committed, which is all that is required for effective withdrawal.",
+      "B": "No — withdrawal from a joint enterprise is never available once the plan has been made; Omar is liable for all acts of his co-conspirators.",
+      "C": "No — for withdrawal to be effective, the accused must not only communicate abandonment but must also take reasonable steps to neutralize their prior contribution to the enterprise; walking away and merely telling co-conspirators he was leaving is insufficient.",
+      "D": "Yes — withdrawal before the commission of the offence automatically negates party liability regardless of the steps taken."
+    },
+    "correct_answer": "C",
+    "explanation": "In R. v. Gauthier, 2013 SCC 32, the Supreme Court of Canada confirmed that withdrawal from a common purpose requires more than mere communication of intent to withdraw. To effectively withdraw, the accused must: (1) communicate the abandonment clearly to the other parties; and (2) take reasonable steps to neutralize their prior contribution to the enterprise. The second requirement is critical — it reflects the principle that a party who has contributed to the criminal plan must undo that contribution, not merely step aside. On these facts, Omar communicated withdrawal but did nothing to prevent the crime or neutralize his role (e.g., by warning police, alerting building security, or otherwise preventing the break-in). Simply walking away is insufficient for effective withdrawal.",
+    "why_A_wrong": "Verbal communication of withdrawal alone is not sufficient for an effective abandonment defence. Gauthier requires that the accused also take reasonable steps to neutralize their prior contribution to the enterprise. Without those steps, the accused remains liable as a party.",
+    "why_B_wrong": "Withdrawal is a recognized defence in Canadian criminal law; it is not categorically unavailable once a plan has been formed. The issue is the requirements for effective withdrawal, not the non-availability of the defence.",
+    "why_C_wrong": "This IS the correct answer. Under Gauthier, withdrawal from a common purpose requires communication of abandonment AND reasonable steps to neutralize the accused's prior contribution. Walking away without taking neutralizing steps is insufficient.",
+    "why_D_wrong": "Withdrawal before the commission of the offence does not automatically negate party liability. The requirements established in Gauthier must be met: clear communication plus neutralizing steps. Timing (before commission) is relevant but not alone sufficient.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "Abandonment/Withdrawal — Common Purpose",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 21(2); R. v. Gauthier, 2013 SCC 32"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "withdrawal",
+      "abandonment",
+      "common purpose",
+      "joint enterprise",
+      "Gauthier",
+      "neutralize contribution",
+      "party liability"
+    ],
+    "tested_concepts": [
+      "Gauthier two-part withdrawal test",
+      "communication of abandonment insufficient alone",
+      "must neutralize prior contribution",
+      "walking away not effective withdrawal",
+      "s. 21(2) common purpose"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-08-de-minimis-001",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "de_minimis",
+    "subtopic_heading": "De Minimis Non Curat Lex — Not Recognized in Canada",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is charged with theft after taking a single pen worth $0.49 from his workplace. His counsel argues that the offence is so trivial that the court should invoke the de minimis non curat lex principle and decline to apply the criminal law.",
+    "call_of_question": "Under Canadian criminal law, is the de minimis non curat lex doctrine available as a defence or basis for staying proceedings?",
+    "options": {
+      "A": "Yes — the de minimis principle is a recognized common law defence in Canada; courts have discretion to acquit where the offence is trivial.",
+      "B": "No — the de minimis doctrine is not recognized as a defence in Canadian criminal law; the Crown retains discretion whether to prosecute, but courts cannot acquit on de minimis grounds.",
+      "C": "Yes — but only for property offences where the value of the property is under $5.00.",
+      "D": "Yes — courts have inherent jurisdiction to stay proceedings under the de minimis doctrine where prosecution would be disproportionate."
+    },
+    "correct_answer": "B",
+    "explanation": "The de minimis non curat lex principle (the law does not concern itself with trifles) is not recognized as a defence in Canadian criminal law. The Supreme Court addressed this in R. v. Hinchey, [1996] 3 SCR 1128, where the Court expressly declined to endorse de minimis as a freestanding defence to criminal charges. The principle has been rejected as a basis for acquittal or a stay of proceedings because criminal liability flows from the elements of the offence — if the actus reus and mens rea are proven, the accused is guilty, regardless of the triviality of the act. The appropriate response to trivial prosecutions is the Crown's exercise of prosecutorial discretion not to charge, not a judicial intervention to acquit on de minimis grounds. Courts should not usurp the prosecutorial function by declining to apply the law to proven offences.",
+    "why_A_wrong": "De minimis is not a recognized defence in Canadian criminal law. Hinchey declined to adopt it. Unlike in some other common law jurisdictions, Canadian courts do not have authority to acquit a person who has committed a proven offence on the basis that the offence was trivial.",
+    "why_B_wrong": "This IS the correct answer. De minimis is not recognized as a defence in Canadian criminal law (Hinchey). The Crown retains prosecutorial discretion but courts cannot acquit on de minimis grounds.",
+    "why_C_wrong": "There is no dollar-value threshold below which the de minimis doctrine applies in Canadian law. The doctrine is categorically not available in Canadian criminal law regardless of the value of the property or the triviality of the offence.",
+    "why_D_wrong": "Courts do not have inherent jurisdiction to stay proceedings on de minimis grounds. Stays of proceedings are extraordinary remedies available for Charter violations and abuse of process — not for ordinary criminal charges that are merely trivial. The abuse of process doctrine has different requirements and does not encompass de minimis complaints.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "De Minimis — Not Recognized in Canada",
+      "page": "N/A",
+      "rule_or_statute_reference": "R. v. Hinchey, [1996] 3 SCR 1128"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "de minimis",
+      "trivial",
+      "Hinchey",
+      "trifles",
+      "not recognized",
+      "prosecutorial discretion"
+    ],
+    "tested_concepts": [
+      "de minimis not a defence in Canada",
+      "Hinchey rejection of de minimis",
+      "Crown prosecutorial discretion for trivial cases",
+      "courts cannot acquit on de minimis grounds"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-08-alibi-001",
+    "subject": "criminal_law",
+    "chapter_number": 8,
+    "chapter_title": "Criminal Defences",
+    "topic_id": "criminal_defences",
+    "topic_heading": "Criminal Defences",
+    "subtopic_id": "alibi_defence",
+    "subtopic_heading": "Alibi — Advance Disclosure and Burden of Proof",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is charged with robbery. He did not disclose his alibi defence to the Crown before trial. At trial, the accused takes the stand and testifies that at the time of the robbery he was at a restaurant 40 km away with three friends. The Crown had no opportunity to investigate the alibi before trial.",
+    "call_of_question": "Which of the following correctly states the legal consequence of the accused's failure to disclose his alibi before trial?",
+    "options": {
+      "A": "The alibi evidence must be excluded because the accused failed to provide advance disclosure as required by the Criminal Code.",
+      "B": "The failure to disclose an alibi before trial does not affect the admissibility of the evidence, but the trier of fact may draw an adverse inference from the late disclosure and scrutinize the alibi more carefully.",
+      "C": "The Crown may apply for a mistrial due to the late disclosure of the alibi.",
+      "D": "The accused is deemed to have waived the alibi defence by failing to disclose it; the trial judge must direct the jury to disregard the alibi evidence."
+    },
+    "correct_answer": "B",
+    "explanation": "In Canadian law, failure to disclose an alibi defence before trial does not render the alibi evidence inadmissible. The alibi is always admissible because the accused has a constitutional right to present a full answer and defence. However, the common law and case law (including R. v. Cleghorn, [1995] 3 SCR 175) recognize that late disclosure of an alibi is a circumstance the trier of fact can take into account when assessing the weight and credibility of the alibi. The trier of fact may draw an adverse inference from the fact that the alibi was not disclosed promptly — if the alibi were genuine, the accused would normally have raised it at the earliest opportunity. The Crown may also draw attention to the late disclosure in cross-examination and argument. The jury should be instructed that late disclosure may affect credibility, not that the alibi must be disbelieved.",
+    "why_A_wrong": "There is no statutory or common law rule that excludes alibi evidence for failure to provide advance notice. Exclusion would violate the accused's right to make full answer and defence under s. 7 of the Charter. The consequence of late disclosure is an adverse inference on credibility, not exclusion.",
+    "why_B_wrong": "This IS the correct answer. Failure to disclose an alibi before trial does not make the alibi inadmissible, but the trier of fact may draw an adverse inference from the late disclosure and assess the alibi's credibility with heightened scrutiny.",
+    "why_C_wrong": "The Crown does not have a right to a mistrial based solely on late alibi disclosure. A mistrial is an extraordinary remedy for serious trial irregularities. The appropriate response to late alibi disclosure is an adverse credibility inference, cross-examination, and argument — not a mistrial.",
+    "why_D_wrong": "The accused does not waive the alibi defence by failing to provide advance disclosure. The judge cannot direct the jury to disregard alibi evidence — that would violate the accused's right to make full answer and defence. The direction concerns weight and credibility, not admissibility.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 8: Criminal Defences",
+      "heading": "Alibi — Advance Disclosure and Adverse Inference",
+      "page": "N/A",
+      "rule_or_statute_reference": "R. v. Cleghorn, [1995] 3 SCR 175; R. v. Letourneau (1994), 87 CCC (3d) 481 (Ont. CA)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "alibi",
+      "late disclosure",
+      "adverse inference",
+      "Cleghorn",
+      "advance notice",
+      "credibility"
+    ],
+    "tested_concepts": [
+      "alibi not excluded for late disclosure",
+      "adverse inference from late alibi disclosure",
+      "Cleghorn adverse credibility inference",
+      "alibi: weight not admissibility affected",
+      "full answer and defence — alibi always admissible"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
     "id": "crim-08-prov-002",
     "subject": "criminal_law",
     "chapter_number": 8,

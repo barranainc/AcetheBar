@@ -457,5 +457,348 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "crim-11-accused-app-001",
+    "subject": "criminal_law",
+    "chapter_number": 11,
+    "chapter_title": "Appeals",
+    "topic_id": "criminal_appeals",
+    "topic_heading": "Criminal Appeals",
+    "subtopic_id": "accused_sentence_appeal",
+    "subtopic_heading": "Accused Sentence Appeal — Standard of Review — R v Lacasse",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is convicted of impaired driving causing death and sentenced to eight years' imprisonment. He appeals his sentence to the Court of Appeal, arguing that eight years is outside the appropriate range for such an offence in comparable cases and that the sentencing judge placed too much weight on denunciation at the expense of his prospects for rehabilitation.",
+    "call_of_question": "Under the standard of appellate review for sentence appeals established in R v Lacasse, 2015 SCC 64, on what basis may the Court of Appeal intervene in a sentence imposed by a trial judge?",
+    "options": {
+      "A": "The Court of Appeal may intervene whenever the sentence differs from the median sentence in comparable cases by more than 20%.",
+      "B": "The Court of Appeal may substitute its own sentence whenever it disagrees with the weight the trial judge assigned to the sentencing principles.",
+      "C": "The Court of Appeal may intervene only if the sentencing judge committed an error in principle that had an impact on the sentence, or if the sentence is demonstrably unfit.",
+      "D": "The Court of Appeal has a de novo sentencing function and is not bound by deference to the trial judge's sentencing discretion."
+    },
+    "correct_answer": "C",
+    "explanation": "In R v Lacasse, 2015 SCC 64, the Supreme Court affirmed that sentencing judges have broad discretion and that courts of appeal should show deference to trial judges' sentencing decisions. The Court of Appeal may intervene in a sentence only in two circumstances: (1) where the sentencing judge committed an error in principle — including an error in the applicable legal principles, failure to consider a relevant factor, or erroneous consideration of an aggravating or mitigating factor — AND that error had an impact on the sentence; or (2) where the sentence, even absent an identifiable error, is demonstrably unfit. A mere disagreement with the weight assigned to sentencing principles or factors is not a basis for appellate intervention — the sentencing judge's weighing is entitled to deference within the proper range.",
+    "why_A_wrong": "There is no percentage-deviation threshold for appellate sentence review. The Lacasse standard requires either an error in principle with impact on the sentence, or a demonstrably unfit sentence — not a mechanical comparison to median sentences in comparable cases.",
+    "why_B_wrong": "Disagreement with how the trial judge weighted sentencing principles is not a sufficient basis for appellate intervention under Lacasse. The appellate court must identify an error in principle or a demonstrably unfit sentence. Reweighing factors is precisely the kind of appellate interference that Lacasse cautions against.",
+    "why_C_wrong": "This IS the correct answer. Under R v Lacasse, the Court of Appeal may intervene only if there was an error in principle that had an impact on the sentence, or if the sentence is demonstrably unfit.",
+    "why_D_wrong": "Courts of appeal do not have a de novo sentencing function. Lacasse affirms that deference is owed to trial judges' sentencing discretion because they are best positioned to assess the offence, offender, and community context. Appellate courts act in a supervisory, not substitutional, capacity.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 11: Appeals",
+      "heading": "Accused Sentence Appeal — Standard of Review",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 675(1)(b.1); R v Lacasse, 2015 SCC 64"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "sentence appeal",
+      "R v Lacasse",
+      "error in principle",
+      "demonstrably unfit",
+      "appellate deference",
+      "sentence review standard"
+    ],
+    "tested_concepts": [
+      "Lacasse two-part test: error in principle with impact OR demonstrably unfit",
+      "appellate deference to trial judge on sentencing",
+      "disagreement with weighing is not error in principle",
+      "demonstrably unfit as alternative basis for intervention"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-11-stay-pending-001",
+    "subject": "criminal_law",
+    "chapter_number": 11,
+    "chapter_title": "Appeals",
+    "topic_id": "criminal_appeals",
+    "topic_heading": "Criminal Appeals",
+    "subtopic_id": "bail_pending_appeal",
+    "subtopic_heading": "Release Pending Appeal — s. 679 Criminal Code",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is convicted of fraud over $5,000 and sentenced to two years less a day, to be served in the community as a conditional sentence. The Crown successfully argues that the trial judge erred. The Court of Appeal allows the Crown's sentence appeal and substitutes a two-year federal penitentiary sentence. The accused wishes to remain out of custody while he seeks leave to appeal to the Supreme Court of Canada.",
+    "call_of_question": "Under s. 679(1)(b) of the Criminal Code, what must an accused establish to obtain a release order pending an appeal to the Court of Appeal or the Supreme Court of Canada?",
+    "options": {
+      "A": "The accused must demonstrate that the appeal raises a novel question of law not previously decided by the Supreme Court of Canada.",
+      "B": "The accused must show that the appeal is not frivolous, that he will surrender into custody in accordance with the order, and that detention is not necessary in the public interest.",
+      "C": "The accused must post sufficient surety to guarantee appearance and demonstrate a reasonable prospect of success on the appeal.",
+      "D": "The accused need only show that the sentence is manifestly excessive and that an immediate appeal has been filed."
+    },
+    "correct_answer": "B",
+    "explanation": "Section 679(3) of the Criminal Code sets out the three-part test for release pending a conviction or sentence appeal. The judge of the Court of Appeal (or SCC) shall order that the accused be released if the accused establishes: (a) that the appeal or application for leave to appeal is not frivolous; (b) that the accused will surrender into custody in accordance with the terms of the order; and (c) that the detention of the accused is not necessary in the public interest. The 'public interest' component in (c) involves balancing the reviewability of the decision (which informs the need to review before enforcement) against the enforceability interest (the public interest in immediate execution of lawful sentences). The accused bears the burden of satisfying all three criteria under s. 679(3).",
+    "why_A_wrong": "No requirement exists that the appeal raise a novel question of law or an SCC-level issue. The test under s. 679(3) is whether the appeal is not frivolous (a low threshold — not patently without merit), not whether it raises an issue of general importance.",
+    "why_B_wrong": "This IS the correct answer. Section 679(3) requires the accused to establish: (a) appeal not frivolous; (b) will surrender as ordered; and (c) detention not necessary in the public interest. All three must be satisfied.",
+    "why_C_wrong": "Posting surety may be a condition of release, but it is not one of the three statutory tests under s. 679(3). Demonstrating a reasonable prospect of success is not the standard — the standard is that the appeal is 'not frivolous,' which is a lower threshold than a reasonable prospect of success.",
+    "why_D_wrong": "Demonstrating a manifestly excessive sentence is not the statutory test under s. 679(3). The three-part test applies regardless of the type of appeal (conviction or sentence). Filing an appeal is a precondition to applying for release pending appeal, not a standalone basis for release.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 11: Appeals",
+      "heading": "Release Pending Appeal — s. 679",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 679(1)(b), s. 679(3)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "bail pending appeal",
+      "release pending appeal",
+      "s. 679",
+      "not frivolous",
+      "public interest",
+      "surrender into custody"
+    ],
+    "tested_concepts": [
+      "s. 679(3) three-part test: not frivolous, surrender, public interest",
+      "accused bears burden on release pending appeal",
+      "not frivolous as low threshold",
+      "public interest balancing test"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-11-scc-leave-001",
+    "subject": "criminal_law",
+    "chapter_number": 11,
+    "chapter_title": "Appeals",
+    "topic_id": "criminal_appeals",
+    "topic_heading": "Criminal Appeals",
+    "subtopic_id": "scc_appeal",
+    "subtopic_heading": "Appeals to the Supreme Court of Canada — s. 691 and s. 40 SCA",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused was convicted of robbery and his appeal was dismissed by a panel of five judges of the Court of Appeal, with two judges dissenting on a question of law. He wishes to further appeal to the Supreme Court of Canada.",
+    "call_of_question": "Under s. 691(2) of the Criminal Code, does the accused have an as-of-right appeal to the Supreme Court of Canada in these circumstances, and if so, on what basis?",
+    "options": {
+      "A": "No — an accused may only appeal to the SCC by obtaining leave to appeal on a question of public importance under s. 40 of the Supreme Court Act.",
+      "B": "Yes — a dissent in the Court of Appeal on any question creates an as-of-right appeal to the SCC regardless of whether the dissent is on a question of law.",
+      "C": "Yes — under s. 691(2), where a judge of the Court of Appeal dissents on a question of law, the accused has an as-of-right appeal to the SCC on that question of law.",
+      "D": "No — as-of-right appeals to the SCC from criminal convictions were abolished; all criminal appeals to the SCC require leave."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 691(2) of the Criminal Code provides that a person who is convicted of an indictable offence and whose conviction is affirmed by the Court of Appeal may appeal to the Supreme Court of Canada without leave, as of right, if a judge of the Court of Appeal dissented on a question of law. The as-of-right appeal under s. 691(2) is limited to the question(s) of law on which the dissent occurred. This is a significant jurisdictional provision — a single dissenting judge on a question of law opens the door to the Supreme Court of Canada without the need for leave. By contrast, where there is no dissent on a question of law, the accused must seek leave under s. 40 of the Supreme Court Act on the basis that the appeal involves a question of public importance.",
+    "why_A_wrong": "Leave under s. 40 of the Supreme Court Act is not the only route to the SCC in criminal cases. Section 691(2) of the Criminal Code provides an as-of-right appeal where a Court of Appeal judge dissents on a question of law. The accused in this fact pattern has a dissent on a question of law, creating an as-of-right appeal.",
+    "why_B_wrong": "The as-of-right appeal under s. 691(2) requires that the dissent be on a question of law — a dissent on a question of fact or a mixed question without a legal component does not trigger the as-of-right appeal. The question of law requirement is essential.",
+    "why_C_wrong": "This IS the correct answer. Section 691(2) gives an accused an as-of-right appeal to the SCC where a Court of Appeal judge dissented on a question of law. The appeal is limited to that question of law.",
+    "why_D_wrong": "As-of-right criminal appeals to the SCC have not been abolished. Section 691(2) preserves the as-of-right appeal based on a dissent on a question of law. Leave-based appeals under s. 40 SCA are a parallel (and more common) route, but they have not replaced the s. 691(2) as-of-right mechanism.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 11: Appeals",
+      "heading": "Supreme Court of Canada Appeal — s. 691",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 691(2); Supreme Court Act, R.S.C. 1985, c. S-26, s. 40"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "as of right appeal",
+      "s. 691",
+      "Supreme Court of Canada",
+      "dissent on question of law",
+      "leave to appeal",
+      "s. 40 Supreme Court Act"
+    ],
+    "tested_concepts": [
+      "s. 691(2) as-of-right SCC appeal on dissent on question of law",
+      "dissent must be on question of law",
+      "s. 40 SCA leave requirement where no dissent",
+      "distinction between as-of-right and leave-based SCC appeals"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-11-sum-sent-001",
+    "subject": "criminal_law",
+    "chapter_number": 11,
+    "chapter_title": "Appeals",
+    "topic_id": "criminal_appeals",
+    "topic_heading": "Criminal Appeals",
+    "subtopic_id": "summary_sentence_appeal",
+    "subtopic_heading": "Summary Conviction Appeal — Sentence Appeal Jurisdiction",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is convicted in the Ontario Court of Justice of a summary conviction offence and sentenced to 60 days' intermittent custody. She believes the sentence is excessive and wishes to appeal.",
+    "call_of_question": "Under s. 813 of the Criminal Code, may the accused appeal the sentence in a summary conviction matter, and is leave of the court required?",
+    "options": {
+      "A": "The accused may not appeal the sentence in a summary conviction matter — only the Crown may appeal a sentence in such proceedings.",
+      "B": "The accused may appeal the sentence, but leave of the summary conviction appeal court is required.",
+      "C": "The accused may appeal the sentence to the summary conviction appeal court as of right, without leave.",
+      "D": "The accused must first apply to the Ontario Court of Justice to vary the sentence before appealing to the summary conviction appeal court."
+    },
+    "correct_answer": "C",
+    "explanation": "Section 813(a) of the Criminal Code provides that the defendant in summary conviction proceedings may appeal to the summary conviction appeal court against the conviction, against the sentence, or against a verdict of not criminally responsible on account of mental disorder. The appeal is as of right — no leave is required for either a conviction appeal or a sentence appeal by the defendant under s. 813. In Ontario, the summary conviction appeal court is the Superior Court of Justice. This contrasts with the Crown's right to appeal a sentence under s. 676(1)(d) (indictable) which requires leave. Summary conviction sentence appeals by the defendant are as-of-right under s. 813.",
+    "why_A_wrong": "Section 813(a) expressly provides the defendant with the right to appeal the sentence in summary conviction proceedings. Both the defendant and the informant (Crown) have appeal rights under s. 813. The defendant's right to appeal sentence is as of right.",
+    "why_B_wrong": "No leave is required for a defendant to appeal sentence under s. 813. The appeal is as of right. This is one of the distinctions between summary conviction appeals (s. 813, as of right for defendant) and indictable sentence appeals (s. 675(1)(b.1), which may require leave).",
+    "why_C_wrong": "This IS the correct answer. Under s. 813(a), the defendant may appeal the sentence in a summary conviction matter to the summary conviction appeal court as of right, without requiring leave.",
+    "why_D_wrong": "There is no requirement to first apply to the trial court to vary the sentence before filing a summary conviction appeal. The defendant proceeds directly to the summary conviction appeal court under s. 813. No internal application to the originating court is required.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 11: Appeals",
+      "heading": "Summary Conviction Sentence Appeal — s. 813",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 813(a)"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s. 813",
+      "summary conviction appeal",
+      "sentence appeal",
+      "as of right",
+      "no leave required",
+      "defendant sentence appeal"
+    ],
+    "tested_concepts": [
+      "s. 813(a) defendant's as-of-right summary conviction sentence appeal",
+      "no leave required for summary conviction sentence appeal by defendant",
+      "Superior Court of Justice as summary conviction appeal court in Ontario",
+      "summary conviction vs indictable appeal right to appeal sentence"
+    ],
+    "estimated_time_seconds": 60,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-11-unreasonable-001",
+    "subject": "criminal_law",
+    "chapter_number": 11,
+    "chapter_title": "Appeals",
+    "topic_id": "criminal_appeals",
+    "topic_heading": "Criminal Appeals",
+    "subtopic_id": "unreasonable_verdict",
+    "subtopic_heading": "Unreasonable Verdict — s. 686(1)(a)(i) — R v Biniaris",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused was acquitted of sexual assault by a judge sitting alone, without a jury. The Crown appeals on the ground that the verdict was unreasonable under s. 686(1)(a)(i) of the Criminal Code. The trial judge provided detailed written reasons explaining why she found the complainant's evidence not credible based on specific inconsistencies she observed in the testimony.",
+    "call_of_question": "Under the R v Biniaris, 2000 SCC 15 standard for unreasonable verdicts, which of the following best describes the approach the Court of Appeal must take when reviewing a judge-alone acquittal for unreasonableness?",
+    "options": {
+      "A": "The Court of Appeal applies the same test as for jury verdicts: would a properly instructed jury acting judicially have convicted on this evidence?",
+      "B": "For a judge-alone verdict, the Court of Appeal reviews the reasoning in the written reasons to determine whether the verdict is the product of an illogical or legally erroneous reasoning process — engaging more deeply with the logic of the reasons than it would for a jury verdict.",
+      "C": "An unreasonable verdict claim can only succeed if the trial judge made an explicit error of law in the written reasons — a bare credibility assessment cannot be challenged.",
+      "D": "The Court of Appeal is required to assess the complainant's credibility de novo based on the trial record."
+    },
+    "correct_answer": "B",
+    "explanation": "In R v Biniaris, 2000 SCC 15, the Supreme Court established the standard for unreasonable verdicts under s. 686(1)(a)(i). The test is whether the verdict is one that a properly instructed jury (or judge) acting judicially could reasonably have rendered. For jury verdicts, the appellate court must assess whether the evidence, if accepted, could support the verdict. For judge-alone verdicts, the appellate court has an additional tool: the written reasons. Where the trial judge provides reasons, the Court of Appeal may examine the logical flow of the reasoning and the legal correctness of the analysis. If the verdict is the product of an illogical or legally flawed reasoning process — even if the ultimate conclusion is not on its face unreasonable — the Court of Appeal may find the verdict unreasonable. This gives the appellate court deeper penetration into judge-alone verdicts than jury verdicts.",
+    "why_A_wrong": "The test for judge-alone unreasonable verdicts is not identical to the jury test. For judge-alone verdicts, the appellate court has access to the reasoning through written reasons and can examine the logic of that reasoning more closely. The jury test — would a properly instructed jury have convicted — is adapted for judge-alone cases where reasons exist.",
+    "why_B_wrong": "This IS the correct answer. Biniaris allows the Court of Appeal to examine written reasons in judge-alone cases and assess whether the verdict is the product of illogical or legally erroneous reasoning — going beyond whether the conclusion is supported by evidence.",
+    "why_C_wrong": "An unreasonable verdict claim is not limited to explicit errors of law in written reasons. The Biniaris test allows the Court of Appeal to find a verdict unreasonable based on the illogical reasoning process — including where the trial judge's assessment of credibility rests on legally flawed or internally inconsistent reasoning, even if framed as a 'credibility call.'",
+    "why_D_wrong": "The Court of Appeal does not conduct a de novo assessment of credibility. The standard under Biniaris is whether the verdict could reasonably have been rendered — not whether the appellate court would have made the same credibility finding. Appellate courts are deferential to trial judges' credibility assessments and do not re-hear witnesses.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 11: Appeals",
+      "heading": "Unreasonable Verdict — s. 686(1)(a)(i)",
+      "page": "N/A",
+      "rule_or_statute_reference": "Criminal Code, R.S.C. 1985, c. C-46, s. 686(1)(a)(i); R v Biniaris, 2000 SCC 15"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "unreasonable verdict",
+      "s. 686(1)(a)(i)",
+      "R v Biniaris",
+      "judge-alone verdict",
+      "written reasons",
+      "illogical reasoning"
+    ],
+    "tested_concepts": [
+      "Biniaris test for unreasonable verdict",
+      "judge-alone verdicts — review of written reasoning",
+      "jury vs judge-alone unreasonable verdict analysis",
+      "verdict is product of illogical or legally erroneous reasoning"
+    ],
+    "estimated_time_seconds": 180,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "crim-11-prerog-001",
+    "subject": "criminal_law",
+    "chapter_number": 11,
+    "chapter_title": "Appeals",
+    "topic_id": "criminal_appeals",
+    "topic_heading": "Criminal Appeals",
+    "subtopic_id": "habeas_corpus",
+    "subtopic_heading": "Habeas Corpus in Criminal Proceedings — s. 10(c) Charter",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The accused is serving a federal penitentiary sentence. He applies for habeas corpus to the Ontario Superior Court, claiming that prison authorities have placed him in administrative segregation without proper procedural safeguards, violating his rights under s. 7 of the Charter.",
+    "call_of_question": "Which of the following correctly describes the availability of habeas corpus as a remedy in this situation?",
+    "options": {
+      "A": "Habeas corpus is unavailable to a federal inmate because the Federal Court has exclusive jurisdiction over challenges to federal penitentiary administration.",
+      "B": "Habeas corpus is unavailable once a person has been lawfully convicted and sentenced — it can only be used to challenge pre-trial detention.",
+      "C": "Habeas corpus is available in the Superior Court to challenge the legality of a change in the conditions of custody, such as administrative segregation, where the change amounts to a deprivation of residual liberty.",
+      "D": "Habeas corpus is an extraordinary remedy available only after all statutory appeal rights have been exhausted."
+    },
+    "correct_answer": "C",
+    "explanation": "Habeas corpus is a common law remedy preserved by s. 10(c) of the Charter (right to have the validity of detention determined). The Supreme Court has confirmed that provincial Superior Courts retain jurisdiction to hear habeas corpus applications from federal inmates — concurrent with the Federal Court — because habeas corpus is a fundamental supervisory jurisdiction: R v Miller, [1985] 2 SCR 613. Habeas corpus is available not only to challenge initial detention but also to challenge a change in the conditions of custody that constitutes a deprivation of residual liberty (e.g., placement in administrative segregation, transfer to a higher-security institution). A federal inmate who is placed in administrative segregation without procedural fairness suffers a change in conditions that may engage habeas corpus jurisdiction. The remedy is available even to convicted prisoners for challenges to the legality of the manner of their detention.",
+    "why_A_wrong": "The Federal Court does not have exclusive jurisdiction over challenges to federal penitentiary administration. Provincial Superior Courts retain concurrent habeas corpus jurisdiction over federal inmates: Miller. The applicant may choose to proceed in the Superior Court or the Federal Court.",
+    "why_B_wrong": "Habeas corpus is not limited to pre-trial detention. It is available to challenge the legality of any ongoing detention, including challenges by convicted persons to changes in the conditions of their custody that deprive them of residual liberty. Administrative segregation is a recognized basis for habeas corpus.",
+    "why_C_wrong": "This IS the correct answer. Following Miller, habeas corpus is available in the Superior Court to challenge a change in custodial conditions — such as administrative segregation — that constitutes a deprivation of residual liberty, even for a convicted federal inmate.",
+    "why_D_wrong": "Habeas corpus does not require exhaustion of all statutory appeal rights. It is a distinct remedy that operates independently of the statutory appeal process. An inmate can apply for habeas corpus without first exhausting every other available avenue, though courts may decline to hear habeas corpus applications where adequate alternative remedies exist.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Criminal Law",
+      "chapter": "Chapter 11: Appeals",
+      "heading": "Habeas Corpus — Residual Liberty and Custodial Conditions",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 10(c); R v Miller, [1985] 2 SCR 613"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "habeas corpus",
+      "s. 10(c) Charter",
+      "R v Miller",
+      "administrative segregation",
+      "residual liberty",
+      "conditions of custody",
+      "federal inmate"
+    ],
+    "tested_concepts": [
+      "habeas corpus available to challenge conditions of custody",
+      "administrative segregation as deprivation of residual liberty",
+      "concurrent jurisdiction of Superior Court and Federal Court",
+      "habeas corpus not limited to pre-trial detention"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
   }
 ]

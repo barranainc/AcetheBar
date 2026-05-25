@@ -32,22 +32,9 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.02"
     },
-    "pr_angle": {
-      "applicable": false,
-      "pr_issue_type": null
-    },
-    "exam_trigger_words": [
-      "offer to settle",
-      "r.49.02",
-      "in writing",
-      "served",
-      "effective"
-    ],
-    "tested_concepts": [
-      "offer to settle must be in writing — r.49.02",
-      "effective upon service",
-      "any party may make offer at any time"
-    ],
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["offer to settle", "r.49.02", "in writing", "served", "effective"],
+    "tested_concepts": ["offer to settle must be in writing — r.49.02", "effective upon service", "any party may make offer at any time"],
     "estimated_time_seconds": 75,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -87,22 +74,9 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.04"
     },
-    "pr_angle": {
-      "applicable": false,
-      "pr_issue_type": null
-    },
-    "exam_trigger_words": [
-      "offer to settle",
-      "expiry",
-      "r.49.04",
-      "no expiry date",
-      "acceptance"
-    ],
-    "tested_concepts": [
-      "offer without expiry date — open until commencement of hearing",
-      "r.49.04 — expiry of offers",
-      "timing of acceptance of offer to settle"
-    ],
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["offer to settle", "expiry", "r.49.04", "no expiry date", "acceptance"],
+    "tested_concepts": ["offer without expiry date — open until commencement of hearing", "r.49.04 — expiry of offers", "timing of acceptance of offer to settle"],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -142,22 +116,9 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.10(1)"
     },
-    "pr_angle": {
-      "applicable": false,
-      "pr_issue_type": null
-    },
-    "exam_trigger_words": [
-      "r.49.10",
-      "defendant's offer",
-      "fails to beat",
-      "partial indemnity",
-      "cost consequences"
-    ],
-    "tested_concepts": [
-      "r.49.10(1) — defendant's offer not beaten by plaintiff's recovery",
-      "plaintiff gets partial indemnity to date of offer",
-      "defendant gets partial indemnity from date of offer"
-    ],
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["r.49.10", "defendant's offer", "fails to beat", "partial indemnity", "cost consequences"],
+    "tested_concepts": ["r.49.10(1) — defendant's offer not beaten by plaintiff's recovery", "plaintiff gets partial indemnity to date of offer", "defendant gets partial indemnity from date of offer"],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -197,22 +158,9 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.10(2)"
     },
-    "pr_angle": {
-      "applicable": false,
-      "pr_issue_type": null
-    },
-    "exam_trigger_words": [
-      "r.49.10(2)",
-      "plaintiff's offer",
-      "substantial indemnity",
-      "beats offer",
-      "cost consequences"
-    ],
-    "tested_concepts": [
-      "r.49.10(2) — plaintiff beats their own offer",
-      "partial indemnity to date of offer then substantial indemnity",
-      "substantial indemnity as incentive to accept"
-    ],
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["r.49.10(2)", "plaintiff's offer", "substantial indemnity", "beats offer", "cost consequences"],
+    "tested_concepts": ["r.49.10(2) — plaintiff beats their own offer", "partial indemnity to date of offer then substantial indemnity", "substantial indemnity as incentive to accept"],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -252,22 +200,9 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.13"
     },
-    "pr_angle": {
-      "applicable": false,
-      "pr_issue_type": null
-    },
-    "exam_trigger_words": [
-      "multiple offers",
-      "r.49.13",
-      "court discretion",
-      "cost consequences",
-      "all offers"
-    ],
-    "tested_concepts": [
-      "r.49.13 — court discretion over multiple offers",
-      "court not restricted to single offer for cost consequences",
-      "r.49.13 as override of automatic r.49.10 consequences"
-    ],
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["multiple offers", "r.49.13", "court discretion", "cost consequences", "all offers"],
+    "tested_concepts": ["r.49.13 — court discretion over multiple offers", "court not restricted to single offer for cost consequences", "r.49.13 as override of automatic r.49.10 consequences"],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -300,29 +235,16 @@
     "why_C_wrong": "This IS the correct answer. Rule 49.04(1) permits withdrawal at any time before acceptance by written notice; the plaintiff's withdrawal on October 15 was effective and the October 17 acceptance has no legal effect.",
     "why_D_wrong": "There is no 30-day deemed acceptance rule. An offer may be withdrawn at any time before the offeree serves an acceptance; the 30-day period is not a concept found in r.49.04.",
     "source_reference": {
-      "lso_material": "2026 LSO Barrister Examination Materials",
+      "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
-      "chapter": "Offers to Settle",
+      "chapter": "Chapter 10 — Offers to Settle",
       "heading": "Withdrawal of an Offer Before Acceptance — r.49.04",
-      "page": "see blueprint",
+      "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.04(1)"
     },
-    "pr_angle": {
-      "applicable": false,
-      "pr_issue_type": null
-    },
-    "exam_trigger_words": [
-      "withdrawal of offer",
-      "r.49.04",
-      "before acceptance",
-      "written notice",
-      "irrevocable"
-    ],
-    "tested_concepts": [
-      "offer may be withdrawn at any time before acceptance — r.49.04(1)",
-      "withdrawal by written notice effective before acceptance",
-      "no minimum holding period"
-    ],
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["withdrawal of offer", "r.49.04", "before acceptance", "written notice", "irrevocable"],
+    "tested_concepts": ["offer may be withdrawn at any time before acceptance — r.49.04(1)", "withdrawal by written notice effective before acceptance", "no minimum holding period"],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -355,33 +277,356 @@
     "why_C_wrong": "Rule 49.10(1) does not apply to every rejected defendant's offer. The triggering condition is that the plaintiff's recovery does not exceed the offer. Substantial indemnity is not automatically imposed on the plaintiff simply because the defendant made an offer.",
     "why_D_wrong": "Where the plaintiff beats the defendant's offer at trial and succeeds, costs do not fall to zero. The successful plaintiff is entitled to ordinary costs on the costs-follow-the-event principle; no offer-to-settle cost consequence arises.",
     "source_reference": {
-      "lso_material": "2026 LSO Barrister Examination Materials",
+      "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
-      "chapter": "Offers to Settle",
+      "chapter": "Chapter 10 — Offers to Settle",
       "heading": "Cost Consequences — Offer Not Accepted; Plaintiff's Recovery Exceeds Defendant's Offer",
-      "page": "see blueprint",
+      "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.10(1)"
     },
-    "pr_angle": {
-      "applicable": false,
-      "pr_issue_type": null
-    },
-    "exam_trigger_words": [
-      "r.49.10(1)",
-      "no more favourable",
-      "beats defendant's offer",
-      "cost consequences",
-      "triggering condition"
-    ],
-    "tested_concepts": [
-      "r.49.10(1) — triggered only if plaintiff fails to beat defendant's offer",
-      "where plaintiff beats offer — no r.49.10(1) consequence",
-      "ordinary costs-follow-the-event where offer not triggered"
-    ],
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["r.49.10(1)", "no more favourable", "beats defendant's offer", "cost consequences", "triggering condition"],
+    "tested_concepts": ["r.49.10(1) — triggered only if plaintiff fails to beat defendant's offer", "where plaintiff beats offer — no r.49.10(1) consequence", "ordinary costs-follow-the-event where offer not triggered"],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "civ-10-ots-008",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "accepting_offer",
+    "subtopic_heading": "Accepting an Offer — Mechanics and Binding Effect — r.49.07",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The defendant serves a written offer to settle the action for $95,000. The plaintiff's counsel serves written acceptance of the offer within the time specified. The defendant then has a change of heart and argues that the acceptance does not bind it because the parties have not yet signed a formal settlement agreement.",
+    "call_of_question": "Under r.49.07 of the Rules of Civil Procedure, when does acceptance of an offer to settle become binding, and is a subsequent formal settlement agreement required?",
+    "options": {
+      "A": "Acceptance of an offer to settle does not create a binding agreement until the parties execute a formal written settlement agreement; without such a document, either party may resile.",
+      "B": "Under r.49.07, acceptance of an offer to settle is binding on the parties when the acceptance is served on the party who made the offer; no additional formal settlement agreement is needed to make the acceptance binding.",
+      "C": "Acceptance of an offer to settle is only binding if the accepting party files a consent to judgment with the court within 10 days of the acceptance.",
+      "D": "Acceptance of an offer to settle creates only an agreement to negotiate; the parties must then proceed to mediation before the settlement becomes binding."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.49.07(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), an acceptance of an offer to settle is binding on the accepting party from the time it is served on the party who made the offer. The acceptance constitutes a binding contract of settlement at the moment of service; no subsequent formal settlement agreement, consent to judgment, or mediation is required to make it enforceable. The defendant in the scenario cannot resile from the accepted offer. Where necessary, the plaintiff can move to enforce the settlement agreement or obtain a consent judgment on the terms of the accepted offer.",
+    "why_A_wrong": "A formal written settlement agreement is not required for an accepted offer to be binding. Rule 49.07 expressly provides that acceptance is binding upon service; the parties need not execute any further documentation.",
+    "why_B_wrong": "This IS the correct answer. Under r.49.07, acceptance is binding from the moment it is served on the offeror; no formal settlement agreement is needed.",
+    "why_C_wrong": "There is no requirement to file a consent to judgment within 10 days of acceptance. The acceptance itself, upon service, creates a binding obligation under r.49.07.",
+    "why_D_wrong": "Acceptance of an offer to settle creates an immediately binding settlement contract, not merely an agreement to negotiate. Mediation is not a step required by r.49.07 before the settlement becomes enforceable.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 10 — Offers to Settle",
+      "heading": "Accepting an Offer — Mechanics and Binding Effect — r.49.07",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.07(1)"
+    },
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["r.49.07", "acceptance binding", "served on offeror", "binding settlement", "no formal agreement needed"],
+    "tested_concepts": ["r.49.07 — acceptance binding upon service", "no formal settlement agreement required", "defendant cannot resile after binding acceptance"],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "civ-10-ots-009",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "offer_timing_costs",
+    "subtopic_heading": "Offer Timing — When Offer Must Be Made to Trigger r.49.10",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "During the course of a trial, after one day of evidence has been heard, the defendant serves an offer to settle for $60,000. At the conclusion of the three-day trial, the plaintiff is awarded $45,000 — less than the defendant's offer. The defendant seeks cost consequences under r.49.10(1) from the date of the offer. The plaintiff argues the offer was made after the trial had commenced and cannot attract the r.49.10 cost consequences.",
+    "call_of_question": "Under r.49.10(1) of the Rules of Civil Procedure, may an offer to settle made after trial has commenced trigger cost consequences if the plaintiff fails to beat it?",
+    "options": {
+      "A": "An offer to settle may only trigger r.49.10 cost consequences if it was made before the action was set down for trial; offers made closer to or during trial have no cost consequences.",
+      "B": "Under r.49.10, an offer to settle may be made at any time, including during trial, and may trigger cost consequences if the plaintiff fails to obtain a result more favourable than the offer; the rule does not prohibit offers made after trial has commenced.",
+      "C": "An offer made during trial is automatically inadmissible as evidence of settlement discussions and has no cost consequences under r.49.10.",
+      "D": "Offers made after trial has commenced are treated as counteroffers to the proceedings and automatically settle the action on the terms of the offer."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.49.02(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a party may make an offer to settle at any time during the proceeding. Rule 49.10 applies to any written offer to settle that was not accepted and that was made at any time in the proceedings. There is no restriction limiting r.49.10 cost consequences to offers made before trial commenced. An offer made during trial — even on day one of a three-day trial — may trigger r.49.10 consequences if the result at trial does not beat the offer. The court may consider the timing of the offer in exercising its overall costs discretion under r.49.13, but the offer is valid and capable of triggering cost consequences under r.49.10.",
+    "why_A_wrong": "There is no rule requiring offers to be made before the action is set down for trial to attract r.49.10 consequences. Rule 49.02(1) permits offers at any time, and r.49.10 applies accordingly.",
+    "why_B_wrong": "This IS the correct answer. Under r.49.02 and r.49.10, an offer made at any time — including during trial — may trigger cost consequences if the plaintiff fails to beat the offer.",
+    "why_C_wrong": "The rule against admission of settlement discussions (without prejudice privilege) concerns admissibility of settlement communications in evidence to prove liability — it does not prevent cost consequences for failing to accept a properly served offer to settle under r.49.",
+    "why_D_wrong": "An offer made during trial does not automatically settle the action. It is simply an offer that may be accepted or rejected; if rejected and the trial result does not beat the offer, cost consequences under r.49.10 follow.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 10 — Offers to Settle",
+      "heading": "Offer Timing — When Offer Must Be Made to Trigger r.49.10",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.02(1); r.49.10"
+    },
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["offer timing", "r.49.10", "during trial", "r.49.02", "at any time"],
+    "tested_concepts": ["r.49.02 — offer may be made at any time", "r.49.10 cost consequences not limited to pre-trial offers", "timing during trial is discretionary factor under r.49.13"],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "civ-10-ots-010",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "counteroffer",
+    "subtopic_heading": "Counteroffer — Effect on Original Offer",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The defendant serves a written offer to settle for $50,000. Rather than accepting, the plaintiff serves a written offer to settle for $75,000. The plaintiff's offer is rejected. The plaintiff then seeks to accept the defendant's original $50,000 offer. The defendant argues that the plaintiff's $75,000 offer constituted a counteroffer that terminated the defendant's original offer.",
+    "call_of_question": "Under r.49 of the Rules of Civil Procedure, does the plaintiff's counter-offer terminate the defendant's original offer to settle?",
+    "options": {
+      "A": "Under the Rules of Civil Procedure, a counteroffer does not affect an existing offer; both offers remain open simultaneously until they expire under r.49.04.",
+      "B": "Under the general law of contract as applied to offers to settle under r.49, making a counteroffer does not automatically terminate the original offer because r.49 creates a distinct regime for settlement offers; a party may still accept the original offer unless it has been withdrawn by the offeror.",
+      "C": "Under general contract law principles, making a counteroffer constitutes a rejection of the original offer, which terminates the original offer; the plaintiff cannot accept the defendant's $50,000 offer after making a counteroffer.",
+      "D": "A counteroffer under r.49 must be in the same amount as the original offer to be effective; the plaintiff's $75,000 offer does not qualify as a counteroffer."
+    },
+    "correct_answer": "B",
+    "explanation": "Rule 49 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194) creates a specific statutory regime for offers to settle that modifies ordinary contract law principles. Unlike the common law rule that a counteroffer terminates the original offer, under r.49 an offer to settle remains open until it is: (1) withdrawn by the offeror under r.49.04(1); or (2) the time for acceptance expires (i.e., commencement of trial if no expiry date is specified, or the stated expiry date). The making of a competing or counter-offer under r.49 does not automatically terminate the original offer in the same way as at common law. The defendant's $50,000 offer therefore remained open — unless the defendant withdrew it — and the plaintiff's $75,000 counter-offer did not terminate it. The plaintiff may still accept the $50,000 offer provided it has not been withdrawn or expired.",
+    "why_A_wrong": "The statement that both offers remain open simultaneously is essentially correct in the r.49 context — the original offer is not terminated by the counter-offer unless withdrawn — but the explanation in option B is more precise about the mechanism and is the best answer.",
+    "why_B_wrong": "This IS the correct answer. Under r.49, a counter-offer does not automatically terminate the original offer; the original offer remains open unless withdrawn by the offeror under r.49.04 or expired.",
+    "why_C_wrong": "While this accurately states the common law principle, r.49 modifies it. Under the Rules of Civil Procedure regime for settlement offers, a counter-offer does not automatically terminate the original offer as it would at common law.",
+    "why_D_wrong": "There is no requirement under r.49 that a counter-offer be in the same amount as the original offer. Any written offer to settle served on the other party pursuant to r.49.02 is a valid offer under the rule.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 10 — Offers to Settle",
+      "heading": "Counteroffer — Effect on Original Offer",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49; r.49.04"
+    },
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["counteroffer", "r.49", "original offer", "not terminated", "r.49.04 withdrawal"],
+    "tested_concepts": ["r.49 regime — counter-offer does not terminate original offer", "original offer remains open until withdrawn by offeror under r.49.04", "distinction from common law counteroffer rule"],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "civ-10-discont-001",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "discontinuance",
+    "subtopic_heading": "Discontinuance — Right to Discontinue and Costs — r.23.01",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The plaintiff in a contract action commenced the action two years ago. After examinations for discovery, the plaintiff decides it no longer wishes to pursue the claim. The statement of defence was delivered eight months ago. The plaintiff asks whether it can simply discontinue the action without a court order.",
+    "call_of_question": "Under r.23.01 of the Rules of Civil Procedure, when may a plaintiff discontinue an action without leave of the court, and what are the automatic cost consequences?",
+    "options": {
+      "A": "A plaintiff may discontinue an action at any time without leave of the court or any cost consequences; discontinuance is a unilateral right that does not depend on the stage of proceedings.",
+      "B": "Under r.23.01, a plaintiff may discontinue an action without leave of the court at any time before the close of pleadings; after pleadings are closed, leave is required. Where an action is discontinued without leave, the defendant is entitled to costs of the action.",
+      "C": "A plaintiff may discontinue an action only with the consent of all parties; if the defendant does not consent, the plaintiff must proceed to trial.",
+      "D": "A plaintiff may discontinue an action at any time, but only by obtaining a court order with notice to all parties; no unilateral discontinuance is permitted."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.23.01 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a plaintiff may discontinue an action against a defendant without leave of the court at any time before the close of pleadings by serving a notice of discontinuance on all parties and filing it with proof of service. After the close of pleadings — as is the case here, since the statement of defence was delivered eight months ago — leave of the court is required to discontinue. On a motion for leave to discontinue, the court considers terms and conditions that are just, typically including an award of costs to the defendant. Upon discontinuance without leave (before close of pleadings), the defendant is automatically entitled to costs of the action up to the date of the notice of discontinuance.",
+    "why_A_wrong": "A plaintiff does not have an unconditional right to discontinue at any time without consequences. After the close of pleadings, leave is required. Discontinuance also carries automatic cost consequences — the defendant is entitled to costs.",
+    "why_B_wrong": "This IS the correct answer. Under r.23.01, discontinuance without leave is available before close of pleadings; after close of pleadings, leave is required; defendant is entitled to costs on discontinuance.",
+    "why_C_wrong": "Consent of all parties is not required for discontinuance. The plaintiff may discontinue as of right before close of pleadings, or with leave of the court thereafter, without the defendant's consent.",
+    "why_D_wrong": "Before the close of pleadings, discontinuance is available as of right without any court order or notice to the court beyond filing the notice. A court order is only required after the close of pleadings.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 10 — Offers to Settle",
+      "heading": "Discontinuance — Right to Discontinue and Costs — r.23.01",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.23.01"
+    },
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["discontinuance", "r.23.01", "close of pleadings", "leave required", "costs on discontinuance"],
+    "tested_concepts": ["r.23.01 — discontinuance without leave before close of pleadings", "leave required after close of pleadings", "defendant entitled to costs on discontinuance"],
+    "estimated_time_seconds": 80,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "civ-10-discont-002",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "discontinuance_limitation",
+    "subtopic_heading": "Discontinuance — Effect on Limitation Periods",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The plaintiff discontinues an action against the defendant. The plaintiff then discovers that the same claim can be re-framed more effectively. The plaintiff's counsel asks whether the plaintiff can recommence an action on the same claim after discontinuance, and whether the limitation period has been tolled during the period the original action was pending.",
+    "call_of_question": "Under r.23.05 of the Rules of Civil Procedure, what is the effect of discontinuance on a plaintiff's ability to recommence an action on the same claim?",
+    "options": {
+      "A": "Discontinuance permanently bars any subsequent action on the same claim; it operates as a res judicata.",
+      "B": "Under r.23.05, a plaintiff who has discontinued an action may recommence it, but only with leave of the court if more than one action has previously been discontinued against the same defendant on the same claim.",
+      "C": "Discontinuance has no effect on limitation periods; the limitation clock stopped when the original action was commenced and recommencement is available at any time.",
+      "D": "Discontinuance does not operate as a bar to subsequent proceedings on the same claim, but the limitation period continues to run during the period the action is pending and is not tolled; a plaintiff who discontinues and recommences must ensure the recommenced action is within the limitation period."
+    },
+    "correct_answer": "D",
+    "explanation": "Under r.23.05 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194) and the Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, discontinuance does not operate as a permanent bar to recommencing an action on the same claim — it is not res judicata. However, under the Limitations Act, 2002, s.23, the commencement of a proceeding does not indefinitely suspend the limitation period if the proceeding is subsequently discontinued. The limitation period is generally not tolled or suspended during the period an action is pending; it continues to run. If the plaintiff discontinues and the limitation period has expired before recommencement, the new action will be time-barred. The practical risk of discontinuance is that if significant time has passed, the limitation period may have expired.",
+    "why_A_wrong": "Discontinuance does not operate as res judicata. There has been no judgment on the merits; res judicata requires a final adjudication on the merits. The plaintiff may recommence, subject to limitation periods.",
+    "why_B_wrong": "While r.23.05 does address recommencement after multiple discontinuances (requiring leave after more than one discontinuance), the broader and more important point is the limitation period question, which is the critical concern in the scenario. Option D is the most accurate and complete answer.",
+    "why_C_wrong": "The limitation period is not tolled during the pendency of a discontinued action. The plaintiff cannot assume the limitation clock stopped when the original action was commenced; if the period has run before recommencement, the claim is time-barred.",
+    "why_D_wrong": "This IS the correct answer. Discontinuance does not bar recommencement, but limitation periods are not tolled; the plaintiff must ensure recommencement is within the limitation period.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 10 — Offers to Settle",
+      "heading": "Discontinuance — Effect on Limitation Periods",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.23.05; Limitations Act, 2002, S.O. 2002, c. 24, Sched. B"
+    },
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["discontinuance limitation period", "r.23.05", "not tolled", "recommence action", "res judicata"],
+    "tested_concepts": ["discontinuance not res judicata — recommencement permitted", "limitation period not tolled during discontinued action", "recommencement must be within limitation period"],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "civ-10-minors-001",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "minor_settlement",
+    "subtopic_heading": "Settlement Approval for Minors and Mentally Incapable Persons — r.7.08",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The plaintiff is a 14-year-old injured in a motor vehicle accident. The parties have negotiated a settlement of $125,000. The plaintiff's litigation guardian — the plaintiff's parent — has agreed to the settlement on the plaintiff's behalf. The defendant's counsel asks whether the settlement is enforceable without any further steps.",
+    "call_of_question": "Under r.7.08 of the Rules of Civil Procedure, is a settlement of a claim by a minor enforceable without court approval?",
+    "options": {
+      "A": "Yes — a settlement agreed to by a litigation guardian on behalf of a minor is binding and enforceable without any further steps; the litigation guardian's consent is sufficient.",
+      "B": "No — under r.7.08, no settlement of a claim by or against a person under disability (including a minor) is binding unless it is approved by a judge; both parties must bring a motion for approval.",
+      "C": "Court approval is required only if the settlement amount exceeds $100,000; settlements below that threshold are binding without approval.",
+      "D": "Court approval is required only if the litigation guardian requests it; if the litigation guardian is satisfied with the settlement, no approval is needed."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.7.08 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), no agreement or settlement of a claim by or against a person under disability — including a minor or a mentally incapable person — is binding on that person unless it is approved by a judge. This rule protects vulnerable parties who cannot protect their own interests. The motion for approval is typically brought on notice to the Children's Lawyer (for minors) or the Public Guardian and Trustee (for mentally incapable persons), who may review the settlement and make submissions. The judge considers whether the settlement is in the best interests of the person under disability before approving it. The litigation guardian's agreement alone is not sufficient to make the settlement binding.",
+    "why_A_wrong": "A litigation guardian's consent alone is insufficient to make a settlement binding on a minor. Court approval under r.7.08 is a mandatory requirement that cannot be waived by the litigation guardian.",
+    "why_B_wrong": "This IS the correct answer. Under r.7.08, no settlement on behalf of a minor or person under disability is binding without judicial approval; the motion must be brought regardless of the amount.",
+    "why_C_wrong": "There is no $100,000 threshold below which court approval is not required. Rule 7.08 requires court approval for all settlements involving persons under disability, regardless of the amount.",
+    "why_D_wrong": "Court approval is mandatory under r.7.08 regardless of whether the litigation guardian is satisfied with the settlement. The rule is designed to protect the person under disability independently of the litigation guardian's views.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 10 — Offers to Settle",
+      "heading": "Settlement Approval for Minors and Mentally Incapable Persons — r.7.08",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.7.08"
+    },
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["r.7.08", "minor settlement", "court approval", "litigation guardian", "person under disability"],
+    "tested_concepts": ["r.7.08 — mandatory court approval for minor/incapable person settlement", "litigation guardian's consent alone insufficient", "Children's Lawyer notified for minors"],
+    "estimated_time_seconds": 80,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "civ-10-accept-001",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "effect_of_acceptance",
+    "subtopic_heading": "Effect of Acceptance — Staying Proceedings and Consent Judgment",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The plaintiff accepts the defendant's offer to settle for $80,000 by serving written acceptance. The plaintiff then files a notice of acceptance with the court and asks the registrar to enter a judgment for $80,000 against the defendant. The defendant objects, arguing the plaintiff cannot enter judgment unilaterally after acceptance.",
+    "call_of_question": "Under r.49.09 of the Rules of Civil Procedure, what are the consequences of an accepted offer to settle for the underlying action, and how is the settlement enforced?",
+    "options": {
+      "A": "Acceptance of an offer to settle automatically converts the accepted offer into a judgment of the court, which may be enforced immediately without further steps.",
+      "B": "Under r.49.09, where an offer to settle is accepted, the court may stay the action or make such other orders as are just; if the defendant fails to comply with the terms of the accepted offer, the plaintiff may move to enforce the settlement agreement, obtain a consent judgment, or have the action dismissed.",
+      "C": "Acceptance of an offer to settle operates as a final dismissal of the action; the plaintiff cannot take any further steps in the action and must commence a new action if the defendant fails to pay.",
+      "D": "After acceptance, the plaintiff may immediately enter a judgment by registrar for the amount of the offer without any further motion or consent from the defendant."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.49.09 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), upon acceptance of an offer to settle, the court may stay the proceeding in whole or in part on such terms as are just, or make such other order as is just. The accepted offer creates a binding contractual settlement, but it does not automatically convert into a judgment. If the defendant fails to comply with the terms of the settlement (e.g., fails to pay the agreed amount), the plaintiff may move to enforce the settlement by seeking a consent judgment, bringing a motion on the settlement agreement, or having the action dismissed on the agreed terms. The plaintiff cannot unilaterally enter a judgment without a court order or consent.",
+    "why_A_wrong": "An accepted offer does not automatically become a court judgment. The settlement is a binding contract, but enforcement requires further steps if the defendant fails to comply — typically a motion for a consent judgment.",
+    "why_B_wrong": "This IS the correct answer. Under r.49.09, acceptance creates a binding settlement; the court may stay proceedings or make just orders; if the defendant defaults the plaintiff may move to enforce.",
+    "why_C_wrong": "Acceptance does not operate as an automatic final dismissal of the action. The action continues in a stayed or suspended state until the settlement is performed; if the defendant fails to comply, the plaintiff has remedies within the action.",
+    "why_D_wrong": "The plaintiff cannot enter a registrar's judgment unilaterally based solely on acceptance of an offer to settle. A court order or consent is required to convert the accepted offer into an enforceable judgment.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 10 — Offers to Settle",
+      "heading": "Effect of Acceptance — Staying Proceedings and Consent Judgment",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.09"
+    },
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["r.49.09", "stay of proceedings", "accepted offer", "enforce settlement", "consent judgment"],
+    "tested_concepts": ["r.49.09 — court may stay action after acceptance", "accepted offer is binding contract not automatic judgment", "if defendant defaults — motion to enforce or consent judgment"],
+    "estimated_time_seconds": 80,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "civ-10-accept-002",
+    "subject": "civil_litigation",
+    "chapter_number": 10,
+    "chapter_title": "Offers to Settle",
+    "topic_id": "offers_to_settle",
+    "topic_heading": "Offers to Settle",
+    "subtopic_id": "offer_as_favourable",
+    "subtopic_heading": "As Favourable As — Meaning Under r.49.10",
+    "difficulty": "exam_trap",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The plaintiff served an offer to settle for $100,000 inclusive of costs. At trial, the plaintiff is awarded $100,000 in damages plus $18,000 in costs for a total judgment package of $118,000. The defendant argues that because the judgment is $100,000 — the same amount as the offer — it is 'as favourable as' the offer, and the defendant should not have to pay substantial indemnity costs after the offer date.",
+    "call_of_question": "Under r.49.10(2), when the plaintiff's offer is for $100,000 'inclusive of costs' and the plaintiff recovers $100,000 in damages plus costs, is the judgment 'as favourable as' the offer?",
+    "options": {
+      "A": "Yes — the damage award of $100,000 is exactly equal to the offer amount; the r.49.10(2) trigger is met only on damages, and the offer is considered 'as favourable as' the judgment.",
+      "B": "No — where the plaintiff's offer is inclusive of costs, the comparison for r.49.10(2) purposes must include both the damages and costs awarded; a judgment of $100,000 in damages plus separately awarded costs of $18,000 represents a total recovery exceeding the $100,000 inclusive-of-costs offer, so the plaintiff has beaten the offer and r.49.10(2) applies.",
+      "C": "An offer expressed 'inclusive of costs' cannot attract r.49.10 cost consequences at all; only offers that do not reference costs trigger r.49.10.",
+      "D": "The comparison under r.49.10(2) excludes costs entirely; only the damages component of the judgment is compared to the offer."
+    },
+    "correct_answer": "B",
+    "explanation": "Under r.49.10(2) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the relevant comparison is between the terms of the offer and the outcome achieved at trial, taken as a whole. Where the plaintiff's offer is expressed 'inclusive of costs,' the comparison must take into account both the damages and costs components. A judgment of $100,000 in damages plus $18,000 in separately awarded costs represents a total recovery of $118,000. This exceeds the plaintiff's $100,000 inclusive-of-costs offer, meaning the plaintiff has beaten its own offer. Rule 49.10(2) therefore applies, entitling the plaintiff to partial indemnity costs to the date of the offer and substantial indemnity costs from the date of the offer. The defendant cannot avoid the r.49.10(2) consequences by comparing only the damages award to the inclusive-of-costs offer.",
+    "why_A_wrong": "The comparison under r.49.10(2) where the offer is expressed inclusive of costs must include both the damages and costs awarded at trial. Comparing only the damages award of $100,000 to an inclusive-of-costs offer of $100,000 ignores the separately awarded costs and understates the plaintiff's recovery.",
+    "why_B_wrong": "This IS the correct answer. Where the offer is inclusive of costs, the total judgment (damages plus costs) is compared to the offer; $118,000 > $100,000 inclusive of costs, so the plaintiff has beaten the offer and r.49.10(2) applies.",
+    "why_C_wrong": "Offers inclusive of costs are valid under r.49 and can attract cost consequences under r.49.10. The inclusive-of-costs formulation affects how the comparison is made but does not exclude the offer from the r.49.10 regime.",
+    "why_D_wrong": "The comparison under r.49.10 cannot exclude costs where the offer expressly states it is inclusive of costs. The whole point of an inclusive-of-costs offer is that costs are folded into the settlement amount; the comparison must therefore be to the total recovery.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Civil Litigation",
+      "chapter": "Chapter 10 — Offers to Settle",
+      "heading": "As Favourable As — Meaning Under r.49.10",
+      "page": "N/A",
+      "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.10(2)"
+    },
+    "pr_angle": {"applicable": false},
+    "exam_trigger_words": ["inclusive of costs", "r.49.10(2)", "as favourable as", "total recovery comparison", "damages plus costs"],
+    "tested_concepts": ["inclusive of costs offer — total recovery compared", "r.49.10(2) — damages plus separately awarded costs vs inclusive offer", "plaintiff beats offer where total recovery exceeds inclusive amount"],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
   }
 ]

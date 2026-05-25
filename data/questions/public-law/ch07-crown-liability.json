@@ -438,5 +438,280 @@
     "similarity_risk": "low",
     "created_at": "2026-05-24",
     "updated_at": "2026-05-24"
+  },
+  {
+    "id": "pub-07-charter-dam-001",
+    "subject": "public_law",
+    "chapter_number": 7,
+    "chapter_title": "Crown Liability",
+    "topic_id": "crown_charter_damages",
+    "topic_heading": "Crown Liability — Charter Damages Under Section 24(1)",
+    "subtopic_id": "ward_framework",
+    "subtopic_heading": "Charter Damages — Ward Framework",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A person is wrongfully strip-searched by provincial police officers who act without reasonable grounds and contrary to established police procedure. The search violates his s. 8 Charter right against unreasonable search. He sues the Crown for Charter damages under s. 24(1). At trial, the Crown argues no Charter damages should be awarded because damages are a remedy of last resort and other remedies (a criminal acquittal) adequately vindicate the breach.",
+    "call_of_question": "Under the Ward framework for Charter damages (Ward v Vancouver (City), 2010 SCC 27), when will a court award damages under s. 24(1) for a Charter breach, and how does the court address the Crown's argument that other remedies adequately vindicate the breach?",
+    "options": {
+      "A": "Charter damages under s. 24(1) are available only when criminal charges resulted from the breach; a civil claimant without criminal charges cannot seek Charter damages.",
+      "B": "Under Ward v Vancouver (City), 2010 SCC 27, Charter damages are awarded under s. 24(1) where: (1) a Charter right was breached; (2) damages would serve one or more of the following functions: compensation, vindication of the right, or deterrence of future breaches; and (3) no countervailing considerations (such as adequate alternative remedies or good governance concerns) negate the award. A criminal acquittal may serve compensation and vindication functions, but the deterrence function — discouraging systemic violations — is a separate and independent ground that can still support a damages award even where other remedies exist.",
+      "C": "Under Ward, Charter damages are always awarded once a Charter breach is proven; courts have no discretion to deny damages on grounds of countervailing considerations.",
+      "D": "Charter damages under s. 24(1) are a remedy of absolute last resort; they are only available if no other remedy of any kind — including declaratory relief — was available."
+    },
+    "correct_answer": "B",
+    "explanation": "In Ward v Vancouver (City), 2010 SCC 27, the Supreme Court established the framework for Charter damages under s. 24(1). The court must determine: (1) Was there a Charter breach? (2) Would damages serve a compensatory, vindicatory, or deterrent function? (3) Are there countervailing considerations that negate the award, such as: adequate alternative remedies (e.g., civil tort law damages, exclusion of evidence) that fully address the breach, or good governance concerns (e.g., where damages would unduly burden core government functions)? The Crown's argument that a criminal acquittal adequately vindicates the breach is potentially relevant to the compensatory and vindication functions, but the deterrence function — discouraging systemic violations and demonstrating that the state takes Charter compliance seriously — operates independently. Where police conduct reflects a systemic or deliberate disregard of Charter rights, deterrence supports a damages award even alongside other remedies.",
+    "why_A_wrong": "Incorrect. Charter damages under s. 24(1) are available in civil proceedings independent of whether criminal charges were laid. The remedy is available wherever a Charter breach is established and the Ward framework is satisfied.",
+    "why_B_wrong": "This IS the correct answer. Under Ward v Vancouver (City), 2010 SCC 27, Charter damages are awarded under s. 24(1) where: (1) a Charter right was breached; (2) damages would serve one or more of the following functions: compensation, vindication of the right, or deterrence of future breaches; and (3) no countervailing considerations (such as adequate alternative remedies or good governance concerns) negate the award. A criminal acquittal may serve compensation and vindication functions, but the deterrence function — discouraging systemic violations — is a separate and independent ground that can still support a damages award even where other remedies exist.",
+    "why_C_wrong": "Incorrect. Charter damages are not automatic upon proof of a Charter breach. Ward expressly recognizes countervailing considerations — including adequate alternative remedies and good governance concerns — that may negate the award. Courts have discretion.",
+    "why_D_wrong": "Incorrect. Charter damages are not reserved only for cases where literally no other remedy of any kind exists. The Ward framework requires that damages serve the compensatory, vindicatory, or deterrent function and that countervailing considerations do not negate the award; declaratory relief alone may not fully serve these functions where deterrence of future violations is at stake.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 7 — Crown Liability",
+      "heading": "Charter Damages — Ward Framework",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, s. 24(1); Ward v Vancouver (City), 2010 SCC 27"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Charter damages",
+      "s. 24(1)",
+      "Ward",
+      "compensation vindication deterrence",
+      "countervailing considerations"
+    ],
+    "tested_concepts": [
+      "Ward three-part Charter damages framework",
+      "three functions of Charter damages",
+      "countervailing considerations — adequate alternative remedy"
+    ],
+    "estimated_time_seconds": 120,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-07-charter-dam-002",
+    "subject": "public_law",
+    "chapter_number": 7,
+    "chapter_title": "Crown Liability",
+    "topic_id": "crown_charter_damages",
+    "topic_heading": "Crown Liability — Police Misconduct and Charter Damages",
+    "subtopic_id": "police_charter_damages",
+    "subtopic_heading": "Charter Damages for Police Excessive Force — s. 7 and s. 12",
+    "difficulty": "easy",
+    "question_type": "single_best_answer",
+    "fact_pattern": "During an arrest, provincial police officers use excessive force causing serious physical injury to a suspect who poses no threat. A court later finds the force used violated the suspect's s. 7 (life, liberty, and security) and potentially s. 12 (cruel and unusual treatment) rights under the Charter. The suspect seeks Charter damages from the provincial Crown under s. 24(1). The Crown argues the officers were acting in good faith.",
+    "call_of_question": "Under the Ward framework, does the Crown's good faith argument negate a s. 24(1) Charter damages award for excessive force by police officers?",
+    "options": {
+      "A": "Good faith by individual officers is a complete defence to Charter damages; no award can be made if the officers genuinely believed they were acting lawfully.",
+      "B": "Under Ward v Vancouver (City), 2010 SCC 27, good faith is a relevant factor in the Charter damages analysis under the countervailing considerations branch, but it is not a complete defence. Good faith may reduce the quantum of damages but does not automatically eliminate the award, particularly where the breach is serious, the plaintiff suffered significant physical harm, and the deterrence function supports sending a message that excessive force is unacceptable regardless of the officer's subjective belief. The Crown remains vicariously liable for the Charter-infringing acts of its officers.",
+      "C": "Good faith is irrelevant to Charter damages; once a Charter breach by the state is proven, damages must be awarded at the maximum rate regardless of any mitigation factors.",
+      "D": "The Crown is immune from Charter damages claims arising from police use of force; the Crown Liability and Proceedings Act does not permit Charter damages in such circumstances."
+    },
+    "correct_answer": "B",
+    "explanation": "Under the Ward framework, good faith by officers is addressed under the countervailing considerations branch — the third step of the analysis. Good faith may be a relevant factor going to the quantum of damages and to whether an award is necessary for deterrence, but it is not a complete defence. The Ward Court noted that where a breach is serious, causes significant harm, and reflects conduct that requires deterrence (such as excessive force), a damages award may be appropriate even where officers acted in good faith. The Crown cannot use good faith as a blanket shield against all Charter damages; this would undermine the vindicatory and deterrent functions of s. 24(1). The Crown is vicariously liable under the Crown Liability and Proceedings Act and provincial equivalent legislation for the acts of its officers committed in the course of their duties.",
+    "why_A_wrong": "Incorrect. Good faith is not a complete defence to Charter damages under Ward. It is a factor in the countervailing considerations analysis, but it does not automatically foreclose all s. 24(1) liability, particularly for serious breaches causing real harm.",
+    "why_B_wrong": "This IS the correct answer. Under Ward v Vancouver (City), 2010 SCC 27, good faith is a relevant factor in the Charter damages analysis under the countervailing considerations branch, but it is not a complete defence. Good faith may reduce the quantum of damages but does not automatically eliminate the award, particularly where the breach is serious, the plaintiff suffered significant physical harm, and the deterrence function supports sending a message that excessive force is unacceptable regardless of the officer's subjective belief. The Crown remains vicariously liable for the Charter-infringing acts of its officers.",
+    "why_C_wrong": "Incorrect. Charter damages are not mandatory at a maximum rate once a breach is proven. Ward confirmed that damages remain discretionary and are calibrated to serve the compensatory, vindicatory, and deterrent functions; countervailing considerations (including good faith and the nature of the breach) affect the quantum.",
+    "why_D_wrong": "Incorrect. The Crown is not immune from Charter damages arising from police use of force. The Crown can be held liable for the Charter-infringing acts of its officers under s. 24(1) and applicable Crown liability legislation. No general immunity applies in this context.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 7 — Crown Liability",
+      "heading": "Charter Damages for Police Excessive Force — s. 7 and s. 12",
+      "page": "N/A",
+      "rule_or_statute_reference": "Canadian Charter of Rights and Freedoms, ss. 7, 12, 24(1); Ward v Vancouver (City), 2010 SCC 27; Crown Liability and Proceedings Act, R.S.C. 1985, c. C-50"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "good faith",
+      "police excessive force",
+      "Charter damages",
+      "Ward",
+      "countervailing considerations"
+    ],
+    "tested_concepts": [
+      "good faith as non-complete defence to Charter damages",
+      "countervailing considerations branch of Ward",
+      "Crown vicarious liability for police Charter breaches"
+    ],
+    "estimated_time_seconds": 90,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-07-misfeas-001",
+    "subject": "public_law",
+    "chapter_number": 7,
+    "chapter_title": "Crown Liability",
+    "topic_id": "misfeasance_public_office",
+    "topic_heading": "Crown Liability — Misfeasance in Public Office",
+    "subtopic_id": "misfeasance",
+    "subtopic_heading": "Misfeasance in Public Office — Odhavji Estate Test",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "Police officers at the scene of a fatal shooting fail to cooperate with the Special Investigations Unit investigation as required by Ontario law. As a result, the SIU investigation is hampered, no charges are laid, and the family of the deceased cannot determine what happened. The family sues the Chief of Police and the provincial Crown, alleging misfeasance in public office. The Chief of Police argues misfeasance requires an intentional act directed specifically at the plaintiffs; mere non-cooperation is insufficient.",
+    "call_of_question": "Under the misfeasance in public office tort as described in Odhavji Estate v Woodhouse, 2003 SCC 69, what must a plaintiff establish?",
+    "options": {
+      "A": "Misfeasance in public office requires only negligence by a public official; a plaintiff need not prove intent to harm.",
+      "B": "Under Odhavji Estate v Woodhouse, 2003 SCC 69, misfeasance in public office requires proof of two elements: (1) deliberate unlawful conduct in the exercise of public functions (either intentional illegal acts or exercise of public power with knowledge that the conduct is unlawful); and (2) the public official must have been aware that their conduct was unlawful and likely to harm the plaintiff. Deliberate non-compliance with a statutory obligation (such as cooperation with an SIU investigation) combined with knowledge that the failure would harm the family suffices; the act need not be specifically directed at the plaintiffs as individuals.",
+      "C": "Misfeasance in public office is available only against Crown corporations; individual government employees and police officers are personally immune from this tort.",
+      "D": "Misfeasance in public office requires proof that the public official personally profited from their unlawful conduct; absence of personal gain is a complete defence."
+    },
+    "correct_answer": "B",
+    "explanation": "In Odhavji Estate v Woodhouse, 2003 SCC 69, the Supreme Court confirmed the elements of misfeasance in public office in the context of police officers who failed to comply with their statutory obligation to cooperate with the SIU. The Court held the tort requires: (1) deliberate unlawful conduct in the exercise of public functions — this includes either an intentional illegal act (targeted malice) OR the exercise of public power with knowledge that the conduct is unlawful and will harm the plaintiff (unlawful conduct with advertent harm); and (2) awareness that the unlawful conduct was likely to harm the plaintiff. The tortfeasor need not have specifically targeted the plaintiff as an individual; it is sufficient that the official knew their deliberate failure to perform a statutory duty would likely cause harm to the plaintiff class (here, the family of the deceased). The Chief's narrower formulation is incorrect.",
+    "why_A_wrong": "Incorrect. Misfeasance in public office requires more than mere negligence. It is an intentional tort requiring deliberate unlawful conduct in the exercise of public functions combined with awareness that the conduct would harm the plaintiff. Simple negligence is addressed by other tort principles.",
+    "why_B_wrong": "This IS the correct answer. Under Odhavji Estate v Woodhouse, 2003 SCC 69, misfeasance in public office requires proof of two elements: (1) deliberate unlawful conduct in the exercise of public functions (either intentional illegal acts or exercise of public power with knowledge that the conduct is unlawful); and (2) the public official must have been aware that their conduct was unlawful and likely to harm the plaintiff. Deliberate non-compliance with a statutory obligation (such as cooperation with an SIU investigation) combined with knowledge that the failure would harm the family suffices; the act need not be specifically directed at the plaintiffs as individuals.",
+    "why_C_wrong": "Incorrect. Misfeasance in public office can be committed by individual public officials, including police officers. The tort is not limited to Crown corporations, and there is no general personal immunity for government employees in this context.",
+    "why_D_wrong": "Incorrect. Misfeasance in public office does not require personal profit by the official. The tort focuses on deliberate unlawful exercise of public power with knowledge of harm; the official's financial benefit is irrelevant to the elements of the tort.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 7 — Crown Liability",
+      "heading": "Misfeasance in Public Office — Odhavji Estate Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Odhavji Estate v Woodhouse, 2003 SCC 69"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "misfeasance in public office",
+      "Odhavji",
+      "deliberate unlawful conduct",
+      "public functions",
+      "awareness of harm"
+    ],
+    "tested_concepts": [
+      "Odhavji two-element misfeasance test",
+      "deliberate unlawful conduct vs. mere negligence",
+      "targeted harm not required — advertent harm to class sufficient"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-07-neg-stat-001",
+    "subject": "public_law",
+    "chapter_number": 7,
+    "chapter_title": "Crown Liability",
+    "topic_id": "crown_negligence",
+    "topic_heading": "Crown Liability — Negligence for Statutory Duties",
+    "subtopic_id": "anns_cooper",
+    "subtopic_heading": "Negligence Liability for Statutory Duties — Anns/Cooper Test",
+    "difficulty": "medium",
+    "question_type": "single_best_answer",
+    "fact_pattern": "A provincial regulatory authority is responsible for inspecting nursing homes for safety compliance under provincial legislation. The authority negligently fails to inspect a nursing home that was known to have recurring safety problems. A nursing home resident suffers serious injuries when a safety hazard — identified in a complaint filed with the authority two months earlier — causes an accident. The resident's family sues the provincial Crown in negligence.",
+    "call_of_question": "Under the Anns/Cooper framework for Crown negligence liability, what must be established to find a duty of care, and how does the policy/operational distinction affect the analysis?",
+    "options": {
+      "A": "Government regulatory authorities are completely immune from negligence liability for failure to exercise their inspection powers; the Crown's statutory discretion to inspect is never justiciable.",
+      "B": "Under the Anns/Cooper framework (Cooper v Hobart, 2001 SCC 79; Anns v Merton LBC [1978] AC 728), establishing a duty of care requires: (1) a prima facie duty of care based on reasonable foreseeability and proximity (Stage 1); and (2) no policy reasons to negate the duty (Stage 2). The policy/operational distinction is critical: where the authority exercised a core policy choice (e.g., how to allocate inspection resources), the Crown may be immune; but where the authority was engaged in operational decisions (implementing inspection procedures for known hazards), negligence liability may arise. A failure to act on a specific complaint about an identified hazard is more operational than policy and is more likely to ground a duty of care.",
+      "C": "Crown negligence liability for statutory inspection functions arises automatically where a complaint was filed and not acted upon within 30 days; no further proximity or policy analysis is required.",
+      "D": "Under Anns/Cooper, the Crown is only liable if it exercised its statutory inspection power and did so negligently; a complete failure to exercise the power (non-feasance) can never ground negligence liability against the Crown."
+    },
+    "correct_answer": "B",
+    "explanation": "The Anns/Cooper framework (Cooper v Hobart, 2001 SCC 79) applies to Crown negligence liability for statutory functions. Stage 1 asks whether there is a prima facie duty of care based on: (a) reasonable foreseeability that carelessness would harm persons in the plaintiff's position; and (b) sufficient proximity between the government actor and the plaintiff. Stage 2 asks whether there are policy reasons to negate the duty, including whether imposing liability would conflict with other statutory obligations or impose indeterminate liability. The policy/operational distinction remains important: core policy choices (how to allocate scarce inspection resources, which sectors to prioritize) attract immunity because they involve value judgments beyond judicial supervision. However, operational decisions (how to implement a policy once made, how to respond to a specific identified hazard) are fully justiciable. Here, the authority's failure to act on a specific complaint about an identified hazard is likely operational, bringing it within the zone where a duty of care can exist.",
+    "why_A_wrong": "Incorrect. Government regulatory authorities are not completely immune from negligence liability. The Anns/Cooper framework determines when a duty of care exists and distinguishes between immune policy decisions and actionable operational negligence.",
+    "why_B_wrong": "This IS the correct answer. Under the Anns/Cooper framework (Cooper v Hobart, 2001 SCC 79; Anns v Merton LBC [1978] AC 728), establishing a duty of care requires: (1) a prima facie duty of care based on reasonable foreseeability and proximity (Stage 1); and (2) no policy reasons to negate the duty (Stage 2). The policy/operational distinction is critical: where the authority exercised a core policy choice (e.g., how to allocate inspection resources), the Crown may be immune; but where the authority was engaged in operational decisions (implementing inspection procedures for known hazards), negligence liability may arise. A failure to act on a specific complaint about an identified hazard is more operational than policy and is more likely to ground a duty of care.",
+    "why_C_wrong": "Incorrect. There is no 30-day automatic liability rule in Canadian Crown negligence law. The Anns/Cooper two-stage framework applies regardless of the timing of a complaint; liability requires foreseeability, proximity, and absence of negating policy reasons.",
+    "why_D_wrong": "Incorrect. Non-feasance (failure to act) can ground negligence liability against the Crown where a duty of care exists. The duty to act on a specific known hazard reported by complaint is not shielded merely because the authority chose not to act; the operational failure to exercise the power in circumstances of known, specific danger can be actionable.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 7 — Crown Liability",
+      "heading": "Negligence Liability for Statutory Duties — Anns/Cooper Test",
+      "page": "N/A",
+      "rule_or_statute_reference": "Cooper v Hobart, 2001 SCC 79; Crown Liability and Proceedings Act, R.S.C. 1985, c. C-50; Proceedings Against the Crown Act, R.S.O. 1990, c. P.27"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Anns/Cooper",
+      "duty of care",
+      "policy/operational distinction",
+      "Crown negligence",
+      "statutory inspection"
+    ],
+    "tested_concepts": [
+      "Anns/Cooper two-stage duty of care framework",
+      "policy vs. operational distinction for Crown liability",
+      "Crown non-feasance and negligence liability"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
+  },
+  {
+    "id": "pub-07-fiduciary-001",
+    "subject": "public_law",
+    "chapter_number": 7,
+    "chapter_title": "Crown Liability",
+    "topic_id": "crown_fiduciary",
+    "topic_heading": "Crown Liability — Fiduciary Duty to Aboriginal Peoples",
+    "subtopic_id": "fiduciary_aboriginal",
+    "subtopic_heading": "Crown Fiduciary Duty — Guerin and Haida Nation",
+    "difficulty": "hard",
+    "question_type": "single_best_answer",
+    "fact_pattern": "The federal Crown surrendered a First Nation's reserve lands on its behalf under the Indian Act and leased the lands to a golf club on terms far less favourable than the First Nation had been told would be obtained. The First Nation sues the Crown for breach of fiduciary duty. The Crown argues it has no fiduciary obligation in respect of commercial land transactions with First Nations; it acted as a statutory agent only.",
+    "call_of_question": "Under Guerin v The Queen, [1984] 2 SCR 335, what is the source and nature of the Crown's fiduciary duty to First Nations in respect of reserve lands?",
+    "options": {
+      "A": "The Crown owes no fiduciary duty to First Nations; the relationship between the Crown and Indigenous peoples is governed exclusively by political and treaty obligations, which are not legally enforceable in tort.",
+      "B": "Under Guerin v The Queen, [1984] 2 SCR 335, the Crown owes a fiduciary duty to First Nations in respect of reserve lands arising from the sui generis nature of Aboriginal title and the Crown's assumption of discretionary control over First Nations' land interests. The Crown's obligation to deal with surrendered lands on the terms communicated to the First Nation is a legal obligation enforceable in court. Breach of this duty — by obtaining terms less favourable than represented — gives rise to liability in equity, not merely political accountability.",
+      "C": "The Crown's fiduciary duty to First Nations arises only where expressly provided by statute; in the absence of an explicit statutory fiduciary obligation, the Crown owes no duty in respect of reserve lands.",
+      "D": "Fiduciary duties in the context of Aboriginal law are owed only by provincial Crowns; the federal Crown is immune from fiduciary liability in all circumstances."
+    },
+    "correct_answer": "B",
+    "explanation": "Guerin v The Queen, [1984] 2 SCR 335, is the foundational Supreme Court decision establishing the Crown's fiduciary duty to First Nations. The Court held that Aboriginal title is a sui generis (unique) right that imposes specific obligations on the Crown when it takes control over First Nations' land interests. When the Crown surrenders reserve lands on behalf of a First Nation, it assumes a discretionary power over the First Nation's land interest that is subject to a fiduciary obligation. The duty is not merely political or moral; it is legally enforceable in equity. Where the Crown obtains terms materially less favourable than those represented to the First Nation at the time of surrender, it breaches its fiduciary duty and is liable to compensate. The source of the duty is the combination of the sui generis nature of Aboriginal title, the First Nation's vulnerability and dependence on the Crown to protect their interests, and the Crown's unilateral discretionary control over those interests.",
+    "why_A_wrong": "Incorrect. Guerin directly rejected the view that the Crown's obligations to First Nations are merely political and non-justiciable. The Court held that the fiduciary duty arising from Aboriginal title and the Crown's discretionary control is a legally enforceable obligation.",
+    "why_B_wrong": "This IS the correct answer. Under Guerin v The Queen, [1984] 2 SCR 335, the Crown owes a fiduciary duty to First Nations in respect of reserve lands arising from the sui generis nature of Aboriginal title and the Crown's assumption of discretionary control over First Nations' land interests. The Crown's obligation to deal with surrendered lands on the terms communicated to the First Nation is a legal obligation enforceable in court. Breach of this duty — by obtaining terms less favourable than represented — gives rise to liability in equity, not merely political accountability.",
+    "why_C_wrong": "Incorrect. The Crown's fiduciary duty to First Nations in Guerin was not derived from an express statutory obligation; it arose from the common law recognition of Aboriginal title as a sui generis interest and the Crown's assumption of discretionary control. Statutory authorization is not a prerequisite.",
+    "why_D_wrong": "Incorrect. The Crown fiduciary duty recognized in Guerin was imposed on the federal Crown specifically. The duty applies to the federal Crown in its relationship with First Nations and is not restricted to provincial Crowns. The federal Crown has no general immunity from fiduciary liability.",
+    "source_reference": {
+      "lso_material": "LSO Barrister 2026 Study Materials",
+      "subject": "Public Law",
+      "chapter": "Chapter 7 — Crown Liability",
+      "heading": "Crown Fiduciary Duty — Guerin and Haida Nation",
+      "page": "N/A",
+      "rule_or_statute_reference": "Guerin v The Queen, [1984] 2 SCR 335; Indian Act, R.S.C. 1985, c. I-5"
+    },
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "fiduciary duty",
+      "Guerin",
+      "reserve lands",
+      "Aboriginal title",
+      "sui generis"
+    ],
+    "tested_concepts": [
+      "Guerin fiduciary duty to First Nations — source and nature",
+      "sui generis Aboriginal title and Crown discretionary control",
+      "legal enforceability of Crown fiduciary obligation"
+    ],
+    "estimated_time_seconds": 150,
+    "validation_status": "draft",
+    "similarity_risk": "low",
+    "created_at": "2026-05-25",
+    "updated_at": "2026-05-25"
   }
 ]
