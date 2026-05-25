@@ -124,6 +124,8 @@ All questions with IMPROVE verdict across the five audits. These are usable in t
 
 > **Phase 2K-Improve-B1 (2026-05-25):** All 35 remaining IMPROVE questions from Generated Barrister E were improved. See `docs/PHASE_2K_IMPROVE_B1_E_LOG.md` for per-question change notes and payload rebuild summary. Resolved E items are marked below with ✅.
 
+> **Phase 2K-Improve-B3 (2026-05-25):** All remaining Public Law IMPROVE questions in Generated Barrister C and F were improved. See `docs/PHASE_2K_IMPROVE_B3_PUBLIC_LOG.md`. Resolved items are marked ✅ below.
+
 
 ### Exam C — IMPROVE (20 questions)
 
@@ -142,8 +144,8 @@ All questions with IMPROVE verdict across the five audits. These are usable in t
 | fam-04-mh-possess-001 | C | Family — Matrimonial Home | s.19(1) equal possession stated directly; orientation-only | Add competing factor: domestic contract arguably waiving s.19 rights, or argument that property is not matrimonial home | medium |
 | fam-04-excl-possess-001 | C | Family — Matrimonial Home | Question asks whether court "can" grant exclusive possession — obviously yes; abstraction level too high | Upgrade with scenario where s.24(3) balancing factors are genuinely contested | medium |
 | fam-05-ssag-001 | C | Family — Spousal Support | SSAG advisory status reachable by knowing one phrase; binary_logic=2 | Reframe to test application: departure from SSAG range — identify jurisdiction to depart and basis | medium |
-| pub-02-s15-equal-001 | C | Public — Charter s.15 | Andrews outcome recalled by headnote; candidate need not apply the test | Upgrade with novel claimed analogous ground; require applying criteria for recognising analogous grounds | medium |
-| pub-02-s7-fundjust-001 | C | Public — Charter s.7 | Definitional threshold; whether liberty engaged not whether mandatory minimum meets PFOJ | Reframe to test whether mandatory minimum is arbitrary, overbroad, or grossly disproportionate | medium |
+| ~~pub-02-s15-equal-001~~ | C | Public — Charter s.15 | ✅ RESOLVED — B3 (2026-05-25): Novel analogous ground (temporary foreign worker status); applies Andrews immutability/powerlessness criteria | — | — |
+| ~~pub-02-s7-fundjust-001~~ | C | Public — Charter s.7 | ✅ RESOLVED — B3 (2026-05-25): Upgraded to PFOJ analysis — overbreadth/gross disproportionality of mandatory minimum; Bedford/Carter framework applied | — | — |
 | fam-04-mh-consent-001 | C | Family — Matrimonial Home | (PASS but adjacent to legal flag cluster — monitor) | No action required unless fam-04-mh-consent-003 flag reveals systemic issue | low |
 
 > Note: The above 15 items are the C-exam IMPROVE questions for which clear action is documented. The audit records 20 IMPROVE verdicts total; the remaining 5 scored realism=3 with weaker action notes and are captured in the audit document.
@@ -247,9 +249,9 @@ Key IMPROVE items not already listed under REWRITE (all resolved):
 | fam-07-parcoord-001 | F | Family — Parenting | Parenting coordinator role is definitional; asks "what does a PC do" not "when/how to apply" | Recast as scenario where counsel must advise whether referral to PC, mediator, or court is appropriate | medium |
 | fam-13-cl-fla29-001 | F | Family — Common Law | FLA s.29 three-year threshold; scenario thin; correct answer accessible by knowing rule | Introduce borderline scenario (2 years 9 months with extended separation) requiring application of continuous cohabitation rule | medium |
 | fam-13-cl-supp-002 | F | Family — Common Law | One distractor factually incoherent; call slightly abstract | Replace implausible distractor with Misapplied Tool trap; tighten call to concrete advising task | low |
-| pub-02-s15-006 | F | Public — Charter s.15 | Formal vs substantive equality tested abstractly; no applied fact pattern | Add real-world government program scenario; create distractors turning on formal equality reasoning | medium |
-| pub-02-s3-001 | F | Public — Charter s.3 | Artificial scenario; candidate knowing s.33 cannot override s.3 answers without applying reasoning | Add factual complexity around s.33 scope or procedural requirements; explore what s.33 can override | medium |
-| pub-02-s6-001 | F | Public — Charter s.6 | Definitionally thin; correct answer directly stated in option text; one obviously wrong option | Add scenario involving provincial licensing restriction limiting mobility rights; assess s.6(2)(b) applicability | medium |
+| ~~pub-02-s15-006~~ | F | Public — Charter s.15 | ✅ RESOLVED — B3 (2026-05-25): New call requires applying Fraser framework to determine prima facie s.15 violation; distractors: comparator-group trap, intent trap, absolute deprivation trap | — | — |
+| ~~pub-02-s3-001~~ | F | Public — Charter s.3 | ✅ RESOLVED — B3 (2026-05-25): New call is advising question requiring two-step analysis — s.33 inapplicable to s.3 + s.1 scrutiny (Sauve); distractors: wrong-scope, overstatement, wrong-ground traps | — | — |
+| ~~pub-02-s6-001~~ | F | Public — Charter s.6 | ✅ RESOLVED — B3 (2026-05-25): New call asks whether challenge succeeds; forces application of s.6(3)(a) general application exception; B.C. engineer scenario enriched; distractors trap on absolute right, factual province-of-origin, and wrong-scope errors | — | — |
 
 > Note: The full list of 28 F-exam IMPROVE questions is in the audit document. The highest-impact subset is listed above; the remaining items (civ-10-accept-001 through civ-15-default-003 cluster) have similar distractor-tightening actions with low effort.
 
