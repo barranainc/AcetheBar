@@ -1,7 +1,7 @@
 # Generated Exam Register
 
 **Project:** AcetheBar — LSO Barrister Licensing Examination Practice System  
-**Last updated:** 2026-05-24
+**Last updated:** 2026-05-25
 
 ---
 
@@ -188,6 +188,60 @@ Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
 
 ---
 
+### Generated Barrister F
+
+| Field | Value |
+|-------|-------|
+| **Exam key** | `barf` |
+| **Tab label** | Generated Barrister F |
+| **Assembly file** | `data/exams/generated-barrister-f.json` |
+| **Manifest** | `data/exams/generated-barrister-f-manifest.json` |
+| **Assembled** | 2026-05-25 (Phase 2I) |
+| **Assembly tool** | `tools/assemble_exam.py --exam-id generated-barrister-f --exam-label "Generated Barrister F" --seed 4 --exclude data/exams/generated-barrister-c-manifest.json --exclude data/exams/generated-barrister-d-manifest.json --exclude data/exams/generated-barrister-e-manifest.json` |
+| **Seed** | 4 (deterministic — re-running with seed 4 and same exclusions produces identical selection) |
+| **Total questions** | 160 |
+| **Subject allocation** | Civil Litigation: 43 · Criminal Law: 43 · Family Law: 39 · Public Law: 35 |
+| **PR treatment** | Embedded overlay (pr_angle.applicable) — PR is not a separate section |
+| **PR-angle count** | 2 |
+| **Validation status** | All 160 questions: `draft` |
+| **Similarity risk** | All 160 questions: `low` |
+| **Difficulty split** | Easy: 25 · Medium: 60 · Hard: 64 · Exam-trap: 11 |
+| **Legal review status** | Not source-checked |
+| **Baked into index.html** | Yes — `barf` base64 payload baked 2026-05-25 (length: 497,800 chars) |
+| **Source question files** | See manifest `source_files` array (across 4 subjects) |
+| **Overlap with C** | 0 questions — verified via set intersection of question_ids_used |
+| **Overlap with D** | 0 questions — verified via set intersection of question_ids_used |
+| **Overlap with E** | 0 questions — verified via set intersection of question_ids_used |
+| **C + D + E + F combined** | 640 unique question IDs — verified |
+
+#### Legal Source Constraints
+- All questions draw exclusively from official 2026 LSO Barrister materials
+- No questions are sourced from Access the Bar, Brigham, or any third-party prep provider
+- Excluded all 160 questions used in Generated Barrister C (480 combined excluded IDs)
+- Excluded all 160 questions used in Generated Barrister D
+- Excluded all 160 questions used in Generated Barrister E
+
+#### Phase 2I Assembly Notes (2026-05-25)
+- Pool available after C+D+E exclusions: CIV 203 / CRIM 208 / FAM 184 / PUB 166
+- F-readiness dry run passed in Phase 2H (55 CIV + 55 CRIM + 50 FAM + 45 PUB new questions generated)
+- All 160 selected questions: validation_status=draft, similarity_risk=low
+- Legal QA (Phase 2I-QA) not yet run — exam is draft only; do not present as study-ready
+- Tab color: `#06b6d4` (cyan)
+
+#### To Re-Assemble Exam F
+```bash
+python3 tools/assemble_exam.py \
+  --exam-id generated-barrister-f \
+  --exam-label "Generated Barrister F" \
+  --seed 4 \
+  --exclude data/exams/generated-barrister-c-manifest.json \
+  --exclude data/exams/generated-barrister-d-manifest.json \
+  --exclude data/exams/generated-barrister-e-manifest.json
+```
+Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
+
+---
+
 ## Section 2B — Generated PR Drills
 
 Generated PR drills draw exclusively from `data/questions/professional-responsibility/`. They use the same compact 8-field format and `assemble_pr_drill.py` tool. All questions remain `validation_status: draft`.
@@ -297,9 +351,9 @@ Then bake the updated compact JSON into index.html (see GENERATION_WORKFLOW.md).
 
 | Planned ID | Label | Target allocation | Seed | Status |
 |------------|-------|-------------------|------|--------|
-| `barf` | Generated Barrister F | 43/43/39/35 | 4 | Not yet generated — requires Phase 2H question generation |
+| `barg` | Generated Barrister G | 43/43/39/35 | 5 | Not yet generated — requires Phase 2J question generation and Phase 2I-QA completion |
 
-**Note:** Exam F will exclude questions already used in Exams C, D, and E (three `--exclude` flags on `tools/assemble_exam.py`). Each will require sufficient question bank depth beyond the current baseline.
+**Note:** Exam G will exclude questions already used in Exams C, D, E, and F (four `--exclude` flags on `tools/assemble_exam.py`). It will require sufficient question bank depth beyond the current baseline. Legal QA on Generated Barrister F (Phase 2I-QA) should be completed before assembling Exam G.
 
 ---
 
