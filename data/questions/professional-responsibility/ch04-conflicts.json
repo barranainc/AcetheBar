@@ -797,7 +797,14 @@
       "applicable": true,
       "pr_issue_type": "conflict of interest — business transaction with client"
     },
-    "exam_trigger_words": ["business transaction", "client", "personal interest", "written disclosure", "independent legal advice", "Rule 3.4-24"],
+    "exam_trigger_words": [
+      "business transaction",
+      "client",
+      "personal interest",
+      "written disclosure",
+      "independent legal advice",
+      "Rule 3.4-24"
+    ],
     "tested_concepts": [
       "Rule 3.4-24 — business transaction with client requires written disclosure",
       "independent legal advice required for client",
@@ -810,7 +817,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24",
+    "updated_at": "2026-05-25",
     "question_type": "single_best_answer",
     "id": "pr-04-estate-001",
     "chapter_number": 4,
@@ -820,20 +827,20 @@
     "subtopic_id": "estate_planning_conflict",
     "subtopic_heading": "Conflicts in Estate Planning — Testator, Beneficiary, and Executor",
     "difficulty": "exam_trap",
-    "fact_pattern": "Lawyer Deanna has represented an elderly client in various matters for 15 years. The client now asks Deanna to prepare a new will. Under the proposed will, the client's entire estate will pass to her son, Marcus, who is also a longstanding client of Deanna's at the same firm. Marcus has asked Deanna to ensure his mother's will is completed quickly and has been actively involved in the meetings with his mother about the will's terms. Deanna proceeds to draft the will without taking any additional steps.",
+    "fact_pattern": "Lawyer Deanna has represented an elderly client, Harriet, in various matters for 15 years. Harriet now asks Deanna to prepare a new will. Under the proposed will, Harriet's entire estate will pass to her son, Marcus. Marcus has also been Deanna's client for three years — Deanna currently acts for Marcus in connection with his small business. Marcus drives Harriet to the law office for the will instructions meeting and is present throughout the meeting, frequently speaking on Harriet's behalf and suggesting specific provisions. Deanna notes that the will is significantly more generous to Marcus than Harriet's previous will.",
     "call_of_question": "What conflict concern arises in this estate planning situation and what should Deanna have done?",
     "options": {
-      "A": "No conflict arises — estate planning work is collaborative and it is normal for beneficiaries to assist elderly testators in instructing lawyers.",
-      "B": "A potential conflict and undue influence concern arises because Deanna acts for both the testator and the primary beneficiary; Deanna should have met with the testator alone to take instructions independently, ensured the testator's wishes were entirely voluntary and free from Marcus's influence, and considered whether she could act for both without a conflict.",
-      "C": "The conflict is resolved because Deanna has a longstanding relationship with the testator and knows the testator's general wishes.",
-      "D": "Deanna may proceed without restriction because estate planning matters are exempt from the conflict rules under Rule 3.4 as the testator's interests are paramount."
+      "A": "Although a potential conflict arises because Deanna acts for both Harriet and Marcus, it is fully resolved by obtaining written consent from both the testator and the beneficiary, after which Deanna may complete the will as instructed by Harriet.",
+      "B": "A potential conflict and undue influence concern arises because Deanna acts for both the testator and the primary beneficiary; Deanna should decline to continue unless she can confirm, ideally with Harriet alone, that the instructions truly represent Harriet's independent wishes, and she should consider whether to withdraw from one or both representations.",
+      "C": "The conflict is resolved because Deanna's longstanding 15-year relationship with Harriet gives her confidence that Harriet is acting freely; no further steps are required.",
+      "D": "Deanna may proceed without restriction because estate planning matters are categorically exempt from the conflict-of-interest rules under the Rules of Professional Conduct."
     },
     "correct_answer": "B",
-    "explanation": "Estate planning raises acute own-interest and concurrent conflict concerns when the lawyer acts for both the testator and a principal beneficiary who is also a client. The risk of undue influence — that the beneficiary may improperly influence the testator's instructions — is a recognized concern in estate law and professional responsibility. Deanna should have met alone with the testator to take independent instructions, assessed whether the testator's expressed wishes were truly voluntary, and carefully evaluated whether acting for both was permissible under Rule 3.4. Allowing Marcus to be actively involved in meetings about his own mother's will is a significant failure of independent professional judgment.",
-    "why_A_wrong": "Incorrect. While beneficiaries may legitimately assist elderly testators in connecting with lawyers, active involvement in meetings about the will's terms raises acute undue influence concerns that a competent lawyer must address.",
-    "why_B_wrong": "This IS the correct answer. A potential conflict and undue influence concern arises because Deanna acts for both the testator and the primary beneficiary; Deanna should have met with the testator alone to take instructions independently, ensured the testator's wishes were entirely voluntary and free from Marcus's influence, and considered whether she could act for both without a conflict.",
-    "why_C_wrong": "Incorrect. A longstanding relationship with the testator does not resolve the conflict — it may in fact mask the influence the primary beneficiary is exerting. Independent instructions must be taken regardless of the length of the relationship.",
-    "why_D_wrong": "Incorrect. There is no estate planning exemption from the conflict rules under Rule 3.4. The conflict analysis applies with particular force in estate matters given the vulnerability of testators and the power of beneficiaries.",
+    "explanation": "Deanna faces a genuine conflict: she acts for both the testator (Harriet) and the primary beneficiary (Marcus), who was present and actively participating in the will instructions meeting. This raises both a conflict under Rule 3.4 and a potential undue influence concern. Consent alone (option A) does not resolve the situation — where Deanna cannot be confident that Harriet's instructions are truly independent and voluntary, she must take further steps, including meeting with Harriet alone, and consider whether the dual representation is sustainable. A longstanding relationship does not substitute for proper independent assessment (negating C). Estate planning is not exempt from conflict rules (negating D).",
+    "why_A_wrong": "Written consent does not cure a conflict where there is an active undue influence concern. When the beneficiary is present throughout the instructions meeting and speaking on the testator's behalf, Deanna must first assess whether Harriet's instructions are independent before the conflict can be considered manageable by consent. The consent-as-cure approach is inadequate in this scenario.",
+    "why_B_wrong": "B is correct — the dual representation of testator and primary beneficiary, combined with the beneficiary's active participation in the instructions meeting, creates both a conflict and a genuine undue influence concern requiring further steps beyond mere consent.",
+    "why_C_wrong": "A longstanding lawyer-client relationship does not substitute for a proper undue influence and conflict assessment. Familiarity with the client can in fact create a blind spot to subtle undue influence, not eliminate the concern.",
+    "why_D_wrong": "Estate planning matters are not exempt from the conflict-of-interest rules. The Rules of Professional Conduct apply fully to estate planning retainers.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -846,11 +853,20 @@
       "applicable": true,
       "pr_issue_type": "conflict of interest — estate planning — testator and beneficiary"
     },
-    "exam_trigger_words": ["estate planning", "will", "testator", "beneficiary", "undue influence", "independent instructions"],
+    "exam_trigger_words": [
+      "estate planning",
+      "will",
+      "undue influence",
+      "conflict",
+      "beneficiary",
+      "testator",
+      "dual representation",
+      "written consent"
+    ],
     "tested_concepts": [
-      "Rule 3.4-1 — conflict in estate planning when acting for testator and beneficiary",
-      "undue influence risk when beneficiary attends will instructions",
-      "lawyer must take independent instructions from testator alone"
+      "Conflicts — dual representation of testator and beneficiary",
+      "Undue influence — beneficiary present during instructions",
+      "Consent does not cure active undue influence concern"
     ],
     "estimated_time_seconds": 180
   },
@@ -859,7 +875,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24",
+    "updated_at": "2026-05-25",
     "question_type": "single_best_answer",
     "id": "pr-04-wit-001",
     "chapter_number": 4,
@@ -911,7 +927,6 @@
       "hardship exception requires genuine substantial hardship — not mere timing inconvenience",
       "limiting testimony scope does not cure the dual-role prohibition"
     ],
-    "updated_at": "2026-05-25",
     "estimated_time_seconds": 150
   },
   {
@@ -955,7 +970,13 @@
       "applicable": true,
       "pr_issue_type": "conflict of interest — multiple co-accused joint retainer"
     },
-    "exam_trigger_words": ["co-accused", "multiple defendants", "joint retainer criminal", "identical defence", "diverging interests"],
+    "exam_trigger_words": [
+      "co-accused",
+      "multiple defendants",
+      "joint retainer criminal",
+      "identical defence",
+      "diverging interests"
+    ],
     "tested_concepts": [
       "Rule 3.4-1 — substantial risk test for co-accused",
       "identical current position does not guarantee future alignment",
@@ -1004,7 +1025,13 @@
       "applicable": true,
       "pr_issue_type": "conflict — inadequate independent legal advice recommendation"
     },
-    "exam_trigger_words": ["independent legal advice", "genuine recommendation", "Rule 3.4-5", "discouraged", "adequacy of advice"],
+    "exam_trigger_words": [
+      "independent legal advice",
+      "genuine recommendation",
+      "Rule 3.4-5",
+      "discouraged",
+      "adequacy of advice"
+    ],
     "tested_concepts": [
       "Rule 3.4-5 — ILA recommendation must be genuine and unequivocal",
       "minimizing language undermines the ILA requirement",
@@ -1198,14 +1225,14 @@
       "A": "Yes — any prior meeting with a person, even without a formal retainer, creates an automatic former-client conflict that bars subsequent adverse representation.",
       "B": "No — the test under Rule 3.4-10 is whether Kwame received confidential information from Hartley that is relevant to the new matter; a brief consultation in which only general business information was shared and no retainer formed may not create a conflict, particularly where the new matter is entirely unrelated; Kwame must carefully assess whether any relevant confidential information was received.",
       "C": "Yes — the duty of loyalty to former clients applies regardless of whether confidential information was actually received.",
-      "D": "No — because no retainer was formed, Kwame has no professional obligations to Hartley whatsoever and the Rules of Professional Conduct do not apply."
+      "D": "No — because no formal retainer was created, any potential conflict arising from the consultation is automatically cured by implementing a firm-level information barrier that prevents Kwame from sharing what he learned about Hartley's financial situation with the opposing client team."
     },
     "correct_answer": "B",
     "explanation": "Rule 3.4-10 asks whether the lawyer received confidential information from the former client that is relevant to the new matter. The rule does not impose a blanket prohibition on any prior contact. A brief initial consultation in which only general business background was shared, no retainer was formed, and the new matter is entirely unrelated may not generate a former-client conflict. The exam trap is assuming that any prior meeting automatically disqualifies the lawyer. Kwame must analyze whether the specific information he received is relevant to the new real estate dispute — if not, the conflict may not exist. However, if any specific confidential information was received even in the consultation, the analysis changes.",
     "why_A_wrong": "Incorrect. Rule 3.4-10 requires that confidential information relevant to the new matter was received — prior contact alone is not sufficient to create a former-client conflict. An initial consultation without exchange of relevant confidential information does not automatically bar the lawyer.",
     "why_B_wrong": "This IS the correct answer. The test under Rule 3.4-10 is whether Kwame received confidential information from Hartley that is relevant to the new matter; a brief consultation in which only general business information was shared and no retainer formed may not create a conflict, particularly where the new matter is entirely unrelated; Kwame must carefully assess whether any relevant confidential information was received.",
     "why_C_wrong": "Incorrect. The duty of loyalty to former clients under Rule 3.4-10 is triggered by the receipt of relevant confidential information, not by the existence of any prior relationship. General knowledge of someone's business does not, standing alone, create the conflict.",
-    "why_D_wrong": "Incorrect. Even without a formal retainer, a lawyer who meets with a potential client may owe professional obligations if confidential information was disclosed. The absence of a retainer is not a complete answer — the question is whether relevant confidential information was received.",
+    "why_D_wrong": "An information barrier does not automatically cure a former-client conflict. The threshold question under Rule 3.4-10 is whether Kwame received confidential information from Hartley that is relevant to the current matter. If he did, the analysis is whether acting against Hartley would breach confidentiality or the duty of loyalty — and an information barrier may or may not be sufficient depending on whether it meets the strict criteria for effective screens. Moreover, D skips the primary issue: the answer under B is that Kwame must first assess whether relevant confidential information was actually received.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -1220,15 +1247,15 @@
     },
     "exam_trigger_words": [
       "initial consultation",
-      "no retainer",
       "former client",
-      "relevant confidential information",
-      "Rule 3.4-10"
+      "no retainer",
+      "confidential information",
+      "information barrier",
+      "screen"
     ],
     "tested_concepts": [
-      "Rule 3.4-10 — test is relevant confidential information, not mere prior contact",
-      "initial consultation without retainer — conditional conflict analysis",
-      "general business knowledge alone does not bar adverse representation"
+      "Former-client conflict — test is confidential information received, not retainer formed",
+      "Information barrier — does not automatically cure former-client conflict"
     ],
     "estimated_time_seconds": 150
   },

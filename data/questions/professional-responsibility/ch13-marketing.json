@@ -350,14 +350,14 @@
       "A": "Vance has fulfilled his obligations by conducting an informal investigation; once the alleged harasser denies intent, no further steps are required.",
       "B": "Vance has no obligation to take further action because the conduct occurred between colleagues, not between a lawyer and a client.",
       "C": "Vance has breached his obligations under Rule 6.3-2; the management obligation requires a lawyer who manages a firm to take reasonable steps to ensure the firm maintains a harassment-free workplace, including implementing processes to address complaints and taking corrective action; informal denial by the alleged harasser is insufficient.",
-      "D": "Vance is only required to act if Wren files a formal written complaint with the LSO."
+      "D": "Vance has satisfied his obligations under Rule 6.3-2 by directing Xavier to comply with the firm's internal anti-harassment policy and initiating the firm's HR process; once the firm's own disciplinary process has been engaged, Rule 6.3-2 does not impose additional obligations on management lawyers beyond supporting the internal process to completion."
     },
     "correct_answer": "C",
     "explanation": "Rule 6.3-2 of the LSO Rules of Professional Conduct requires a lawyer not to engage in or permit harassment in the workplace. Commentary to Rule 6.3-2 extends the obligation to lawyers who manage firms: they must take reasonable steps to create and maintain a harassment-free environment. This includes having appropriate complaint processes in place and taking meaningful corrective action when harassment is reported. Psychological harassment — such as repeated demeaning comments in front of colleagues and clients — falls squarely within the definition. Vance's reliance on Xavier's denial of intent is insufficient; harassment is assessed by effect on the recipient, not by the subjective intent of the alleged harasser. Vance's failure to implement corrective measures after receiving the complaint is itself a breach of the management obligation.",
     "why_A_wrong": "Incorrect. Denial of intent by the alleged harasser does not discharge the management obligation. Vance must assess whether the conduct constitutes harassment by its effect, not only by the harasser's stated intent, and take appropriate corrective action.",
     "why_B_wrong": "Incorrect. Rule 6.3-2 applies to the full workplace environment, including conduct between lawyers and staff, associates, and partners. Colleague-to-colleague harassment is expressly within the scope of the rule.",
     "why_C_wrong": "This IS the correct answer. Vance has breached his obligations under Rule 6.3-2; the management obligation requires a lawyer who manages a firm to take reasonable steps to ensure the firm maintains a harassment-free workplace, including implementing processes to address complaints and taking corrective action; informal denial by the alleged harasser is insufficient.",
-    "why_D_wrong": "Incorrect. The management obligation to address workplace harassment is triggered by the report to Vance, not by a formal LSO filing. A formal LSO complaint is a separate mechanism; it does not replace the managing lawyer's internal obligations.",
+    "why_D_wrong": "Engaging an internal HR process does not discharge a management lawyer's obligations under Rule 6.3-2. The rule requires management lawyers to take reasonable steps to ensure the firm has and implements appropriate policies against discrimination and harassment, and to address known misconduct directly — not merely to refer allegations to an HR process. Where Xavier's conduct constitutes harassment under Rule 6.3-1, Vance's obligations may extend to ensuring effective remedial action and may include reporting obligations; deferring entirely to an internal HR policy does not satisfy the independent professional obligation.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -371,16 +371,17 @@
       "pr_issue_type": "harassment — management obligation"
     },
     "exam_trigger_words": [
+      "management obligations",
+      "Rule 6.3-2",
       "harassment",
-      "psychological harassment",
+      "internal HR policy",
       "managing partner",
-      "workplace",
-      "Rule 6.3-2"
+      "discriminatory conduct",
+      "firm policy"
     ],
     "tested_concepts": [
-      "Rule 6.3-2 — managing lawyer must maintain harassment-free workplace",
-      "harassment assessed by effect not intent",
-      "informal denial by alleged harasser insufficient — corrective action required"
+      "Management obligations — Rule 6.3-2 requires active steps, not just HR referral",
+      "Internal policy compliance does not discharge professional obligation"
     ],
     "estimated_time_seconds": 150
   },
@@ -440,7 +441,6 @@
       "client agreement after prohibited solicitation does not cure the initial violation — Pragmatic Bluff",
       "prohibition runs to the lawyer — cannot shelter behind the referral source's conduct — Misapplied Tool"
     ],
-    "updated_at": "2026-05-25",
     "estimated_time_seconds": 120
   },
   {

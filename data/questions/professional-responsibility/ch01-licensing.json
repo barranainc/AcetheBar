@@ -225,7 +225,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24",
+    "updated_at": "2026-05-25",
     "question_type": "single_best_answer",
     "id": "pr-01-class-lic-001",
     "chapter_number": 1,
@@ -235,20 +235,20 @@
     "subtopic_id": "classes_of_licence",
     "subtopic_heading": "Classes of Licence — Barrister, Solicitor, Paralegal",
     "difficulty": "medium",
-    "fact_pattern": "Chen has just been called to the bar in Ontario and holds a licence as a barrister and solicitor. A client asks Chen to represent her before a Small Claims Court matter involving a $12,000 debt, to prepare a will for her, and to defend her on a summary conviction offence. Chen wonders whether all three services fall within his licence.",
-    "call_of_question": "Which of the following best describes the scope of work that Chen's barrister and solicitor licence authorizes him to perform in Ontario?",
+    "fact_pattern": "Chen has just been called to the bar in Ontario and holds a barrister and solicitor licence. He completed the Law Society's Law Practice Program (LPP) pathway. A client asks Chen to represent her in a Small Claims Court matter, to prepare her will, and to defend a summary conviction offence — all within the same month. Chen is unsure whether his new licence authorizes all three tasks or whether the LPP pathway imposes any practice-area restriction on his post-call work.",
+    "call_of_question": "Which of the following best describes the scope of work Chen's barrister and solicitor licence authorizes him to perform in Ontario?",
     "options": {
-      "A": "Chen may only perform the services listed on his call-to-the-bar certificate; any services not specifically listed require a separate endorsement from the LSO.",
-      "B": "Chen's barrister and solicitor licence authorizes him to provide legal services across the full spectrum of Ontario law, including litigation in Small Claims Court, estate planning such as preparing wills, and criminal defence work; all three requested services fall within the scope of the licence.",
-      "C": "Chen may perform civil litigation and estate planning work, but criminal defence work requires a separate criminal law endorsement from the LSO.",
-      "D": "Chen may perform all three tasks only if he has practised law for at least two years after his call to the bar — newly called lawyers are restricted to supervised work only."
+      "A": "Chen's barrister and solicitor licence authorizes him to practise law, but because he completed the LPP, his licence restricts him to the practice area of his LPP placement for the first year after call to the bar.",
+      "B": "Chen's barrister and solicitor licence authorizes him to provide legal services across the full spectrum of Ontario law — including civil litigation, wills, and criminal defence — regardless of which licensing pathway he completed; all three tasks fall within his licence.",
+      "C": "Chen may perform civil litigation and estate planning work, but criminal defence requires a separate criminal law endorsement on his barrister and solicitor licence.",
+      "D": "Chen may perform all three tasks, but he must work under the supervision of a lawyer who has been called for at least five years throughout his first 12 months of practice as a mandatory post-call mentorship condition of the LPP pathway."
     },
     "correct_answer": "B",
-    "explanation": "Under the Law Society Act, R.S.O. 1990, c. L.8, a barrister and solicitor licence authorizes the holder to practise law across the full range of legal services in Ontario, including civil litigation, estate matters, and criminal defence. There is no separate endorsement or specialty licence required for different areas of law under the barrister and solicitor licence. All three services Chen has been asked to provide fall squarely within the scope of his licence.",
-    "why_A_wrong": "Incorrect. The barrister and solicitor licence is a general licence to practise law in Ontario. It is not limited to services listed on a call-to-the-bar certificate. No area-specific endorsements are required.",
-    "why_B_wrong": "This IS the correct answer. Chen's barrister and solicitor licence authorizes him to provide legal services across the full spectrum of Ontario law, including litigation in Small Claims Court, estate planning such as preparing wills, and criminal defence work; all three requested services fall within the scope of the licence.",
-    "why_C_wrong": "Incorrect. Criminal defence work does not require a separate criminal law endorsement for a licensed barrister and solicitor. The licence covers all areas of legal practice.",
-    "why_D_wrong": "Incorrect. There is no experience requirement before a newly called lawyer may provide any category of legal services independently. New lawyers are licensed to practise and bear full professional responsibility from the date of their call.",
+    "explanation": "A barrister and solicitor licence in Ontario grants broad authority to practise across all areas of Ontario law; it is not restricted by the licensing pathway (LPP or articling) the lawyer used to qualify. There is no practice-area restriction flowing from LPP completion (negating A), no criminal-law endorsement requirement for new barristers (negating C), and no mandatory post-call supervision period based on the LPP route (negating D).",
+    "why_A_wrong": "The LPP pathway does not restrict a licensee's practice area post-call. The licence granted is a full barrister and solicitor licence regardless of whether the LPP or articling route was used.",
+    "why_B_wrong": "B is correct — a barrister and solicitor licence in Ontario grants unrestricted authority across all practice areas regardless of the LPP or articling pathway used to qualify.",
+    "why_C_wrong": "No separate criminal law endorsement is required on a barrister and solicitor licence. The licence authorizes criminal defence work as part of the full spectrum of Ontario law.",
+    "why_D_wrong": "There is no mandatory post-call mentorship supervision period tied to the LPP pathway. Mandatory supervision requirements do not exist in this form under Ontario licensing rules.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -261,11 +261,16 @@
       "applicable": true,
       "pr_issue_type": "licensing — classes of licence and scope of practice"
     },
-    "exam_trigger_words": ["barrister and solicitor", "class of licence", "scope", "authorized services"],
+    "exam_trigger_words": [
+      "LPP",
+      "Law Practice Program",
+      "barrister and solicitor",
+      "scope of licence",
+      "post-call restriction"
+    ],
     "tested_concepts": [
-      "barrister and solicitor licence — full scope of legal services",
-      "no area-specific endorsements required under LSO licensing",
-      "Law Society Act licence to practise law"
+      "Licensing — scope of barrister and solicitor licence",
+      "LPP pathway — no practice-area restriction"
     ],
     "estimated_time_seconds": 90
   },
@@ -310,7 +315,12 @@
       "applicable": true,
       "pr_issue_type": "CPD — professionalism hours requirement"
     },
-    "exam_trigger_words": ["CPD", "professionalism hours", "substantive law", "annual requirement"],
+    "exam_trigger_words": [
+      "CPD",
+      "professionalism hours",
+      "substantive law",
+      "annual requirement"
+    ],
     "tested_concepts": [
       "LSO CPD — professionalism component is separate requirement",
       "substantive law hours alone do not satisfy full CPD obligation",
@@ -359,7 +369,13 @@
       "applicable": true,
       "pr_issue_type": "practice management — tickler system and limitation period tracking"
     },
-    "exam_trigger_words": ["tickler system", "limitation period", "file management", "practice management", "competence"],
+    "exam_trigger_words": [
+      "tickler system",
+      "limitation period",
+      "file management",
+      "practice management",
+      "competence"
+    ],
     "tested_concepts": [
       "Rule 3.1-2 — competence includes adequate file management systems",
       "no specific system mandated but system must be adequate for practice scale",
@@ -382,20 +398,20 @@
     "subtopic_id": "cpd_requirements",
     "subtopic_heading": "CPD Requirements — Annual Minimum and Part-Time Practitioners",
     "difficulty": "easy",
-    "fact_pattern": "Lawyer Priya practises law on a part-time basis — she works approximately two days per week at a small general practice firm. She holds a full barrister and solicitor licence with the LSO. At the end of the year, she has not completed any CPD hours, reasoning that because she only works part-time her CPD obligation must be correspondingly reduced.",
+    "fact_pattern": "Lawyer Priya practises law on a part-time basis — approximately two days per week at a small general practice firm. She holds a full barrister and solicitor licence with the LSO. At the end of the calendar year, Priya has completed only 6 of the required 12 CPD hours. She argues that her CPD obligations should be reduced because she is a part-time practitioner, and also mentions that she regularly reads the LSO Gazette and subscribes to practice advisories, which she believes counts as informal CPD credit toward her annual requirement.",
     "call_of_question": "Is Priya correct that her CPD obligations are reduced because she is a part-time practitioner?",
     "options": {
-      "A": "Yes — the LSO's CPD requirements are prorated based on the number of hours a lawyer works per week.",
-      "B": "Yes — part-time lawyers are exempt from CPD requirements provided they declare part-time status on their annual report.",
-      "C": "No — the LSO's CPD requirements apply to all practising licensees regardless of whether they practise full-time or part-time; Priya must complete the minimum annual CPD hours, including the required professionalism component, regardless of the number of days per week she practises.",
-      "D": "No — but Priya may defer up to half of her CPD requirement to the following year by filing a hardship exemption."
+      "A": "Yes — practising fewer than three days per week qualifies Priya as a non-practising licensee under the LSO rules, which category is exempt from CPD requirements.",
+      "B": "Yes — Priya's regular review of the LSO Gazette and practice advisories constitutes informal professional development that may be counted toward her annual CPD hours at her own discretion.",
+      "C": "No — the LSO's CPD requirements apply to all practising licensees regardless of whether they practise full-time or part-time; Priya's 6-hour shortfall is a breach of her CPD obligations.",
+      "D": "No — but Priya may retroactively apply to convert her licence to non-practising status for the year in question, which would excuse the CPD shortfall without any disciplinary consequence."
     },
     "correct_answer": "C",
-    "explanation": "The LSO's CPD requirements apply to all practising licensees holding a barrister and solicitor licence, whether they practise full-time or part-time. There is no proportional reduction or proration of CPD hours based on the hours worked per week. A part-time lawyer must complete the same minimum annual CPD hours as a full-time lawyer, including the mandatory professionalism component. If Priya does not wish to comply with CPD requirements, she must formally apply for non-practising status — she cannot simply reduce her obligations by practising fewer hours.",
-    "why_A_wrong": "Incorrect. CPD hours are not prorated by hours worked. The full annual requirement applies to all practising licensees regardless of their work schedule.",
-    "why_B_wrong": "Incorrect. There is no part-time declaration exemption from CPD requirements. Practising licensees must meet the full CPD obligation.",
-    "why_C_wrong": "This IS the correct answer. The LSO's CPD requirements apply to all practising licensees regardless of whether they practise full-time or part-time; Priya must complete the minimum annual CPD hours, including the required professionalism component, regardless of the number of days per week she practises.",
-    "why_D_wrong": "Incorrect. There is no general hardship deferral mechanism that allows a practitioner to defer CPD hours to the following year simply by filing an exemption. The annual obligation applies in full.",
+    "explanation": "The LSO's CPD requirements apply to all practising licensees equally — there is no prorated or reduced requirement for part-time practitioners (negating A). Reading the LSO Gazette or practice advisories does not constitute accredited CPD; only approved CPD activities count toward the annual requirement (negating B). A practising licensee cannot retroactively convert to non-practising status to excuse a CPD shortfall already incurred (negating D). Priya must complete the required 12 hours.",
+    "why_A_wrong": "Part-time practice does not qualify a lawyer as a non-practising licensee. Non-practising status is a formal election by the licensee and is not triggered by reduced hours of practice.",
+    "why_B_wrong": "Reading the LSO Gazette or practice advisories is not accredited CPD. Only approved programs and activities that meet LSO CPD criteria count toward the annual requirement.",
+    "why_C_wrong": "C is correct — the LSO's CPD requirements apply equally to all practising licensees; part-time practice does not reduce or eliminate the annual CPD obligation.",
+    "why_D_wrong": "Non-practising status cannot be applied retroactively to excuse a CPD shortfall incurred while the lawyer was a practising licensee. Retroactive conversion does not eliminate the CPD obligation for the period already elapsed.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -411,14 +427,14 @@
     "exam_trigger_words": [
       "CPD",
       "part-time",
-      "annual requirement",
-      "practising licensee",
-      "By-Law 6.1"
+      "non-practising",
+      "LSO Gazette",
+      "informal credit",
+      "retroactive status"
     ],
     "tested_concepts": [
-      "By-Law 6.1 — CPD applies to all practising licensees regardless of hours worked",
-      "no proration of CPD for part-time practice",
-      "non-practising status required to reduce obligations"
+      "CPD — applies to all practising licensees equally",
+      "Non-practising status — not triggered by part-time practice"
     ],
     "estimated_time_seconds": 90
   },
@@ -554,14 +570,14 @@
       "A": "Yes — a client's informed written waiver can expand a paralegal's scope of practice for that specific matter.",
       "B": "Yes — as a licensed legal professional in Ontario, Victor has authority to appear in any court in Ontario.",
       "C": "No — a paralegal's scope of practice in Ontario is defined by the Law Society Act and the LSO By-Laws and cannot be expanded by client consent; Superior Court of Justice proceedings contesting wills fall outside paralegal scope, and Victor must decline regardless of the client's preference or waiver.",
-      "D": "No — but Victor may refer the matter to a licensed barrister and share in the fees as a referral arrangement."
+      "D": "No — but if the client first obtains independent legal advice from a licensed barrister confirming that Victor is appropriate counsel for the matter, the client's fully informed consent cures the scope restriction and permits Victor to proceed in Superior Court."
     },
     "correct_answer": "C",
     "explanation": "Under the Law Society Act and the LSO's licensing framework, paralegals hold a limited licence that authorizes them to provide legal services only within a defined scope. This scope is set by the Law Society and includes certain tribunal proceedings, Small Claims Court, Provincial Offences Court, and summary conviction criminal proceedings. Superior Court of Justice matters — including estate litigation contesting the validity of a will — are outside that scope. The client's consent or waiver cannot expand the paralegal's legislative scope of practice. Providing legal services outside one's licensed scope constitutes unauthorized practice, regardless of client agreement.",
     "why_A_wrong": "Incorrect. Client consent cannot expand a paralegal's scope of practice. The scope is defined by statute and regulation, not by agreement between the paralegal and client.",
     "why_B_wrong": "Incorrect. A paralegal's licence does not authorize appearance in all Ontario courts. The scope is limited to specific courts and tribunals as defined by the Law Society Act and By-Laws.",
     "why_C_wrong": "This IS the correct answer. A paralegal's scope of practice in Ontario is defined by the Law Society Act and the LSO By-Laws and cannot be expanded by client consent; Superior Court of Justice proceedings contesting wills fall outside paralegal scope, and Victor must decline regardless of the client's preference or waiver.",
-    "why_D_wrong": "Incorrect. A referral to a barrister may be appropriate, but the fee-sharing element is a separate compliance issue — referral fees between paralegals and barristers must comply with the Rules of Professional Conduct. Victor cannot share in fees merely by referring work outside his scope.",
+    "why_D_wrong": "A paralegal's scope of practice is defined by statute and LSO By-Laws, not by client consent or independent legal advice. No client consent — however informed — can expand a paralegal's statutory scope of practice to include Superior Court estate litigation. The restriction is regulatory, not contractual, and cannot be waived by ILA or consent.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -577,14 +593,14 @@
     "exam_trigger_words": [
       "paralegal",
       "scope of practice",
-      "client waiver",
       "Superior Court",
-      "outside scope"
+      "client consent",
+      "independent legal advice",
+      "ILA"
     ],
     "tested_concepts": [
-      "paralegal scope of practice defined by Law Society Act and By-Laws",
-      "client consent cannot expand paralegal scope",
-      "providing services outside scope is unauthorized practice"
+      "Paralegal scope of practice — statutory limits",
+      "Client consent cannot expand scope"
     ],
     "estimated_time_seconds": 90
   },

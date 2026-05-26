@@ -255,37 +255,63 @@ Key IMPROVE items not already listed under REWRITE (all resolved):
 
 > Note: The full list of 28 F-exam IMPROVE questions is in the audit document. The highest-impact subset is listed above; the remaining items (civ-10-accept-001 through civ-15-default-003 cluster) have similar distractor-tightening actions with low effort.
 
-### PR Bank — IMPROVE (34 questions)
+### PR Bank — IMPROVE (34 questions) ✅ RESOLVED — Phase 2K-Improve-B4 (2026-05-25)
 
-Key IMPROVE items not already in REWRITE priority:
+All 26 identifiable PR IMPROVE items were improved in Phase 2K-Improve-B4. See `docs/PHASE_2K_IMPROVE_B4_PR_LOG.md` for per-question change notes and payload rebuild summary.
 
-| question_id | Drill | Subject | Current weakness | Recommended fix | Effort |
-|-------------|-------|---------|-----------------|-----------------|--------|
-| pr-01-class-lic-001 | A | PR — Licensing | Distractors B/C/D too easily eliminated; scenario underspecified | Add genuine partial-scope trap distractor | low |
-| pr-01-cpd-002 | A | PR — Licensing | Scenario too simple; no distractor convincingly mimics real misconception | State that LSO email suggested reduced-hour option; test whether Priya may rely on it without formal non-practising status | low |
-| pr-02-superv-005 | A | PR — Competence | Distractor A (independent judgment) unconvincing | Change distractor A to argue Xavier was supervising because he reviewed account statements monthly | low |
-| pr-02-scope-001 | A | PR — Competence | Distractors A and D obviously wrong; distractor C is only real trap | Replace distractor D with trap on whether limitation communicated in plain enough language | low |
-| pr-03-confid-scope-001 | A | PR — Confidentiality | All three wrong options transparent | Add distractor testing whether publicly available court records make information no longer confidential | low |
-| pr-03-post-ret-001 | A | PR — Confidentiality | Distractor D partially correct as stated | Revise distractor D to be clearly over-broad; allow correct answer to reign cleanly | low |
-| pr-03-tech-conf-003 | A | PR — Confidentiality | Only one strong distractor | Add consent-to-social-media-posting distractor as cure for re-identification risk | low |
-| pr-03-cloud-001 | B | PR — Confidentiality | Distractor A only convincing | Add distractor testing whether general TOS review at account opening is sufficient | low |
-| pr-04-former-cl-003 | A | PR — Conflicts | "Information may be stale" distractor too weak | Add distractor testing whether firm-level information barrier (different lawyers) cures the conflict | medium |
-| pr-04-estate-001 | B | PR — Conflicts | Estate conflict underspecified | Add facts about which estate stakeholder retained lawyer and whether conflict is consentable | medium |
-| pr-05-cont-003 | B | PR — Fees | "Best efforts" distractor obviously wrong | Replace with distractor based on real-world commercial misconception | low |
-| pr-05-ref-fee-002 | A | PR — Fees | Lacks fact-specific twist requiring application over lookup | Add fact triggering "ongoing involvement" exception to pure referral fee rule | low |
-| pr-06-audit-001 | B | PR — Trust Accounting | Rule-recall disguised as application | Add moved-practice or dual-practice fact to require audit rules application | low |
-| pr-06-bylaw-002 | B | PR — Trust Accounting | Near-index on By-Law enumeration | Create disputed application fact | low |
-| pr-06-report-001 | A | PR — Trust Accounting | No Ethics Override Trap in distractor set | Add distractor where lawyer argues self-remediation before discovery excuses reporting obligation | medium |
-| pr-07-auth-001 | A | PR — Court Duties | Distractor C not sufficiently trap-engineered | Reframe distractor C to test "undertaking to cure" scenario | low |
-| pr-07-unmerit-001 | B | PR — Court Duties | Distractor set weak on application | Add distractor where lawyer argues client's subjective belief makes proceeding meritorious | low |
-| pr-08-discrim-001 | B | PR — Opposing Parties | Discrimination question abstract; no grounding facts | Add fact triggering plausible tension (religious exemption claim or belief conduct was not discriminatory) | medium |
-| pr-09-subs-001 | A | PR — Withdrawal | File-transfer/substitution confusion present but not drawn sharply | Clarify to sharpen mandatory file-transfer timing as key binary statutory issue | low |
-| pr-09-time-001 | B | PR — Withdrawal | Too mechanical; low ethics integration | Add time-pressure element requiring candidate to weigh competing obligations | medium |
-| pr-11-penalty-001 | A | PR — Discipline | Imprisonment distractor facially absurd | Replace with "mandatory trust supervision order" option | low |
-| pr-11-penalty-002 | B | PR — Discipline | Overlaps in structure with penalty-001 | Differentiate: test consent order vs contested discipline outcome, or conditions on practice vs suspension | medium |
-| pr-12-verify-001 | B | PR — Client ID | Remote verification lacks specific method to evaluate | Present specific method (video call ID scan) as one distractor; non-compliant shortcut as another | low |
-| pr-12-verify-002 | B | PR — Client ID | Structural overlap with verify-001 | Pivot to corporate entity verification scenario | low |
-| pr-13-discrim-002 | B | PR — Marketing | Duplicates discrim-001 without differentiation | Test expertise-refusal exception as judgment trap | medium |
+**Resolution summary:**
+
+| Subject area | Questions improved |
+|---|---|
+| Licensing (ch01) | 3 |
+| Competence (ch02) | 2 |
+| Confidentiality (ch03) | 4 |
+| Conflicts (ch04) | 2 |
+| Fees / Duties (ch05) | 2 |
+| Trust Accounting (ch06) | 3 |
+| Court Duties (ch07) | 2 |
+| Opposing Parties (ch08) | 1 |
+| Withdrawal (ch09) | 2 |
+| Discipline (ch11) | 2 |
+| Client ID (ch12) | 2 |
+| Marketing (ch13) | 1 |
+| **Total** | **26** |
+
+All three PR payloads (prdra, prdrb, prb200) were rebuilt from existing manifests and re-baked into index.html. Validation: 200 PR questions, 0 errors; A∩B=0, A∪B=Bank200 confirmed. Non-PR payloads (bar, barc, bard, bare, barf, etc.) unchanged.
+
+**Trap taxonomy applied:**
+LPP-Scope-Restriction Trap, Mandatory-Mentorship Trap, ILA-Cures-Scope Trap, Informal-Consent Trap, Public-Domain Trap, Retroactive-Consent Trap, Public-Record-Confirmation Trap, Understatement Trap, Residual-Warning-Duty Trap, Information-Barrier Trap, Consent-as-Cure Trap, Contract-Governs Pragmatic Bluff, Self-Remedy Ethics Override Trap, Wait-to-Be-Asked Trap, Subjective-Belief Trap, Client-Instruction-Override Trap, Unilateral-Withdrawal Trap, Internal-Transfer Trap, Partial-Truth-Penalty Trap, Party-Agreement-Binds-Tribunal Trap, ID-Only Trap, Independent-Source Trap, Internal-HR-Policy-Satisfies-Rule Trap.
+
+Key IMPROVE items that were addressed (original backlog list):
+
+| question_id | Drill | Subject | Fix applied |
+|-------------|-------|---------|-------------|
+| pr-01-class-lic-001 | B | PR — Licensing | LPP-Scope-Restriction Trap + Mandatory-Mentorship Trap; enriched FP with LPP pathway context |
+| pr-01-ins-001 | B | PR — Licensing | ILA-Cures-Scope Trap replaced tangential referral fee distractor |
+| pr-01-cpd-002 | A | PR — Licensing | Added LSO Gazette informal-CPD trap; part-time = non-practising trap; retroactive status trap |
+| pr-02-superv-005 | B | PR — Competence | Monthly reconciliation = adequate oversight (Understatement Trap) |
+| pr-02-scope-001 | A | PR — Competence | Residual-Warning-Duty Trap replaced obviously-wrong litigation-only distractor |
+| pr-03-confid-scope-001 | A | PR — Confidentiality | Enriched FP with public press element; Public-Domain Trap as new distractor A |
+| pr-03-post-ret-001 | B | PR — Confidentiality | Public-Record-Confirmation Trap replaced partially-correct distractor D |
+| pr-03-tech-conf-003 | A | PR — Confidentiality | Retroactive-Consent Trap replaced narrow shared-computer distractor D |
+| pr-03-cloud-001 | A | PR — Confidentiality | Informal-Consent Trap (passive non-objection) replaced weak educational-context distractor B |
+| pr-04-estate-001 | B | PR — Conflicts | Enriched FP (Marcus = existing client attending instructions meeting); Consent-as-Cure Trap as new A |
+| pr-04-former-cl-003 | A | PR — Conflicts | Information-Barrier Trap replaced no-retainer-no-obligations distractor D |
+| pr-05-cont-003 | A | PR — Fees | Contract-Governs Pragmatic Bluff replaced obviously-wrong no-contingency-on-settlement distractor A |
+| pr-05-ref-fee-002 | A | PR — Fees | New scenario (paralegal licensee + flat fee + no client disclosure); licensee-status trap + work-done trap |
+| pr-06-audit-001 | B | PR — Trust Accounting | New post-retirement scenario; retired-jurisdiction trap; record-custodian trap; limitation-period trap |
+| pr-06-bylaw-002 | B | PR — Trust Accounting | Added morning-of-closing element; same-day exception trap; $5M threshold trap; third-party escrow trap |
+| pr-06-report-001 | B | PR — Trust Accounting | Self-Remedy Ethics Override Trap (self-audit satisfies spirit) added as distractor A |
+| pr-07-auth-001 | A | PR — Court Duties | Wait-to-Be-Asked Trap replaced obviously-wrong recency distractor D |
+| pr-07-unmerit-001 | A | PR — Court Duties | Subjective-Belief Trap (client's signed good-faith statement) as new distractor A |
+| pr-08-discrim-001 | B | PR — Opposing Parties | Enriched FP with client instruction + shared cultural background; Client-Instruction-Override Trap as new A |
+| pr-09-subs-001 | A | PR — Withdrawal | Unilateral-Withdrawal Trap (Form 15B); Internal-Transfer Trap replaced weak distractor D |
+| pr-09-time-001 | A | PR — Withdrawal | Added 3-day closing deadline; 30-day minimum trap; implied-termination trap; court-approval trap |
+| pr-11-penalty-001 | B | PR — Discipline | Partial-Truth-Penalty Trap (supervision order + prior-record requirement for revocation) |
+| pr-11-penalty-002 | B | PR — Discipline | New consent-order/joint-proposal scenario; Party-Agreement-Binds-Tribunal Trap |
+| pr-12-verify-001 | A | PR — Client ID | Added video call element; video-call-sufficient trap; private-company-only trap; in-person-required trap |
+| pr-12-verify-002 | B | PR — Client ID | ID-Only Trap (identification ≠ verification for third party); Independent-Source Trap |
+| pr-13-discrim-002 | B | PR — Marketing | Internal-HR-Policy-Satisfies-Rule Trap replaced obviously-wrong wait-for-LSO-complaint distractor D |
 
 ---
 

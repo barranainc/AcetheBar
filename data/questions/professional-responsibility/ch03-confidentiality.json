@@ -4,7 +4,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23",
+    "updated_at": "2026-05-25",
     "question_type": "single_best_answer",
     "id": "pr-03-confid-scope-001",
     "chapter_number": 3,
@@ -14,20 +14,20 @@
     "subtopic_id": "duty_to_keep_confidential",
     "subtopic_heading": "Duty to Keep Confidential — Scope and Duration",
     "difficulty": "easy",
-    "fact_pattern": "Fatima represented a corporate client in commercial negotiations two years ago. During that retainer she learned that the client was pursuing a major acquisition deal that was never publicly announced. The retainer ended amicably one year ago. A competitor of Fatima's former client now contacts her seeking information about the client's historic business dealings.",
+    "fact_pattern": "Fatima represented a corporate client in commercial negotiations two years ago. During that retainer she learned that the client was pursuing a major acquisition deal that was never publicly announced and did not close. Six months after the retainer ended, an industry publication ran a story reporting that the company had explored but abandoned an acquisition in that sector — the article named the target company and disclosed the approximate deal size. Fatima is now asked by a business journalist whether she can confirm details about her former client's acquisition discussions and provide context based on what she learned during the retainer.",
     "call_of_question": "Does the duty of confidentiality under Rule 3.3-1 continue after the retainer ends?",
     "options": {
-      "A": "No — confidentiality obligations are coextensive with the retainer and end when the lawyer-client relationship concludes.",
-      "B": "Yes — the duty of confidentiality continues indefinitely after the retainer ends; Fatima cannot disclose information acquired during the professional relationship even though the retainer is over.",
-      "C": "Yes, but only for five years after the retainer ends, after which the information is no longer protected.",
-      "D": "Yes, but only if the client specifically requested during the retainer that Fatima keep the information confidential."
+      "A": "No — the duty of confidentiality ends when the retainer ends; Fatima has no ongoing obligation regarding information received during a completed retainer.",
+      "B": "Yes — the duty of confidentiality under Rule 3.3-1 continues indefinitely after the retainer ends; the fact that some acquisition details appeared in industry press does not eliminate Fatima's confidentiality obligation regarding what she learned during the retainer.",
+      "C": "Yes, but only for five years after the retainer ends; after that limitation period, the information is no longer protected by the professional confidentiality duty.",
+      "D": "Yes, but only if the client specifically requested during the retainer that Fatima keep the information confidential; absent a specific request, the default is that information shared with counsel is not confidential."
     },
     "correct_answer": "B",
-    "explanation": "Rule 3.3-1 imposes a permanent duty of confidentiality that survives the end of the professional relationship. There is no time limit and no requirement that the client make a specific request. The duty attaches automatically to all information acquired in the course of the professional relationship.",
-    "why_A_wrong": "Incorrect. Rule 3.3-1 expressly applies 'at all times' — the duty is permanent and does not end with the retainer.",
-    "why_B_wrong": "This IS the correct answer. Yes — the duty of confidentiality continues indefinitely after the retainer ends; Fatima cannot disclose information acquired during the professional relationship even though the retainer is over.",
-    "why_C_wrong": "Incorrect. There is no five-year or any other time limitation on the duty of confidentiality under Rule 3.3-1.",
-    "why_D_wrong": "Incorrect. No specific request from the client is required. The duty is inherent in the professional relationship and attaches automatically.",
+    "explanation": "Rule 3.3-1 imposes a permanent duty of confidentiality that survives the end of the retainer. The fact that some information about the acquisition appeared in the public domain does not eliminate Fatima's obligation — she received confidential communications during the retainer, and confirming or elaborating on them based on that privileged access would be a breach regardless of what is publicly known. There is no five-year sunset (negating C), and no requirement that the client specifically request confidentiality (negating D); confidentiality is automatic under Rule 3.3-1. The duty does not end with the retainer (negating A).",
+    "why_A_wrong": "The duty of confidentiality does not end when the retainer ends. Rule 3.3-1 explicitly imposes a permanent post-retainer obligation.",
+    "why_B_wrong": "B is correct — Rule 3.3-1 imposes a permanent and unconditional duty of confidentiality that survives the end of the retainer and is unaffected by subsequent public disclosure of related information.",
+    "why_C_wrong": "There is no five-year limitation period on the confidentiality duty. The obligation is permanent under Rule 3.3-1.",
+    "why_D_wrong": "Confidentiality under Rule 3.3-1 is automatic — it does not require a specific client request. All information received in the course of the professional relationship is confidential.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "professional_responsibility",
@@ -41,15 +41,16 @@
       "pr_issue_type": "confidentiality"
     },
     "exam_trigger_words": [
-      "former client",
-      "after retainer",
-      "still confidential",
-      "past relationship"
+      "confidentiality",
+      "post-retainer",
+      "public domain",
+      "industry press",
+      "permanent duty",
+      "former client"
     ],
     "tested_concepts": [
-      "Rule 3.3-1 — permanence of confidentiality obligation",
-      "duty survives end of retainer",
-      "no time limit on confidentiality"
+      "Confidentiality — survives end of retainer",
+      "Public domain does not eliminate confidentiality obligation"
     ],
     "estimated_time_seconds": 90
   },
@@ -581,7 +582,13 @@
       "applicable": true,
       "pr_issue_type": "confidentiality — distinction from solicitor-client privilege"
     },
-    "exam_trigger_words": ["solicitor-client privilege", "confidentiality", "dominant purpose", "legal advice", "background information"],
+    "exam_trigger_words": [
+      "solicitor-client privilege",
+      "confidentiality",
+      "dominant purpose",
+      "legal advice",
+      "background information"
+    ],
     "tested_concepts": [
       "solicitor-client privilege — dominant purpose of legal advice",
       "Rule 3.3-1 confidentiality is broader than privilege",
@@ -630,7 +637,13 @@
       "applicable": true,
       "pr_issue_type": "confidentiality — former joint client post-retainer obligations"
     },
-    "exam_trigger_words": ["joint retainer", "former client", "post-retainer", "confidentiality after retainer ends", "acting against former joint client"],
+    "exam_trigger_words": [
+      "joint retainer",
+      "former client",
+      "post-retainer",
+      "confidentiality after retainer ends",
+      "acting against former joint client"
+    ],
     "tested_concepts": [
       "Rule 3.3-1 — former client confidentiality survives end of joint retainer",
       "information not confidential between joint clients during retainer",
@@ -679,7 +692,13 @@
       "applicable": true,
       "pr_issue_type": "confidentiality — cannot disclose reason for withdrawal"
     },
-    "exam_trigger_words": ["withdrawal", "reason for withdrawal", "professional reasons", "cannot disclose", "confidentiality on withdrawal"],
+    "exam_trigger_words": [
+      "withdrawal",
+      "reason for withdrawal",
+      "professional reasons",
+      "cannot disclose",
+      "confidentiality on withdrawal"
+    ],
     "tested_concepts": [
       "Rule 3.3-1 — confidentiality continues on withdrawal",
       "lawyer may only state 'professional reasons' for withdrawal",
@@ -692,7 +711,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24",
+    "updated_at": "2026-05-25",
     "question_type": "single_best_answer",
     "id": "pr-03-post-ret-001",
     "chapter_number": 3,
@@ -708,14 +727,14 @@
       "A": "Yes — once a retainer ends, a lawyer has no ongoing confidentiality obligations to former clients and may discuss past matters freely.",
       "B": "Yes — three years is a sufficient period of time for confidentiality obligations to expire; confidentiality has a reasonable duration after which it is no longer enforceable.",
       "C": "No — the duty of confidentiality under Rule 3.3-1 is permanent and survives the end of the retainer indefinitely; Ursula must not disclose any information about the former client's regulatory matter, including whether it existed, what its outcome was, or what documents were reviewed, regardless of the time elapsed.",
-      "D": "No — but Ursula may disclose matters that are already publicly known through court or regulatory filings."
+      "D": "No — but Ursula may confirm to the journalist any factual details that have already been filed in public regulatory proceedings, because confirming information that is part of the public regulatory record does not constitute 'disclosure' of confidential information under Rule 3.3-1."
     },
     "correct_answer": "C",
     "explanation": "Rule 3.3-1 of the LSO Rules of Professional Conduct provides that the duty of confidentiality continues at all times — it has no expiry date and survives the end of the professional relationship indefinitely. Ursula has no basis to disclose information about the regulatory investigation to the journalist. The passage of three years does not erode or eliminate the confidentiality obligation. Even matters that ultimately became publicly known require care — the lawyer should not affirmatively confirm, contextualize, or add detail beyond what is already in the public record.",
     "why_A_wrong": "Incorrect. The duty of confidentiality does not end with the retainer. Rule 3.3-1 expressly provides that the duty is permanent.",
     "why_B_wrong": "Incorrect. There is no time limitation on the duty of confidentiality under Rule 3.3-1. Three years — or any other period — does not cause the obligation to expire.",
     "why_C_wrong": "This IS the correct answer. No — the duty of confidentiality under Rule 3.3-1 is permanent and survives the end of the retainer indefinitely; Ursula must not disclose any information about the former client's regulatory matter, including whether it existed, what its outcome was, or what documents were reviewed, regardless of the time elapsed.",
-    "why_D_wrong": "Incorrect. While Ursula should be cautious about confirming publicly known information, Option C is the most complete and accurate statement of her obligations. Merely being cautious about public information does not capture the full scope of the permanent confidentiality obligation.",
+    "why_D_wrong": "This option overstates any public-record exception. Even where some information about a matter is part of a public regulatory record, a lawyer's obligation under Rule 3.3-1 continues to protect the confidential communications and context received during the retainer. Confirming or elaborating on publicly available facts by drawing on privileged access to the client's communications remains a breach. Rule 3.3-1 does not contain a 'public record confirmation' exception.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -728,11 +747,16 @@
       "applicable": true,
       "pr_issue_type": "confidentiality — permanence after retainer ends"
     },
-    "exam_trigger_words": ["former client", "retainer ended", "journalist", "time elapsed", "permanent duty"],
+    "exam_trigger_words": [
+      "post-retainer confidentiality",
+      "journalist",
+      "regulatory investigation",
+      "public record",
+      "confirmation exception"
+    ],
     "tested_concepts": [
-      "Rule 3.3-1 — confidentiality is permanent — survives retainer indefinitely",
-      "no time limitation on confidentiality obligation",
-      "cannot disclose former client information to media or third parties"
+      "Confidentiality — permanent post-retainer duty",
+      "No public-record-confirmation exception under Rule 3.3-1"
     ],
     "estimated_time_seconds": 90
   },
@@ -866,14 +890,14 @@
     "call_of_question": "Has Dario breached the duty of confidentiality by posting this 'anonymized hypothetical' about his client?",
     "options": {
       "A": "No — removing the client's name is sufficient anonymization to satisfy the duty of confidentiality.",
-      "B": "No — a lawyer may discuss legal scenarios in educational or professional contexts as long as the client is not identified by name.",
+      "B": "No — Dario mentioned to his client at the outset of the retainer that he occasionally writes educational blog posts using anonymized client scenarios; because the client did not object at that time, Dario had the client's implicit consent to include this scenario in his blog.",
       "C": "Yes — the duty of confidentiality under Rule 3.3-1 is breached where a post contains sufficient identifying details that persons familiar with the client could recognize them; 'anonymization' that leaves industry, jurisdiction, revenue level, and distinctive business model intact is likely insufficient; confidentiality protects client information from disclosure, not merely from named disclosure.",
       "D": "Yes, but only if the client suffers actual harm from the disclosure."
     },
     "correct_answer": "C",
     "explanation": "Rule 3.3-1 protects all information acquired in the professional relationship — not merely the client's name. Publishing information that, taken together, is sufficiently distinctive to identify the client constitutes a breach of confidentiality even if the name is omitted. This is sometimes called 'jigsaw identification' — combining multiple details can uniquely identify a client even without explicit naming. The test is not whether Dario named the client, but whether a reader familiar with the client could identify them. A lawyer wishing to use client scenarios for educational purposes must obtain client consent or ensure the scenario is genuinely unidentifiable.",
     "why_A_wrong": "Incorrect. Removing the client's name is a necessary but not sufficient step. If enough other details remain to identify the client, confidentiality is breached regardless of name suppression.",
-    "why_B_wrong": "Incorrect. The test for confidentiality is not whether the client is identified by name but whether the information disclosed could identify the client. A 'hypothetical' that closely mirrors an actual client is not adequately anonymized.",
+    "why_B_wrong": "Implicit or passive consent — arising from a client's failure to object to a general disclosure at the outset of a retainer — does not satisfy the requirements for informed client consent to disclosure of confidential information. The client's confidentiality protection under Rule 3.3-1 is not waived by silence. Moreover, the post contains enough identifying details that the anonymization was insufficient regardless of any consent issue.",
     "why_C_wrong": "This IS the correct answer. Yes — the duty of confidentiality under Rule 3.3-1 is breached where a post contains sufficient identifying details that persons familiar with the client could recognize them; 'anonymization' that leaves industry, jurisdiction, revenue level, and distinctive business model intact is likely insufficient; confidentiality protects client information from disclosure, not merely from named disclosure.",
     "why_D_wrong": "Incorrect. The duty of confidentiality is not contingent on the client suffering actual harm. The breach occurs upon disclosure of confidential information, regardless of whether harm results.",
     "source_reference": {
@@ -889,16 +913,16 @@
       "pr_issue_type": "confidentiality — social media and anonymized disclosure"
     },
     "exam_trigger_words": [
-      "hypothetical",
-      "social media",
       "anonymized",
-      "jigsaw identification",
-      "identifying details"
+      "blog post",
+      "identifying details",
+      "implicit consent",
+      "educational context",
+      "confidentiality"
     ],
     "tested_concepts": [
-      "Rule 3.3-1 — confidentiality is not satisfied by name suppression alone",
-      "jigsaw identification — combined details can identify a client",
-      "test is whether client is identifiable, not whether named"
+      "Confidentiality — anonymization must be effective",
+      "Implicit consent does not waive confidentiality protection"
     ],
     "estimated_time_seconds": 120
   },
@@ -1400,7 +1424,6 @@
       "privilege belongs to the client — only authorized client representative can waive",
       "lawyer cannot unilaterally decide to disclose or withhold — must seek client direction"
     ],
-    "updated_at": "2026-05-25",
     "estimated_time_seconds": 120
   },
   {
@@ -1424,14 +1447,14 @@
       "A": "No — Elspeth is not responsible for unauthorized disclosures made by her employees; only the assistant is liable.",
       "B": "No — a sole practitioner with a small office is exempt from the technology safeguards required of larger firms.",
       "C": "Yes — Elspeth's duty of confidentiality under Rule 3.3-1 includes an obligation to take reasonable steps to ensure that office systems, including access controls, are organized to protect client information from unauthorized access by staff; failing to implement controls that would have limited the assistant's access to only necessary files is a breach of that duty.",
-      "D": "Yes, but only because Elspeth used a shared computer — the violation would not have occurred if she used separate computers for each file."
+      "D": "Yes — but the breach is fully remedied by obtaining retroactive written consent from each affected client confirming that the client consents to the assistant's access; retroactive consent eliminates any professional discipline consequence arising from the access-control failure."
     },
     "correct_answer": "C",
     "explanation": "Rule 3.3-1 requires a lawyer to take reasonable steps to protect client confidentiality. This obligation extends to the organization of the lawyer's practice — including implementing appropriate access controls and supervision of staff. Giving a part-time assistant unrestricted access to all client files without any controls or review is a failure to take reasonable steps. The Commentary to Rule 3.3 makes clear that lawyers must organize their practices to ensure confidentiality is maintained at all levels, including by staff. A sole practitioner is not exempt from this obligation.",
     "why_A_wrong": "Incorrect. While the assistant bears personal responsibility for the unauthorized disclosure, Elspeth also bears responsibility for failing to implement reasonable controls that would have prevented it. Lawyers are responsible for reasonable supervision of support staff.",
     "why_B_wrong": "Incorrect. There is no exemption from technology and access control obligations for sole practitioners. The obligation scales to the circumstances but applies equally.",
     "why_C_wrong": "This IS the correct answer. Yes — Elspeth's duty of confidentiality under Rule 3.3-1 includes an obligation to take reasonable steps to ensure that office systems, including access controls, are organized to protect client information from unauthorized access by staff; failing to implement controls that would have limited the assistant's access to only necessary files is a breach of that duty.",
-    "why_D_wrong": "Incorrect. Using separate computers for each file is one technical measure, but the violation stems from the absence of any access controls or supervision — not from the hardware configuration alone. Separate computers would not prevent a determined assistant from accessing files if no controls or policies existed.",
+    "why_D_wrong": "Retroactive consent does not eliminate professional discipline consequences for a confidentiality breach. The obligation under Rule 3.3-1 is to take reasonable steps to prevent unauthorized access before any breach occurs. After a breach has taken place, retroactive consent from clients does not cure the lawyer's prior failure to maintain adequate safeguards; discipline may still follow the original breach of the duty.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -1445,16 +1468,16 @@
       "pr_issue_type": "confidentiality — office systems and access controls"
     },
     "exam_trigger_words": [
+      "technology safeguards",
       "access controls",
-      "staff access",
-      "office systems",
-      "reasonable steps",
-      "unauthorized access"
+      "legal assistant",
+      "sole practitioner",
+      "retroactive consent",
+      "confidentiality breach"
     ],
     "tested_concepts": [
-      "Rule 3.3-1 — reasonable steps include access controls for staff",
-      "sole practitioner not exempt from technology safeguard obligations",
-      "lawyer responsible for reasonable supervision of staff regarding confidentiality"
+      "Confidentiality — duty to implement technology safeguards",
+      "Retroactive consent does not cure confidentiality breach"
     ],
     "estimated_time_seconds": 120
   }

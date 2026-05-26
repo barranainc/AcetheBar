@@ -234,20 +234,20 @@
     "subtopic_id": "corporate_verification",
     "subtopic_heading": "Corporate Client Verification — Existence and Controlling Persons",
     "difficulty": "medium",
-    "fact_pattern": "Lawyer Gwen is retained by Redwood Holdings Inc. to assist with a commercial real estate acquisition. The sole representative who contacts Gwen is Marcus, who says he is the CEO of Redwood Holdings Inc. Gwen speaks with Marcus, records his name, and confirms his title as CEO via a company email. Gwen does not obtain any certificate of incorporation, corporate registry search, or any information about who beneficially owns or controls Redwood Holdings Inc.",
+    "fact_pattern": "Lawyer Gwen is retained by Redwood Holdings Inc. to assist with a commercial real estate acquisition. The sole representative who contacts Gwen is Marcus, who says he is the CEO of Redwood Holdings Inc. Gwen verifies Marcus's personal identity by reviewing a government-issued photo ID uploaded through a secure portal; she also conducts a brief video call with Marcus during which she visually confirms the ID appears to match Marcus's appearance. Gwen does not search any corporate registry to confirm the corporation's legal existence or examine its governance documents to confirm Marcus's authority to bind the corporation.",
     "call_of_question": "Has Gwen satisfied the client identification and verification requirements for corporate clients under By-Law 7.1, s.23?",
     "options": {
-      "A": "Yes — confirming the identity and title of the corporate representative is sufficient verification for a corporate client.",
-      "B": "No — By-Law 7.1, s.23 requires a lawyer to confirm the legal existence of the corporation (typically through a corporate registry search or certificate of incorporation) and to identify the corporation's directors and beneficial owners; Gwen has done neither.",
-      "C": "Yes — verification of corporate identity is only required for private companies, not for companies that have an identifiable corporate representative.",
-      "D": "No — but Gwen's obligation was satisfied when she recorded the CEO's name and corporate email, because a corporate email constitutes a form of official documentation."
+      "A": "Yes — Gwen has satisfied the verification requirement; the combination of a government-issued photo ID upload and a live video call during which the ID was visually confirmed constitutes adequate verification of both Marcus's identity and, through him, the corporate client's identity.",
+      "B": "No — By-Law 7.1, s.23 requires a lawyer to confirm the legal existence of a corporate client (typically through a certificate of corporate status or registry search) and to take reasonable steps to verify the identity of the individual authorized to instruct; verifying only Marcus's personal ID does not satisfy the corporate identity verification requirement.",
+      "C": "Yes — corporate registry searches to confirm legal existence are only required when acting for a private company or in a high-risk transaction; because Redwood Holdings is a corporation retaining Gwen for an arms-length commercial acquisition, only the CEO's personal identification needs to be verified.",
+      "D": "No — verification of a corporate client's identity for a real property acquisition must be conducted in person; Gwen's remote ID upload and video call do not satisfy By-Law 7.1's verification requirements for real property transactions."
     },
     "correct_answer": "B",
-    "explanation": "By-Law 7.1, s.23 establishes a multi-step process for verifying corporate client identity. A lawyer must: (1) confirm the legal existence of the corporation, typically through a current corporate registry search or certificate of incorporation; (2) obtain the names of the corporation's directors; and (3) identify the beneficial owners — i.e., individuals who own or control 25% or more of the corporation. Gwen has done none of this. Confirming a representative's title via corporate email does not establish that the corporation legally exists, who controls it, or whether there are any beneficial ownership concerns.",
-    "why_A_wrong": "Incorrect. Verifying the identity of the corporate representative is a separate step from verifying the corporate entity's existence and ownership structure. By-Law 7.1, s.23 requires both.",
-    "why_B_wrong": "This IS the correct answer. By-Law 7.1, s.23 requires a lawyer to confirm the legal existence of the corporation (typically through a corporate registry search or certificate of incorporation) and to identify the corporation's directors and beneficial owners; Gwen has done neither.",
-    "why_C_wrong": "Incorrect. Corporate verification requirements apply to all corporate clients acting in financial transaction matters, not only to specific categories of companies.",
-    "why_D_wrong": "Incorrect. A corporate email confirming a title is not an official verification document. It does not establish the corporation's legal existence, its directors, or its beneficial ownership — all of which By-Law 7.1, s.23 requires.",
+    "explanation": "By-Law 7.1, s.23 imposes a two-part corporate client verification obligation: (1) confirm the corporation's legal existence (e.g., by obtaining a certificate of corporate status or searching the relevant corporate registry), and (2) verify the identity of the individual authorized to instruct on the corporation's behalf. Gwen completed step 2 for Marcus personally but did not complete step 1 for Redwood Holdings Inc. Option A is wrong: a personal ID and video call verify Marcus as an individual but do not confirm that Redwood Holdings Inc. actually exists as a legal entity. Option C is wrong: there is no private-company-only or high-risk threshold for corporate identity verification — it applies to all corporate clients. Option D is wrong: By-Law 7.1 does not require in-person verification for real property transactions; remote methods are permitted for individual verification.",
+    "why_A_wrong": "Verifying Marcus personally does not satisfy the obligation to confirm the legal existence of the corporate client. By-Law 7.1, s.23 requires both: confirmation of the corporation's legal existence and verification of the authorizing individual. Gwen completed only the second step.",
+    "why_B_wrong": "B is correct — By-Law 7.1, s.23 requires both confirmation of the corporation's legal existence (e.g., registry search) and verification of the authorizing individual; Gwen completed only the second step and not the first.",
+    "why_C_wrong": "By-Law 7.1 does not limit the corporate existence confirmation requirement to private companies or high-risk transactions. The obligation applies whenever a lawyer acts for a corporate client.",
+    "why_D_wrong": "By-Law 7.1 does not require in-person verification for real property transactions. Remote verification methods (secure portal upload, video call) are recognized as compliant means for individual identity verification; the deficiency in Gwen's approach is the missing corporate existence confirmation, not the remote format of the individual verification.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -262,15 +262,17 @@
     },
     "exam_trigger_words": [
       "corporate client",
-      "certificate of incorporation",
-      "beneficial owner",
-      "directors",
-      "By-Law 7.1, s.23"
+      "verification",
+      "certificate of corporate status",
+      "registry search",
+      "video call",
+      "By-Law 7.1",
+      "legal existence",
+      "authorized representative"
     ],
     "tested_concepts": [
-      "By-Law 7.1, s.23 — corporate verification requires confirming legal existence",
-      "corporate verification requires identifying directors and beneficial owners",
-      "corporate representative identity verification does not satisfy corporate entity verification"
+      "Corporate client verification — two-part obligation: legal existence + authorizing individual",
+      "Video call sufficient for individual but not for corporate existence confirmation"
     ],
     "estimated_time_seconds": 120
   },
@@ -294,15 +296,15 @@
     "options": {
       "A": "Yes — Helen's client is Nina, and she has satisfied her obligation by identifying and verifying Nina; she owes no obligations to Oscar, who is a third party.",
       "B": "No — where a client is acting as an agent or nominee for a third-party principal, By-Law 7.1 requires the lawyer to identify and verify both the client (Nina) and the third party (Oscar) on whose behalf the transaction is being conducted.",
-      "C": "Yes — Helen is required to identify and verify Oscar only if Oscar will be attending the transaction in person.",
-      "D": "No — Helen must obtain a statutory declaration from Oscar confirming his identity before the transaction can proceed."
+      "C": "Helen is only required to identify Oscar — that is, obtain his name, address, and occupation — as the beneficial principal; verification of Oscar's identity through government-issued documentation is not required for principals who are not themselves signatories to the transaction.",
+      "D": "Helen must verify Oscar's identity, but she may satisfy this obligation by requesting that Nina provide a copy of Oscar's government-issued identification, since Nina is Helen's agent-client with direct access to Oscar and can vouch for the accuracy of the identification document."
     },
     "correct_answer": "B",
-    "explanation": "By-Law 7.1 imposes a dual identification and verification obligation where a client is acting on behalf of a third party — i.e., as an agent, nominee, or trustee. The rationale is anti-money laundering: allowing transactions to proceed through nominees or agents without identifying the underlying beneficial owner defeats the purpose of the client identification regime. Helen must therefore identify and verify both Nina (as the client instructing her) and Oscar (as the third-party principal whose funds will be used and who will benefit from the transaction). Failure to identify and verify Oscar is a breach of By-Law 7.1.",
-    "why_A_wrong": "Incorrect. Where a client acts as agent or nominee for a third party, the lawyer's obligations extend to both the client and the beneficial third party. The 'my client is Nina' argument is the exact misconception By-Law 7.1 addresses.",
-    "why_B_wrong": "This IS the correct answer. Where a client is acting as an agent or nominee for a third-party principal, By-Law 7.1 requires the lawyer to identify and verify both the client (Nina) and the third party (Oscar) on whose behalf the transaction is being conducted.",
-    "why_C_wrong": "Incorrect. The third-party verification obligation does not depend on Oscar attending the transaction in person. The obligation exists because of the nominee/agency structure, regardless of physical attendance.",
-    "why_D_wrong": "Incorrect. A statutory declaration is not the standard mechanism for third-party verification under By-Law 7.1. The lawyer must identify and verify the third party using the same methods applicable to direct client verification.",
+    "explanation": "Where a client is acting as an agent or nominee for a beneficial third-party principal, By-Law 7.1 requires the lawyer to identify and verify the beneficial principal — not merely identify them. Option C incorrectly suggests that only identification (name, address, occupation) is required for non-signatory principals; verification is required for the beneficial principal. Option D contains the Independent-Source Trap: Helen cannot rely on Nina to provide Oscar's ID because Nina is the agent whose use as an intermediary created the verification obligation in the first place; By-Law 7.1 requires verification through a source independent of the agent-client. Option A is wrong: because Oscar is the beneficial principal, Helen must go beyond verifying only Nina.",
+    "why_A_wrong": "When a client acts as agent or nominee, By-Law 7.1 requires the lawyer to identify and verify the beneficial principal as well. Verifying only the agent-client does not satisfy the full verification obligation.",
+    "why_B_wrong": "B is correct — By-Law 7.1 requires identification and verification of the beneficial principal (Oscar) where the client acts as an agent or nominee, using a source independent of the agent-client (Nina).",
+    "why_C_wrong": "By-Law 7.1 requires both identification and verification of the beneficial principal — not merely identification. The distinction between identification (collecting name, address, occupation) and verification (confirming identity through reliable documentation) is critical; verification is required for beneficial principals.",
+    "why_D_wrong": "By-Law 7.1 requires verification through a source that is independent of the agent-client. Helen cannot rely on Nina to provide or vouch for Oscar's identification because Nina is the very intermediary whose existence triggered the third-party verification obligation. Oscar's identity must be verified through an independent means.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -316,16 +318,18 @@
       "pr_issue_type": "client verification — third-party nominee"
     },
     "exam_trigger_words": [
-      "nominee",
       "agent",
-      "third party",
-      "beneficial owner",
-      "dual verification"
+      "nominee",
+      "beneficial principal",
+      "verification",
+      "identification",
+      "By-Law 7.1",
+      "independent source",
+      "third-party principal"
     ],
     "tested_concepts": [
-      "By-Law 7.1 — dual verification obligation when client acts as nominee or agent",
-      "must identify and verify both client and third-party principal",
-      "nominee structures do not eliminate third-party verification requirement"
+      "Client identification — agent/nominee triggers obligation to verify beneficial principal",
+      "Verification must use independent source, not the agent-client"
     ],
     "estimated_time_seconds": 120
   },

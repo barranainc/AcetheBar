@@ -315,7 +315,13 @@
       "applicable": true,
       "pr_issue_type": "fee agreement — written confirmation requirement"
     },
-    "exam_trigger_words": ["fee agreement", "written retainer", "oral agreement", "fee confirmation", "Rule 3.6-1"],
+    "exam_trigger_words": [
+      "fee agreement",
+      "written retainer",
+      "oral agreement",
+      "fee confirmation",
+      "Rule 3.6-1"
+    ],
     "tested_concepts": [
       "Rule 3.6-1 — fee arrangements should be confirmed in writing",
       "absence of written fee agreement creates professional risk",
@@ -364,7 +370,13 @@
       "applicable": true,
       "pr_issue_type": "referral fees — client disclosure and consent required"
     },
-    "exam_trigger_words": ["referral fee", "client disclosure", "client consent", "Rule 3.6-7", "non-disclosure referral"],
+    "exam_trigger_words": [
+      "referral fee",
+      "client disclosure",
+      "client consent",
+      "Rule 3.6-7",
+      "non-disclosure referral"
+    ],
     "tested_concepts": [
       "Rule 3.6-7 — referral fees permitted with client disclosure and consent",
       "non-disclosure of referral fee to client is breach of Rule 3.6-7",
@@ -413,7 +425,13 @@
       "applicable": true,
       "pr_issue_type": "fee splitting — client disclosure requirement"
     },
-    "exam_trigger_words": ["fee splitting", "different firms", "client disclosure", "division of fees", "Rule 3.6-6"],
+    "exam_trigger_words": [
+      "fee splitting",
+      "different firms",
+      "client disclosure",
+      "division of fees",
+      "Rule 3.6-6"
+    ],
     "tested_concepts": [
       "Rule 3.6-6 — fee splitting between lawyers in different firms requires client disclosure",
       "transparency in fee arrangements is a professional obligation",
@@ -462,7 +480,13 @@
       "applicable": true,
       "pr_issue_type": "solicitor's lien — limitations when imminent hearing"
     },
-    "exam_trigger_words": ["solicitor's lien", "unpaid fees", "file withholding", "imminent hearing", "prejudice client"],
+    "exam_trigger_words": [
+      "solicitor's lien",
+      "unpaid fees",
+      "file withholding",
+      "imminent hearing",
+      "prejudice client"
+    ],
     "tested_concepts": [
       "solicitor's lien is not absolute — constrained by duty not to prejudice client",
       "Rule 3.7-9 — withdrawal obligations limit exercise of lien",
@@ -511,7 +535,13 @@
       "applicable": true,
       "pr_issue_type": "contingency fee — mandatory disclosure of other fee options"
     },
-    "exam_trigger_words": ["contingency fee", "By-Law 9", "other fee options", "hourly fee", "informed choice"],
+    "exam_trigger_words": [
+      "contingency fee",
+      "By-Law 9",
+      "other fee options",
+      "hourly fee",
+      "informed choice"
+    ],
     "tested_concepts": [
       "By-Law 9 — contingency fee agreement must disclose other fee options",
       "client must be advised of hourly and other billing alternatives",
@@ -560,7 +590,13 @@
       "applicable": true,
       "pr_issue_type": "contingency fee — regulatory cap requires court approval if exceeded"
     },
-    "exam_trigger_words": ["contingency fee cap", "maximum percentage", "tribunal approval", "personal injury", "court approval"],
+    "exam_trigger_words": [
+      "contingency fee cap",
+      "maximum percentage",
+      "tribunal approval",
+      "personal injury",
+      "court approval"
+    ],
     "tested_concepts": [
       "By-Law 9 — contingency fee cap applies in personal injury matters",
       "exceeding cap requires court or tribunal approval",
@@ -586,14 +622,14 @@
     "fact_pattern": "Lawyer Sabrina has a contingency fee agreement with a client in a motor vehicle accident case. The agreement provides that Sabrina will receive 33% of the gross settlement 'including any amounts for costs or disbursements recovered from the defendant.' The case settles for $200,000, of which $20,000 was identified by the defendant's insurer as reimbursement for the client's medical and expert report costs. Sabrina proposes to apply her 33% to the full $200,000, including the $20,000 in disbursement reimbursements.",
     "call_of_question": "What is the most significant professional concern with Sabrina's proposed fee calculation?",
     "options": {
-      "A": "Sabrina cannot charge any contingency fee on a settlement; she may only charge on trial verdicts.",
+      "A": "The fee agreement was reviewed and signed by the client, who understood its terms; a signed contingency agreement between counsel and a client who had full opportunity to negotiate is binding and does not constitute professional misconduct simply because one component — disbursement reimbursements — is included in the base for the percentage calculation.",
       "B": "Charging a contingency percentage on funds specifically identified as reimbursement for disbursements already incurred may result in double recovery — Sabrina would be both recovering the disbursements themselves and charging a percentage fee on top of them; the agreement and applicable rules must be consulted to determine whether this is permissible.",
       "C": "Sabrina's agreement is valid and she may take 33% of the full settlement including the disbursement reimbursement, without any concern, because the agreement says 'including any amounts for costs or disbursements.'",
       "D": "Disbursement reimbursements from the opposing party always go directly to the client and cannot form part of the contingency fee base under any circumstances."
     },
     "correct_answer": "B",
     "explanation": "Applying a contingency percentage to funds specifically identified as reimbursement for out-of-pocket disbursements already paid by or on behalf of the client can result in the lawyer effectively being paid twice for the same expense — once through the disbursement recovery and again as a percentage of that recovery. By-Law 9 and fairness principles require clarity in contingency fee agreements about how disbursement recoveries will be treated. Where the agreement's language is ambiguous or where its application would result in a windfall, the lawyer should seek the client's informed consent to the calculation and should be prepared to have the fee assessed.",
-    "why_A_wrong": "Incorrect. Contingency fees may be charged on settlement amounts; the prohibition is not based on whether the case settled or went to trial.",
+    "why_A_wrong": "A signed agreement does not shield a lawyer from professional conduct obligations. The Rules of Professional Conduct impose independent limits on fee arrangements regardless of client consent. Taking a contingency percentage on funds specifically identified as reimbursement for disbursements — rather than as compensation — gives the lawyer more than the agreed-upon fee and is improper whether or not the client signed the agreement.",
     "why_B_wrong": "This IS the correct answer. Charging a contingency percentage on funds specifically identified as reimbursement for disbursements already incurred may result in double recovery — Sabrina would be both recovering the disbursements themselves and charging a percentage fee on top of them; the agreement and applicable rules must be consulted to determine whether this is permissible.",
     "why_C_wrong": "Incorrect. The existence of agreement language does not resolve the fairness concern. Agreement terms that result in double recovery may be challenged on assessment, and the lawyer should ensure the client fully understands the implications of this calculation.",
     "why_D_wrong": "Incorrect. How disbursement reimbursements are allocated depends on the agreement and the applicable rules. They are not automatically excluded from the contingency base in all circumstances — but including them without clarity creates risk of double recovery.",
@@ -609,11 +645,17 @@
       "applicable": true,
       "pr_issue_type": "contingency fee — double recovery on disbursements"
     },
-    "exam_trigger_words": ["contingency fee", "disbursements", "double recovery", "costs reimbursement", "gross settlement"],
+    "exam_trigger_words": [
+      "contingency fee",
+      "disbursements",
+      "settlement",
+      "signed agreement",
+      "fee calculation",
+      "professional conduct"
+    ],
     "tested_concepts": [
-      "contingency fee on disbursement reimbursements creates double recovery risk",
-      "By-Law 9 — clarity required on treatment of disbursement recoveries in contingency agreements",
-      "fair and reasonable fee assessment may reduce fee if double recovery occurs"
+      "Contingency fees — disbursement reimbursements excluded from contingency base",
+      "Signed agreement does not override Rules of Professional Conduct"
     ],
     "estimated_time_seconds": 120
   },
@@ -632,20 +674,20 @@
     "subtopic_id": "referral_fees",
     "subtopic_heading": "Referral Fees — Restrictions on Non-Licensees",
     "difficulty": "medium",
-    "fact_pattern": "Lawyer Hana regularly receives client referrals from a financial advisor who works at a wealth management firm. The financial advisor sends Hana estate planning clients. In exchange, Hana pays the financial advisor a flat $500 referral fee for each client who retains her. Hana tells each client at the first meeting that she may have received a referral from someone they know, but does not disclose the $500 fee or identify the financial advisor as the source.",
-    "call_of_question": "Is Hana's referral fee arrangement with the financial advisor permissible under the Rules of Professional Conduct?",
+    "fact_pattern": "Hana is a barrister who receives regular estate-planning referrals from Nicolas, an LSO-licensed paralegal at a separate firm. Nicolas conducts a brief 15-minute intake consultation with prospective clients whose matters fall outside his paralegal scope and then refers them to Hana. For every referral where the client subsequently retains Hana, Nicolas receives a $500 flat payment from Hana regardless of the time he spent during the intake. Hana's fee from the referred client is typically between $3,000 and $8,000. Hana does not disclose the $500 arrangement to the referred clients — she tells them only that Nicolas is 'a trusted colleague' who referred the file.",
+    "call_of_question": "Which of the following best describes whether Hana's fee arrangement with Nicolas complies with the Rules of Professional Conduct?",
     "options": {
-      "A": "Yes — referral fees to non-lawyers are permissible as long as the amount is reasonable and the client is generally informed that a referral may have occurred.",
-      "B": "No — Rule 3.6-7 prohibits paying referral fees to non-licensees; the financial advisor is not an LSO licensee, so no referral fee may be paid regardless of amount or disclosure.",
-      "C": "Yes — the $500 flat fee is a modest and commercially reasonable arrangement that is common practice and does not require specific disclosure.",
-      "D": "No — but only because Hana failed to disclose the specific amount of the referral fee; if she disclosed the $500, the arrangement would be permissible."
+      "A": "The arrangement is permissible because Nicolas is an LSO-licensed paralegal; the referral fee restrictions that apply to non-licensees do not apply when the recipient holds a valid LSO licence.",
+      "B": "The arrangement is non-compliant on two grounds: (1) the $500 flat fee paid per referral — without regard to the value of Nicolas's actual intake work — is a referral fee subject to Rule 3.6-7; and (2) Hana has not made the required disclosure of the referral fee arrangement to the referred clients, including the amount paid.",
+      "C": "Because Nicolas performs an actual 15-minute intake consultation before each referral, the $500 payment is compensation for legal services rendered and is properly characterized as a proportional fee-sharing arrangement; the referral fee rules therefore do not apply to this arrangement.",
+      "D": "The sole issue is that Hana and Nicolas should have a written inter-firm referral agreement on file; once such an agreement is executed, no further disclosure or compliance steps are required."
     },
     "correct_answer": "B",
-    "explanation": "Rule 3.6-7 of the LSO Rules of Professional Conduct permits referral fees only to other licensees — that is, lawyers or paralegals licensed by the LSO. Paying a referral fee to a non-licensee, such as a financial advisor, is expressly prohibited regardless of the amount, the client's awareness of a general referral, or the commercial reasonableness of the payment. The prohibition exists to prevent the commercialization of legal services and to ensure client referrals are made on the basis of client interest, not financial incentive to non-professionals.",
-    "why_A_wrong": "Incorrect. Referral fees to non-licensees are not permissible under Rule 3.6-7 even with general disclosure. The prohibition on paying referral fees to non-licensees is categorical.",
-    "why_B_wrong": "This IS the correct answer. No — Rule 3.6-7 prohibits paying referral fees to non-licensees; the financial advisor is not an LSO licensee, so no referral fee may be paid regardless of amount or disclosure.",
-    "why_C_wrong": "Incorrect. Commercial reasonableness and common practice do not render a prohibited referral fee permissible. The Rules prohibit referral fees to non-licensees regardless of amount.",
-    "why_D_wrong": "Incorrect. Disclosure of the amount does not cure the fundamental problem — the recipient (financial advisor) is a non-licensee, and Rule 3.6-7 prohibits referral fees to non-licensees entirely.",
+    "explanation": "Two distinct problems exist. First, the $500 flat payment is a referral fee regardless of Nicolas's licensee status: it is a fixed sum paid per referral and is not proportionate to the value of Nicolas's actual intake work (negating C). Under Rule 3.6-7, referral fees between licensees are permitted but must meet specific conditions, including client disclosure. Second, Hana has failed to disclose the referral fee arrangement — including its amount — to the referred clients as required. Option A is wrong: while licensee-to-licensee referral fees are not categorically prohibited, they are still subject to the referral fee rules including the disclosure requirement. Option D is wrong: a written inter-firm agreement does not substitute for client disclosure.",
+    "why_A_wrong": "LSO-licensee status does not exempt a referral fee from the referral fee rules. Payments between licensees are permitted under Rule 3.6-7 but must comply with all conditions, including disclosure of the arrangement and amount to the client.",
+    "why_B_wrong": "B is correct — the arrangement fails on two independent grounds: the flat per-referral payment is a referral fee regardless of licensee status, and Hana has not disclosed the arrangement and its amount to the referred clients as required by Rule 3.6-7.",
+    "why_C_wrong": "A flat fee paid per referral is a referral fee regardless of whether the referring party does some work. The defining characteristic of a referral fee is that it is paid for the referral itself — not proportionate to the value of services actually performed. A 15-minute intake that generates a $500 flat fee on a $3,000-$8,000 matter is not proportional fee-sharing.",
+    "why_D_wrong": "A written inter-firm agreement does not replace client disclosure. Rule 3.6-7 requires that the client be informed of and consent to the referral fee arrangement; an internal agreement between the lawyers does not satisfy this requirement.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -658,11 +700,18 @@
       "applicable": true,
       "pr_issue_type": "referral fee to non-licensee — prohibited"
     },
-    "exam_trigger_words": ["referral fee", "non-licensee", "financial advisor", "Rule 3.6-7", "prohibited referral"],
+    "exam_trigger_words": [
+      "referral fee",
+      "paralegal",
+      "licensee",
+      "flat fee",
+      "client disclosure",
+      "proportional",
+      "Rule 3.6-7"
+    ],
     "tested_concepts": [
-      "Rule 3.6-7 — referral fees only to LSO licensees",
-      "referral fees to non-lawyers are prohibited",
-      "amount and disclosure do not cure non-licensee prohibition"
+      "Referral fees — flat fee per referral = referral fee regardless of licensee status",
+      "Client disclosure of referral fee required including amount"
     ],
     "estimated_time_seconds": 90
   },
@@ -707,7 +756,13 @@
       "applicable": true,
       "pr_issue_type": "referral fee — disclosure of amount required"
     },
-    "exam_trigger_words": ["referral fee", "disclosure amount", "Rule 3.6-7", "full disclosure", "unenforceable referral"],
+    "exam_trigger_words": [
+      "referral fee",
+      "disclosure amount",
+      "Rule 3.6-7",
+      "full disclosure",
+      "unenforceable referral"
+    ],
     "tested_concepts": [
       "Rule 3.6-7 — amount of referral fee must be disclosed to client",
       "disclosure of existence alone is insufficient",
@@ -770,7 +825,6 @@
       "referral fees to paralegal licensees are conditionally permissible, not categorically prohibited",
       "client disclosure and consent are mandatory — 'thank you' characterization is a Pragmatic Bluff"
     ],
-    "updated_at": "2026-05-25",
     "estimated_time_seconds": 120
   },
   {
@@ -814,7 +868,13 @@
       "applicable": true,
       "pr_issue_type": "fee dispute — client's right to assessment and lawyer's duty to notify"
     },
-    "exam_trigger_words": ["assessment", "Solicitors Act", "paid account", "right to assess", "one month"],
+    "exam_trigger_words": [
+      "assessment",
+      "Solicitors Act",
+      "paid account",
+      "right to assess",
+      "one month"
+    ],
     "tested_concepts": [
       "Solicitors Act — assessment available within one month of delivery even if paid",
       "Rule 3.6-1 — lawyer must notify client of right to assessment",
@@ -863,7 +923,13 @@
       "applicable": true,
       "pr_issue_type": "excessive fees — proportionality test under Rule 3.6-1"
     },
-    "exam_trigger_words": ["excessive fee", "shocks the conscience", "Rule 3.6-1", "proportionality", "fair and reasonable"],
+    "exam_trigger_words": [
+      "excessive fee",
+      "shocks the conscience",
+      "Rule 3.6-1",
+      "proportionality",
+      "fair and reasonable"
+    ],
     "tested_concepts": [
       "Rule 3.6-1 — fees must be fair and reasonable",
       "excessive fee = fee that shocks the conscience or is disproportionate to work",
@@ -912,7 +978,13 @@
       "applicable": true,
       "pr_issue_type": "solicitor's retaining lien — documents exempt when urgent prejudice"
     },
-    "exam_trigger_words": ["retaining lien", "corporate minute book", "urgent transaction", "immediate prejudice", "file documents"],
+    "exam_trigger_words": [
+      "retaining lien",
+      "corporate minute book",
+      "urgent transaction",
+      "immediate prejudice",
+      "file documents"
+    ],
     "tested_concepts": [
       "retaining lien exists at common law in Ontario",
       "lien must be released for documents needed to prevent immediate serious harm",
@@ -961,7 +1033,13 @@
       "applicable": true,
       "pr_issue_type": "charging lien — equitable lien on proceeds; By-Law 9 written direction requirement"
     },
-    "exam_trigger_words": ["charging lien", "equitable lien", "settlement proceeds", "trust withdrawal", "written direction"],
+    "exam_trigger_words": [
+      "charging lien",
+      "equitable lien",
+      "settlement proceeds",
+      "trust withdrawal",
+      "written direction"
+    ],
     "tested_concepts": [
       "solicitor's charging lien — equitable lien on proceeds of action",
       "By-Law 9 — written direction required to withdraw from trust",
@@ -1010,7 +1088,13 @@
       "applicable": true,
       "pr_issue_type": "advance retainer — monthly accounting and trust obligations"
     },
-    "exam_trigger_words": ["advance retainer", "monthly account", "trust drawdown", "retainer depletion", "periodic accounts"],
+    "exam_trigger_words": [
+      "advance retainer",
+      "monthly account",
+      "trust drawdown",
+      "retainer depletion",
+      "periodic accounts"
+    ],
     "tested_concepts": [
       "By-Law 9 — advance retainer must be in trust until earned",
       "monthly accounts required for retainer-based arrangements",

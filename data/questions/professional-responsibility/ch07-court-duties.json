@@ -169,7 +169,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24",
+    "updated_at": "2026-05-25",
     "question_type": "single_best_answer",
     "id": "pr-07-unmerit-001",
     "chapter_number": 7,
@@ -182,14 +182,14 @@
     "fact_pattern": "Lawyer Ulrich is defending a commercial landlord in a wrongful eviction action. The tenant has strong evidence of the eviction. Ulrich's client instructs him to raise every possible defence, including defences that Ulrich knows have absolutely no legal or factual foundation, simply to delay the proceedings and impose maximum costs on the tenant. Ulrich proceeds as instructed.",
     "call_of_question": "Has Ulrich acted in accordance with his duties under the Rules of Professional Conduct?",
     "options": {
-      "A": "Yes — a defence lawyer's duty is to zealously advocate for the client by raising all possible defences; Ulrich is obligated to follow his client's instructions.",
+      "A": "Yes — the landlord has provided Ulrich with a signed statement expressing his good-faith belief in the validity of each defence raised; a lawyer is entitled to rely on the client's sworn good-faith statement when assessing whether a position has sufficient merit to advance.",
       "B": "Yes — the court can assess costs against the landlord at the end of the proceedings, which is the appropriate mechanism to address unfounded defences.",
       "C": "No — Rule 5.1-2 prohibits a lawyer from asserting a position in proceedings where the lawyer knows the position is not supported by law and has no merit; using unfounded defences to delay proceedings and harass the opposing party is a breach of the advocate's duty.",
       "D": "Yes — as long as the unfounded defences are technically available at law, raising them is a legitimate tactical decision within the advocate's discretion."
     },
     "correct_answer": "C",
     "explanation": "Rule 5.1-2 of the LSO Rules of Professional Conduct limits the advocate's role by prohibiting the assertion of positions in proceedings that the lawyer knows to be without merit. A lawyer cannot use litigation as a tool of delay and harassment by pleading defences that have no legal or factual foundation. Zealous advocacy does not extend to advancing knowingly baseless positions. The availability of costs as a remedy at the end of proceedings does not excuse the lawyer from complying with Rule 5.1-2 during the proceedings.",
-    "why_A_wrong": "Incorrect. Zealous advocacy does not include advancing positions the lawyer knows to have no merit. Rule 5.1-2 restricts the advocate's role regardless of client instructions.",
+    "why_A_wrong": "A client's subjective good-faith belief — even expressed in a signed statement — does not satisfy the objective test under Rule 5.1-2. The rule prohibits asserting a position the lawyer knows is without merit; this is an objective standard assessed by the lawyer, not a subjective standard determined by the client's belief. Ulrich knows, independently of what his client believes, that the defences are legally untenable. A client's signed statement of belief cannot override the lawyer's own professional knowledge that the positions lack merit.",
     "why_B_wrong": "Incorrect. The availability of a costs remedy does not authorize conduct that violates Rule 5.1-2 during the proceedings. The obligation is a constraint on the lawyer's conduct, not a matter to be remedied at the end.",
     "why_C_wrong": "This IS the correct answer. No — Rule 5.1-2 prohibits a lawyer from asserting a position in proceedings where the lawyer knows the position is not supported by law and has no merit; using unfounded defences to delay proceedings and harass the opposing party is a breach of the advocate's duty.",
     "why_D_wrong": "Incorrect. Technical legal availability does not make a defence appropriate to raise when the lawyer knows it has no merit. Rule 5.1-2 requires that positions advanced must have a reasonable legal and factual basis.",
@@ -206,16 +206,18 @@
       "pr_issue_type": "unmeritorious defence — asserting position without foundation"
     },
     "exam_trigger_words": [
-      "unmeritorious",
-      "no foundation",
-      "delay",
-      "all possible defences",
-      "Rule 5.1-2"
+      "without merit",
+      "frivolous",
+      "zealous advocacy",
+      "landlord",
+      "defence",
+      "client instruction",
+      "good faith",
+      "subjective belief"
     ],
     "tested_concepts": [
-      "Rule 5.1-2 — no positions without legal/factual foundation",
-      "zealous advocacy has limits",
-      "lawyer cannot follow client instruction to raise baseless defences"
+      "Duty not to assert frivolous positions — objective standard",
+      "Client subjective belief does not override lawyer professional judgment"
     ],
     "estimated_time_seconds": 150
   },
@@ -260,7 +262,13 @@
       "applicable": true,
       "pr_issue_type": "duty to tribunal — knowing adduction of perjured evidence; mandatory withdrawal"
     },
-    "exam_trigger_words": ["perjured evidence", "false testimony", "alibi witness", "must withdraw", "Rule 5.1-2"],
+    "exam_trigger_words": [
+      "perjured evidence",
+      "false testimony",
+      "alibi witness",
+      "must withdraw",
+      "Rule 5.1-2"
+    ],
     "tested_concepts": [
       "Rule 5.1-2(f) — cannot knowingly adduce perjured evidence",
       "client instruction does not authorize presenting false evidence",
@@ -309,7 +317,13 @@
       "applicable": true,
       "pr_issue_type": "duty of candour — false answer to direct judicial inquiry"
     },
-    "exam_trigger_words": ["direct judicial question", "false answer", "mislead court", "candour", "Rule 5.1-2"],
+    "exam_trigger_words": [
+      "direct judicial question",
+      "false answer",
+      "mislead court",
+      "candour",
+      "Rule 5.1-2"
+    ],
     "tested_concepts": [
       "Rule 5.1-2 — cannot knowingly make false statement to tribunal",
       "false answer to direct judicial inquiry is breach of candour",
@@ -358,7 +372,13 @@
       "applicable": true,
       "pr_issue_type": "duty to tribunal — improper ex parte communication"
     },
-    "exam_trigger_words": ["ex parte", "chambers", "without notice", "opposing counsel", "scheduling communication"],
+    "exam_trigger_words": [
+      "ex parte",
+      "chambers",
+      "without notice",
+      "opposing counsel",
+      "scheduling communication"
+    ],
     "tested_concepts": [
       "Rule 5.1-2 — prohibition on ex parte communications with court",
       "substantive communication with chambers requires notice to all parties",
@@ -371,7 +391,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24",
+    "updated_at": "2026-05-25",
     "question_type": "single_best_answer",
     "id": "pr-07-auth-001",
     "chapter_number": 7,
@@ -387,14 +407,14 @@
       "A": "No — in an adversarial system, a lawyer has no obligation to cite authorities that harm the client's case; discovering and citing helpful authorities is the opposing party's responsibility.",
       "B": "Yes — Rule 5.1-2 requires a lawyer as advocate to disclose to the tribunal any binding legal authority directly relevant to the matter that is adverse to the client's position, regardless of whether the opposing party has found it; the self-represented status of the tenant does not change this obligation.",
       "C": "No — the duty to disclose adverse legal authorities only applies in courts, not before administrative tribunals like the Landlord and Tenant Board.",
-      "D": "No — the decision was issued only three weeks ago and is too recent to be considered binding; Yasmine has no obligation to cite newly released decisions."
+      "D": "No — the duty of candour does not require Yasmine to proactively volunteer adverse authorities; her obligation is to answer accurately if the Landlord and Tenant Board specifically asks her whether any contrary decisions exist, but she has no affirmative duty to raise the issue without being asked."
     },
     "correct_answer": "B",
     "explanation": "Rule 5.1-2 of the LSO Rules of Professional Conduct requires a lawyer as advocate to cite relevant binding legal authorities known to the lawyer, even if unfavourable to the client's position. This duty applies before all tribunals, including administrative bodies like the Landlord and Tenant Board. The fact that the opposing party is self-represented and has not found the authority does not relieve Yasmine of the obligation — the duty runs to the tribunal, not to the opposing party. A recently issued decision is binding if it meets the applicable binding authority standard.",
     "why_A_wrong": "Incorrect. The adversarial system does not permit a lawyer to withhold binding adverse authorities from the tribunal. Rule 5.1-2 imposes a positive obligation to disclose such authorities.",
     "why_B_wrong": "This IS the correct answer. Yes — Rule 5.1-2 requires a lawyer as advocate to disclose to the tribunal any binding legal authority directly relevant to the matter that is adverse to the client's position, regardless of whether the opposing party has found it; the self-represented status of the tenant does not change this obligation.",
     "why_C_wrong": "Incorrect. The duty to disclose adverse binding authorities applies in all courts and tribunals before which a lawyer appears, including administrative tribunals such as the Landlord and Tenant Board.",
-    "why_D_wrong": "Incorrect. A recently issued decision is binding if it comes from a court of appropriate authority. The age of the decision does not determine whether it must be disclosed — its binding nature and relevance do.",
+    "why_D_wrong": "The duty to disclose binding adverse legal authorities under Rule 5.1-2 is affirmative and proactive — it is not contingent on the tribunal asking. A lawyer who is aware of a binding authority that is directly on point and adverse to the client's position must disclose it to the tribunal even if opposing counsel has not raised it and even if the tribunal has not asked. Candour is not a reactive obligation.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -407,11 +427,18 @@
       "applicable": true,
       "pr_issue_type": "duty to tribunal — disclosure of adverse binding authority"
     },
-    "exam_trigger_words": ["adverse authority", "binding decision", "self-represented", "administrative tribunal", "disclose to tribunal"],
+    "exam_trigger_words": [
+      "candour",
+      "adverse authority",
+      "binding decision",
+      "Landlord and Tenant Board",
+      "tribunal",
+      "proactive duty",
+      "wait to be asked"
+    ],
     "tested_concepts": [
-      "Rule 5.1-2 — duty to disclose adverse binding authorities to tribunal",
-      "duty applies before administrative tribunals not only courts",
-      "self-represented opposing party does not change disclosure obligation"
+      "Duty of candour — proactive disclosure of binding adverse authority",
+      "Applies to tribunals not just courts"
     ],
     "estimated_time_seconds": 90
   },
@@ -456,7 +483,13 @@
       "applicable": true,
       "pr_issue_type": "duty of candour — misleading by selective omission of material facts"
     },
-    "exam_trigger_words": ["selective omission", "false impression", "candour", "material facts", "Rule 5.1-2"],
+    "exam_trigger_words": [
+      "selective omission",
+      "false impression",
+      "candour",
+      "material facts",
+      "Rule 5.1-2"
+    ],
     "tested_concepts": [
       "Rule 5.1-2 — candour extends to not creating false impression through selective omission",
       "opposing counsel having document does not cure misleading omission",
@@ -505,7 +538,13 @@
       "applicable": true,
       "pr_issue_type": "ex parte applications — heightened duty of full and frank disclosure"
     },
-    "exam_trigger_words": ["ex parte", "full disclosure", "adverse facts", "without notice", "Rule 5.1-7"],
+    "exam_trigger_words": [
+      "ex parte",
+      "full disclosure",
+      "adverse facts",
+      "without notice",
+      "Rule 5.1-7"
+    ],
     "tested_concepts": [
       "Rule 5.1-7 — ex parte applications require full and frank disclosure of material adverse facts",
       "heightened candour obligation when opposing party absent",
@@ -554,7 +593,13 @@
       "applicable": true,
       "pr_issue_type": "adverse controlling authority — duty to disclose even when intending to argue against"
     },
-    "exam_trigger_words": ["adverse authority", "controlling authority", "wrongly decided", "distinguish", "mandatory disclosure"],
+    "exam_trigger_words": [
+      "adverse authority",
+      "controlling authority",
+      "wrongly decided",
+      "distinguish",
+      "mandatory disclosure"
+    ],
     "tested_concepts": [
       "Rule 5.1-2 — duty to disclose adverse controlling authority is independent of whether lawyer agrees with it",
       "disclosure obligation is proactive — does not require opposing party to raise authority first",
@@ -603,7 +648,13 @@
       "applicable": true,
       "pr_issue_type": "duty to rectify — false statement discovered after submission filed"
     },
-    "exam_trigger_words": ["rectify", "false statement", "correct the record", "withdraw", "Rule 5.1-2(i)"],
+    "exam_trigger_words": [
+      "rectify",
+      "false statement",
+      "correct the record",
+      "withdraw",
+      "Rule 5.1-2(i)"
+    ],
     "tested_concepts": [
       "Rule 5.1-2(i) — duty to rectify false statement to court once aware of falsity",
       "good faith at time of original statement does not extinguish duty to correct",
@@ -652,7 +703,13 @@
       "applicable": true,
       "pr_issue_type": "presentation of evidence — distinction between knowing and suspecting falsity"
     },
-    "exam_trigger_words": ["knows to be false", "suspicion", "adducing evidence", "Rule 5.1-2", "knowledge vs. suspicion"],
+    "exam_trigger_words": [
+      "knows to be false",
+      "suspicion",
+      "adducing evidence",
+      "Rule 5.1-2",
+      "knowledge vs. suspicion"
+    ],
     "tested_concepts": [
       "Rule 5.1-2 — prohibition on adducing evidence applies only when lawyer knows evidence is false",
       "suspicion alone does not prohibit adducing evidence",

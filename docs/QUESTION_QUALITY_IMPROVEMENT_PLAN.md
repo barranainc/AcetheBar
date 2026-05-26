@@ -386,6 +386,8 @@ The table below consolidates subject-level data across all five exams. PR subjec
 
 **Net assessment:** The PR bank is the product's core strength for ethical judgment training. The nine REWRITE questions are concentrated in topics where question structure is broken (definition recall, redundant pairs), not where the topic coverage is wrong. Drill A is measurably stronger than Drill B; both are exam-prep ready.
 
+**Phase 2K-Improve-B4 (2026-05-25):** All 26 identifiable PR IMPROVE items resolved. Improvements applied across all 13 chapters using 23 distinct distractor trap types (LPP-Scope-Restriction Trap, Informal-Consent Trap, Public-Domain Trap, Retroactive-Consent Trap, Self-Remedy Ethics Override Trap, Client-Instruction-Override Trap, Party-Agreement-Binds-Tribunal Trap, and others — full taxonomy in Phase B4 log). Key structural changes: ch11-discipline penalty-002 rewritten with a new consent-order/joint-proposal scenario; ch05-duties ref-fee-002 rewritten with a paralegal-licensee flat-fee scenario; ch06-trust audit-001 rewritten with a post-retirement audit scenario; ch06-trust bylaw-002 enriched with a morning-of-closing timing element. All three PR payloads (prdra, prdrb, prb200) rebuilt and re-baked into index.html. Validation: 200 PR questions, 0 errors; A∩B=0, A∪B=Bank200, non-PR payloads unchanged. See `docs/PHASE_2K_IMPROVE_B4_PR_LOG.md`.
+
 ---
 
 ## Section 4: Top Weakness Patterns

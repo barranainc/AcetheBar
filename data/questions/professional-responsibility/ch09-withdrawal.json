@@ -205,7 +205,13 @@
       "applicable": true,
       "pr_issue_type": "mandatory withdrawal — client persists in giving perjured testimony"
     },
-    "exam_trigger_words": ["perjury", "false testimony", "mandatory withdrawal", "persists", "Rule 3.7-7"],
+    "exam_trigger_words": [
+      "perjury",
+      "false testimony",
+      "mandatory withdrawal",
+      "persists",
+      "Rule 3.7-7"
+    ],
     "tested_concepts": [
       "Rule 3.7-7 — mandatory withdrawal when client persists in perjury",
       "written warning does not authorize continuation",
@@ -254,7 +260,13 @@
       "applicable": true,
       "pr_issue_type": "permissive withdrawal — non-payment — reasonable notice requirement"
     },
-    "exam_trigger_words": ["non-payment", "withdrawal", "reasonable notice", "fees overdue", "Rule 3.7-1"],
+    "exam_trigger_words": [
+      "non-payment",
+      "withdrawal",
+      "reasonable notice",
+      "fees overdue",
+      "Rule 3.7-1"
+    ],
     "tested_concepts": [
       "Rule 3.7-1 — non-payment is ground for optional withdrawal",
       "specific notice of intention to withdraw for non-payment required",
@@ -303,7 +315,13 @@
       "applicable": true,
       "pr_issue_type": "withdrawal from criminal proceedings — court permission required"
     },
-    "exam_trigger_words": ["criminal trial", "mid-trial withdrawal", "leave of court", "court permission", "Rule 3.7-8"],
+    "exam_trigger_words": [
+      "criminal trial",
+      "mid-trial withdrawal",
+      "leave of court",
+      "court permission",
+      "Rule 3.7-8"
+    ],
     "tested_concepts": [
       "Rule 3.7-8 — leave of court required to withdraw from criminal proceedings mid-trial",
       "court may refuse or impose conditions on withdrawal",
@@ -352,7 +370,13 @@
       "applicable": true,
       "pr_issue_type": "withdrawal — inadequate notice and failure to advise of upcoming deadlines"
     },
-    "exam_trigger_words": ["withdrawal notice", "upcoming deadlines", "no prejudice", "Rule 3.7-9", "file transfer"],
+    "exam_trigger_words": [
+      "withdrawal notice",
+      "upcoming deadlines",
+      "no prejudice",
+      "Rule 3.7-9",
+      "file transfer"
+    ],
     "tested_concepts": [
       "Rule 3.7-9 — reasonable notice on withdrawal must include deadline information",
       "lawyer must avoid foreseeable prejudice including advising of imminent hearings",
@@ -401,7 +425,13 @@
       "applicable": true,
       "pr_issue_type": "withdrawal — protecting client interests on withdrawal"
     },
-    "exam_trigger_words": ["Rule 3.7-9", "protect client", "trust funds", "file return", "withdrawal obligations"],
+    "exam_trigger_words": [
+      "Rule 3.7-9",
+      "protect client",
+      "trust funds",
+      "file return",
+      "withdrawal obligations"
+    ],
     "tested_concepts": [
       "Rule 3.7-9 — full list of obligations on withdrawal including trust accounting and deadline notice",
       "withdrawing lawyer not required to find replacement counsel",
@@ -414,7 +444,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24",
+    "updated_at": "2026-05-25",
     "question_type": "single_best_answer",
     "id": "pr-09-subs-001",
     "chapter_number": 9,
@@ -427,17 +457,17 @@
     "fact_pattern": "Lawyer Omar has been acting for the defendant in a civil action. Discoveries are complete and a trial date has been set for six months from now. Omar and his client have had a serious falling out — the client has written Omar an abusive letter and announced she is planning to retain new counsel. Omar wishes to formally withdraw from the record.",
     "call_of_question": "What procedural step is required for Omar to withdraw from a civil litigation matter that is on the record with a trial date?",
     "options": {
-      "A": "Omar may file a Notice of Change of Solicitor immediately and his withdrawal is complete upon filing.",
+      "A": "Omar may file a Notice of Withdrawal of Lawyer (Form 15B) unilaterally at any time in a civil matter; because this is not a criminal proceeding, no court motion is required and withdrawal is effective upon filing regardless of the client's consent.",
       "B": "Omar must bring a motion to the court for leave to withdraw and cannot be removed from the record until the court grants leave.",
       "C": "Omar must obtain the client's signed consent and then file the appropriate notice; once the client has announced she is retaining new counsel, no court leave is required.",
-      "D": "Omar must remain as counsel of record until the new lawyer files a Notice of Change of Solicitor on behalf of the client; he cannot withdraw unilaterally."
+      "D": "Because Omar works at a law firm, he can satisfy his withdrawal obligation by arranging for a colleague at the same firm to take over the file and filing a Notice of Change of Solicitor on the client's behalf — without the client's signature — provided the colleague has agreed to act."
     },
     "correct_answer": "C",
-    "explanation": "In Ontario civil litigation, the procedure for withdrawal depends on the circumstances. Where a client is retaining new counsel and will not be left unrepresented, and where the client consents, the standard procedure is for the new lawyer to file a Notice of Change of Solicitor — or for the withdrawing lawyer to file a Notice of Intention to Act in Person if the client will be self-represented. Court leave is generally required only when the client is not obtaining new representation and would be left unrepresented at a critical stage, or in criminal proceedings. In Omar's case, since the client has announced she is retaining new counsel, the appropriate path is for the new counsel to file the change notice; no court motion is required.",
-    "why_A_wrong": "Incorrect. A withdrawing lawyer does not simply file a Notice of Change of Solicitor unilaterally — that notice is typically filed by incoming counsel. A Notice of Intention to Act in Person or formal discharge is filed if the client is going unrepresented. Omar should coordinate with incoming counsel or the client.",
-    "why_B_wrong": "Incorrect. In a civil matter where the client is obtaining new representation, court leave to withdraw is not typically required. Court leave is generally needed when the client will be left unrepresented at a critical stage or in criminal proceedings mid-trial.",
-    "why_C_wrong": "This IS the correct answer. Omar must obtain the client's signed consent and then file the appropriate notice; once the client has announced she is retaining new counsel, no court leave is required.",
-    "why_D_wrong": "Incorrect. Omar does not have to wait passively for new counsel to file. There is a mechanism for the outgoing lawyer to facilitate the change of solicitor, and in some jurisdictions specific procedural steps can be initiated by outgoing counsel to formalize the withdrawal.",
+    "explanation": "When a lawyer is on the record in a civil proceeding and a trial date has been set, withdrawal requires either the client's signed consent (followed by filing the appropriate notice) or a court order granting leave to withdraw. Option A is incorrect: a unilateral Notice of Withdrawal without client consent or court order is not available where the matter is at trial or close to trial — the court's supervision of counsel changes is required to protect the administration of justice. Option B misstates the procedure — a motion is required only if the client's consent cannot be obtained, not in all cases. Option D is wrong: an internal firm transfer does not constitute the client's consent to withdrawal, and the client's signature on a consent to change of solicitor is required; a lawyer cannot unilaterally substitute a colleague without the client's agreement.",
+    "why_A_wrong": "A unilateral Notice of Withdrawal is not available in a civil matter that is on the record with a trial date. Court supervision of counsel of record is required to protect the client and the administration of justice; withdrawal requires either client consent or court order.",
+    "why_B_wrong": "A motion for leave is the correct procedure when the client does not consent — but Option B overstates the requirement by saying a motion is always required even where the client does consent. With client consent, a Notice of Change of Solicitor filed by the client (or incoming counsel) is sufficient.",
+    "why_C_wrong": "C is correct — in a civil matter on the record with a trial date, withdrawal requires the client's signed consent (followed by filing the appropriate notice) or, absent consent, a court order granting leave to withdraw.",
+    "why_D_wrong": "An internal firm transfer does not substitute for the client's consent to a change of counsel. The client has a right to choose their lawyer; a colleague cannot be substituted without the client's agreement, and the client's signature on the appropriate notice is required.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -450,11 +480,19 @@
       "applicable": true,
       "pr_issue_type": "withdrawal procedure — civil litigation — court leave not required when replacement counsel retained"
     },
-    "exam_trigger_words": ["Notice of Change of Solicitor", "civil litigation", "withdrawal", "court leave", "Rule 3.7-8"],
+    "exam_trigger_words": [
+      "withdrawal",
+      "civil litigation",
+      "on the record",
+      "trial date",
+      "Notice of Withdrawal",
+      "Notice of Change of Solicitor",
+      "client consent",
+      "court leave"
+    ],
     "tested_concepts": [
-      "Rule 3.7-8 — court leave not generally required for civil withdrawal when client retaining new counsel",
-      "distinction between civil and criminal withdrawal procedures",
-      "Notice of Change of Solicitor procedure in civil litigation"
+      "Withdrawal — civil matter on the record requires client consent or court order",
+      "Internal firm transfer does not satisfy client consent requirement"
     ],
     "estimated_time_seconds": 90
   },
@@ -499,7 +537,13 @@
       "applicable": true,
       "pr_issue_type": "withdrawal mid-trial for non-payment — advance notice alone does not override timing constraint"
     },
-    "exam_trigger_words": ["non-payment", "mid-trial", "prejudice", "timing", "Rule 3.7-1"],
+    "exam_trigger_words": [
+      "non-payment",
+      "mid-trial",
+      "prejudice",
+      "timing",
+      "Rule 3.7-1"
+    ],
     "tested_concepts": [
       "Rule 3.7-1 — non-payment is permissive ground subject to timing constraint",
       "advance notice satisfies one requirement but not the no-prejudice timing requirement",
@@ -512,7 +556,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24",
+    "updated_at": "2026-05-25",
     "question_type": "single_best_answer",
     "id": "pr-09-time-001",
     "chapter_number": 9,
@@ -522,20 +566,20 @@
     "subtopic_id": "timing_prejudice",
     "subtopic_heading": "Timing of Withdrawal — Prejudice to Client — Rule 3.7-1",
     "difficulty": "easy",
-    "fact_pattern": "Lawyer Devon has been acting for a client in a corporate commercial matter involving the negotiation of a shareholders agreement. No proceedings have been filed in any court. The client has breached the retainer by failing to follow Devon's reasonable legal advice on multiple occasions, and the working relationship has completely broken down. There are no immediate deadlines — the next meeting with the other side is in six weeks.",
-    "call_of_question": "In these circumstances, is Devon entitled to withdraw from the transactional retainer under Rule 3.7-1?",
+    "fact_pattern": "Lawyer Devon has been acting for a client in a corporate commercial matter involving the negotiation of a shareholders agreement. No court proceedings have been filed. Devon's retainer letter includes a clause permitting withdrawal for non-payment of fees. The client has failed to pay the agreed retainer top-up despite two written requests from Devon over the past three weeks. The shareholders agreement is scheduled to be finalized at a signing meeting in three days, and the client has not yet retained replacement counsel. Devon is considering withdrawing immediately.",
+    "call_of_question": "In these circumstances, is Devon entitled to withdraw from the transactional retainer, and if so, what obligations apply?",
     "options": {
-      "A": "No — a lawyer cannot withdraw from a transactional matter unless the client consents to the withdrawal.",
-      "B": "Yes — loss of confidence in the lawyer-client relationship and client failure to follow reasonable legal advice are grounds for optional withdrawal under Rule 3.7-1; with no immediate deadlines and six weeks until the next step, withdrawal at this time is unlikely to cause prejudice and Devon may withdraw on reasonable notice.",
-      "C": "No — Devon must complete the shareholders agreement before withdrawing because the client has already paid fees for this work.",
-      "D": "Yes — but only if Devon can find replacement counsel for the client before withdrawing."
+      "A": "Devon cannot withdraw now because the three-day window to the signing creates a situation of material prejudice; under the Rules of Professional Conduct, a lawyer may only withdraw from a transactional matter more than 30 days before any scheduled transaction date.",
+      "B": "Yes — loss of confidence in the retainer relationship combined with the client's failure to comply with Devon's reasonable fee requests gives Devon grounds to withdraw under Rule 3.7-1; however, Devon must give reasonable notice and take reasonable steps to avoid prejudice to the client, including allowing time to retain replacement counsel.",
+      "C": "The client's failure to respond to Devon's retainer top-up requests constitutes an implied termination of the retainer; Devon's obligations are fully discharged and no formal notice of withdrawal is required.",
+      "D": "Withdrawal from a transactional matter where a transaction date has been set follows the same rules as withdrawal from litigation; Devon must obtain court approval before withdrawing."
     },
     "correct_answer": "B",
-    "explanation": "Rule 3.7-1 of the LSO Rules of Professional Conduct permits optional withdrawal in circumstances including loss of confidence in the lawyer-client relationship and client failure to follow reasonable legal advice. The key constraint is that withdrawal must not cause prejudice to the client. In a transactional matter with no litigation, no court proceedings, and no immediate deadlines for six weeks, withdrawal at this stage is not prejudicial — the client has ample time to retain new counsel and continue the transaction. Devon is entitled to withdraw on reasonable notice in these circumstances.",
-    "why_A_wrong": "Incorrect. Client consent is not required for withdrawal in circumstances where Rule 3.7-1 permissive grounds exist. The obligation is to give reasonable notice and avoid prejudice — not to obtain client consent.",
-    "why_B_wrong": "This IS the correct answer. Yes — loss of confidence in the lawyer-client relationship and client failure to follow reasonable legal advice are grounds for optional withdrawal under Rule 3.7-1; with no immediate deadlines and six weeks until the next step, withdrawal at this time is unlikely to cause prejudice and Devon may withdraw on reasonable notice.",
-    "why_C_wrong": "Incorrect. Payment of fees for work does not require Devon to continue the retainer. Rule 3.7-1 allows withdrawal even where some fees have been paid, subject to proper accounting of trust funds on withdrawal.",
-    "why_D_wrong": "Incorrect. Devon is not required to find replacement counsel before withdrawing. The obligation is to give reasonable notice that allows the client time to find new representation independently.",
+    "explanation": "Rule 3.7-1 permits withdrawal where a client fails to pay fees as agreed and where the client will not follow the lawyer's reasonable advice. However, even when grounds for withdrawal exist, Devon must give reasonable notice and take steps to avoid prejudice — especially given the upcoming three-day deadline. Devon should not simply withdraw immediately without adequate notice. Option A is wrong: there is no 30-day rule for transactional matters in the Rules. Option C is wrong: non-payment is not an implied termination — Devon must formally withdraw with notice. Option D is wrong: court approval is required for litigation matters on the record, not for transactional files.",
+    "why_A_wrong": "There is no 30-day minimum notice period for withdrawal from transactional matters in the Rules of Professional Conduct. However, the requirement to give 'reasonable notice' and avoid prejudice to the client is a genuine obligation that Devon must satisfy — particularly given the three-day timeline.",
+    "why_B_wrong": "B is correct — Rule 3.7-1 permits withdrawal for non-payment, but Devon must give reasonable notice and take reasonable steps to avoid prejudice to the client, particularly given the three-day closing deadline.",
+    "why_C_wrong": "Non-payment of fees is not an implied termination of the retainer. Devon must formally withdraw by giving notice and taking steps to protect the client's interests. Treating silence as termination would leave the client without counsel and without fair warning.",
+    "why_D_wrong": "Court approval for withdrawal is required in litigation matters where a lawyer is on the record, not for transactional matters. The shareholders agreement has not been filed in any court proceeding.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -548,11 +592,20 @@
       "applicable": true,
       "pr_issue_type": "optional withdrawal — transactional matter — timing not prejudicial"
     },
-    "exam_trigger_words": ["optional withdrawal", "transactional", "Rule 3.7-1", "no prejudice", "loss of confidence"],
+    "exam_trigger_words": [
+      "withdrawal",
+      "transactional",
+      "non-payment",
+      "closing date",
+      "reasonable notice",
+      "Rule 3.7-1",
+      "30 days",
+      "implied termination"
+    ],
     "tested_concepts": [
-      "Rule 3.7-1 — optional withdrawal permitted for loss of confidence and client failure to follow advice",
-      "transactional withdrawal easier — no imminent court prejudice",
-      "client consent not required for withdrawal under Rule 3.7-1"
+      "Withdrawal — transactional matters; reasonable notice required",
+      "Non-payment = withdrawal ground; not implied termination",
+      "No court approval required for transactional withdrawal"
     ],
     "estimated_time_seconds": 90
   },
@@ -597,7 +650,14 @@
       "applicable": true,
       "pr_issue_type": "civil litigation withdrawal near trial — court leave may be required when client left unrepresented"
     },
-    "exam_trigger_words": ["court leave", "civil withdrawal", "unrepresented", "pre-trial", "imminent trial", "Rule 3.7-8"],
+    "exam_trigger_words": [
+      "court leave",
+      "civil withdrawal",
+      "unrepresented",
+      "pre-trial",
+      "imminent trial",
+      "Rule 3.7-8"
+    ],
     "tested_concepts": [
       "Rule 3.7-8 — civil courts have inherent jurisdiction to require leave near trial",
       "withdrawal leaving unrepresented party four weeks before trial warrants motion for leave",

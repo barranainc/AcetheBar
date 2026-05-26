@@ -476,7 +476,13 @@
       "applicable": true,
       "pr_issue_type": "competence — neglect of client matter"
     },
-    "exam_trigger_words": ["neglect", "failure to act", "abandoned file", "no steps taken", "Rule 3.1-2"],
+    "exam_trigger_words": [
+      "neglect",
+      "failure to act",
+      "abandoned file",
+      "no steps taken",
+      "Rule 3.1-2"
+    ],
     "tested_concepts": [
       "Rule 3.1-2 — neglect constitutes breach of competence",
       "failure to respond to communications and attend hearings is neglect",
@@ -525,7 +531,13 @@
       "applicable": true,
       "pr_issue_type": "competence — duty to promptly advise client of relevant developments"
     },
-    "exam_trigger_words": ["Rule 49 offer", "settlement offer", "promptly advise", "developments", "client communication"],
+    "exam_trigger_words": [
+      "Rule 49 offer",
+      "settlement offer",
+      "promptly advise",
+      "developments",
+      "client communication"
+    ],
     "tested_concepts": [
       "Rule 3.1-2 — duty to promptly communicate relevant developments",
       "settlement decisions belong to client",
@@ -574,7 +586,13 @@
       "applicable": true,
       "pr_issue_type": "competence — recognizing limits and duty to refer"
     },
-    "exam_trigger_words": ["limits of competence", "new area", "referral", "derivative action", "related expertise"],
+    "exam_trigger_words": [
+      "limits of competence",
+      "new area",
+      "referral",
+      "derivative action",
+      "related expertise"
+    ],
     "tested_concepts": [
       "Rule 3.1-2 — competence requires legal and procedural expertise not only factual familiarity",
       "related factual subject matter does not establish legal competence",
@@ -714,14 +732,14 @@
       "A": "Yes — a lawyer who reviews a contract must advise on all aspects of the document, including its commercial terms, regardless of the agreed scope of the retainer.",
       "B": "No — Rule 3.2-1A permits a lawyer and client to agree in writing to limit the scope of the retainer; provided the limitation was reasonable in the circumstances and clearly communicated, Takeshi's obligation was confined to document review and he had no duty to advise beyond that scope.",
       "C": "No — but only because Sofia is a sophisticated commercial client who should have known to ask about commercial terms.",
-      "D": "Yes — a limited-scope retainer is only valid in litigation matters, not in transactional contexts."
+      "D": "Yes — even under a valid written limited-scope retainer, Takeshi retained a residual professional duty to identify each excluded area of advice and explicitly warn Sofia about those exclusions in writing; because he failed to enumerate the excluded advice, he cannot rely on the scope limitation."
     },
     "correct_answer": "B",
     "explanation": "Rule 3.2-1A of the LSO Rules of Professional Conduct permits a lawyer and client to agree to limit the scope of the representation, provided the limitation is reasonable in the circumstances, clearly communicated, and confirmed in writing. Where such an agreement is validly in place, the lawyer's competence obligation is assessed against the agreed limited scope. Takeshi's retainer was confined to document review; advising on commercial negotiation strategy was expressly excluded. He did not breach his competence obligation by staying within the agreed boundaries.",
     "why_A_wrong": "Incorrect. Rule 3.2-1A expressly permits limits on the scope of representation. A lawyer is not required to advise on matters outside the agreed retainer, provided the limitation is valid and in writing.",
     "why_B_wrong": "This IS the correct answer. Rule 3.2-1A permits a lawyer and client to agree in writing to limit the scope of the retainer; provided the limitation was reasonable in the circumstances and clearly communicated, Takeshi's obligation was confined to document review and he had no duty to advise beyond that scope.",
     "why_C_wrong": "Incorrect. The basis for the valid limited-scope retainer is the written agreement under Rule 3.2-1A, not the client's sophistication. Client sophistication is not a separate legal basis for limiting scope.",
-    "why_D_wrong": "Incorrect. Rule 3.2-1A applies broadly to legal services and is not restricted to litigation matters. Limited-scope retainers are valid in transactional contexts as well.",
+    "why_D_wrong": "While clarity in limited-scope retainers is advisable, there is no rule requiring a lawyer to enumerate every excluded topic in writing. The retainer agreement clearly defined the scope as document review only; Rule 3.2-1A does not impose a separate duty to list all advice that will not be provided. The written scope limitation stands.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Professional Responsibility",
@@ -735,16 +753,16 @@
       "pr_issue_type": "competence — scope of retainer"
     },
     "exam_trigger_words": [
-      "limited scope",
-      "retainer agreement",
-      "document review only",
-      "agreed scope",
-      "Rule 3.2-1A"
+      "limited-scope retainer",
+      "scope of retainer",
+      "competence",
+      "transactional",
+      "residual duty",
+      "excluded advice"
     ],
     "tested_concepts": [
-      "Rule 3.2-1A — limited-scope retainer valid if written and reasonable",
-      "competence assessed against agreed scope",
-      "no duty to advise beyond expressly limited retainer"
+      "Limited-scope retainer — valid in transactional matters",
+      "No residual duty to enumerate excluded topics"
     ],
     "estimated_time_seconds": 90
   },
@@ -876,14 +894,14 @@
     "fact_pattern": "Xavier is the sole practitioner at a small real estate firm. He is extremely busy and has delegated to his legal assistant the task of deciding which client funds go into trust and which go into the general account, without providing any instructions or a checklist. The legal assistant deposits several client retainer funds into the general account instead of trust, causing a trust account shortfall. Xavier tells the Law Society that he trusted his experienced assistant to handle financial administration.",
     "call_of_question": "Which of the following best describes the professional responsibility issue arising from Xavier's conduct under Rule 5.01?",
     "options": {
-      "A": "Xavier is not responsible because the legal assistant exercised independent judgment on an administrative matter.",
+      "A": "Xavier has not breached Rule 5.01 because he conducts monthly trust reconciliations, which constitutes adequate ongoing supervision of his legal assistant's trust-related decisions.",
       "B": "Xavier has not breached any rule because trust fund decisions are administrative, not legal, in nature.",
       "C": "Xavier breached Rule 5.01 by delegating a matter requiring professional judgment — specifically, the determination of how client funds must be handled — to a non-lawyer without instructions or oversight; professional judgment on trust obligations cannot be delegated.",
       "D": "Xavier's liability is limited to the amount of the shortfall, not professional discipline."
     },
     "correct_answer": "C",
     "explanation": "Rule 5.01 requires a lawyer to supervise non-lawyers and to ensure that tasks requiring professional judgment are not effectively delegated without adequate guidance. Decisions about whether client funds must go into trust or the general account are not purely administrative — they require the application of professional rules governing trust accounts. Delegating this determination to a legal assistant without instructions or oversight crosses the line from permissible task delegation into impermissible delegation of professional judgment. Xavier is professionally responsible for the trust shortfall.",
-    "why_A_wrong": "Incorrect. A legal assistant exercising unsupervised judgment over trust fund allocation is not acting within a proper sphere of delegated authority. The decision requires professional judgment that only the supervising lawyer can provide.",
+    "why_A_wrong": "Monthly reconciliation review does not cure the fundamental delegation problem. Rule 5.01 requires that the decision about which funds belong in trust — a matter requiring professional legal judgment — be made by the lawyer, not delegated to a non-lawyer. Reviewing outcomes monthly is not the same as maintaining the required supervisory control over the decision itself.",
     "why_B_wrong": "Incorrect. Trust account decisions are legal obligations governed by the Rules of Professional Conduct and the Law Society's by-laws. They are not purely administrative matters that can be delegated without guidance.",
     "why_C_wrong": "This IS the correct answer. Xavier breached Rule 5.01 by delegating a matter requiring professional judgment — specifically, the determination of how client funds must be handled — to a non-lawyer without instructions or oversight; professional judgment on trust obligations cannot be delegated.",
     "why_D_wrong": "Incorrect. A trust account shortfall arising from inadequate supervision exposes Xavier to professional discipline under the Rules of Professional Conduct, not merely civil liability for the shortfall amount.",
@@ -900,16 +918,16 @@
       "pr_issue_type": "supervision — non-delegation of professional judgment"
     },
     "exam_trigger_words": [
-      "legal assistant",
+      "supervision",
       "trust account",
-      "delegation",
+      "legal assistant",
+      "delegate",
       "professional judgment",
-      "Rule 5.01"
+      "monthly reconciliation"
     ],
     "tested_concepts": [
-      "Rule 5.01 — professional judgment on trust obligations cannot be delegated to non-lawyers",
-      "trust fund decisions require lawyer oversight",
-      "supervision obligation includes providing adequate instructions"
+      "Supervision — cannot delegate trust fund classification to non-lawyer",
+      "Monthly review insufficient substitute for proper oversight"
     ],
     "estimated_time_seconds": 90
   },
@@ -1023,7 +1041,6 @@
       "holding out as a specialist attracts specialist standard of care regardless of actual experience",
       "professional responsibility breach does not require proof of client financial loss"
     ],
-    "updated_at": "2026-05-25",
     "estimated_time_seconds": 120
   }
 ]
