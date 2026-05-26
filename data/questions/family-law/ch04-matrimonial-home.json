@@ -6,7 +6,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23",
+    "updated_at": "2026-05-25",
     "chapter_number": 4,
     "chapter_title": "Matrimonial Home",
     "topic_id": "matrimonial_home",
@@ -14,20 +14,20 @@
     "subtopic_id": "possession_rights",
     "subtopic_heading": "Equal Right of Possession — s. 19",
     "difficulty": "easy",
-    "fact_pattern": "During the marriage, the husband is the sole registered owner of the couple's family home. The wife has never been on title. She asks her lawyer whether she has any right to remain in the home.",
-    "call_of_question": "What right does FLA s.19 give the wife with respect to the matrimonial home?",
+    "fact_pattern": "Sandra and her husband Leon have been married for eight years. Leon is the sole registered owner of the family home in Toronto, where the couple lives and has lived throughout the marriage. They also own a cottage in Muskoka (registered jointly) where they spend four to six weeks each summer. Leon argues that the Muskoka cottage — not the Toronto home — is the matrimonial home because they spend their most enjoyable time there and he considers it their 'real' home. He further argues that Sandra has no possession rights because her name does not appear on the Toronto home's title.",
+    "call_of_question": "Under the Family Law Act, which of the following most accurately describes Sandra's rights with respect to the Toronto home?",
     "options": {
-      "A": "The wife has no right to remain because she does not own the home.",
-      "B": "Both spouses have an equal right to possession of the matrimonial home regardless of which spouse owns it, under FLA s.19(1).",
-      "C": "The wife has a right to possession only if she has contributed financially to the mortgage payments.",
-      "D": "The wife's right to possession depends entirely on a court order."
+      "A": "Sandra has no right to possession of the Toronto home because she is not a registered owner and has never been on title.",
+      "B": "The Toronto home qualifies as a matrimonial home because it is ordinarily occupied by the spouses as their family residence; Sandra has an equal right to possession under FLA s. 19(1) regardless of which spouse holds title.",
+      "C": "Sandra has no right to possession of the Toronto home because the Muskoka cottage, jointly owned by both spouses, is the matrimonial home — only one property can be designated a matrimonial home, and the cottage qualifies because both spouses prefer it.",
+      "D": "Sandra's right to possession of the Toronto home depends on her having contributed to mortgage payments or household expenses during the marriage."
     },
     "correct_answer": "B",
-    "explanation": "FLA s.19(1) grants both spouses an equal right to possession of every property that is their matrimonial home. This right exists independently of ownership; legal title in one spouse does not deprive the other of possession rights. The right arises by statute, not by court order.",
-    "why_A_wrong": "Ownership is irrelevant to the s.19 possession right. The FLA specifically grants the right to both spouses regardless of who holds legal title.",
-    "why_B_wrong": "This IS the correct answer. FLA s.19(1) grants equal possession rights to both spouses regardless of ownership.",
-    "why_C_wrong": "No financial contribution to the mortgage is required. The s.19 right arises from marriage and the property's status as a matrimonial home, not from financial contributions.",
-    "why_D_wrong": "The s.19 right arises automatically by statute. A court order is relevant if one spouse seeks exclusive possession under s.24, which is a different and distinct remedy.",
+    "explanation": "Under FLA s. 18(1), a 'matrimonial home' is every property in which a person has an interest and that is or, if the spouses have separated, was at the time of separation ordinarily occupied by the person and his or her spouse as their family residence. The Toronto home, occupied throughout the marriage, clearly qualifies. Importantly, under FLA s. 18, there can be more than one matrimonial home — both the Toronto home and the Muskoka cottage could qualify if both are ordinarily occupied as a family residence. Leon cannot exclude the Toronto home from matrimonial home status simply by asserting a preference for the cottage. Once the Toronto home is a matrimonial home, FLA s. 19(1) grants both spouses an equal right to possession — regardless of which spouse owns it or is on title.",
+    "why_A_wrong": "A reflects the Ownership-Determines-Possession Trap. FLA s. 19(1) expressly grants both spouses an equal right to possession of every matrimonial home regardless of which spouse owns it or appears on title. Ownership and possession rights under the FLA are entirely distinct. Legal title in one spouse does not deprive the other spouse of the s. 19(1) equal right to possession.",
+    "why_B_wrong": "B is correct. The Toronto home is a matrimonial home under FLA s. 18 because the spouses ordinarily occupy it as their family residence. FLA s. 19(1) grants Sandra an equal right to possession regardless of ownership. Leon's argument that the cottage is the 'real' home is irrelevant — a couple can have more than one matrimonial home, and the Toronto home's ordinary occupancy throughout the marriage qualifies it independently.",
+    "why_C_wrong": "C applies two errors. The Multiple-Residence Trap: the FLA does not limit spouses to one matrimonial home. Both the Toronto home and the Muskoka cottage could qualify as matrimonial homes simultaneously if both are ordinarily occupied as family residences. The Primary-Residence-Required Trap: a property need not be the primary or preferred residence to qualify as a matrimonial home — ordinary occupancy as a family residence suffices. Even if the cottage is also a matrimonial home, this does not displace the Toronto home's status.",
+    "why_D_wrong": "D invents a financial-contribution requirement. The Financial-Contribution Trap: FLA s. 19(1) grants the right to possession based on marriage and the property being a matrimonial home — not on whether the non-titled spouse contributed to mortgage payments or household expenses. The right arises by statute regardless of each spouse's financial contribution to the property.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Family Law",
@@ -41,16 +41,24 @@
       "pr_issue_type": null
     },
     "exam_trigger_words": [
-      "s.19",
-      "equal right of possession",
       "matrimonial home",
-      "ownership",
-      "possession"
+      "FLA s.18",
+      "FLA s.19(1)",
+      "equal possession",
+      "multiple matrimonial homes",
+      "ownership vs possession",
+      "ordinarily occupied",
+      "family residence",
+      "title irrelevant"
     ],
     "tested_concepts": [
-      "s.19(1) equal possession",
-      "possession independent of ownership",
-      "statutory right"
+      "FLA s.18 matrimonial home definition — ordinary occupation",
+      "multiple properties can qualify as matrimonial homes simultaneously",
+      "FLA s.19(1) equal possession regardless of title",
+      "Ownership-Determines-Possession Trap",
+      "Multiple-Residence Trap",
+      "Primary-Residence-Required Trap",
+      "Financial-Contribution Trap"
     ],
     "estimated_time_seconds": 90
   },
@@ -560,20 +568,20 @@
     "subtopic_heading": "Exclusive Possession Orders — s. 24",
     "difficulty": "easy",
     "question_type": "single_best_answer",
-    "fact_pattern": "Sylvie and her husband Bernard are separating. The matrimonial home is registered in Bernard's name only. Sylvie has two children, ages 7 and 10, who are enrolled in school nearby. Bernard insists that because he owns the home, Sylvie and the children must leave immediately. Sylvie brings a motion for exclusive possession of the matrimonial home.",
-    "call_of_question": "Which statement correctly describes the court's power to grant exclusive possession under FLA s. 24(1)?",
+    "fact_pattern": "Sylvie and her husband Bernard are separating. The matrimonial home is registered in Bernard's name only. Sylvie has two children, ages 7 and 10, who are enrolled in schools one block from the matrimonial home. Bernard has not committed any act of violence and has alternative accommodation available at his parents' home. Sylvie applies for exclusive possession of the matrimonial home on an interim motion.",
+    "call_of_question": "Which of the following most accurately describes how a court should assess Sylvie's application for exclusive possession under FLA s. 24?",
     "options": {
-      "A": "The court cannot grant exclusive possession to Sylvie because Bernard is the registered owner of the home.",
-      "B": "The court may grant exclusive possession of the matrimonial home to Sylvie for a period of time under FLA s. 24(1), regardless of which spouse owns the home.",
-      "C": "The court may grant exclusive possession only if Bernard has committed an act of violence against Sylvie.",
-      "D": "Exclusive possession can only be granted as part of a final divorce order, not on an interim motion."
+      "A": "Sylvie's application must be dismissed because Bernard has not committed any act of violence; the absence of violence is a precondition to bringing an exclusive possession application.",
+      "B": "The court must weigh the s. 24(3) factors including the best interests of the children (school proximity and disruption), the availability of alternative accommodation for Bernard, and any other relevant circumstances; ownership by Bernard is not a bar to the order and violence is not a precondition.",
+      "C": "Because Bernard is the registered owner and has not committed violence, the court must give significant weight to his ownership interest — exclusive possession orders must be limited to situations involving family violence or immediate safety risk.",
+      "D": "Exclusive possession can only be granted as part of a final parenting order; it is not available on an interim motion where final custody has not yet been determined."
     },
     "correct_answer": "B",
-    "explanation": "Under the Family Law Act, R.S.O. 1990, c. F.3, s. 24(1), the court may order exclusive possession of the matrimonial home or any part of it to one spouse for a specified period, regardless of ownership. The non-owner spouse can receive an exclusive possession order even where the other spouse holds legal title. Ownership is one consideration, but it is not a bar to granting exclusive possession to the non-owning spouse.",
-    "why_A_wrong": "FLA s. 24(1) expressly provides that exclusive possession may be granted regardless of ownership. Bernard's registration on title does not prevent a court order in Sylvie's favour.",
-    "why_B_wrong": "This IS the correct answer. FLA s. 24(1) gives the court jurisdiction to order exclusive possession to either spouse regardless of which holds title.",
-    "why_C_wrong": "Violence is one of the s. 24(3) factors, but it is not a precondition for an exclusive possession order. The court weighs all relevant factors; exclusive possession can be granted in the absence of violence where other factors — such as the best interests of the children — support it.",
-    "why_D_wrong": "FLA s. 24 permits exclusive possession orders on an interim, temporary, or final basis. There is no restriction to final orders.",
+    "explanation": "Under FLA s. 24(1), the court may order exclusive possession of the matrimonial home or any part of it to one spouse, regardless of which spouse owns it, for a period of time. Section 24(3) requires the court to consider: (a) the best interests of the children; (b) the financial position of the spouses; (c) any written agreement; (d) the availability of other suitable and affordable accommodation; (e) any order or right to possession of the home; and (f) any violence committed by a spouse against the other or the children. Violence is one factor — not a precondition. Here, the children's school proximity and the disruption to their routine are strong factors under s. 24(3)(a), and Bernard's availability of alternative accommodation weighs in Sylvie's favour under s. 24(3)(d). The order is available on an interim basis.",
+    "why_A_wrong": "A states the Violence-Prerequisite Trap. FLA s. 24(3)(f) lists violence as one factor the court must consider — it is not a precondition for an exclusive possession order. Courts grant exclusive possession in the absence of violence where other s. 24(3) factors, such as the best interests of children and availability of alternative accommodation, support the order. Requiring violence as a threshold condition misreads the FLA.",
+    "why_B_wrong": "B is correct. Under FLA s. 24(1) and (3), the court weighs multiple factors in assessing exclusive possession. Here, the children's proximity to school (s. 24(3)(a) — best interests), Bernard's access to alternative accommodation (s. 24(3)(d)), and the absence of a written agreement (s. 24(3)(c)) are all relevant. No single factor is determinative, and ownership by Bernard is not a bar — s. 24(1) expressly permits the order regardless of which spouse owns the home.",
+    "why_C_wrong": "C states the Ownership-Override Trap. Under FLA s. 24(1), the court may grant exclusive possession regardless of which spouse owns the home. Bernard's registered ownership is not a significant factor under s. 24(3) and is not a bar to the order. FLA s. 26 specifically preserves the titled spouse's ownership rights while allowing the other spouse to have possession — exclusive possession and ownership are separate legal concepts under the FLA.",
+    "why_D_wrong": "D states the Interim-Bars-Order Trap. FLA s. 24 does not limit exclusive possession to final orders. Courts routinely grant exclusive possession on an interim motion pending the determination of the matrimonial home and parenting arrangements. The interim nature of the application does not bar the court from making the order — it affects the duration and whether conditions apply.",
     "source_reference": {
       "lso_material": "2026 LSO Barrister Examination Materials",
       "subject": "Family Law",
@@ -588,20 +596,27 @@
     },
     "exam_trigger_words": [
       "exclusive possession",
-      "s. 24(1)",
-      "regardless of ownership",
-      "non-owner spouse"
+      "FLA s.24",
+      "FLA s.24(3)",
+      "matrimonial home",
+      "best interests of children",
+      "alternative accommodation",
+      "violence factor",
+      "interim exclusive possession"
     ],
     "tested_concepts": [
-      "s. 24(1) exclusive possession jurisdiction",
-      "ownership not determinative",
-      "non-owner may receive order"
+      "FLA s.24(1) exclusive possession regardless of ownership",
+      "FLA s.24(3) factors — multi-factor balancing",
+      "violence as factor not precondition",
+      "Violence-Prerequisite Trap",
+      "Ownership-Override Trap",
+      "Interim-Bars-Order Trap"
     ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "fam-04-excl-possess-002",

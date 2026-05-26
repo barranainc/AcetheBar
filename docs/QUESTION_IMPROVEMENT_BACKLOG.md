@@ -127,23 +127,25 @@ All questions with IMPROVE verdict across the five audits. These are usable in t
 > **Phase 2K-Improve-B3 (2026-05-25):** All remaining Public Law IMPROVE questions in Generated Barrister C and F were improved. See `docs/PHASE_2K_IMPROVE_B3_PUBLIC_LOG.md`. Resolved items are marked ✅ below.
 
 
-### Exam C — IMPROVE (20 questions)
+### Exam C — IMPROVE ✅ RESOLVED (non-Public) — Phase 2K-Improve-B5 (2026-05-25)
+
+> **Phase 2K-Improve-B5 (2026-05-25):** All 13 non-Public IMPROVE questions in Exam C were improved. See `docs/PHASE_2K_IMPROVE_B5_CF_NONPUBLIC_LOG.md` for per-question change notes and payload rebuild summary.
 
 | question_id | Exam | Subject | Current weakness | Recommended fix | Effort |
 |-------------|------|---------|-----------------|-----------------|--------|
-| civ-02-basic-lim-001 | C | Civil — Limitations | Two-year basic limitation; anti-index=2; lowest-difficulty entry | Add discoverability complication or s.16 exception as distractor | low |
-| civ-06-injunction-004 | C | Civil — Injunctions | Balance-of-convenience stage identified by name-recognition; distractors weak | Reframe to require applying balance-of-convenience factors to facts | medium |
-| civ-07-summ-judg-005 | C | Civil — Summary Judgment | Costs general rule stated directly; lacks application demand | Introduce fact making one distractor tempting (bad-faith conduct triggering substantial indemnity) | low |
-| civ-09-ref-und-005 | C | Civil — Discovery | "Unreasonable delay" given away in fact pattern; distractors lack precision | Make delay duration ambiguous; require identifying factors informing court's discretion | medium |
-| crim-02-cit-arrest-003 | C | Criminal — Arrest | s.494(1)(a)/(b) distinction telegraphed by facts; one distractor too easy to eliminate | Add complication (delay in pursuit or third-party tip) to make fresh-pursuit question genuinely ambiguous | medium |
-| crim-02-s10b-001 | C | Criminal — Charter | Basic s.10(b) informational/implementational taxonomy; orientation-only | Upgrade: officer gave s.10(b) warning in formally deficient way; identify which limb was breached | medium |
-| crim-02-sita-004 | C | Criminal — Search | SITA phone scenario; post-Fearon one distractor obviously wrong | Complexify: genuine safety rationale alongside evidence motive; assess mixed-purpose SITA | medium |
-| crim-03-rev-onus-001 | C | Criminal — Bail | Listed-offence threshold not genuinely ambiguous; deeper trap (scope of Crown's burden) not tested | Introduce scenario where listed-offence threshold is genuinely ambiguous (conspiracy to commit listed offence) | medium |
-| fam-03-nfp-formula-001 | C | Family — NFP | Arithmetic drill; no legal judgment call | Upgrade: introduce traceability dispute or marriage-date deduction ambiguity | medium |
-| fam-03-equal-paymnt-001 | C | Family — NFP | Arithmetic errors as distractors; not legally engineered traps | Add excluded property or marriage-date deduction complication before calculation | medium |
-| fam-04-mh-possess-001 | C | Family — Matrimonial Home | s.19(1) equal possession stated directly; orientation-only | Add competing factor: domestic contract arguably waiving s.19 rights, or argument that property is not matrimonial home | medium |
-| fam-04-excl-possess-001 | C | Family — Matrimonial Home | Question asks whether court "can" grant exclusive possession — obviously yes; abstraction level too high | Upgrade with scenario where s.24(3) balancing factors are genuinely contested | medium |
-| fam-05-ssag-001 | C | Family — Spousal Support | SSAG advisory status reachable by knowing one phrase; binary_logic=2 | Reframe to test application: departure from SSAG range — identify jurisdiction to depart and basis | medium |
+| ~~civ-02-basic-lim-001~~ | C | Civil — Limitations | ✅ RESOLVED — B5 (2026-05-25): redesigned with delayed discovery; correct answer changed A→B; Incident-Date Trap, One-Year Trap, No-Limitation-Period Trap added | — | — |
+| ~~civ-06-injunction-004~~ | C | Civil — Injunctions | ✅ RESOLVED — B5 (2026-05-25): FP enriched with quantified defendant harm; Quantifiability-Determines-Balance Trap, First-Two-Elements Presumption Trap, Monetizable-Harm-Negates-Injunction Trap added | — | — |
+| ~~civ-07-summ-judg-005~~ | C | Civil — Summary Judgment | ✅ RESOLVED — B5 (2026-05-25): redesigned with video cross-examination under r.20.04(2.1); Powers-Are-Limited-to-Evidence Trap, Confrontation-Rights Trap, Waiver-Cures-Jurisdiction Trap added | — | — |
+| ~~civ-09-ref-und-005~~ | C | Civil — Discovery | ✅ RESOLVED — B5 (2026-05-25): FP enriched with procedural history; Discovery-Never-Closes Trap; replaced invented 60-day rule distractor with more plausible alternative | — | — |
+| ~~crim-02-cit-arrest-003~~ | C | Criminal — Arrest | ✅ RESOLVED — B5 (2026-05-25): replaced obvious D distractor with Voluntary-Settlement-Authority Trap | — | — |
+| ~~crim-02-s10b-001~~ | C | Criminal — Charter | ✅ RESOLVED — B5 (2026-05-25): enriched FP with s.10(a) also violated; s.10(a)-vs-s.10(b) Trap, s.7-Catch-All Trap, s.11(c)-Testimonial-Compulsion Trap added | — | — |
+| ~~crim-02-sita-004~~ | C | Criminal — Search | ✅ RESOLVED — B5 (2026-05-25): replaced obvious "unlocked phone" distractor with Post-Hoc-Rationalization Trap | — | — |
+| ~~crim-03-rev-onus-001~~ | C | Criminal — Bail | ✅ RESOLVED — B5 (2026-05-25): redesigned with s.5(2) CDSA charge; Possession-vs-Trafficking Trap, All-Serious-Charges Trap added | — | — |
+| ~~fam-03-nfp-formula-001~~ | C | Family — NFP | ✅ RESOLVED — B5 (2026-05-25): FP adds gift received during marriage; Inherited-Property-Auto-Exclusion Trap added | — | — |
+| ~~fam-03-equal-paymnt-001~~ | C | Family — NFP | ✅ RESOLVED — B5 (2026-05-25): replaced arithmetic distractor with S.5(6)-Available-Without-Facts Trap | — | — |
+| ~~fam-04-mh-possess-001~~ | C | Family — Matrimonial Home | ✅ RESOLVED — B5 (2026-05-25): FP adds multiple-property scenario; Multiple-Residence Trap, Primary-Residence-Required Trap added | — | — |
+| ~~fam-04-excl-possess-001~~ | C | Family — Matrimonial Home | ✅ RESOLVED — B5 (2026-05-25): redesigned call around s.24(3) factors; Violence-Prerequisite Trap, Ownership-Override Trap, Interim-Bars-Order Trap added | — | — |
+| ~~fam-05-ssag-001~~ | C | Family — Spousal Support | ✅ RESOLVED — B5 (2026-05-25): FP adds departure scenario; SSAG-Departure-Requires-Written-Reasons Trap added | — | — |
 | ~~pub-02-s15-equal-001~~ | C | Public — Charter s.15 | ✅ RESOLVED — B3 (2026-05-25): Novel analogous ground (temporary foreign worker status); applies Andrews immutability/powerlessness criteria | — | — |
 | ~~pub-02-s7-fundjust-001~~ | C | Public — Charter s.7 | ✅ RESOLVED — B3 (2026-05-25): Upgraded to PFOJ analysis — overbreadth/gross disproportionality of mandatory minimum; Bedford/Carter framework applied | — | — |
 | fam-04-mh-consent-001 | C | Family — Matrimonial Home | (PASS but adjacent to legal flag cluster — monitor) | No action required unless fam-04-mh-consent-003 flag reveals systemic issue | low |
@@ -231,24 +233,26 @@ Key IMPROVE items not already listed under REWRITE (all resolved):
 | pub-07-vic-liab-001 | E | Public — Crown Liability | Crown vicarious liability fairly direct PACA s.5 application; distractors could be sharper | Strengthen distractor D (personal phone call = frolic) as proper Exception Trap | low |
 | pub-08-prima-facie-001 | E | Public — Human Rights | Prima facie discrimination onus shift definitional; distractors weak | Develop scenario where burden shift is at issue because protected characteristic was only one factor among many | medium |
 
-### Exam F — IMPROVE (28 questions)
+### Exam F — IMPROVE ✅ RESOLVED (non-Public) — Phase 2K-Improve-B5 (2026-05-25)
+
+> **Phase 2K-Improve-B5 (2026-05-25):** All 14 non-Public IMPROVE questions in Exam F were improved. See `docs/PHASE_2K_IMPROVE_B5_CF_NONPUBLIC_LOG.md` for per-question change notes and payload rebuild summary.
 
 | question_id | Exam | Subject | Current weakness | Recommended fix | Effort |
 |-------------|------|---------|-----------------|-----------------|--------|
-| civ-03-soc-form-001 | F | Civil — Pleadings | Generic lookup scenario on r.14.03; no applied judgment | Revise to require applying rule to realistic drafting dilemma (what must appear in endorsement for specific claim type) | low |
-| civ-11-ev-003 | F | Civil — Trial Evidence | Rule-recall question; insufficient facts for genuine choice; distractors lack trap-engineering | Add facts requiring candidate to distinguish admissibility from weight in a real-court context | medium |
-| civ-12-repres-001 | F | Civil — Costs | Costs representation; one distractor would not mislead any informed candidate | Replace weaker distractor with exception to representation rules (disbursements vs fees, or timing trap) | low |
-| civ-12-throwaway-001 | F | Civil — Costs | Vocabulary-level question on doctrinal concept; no application | Introduce fact-specific scenario where candidate must advise whether action qualifies or falls outside tested concept | medium |
-| civ-14-enf-garn-exam-001 | F | Civil — Enforcement | Thin distractors; one obviously absurd option; no oral vs affidavit trap | Engineer distractor around wrong-procedure trap (cross-examination vs examination in aid) | low |
-| civ-14-enf-repl-001 | F | Civil — Enforcement | One implausibly wrong distractor; mandatory/permissive distinctions not exploited | Replace weakest distractor with wrong-form or wrong-sequence trap | low |
-| crim-08-colour-right-001 | F | Criminal — Defences | Colour of right defence underexplored; rationale does not name distractor trap types | Name each distractor trap type; sharpen call to force application of subjective test | low |
-| crim-08-ncr-001 | F | Criminal — Defences | "Alien invaders" scenario cartoonish and unrealistic; distractors conflate automatism with NCR | Replace with realistic mental disorder fact pattern (paranoid schizophrenia believing victim was demon); sharpen automatism/NCR distinction | medium |
-| crim-09-rest-001 | F | Criminal — Sentencing | Restitution as rule recall; no quantum application | Add computational or threshold element (partial insurance recovery reduces restitution?) | medium |
-| crim-10-records-001 | F | Criminal — YCJA | One clearly implausible YCJA records distractor | Replace implausible distractor with adult-records misapplication (Misapplied Tool) trap | low |
-| crim-11-prerog-001 | F | Criminal — Appeals | Categorization not application question; scenario does not force judgment between competing vehicles | Reframe as Crown-liability advising scenario requiring selection of correct vehicle | medium |
-| fam-07-parcoord-001 | F | Family — Parenting | Parenting coordinator role is definitional; asks "what does a PC do" not "when/how to apply" | Recast as scenario where counsel must advise whether referral to PC, mediator, or court is appropriate | medium |
-| fam-13-cl-fla29-001 | F | Family — Common Law | FLA s.29 three-year threshold; scenario thin; correct answer accessible by knowing rule | Introduce borderline scenario (2 years 9 months with extended separation) requiring application of continuous cohabitation rule | medium |
-| fam-13-cl-supp-002 | F | Family — Common Law | One distractor factually incoherent; call slightly abstract | Replace implausible distractor with Misapplied Tool trap; tighten call to concrete advising task | low |
+| ~~civ-03-soc-form-001~~ | F | Civil — Pleadings | ✅ RESOLVED — B5 (2026-05-25): redesigned as applied scenario with over-inclusive endorsement; Comprehensive-Endorsement Trap, Witness-List Trap, Nullity-Overstatement Trap added | — | — |
+| ~~civ-11-ev-003~~ | F | Civil — Trial Evidence | ✅ RESOLVED — B5 (2026-05-25): FP enriched with three specific objections; Hearsay-of-Demonstrative Trap, Prejudice-Equals-Exclusion Trap, Consent-Required Trap added | — | — |
+| ~~civ-12-repres-001~~ | F | Civil — Costs | ✅ RESOLVED — B5 (2026-05-25): replaced obvious distractor C with Partial-Indemnity-Equivalence Trap | — | — |
+| ~~civ-12-throwaway-001~~ | F | Civil — Costs | ✅ RESOLVED — B5 (2026-05-25): FP changed to litigation-conduct-only misconduct; Offer-to-Settle-Only Trap, Personal-Order Trap, Litigation-Conduct-Only Trap added | — | — |
+| ~~civ-14-enf-garn-exam-001~~ | F | Civil — Enforcement | ✅ RESOLVED — B5 (2026-05-25): replaced obvious distractors with Notice-Has-No-Force Trap and Production-Order-First Trap | — | — |
+| ~~civ-14-enf-repl-001~~ | F | Civil — Enforcement | ✅ RESOLVED — B5 (2026-05-25): replaced weak distractor D with Uniqueness-Required Trap | — | — |
+| ~~crim-08-colour-right-001~~ | F | Criminal — Defences | ✅ RESOLVED — B5 (2026-05-25): FP enriched with oral promise scenario; Valid-Security-Interest Trap, Moral-Claim Trap, Premises-Restriction Trap named and explained | — | — |
+| ~~crim-08-ncr-001~~ | F | Criminal — Defences | ✅ RESOLVED — B5 (2026-05-25): FP redesigned with paranoid schizophrenia/self-defence delusion; NCR-vs-Self-Defence Trap, Automatism-vs-NCR Trap, Actus-Reus-Negation Trap added | — | — |
+| ~~crim-09-rest-001~~ | F | Criminal — Sentencing | ✅ RESOLVED — B5 (2026-05-25): redesigned call around mutually exclusive objectives debate; Mutually-Exclusive-Objectives Trap added | — | — |
+| ~~crim-10-records-001~~ | F | Criminal — YCJA | ✅ RESOLVED — B5 (2026-05-25): replaced implausible distractor with Sentence-Type-Confusion Trap (reprimand vs conditional discharge period) | — | — |
+| ~~crim-11-prerog-001~~ | F | Criminal — Appeals | ✅ RESOLVED — B5 (2026-05-25): redesigned as exhaustion/standard-of-review question; Exhaustion-Required Trap, Deferential-Standard Trap, No-Liberty-Deprivation Trap added | — | — |
+| ~~fam-07-parcoord-001~~ | F | Family — Parenting | ✅ RESOLVED — B5 (2026-05-25): redesigned as bypass-PC scenario; Escalation-Always-Available Trap, PC-Cannot-Decide-Parenting-Time Trap, Consensus-Required Trap added | — | — |
+| ~~fam-13-cl-fla29-001~~ | F | Family — Common Law | ✅ RESOLVED — B5 (2026-05-25): FP enriched with career sacrifice facts; Compensatory-Divorced-Spouses-Only Trap, Three-Year-Cap Trap added | — | — |
+| ~~fam-13-cl-supp-002~~ | F | Family — Common Law | ✅ RESOLVED — B5 (2026-05-25): replaced 50%-reduction distractor with Wrong-Formula-for-CL-Partners Trap | — | — |
 | ~~pub-02-s15-006~~ | F | Public — Charter s.15 | ✅ RESOLVED — B3 (2026-05-25): New call requires applying Fraser framework to determine prima facie s.15 violation; distractors: comparator-group trap, intent trap, absolute deprivation trap | — | — |
 | ~~pub-02-s3-001~~ | F | Public — Charter s.3 | ✅ RESOLVED — B3 (2026-05-25): New call is advising question requiring two-step analysis — s.33 inapplicable to s.3 + s.1 scrutiny (Sauve); distractors: wrong-scope, overstatement, wrong-ground traps | — | — |
 | ~~pub-02-s6-001~~ | F | Public — Charter s.6 | ✅ RESOLVED — B3 (2026-05-25): New call asks whether challenge succeeds; forces application of s.6(3)(a) general application exception; B.C. engineer scenario enriched; distractors trap on absolute right, factual province-of-origin, and wrong-scope errors | — | — |

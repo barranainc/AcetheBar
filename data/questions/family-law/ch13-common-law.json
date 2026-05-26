@@ -32,9 +32,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 1(1) (definition of spouse — Part I), Part I"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["common-law", "FLA equalization", "Part I", "unmarried spouse", "no property rights"],
-    "tested_concepts": ["FLA Part I applies only to married spouses", "no equalization for common-law", "FLA s.1(1) definition spouse", "must use unjust enrichment"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "common-law",
+      "FLA equalization",
+      "Part I",
+      "unmarried spouse",
+      "no property rights"
+    ],
+    "tested_concepts": [
+      "FLA Part I applies only to married spouses",
+      "no equalization for common-law",
+      "FLA s.1(1) definition spouse",
+      "must use unjust enrichment"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -74,9 +88,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Pettkus v. Becker, [1980] 2 SCR 834; Kerr v. Baranow, [2011] 1 SCR 269; Family Law Act, R.S.O. 1990, c. F.3"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["unjust enrichment", "common-law", "constructive trust", "Pettkus v Becker", "Kerr v Baranow", "property claim"],
-    "tested_concepts": ["unjust enrichment doctrine", "Pettkus v Becker", "Kerr v Baranow", "constructive trust remedy", "three elements enrichment deprivation no juristic reason"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "unjust enrichment",
+      "common-law",
+      "constructive trust",
+      "Pettkus v Becker",
+      "Kerr v Baranow",
+      "property claim"
+    ],
+    "tested_concepts": [
+      "unjust enrichment doctrine",
+      "Pettkus v Becker",
+      "Kerr v Baranow",
+      "constructive trust remedy",
+      "three elements enrichment deprivation no juristic reason"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -116,9 +146,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Kerr v. Baranow, [2011] 1 SCR 269; Pettkus v. Becker, [1980] 2 SCR 834"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["unjust enrichment", "three elements", "juristic reason", "enrichment", "corresponding deprivation", "Kerr v Baranow"],
-    "tested_concepts": ["three elements of unjust enrichment", "juristic reason negates claim", "equal contribution not unjust enrichment", "mutual benefit arrangement"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "unjust enrichment",
+      "three elements",
+      "juristic reason",
+      "enrichment",
+      "corresponding deprivation",
+      "Kerr v Baranow"
+    ],
+    "tested_concepts": [
+      "three elements of unjust enrichment",
+      "juristic reason negates claim",
+      "equal contribution not unjust enrichment",
+      "mutual benefit arrangement"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -158,9 +203,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Kerr v. Baranow, [2011] 1 SCR 269"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["joint family venture", "Kerr v Baranow", "four factors", "proportionate share", "mutual effort economic integration"],
-    "tested_concepts": ["joint family venture doctrine", "Kerr v Baranow four factors", "proportionate share remedy", "not automatic 50/50", "beyond quantum meruit"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "joint family venture",
+      "Kerr v Baranow",
+      "four factors",
+      "proportionate share",
+      "mutual effort economic integration"
+    ],
+    "tested_concepts": [
+      "joint family venture doctrine",
+      "Kerr v Baranow four factors",
+      "proportionate share remedy",
+      "not automatic 50/50",
+      "beyond quantum meruit"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -200,9 +260,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 29 (definition of spouse for support purposes)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["FLA s.29", "common-law spouse support", "three years cohabitation", "parent of child", "spousal support threshold"],
-    "tested_concepts": ["FLA s.29 definition spouse for support", "three-year cohabitation threshold", "parent of child alternative threshold", "not automatic for all common-law"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FLA s.29",
+      "common-law spouse support",
+      "three years cohabitation",
+      "parent of child",
+      "spousal support threshold"
+    ],
+    "tested_concepts": [
+      "FLA s.29 definition spouse for support",
+      "three-year cohabitation threshold",
+      "parent of child alternative threshold",
+      "not automatic for all common-law"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -242,9 +316,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Kerr v. Baranow, [2011] 1 SCR 269; Pettkus v. Becker, [1980] 2 SCR 834"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["juristic reason", "unjust enrichment", "Kerr v Baranow", "nominal payment", "proportionality", "three elements"],
-    "tested_concepts": ["juristic reason must be proportionate", "Kerr v Baranow juristic reason categories", "nominal payment insufficient juristic reason", "claim survives for excess enrichment"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "juristic reason",
+      "unjust enrichment",
+      "Kerr v Baranow",
+      "nominal payment",
+      "proportionality",
+      "three elements"
+    ],
+    "tested_concepts": [
+      "juristic reason must be proportionate",
+      "Kerr v Baranow juristic reason categories",
+      "nominal payment insufficient juristic reason",
+      "claim survives for excess enrichment"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -284,9 +373,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Kerr v. Baranow, [2011] 1 SCR 269"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["joint family venture", "Kerr v Baranow", "mutual effort", "economic integration", "actual intent", "priority of family"],
-    "tested_concepts": ["four JFV factors Kerr v Baranow", "all four factors can be present with two earners", "proportionate share not automatic 50%", "JFV not limited to one partner at home"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "joint family venture",
+      "Kerr v Baranow",
+      "mutual effort",
+      "economic integration",
+      "actual intent",
+      "priority of family"
+    ],
+    "tested_concepts": [
+      "four JFV factors Kerr v Baranow",
+      "all four factors can be present with two earners",
+      "proportionate share not automatic 50%",
+      "JFV not limited to one partner at home"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -326,9 +430,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Pecore v. Pecore, [2007] 1 SCR 795; Kerr v. Baranow, [2011] 1 SCR 269"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["presumption of resulting trust", "gratuitous transfer", "common-law", "donative intent", "Pecore v Pecore", "burden of proof"],
-    "tested_concepts": ["presumption of resulting trust non-spouses", "presumption of advancement for married spouses", "recipient bears burden to prove gift", "applies to all types of property"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "presumption of resulting trust",
+      "gratuitous transfer",
+      "common-law",
+      "donative intent",
+      "Pecore v Pecore",
+      "burden of proof"
+    ],
+    "tested_concepts": [
+      "presumption of resulting trust non-spouses",
+      "presumption of advancement for married spouses",
+      "recipient bears burden to prove gift",
+      "applies to all types of property"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -368,9 +487,26 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 29"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["FLA s.29", "three years cohabitation", "parenthood arm", "disjunctive definition", "conjugal relationship", "common-law spouse support", "OR parenthood"],
-    "tested_concepts": ["FLA s.29 disjunctive definition — three years OR parenthood", "parenthood arm qualifies below three-year cohabitation threshold", "not five years required", "any cohabitation insufficient without children", "both arms independently sufficient"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FLA s.29",
+      "three years cohabitation",
+      "parenthood arm",
+      "disjunctive definition",
+      "conjugal relationship",
+      "common-law spouse support",
+      "OR parenthood"
+    ],
+    "tested_concepts": [
+      "FLA s.29 disjunctive definition — three years OR parenthood",
+      "parenthood arm qualifies below three-year cohabitation threshold",
+      "not five years required",
+      "any cohabitation insufficient without children",
+      "both arms independently sufficient"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -410,9 +546,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 46; Family Law Act, R.S.O. 1990, c. F.3, s. 29"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["domestic violence", "restraining order", "FLA s.46", "unmarried partner", "cohabiting", "protection order"],
-    "tested_concepts": ["FLA s.46 restraining order available to cohabiting partners", "not limited to married spouses", "multiple remedies available", "criminal and family law remedies concurrent"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "domestic violence",
+      "restraining order",
+      "FLA s.46",
+      "unmarried partner",
+      "cohabiting",
+      "protection order"
+    ],
+    "tested_concepts": [
+      "FLA s.46 restraining order available to cohabiting partners",
+      "not limited to married spouses",
+      "multiple remedies available",
+      "criminal and family law remedies concurrent"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -452,9 +603,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 1(1), Part I; Pettkus v. Becker, [1980] 2 SCR 834"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["equalization", "common-law", "FLA Part I", "married only", "constructive trust alternative"],
-    "tested_concepts": ["FLA Part I married spouses only", "no equalization for common-law", "equitable doctrines apply instead", "FLA s.1(1) definition"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "equalization",
+      "common-law",
+      "FLA Part I",
+      "married only",
+      "constructive trust alternative"
+    ],
+    "tested_concepts": [
+      "FLA Part I married spouses only",
+      "no equalization for common-law",
+      "equitable doctrines apply instead",
+      "FLA s.1(1) definition"
+    ],
     "estimated_time_seconds": 75,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -494,9 +659,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, Part II, s. 17 (exclusive possession)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["exclusive possession", "matrimonial home", "FLA Part II", "unmarried", "common-law", "married only"],
-    "tested_concepts": ["FLA Part II matrimonial home married spouses only", "no exclusive possession for common-law", "alternative remedies available", "home not a matrimonial home for common-law"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "exclusive possession",
+      "matrimonial home",
+      "FLA Part II",
+      "unmarried",
+      "common-law",
+      "married only"
+    ],
+    "tested_concepts": [
+      "FLA Part II matrimonial home married spouses only",
+      "no exclusive possession for common-law",
+      "alternative remedies available",
+      "home not a matrimonial home for common-law"
+    ],
     "estimated_time_seconds": 75,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -536,9 +716,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Kerr v. Baranow, [2011] 1 SCR 269; Pettkus v. Becker, [1980] 2 SCR 834"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["constructive trust", "monetary award", "unjust enrichment", "direct link", "Kerr v Baranow", "specific property"],
-    "tested_concepts": ["constructive trust vs monetary award", "direct link to specific property required", "not automatic upon unjust enrichment finding", "Kerr v Baranow remedy analysis"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "constructive trust",
+      "monetary award",
+      "unjust enrichment",
+      "direct link",
+      "Kerr v Baranow",
+      "specific property"
+    ],
+    "tested_concepts": [
+      "constructive trust vs monetary award",
+      "direct link to specific property required",
+      "not automatic upon unjust enrichment finding",
+      "Kerr v Baranow remedy analysis"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -560,15 +755,15 @@
     "call_of_question": "Do the Spousal Support Advisory Guidelines (SSAG) apply to spousal support claims by common-law partners under the Family Law Act?",
     "options": {
       "A": "No — the SSAG are only applicable under the Divorce Act and cannot be used in FLA support proceedings for common-law partners.",
-      "B": "Yes — the SSAG apply to spousal support claims under both the Divorce Act (for married spouses) and the Family Law Act (for qualifying common-law partners); courts routinely apply the SSAG ranges to FLA support claims and departing from SSAG ranges requires justification.",
-      "C": "Yes — but for common-law partners the SSAG ranges are automatically reduced by 50% to account for the absence of formal marriage.",
-      "D": "No — common-law partners must apply their own provincial SSAG formula developed exclusively for Ontario FLA claims."
+      "B": "Yes — the SSAG apply to spousal support claims under both the Divorce Act (for married spouses) and the Family Law Act (for qualifying common-law partners who meet the FLA s. 29 definition); Dan's counsel's argument is incorrect.",
+      "C": "Yes — but for common-law partners, courts must apply only the 'without children' SSAG formula regardless of whether the couple had children, because the 'with children' formula was designed exclusively for married spouses under the Divorce Act.",
+      "D": "No — common-law partners must apply a separate Ontario-specific formula developed for FLA spousal support claims, not the national SSAG developed for Divorce Act purposes."
     },
     "correct_answer": "B",
     "explanation": "The Spousal Support Advisory Guidelines (SSAG) were designed to apply to spousal support claims under both the Divorce Act and provincial support legislation such as the Family Law Act. The SSAG preface and the case law confirm that the guidelines apply to qualifying common-law partners who meet the provincial 'spouse' definition with the same force as they apply to married spouses. Ontario courts regularly use SSAG formulas — both the 'without child support' and 'with child support' formulas — to determine the range of appropriate support amounts and duration for FLA claims. There is no discounting of the SSAG ranges for common-law status; the qualifying threshold of being a 'spouse' under FLA s.29 is what matters.",
     "why_A_wrong": "The SSAG expressly extend to claims under provincial support legislation including the FLA. Dan's argument is incorrect. The guidelines were developed for use beyond the Divorce Act context and are routinely applied in FLA proceedings.",
     "why_B_wrong": "This IS the correct answer. The SSAG apply equally to FLA spousal support claims by qualifying common-law partners; courts treat SSAG ranges as the starting point in FLA support proceedings.",
-    "why_C_wrong": "There is no automatic 50% reduction to SSAG ranges for common-law partners. Once a person qualifies as a 'spouse' under FLA s.29, the SSAG apply in full without a marital-status discount.",
+    "why_C_wrong": "C misstates how the SSAG formula is selected. The Wrong-Formula-for-CL Partners Trap: the SSAG formulas — 'without children,' 'with children,' and 'custodial payor' — are selected based on the actual circumstances of the relationship and the arrangement of parenting responsibilities, not on the formal status (married vs. common-law) of the parties. If Lisa and Dan had dependent children whose care affected the economic interdependence of the relationship, the 'with children' formula would apply just as it would for married spouses. The SSAG explicitly extend to FLA support claims and make no distinction in formula selection based solely on marital status.",
     "why_D_wrong": "There is no separate Ontario-only provincial SSAG formula for FLA claims. The same national SSAG (developed by Rogerson and Thompson) apply across Canada to both DA and provincial support claims.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
@@ -578,9 +773,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Spousal Support Advisory Guidelines (2008, updated 2016); Family Law Act, R.S.O. 1990, c. F.3, s. 29"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["SSAG", "Spousal Support Advisory Guidelines", "common-law", "FLA", "Divorce Act", "same guidelines"],
-    "tested_concepts": ["SSAG apply to FLA claims", "same guidelines for common-law and married", "no marital-status discount", "SSAG not limited to DA"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "SSAG",
+      "Spousal Support Advisory Guidelines",
+      "common-law",
+      "FLA",
+      "Divorce Act",
+      "same guidelines"
+    ],
+    "tested_concepts": [
+      "SSAG apply to FLA claims",
+      "same guidelines for common-law and married",
+      "no marital-status discount",
+      "SSAG not limited to DA"
+    ],
     "estimated_time_seconds": 75,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -620,9 +830,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 29"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["FLA s.29", "parent of child", "three years OR parent", "alternative threshold", "less than three years but child"],
-    "tested_concepts": ["FLA s.29 two alternative thresholds", "parent of child independent threshold", "three years not required if parent of child", "common exam trap"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FLA s.29",
+      "parent of child",
+      "three years OR parent",
+      "alternative threshold",
+      "less than three years but child"
+    ],
+    "tested_concepts": [
+      "FLA s.29 two alternative thresholds",
+      "parent of child independent threshold",
+      "three years not required if parent of child",
+      "common exam trap"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -662,9 +886,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Kerr v. Baranow, [2011] 1 SCR 269"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["value given", "value survived", "quantum meruit", "Kerr v Baranow", "joint family venture", "proportionate share"],
-    "tested_concepts": ["value given vs value survived distinction", "JFV triggers value survived approach", "quantum meruit default where no JFV", "Kerr v Baranow remedy framework"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "value given",
+      "value survived",
+      "quantum meruit",
+      "Kerr v Baranow",
+      "joint family venture",
+      "proportionate share"
+    ],
+    "tested_concepts": [
+      "value given vs value survived distinction",
+      "JFV triggers value survived approach",
+      "quantum meruit default where no JFV",
+      "Kerr v Baranow remedy framework"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -704,9 +943,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Pettkus v. Becker, [1980] 2 SCR 834; Kerr v. Baranow, [2011] 1 SCR 269"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["domestic labour", "Pettkus v Becker", "unjust enrichment", "cognizable enrichment", "farm work", "constructive trust"],
-    "tested_concepts": ["domestic labour is cognizable enrichment", "Pettkus v Becker foundational case", "no minimum duration", "not a resulting trust issue"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "domestic labour",
+      "Pettkus v Becker",
+      "unjust enrichment",
+      "cognizable enrichment",
+      "farm work",
+      "constructive trust"
+    ],
+    "tested_concepts": [
+      "domestic labour is cognizable enrichment",
+      "Pettkus v Becker foundational case",
+      "no minimum duration",
+      "not a resulting trust issue"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -746,9 +1000,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Pecore v. Pecore, [2007] 1 SCR 795; Kerr v. Baranow, [2011] 1 SCR 269"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["presumption of resulting trust", "presumption of advancement", "common-law vs married", "gratuitous transfer", "Pecore v Pecore", "burden of proof"],
-    "tested_concepts": ["resulting trust for common-law transfers", "advancement for married spouses only", "recipient bears burden to prove gift", "Pecore v Pecore authority"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "presumption of resulting trust",
+      "presumption of advancement",
+      "common-law vs married",
+      "gratuitous transfer",
+      "Pecore v Pecore",
+      "burden of proof"
+    ],
+    "tested_concepts": [
+      "resulting trust for common-law transfers",
+      "advancement for married spouses only",
+      "recipient bears burden to prove gift",
+      "Pecore v Pecore authority"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -788,9 +1057,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Kerr v. Baranow, [2011] 1 SCR 269; Pecore v. Pecore, [2007] 1 SCR 795; Pettkus v. Becker, [1980] 2 SCR 834"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["resulting trust", "constructive trust", "distinction", "unjust enrichment", "financial contribution at acquisition", "broader contributions"],
-    "tested_concepts": ["resulting trust based on initial financial contribution", "constructive trust remedy for unjust enrichment", "broader contributions for constructive trust", "two distinct doctrines"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "resulting trust",
+      "constructive trust",
+      "distinction",
+      "unjust enrichment",
+      "financial contribution at acquisition",
+      "broader contributions"
+    ],
+    "tested_concepts": [
+      "resulting trust based on initial financial contribution",
+      "constructive trust remedy for unjust enrichment",
+      "broader contributions for constructive trust",
+      "two distinct doctrines"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -830,9 +1114,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 29"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["continuous cohabitation", "interruption", "FLA s.29", "temporary separation", "breaks the clock", "conjugal relationship"],
-    "tested_concepts": ["continuity of cohabitation FLA s.29", "temporary separation not automatic reset", "courts assess overall relationship character", "no 90-day or 6-month statutory rule"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "continuous cohabitation",
+      "interruption",
+      "FLA s.29",
+      "temporary separation",
+      "breaks the clock",
+      "conjugal relationship"
+    ],
+    "tested_concepts": [
+      "continuity of cohabitation FLA s.29",
+      "temporary separation not automatic reset",
+      "courts assess overall relationship character",
+      "no 90-day or 6-month statutory rule"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -850,20 +1149,20 @@
     "subtopic_heading": "FLA s.29 Support — Entitlement Grounds Same as Married Spouses",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "After 4 years of cohabitation, Michelle qualifies as a 'spouse' under FLA s.29 and applies for spousal support. The court must determine which support entitlement grounds apply. Dan's counsel argues that common-law spousal support is limited to economic hardship caused by the separation and cannot be based on compensatory grounds (i.e., compensation for career sacrifices or role-merger during the relationship).",
-    "call_of_question": "What entitlement grounds apply to a qualifying common-law spousal support claim under the FLA, and is compensatory entitlement available?",
+    "fact_pattern": "Michelle cohabited continuously with Dan for four and a half years and qualifies as a 'spouse' under FLA s. 29. During the relationship, Michelle gave up a full-time marketing career to manage the household and support Dan's growing business — she worked unpaid in his business for two years. On separation, Michelle is unemployed and has diminished career prospects. Dan's counsel argues that because Michelle and Dan were not married, she is limited to needs-based support only and cannot claim compensatory entitlement, which counsel says is available only to married spouses under the Divorce Act.",
+    "call_of_question": "Which of the following most accurately states the entitlement grounds available to Michelle in her spousal support claim under the Family Law Act?",
     "options": {
-      "A": "Common-law spousal support under the FLA is limited to needs-based (non-compensatory) grounds only; compensatory entitlement is available only under the Divorce Act.",
-      "B": "FLA spousal support entitlement for qualifying common-law partners is assessed on the same grounds as for married spouses — compensatory, non-compensatory (needs-based), and contractual entitlement grounds all apply; a qualifying common-law spouse who sacrificed career advancement to support the family relationship may establish compensatory entitlement just as a married spouse would.",
-      "C": "Common-law spousal support under the FLA is always compensatory only; needs-based entitlement is not available.",
-      "D": "The FLA provides no independent entitlement analysis; courts simply apply SSAG without first determining entitlement for common-law partners."
+      "A": "Common-law spousal support under the FLA is limited to needs-based (non-compensatory) grounds only; compensatory entitlement is available only under the Divorce Act for married spouses, not under the FLA for qualifying common-law partners.",
+      "B": "As a qualifying spouse under FLA s. 29, Michelle's support claim is assessed under FLA Part III (s. 33) on the same substantive basis as for a married spouse — all three entitlement grounds (compensatory, non-compensatory, and contractual) are available; Dan's counsel's argument is incorrect.",
+      "C": "Common-law spousal support under the FLA is always compensatory only; needs-based or non-compensatory entitlement is not available to qualifying FLA spouses.",
+      "D": "FLA s. 29 qualifying spouses have access to all entitlement grounds, but compensatory support is limited to a maximum of three years to reflect the shorter duration of a typical unmarried relationship."
     },
     "correct_answer": "B",
-    "explanation": "Once a person qualifies as a 'spouse' under FLA s.29, their spousal support claim is assessed under Part III of the FLA on the same substantive basis as a married spouse's claim. The FLA s.33 support obligation and the factors and objectives in ss.33(8) and (9) apply fully to qualifying common-law spouses. Entitlement may be established on compensatory grounds (where the applicant suffered economic disadvantage from the relationship, such as career sacrifice to raise children or support the other's career), non-compensatory grounds (where the applicant has needs and the respondent has the means to contribute), or contractual grounds. Dan's counsel's argument that compensatory entitlement is only available under the Divorce Act is incorrect.",
-    "why_A_wrong": "FLA Part III support provisions apply compensatory, non-compensatory, and contractual entitlement grounds to qualifying common-law partners the same as to married spouses. Compensatory entitlement is not restricted to the Divorce Act.",
-    "why_B_wrong": "This IS the correct answer. Qualifying common-law spouses under FLA s.29 have access to all three entitlement grounds — compensatory, non-compensatory, and contractual — on the same basis as married spouses under the FLA.",
-    "why_C_wrong": "Non-compensatory (needs-based) entitlement is available to qualifying common-law partners under the FLA, not only compensatory entitlement. All three grounds are available.",
-    "why_D_wrong": "Courts must first determine entitlement before proceeding to quantum. The SSAG are used to calculate the quantum and duration of support, but entitlement is a threshold analysis that applies to both married and common-law support claims under the FLA.",
+    "explanation": "Once a person qualifies as a 'spouse' under FLA s. 29 (by continuous cohabitation for not less than three years), their spousal support claim is assessed under Part III of the FLA — specifically s. 33 — on the same substantive basis as for a married spouse. The FLA s. 33 support factors include the claimant's role in the relationship and any economic advantages or disadvantages arising from the relationship or its breakdown. Michelle's career sacrifice and unpaid work in Dan's business are paradigmatic compensatory entitlement facts under the Bracklow v Bracklow framework. All three entitlement grounds — compensatory (relationship-generated economic disadvantage), non-compensatory (financial need), and contractual (domestic contracts) — are available. Dan's counsel is wrong to assert that compensatory support is limited to the Divorce Act.",
+    "why_A_wrong": "A misstates the law on entitlement grounds for FLA spouses. The Compensatory-Divorced-Spouses-Only Trap: compensatory spousal support entitlement is not limited to the Divorce Act or to formally married spouses. The FLA s. 33 support framework incorporates all three grounds developed in Bracklow v Bracklow — compensatory, non-compensatory, and contractual — and applies them to qualifying FLA spouses in the same way as to married spouses under the Divorce Act. Michelle's career sacrifice and economic disadvantage are exactly the type of facts that ground compensatory entitlement.",
+    "why_B_wrong": "B is correct. Qualifying common-law spouses under FLA s. 29 have access to all three entitlement grounds under FLA Part III (s. 33). Michelle can assert compensatory entitlement based on her career sacrifice and unpaid work in Dan's business, non-compensatory entitlement based on economic need post-separation, or both. Dan's argument that compensatory support is limited to the Divorce Act is incorrect; the FLA applies the same framework.",
+    "why_C_wrong": "C reverses the error in A. While non-compensatory (needs-based) support is available to FLA qualifying spouses, the claim is not limited to non-compensatory grounds. Compensatory support — addressing economic disadvantages arising from the relationship — is equally available. The FLA s. 33 framework does not privilege one entitlement ground over another; courts assess all applicable grounds on the facts.",
+    "why_D_wrong": "D invents a three-year cap that does not appear anywhere in the FLA or case law. The Three-Year-Cap Trap: the duration of compensatory spousal support is determined by the circumstances of the relationship, the degree of economic disadvantage, and the claimant's pathway to self-sufficiency — not by a fixed maximum based on the form of the relationship. The FLA and the SSAG do not impose an automatic durational cap on compensatory support for common-law partners.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Family Law",
@@ -872,9 +1171,29 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, ss. 29, 33(8), 33(9)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["FLA s.29", "compensatory entitlement", "non-compensatory", "common-law support", "same grounds as married", "entitlement"],
-    "tested_concepts": ["FLA Part III entitlement grounds apply to common-law", "compensatory and non-compensatory both available", "same substantive test as married spouses", "entitlement before quantum"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FLA s.29",
+      "common-law spouse",
+      "compensatory support",
+      "non-compensatory support",
+      "FLA Part III",
+      "FLA s.33",
+      "Bracklow",
+      "entitlement grounds",
+      "career sacrifice",
+      "qualifying spouse"
+    ],
+    "tested_concepts": [
+      "FLA s.29 qualifying spouses — same entitlement grounds as married spouses",
+      "compensatory entitlement available under FLA s.33",
+      "all three Bracklow grounds apply to FLA spouses",
+      "Compensatory-Divorced-Spouses-Only Trap",
+      "Three-Year-Cap Trap"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -914,9 +1233,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 29; Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 4"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["limitation period", "FLA spousal support", "two years", "Limitations Act 2002", "initial application", "date of discovery"],
-    "tested_concepts": ["two-year limitation period FLA spousal support", "Limitations Act 2002 applies to FLA claims", "not six years not one year", "discovery rule from separation"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "limitation period",
+      "FLA spousal support",
+      "two years",
+      "Limitations Act 2002",
+      "initial application",
+      "date of discovery"
+    ],
+    "tested_concepts": [
+      "two-year limitation period FLA spousal support",
+      "Limitations Act 2002 applies to FLA claims",
+      "not six years not one year",
+      "discovery rule from separation"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",

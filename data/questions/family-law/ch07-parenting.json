@@ -32,9 +32,27 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16(3), s. 16.1 (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["best interests", "primary consideration", "DA s.16(3)", "safety security wellbeing", "maximum contact", "DA s.16.1", "psychological harm", "2021 amendments"],
-    "tested_concepts": ["DA s.16(3) primary consideration safety security wellbeing", "maximum contact principle subordinate to primary consideration", "no presumption of equal parenting time", "psychological harm engages primary consideration", "2021 Divorce Act amendments hierarchy"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "best interests",
+      "primary consideration",
+      "DA s.16(3)",
+      "safety security wellbeing",
+      "maximum contact",
+      "DA s.16.1",
+      "psychological harm",
+      "2021 amendments"
+    ],
+    "tested_concepts": [
+      "DA s.16(3) primary consideration safety security wellbeing",
+      "maximum contact principle subordinate to primary consideration",
+      "no presumption of equal parenting time",
+      "psychological harm engages primary consideration",
+      "2021 Divorce Act amendments hierarchy"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -74,9 +92,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16(3)(j) (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["family violence", "intimate partner violence", "DA s.16(3)(j)", "best interests", "not directed at child"],
-    "tested_concepts": ["DA s.16(3)(j) family violence factor", "intimate partner violence relevant", "no automatic denial of parenting time", "civil standard of proof"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "family violence",
+      "intimate partner violence",
+      "DA s.16(3)(j)",
+      "best interests",
+      "not directed at child"
+    ],
+    "tested_concepts": [
+      "DA s.16(3)(j) family violence factor",
+      "intimate partner violence relevant",
+      "no automatic denial of parenting time",
+      "civil standard of proof"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -116,9 +148,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16(3) (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["decision-making responsibility", "shared decision-making", "parental conflict", "communication", "sole vs shared"],
-    "tested_concepts": ["DA s.16(3) best interests", "shared decision-making requires cooperation", "high conflict weighs against shared DM", "no automatic preference for shared"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "decision-making responsibility",
+      "shared decision-making",
+      "parental conflict",
+      "communication",
+      "sole vs shared"
+    ],
+    "tested_concepts": [
+      "DA s.16(3) best interests",
+      "shared decision-making requires cooperation",
+      "high conflict weighs against shared DM",
+      "no automatic preference for shared"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -158,9 +204,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16.1(2) (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["contact order", "grandparents", "DA s.16.1(2)", "third parties", "best interests"],
-    "tested_concepts": ["DA s.16.1(2) contact orders", "grandparent contact", "no automatic entitlement", "best interests test applies"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "contact order",
+      "grandparents",
+      "DA s.16.1(2)",
+      "third parties",
+      "best interests"
+    ],
+    "tested_concepts": [
+      "DA s.16.1(2) contact orders",
+      "grandparent contact",
+      "no automatic entitlement",
+      "best interests test applies"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -200,9 +260,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16.92(1) (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["relocation", "60 days notice", "DA s.16.92", "written notice", "relocation notice"],
-    "tested_concepts": ["DA s.16.92 60-day notice", "relocation notice requirements", "applies within Canada", "written notice mandatory"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "relocation",
+      "60 days notice",
+      "DA s.16.92",
+      "written notice",
+      "relocation notice"
+    ],
+    "tested_concepts": [
+      "DA s.16.92 60-day notice",
+      "relocation notice requirements",
+      "applies within Canada",
+      "written notice mandatory"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -242,9 +316,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16.93(1), s. 16.93(2) (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["relocation", "burden of proof", "primary parenting time", "DA s.16.93", "objecting parent"],
-    "tested_concepts": ["DA s.16.93 differential burden", "majority parenting time burden on objector", "s.16.93(2)", "50/50 burden on relocator"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "relocation",
+      "burden of proof",
+      "primary parenting time",
+      "DA s.16.93",
+      "objecting parent"
+    ],
+    "tested_concepts": [
+      "DA s.16.93 differential burden",
+      "majority parenting time burden on objector",
+      "s.16.93(2)",
+      "50/50 burden on relocator"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -284,9 +372,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16.1, s. 16.2(4) (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["parenting plan", "incorporated into consent order", "DA s.16.2(4)", "enforcement", "force of court order", "binding"],
-    "tested_concepts": ["DA s.16.2(4) incorporated parenting plan has order effect", "enforcement of incorporated parenting plan terms", "consent order binding after incorporation", "no informal variation of court order"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "parenting plan",
+      "incorporated into consent order",
+      "DA s.16.2(4)",
+      "enforcement",
+      "force of court order",
+      "binding"
+    ],
+    "tested_concepts": [
+      "DA s.16.2(4) incorporated parenting plan has order effect",
+      "enforcement of incorporated parenting plan terms",
+      "consent order binding after incorporation",
+      "no informal variation of court order"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -326,9 +429,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16(3)(j), s. 16(4) (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["family violence", "coercive control", "DA s.16(3)(j)", "s.16(4)", "no criminal charge required", "pattern of behaviour"],
-    "tested_concepts": ["DA s.16(3)(j) broad definition family violence", "coercive control included", "s.16(4) specific assessment factors", "civil standard of proof"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "family violence",
+      "coercive control",
+      "DA s.16(3)(j)",
+      "s.16(4)",
+      "no criminal charge required",
+      "pattern of behaviour"
+    ],
+    "tested_concepts": [
+      "DA s.16(3)(j) broad definition family violence",
+      "coercive control included",
+      "s.16(4) specific assessment factors",
+      "civil standard of proof"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -368,9 +486,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16.9; Barendregt v Grebliunas, 2022 SCC 22"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["relocation", "Barendregt", "2022 SCC 22", "good faith", "workable arrangements", "best interests"],
-    "tested_concepts": ["Barendregt v Grebliunas relocation framework", "three elements good faith workable arrangements best interests", "DA s.16.9", "burden allocation DA s.16.93"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "relocation",
+      "Barendregt",
+      "2022 SCC 22",
+      "good faith",
+      "workable arrangements",
+      "best interests"
+    ],
+    "tested_concepts": [
+      "Barendregt v Grebliunas relocation framework",
+      "three elements good faith workable arrangements best interests",
+      "DA s.16.9",
+      "burden allocation DA s.16.93"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -410,9 +543,26 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16(1), s. 16(3) (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["interim parenting order", "status quo", "de facto arrangement", "DA s.16(1)", "stability", "pending trial", "no prior court order"],
-    "tested_concepts": ["DA s.16(1) interim parenting jurisdiction", "status quo = post-separation de facto arrangement not prior court order", "best interests applies with stability premium at interim stage", "no equal parenting time presumption", "DA s.16(3) safety security wellbeing primary"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "interim parenting order",
+      "status quo",
+      "de facto arrangement",
+      "DA s.16(1)",
+      "stability",
+      "pending trial",
+      "no prior court order"
+    ],
+    "tested_concepts": [
+      "DA s.16(1) interim parenting jurisdiction",
+      "status quo = post-separation de facto arrangement not prior court order",
+      "best interests applies with stability premium at interim stage",
+      "no equal parenting time presumption",
+      "DA s.16(3) safety security wellbeing primary"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -452,9 +602,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Children's Law Reform Act, R.S.O. 1990, c. C.12; Convention on the Civil Aspects of International Child Abduction (Hague Convention), implemented in Ontario"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["foreign parenting order", "Hague Convention", "wrongful removal", "comity", "return of child", "habitual residence"],
-    "tested_concepts": ["Hague Convention on child abduction", "wrongful removal", "Ontario recognizes foreign orders", "best interests remain paramount", "return to habitual residence"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "foreign parenting order",
+      "Hague Convention",
+      "wrongful removal",
+      "comity",
+      "return of child",
+      "habitual residence"
+    ],
+    "tested_concepts": [
+      "Hague Convention on child abduction",
+      "wrongful removal",
+      "Ontario recognizes foreign orders",
+      "best interests remain paramount",
+      "return to habitual residence"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -494,9 +660,27 @@
       "page": "N/A",
       "rule_or_statute_reference": "Children's Law Reform Act, R.S.O. 1990, c. C.12, s. 21(1), s. 24; Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16.1(2)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["grandparent contact", "CLRA s.21(1)", "any person standing", "best interests", "no automatic right", "CLRA vs DA s.16.1(2)", "non-divorce proceedings"],
-    "tested_concepts": ["CLRA s.21(1) any-person standing for contact", "no presumptive grandparent contact right", "best interests test governs", "CLRA applies to non-divorce proceedings", "DA s.16.1(2) applies in divorce proceedings", "correct statutory forum distinction"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "grandparent contact",
+      "CLRA s.21(1)",
+      "any person standing",
+      "best interests",
+      "no automatic right",
+      "CLRA vs DA s.16.1(2)",
+      "non-divorce proceedings"
+    ],
+    "tested_concepts": [
+      "CLRA s.21(1) any-person standing for contact",
+      "no presumptive grandparent contact right",
+      "best interests test governs",
+      "CLRA applies to non-divorce proceedings",
+      "DA s.16.1(2) applies in divorce proceedings",
+      "correct statutory forum distinction"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -514,20 +698,20 @@
     "subtopic_heading": "Parenting Coordination — Role and Powers",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "After a high-conflict divorce, a judge orders parenting coordination for the parties under the Family Law Rules and Ontario's parenting coordination framework. The parents frequently disagree on scheduling and extracurricular activities. The parenting coordinator (PC) is a mental health professional with experience in family conflict. One parent argues the PC has no authority to make binding decisions and can only make recommendations.",
-    "call_of_question": "What is the role of a parenting coordinator in Ontario, and can a PC make binding decisions?",
+    "fact_pattern": "A court order appoints a parenting coordinator for high-conflict separated parents and provides that the PC's mandate includes resolving disputes about day-to-day schedules and vacation parenting time. A dispute arises about whether the children may accompany the father on a 10-day summer vacation — a scheduling matter expressly within the PC's mandate. The father, unhappy with the PC's preliminary facilitation attempts, files a motion seeking a court order on the vacation question. He argues he has the right to return to court at any time because the PC's decisions are not truly binding and the children's best interests must be determined by a judge.",
+    "call_of_question": "Which of the following most accurately describes the father's right to bring the vacation dispute directly to court while the PC process is ongoing?",
     "options": {
-      "A": "A parenting coordinator is a mediator only; they can never make binding decisions and all decisions require court approval.",
-      "B": "A parenting coordinator in Ontario fulfils a hybrid role: first attempting to assist parents to resolve disputes through a mediation-like process; and where that fails, the PC may make binding decisions on day-to-day parenting disputes within the scope authorized by the court order or the parties' agreement, subject to the right of either party to apply to court to review the PC's decision.",
-      "C": "A parenting coordinator has unlimited authority to make binding decisions on all parenting matters, including changing primary parenting time.",
-      "D": "Parenting coordinators are only permitted in Ontario if both parties consent in writing and a judge specifically approves the appointment."
+      "A": "The father may return to court at any time on any matter involving the children; a court order for parenting coordination does not prevent a parent from seeking immediate judicial relief on parenting issues because parenting arrangements are always subject to the court's supervisory jurisdiction.",
+      "B": "For disputes within the PC's mandate, the father should first complete the PC process — including the determinative phase if facilitation fails; bypassing the PC to seek immediate court relief on a matter within the mandate undermines the court-ordered dispute resolution process.",
+      "C": "The father is correct that the PC cannot make binding decisions about vacation parenting time; that type of decision affects the children's best interests and can only be made by a judge following a full hearing.",
+      "D": "The PC's determinations on scheduling disputes are binding only if both parents agree with the outcome; either parent may automatically refer the matter to a judge if they are dissatisfied with the PC's facilitation efforts."
     },
     "correct_answer": "B",
-    "explanation": "Parenting coordination in Ontario is a dispute resolution process designed for high-conflict families. A parenting coordinator performs two functions: (1) facilitative — assisting the parents to resolve parenting disputes through a mediation-like process; and (2) determinative — where the parties cannot agree, making a decision on the specific dispute within the scope of authority granted by the court order or parenting coordination agreement. PC decisions are binding on the parties but are subject to court review on application by either party. PC authority is limited to the scope set out in the court order or agreement — major decisions (changing primary parenting arrangements) typically remain with the court.",
-    "why_A_wrong": "Parenting coordinators in Ontario have determinative authority within the scope of their mandate, not just a mediation/recommendation role. They can make binding decisions when mediation fails, subject to court review.",
-    "why_B_wrong": "This IS the correct answer. A PC has a hybrid role — facilitative and determinative — with binding decision-making authority within the court-authorized scope, subject to the right to apply to court for review.",
-    "why_C_wrong": "Parenting coordinators do not have unlimited authority. Their mandate is defined by the court order or the parties' agreement. Major decisions about primary parenting arrangements typically remain with the court.",
-    "why_D_wrong": "While both parties' consent is desirable, Ontario courts may appoint a parenting coordinator over one party's objection in high-conflict cases where the court determines it is in the best interests of the child. The process does not always require bilateral written consent.",
+    "explanation": "Parenting coordination in Ontario is a court-ordered dispute resolution process for high-conflict families. A parenting coordinator performs two functions within the defined mandate: (1) a facilitative function — assisting parents to resolve disputes through mediation-like discussions; and (2) a determinative function — if facilitation fails, making binding decisions on issues within the mandate. For matters within the PC's mandate (here, day-to-day scheduling and vacation parenting time), parties are expected to complete the PC process — including the determinative phase if needed — before returning to court. The court retains supervisory jurisdiction and parties may seek urgent relief in true emergencies, but bypassing the PC to seek routine court orders on matters squarely within the mandate undermines the court-ordered structure. The father's vacation dispute is within the mandate and must go through the full PC process.",
+    "why_A_wrong": "A states the Escalation-Always-Available Trap. While the court retains supervisory jurisdiction and urgent or emergency relief may be sought directly, this does not mean parties may routinely bypass a court-ordered PC to litigate every dispute. For matters within the PC mandate, the court-ordered process must be followed. Allowing unfettered escalation to court would make the PC order meaningless.",
+    "why_B_wrong": "B is correct. Parenting coordination involves facilitation followed, if necessary, by a binding determinative decision within the mandate. For the vacation scheduling dispute — squarely within the PC's mandate — the father must complete the PC process including the determinative phase before seeking a court order. The PC's authority to make binding decisions on mandate matters is the central feature of the determinative PC role in Ontario.",
+    "why_C_wrong": "C states the PC-Cannot-Decide-Parenting-Time Trap. Parenting coordinators in Ontario have determinative authority within their defined mandate. A vacation scheduling dispute is a classic matter within the PC's mandate and the PC is specifically authorized to make binding decisions on such issues. The PC's authority is not limited to procedural or administrative matters — it extends to parenting time disputes as defined in the court order appointing the PC.",
+    "why_D_wrong": "D states the Consensus-Required Trap. The PC's authority in the determinative phase is not consensual — the PC may make a binding decision even if one party (or both) disagrees with the outcome. The determinative PC function is binding precisely because it does not require consensus. If either parent's dissatisfaction could trigger automatic court escalation, the binding nature of the PC process would be entirely undermined.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Family Law",
@@ -536,14 +720,34 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Rules, O. Reg. 114/99, r. 17(8.1)-(8.2); Ontario Parenting Coordination Guidelines"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["parenting coordinator", "PC", "binding decisions", "high-conflict", "mediation determinative", "court review"],
-    "tested_concepts": ["parenting coordinator dual role", "facilitative and determinative", "binding within scope", "court review available", "not unlimited authority"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "parenting coordinator",
+      "PC mandate",
+      "facilitative",
+      "determinative",
+      "binding decision",
+      "high-conflict",
+      "bypass court",
+      "vacation parenting",
+      "court-ordered dispute resolution"
+    ],
+    "tested_concepts": [
+      "parenting coordinator hybrid role — facilitative and determinative",
+      "PC mandate defines scope of binding authority",
+      "parties cannot bypass PC for in-mandate disputes",
+      "Escalation-Always-Available Trap",
+      "PC-Cannot-Decide-Parenting-Time Trap",
+      "Consensus-Required Trap"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "fam-07-superv-access-001",
@@ -578,9 +782,26 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 17(5), s. 16(3) (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["supervised parenting time", "DA s.17(5)", "material change", "variation final order", "sobriety", "active harm not the test"],
-    "tested_concepts": ["DA s.17(5) material change threshold for variation", "not proof of active harm to child", "sustained sobriety as potential material change", "supervision orders not permanent", "unilateral variation application available", "fresh best interests after threshold met"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "supervised parenting time",
+      "DA s.17(5)",
+      "material change",
+      "variation final order",
+      "sobriety",
+      "active harm not the test"
+    ],
+    "tested_concepts": [
+      "DA s.17(5) material change threshold for variation",
+      "not proof of active harm to child",
+      "sustained sobriety as potential material change",
+      "supervision orders not permanent",
+      "unilateral variation application available",
+      "fresh best interests after threshold met"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -620,9 +841,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16(3)(e) (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["children's preference", "DA s.16(3)(e)", "views preferences", "age and maturity", "not determinative", "due weight"],
-    "tested_concepts": ["DA s.16(3)(e) children's views", "preference not determinative", "age and maturity weighting", "one of 16 factors", "OCL views"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "children's preference",
+      "DA s.16(3)(e)",
+      "views preferences",
+      "age and maturity",
+      "not determinative",
+      "due weight"
+    ],
+    "tested_concepts": [
+      "DA s.16(3)(e) children's views",
+      "preference not determinative",
+      "age and maturity weighting",
+      "one of 16 factors",
+      "OCL views"
+    ],
     "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -662,9 +899,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16.93(1) (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["relocation burden", "DA s.16.93(1)", "no existing order", "equal parenting time", "relocating parent bears burden"],
-    "tested_concepts": ["DA s.16.93(1) burden on relocating parent when equal time", "contrast with s.16.93(2)", "no automatic right to relocate", "Barendregt framework"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "relocation burden",
+      "DA s.16.93(1)",
+      "no existing order",
+      "equal parenting time",
+      "relocating parent bears burden"
+    ],
+    "tested_concepts": [
+      "DA s.16.93(1) burden on relocating parent when equal time",
+      "contrast with s.16.93(2)",
+      "no automatic right to relocate",
+      "Barendregt framework"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -704,9 +955,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16.94 (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["relocation", "no parenting time", "DA s.16.94", "opposing party no time", "relocating parent may proceed"],
-    "tested_concepts": ["DA s.16.94 no parenting time rule", "relocating parent may proceed without authorization", "opposing parent may still apply to court", "no automatic veto"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "relocation",
+      "no parenting time",
+      "DA s.16.94",
+      "opposing party no time",
+      "relocating parent may proceed"
+    ],
+    "tested_concepts": [
+      "DA s.16.94 no parenting time rule",
+      "relocating parent may proceed without authorization",
+      "opposing parent may still apply to court",
+      "no automatic veto"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -746,9 +1011,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16(3)(j), s. 16(4) (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["family violence", "DA s.16(4)", "supervised parenting time", "not automatic denial", "anger management", "witnessing violence"],
-    "tested_concepts": ["DA s.16(4) specific violence factors", "supervised parenting time as remedy", "not automatic denial for violence", "witnessing violence relevant", "anger management relevant not determinative"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "family violence",
+      "DA s.16(4)",
+      "supervised parenting time",
+      "not automatic denial",
+      "anger management",
+      "witnessing violence"
+    ],
+    "tested_concepts": [
+      "DA s.16(4) specific violence factors",
+      "supervised parenting time as remedy",
+      "not automatic denial for violence",
+      "witnessing violence relevant",
+      "anger management relevant not determinative"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -788,9 +1069,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16(3)(j) (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["financial abuse", "economic control", "coercive control", "DA s.16(3)(j)", "family violence broad definition"],
-    "tested_concepts": ["DA s.16(3)(j) broad definition includes financial abuse", "coercive and controlling behaviour", "no physical violence required", "no criminal charge required", "mandatory parenting consideration"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "financial abuse",
+      "economic control",
+      "coercive control",
+      "DA s.16(3)(j)",
+      "family violence broad definition"
+    ],
+    "tested_concepts": [
+      "DA s.16(3)(j) broad definition includes financial abuse",
+      "coercive and controlling behaviour",
+      "no physical violence required",
+      "no criminal charge required",
+      "mandatory parenting consideration"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -830,9 +1126,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 17; Gordon v Goertz, [1996] 2 SCR 27"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["material change", "Gordon v Goertz", "vary parenting order", "DA s.17", "significant unforeseen change"],
-    "tested_concepts": ["Gordon v Goertz three-part material change test", "change must be significant and unforeseen", "would have produced different order", "not just any post-order change"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "material change",
+      "Gordon v Goertz",
+      "vary parenting order",
+      "DA s.17",
+      "significant unforeseen change"
+    ],
+    "tested_concepts": [
+      "Gordon v Goertz three-part material change test",
+      "change must be significant and unforeseen",
+      "would have produced different order",
+      "not just any post-order change"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -872,9 +1182,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16(3)(e), s. 17; Gordon v Goertz, [1996] 2 SCR 27"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["child's preference", "material change", "maturing preference", "Gordon v Goertz", "age 13", "not dispositive"],
-    "tested_concepts": ["maturing preference as material change", "Gordon v Goertz foreseeability", "DA s.16(3)(e) due weight", "preference not automatic at 13", "full best interests analysis required"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "child's preference",
+      "material change",
+      "maturing preference",
+      "Gordon v Goertz",
+      "age 13",
+      "not dispositive"
+    ],
+    "tested_concepts": [
+      "maturing preference as material change",
+      "Gordon v Goertz foreseeability",
+      "DA s.16(3)(e) due weight",
+      "preference not automatic at 13",
+      "full best interests analysis required"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -914,9 +1240,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Children's Law Reform Act, R.S.O. 1990, c. C.12; Convention on the Civil Aspects of International Child Abduction (Hague Convention), Article 13(b)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["Hague Convention", "Article 13(b)", "grave risk of harm", "wrongful removal", "return of child", "narrow interpretation"],
-    "tested_concepts": ["Hague Convention Article 13(b) exception", "grave risk not mere risk", "burden on abducting parent", "narrowly interpreted", "civil standard of proof"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Hague Convention",
+      "Article 13(b)",
+      "grave risk of harm",
+      "wrongful removal",
+      "return of child",
+      "narrow interpretation"
+    ],
+    "tested_concepts": [
+      "Hague Convention Article 13(b) exception",
+      "grave risk not mere risk",
+      "burden on abducting parent",
+      "narrowly interpreted",
+      "civil standard of proof"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -956,9 +1298,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16(3) (as amended S.C. 2019, c. 16)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["parallel parenting", "communication restrictions", "high-conflict", "email-only", "parenting coordinator", "neutral exchange"],
-    "tested_concepts": ["parallel parenting definition", "independent decisions during own time", "communication restrictions email-only apps", "court can impose without consent", "parenting coordinator in high-conflict"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "parallel parenting",
+      "communication restrictions",
+      "high-conflict",
+      "email-only",
+      "parenting coordinator",
+      "neutral exchange"
+    ],
+    "tested_concepts": [
+      "parallel parenting definition",
+      "independent decisions during own time",
+      "communication restrictions email-only apps",
+      "court can impose without consent",
+      "parenting coordinator in high-conflict"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",

@@ -10,20 +10,20 @@
     "subtopic_heading": "The Basic Two-Year Limitation Period",
     "difficulty": "easy",
     "question_type": "single_best_answer",
-    "fact_pattern": "Takeshi slips and falls at a grocery store on April 15, 2024 and sustains personal injuries. He decides to consult a lawyer on November 1, 2025.",
-    "call_of_question": "What is the last day Takeshi may commence a proceeding for his personal injury claim, assuming he discovered his claim on the date of the fall?",
+    "fact_pattern": "Takeshi slips and falls at a grocery store on March 10, 2023. He feels some knee soreness but attributes it to a recent gym workout and does not seek medical attention. On September 15, 2024, after persistent pain, a physician diagnoses him with a torn meniscus and informs him that the injury was caused by the fall in 2023. Takeshi immediately consults a lawyer.",
+    "call_of_question": "What is the last day Takeshi may commence a proceeding against the grocery store under the Limitations Act, 2002?",
     "options": {
-      "A": "April 15, 2026",
-      "B": "November 1, 2027",
-      "C": "April 15, 2025",
-      "D": "There is no limitation period for personal injury claims in Ontario"
+      "A": "March 10, 2025 — two years after the date of the fall.",
+      "B": "September 15, 2026 — two years after the date Takeshi discovered his claim, being the date a physician confirmed causation.",
+      "C": "September 15, 2025 — one year after the date Takeshi discovered his claim.",
+      "D": "There is no limitation period because Takeshi could not have discovered his claim on the date of the fall; the Limitations Act, 2002 does not apply to latent injury claims."
     },
-    "correct_answer": "A",
-    "explanation": "Under s. 4 of the Limitations Act, 2002, a proceeding must be commenced within two years of the day the claim was discovered. Takeshi discovered his claim on April 15, 2024 (the date of the fall), so the limitation period expires on April 15, 2026. His decision to consult a lawyer on November 1, 2025 does not affect the calculation.",
-    "why_A_wrong": "This IS the correct answer. April 15, 2026 is exactly two years after the date of discovery (April 15, 2024) under s. 4 of the Limitations Act, 2002.",
-    "why_B_wrong": "November 1, 2027 is two years after the lawyer consultation. The limitation period runs from the date of discovery, not from the date of legal consultation.",
-    "why_C_wrong": "April 15, 2025 would be only one year after the fall. The basic limitation period is two years, not one year.",
-    "why_D_wrong": "The general two-year limitation period in s. 4 of the Limitations Act, 2002 applies to personal injury claims. There is no blanket exception for personal injury.",
+    "correct_answer": "B",
+    "explanation": "Under s. 4 of the Limitations Act, 2002, a proceeding must be commenced within two years of the day the claim was discovered. Under s. 5, a claim is discovered on the day the claimant first knew or ought to have known: (a) that the injury, loss, or damage occurred; (b) that it was caused by or contributed to by an act or omission; (c) that the act or omission was that of the person against whom the claim is made; and (d) that a proceeding would be an appropriate means to seek to remedy the injury. Takeshi could not reasonably have connected the grocery store fall to the knee injury until September 15, 2024, when a physician confirmed causation. The two-year limitation period therefore runs from September 15, 2024, and expires September 15, 2026.",
+    "why_A_wrong": "A applies the two-year period to the wrong start date. The Incident-Date Trap: the limitation period does not automatically run from the date of the event. Under s. 5 of the Limitations Act, 2002, the period runs from the date of discovery — when the claimant knew or ought to have known of the act, the loss, and causation. Because Takeshi did not and could not reasonably have connected the fall to his knee injury until the September 2024 diagnosis, the clock did not start on March 10, 2023.",
+    "why_B_wrong": "B is correct. Under s. 5 of the Limitations Act, 2002, the claim is discovered when the claimant first knew or ought to have known of the injury, the causation, and the identity of the defendant. Takeshi's physician confirmed on September 15, 2024 that the fall caused the torn meniscus; this is the date of discovery. The two-year basic limitation period under s. 4 therefore expires on September 15, 2026.",
+    "why_C_wrong": "C correctly identifies the discovery date but applies a one-year limitation period. The One-Year Trap: no one-year personal injury limitation period exists in Ontario's general Limitations Act, 2002 framework. The basic limitation period under s. 4 is two years from discovery. A one-year period could arise under specific statutes (e.g., certain municipal notice requirements), but the Limitations Act, 2002 itself uses a two-year period.",
+    "why_D_wrong": "D overstates the consequence of latent injury. The No-Limitation-Period Trap: the Limitations Act, 2002 does apply to latent injury claims. The discoverability principle in s. 5 delays the commencement of the period until the claimant knows or ought to know the essential facts — it does not eliminate the limitation period. The two-year period still runs; it merely starts later (from the date of discovery, not the incident).",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -38,20 +38,29 @@
     },
     "exam_trigger_words": [
       "limitation period",
-      "two years",
-      "when to sue",
-      "last day"
+      "discoverability",
+      "Limitations Act 2002",
+      "s.5",
+      "latent injury",
+      "date of discovery",
+      "personal injury",
+      "slip and fall",
+      "commencement deadline"
     ],
     "tested_concepts": [
-      "basic two-year limitation period",
-      "s. 4 Limitations Act",
-      "discovery date"
+      "s.4 basic two-year limitation period",
+      "s.5 discoverability principle",
+      "discovery date vs incident date distinction",
+      "latent injury and delayed discoverability",
+      "Incident-Date Trap",
+      "One-Year Trap",
+      "No-Limitation-Period Trap"
     ],
     "estimated_time_seconds": 75,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-02-basic-lim-002",

@@ -229,20 +229,20 @@
     "subtopic_heading": "No Genuine Issue Requiring a Trial",
     "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "On a summary judgment motion, the defendant argues that because the affiants on each side give conflicting accounts of the same events, a credibility dispute exists that makes a trial mandatory. The defendant relies on pre-Hryniak case law for this proposition.",
-    "call_of_question": "Is the defendant's argument correct after Hryniak v Mauldin, 2014 SCC 7?",
+    "fact_pattern": "On a summary judgment motion, both sides have filed conflicting affidavits about the central disputed issue of fact. The motion judge exercises her powers under r. 20.04(2.1) and directs that both affiants be cross-examined by video conference before her so that she may assess credibility. After conducting the cross-examinations, the motion judge concludes that one affiant is more credible and grants summary judgment in the plaintiff's favour. The defendant appeals, arguing that a motion judge can never make credibility findings — even after conducting cross-examinations — and that only a trial judge may resolve conflicting testimony.",
+    "call_of_question": "After Hryniak v Mauldin, 2014 SCC 7, and under r. 20.04(2.1), is the defendant's argument on appeal correct?",
     "options": {
-      "A": "Yes — credibility disputes between affiants always require a trial in Ontario.",
-      "B": "No — after Hryniak v Mauldin, 2014 SCC 7, a credibility dispute does not automatically preclude summary judgment; the motion judge may assess credibility under r. 20.04(2.1) if it would not be unjust to do so.",
-      "C": "Yes — the Canadian Charter of Rights and Freedoms guarantees the right to present live testimony before any adverse credibility finding is made.",
-      "D": "No — but the motion judge may assess credibility only if the opposing party has waived its right to cross-examine the affiants."
+      "A": "Yes — a motion judge's authority under r. 20.04(2.1) is limited to receiving additional evidence; making credibility findings based on cross-examination remains exclusively within the trial judge's province.",
+      "B": "No — Hryniak v Mauldin expanded the motion judge's powers to include assessing credibility where doing so is necessary to decide the motion and where it is not unjust to do so; cross-examinations conducted under r. 20.04(2.1) are a proper basis for credibility findings.",
+      "C": "Yes — using video conference cross-examination rather than in-person testimony denies the defendant the constitutional right to confront witnesses in person, rendering the credibility assessment procedurally invalid.",
+      "D": "No — but only because the defendant waived the right to object by participating in the video cross-examination process without objecting to the motion judge's jurisdiction at the time."
     },
     "correct_answer": "B",
-    "explanation": "Before Hryniak v Mauldin, 2014 SCC 7, it was widely accepted in Ontario that credibility disputes automatically necessitated a trial. Hryniak changed this. The Supreme Court held that motion judges, exercising the expanded powers under r. 20.04(2.1), may assess credibility on a summary judgment motion if doing so would not be unjust. A credibility dispute is therefore not an automatic bar to summary judgment; the motion judge must assess whether resolving the credibility issue without a trial would be fair in the circumstances.",
-    "why_A_wrong": "This was the pre-Hryniak position. Hryniak v Mauldin expressly changed the law — credibility disputes no longer automatically require a trial.",
-    "why_B_wrong": "This IS the correct answer. Hryniak and r. 20.04(2.1) allow a motion judge to assess credibility if it would not be unjust to do so.",
-    "why_C_wrong": "The Canadian Charter of Rights and Freedoms does not guarantee a right to present live testimony in civil summary judgment proceedings. The Charter's fair hearing protections apply differently in civil and administrative contexts.",
-    "why_D_wrong": "There is no requirement that the opposing party waive its right to cross-examine before a motion judge can assess credibility under r. 20.04(2.1).",
+    "explanation": "In Hryniak v Mauldin, 2014 SCC 7, the Supreme Court of Canada held that r. 20.04(2.1) grants motion judges specific enhanced powers — including hearing oral evidence and conducting cross-examinations — precisely to enable them to assess credibility where doing so is necessary and not unjust. The motion judge may weigh evidence, assess credibility, and draw reasonable inferences. A credibility dispute between affiants no longer automatically mandates a full trial. The defendant's argument that motion judges can never make credibility findings is the pre-Hryniak position that the Supreme Court expressly rejected. The motion judge here correctly exercised her r. 20.04(2.1) powers.",
+    "why_A_wrong": "A misreads r. 20.04(2.1). The Powers-Are-Limited-to-Evidence Trap: rule 20.04(2.1) does not merely authorize the reception of additional evidence — it expressly grants the motion judge the power to assess credibility, weigh evidence, and draw inferences. The purpose of Hryniak was precisely to remove the categorical bar on credibility findings at the summary judgment stage. A motion judge who directs cross-examination under r. 20.04(2.1) is permitted to act on the credibility assessment that flows from it.",
+    "why_B_wrong": "B is correct. Under Hryniak v Mauldin and r. 20.04(2.1), a motion judge has the power to assess credibility where necessary to decide the motion and where doing so is not unjust. This is precisely the power the motion judge exercised by directing video cross-examinations and then making credibility findings based on them. The defendant's argument that credibility can only be assessed by a trial judge was the pre-Hryniak rule that Hryniak expressly abrogated.",
+    "why_C_wrong": "C invents a constitutional right that does not exist in civil litigation. The Confrontation-Rights-in-Civil-Proceedings Trap: the right to confront witnesses in person is a principle drawn from criminal law (under s. 11(d) of the Charter). No equivalent constitutional guarantee of in-person confrontation exists in Ontario civil proceedings. The use of video conference for cross-examinations is expressly contemplated by the Rules and was further normalized post-pandemic.",
+    "why_D_wrong": "D introduces a waiver doctrine that is not the basis for the motion judge's authority. The Waiver-Cures-Jurisdiction Trap: the motion judge's power to assess credibility under r. 20.04(2.1) and Hryniak flows from the statute and the Supreme Court's decision — it does not depend on whether the defendant waived an objection. Whether or not the defendant objected during cross-examination is irrelevant to the existence of the motion judge's jurisdiction.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -256,22 +256,28 @@
       "pr_issue_type": null
     },
     "exam_trigger_words": [
-      "credibility",
       "Hryniak",
-      "r. 20.04(2.1)",
-      "automatically preclude",
+      "summary judgment",
+      "r.20.04(2.1)",
+      "credibility",
+      "motion judge",
+      "cross-examination",
+      "affidavit conflict",
       "trial mandatory"
     ],
     "tested_concepts": [
-      "Hryniak changed credibility rule",
-      "r. 20.04(2.1) credibility assessment",
-      "credibility not automatic bar to summary judgment"
+      "Hryniak v Mauldin credibility powers of motion judge",
+      "r.20.04(2.1) enhanced powers",
+      "credibility disputes post-Hryniak",
+      "Powers-Are-Limited-to-Evidence Trap",
+      "Confrontation-Rights-in-Civil-Proceedings Trap",
+      "Waiver-Cures-Jurisdiction Trap"
     ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-07-sumj-ev-001",

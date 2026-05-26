@@ -322,8 +322,24 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["discharge", "s. 730", "best interests of accused", "not contrary to public interest", "no minimum", "14-year maximum threshold", "hybrid offence", "indictment", "conditional discharge"],
-    "tested_concepts": ["s. 730(1) eligibility threshold — no minimum, max below 14 years", "mode of trial does not affect eligibility", "no categorical bar for violent offences", "best interests vs public interest discretionary test", "career consequences in best-interests analysis"],
+    "exam_trigger_words": [
+      "discharge",
+      "s. 730",
+      "best interests of accused",
+      "not contrary to public interest",
+      "no minimum",
+      "14-year maximum threshold",
+      "hybrid offence",
+      "indictment",
+      "conditional discharge"
+    ],
+    "tested_concepts": [
+      "s. 730(1) eligibility threshold — no minimum, max below 14 years",
+      "mode of trial does not affect eligibility",
+      "no categorical bar for violent offences",
+      "best interests vs public interest discretionary test",
+      "career consequences in best-interests analysis"
+    ],
     "estimated_time_seconds": 105,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -367,8 +383,23 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["consecutive sentences", "totality principle", "s. 718.2(c)", "unduly long or harsh", "step back", "crushing", "separate victims", "just and appropriate"],
-    "tested_concepts": ["totality principle s. 718.2(c)", "arithmetic-total review step", "distinction between proportionality and totality", "parity vs totality", "totality cap for first-time offenders"],
+    "exam_trigger_words": [
+      "consecutive sentences",
+      "totality principle",
+      "s. 718.2(c)",
+      "unduly long or harsh",
+      "step back",
+      "crushing",
+      "separate victims",
+      "just and appropriate"
+    ],
+    "tested_concepts": [
+      "totality principle s. 718.2(c)",
+      "arithmetic-total review step",
+      "distinction between proportionality and totality",
+      "parity vs totality",
+      "totality cap for first-time offenders"
+    ],
     "estimated_time_seconds": 105,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -412,8 +443,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["pre-sentence custody", "s. 719(3)", "1.5:1 credit", "enhanced credit", "Truth in Sentencing Act", "remand credit"],
-    "tested_concepts": ["s. 719(3) base 1:1 credit", "s. 719(3.1) enhanced credit up to 1.5:1", "enhanced credit barred for criminal record bail denial", "2009 Truth in Sentencing Act capped credit"],
+    "exam_trigger_words": [
+      "pre-sentence custody",
+      "s. 719(3)",
+      "1.5:1 credit",
+      "enhanced credit",
+      "Truth in Sentencing Act",
+      "remand credit"
+    ],
+    "tested_concepts": [
+      "s. 719(3) base 1:1 credit",
+      "s. 719(3.1) enhanced credit up to 1.5:1",
+      "enhanced credit barred for criminal record bail denial",
+      "2009 Truth in Sentencing Act capped credit"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -457,8 +500,21 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["mandatory minimum", "s. 12 Charter", "grossly disproportionate", "Nur", "cruel and unusual", "reasonable hypothetical"],
-    "tested_concepts": ["s. 12 gross disproportionality test", "Nur two-branch analysis", "reasonable hypothetical cases", "mandatory minimum constitutionality", "gross disproportionality threshold"],
+    "exam_trigger_words": [
+      "mandatory minimum",
+      "s. 12 Charter",
+      "grossly disproportionate",
+      "Nur",
+      "cruel and unusual",
+      "reasonable hypothetical"
+    ],
+    "tested_concepts": [
+      "s. 12 gross disproportionality test",
+      "Nur two-branch analysis",
+      "reasonable hypothetical cases",
+      "mandatory minimum constitutionality",
+      "gross disproportionality threshold"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -502,8 +558,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["victim surcharge", "s. 737", "undue hardship", "Boudreault", "waiver", "mandatory surcharge"],
-    "tested_concepts": ["s. 737(3) waiver on undue hardship", "Boudreault mandatory surcharge struck down", "2019 amendment restoring waiver discretion", "inability to pay ground for waiver"],
+    "exam_trigger_words": [
+      "victim surcharge",
+      "s. 737",
+      "undue hardship",
+      "Boudreault",
+      "waiver",
+      "mandatory surcharge"
+    ],
+    "tested_concepts": [
+      "s. 737(3) waiver on undue hardship",
+      "Boudreault mandatory surcharge struck down",
+      "2019 amendment restoring waiver discretion",
+      "inability to pay ground for waiver"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -547,8 +615,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["pre-sentence custody", "1.5:1 cap", "s. 719(3.1)", "statutory cap", "harsh remand conditions", "Indigenous offender"],
-    "tested_concepts": ["s. 719(3.1) absolute 1.5:1 cap", "cap applies regardless of remand harshness", "Gladue does not override s. 719(3.1) cap", "harsh conditions as mitigating factor not extra credit"],
+    "exam_trigger_words": [
+      "pre-sentence custody",
+      "1.5:1 cap",
+      "s. 719(3.1)",
+      "statutory cap",
+      "harsh remand conditions",
+      "Indigenous offender"
+    ],
+    "tested_concepts": [
+      "s. 719(3.1) absolute 1.5:1 cap",
+      "cap applies regardless of remand harshness",
+      "Gladue does not override s. 719(3.1) cap",
+      "harsh conditions as mitigating factor not extra credit"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -592,8 +672,19 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["mandatory consecutive", "s. 85(4)", "firearm", "consecutive by statute", "same event"],
-    "tested_concepts": ["s. 85(4) mandatory consecutive firearm sentences", "statutory consecutive vs judicial discretion", "same event — consecutive still required", "firearm use sentence must be consecutive"],
+    "exam_trigger_words": [
+      "mandatory consecutive",
+      "s. 85(4)",
+      "firearm",
+      "consecutive by statute",
+      "same event"
+    ],
+    "tested_concepts": [
+      "s. 85(4) mandatory consecutive firearm sentences",
+      "statutory consecutive vs judicial discretion",
+      "same event — consecutive still required",
+      "firearm use sentence must be consecutive"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -896,20 +987,20 @@
     "subtopic_heading": "Restorative Justice — s. 718(e) and (f)",
     "difficulty": "easy",
     "question_type": "single_best_answer",
-    "fact_pattern": "A first-time offender pleads guilty to mischief. The Crown and defence agree that a restorative justice approach, including participation in a community conference where the offender faces the victim and community members, would be beneficial. The sentencing judge must consider whether restorative justice principles are relevant.",
-    "call_of_question": "Under s. 718(e) and (f) of the Criminal Code, which sentencing objectives are consistent with restorative justice principles?",
+    "fact_pattern": "A first-time offender pleads guilty to mischief. The defence proposes participation in a community conference and a restorative justice program under which the offender will meet with the victim, acknowledge the harm, and pay restitution. The Crown supports the restorative component but also argues that denunciation of the conduct remains appropriate and should be reflected in the sentence alongside the restorative measures. The defence objects, arguing that denunciation is incompatible with restorative justice and that including it would undermine the restorative process.",
+    "call_of_question": "Under the Criminal Code sentencing framework, which of the following most accurately describes the relationship between restorative justice objectives and denunciation?",
     "options": {
-      "A": "Denunciation and deterrence — restorative justice is not a recognized sentencing objective in the Criminal Code.",
-      "B": "Providing reparations for harm done to victims or the community, and promoting a sense of responsibility in offenders and acknowledgment of the harm done to victims and the community.",
-      "C": "Separation from society and rehabilitation — restorative justice is a form of community-based incapacitation.",
-      "D": "Incapacitation — restorative justice programs are only appropriate where the offender is separated from the community."
+      "A": "Denunciation and restorative justice are incompatible sentencing objectives; once the court endorses a restorative process, it cannot also impose a sentence that denounces the conduct.",
+      "B": "The sentencing objectives in s. 718 of the Criminal Code are not mutually exclusive; the court may pursue restorative objectives under s. 718(e) and (f) while also giving weight to denunciation under s. 718(a), depending on all the circumstances of the offence and the offender.",
+      "C": "Restorative justice objectives in ss. 718(e) and (f) are subordinate to denunciation under s. 718(a); the Code requires that denunciation be prioritized before restorative measures are considered.",
+      "D": "Restorative justice is not a recognized sentencing objective under the Criminal Code; the Code's enumerated objectives are limited to denunciation, deterrence, separation from society, rehabilitation, and restitution."
     },
     "correct_answer": "B",
-    "explanation": "Section 718(e) and (f) of the Criminal Code include restorative justice-oriented objectives: (e) to provide reparations for harm done to victims or to the community; and (f) to promote a sense of responsibility in offenders, and acknowledgment of the harm done to victims and to the community. These two objectives directly reflect restorative justice principles — repairing relationships, making the offender face the consequences of their actions, and providing the victim and community with recognition of the harm done. Community conferences and circle sentencing are examples of restorative justice processes that advance these objectives.",
-    "why_A_wrong": "Restorative justice IS recognized in the Criminal Code through s. 718(e) and (f). Denunciation (s. 718(a)) and deterrence (s. 718(b)) are also sentencing objectives, but they are not specifically associated with restorative justice principles.",
-    "why_B_wrong": "This IS the correct answer. Sections 718(e) and (f) — reparations for harm and promoting responsibility and acknowledgment — are the sentencing objectives most directly aligned with restorative justice principles.",
-    "why_C_wrong": "Separation from society (s. 718(c)) and rehabilitation (s. 718(d)) are distinct sentencing objectives. Restorative justice is not a form of incapacitation — it is community-based and involves accountability without necessarily restricting liberty.",
-    "why_D_wrong": "Restorative justice is the opposite of incapacitation — it keeps the offender in the community and facilitates direct engagement with the victim and community. Incapacitation (separation) is a distinct sentencing objective under s. 718(c).",
+    "explanation": "Section 718 of the Criminal Code sets out multiple sentencing objectives: (a) denunciation; (b) deterrence; (c) separation from society; (d) rehabilitation; (e) reparations for harm (restorative); and (f) promoting a sense of responsibility in the offender (restorative). These objectives are not mutually exclusive. Courts are directed under s. 718.1 to impose a proportionate sentence that addresses the relevant objectives, weighing them in accordance with the circumstances. A sentence may incorporate restorative elements (community conference, restitution) while also giving expression to denunciation — particularly where the offence caused tangible harm to an identifiable victim. The defence's argument that denunciation is incompatible with restorative justice has no basis in the Code.",
+    "why_A_wrong": "A states a legal proposition that is incorrect. The Mutually-Exclusive-Objectives Trap: section 718 lists multiple sentencing objectives that courts must balance — they are not alternatives from which a court must choose only one. Restorative justice objectives (ss. 718(e) and (f)) are explicitly enumerated alongside denunciation (s. 718(a)). Courts routinely impose sentences that simultaneously pursue restorative and denunciatory goals, particularly in cases involving identifiable victims and community harm.",
+    "why_B_wrong": "B is correct. Section 718 lists six sentencing objectives that courts must weigh together — none is automatically excluded by the presence of another. A sentence that includes restorative elements (meeting with the victim, restitution) may also carry a denunciatory component. The Crown's position is consistent with the Code: denunciation under s. 718(a) and restorative objectives under ss. 718(e)–(f) can coexist in a proportionate sentence.",
+    "why_C_wrong": "C invents a hierarchy that the Code does not create. Section 718 does not establish a mandatory priority order among sentencing objectives — s. 718.1 requires only that the sentence be proportionate to the gravity of the offence and the degree of responsibility of the offender. Courts have interpreted this to require a balanced weighing of relevant objectives. No provision of the Code requires denunciation to be addressed before restorative measures are considered.",
+    "why_D_wrong": "D misstates the contents of s. 718. The Code's sentencing objectives expressly include both reparations to victims or the community (s. 718(e)) and promoting a sense of responsibility in the offender and acknowledgment of the harm (s. 718(f)) — these are the statutory foundations of restorative justice in Canadian sentencing law. Section 718(f) was added specifically to incorporate restorative principles into the Code.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
@@ -923,18 +1014,24 @@
       "pr_issue_type": null
     },
     "exam_trigger_words": [
+      "s.718",
+      "sentencing objectives",
+      "denunciation",
       "restorative justice",
-      "s. 718(e)",
-      "s. 718(f)",
+      "s.718(e)",
+      "s.718(f)",
       "reparations",
       "sense of responsibility",
-      "community conference"
+      "sentencing balance",
+      "proportionality"
     ],
     "tested_concepts": [
-      "s. 718(e) reparations for harm",
-      "s. 718(f) sense of responsibility and acknowledgment",
-      "restorative justice objectives in Criminal Code",
-      "community-based accountability"
+      "s.718 sentencing objectives — non-exclusive list",
+      "restorative justice objectives ss.718(e) and (f)",
+      "denunciation and restoration as compatible",
+      "Mutually-Exclusive-Objectives Trap",
+      "invented sentencing hierarchy trap",
+      "restorative justice in Criminal Code"
     ],
     "estimated_time_seconds": 60,
     "validation_status": "draft",

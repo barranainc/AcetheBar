@@ -10,20 +10,20 @@
     "subtopic_heading": "Not Criminally Responsible — s. 16 Criminal Code",
     "difficulty": "easy",
     "question_type": "single_best_answer",
-    "fact_pattern": "The accused is charged with assault. At trial, psychiatrists testify that he suffers from a major mental disorder that, at the time of the act, caused him to believe he was defending himself against alien invaders and that he did not appreciate that what he was doing was morally or legally wrong.",
-    "call_of_question": "Under s. 16(1) of the Criminal Code, on what ground is the accused's NCR defence based?",
+    "fact_pattern": "The accused, Raymond, is charged with assault causing bodily harm. Psychiatric evidence at trial establishes that Raymond has paranoid schizophrenia and that at the time of the assault, his disorder caused him to believe his neighbour was about to kill him. Acting on this delusion, Raymond struck his neighbour first, believing he was defending himself. Both the Crown and defence experts agree Raymond was suffering from a severe psychotic episode at the time and that his belief, though entirely delusional, was sincerely held.",
+    "call_of_question": "Under s. 16(1) of the Criminal Code, on what ground is Raymond's NCR defence based?",
     "options": {
-      "A": "The accused did not commit the physical act of the offence (actus reus) because his body was controlled by the mental disorder.",
-      "B": "The accused is not criminally responsible because a mental disorder rendered him incapable of appreciating the nature and quality of the act or of knowing that it was wrong.",
-      "C": "The accused acted in an automatism-like state and therefore lacked the voluntary act required for criminal liability.",
-      "D": "The accused is not criminally responsible because he lacked the motive to commit the assault."
+      "A": "Raymond did not commit the physical act of the assault because his movements were controlled by the mental disorder, negating the actus reus.",
+      "B": "Raymond is not criminally responsible because his mental disorder rendered him incapable of knowing that the act was wrong — he genuinely believed, by reason of his disorder, that he was acting in lawful self-defence.",
+      "C": "Raymond acted in a dissociative automatism-like state and therefore lacked the voluntary act required for criminal liability.",
+      "D": "Because Raymond sincerely believed he was acting in self-defence, the substantive defence of self-defence under s. 34 of the Criminal Code applies — the NCR defence is unnecessary and unavailable where a justification defence exists."
     },
     "correct_answer": "B",
-    "explanation": "Section 16(1) of the Criminal Code provides that no person is criminally responsible for an act committed while suffering from a mental disorder that rendered them incapable either of: (a) appreciating the nature and quality of the act or omission, or (b) knowing that the act or omission was wrong. 'Wrong' in this context means morally wrong (R. v. Chaulk, [1990] 3 SCR 1303). On the facts, the accused's delusional belief that he was defending against aliens shows incapacity to know the act was wrong. The defence is NCR (not criminally responsible) by reason of mental disorder, not an absence of actus reus or automatism.",
-    "why_A_wrong": "The NCR defence does not operate by negating the actus reus. The accused committed the physical act; the defence operates at the level of criminal responsibility despite the act being committed. The mental disorder prevents appreciation or knowledge of wrongness.",
-    "why_B_wrong": "This IS the correct answer. Section 16(1) of the Criminal Code establishes the NCR defence where a mental disorder renders the accused incapable of appreciating the nature and quality of the act or knowing it was wrong.",
-    "why_C_wrong": "Automatism (non-insane or insane) addresses situations where the accused's movements were involuntary. Where the mental disorder produces a conscious but deluded actor who commits a voluntary act, the applicable defence is NCR under s.16, not automatism.",
-    "why_D_wrong": "Motive (the reason for committing an act) is not an element of any offence in Canadian criminal law. The NCR defence does not operate through absence of motive; it operates through incapacity to appreciate the act or know it is wrong.",
+    "explanation": "Section 16(1) of the Criminal Code provides that no person is criminally responsible for an act committed while suffering from a mental disorder that rendered them incapable of: (a) appreciating the nature and quality of the act; or (b) knowing that the act was wrong. Here, Raymond committed the physical act consciously (he chose to strike his neighbour) and appreciated its physical character (an assault). The operative NCR ground is (b): his disorder rendered him incapable of knowing the act was wrong, because he genuinely believed — by reason of his psychotic delusion — that he was acting in lawful self-defence. This is the 'wrong' prong of s. 16(1).",
+    "why_A_wrong": "A misidentifies the basis of the NCR defence. The Actus-Reus-Negation Trap: the NCR defence does not operate by negating the actus reus. Raymond committed the physical act of the assault voluntarily and consciously — his mental disorder did not eliminate the voluntary act. The NCR defence operates at the level of criminal responsibility, not by denying that the act occurred. Automatism (which does negate the actus reus) is a distinct defence based on involuntary movement.",
+    "why_B_wrong": "B is correct. Under s. 16(1)(b), the NCR defence applies where the mental disorder rendered the accused incapable of knowing that the act was wrong. Raymond's paranoid schizophrenia caused him to believe he was lawfully defending himself — he could not appreciate the wrongfulness of his conduct because his disorder displaced that appreciation entirely. This is the 'wrong' prong of the s. 16(1) NCR defence.",
+    "why_C_wrong": "C conflates NCR with automatism. The Automatism-vs-NCR Trap: automatism involves an involuntary bodily act — the accused's body moves without conscious control, negating the voluntary act element of the actus reus. Raymond's act was not involuntary in this sense — he consciously decided to strike his neighbour. His mental disorder affected his perception of reality and his moral understanding of the act, not the voluntary character of his physical movement. These are distinct legal doctrines.",
+    "why_D_wrong": "D confuses the NCR defence with the justification defence of self-defence. The NCR-vs-Self-Defence Trap: the s. 34 defence of self-defence applies where the accused's belief in the need to defend themselves was objectively reasonable in the circumstances. Raymond's belief was delusional — no objectively reasonable person would have perceived the neighbour as a threat. The defence of self-defence is unavailable on these facts. The NCR defence under s. 16(1)(b) is specifically designed for accused whose mental disorder caused a delusional belief that their act was justified — precisely Raymond's situation.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
@@ -38,23 +38,29 @@
     },
     "exam_trigger_words": [
       "NCR",
-      "not criminally responsible",
+      "s.16(1)",
       "mental disorder",
-      "s. 16",
-      "appreciate nature and quality",
-      "know it was wrong"
+      "not criminally responsible",
+      "wrong prong",
+      "appreciation prong",
+      "paranoid schizophrenia",
+      "delusional belief",
+      "self-defence",
+      "automatism"
     ],
     "tested_concepts": [
-      "s. 16(1) NCR criteria",
-      "incapacity to appreciate nature and quality",
-      "incapacity to know act was wrong",
-      "moral vs legal wrongness (Chaulk)"
+      "s.16(1) NCR defence — two grounds: appreciate/know wrong",
+      "wrong prong of NCR vs self-defence",
+      "NCR vs automatism distinction",
+      "Actus-Reus-Negation Trap",
+      "Automatism-vs-NCR Trap",
+      "NCR-vs-Self-Defence Trap"
     ],
     "estimated_time_seconds": 60,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-08-ncr-002",
@@ -496,8 +502,22 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["provocation", "s. 232", "partial defence", "ordinary person", "heat of passion", "sudden", "manslaughter"],
-    "tested_concepts": ["s. 232 provocation elements", "wrongful act or insult", "ordinary person standard (objective)", "acted on the sudden", "provocation reduces murder to manslaughter only"],
+    "exam_trigger_words": [
+      "provocation",
+      "s. 232",
+      "partial defence",
+      "ordinary person",
+      "heat of passion",
+      "sudden",
+      "manslaughter"
+    ],
+    "tested_concepts": [
+      "s. 232 provocation elements",
+      "wrongful act or insult",
+      "ordinary person standard (objective)",
+      "acted on the sudden",
+      "provocation reduces murder to manslaughter only"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -541,8 +561,22 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["automatism", "non-insane automatism", "insane automatism", "sleepwalking", "acquittal", "Stone", "Parks"],
-    "tested_concepts": ["non-insane vs insane automatism", "sleepwalking as non-insane automatism", "acquittal on non-insane automatism", "NCR result of insane automatism", "judge determines classification"],
+    "exam_trigger_words": [
+      "automatism",
+      "non-insane automatism",
+      "insane automatism",
+      "sleepwalking",
+      "acquittal",
+      "Stone",
+      "Parks"
+    ],
+    "tested_concepts": [
+      "non-insane vs insane automatism",
+      "sleepwalking as non-insane automatism",
+      "acquittal on non-insane automatism",
+      "NCR result of insane automatism",
+      "judge determines classification"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -586,8 +620,21 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["entrapment", "Mack", "reasonable suspicion", "bona fide inquiry", "persistent persuasion", "stay of proceedings"],
-    "tested_concepts": ["Mack two-branch entrapment test", "no reasonable suspicion branch", "persistent inducement branch", "entrapment leads to stay not acquittal", "repeated requests as inducement"],
+    "exam_trigger_words": [
+      "entrapment",
+      "Mack",
+      "reasonable suspicion",
+      "bona fide inquiry",
+      "persistent persuasion",
+      "stay of proceedings"
+    ],
+    "tested_concepts": [
+      "Mack two-branch entrapment test",
+      "no reasonable suspicion branch",
+      "persistent inducement branch",
+      "entrapment leads to stay not acquittal",
+      "repeated requests as inducement"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -631,8 +678,21 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["NCR disposition", "review board", "s. 672.54", "absolute discharge", "conditional discharge", "hospital detention"],
-    "tested_concepts": ["s. 672.54 review board disposition options", "absolute discharge if no significant threat", "conditional discharge with conditions", "hospital detention", "NCR not a criminal sentence"],
+    "exam_trigger_words": [
+      "NCR disposition",
+      "review board",
+      "s. 672.54",
+      "absolute discharge",
+      "conditional discharge",
+      "hospital detention"
+    ],
+    "tested_concepts": [
+      "s. 672.54 review board disposition options",
+      "absolute discharge if no significant threat",
+      "conditional discharge with conditions",
+      "hospital detention",
+      "NCR not a criminal sentence"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -676,8 +736,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["automatism", "Stone", "balance of probabilities", "persuasive burden", "accused bears burden", "presumption of voluntariness"],
-    "tested_concepts": ["Stone automatism burden on accused", "balance of probabilities standard for automatism", "departure from air of reality rule", "presumption of voluntary action"],
+    "exam_trigger_words": [
+      "automatism",
+      "Stone",
+      "balance of probabilities",
+      "persuasive burden",
+      "accused bears burden",
+      "presumption of voluntariness"
+    ],
+    "tested_concepts": [
+      "Stone automatism burden on accused",
+      "balance of probabilities standard for automatism",
+      "departure from air of reality rule",
+      "presumption of voluntary action"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -867,20 +939,20 @@
     "subtopic_heading": "Colour of Right — s. 322(1)(a) Criminal Code",
     "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "Nathan, a contractor, removed lumber from a construction site believing he was owed money by the developer and that the lumber was collateral for an unpaid debt. He had no legal security interest in the lumber and no right to seize it as payment. Nathan is charged with theft. His counsel argues colour of right.",
+    "fact_pattern": "Nathan is a contractor who completed renovation work for a developer, Victor. Victor did not pay Nathan by the agreed date. During a heated conversation, Victor said to Nathan: 'If I don't pay you by Friday, you can take the lumber I have stored on site.' Friday passed without payment. Relying on Victor's statement, Nathan went to the site and removed the lumber. Victor then reported the lumber missing. Nathan is charged with theft. Nathan testifies that he genuinely believed Victor's statement gave him a legal right to take the lumber, although he acknowledges the statement was oral and no formal agreement was documented.",
     "call_of_question": "Which of the following correctly states the colour of right doctrine as it applies to Nathan's situation?",
     "options": {
-      "A": "Colour of right is available only where the accused had a legally valid claim of right, such as a registered lien or court order.",
-      "B": "Colour of right applies where the accused honestly believed he had a legal entitlement to the property — the belief need not be reasonable, but it must be an honest belief in a legal (not merely moral) right.",
-      "C": "Colour of right is available whenever the accused was owed money by the owner of the property taken; the moral claim is sufficient.",
-      "D": "Colour of right is not available for property offences involving lumber or building materials; it applies only to personal property."
+      "A": "Colour of right is unavailable because Nathan did not have a legally valid right to the lumber — the oral statement by Victor is not a registered security interest, lien, or court order, and therefore cannot ground the defence.",
+      "B": "Colour of right applies where the accused honestly believed he had a legal entitlement to the property taken — the belief need not be correct or legally reasonable, but it must be a belief in a legal right, not merely a moral claim; if Nathan genuinely believed Victor's statement conferred a legal right to take the lumber, the defence is available.",
+      "C": "Colour of right is established because Victor owed Nathan money for completed work; a creditor who takes property to satisfy an unpaid debt has a recognized moral and legal right to do so, making the defence automatically available.",
+      "D": "Colour of right is not available for property taken from commercial premises; it applies only to property found on public land or land to which the accused has a lawful right of access."
     },
     "correct_answer": "B",
-    "explanation": "Colour of right under s. 322(1)(a) of the Criminal Code provides a defence to theft where the accused honestly believed he had a legal right or title to the property taken. The key requirements are: (1) the belief must be honest (subjective test — not required to be reasonable); and (2) the belief must be in a legal right, not merely a moral claim. A belief that one is morally owed money and is 'entitled' to take property as compensation does not constitute colour of right unless the accused genuinely believed he had a legal entitlement (for example, a mistaken belief in a lien, legal title, or contractual right). On these facts, Nathan's belief that he could seize lumber as payment for a debt may or may not qualify — the court would assess whether he honestly believed in a legal right (not just moral entitlement) to take the lumber.",
-    "why_A_wrong": "Colour of right does not require a legally valid claim — the accused need not actually have the right, only honestly believe they do. Even an honestly held but legally erroneous belief in a right to take the property is sufficient. The defence is about the accused's subjective state, not the objective legal validity of their claim.",
-    "why_B_wrong": "This IS the correct answer. Colour of right requires an honest belief in a legal entitlement to the property — the belief need not be reasonable but must be in a legal right, not merely a moral claim.",
-    "why_C_wrong": "A moral claim (being owed money) is insufficient for colour of right. The accused must honestly believe in a legal right to the specific property, not simply a general entitlement to compensation. Self-help remedies based on moral claims do not qualify as colour of right unless the accused honestly believed in a legal (proprietary or contractual) entitlement.",
-    "why_D_wrong": "Colour of right is not restricted to personal property or any particular type of property. It applies to all forms of property subject to theft charges. There is no categorical exclusion for lumber, building materials, or any other class of property.",
+    "explanation": "Colour of right under s. 322(1)(a) of the Criminal Code provides a defence to theft where the accused honestly believed he had a legal right or title to the property taken. The key elements are: (1) the accused had an honest belief in a legal entitlement to the property; (2) the belief need not be reasonable (the test is subjective); but (3) the belief must be in a legal right, not merely a moral claim such as believing one is owed money. Victor's oral statement — 'if I don't pay you by Friday, you can take the lumber' — could ground an honest belief in a legal right to the lumber if Nathan genuinely believed the statement conferred that right. The belief does not need to be legally correct (colour of right does not require a valid enforceable agreement); it requires only that the belief was honest and pertained to a legal entitlement.",
+    "why_A_wrong": "A requires legal validity of the right, which colour of right does not. The Valid-Security-Interest Trap: colour of right does not require the accused to have a registered lien, security interest, or court order. The defence requires only an honest belief in a legal entitlement — not that the entitlement actually exists or is legally enforceable. An honest belief that an oral statement conferred the right to take property is sufficient to ground the defence, even if the agreement would not be enforceable as a security interest.",
+    "why_B_wrong": "B is correct. Colour of right requires an honest, subjective belief in a legal entitlement to the property taken. That belief need not be correct in law, but it must be a belief in a legal right — not merely a moral grievance about being owed money. Victor's oral promise could ground such a belief if Nathan genuinely understood it as conferring a legal right to the lumber. The fact that the agreement was oral and informal does not prevent Nathan from honestly believing it gave him a legal entitlement.",
+    "why_C_wrong": "C collapses the distinction between moral claims and legal rights. The Moral-Claim Trap: a creditor who is owed money has a contractual claim against the debtor — not a right to seize property as self-help. Being owed money does not automatically give a creditor a legal right to take the debtor's property. Colour of right requires a belief in a legal entitlement to the specific property taken, not merely a belief that one is owed money by the property owner. Automatic availability based on any debt relationship is not the law.",
+    "why_D_wrong": "D invents a categorical restriction that does not exist. The Premises-Restriction Trap: colour of right is not limited by the type of premises on which the property is located. It applies to any property offence regardless of whether the property is on commercial premises, private land, or public land. The defence turns on the accused's honest belief in a legal entitlement to the specific property taken — not on where the property was located.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
@@ -895,17 +967,22 @@
     },
     "exam_trigger_words": [
       "colour of right",
-      "s. 322(1)(a)",
+      "s.322",
+      "theft",
       "honest belief",
       "legal entitlement",
-      "moral vs legal right",
-      "theft defence"
+      "subjective test",
+      "moral claim",
+      "oral promise",
+      "Criminal Code defence"
     ],
     "tested_concepts": [
-      "colour of right — honest belief in legal entitlement",
-      "subjective standard (not reasonableness required)",
-      "legal right vs moral claim",
-      "defence applies to property offences only"
+      "colour of right — subjective honest belief in legal entitlement",
+      "legal right vs moral claim distinction",
+      "oral agreement as basis for colour of right",
+      "Valid-Security-Interest Trap",
+      "Moral-Claim Trap",
+      "Premises-Restriction Trap"
     ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
@@ -1183,8 +1260,21 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["provocation", "ordinary person", "s. 232(2)", "Hill", "peculiar sensitivity", "anxiety disorder", "modified objective"],
-    "tested_concepts": ["s. 232(2) ordinary person standard", "Hill — age and sex imported", "mental conditions not imported into ordinary person", "modified objective standard for provocation"],
+    "exam_trigger_words": [
+      "provocation",
+      "ordinary person",
+      "s. 232(2)",
+      "Hill",
+      "peculiar sensitivity",
+      "anxiety disorder",
+      "modified objective"
+    ],
+    "tested_concepts": [
+      "s. 232(2) ordinary person standard",
+      "Hill — age and sex imported",
+      "mental conditions not imported into ordinary person",
+      "modified objective standard for provocation"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",

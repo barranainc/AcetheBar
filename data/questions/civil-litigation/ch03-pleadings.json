@@ -619,20 +619,20 @@
     "subtopic_heading": "Statement of Claim — Form and Endorsement",
     "difficulty": "easy",
     "question_type": "single_best_answer",
-    "fact_pattern": "A lawyer is preparing a statement of claim for a commercial dispute. The client asks whether the statement of claim must include an endorsement and, if so, what the endorsement must contain.",
-    "call_of_question": "Under r.14.03 of the Rules of Civil Procedure, what must a statement of claim include as part of its form?",
+    "fact_pattern": "Elaine is preparing a statement of claim for her client in a commercial lease dispute. She drafts an endorsement that includes: (i) a statement that the defendant breached a commercial lease agreement; (ii) a claim for $275,000 in damages; and (iii) a two-page narrative summarizing all documentary evidence and witness accounts the plaintiff intends to rely on at trial. The defendant's counsel reviews the endorsement and objects.",
+    "call_of_question": "Under r. 14.03 of the Rules of Civil Procedure, does the endorsement as drafted comply with the rule's requirements?",
     "options": {
-      "A": "A statement of claim need not include an endorsement; the relief sought is set out only in the body of the claim.",
-      "B": "A statement of claim must include a backsheet only, setting out the names of the parties and the court; no endorsement is required.",
-      "C": "A statement of claim must be endorsed with a statement of the nature of the claim and the relief sought, which serves as a short-form summary of the action.",
-      "D": "A statement of claim must include the complete evidence the plaintiff intends to rely upon at trial, endorsed on the backsheet."
+      "A": "Yes — r. 14.03 requires the endorsement to include a comprehensive statement of the facts and evidence supporting the claim so that the defendant is fully informed before filing a defence.",
+      "B": "No — r. 14.03 requires only a concise statement of the nature of the claim and the relief sought; the two-page evidence narrative exceeds the endorsement's proper function and the evidence should not appear in the endorsement at all.",
+      "C": "No — the endorsement is deficient because it does not include the names of the witnesses the plaintiff intends to call at trial, as required by r. 14.03.",
+      "D": "No — the inclusion of the evidence narrative in the endorsement renders the entire statement of claim a nullity, and Elaine must recommence the proceeding from the beginning."
     },
-    "correct_answer": "C",
-    "explanation": "Under r.14.03 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), an originating process — including a statement of claim — shall be endorsed with a concise statement of the nature of the claim and the relief sought. This endorsement appears on the face of the claim and provides the defendant with a brief summary of what the action is about. The endorsement is distinct from the body of the claim, which sets out the full material facts and relief claimed in detail.",
-    "why_A_wrong": "An endorsement is required under r.14.03. The statement of claim must include a concise endorsement of the nature of the claim and the relief sought.",
-    "why_B_wrong": "A backsheet alone is insufficient. Rule 14.03 requires an endorsement of the nature of the claim and relief sought, not merely identification of the parties and court on a backsheet.",
-    "why_C_wrong": "This IS the correct answer. Rule 14.03 requires the statement of claim to be endorsed with a concise statement of the nature of the claim and the relief sought.",
-    "why_D_wrong": "Evidence is not to be included in the endorsement or anywhere in the statement of claim. Pleadings contain material facts, not evidence. An endorsement is a concise summary, not a complete evidence statement.",
+    "correct_answer": "B",
+    "explanation": "Under r. 14.03 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), an originating process — including a statement of claim — shall be endorsed with a concise statement of the nature of the claim and the relief sought. The endorsement is a short-form summary, not a vehicle for evidence or detailed factual narratives. Evidence, witness lists, and supporting details belong in affidavits or at trial — not in the endorsement. Elaine's two-page evidence narrative is improper content for the endorsement and the endorsement as drafted does not comply with r. 14.03's conciseness requirement.",
+    "why_A_wrong": "A inverts the rule. The Comprehensive-Endorsement Trap: r. 14.03 requires a concise statement of the nature of the claim and relief sought — not a comprehensive summary of facts and evidence. A pleading states facts, not evidence, and even the factual content of the statement of claim itself is distinct from evidence. Including a detailed evidence narrative in the endorsement goes beyond the rule's requirements and is improper.",
+    "why_B_wrong": "B is correct. Rule 14.03 requires the endorsement to be a concise statement of the nature of the claim (identifying the legal basis) and the relief sought (the remedy). Items (i) and (ii) of Elaine's endorsement satisfy this requirement. Item (iii) — the two-page evidence narrative — exceeds the endorsement's proper function. Evidence is not to appear in a pleading or endorsement; it is adduced at trial or by affidavit.",
+    "why_C_wrong": "C invents a requirement that does not exist under r. 14.03. The Witness-List Trap: rule 14.03 does not require the endorsement or the statement of claim to list witnesses the plaintiff intends to call. Witness lists are relevant at the pre-trial and trial stage, not as a required component of an originating process.",
+    "why_D_wrong": "D overstates the consequence. The Nullity-Overstatement Trap: a deficiency in the content of an endorsement (including improper content) does not automatically render the entire statement of claim a nullity. Courts have discretion to permit amendments under r. 26.01. A procedural defect in the endorsement is a correctable irregularity, not a ground for treating the proceeding as void from the outset.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -648,20 +648,26 @@
     "exam_trigger_words": [
       "endorsement",
       "r.14.03",
-      "nature of claim",
+      "statement of claim",
+      "originating process",
+      "concise statement",
+      "nature of the claim",
       "relief sought",
-      "statement of claim form"
+      "pleadings"
     ],
     "tested_concepts": [
-      "statement of claim endorsement — r.14.03",
-      "concise statement of nature of claim",
-      "endorsement vs body of claim"
+      "r.14.03 endorsement requirements",
+      "concise vs comprehensive endorsement",
+      "improper content in endorsement",
+      "Comprehensive-Endorsement Trap",
+      "Witness-List Trap",
+      "Nullity-Overstatement Trap"
     ],
     "estimated_time_seconds": 75,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-03-notice-act-001",

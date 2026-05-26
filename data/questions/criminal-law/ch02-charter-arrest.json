@@ -284,20 +284,20 @@
     "subtopic_heading": "s. 10(b) — Right to Retain and Instruct Counsel",
     "difficulty": "easy",
     "question_type": "single_best_answer",
-    "fact_pattern": "Immediately upon arresting Kwame for fraud, police begin asking him detailed questions about the alleged scheme before saying anything about his right to a lawyer.",
-    "call_of_question": "Which Charter right has been violated?",
+    "fact_pattern": "Police arrest Kwame on reasonable grounds for fraud. At the moment of arrest, the arresting officer does not inform Kwame of the reason for his arrest. The officer immediately begins asking Kwame detailed questions about the alleged scheme. At no point before or during questioning does the officer say anything to Kwame about his right to retain and instruct counsel. Kwame makes incriminating statements during the questioning.",
+    "call_of_question": "Which Charter right was most precisely and directly violated by the officer's conduct in questioning Kwame before informing him of his right to retain and instruct counsel?",
     "options": {
-      "A": "Section 7 — the right to life, liberty, and security of the person.",
-      "B": "Section 10(b) — the right to retain and instruct counsel without delay and to be informed of that right.",
-      "C": "Section 9 — the right against arbitrary detention.",
-      "D": "Section 11(c) — the right not to be compelled to be a witness against oneself."
+      "A": "Section 10(a) — the right to be informed promptly of the reasons for arrest or detention, which was violated when the officer failed to state the reason for the arrest.",
+      "B": "Section 10(b) — the right to retain and instruct counsel without delay and to be informed of that right, which was violated when the officer began questioning Kwame without first informing him of his right to counsel.",
+      "C": "Section 7 — the right to life, liberty, and security of the person, because Kwame's liberty was infringed without respect for the principles of fundamental justice.",
+      "D": "Section 11(c) — the right not to be compelled to be a witness against oneself in criminal proceedings, because the officer questioned Kwame before he could assert his right to silence."
     },
     "correct_answer": "B",
-    "explanation": "Section 10(b) of the Charter guarantees that everyone who is arrested or detained has the right to retain and instruct counsel without delay and to be informed of that right. The Supreme Court in R v Manninen [1987] 1 SCR 1233 held that police have both an informational duty (to advise of the right) and an implementational duty (to hold off questioning until the person has had a reasonable opportunity to contact counsel). Beginning questioning before providing the s. 10(b) caution violates both duties.",
-    "why_A_wrong": "Section 7 is a broader right that can be engaged, but s. 10(b) is the specific provision addressing the right to counsel upon arrest or detention and is the right most directly violated on these facts.",
-    "why_B_wrong": "This IS the correct answer. Section 10(b) — the right to retain and instruct counsel without delay and to be informed of that right.",
-    "why_C_wrong": "Section 9 concerns whether the detention itself is arbitrary. Here, the arrest may be lawful; the violation is the failure to inform and implement the right to counsel.",
-    "why_D_wrong": "Section 11(c) protects against being compelled to testify against oneself in criminal proceedings. Section 10(b) is the specific pre-trial right to counsel that applies at the time of arrest.",
+    "explanation": "Section 10(b) of the Charter guarantees that everyone arrested or detained has the right to retain and instruct counsel without delay and to be informed of that right. The Supreme Court in R v Manninen, [1987] 1 SCR 1233, held that s. 10(b) imposes both an informational duty (tell the detained person of the right to counsel) and an implementational duty (provide a reasonable opportunity to exercise that right and hold off questioning until that opportunity is given). Here, the officer began questioning Kwame without first informing him of his s. 10(b) rights — a direct breach of s. 10(b). While s. 10(a) was also engaged (the officer did not state the reason for arrest), s. 10(b) is the most precisely applicable right given the specific conduct of questioning before informing of the right to counsel.",
+    "why_A_wrong": "A identifies a genuine Charter breach (s. 10(a) was also violated when the officer did not state the reason for the arrest), but it is not the provision most precisely and directly violated by the act of questioning before informing of the right to counsel. The s.10(a)-vs-s.10(b) Trap: the call asks about the breach arising from questioning without informing of counsel rights — that is s. 10(b). Section 10(a) governs the right to be informed of the reasons for arrest, a distinct (though also violated) right. Candidates must identify which specific right corresponds to the specific conduct described.",
+    "why_B_wrong": "B is correct. Section 10(b) requires that: (1) the person be informed of their right to retain and instruct counsel without delay; and (2) they be given a reasonable opportunity to exercise that right before police continue with the investigative purpose of the detention. The officer here did neither — no information was given about the right to counsel, and questioning began immediately. This is a textbook s. 10(b) breach confirmed in R v Manninen and R v Bartle, [1994] 3 SCR 173.",
+    "why_C_wrong": "C is too broad. The s.7-Catch-All Trap: section 7 guarantees the right to life, liberty, and security of the person in accordance with the principles of fundamental justice. A breach of s. 10(b) will often also engage s. 7, but s. 7 is a residual provision. When a more specific Charter right directly addresses the conduct at issue — here, s. 10(b) for the failure to inform of the right to counsel before questioning — that specific provision governs. Courts analyze s. 7 when no more specific right applies.",
+    "why_D_wrong": "D confuses distinct Charter rights. The s.11(c)-Testimonial-Compulsion Trap: section 11(c) protects an accused from being compelled to testify against themselves in criminal proceedings — it concerns the right not to be put on the witness stand against one's will at trial. It does not govern pre-trial police questioning. The right to silence during investigative detention arises under s. 7 (right to silence) and the right to counsel under s. 10(b) — not under s. 11(c), which is a trial-stage protection.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Criminal Law",
@@ -311,23 +311,31 @@
       "pr_issue_type": null
     },
     "exam_trigger_words": [
-      "s. 10(b)",
+      "s.10(b)",
       "right to counsel",
-      "without delay",
-      "informed",
-      "arrest"
-    ],
-    "tested_concepts": [
-      "s. 10(b) Charter right",
       "informational duty",
       "implementational duty",
-      "R v Manninen"
+      "arrest",
+      "questioning",
+      "s.10(a)",
+      "Charter",
+      "Manninen",
+      "counsel without delay"
+    ],
+    "tested_concepts": [
+      "s.10(b) informational and implementational duties",
+      "s.10(a) vs s.10(b) distinction",
+      "s.11(c) trial-stage testimonial compulsion",
+      "s.7 as residual vs specific rights",
+      "s.10(a)-vs-s.10(b) Trap",
+      "s.7-Catch-All Trap",
+      "s.11(c)-Testimonial-Compulsion Trap"
     ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-02-s10b-002",
@@ -957,17 +965,17 @@
     "fact_pattern": "Dimitri, a neighbour, observed a man he did not recognise break a car window and take a laptop bag from inside a car parked on a residential street in Mississauga. The incident occurred at 11:00 p.m. Dimitri did not immediately intervene. By 11:10 p.m., Dimitri saw the same man walking back past his driveway and detained him. Dimitri did not call police until 11:45 p.m., keeping the man restrained in his garage for that period. Theft of property from a motor vehicle is a hybrid offence.",
     "call_of_question": "Which of the following most accurately describes the legal issues arising from Dimitri's actions?",
     "options": {
-      "A": "The arrest was valid under s. 494(1)(a) because Dimitri personally witnessed an indictable offence, and there is no duty to deliver the arrested person to police.",
-      "B": "The arrest may be justified under s. 494(1)(b) if Dimitri reasonably believed the man committed an indictable offence and was freshly pursuing him; however, the 35-minute delay before calling police likely violates the s. 494(3) duty to deliver forthwith, potentially rendering the continued detention unlawful.",
+      "A": "The arrest was valid under s. 494(1)(a) because Dimitri personally witnessed an indictable offence being committed, and there is no duty to deliver the arrested person to police if the citizen chooses to escort him to the owner of the property.",
+      "B": "The arrest may be justified under s. 494(1)(b) if Dimitri reasonably believed the man committed an indictable offence and was freshly pursuing him; however, s. 494(3) requires Dimitri to deliver the arrested person to police forthwith.",
       "C": "The arrest is unlawful because s. 494 applies only to property owners and the car was not Dimitri's property.",
-      "D": "The arrest was valid without any limit on the duration of detention, because Dimitri acted in good faith."
+      "D": "The arrest is valid and Dimitri may detain the man at his residence until the man agrees to compensate the car owner, because s. 494 authorizes a citizen to take reasonable steps to recover stolen property on behalf of the victim."
     },
     "correct_answer": "B",
     "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 494(1)(b), any person may arrest without warrant a person who, on reasonable grounds, they believe has committed a criminal offence and is escaping and freshly pursued. Dimitri witnessed the offence and may have been engaged in fresh pursuit when he detained the man at 11:10 p.m. However, s. 494(3) imposes a mandatory duty to deliver the arrested person to a peace officer forthwith — meaning without unreasonable delay. Holding the person for 35 minutes before even calling police is unlikely to satisfy this requirement. The citizen's arrest power does not authorise extended private detention, and failure to comply with s. 494(3) may expose Dimitri to liability for unlawful confinement.",
     "why_A_wrong": "There is indeed a duty to deliver the arrested person to police forthwith under s. 494(3). Section 494 does not grant unlimited detention rights; the person must be transferred to a peace officer without unreasonable delay.",
     "why_B_wrong": "This IS the correct answer. The arrest may be justified under s. 494(1)(b) if Dimitri reasonably believed the man committed an indictable offence and was freshly pursuing him; however, the 35-minute delay before calling police likely violates the s. 494(3) duty to deliver forthwith, potentially rendering the continued detention unlawful.",
     "why_C_wrong": "Section 494(1) grants powers to any person, not only property owners. The car being Dimitri's property is irrelevant to the s. 494(1) analysis, which is not property-based.",
-    "why_D_wrong": "Good faith does not override the mandatory statutory duty in s. 494(3). The duty to deliver forthwith is not excused by subjective good intentions; the reasonableness of the delay is assessed objectively.",
+    "why_D_wrong": "D invents an authority that s. 494 does not confer. The Voluntary-Settlement-Authority Trap: section 494 authorizes the arrest of a person and requires immediate delivery to police — it does not authorize the arresting citizen to detain the person indefinitely, negotiate compensation, or act as an enforcement agent for the victim. Detaining a person to coerce compensation would constitute unlawful confinement. The mandatory delivery obligation in s. 494(3) is immediate and unconditional; it cannot be suspended to pursue private resolution.",
     "source_reference": {
       "lso_material": "2026 LSO Barrister Examination Materials",
       "subject": "Criminal Law",
@@ -997,7 +1005,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-02-s9-detent-001",
@@ -1401,15 +1409,15 @@
     "fact_pattern": "Officers arrest Ingrid for shoplifting (theft under $5,000). Purportedly invoking SITA, they seize her unlocked smartphone and, at the police station two hours after arrest, conduct a full review of her photos, emails, and banking applications. They find no evidence related to the shoplifting but discover communications that link her to an unrelated drug operation. They seek to use this as evidence in a new drug trafficking prosecution.",
     "call_of_question": "Under R v Fearon and the general SITA doctrine, which of the following best describes the legality of the cell phone search?",
     "options": {
-      "A": "The search is valid because SITA authorized the seizure of the phone, and any evidence found during a search of a lawfully seized item is admissible.",
-      "B": "The search is valid because the phone was unlocked, removing any reasonable expectation of privacy.",
-      "C": "The search violates s. 8 of the Charter on multiple grounds: it was not conducted promptly at the time of arrest, it was a full data review rather than a targeted search, and it was not truly incidental to the shoplifting arrest; the drug evidence should be excluded under s. 24(2).",
-      "D": "The search is valid because the evidence discovered, while relating to a different offence, was found during a lawful SITA search."
+      "A": "The search is valid because SITA authorized the seizure of the phone, and any evidence found during a search of a lawfully seized item is admissible regardless of when or how the search was conducted.",
+      "B": "The search is valid because the shoplifting offence involved Ingrid photographing store products on her phone to track them for resale, so the phone was directly related to the commission of the offence and its contents were properly subject to search incident to arrest.",
+      "C": "The search violates s. 8 of the Charter on multiple grounds: it was not conducted promptly at the time of arrest, it was a full data review rather than a limited targeted search, and any evidence found was unrelated to shoplifting.",
+      "D": "The search is valid because the evidence discovered, while relating to a different offence, was found during a lawful SITA search and is therefore admissible under the plain-view doctrine."
     },
     "correct_answer": "C",
     "explanation": "Under R v Fearon, 2014 SCC 77, a cell phone search incident to arrest must meet all of the following: (1) the arrest must be lawful; (2) the search must be truly incidental to the arrest — connected to the purpose of the arrest; (3) the search must be limited in scope and proportionate; and (4) police must make detailed contemporaneous notes. On these facts, the search fails on multiple grounds. It occurred two hours after arrest (not contemporaneous), it was a comprehensive review of all phone data (not limited), and it was not truly incidental to a shoplifting arrest (no connection between shoplifting and emails or banking apps). The discovery of unrelated drug evidence does not cure these defects. The cell phone search violates s. 8, and the drug evidence should be assessed under the s. 24(2) exclusionary remedy.",
     "why_A_wrong": "Seizing the phone under SITA does not automatically authorize a comprehensive search of its contents. Fearon established that cell phone searches incident to arrest are subject to stricter constraints than physical searches. Seizure and search are distinct acts.",
-    "why_B_wrong": "Whether the phone is locked or unlocked does not determine whether the search is constitutionally valid. A reasonable expectation of privacy in a phone's contents exists regardless of lock status, as held in Fearon.",
+    "why_B_wrong": "B applies a post-hoc rationalization of relatedness that Fearon does not permit. The Post-Hoc-Rationalization Trap: under R v Fearon, 2014 SCC 77, a SITA search of a cell phone must be truly incidental to the arrest — meaning the purpose of the search must be genuinely connected to the reason for the arrest (officer safety, preventing evidence destruction, or discovering evidence related to the arrested offence). The relatedness assessment must be made at the time of and during the search, not constructed retrospectively. Here, the search was conducted two hours post-arrest at the police station — not at the scene — and was a full data review, not a targeted search for evidence of shoplifting. Even if the phone was hypothetically used in the shoplifting, these temporal and scope violations independently invalidate the search under Fearon.",
     "why_C_wrong": "This IS the correct answer. The search violates s. 8 of the Charter on multiple grounds: it was not conducted promptly at the time of arrest, it was a full data review rather than a targeted search, and it was not truly incidental to the shoplifting arrest; the drug evidence should be excluded under s. 24(2).",
     "why_D_wrong": "The search was not lawful under Fearon because it failed the truly incidental and limited scope requirements. Evidence discovered during an unlawful search does not become admissible simply because it is found. The s. 24(2) analysis must follow.",
     "source_reference": {
@@ -1442,7 +1450,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-02-sw-issu-001",

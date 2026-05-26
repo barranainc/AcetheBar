@@ -506,20 +506,20 @@
     "subtopic_heading": "Refusals and Undertakings at Discovery",
     "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "Examination for discovery of the defendant, Paradis Fabrication Ltd., was completed fourteen months ago in a commercial negligence action brought by Sobchak Industrial Supply Inc. At the time of discovery, Sobchak's counsel noted seventeen questions that were refused on grounds of relevance and recorded them on the refusals chart. Sobchak's counsel has not taken any steps to challenge any of the refusals since the examination. Trial is now scheduled for three months away, and Sobchak's counsel brings a motion to compel answers to all seventeen refused questions.",
-    "call_of_question": "What is the risk Sobchak faces in bringing a motion to compel answers to refused questions fourteen months after the examination for discovery?",
+    "fact_pattern": "Sobchak Industrial Supply Inc. completed examination for discovery of the defendant, Paradis Fabrication Ltd., fourteen months ago in a commercial negligence action. At the time, Paradis refused to answer eleven questions, undertook to produce certain documents, and delivered answers to undertakings nine months ago. Sobchak never followed up on the refused questions. The parties have since completed documentary discovery. A trial date has now been set for eight months from now. Sobchak's counsel advises that she intends to bring a motion to compel answers to the eleven refused questions.",
+    "call_of_question": "What procedural risk does Sobchak face in bringing this motion to compel now, fourteen months after the examination for discovery?",
     "options": {
-      "A": "There is no time limit on bringing a motion to compel answers to refused questions; Sobchak may bring the motion at any time before trial.",
-      "B": "Sobchak's motion will automatically be dismissed because a motion to compel answers to refused questions must be brought within 60 days of the discovery.",
-      "C": "Sobchak risks the motion being dismissed or penalized in costs on the basis that the motion was not brought within a reasonable time after the examination for discovery, causing prejudice to Paradis and disrupting the trial preparation schedule.",
-      "D": "Sobchak must obtain leave of the court to compel answers to any discovery refusals if more than six months have passed since the examination."
+      "A": "No risk — there is no time limit on motions to compel answers to refused questions; Sobchak may bring the motion at any point before the commencement of trial.",
+      "B": "The motion will be dismissed as of right because Sobchak failed to bring it within 90 days of Paradis delivering its answers to undertakings, which is the deemed deadline under the Rules of Civil Procedure.",
+      "C": "Sobchak risks the motion being dismissed or penalized in costs because courts expect motions to compel discovery refusals to be brought within a reasonable time after the examination; delay of this length, with no explanation and a trial date set, may result in the court exercising its discretion to deny the motion.",
+      "D": "Sobchak must obtain leave of court to examine Paradis again; once a discovery examination is completed and undertakings answered, a party has no further right to pursue refused questions without a fresh examination order."
     },
     "correct_answer": "C",
-    "explanation": "Under Ontario discovery practice, while there is no hard statutory deadline for bringing a motion to compel answers to discovery refusals, courts expect that such motions be brought within a reasonable time after the examination. Waiting fourteen months — until three months before trial — creates a real risk that the court will find the delay unreasonable, that prejudice has resulted to the responding party, and that granting the motion would disrupt the trial schedule. Courts have dismissed or imposed adverse costs consequences on late-brought motions to compel. Sobchak's delay in challenging the refusals for over a year is a significant procedural risk, and the court may decline to hear the motion or impose costs regardless of the merits of the individual refusals.",
-    "why_A_wrong": "While there is no absolute statutory deadline, courts do not permit motions to compel to be brought at any time without regard to delay. Unreasonable delay in bringing the motion is a significant factor against granting it.",
-    "why_B_wrong": "There is no fixed 60-day rule for motions to compel discovery refusals in the Rules of Civil Procedure. The standard is reasonableness of the delay in the circumstances.",
-    "why_C_wrong": "This IS the correct answer. Sobchak risks the motion being dismissed or attracting adverse costs for failing to bring the motion within a reasonable time after the discovery, particularly given the proximity to trial.",
-    "why_D_wrong": "There is no specific 'leave of court' requirement triggered at six months post-examination. The governing principle is reasonableness of the delay, not a leave threshold at a fixed time period.",
+    "explanation": "Ontario discovery practice imposes no absolute statutory deadline on motions to compel answers to discovery refusals. However, courts consistently hold that such motions must be brought within a reasonable time following the examination. Fourteen months — with no explanation, no prior follow-up, completed documentary discovery, and a trial date now set — will likely be found to be an unreasonable delay. The court retains discretion to dismiss the motion or award costs against Sobchak for bringing it so late. Conversely, the court may still grant the motion if the questions are material and Sobchak provides a satisfactory explanation. The risk is not automatic dismissal but a substantial likelihood of adverse procedural consequences.",
+    "why_A_wrong": "A overstates Sobchak's position. The Discovery-Never-Closes Trap: while there is no hard statutory deadline, courts do not treat the right to bring motions to compel as open-ended. A motion to compel filed fourteen months after the examination, with no explanation and after a trial date has been set, is vulnerable to being dismissed on the basis that it was not brought within a reasonable time. Ignoring the reasonable-time requirement exposes Sobchak to adverse cost consequences or outright dismissal.",
+    "why_B_wrong": "B invents a rule that does not exist. There is no 90-day deemed deadline or automatic right-of-dismissal triggered by the delivery of answers to undertakings under the Rules of Civil Procedure (R.R.O. 1990, Reg. 194). The timing of answers to undertakings may be relevant context — if Sobchak waited nine months after receiving undertaking answers to bring the motion, this supports a finding of unreasonable delay — but there is no fixed deadline that triggers automatic dismissal.",
+    "why_C_wrong": "C is correct. There is no absolute deadline for motions to compel, but courts exercise their inherent and r. 1.04 proportionality jurisdiction to refuse relief where a party sat on its rights without reasonable explanation. With a trial date eight months away, documentary discovery complete, and no explanation for the fourteen-month delay, Sobchak faces a real risk of the motion being dismissed or of facing adverse costs — even if the court ultimately grants it on the merits.",
+    "why_D_wrong": "D misstates the procedural pathway. Once a party refuses to answer questions at discovery, the moving party's remedy is a motion to compel those specific answers — not a fresh examination order. There is no rule requiring a new examination order simply because answers to undertakings have been delivered. The right to compel refused questions survives the completion of undertakings; it is constrained only by the reasonable-time expectation, not by any requirement to seek fresh examination leave.",
     "source_reference": {
       "lso_material": "2026 LSO Barrister Examination Materials",
       "subject": "Civil Litigation",
@@ -533,23 +533,27 @@
       "pr_issue_type": null
     },
     "exam_trigger_words": [
+      "examination for discovery",
+      "refusals",
       "motion to compel",
+      "undertakings",
       "reasonable time",
-      "delay",
-      "refusals chart",
-      "r. 31.08"
+      "discovery delay",
+      "trial date set"
     ],
     "tested_concepts": [
-      "reasonable time to bring motion to compel refusals",
-      "delay in bringing motion — risk of dismissal",
-      "r. 31.08 motion to compel",
-      "proximity to trial as prejudice factor"
+      "no absolute deadline for motions to compel discovery refusals",
+      "reasonable time requirement for discovery motions",
+      "consequences of delay in bringing discovery motions",
+      "Discovery-Never-Closes Trap",
+      "invented 90-day rule trap",
+      "Fresh-Examination-Required Trap"
     ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-09-corp-disc-001",

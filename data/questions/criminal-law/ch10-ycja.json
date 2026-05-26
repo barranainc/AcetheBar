@@ -299,16 +299,16 @@
     "fact_pattern": "Tariq was convicted at age 16 of theft under $5,000 and received a reprimand as his youth sentence. He is now 22 years old and has had no further contact with the justice system. A prospective employer conducts a criminal record check. Tariq's youth conviction was recorded in the RCMP repository.",
     "call_of_question": "Under the YCJA, what is the status of Tariq's youth record at age 22, given that he received a reprimand and has been offence-free?",
     "options": {
-      "A": "The youth record remains accessible indefinitely because it was entered in the RCMP national repository.",
-      "B": "The youth record is sealed and inaccessible; the access period for a reprimand ends three months after the reprimand was pronounced.",
-      "C": "The youth record is automatically destroyed two years after the sentence was completed.",
-      "D": "The youth record can only be sealed if Tariq makes a formal court application after turning 18."
+      "A": "The youth record remains accessible indefinitely because it was entered in the RCMP national repository at the time of conviction.",
+      "B": "The youth record is sealed and inaccessible; the access period for a reprimand ends three months after the reprimand was pronounced, and Tariq has been offence-free for years beyond that.",
+      "C": "The youth record's access period expired three years after the reprimand was pronounced because youth records for all youth sentences are accessible for a minimum of three years under the YCJA.",
+      "D": "The youth record can only be sealed if Tariq makes a formal court application after turning 18 to have the record expunged."
     },
     "correct_answer": "B",
     "explanation": "Under s. 119(2)(a) of the YCJA, where the young person received a reprimand as the youth sentence, the period during which persons are permitted access to records expires three months after the reprimand was pronounced. After this access period closes, the record is sealed and persons listed in s.119(1) can no longer access it. Since Tariq received a reprimand at age 16 and is now 22, the three-month access period has long expired. The record is effectively sealed. For more serious youth sentences, the access period is longer (e.g., three years after a non-custodial sentence is completed, five years after custody sentences end). The scheme reflects the YCJA principle that youth records should not follow young persons into adulthood.",
     "why_A_wrong": "Youth records in the RCMP repository are not permanently accessible. The YCJA establishes time-limited access periods that depend on the sentence imposed. A reprimand carries only a three-month access period under s.119(2)(a), after which the record is sealed.",
     "why_B_wrong": "This IS the correct answer. Under s.119(2)(a) YCJA, the access period for a youth record where the sentence was a reprimand expires three months after the reprimand was pronounced. At age 22, Tariq's record is sealed.",
-    "why_C_wrong": "The YCJA does not provide for automatic destruction of youth records two years after sentence completion. The scheme involves access periods that, once expired, result in sealing. Physical destruction may occur under s.128 in some circumstances but the two-year timeline stated is incorrect.",
+    "why_C_wrong": "C confuses the access period for a reprimand with the access period for other, more serious youth sentences. The Sentence-Type-Confusion Trap: the YCJA establishes different access periods depending on the type of youth sentence imposed. Under s. 119(2)(a), the access period for a reprimand is only three months from the date it was pronounced — not three years. A three-year access period applies to conditional discharges (s. 119(2)(b)). Tariq received a reprimand, not a conditional discharge, so the three-month period applies and his record has been sealed for years.",
     "why_D_wrong": "No formal court application is required to seal a youth record. Sealing is automatic once the access period expires under s.119(2). The young person need not apply to court — the record simply becomes inaccessible once the statutory period ends.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
@@ -341,7 +341,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-10-ycja-sent-002",

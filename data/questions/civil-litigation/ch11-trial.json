@@ -33,7 +33,9 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.52"
     },
-    "pr_angle": {"applicable": false},
+    "pr_angle": {
+      "applicable": false
+    },
     "exam_trigger_words": [
       "order of proceedings",
       "plaintiff first",
@@ -88,9 +90,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.53; Evidence Act, R.S.O. 1990, c. E.23, s.23"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["cross-examination", "leading questions", "prior inconsistent statement", "scope of cross-examination", "impeach"],
-    "tested_concepts": ["leading questions permissible on cross-examination", "cross-examination broader than examination in chief", "prior inconsistent statements on cross-examination"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "cross-examination",
+      "leading questions",
+      "prior inconsistent statement",
+      "scope of cross-examination",
+      "impeach"
+    ],
+    "tested_concepts": [
+      "leading questions permissible on cross-examination",
+      "cross-examination broader than examination in chief",
+      "prior inconsistent statements on cross-examination"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -130,9 +144,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.48.14"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.48.14", "dismissal for delay", "status notice", "set down for trial", "90 days"],
-    "tested_concepts": ["r.48.14 — status notice and dismissal for delay procedure", "90-day period after status notice", "plaintiff must show explanation for delay and no prejudice"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.48.14",
+      "dismissal for delay",
+      "status notice",
+      "set down for trial",
+      "90 days"
+    ],
+    "tested_concepts": [
+      "r.48.14 — status notice and dismissal for delay procedure",
+      "90-day period after status notice",
+      "plaintiff must show explanation for delay and no prejudice"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -172,9 +198,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Courts of Justice Act, R.S.O. 1990, c. C.43, s.108; Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.47"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["jury notice", "strike jury notice", "s.108", "prolonged examination of accounts", "civil jury trial"],
-    "tested_concepts": ["right to civil jury trial not absolute — s.108 CJA", "court discretion to strike jury notice", "grounds — prolonged accounts, technical issues, inappropriate"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "jury notice",
+      "strike jury notice",
+      "s.108",
+      "prolonged examination of accounts",
+      "civil jury trial"
+    ],
+    "tested_concepts": [
+      "right to civil jury trial not absolute — s.108 CJA",
+      "court discretion to strike jury notice",
+      "grounds — prolonged accounts, technical issues, inappropriate"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -214,9 +252,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.52; Ontario civil trial practice"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["non-suit", "election not to call evidence", "prima facie case", "plaintiff's evidence alone", "civil trial"],
-    "tested_concepts": ["non-suit motion — defendant must elect not to call evidence", "if non-suit refused — case on plaintiff's evidence alone", "non-suit available in civil proceedings"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "non-suit",
+      "election not to call evidence",
+      "prima facie case",
+      "plaintiff's evidence alone",
+      "civil trial"
+    ],
+    "tested_concepts": [
+      "non-suit motion — defendant must elect not to call evidence",
+      "if non-suit refused — case on plaintiff's evidence alone",
+      "non-suit available in civil proceedings"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -256,9 +306,22 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.24.01; r.48.14"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.24.01", "r.48.14", "dismissal for delay", "inordinate delay", "inexcusable", "prejudice"],
-    "tested_concepts": ["r.24.01 — party motion, inordinate inexcusable prejudicial delay", "r.48.14 — registrar process, not set down for trial", "distinction between the two delay dismissal mechanisms"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.24.01",
+      "r.48.14",
+      "dismissal for delay",
+      "inordinate delay",
+      "inexcusable",
+      "prejudice"
+    ],
+    "tested_concepts": [
+      "r.24.01 — party motion, inordinate inexcusable prejudicial delay",
+      "r.48.14 — registrar process, not set down for trial",
+      "distinction between the two delay dismissal mechanisms"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -298,9 +361,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.52.06"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["trial management conference", "r.52.06", "binding orders", "expert witnesses", "efficient trial"],
-    "tested_concepts": ["trial management conference — r.52.06", "orders may include limiting experts, scheduling witnesses", "orders are binding on parties"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "trial management conference",
+      "r.52.06",
+      "binding orders",
+      "expert witnesses",
+      "efficient trial"
+    ],
+    "tested_concepts": [
+      "trial management conference — r.52.06",
+      "orders may include limiting experts, scheduling witnesses",
+      "orders are binding on parties"
+    ],
     "estimated_time_seconds": 80,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -340,9 +415,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.26.01"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["amendment at trial", "r.26.01", "leave of court", "non-compensable prejudice", "pleading amendment"],
-    "tested_concepts": ["r.26.01 — amendments permitted at trial with leave", "test — non-compensable prejudice to opposing party", "adjournment may be adequate remedy"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "amendment at trial",
+      "r.26.01",
+      "leave of court",
+      "non-compensable prejudice",
+      "pleading amendment"
+    ],
+    "tested_concepts": [
+      "r.26.01 — amendments permitted at trial with leave",
+      "test — non-compensable prejudice to opposing party",
+      "adjournment may be adequate remedy"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -382,9 +469,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.51; Evidence Act, R.S.O. 1990, c. E.23"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["formal admission", "admission in pleadings", "binding", "statement of defence", "proof dispensed"],
-    "tested_concepts": ["formal admissions in pleadings are binding at trial", "opposing party need not prove admitted facts", "leave required to withdraw admission — r.51.05"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "formal admission",
+      "admission in pleadings",
+      "binding",
+      "statement of defence",
+      "proof dispensed"
+    ],
+    "tested_concepts": [
+      "formal admissions in pleadings are binding at trial",
+      "opposing party need not prove admitted facts",
+      "leave required to withdraw admission — r.51.05"
+    ],
     "estimated_time_seconds": 80,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -424,9 +523,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194; Ontario civil trial practice"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["re-open case", "judgment reserved", "new evidence", "reasonable diligence", "material evidence"],
-    "tested_concepts": ["re-opening case after judgment reserved — discretionary", "test: unavailability despite diligence + materiality + interests of justice", "re-opening is exceptional not routine"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "re-open case",
+      "judgment reserved",
+      "new evidence",
+      "reasonable diligence",
+      "material evidence"
+    ],
+    "tested_concepts": [
+      "re-opening case after judgment reserved — discretionary",
+      "test: unavailability despite diligence + materiality + interests of justice",
+      "re-opening is exceptional not routine"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -466,9 +577,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Evidence Act, R.S.O. 1990, c. E.23, s.35"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["business records", "s.35 Evidence Act", "hearsay exception", "ordinary course of business", "routine practice"],
-    "tested_concepts": ["s.35 Evidence Act — business records exception to hearsay", "requirements: ordinary course, routine practice, contemporaneous recording", "no need to call individual record-makers"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "business records",
+      "s.35 Evidence Act",
+      "hearsay exception",
+      "ordinary course of business",
+      "routine practice"
+    ],
+    "tested_concepts": [
+      "s.35 Evidence Act — business records exception to hearsay",
+      "requirements: ordinary course, routine practice, contemporaneous recording",
+      "no need to call individual record-makers"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -508,9 +631,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Evidence Act, R.S.O. 1990, c. E.23, s.23"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["adverse witness", "s.23 Evidence Act", "cross-examine own witness", "prior inconsistent statement", "hostile witness"],
-    "tested_concepts": ["s.23 Evidence Act — adverse witness declaration", "calling party may cross-examine adverse witness", "prior inconsistent statements permissible against own adverse witness"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "adverse witness",
+      "s.23 Evidence Act",
+      "cross-examine own witness",
+      "prior inconsistent statement",
+      "hostile witness"
+    ],
+    "tested_concepts": [
+      "s.23 Evidence Act — adverse witness declaration",
+      "calling party may cross-examine adverse witness",
+      "prior inconsistent statements permissible against own adverse witness"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -528,20 +663,20 @@
     "subtopic_heading": "Demonstrative Evidence at Trial — Admissibility and Conditions",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "At trial in a construction defect case, the plaintiff's counsel seeks to introduce a computer-generated animation depicting how the roof collapse allegedly occurred. The defendant objects, arguing the animation is not real evidence and should not be admitted. Plaintiff's counsel argues it is admissible as demonstrative evidence.",
-    "call_of_question": "What is the general test for admissibility of demonstrative evidence such as models, charts, animations, and diagrams at trial in Ontario?",
+    "fact_pattern": "At trial in a construction defect case, the plaintiff's counsel seeks to introduce a computer-generated animation depicting how the roof collapse allegedly occurred. The animation was created by the plaintiff's forensic structural engineer, who will testify as an expert at trial and will be available for cross-examination. The defendant raises three objections: (1) the animation is hearsay because it is an out-of-court 'statement' made by the engineer; (2) its presentation of the plaintiff's theory of causation is prejudicial to the defendant; and (3) the animation presents only one possible version of events and must therefore be excluded.",
+    "call_of_question": "Which of the following most accurately describes the admissibility of the animation in Ontario civil proceedings?",
     "options": {
-      "A": "Demonstrative evidence is never admissible at civil trial; only documentary and viva voce evidence is admissible.",
-      "B": "Demonstrative evidence such as computer animations, models, charts, and diagrams is admissible if: it is relevant to a matter at issue; it fairly and accurately represents what it purports to depict; and its probative value is not substantially outweighed by the risk of prejudice, undue consumption of time, or misleading the trier of fact.",
-      "C": "Demonstrative evidence is only admissible if agreed to by both parties; unilateral opposition automatically renders it inadmissible.",
-      "D": "Computer-generated animations and other reconstructions are always inadmissible because they are created by the party seeking to introduce them and are therefore inherently self-serving."
+      "A": "The animation is inadmissible hearsay because it is an out-of-court 'statement' prepared by the engineer, and its admission would deprive the defendant of the right to cross-examine the maker of the statement.",
+      "B": "The animation is admissible if it is relevant, fairly and accurately represents the matters it depicts, and the trial judge is satisfied that its probative value is not substantially outweighed by the risk of unfair prejudice; the defendant's objections go to weight, not admissibility.",
+      "C": "The animation must be excluded because it presents the plaintiff's theory of causation in a manner that could unfairly prejudice the defendant; civil trials require demonstrative evidence to present a neutral, agreed-upon account of events.",
+      "D": "The animation is inadmissible unless the defendant stipulates that the animation accurately depicts the events; absent such consent, demonstrative reconstructions are categorically excluded as one-sided."
     },
     "correct_answer": "B",
-    "explanation": "Demonstrative evidence — including models, photographs, diagrams, charts, and computer-generated animations — is admissible in Ontario civil trials if it meets the general admissibility criteria. The key requirements are: (1) relevance to a matter in issue at trial; (2) fair and accurate representation of what it purports to show (established through foundational testimony from a witness with knowledge); and (3) probative value that outweighs any prejudicial effect, risk of misleading the trier of fact, or undue consumption of court time. Courts have admitted computer animations in complex litigation where they are properly authenticated and where they fairly represent the expert's opinion or a proven scenario. A computer animation's having been created by a party does not automatically render it inadmissible; the self-serving nature of evidence affects weight, not necessarily admissibility.",
-    "why_A_wrong": "Demonstrative evidence is admissible in Ontario civil trials. Courts regularly admit models, charts, photographs, and computer animations that satisfy the relevance, accuracy, and probative value requirements.",
-    "why_B_wrong": "This IS the correct answer. Demonstrative evidence is admissible if relevant, fairly and accurately representing what it depicts, with probative value not substantially outweighed by prejudice or confusion.",
-    "why_C_wrong": "Demonstrative evidence is not automatically inadmissible because a party objects. The court rules on admissibility based on the applicable criteria. A single party's opposition does not render evidence inadmissible.",
-    "why_D_wrong": "The self-serving nature of demonstrative evidence goes to weight, not admissibility. Courts assess whether the evidence fairly and accurately represents the matter at issue; if it does, the fact that a party created it does not automatically exclude it.",
+    "explanation": "Demonstrative evidence — including computer-generated animations, models, charts, and diagrams — is admissible in Ontario civil trials if it meets the general admissibility criteria: it is relevant to a matter in issue; it fairly and accurately represents the subject matter; and its probative value is not substantially outweighed by the risk of unfair prejudice. None of the defendant's three objections is sufficient to exclude the animation. Demonstrative evidence is not hearsay in the traditional sense — hearsay rules apply to out-of-court statements adduced for the truth of their contents, not to demonstrative reconstructions that the sponsoring expert will explain under oath. Prejudice that is inherent in a party's theory of the case goes to weight, not admissibility. And the fact that the animation presents one version of events does not make it categorically inadmissible.",
+    "why_A_wrong": "A misapplies hearsay doctrine. The Hearsay-of-Demonstrative Trap: demonstrative evidence such as an animation is not an out-of-court statement adduced for the truth of its contents in the way the hearsay rule contemplates. The expert will testify in court and be cross-examined about the animation's assumptions and accuracy. The animation is an illustrative tool for the expert's in-court opinion, not an out-of-court assertion offered independently of the witness.",
+    "why_B_wrong": "B is correct. Demonstrative evidence is admissible if relevant, fair, accurate, and its probative value is not substantially outweighed by unfair prejudice. The forensic engineer will testify and be available for cross-examination about the animation's methodology and assumptions. None of the defendant's objections — hearsay, prejudice, or one-sidedness — is legally sufficient to require exclusion. These factors may go to the weight the trier of fact assigns to the animation, but not to its admissibility.",
+    "why_C_wrong": "C misstates the law. The Prejudice-Equals-Exclusion Trap: the fact that demonstrative evidence presents the plaintiff's theory in a vivid or compelling way does not make it inadmissible. Courts balance probative value against the risk of unfair prejudice; prejudice that flows from persuasive and relevant evidence is not 'unfair' in the legal sense. There is no requirement in Ontario civil proceedings that demonstrative evidence be neutral or agreed to by both parties.",
+    "why_D_wrong": "D invents a consent requirement. The Consent-Required-for-Demonstrations Trap: demonstrative evidence does not require the opposing party's stipulation or consent. Courts routinely admit demonstrative reconstructions over objection, provided the foundational criteria are met. The defendant's disagreement with the animation's depiction of events is explored through cross-examination of the expert and, if the defendant chooses, by introducing its own competing demonstrative evidence.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -550,9 +685,29 @@
       "page": "N/A",
       "rule_or_statute_reference": "Evidence Act, R.S.O. 1990, c. E.23; Ontario civil trial practice"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["demonstrative evidence", "computer animation", "admissibility", "relevant", "fair and accurate", "probative value"],
-    "tested_concepts": ["demonstrative evidence admissibility — relevance, accuracy, probative value", "foundation testimony required for authentication", "self-serving nature affects weight not admissibility"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "demonstrative evidence",
+      "computer animation",
+      "reconstruction",
+      "admissibility",
+      "probative value",
+      "prejudice",
+      "hearsay",
+      "expert evidence",
+      "trial evidence",
+      "civil trial"
+    ],
+    "tested_concepts": [
+      "admissibility of demonstrative evidence in civil proceedings",
+      "hearsay rule inapplicable to demonstrative reconstructions",
+      "probative value vs unfair prejudice balancing",
+      "Hearsay-of-Demonstrative Trap",
+      "Prejudice-Equals-Exclusion Trap",
+      "Consent-Required-for-Demonstrations Trap"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -592,9 +747,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.52; Ontario civil trial practice"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["opening address", "closing address", "credibility submissions", "evidence submissions", "trial procedure"],
-    "tested_concepts": ["opening address — roadmap of anticipated evidence and issues", "closing address — submissions on admitted evidence, credibility, law", "proper scope of opening and closing"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "opening address",
+      "closing address",
+      "credibility submissions",
+      "evidence submissions",
+      "trial procedure"
+    ],
+    "tested_concepts": [
+      "opening address — roadmap of anticipated evidence and issues",
+      "closing address — submissions on admitted evidence, credibility, law",
+      "proper scope of opening and closing"
+    ],
     "estimated_time_seconds": 75,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -634,9 +801,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Evidence Act, R.S.O. 1990, c. E.23; Ontario civil trial practice"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["hearsay", "party admission", "double hearsay", "out-of-court statement", "admissibility"],
-    "tested_concepts": ["party admission exception to hearsay", "double hearsay — each level must satisfy exception independently", "direct witness to admission vs. intermediary reporting"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "hearsay",
+      "party admission",
+      "double hearsay",
+      "out-of-court statement",
+      "admissibility"
+    ],
+    "tested_concepts": [
+      "party admission exception to hearsay",
+      "double hearsay — each level must satisfy exception independently",
+      "direct witness to admission vs. intermediary reporting"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -676,9 +855,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.48.14"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["status notice", "r.48.14", "90 days", "registrar dismisses", "set down for trial"],
-    "tested_concepts": ["r.48.14 — 90-day period after status notice", "registrar shall dismiss if action not set down", "automatic dismissal if no action taken"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "status notice",
+      "r.48.14",
+      "90 days",
+      "registrar dismisses",
+      "set down for trial"
+    ],
+    "tested_concepts": [
+      "r.48.14 — 90-day period after status notice",
+      "registrar shall dismiss if action not set down",
+      "automatic dismissal if no action taken"
+    ],
     "estimated_time_seconds": 80,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -718,9 +909,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.37.14; r.48.14"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["set aside dismissal", "r.37.14", "satisfactory explanation", "settlement negotiations", "prejudice to defendant"],
-    "tested_concepts": ["set aside r.48.14 dismissal — two-part discretionary test", "satisfactory explanation for default + no irreparable prejudice", "settlement negotiations relevant but not automatic excuse"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "set aside dismissal",
+      "r.37.14",
+      "satisfactory explanation",
+      "settlement negotiations",
+      "prejudice to defendant"
+    ],
+    "tested_concepts": [
+      "set aside r.48.14 dismissal — two-part discretionary test",
+      "satisfactory explanation for default + no irreparable prejudice",
+      "settlement negotiations relevant but not automatic excuse"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",

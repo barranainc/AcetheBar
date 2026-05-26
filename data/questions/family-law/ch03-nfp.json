@@ -6,7 +6,7 @@
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23",
+    "updated_at": "2026-05-25",
     "chapter_number": 3,
     "chapter_title": "Net Family Property and Equalization",
     "topic_id": "nfp_equalization",
@@ -14,20 +14,20 @@
     "subtopic_id": "nfp_formula",
     "subtopic_heading": "The NFP Formula — Assets, Debts, Deductions",
     "difficulty": "easy",
-    "fact_pattern": "On the valuation date, a husband has total assets of $300,000 and debts of $50,000. On the date of marriage he owned property worth $80,000 (not the matrimonial home) and had no debts at that time.",
-    "call_of_question": "What is the husband's net family property?",
+    "fact_pattern": "On the valuation date, a husband has total assets of $300,000 (which includes a $20,000 cash gift he received from his parents during the marriage) and debts of $50,000. On the date of marriage he owned property worth $80,000 (not the matrimonial home) and had no debts at that time. The husband has not designated the inherited gift as excluded property in any domestic contract.",
+    "call_of_question": "What is the husband's net family property under the Family Law Act?",
     "options": {
-      "A": "The husband's NFP is $300,000",
-      "B": "The husband's NFP is $250,000",
-      "C": "The husband's NFP is $170,000",
-      "D": "The husband's NFP is $220,000"
+      "A": "The husband's NFP is $300,000 — his total assets on the valuation date before any deductions.",
+      "B": "The husband's NFP is $250,000 — after subtracting the $50,000 in valuation-date debts from the $300,000 in assets.",
+      "C": "The husband's NFP is $170,000 — calculated as $300,000 (assets) minus $50,000 (debts) minus $80,000 (marriage-date property), applying the full s. 4(1) FLA formula. The $20,000 gift during the marriage is included in the assets because it has not been validly excluded.",
+      "D": "The husband's NFP is $150,000 — because the $20,000 gift received during the marriage is automatically excluded property under FLA s. 4(2) as a gift from a third party; the formula is $300,000 − $50,000 − $80,000 − $20,000 = $150,000."
     },
     "correct_answer": "C",
-    "explanation": "Under FLA s.4(1), net family property = (assets on valuation date) − (debts on valuation date) − (value of property other than the matrimonial home owned on the date of marriage, minus debts at marriage). Here: $300,000 − $50,000 − ($80,000 − $0) = $170,000.",
-    "why_A_wrong": "$300,000 ignores both the valuation-date debts and the marriage-date deduction; it simply states gross assets.",
-    "why_B_wrong": "$250,000 subtracts the $50,000 in debts but fails to apply the $80,000 marriage-date deduction required by s.4(1)(b).",
-    "why_C_wrong": "This IS the correct answer. $300,000 − $50,000 − $80,000 = $170,000 correctly applies the full s.4(1) formula.",
-    "why_D_wrong": "$220,000 deducts the $80,000 marriage-date property from the gross assets but does not subtract the $50,000 in valuation-date debts.",
+    "explanation": "Under FLA s. 4(1), net family property = (value of all assets on valuation date) − (debts on valuation date) − (value of property owned on date of marriage that is not the matrimonial home, minus debts at marriage). Here: $300,000 − $50,000 − $80,000 = $170,000. The $20,000 gift received during the marriage does NOT reduce the NFP unless it qualifies as 'excluded property' under FLA s. 4(2). Excluded property includes property received as a gift or inheritance from a third party during the marriage — but only if that property or its traceable proceeds still exist on the valuation date. More importantly, the question states the husband has not designated the gift as excluded property in any domestic contract; the exclusion is not automatic merely because property was received as a gift. The husband must assert and prove the exclusion at the time of equalization. On the facts as given, the $20,000 is included in the $300,000 assets and has not been excluded.",
+    "why_A_wrong": "A ignores both the valuation-date debts ($50,000) and the marriage-date property deduction ($80,000). Under FLA s. 4(1), both must be subtracted. Simply stating gross assets overstates the NFP by $130,000 and fails to apply the statutory formula.",
+    "why_B_wrong": "B correctly subtracts the valuation-date debts ($50,000) but fails to apply the marriage-date property deduction ($80,000). Under FLA s. 4(1), the value of property owned at the date of marriage (other than the matrimonial home) is deducted from the NFP calculation. Ignoring this deduction overstates the NFP by $80,000.",
+    "why_C_wrong": "C is correct. The full FLA s. 4(1) formula yields: $300,000 − $50,000 − $80,000 = $170,000. The $20,000 gift is included in the $300,000 assets and is not automatically excluded merely because it was a gift. FLA s. 4(2) creates an exclusion for gifts and inheritances received during marriage, but the exclusion must be claimed and proven — it does not arise automatically from the nature of the property.",
+    "why_D_wrong": "D applies the exclusion incorrectly. The Inherited-Property-Auto-Exclusion Trap: FLA s. 4(2) permits exclusion of property received as a gift or inheritance during the marriage, but this exclusion is not automatic. The husband must assert the exclusion, prove the property qualifies under s. 4(2), and demonstrate that the property (or its traceable proceeds) still exists on the valuation date. The question states he has not designated it as excluded in any domestic contract and does not identify whether the $20,000 cash is still separately traceable. On these facts, the automatic deduction of $20,000 is not warranted.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Family Law",
@@ -41,16 +41,23 @@
       "pr_issue_type": null
     },
     "exam_trigger_words": [
+      "NFP",
       "net family property",
+      "FLA s.4(1)",
+      "FLA s.4(2)",
+      "excluded property",
       "valuation date",
-      "marriage-date deduction",
-      "NFP formula"
+      "marriage date deduction",
+      "gift during marriage",
+      "equalization",
+      "matrimonial home exclusion"
     ],
     "tested_concepts": [
-      "NFP calculation",
-      "s.4(1) formula",
-      "marriage-date deduction",
-      "valuation-date debts"
+      "FLA s.4(1) NFP formula",
+      "FLA s.4(2) excluded property — gifts and inheritances",
+      "excluded property is not automatic — must be asserted and proven",
+      "marriage-date property deduction",
+      "Inherited-Property-Auto-Exclusion Trap"
     ],
     "estimated_time_seconds": 90
   },
@@ -566,15 +573,15 @@
     "options": {
       "A": "Sonja pays Dimitri $80,000 because she has the lower NFP and must contribute to equalization.",
       "B": "Dimitri pays Sonja $120,000, representing one-half of the difference between their net family properties under FLA s. 5(1).",
-      "C": "No equalization payment is owed because equalization simply divides all property equally between the spouses.",
+      "C": "Dimitri pays Sonja $120,000 under FLA s. 5(1), but the court has discretion under FLA s. 5(6) to reduce this amount if the equalization payment would be unconscionable given the short duration of the marriage or other factors — even without any other exceptional circumstances on these facts.",
       "D": "Dimitri pays Sonja $160,000, representing the full difference between their net family properties."
     },
     "correct_answer": "B",
-    "explanation": "Under the Family Law Act, R.S.O. 1990, c. F.3, s. 5(1), the spouse with the lower NFP is entitled to one-half the difference between the spouses' net family properties. Here: (Higher NFP − Lower NFP) ÷ 2 = ($320,000 − $80,000) ÷ 2 = $240,000 ÷ 2 = $120,000. Dimitri, having the higher NFP, pays Sonja $120,000.",
-    "why_A_wrong": "The equalization payment flows from the spouse with the higher NFP to the spouse with the lower NFP, not the reverse. Sonja, having the lower NFP, receives the payment; she does not owe one.",
-    "why_B_wrong": "This IS the correct answer. Under FLA s. 5(1), Dimitri pays Sonja ($320,000 − $80,000) ÷ 2 = $120,000.",
-    "why_C_wrong": "Equalization under the FLA is not an automatic division of property. It is a payment entitlement calculated by the s. 5(1) formula. Property titles are not automatically rearranged; the equalization payment is a debt.",
-    "why_D_wrong": "$160,000 equals the full difference between the two NFPs. FLA s. 5(1) entitles the lower-NFP spouse to one-half of that difference, not the full difference.",
+    "explanation": "Under FLA s. 5(1), the spouse with the lower NFP is entitled to one-half the difference between the spouses' NFPs. Here: (Dimitri's NFP $320,000 − Sonja's NFP $80,000) ÷ 2 = $120,000. Dimitri pays Sonja $120,000. FLA s. 5(6) permits the court to vary the equalization payment if the standard result would be unconscionable, taking into account factors such as a very short marriage, deliberate depletion, or other listed grounds. However, the question states there is no excluded property, no debt at marriage, and the parties agree on the NFP figures — there are no facts suggesting the standard equalization would be unconscionable. The s. 5(6) variation power requires a positive finding of unconscionability; it cannot be invoked merely because the court considers a departure more equitable.",
+    "why_A_wrong": "A reverses the direction of the payment and misunderstands the formula. The equalization payment flows from the spouse with the higher NFP to the spouse with the lower NFP. Under FLA s. 5(1), Sonja (lower NFP) is entitled to equalization — she does not pay Dimitri.",
+    "why_B_wrong": "B is correct. Under FLA s. 5(1), Dimitri pays Sonja ($320,000 − $80,000) ÷ 2 = $120,000. The equalization payment is one-half the difference between the spouses' NFPs, paid by the spouse with the higher NFP to the spouse with the lower NFP. There are no facts on these numbers warranting a s. 5(6) variation.",
+    "why_C_wrong": "C correctly calculates the s. 5(1) entitlement of $120,000 but then misstates the operation of s. 5(6). The S.5(6)-Available-Without-Facts Trap: FLA s. 5(6) is an exceptional provision that permits the court to vary equalization only where the standard result would be unconscionable — a high threshold. On the facts given (agreed NFP figures, no excluded property, no debt at marriage), there is nothing suggesting unconscionability. Section 5(6) cannot be invoked simply because a court prefers a different result; it requires specific factual grounds such as deliberate depletion of NFP, a very short marriage, or other enumerated circumstances producing an unconscionable outcome.",
+    "why_D_wrong": "$160,000 equals the full difference between the two NFPs, not one-half. FLA s. 5(1) entitles the lower-NFP spouse to one-half the difference — not to equalize both spouses' NFPs entirely. Paying the full difference would leave both spouses with $240,000 each, which exceeds the FLA equalization entitlement.",
     "source_reference": {
       "lso_material": "2026 LSO Barrister Examination Materials",
       "subject": "Family Law",
@@ -589,20 +596,25 @@
     },
     "exam_trigger_words": [
       "equalization payment",
-      "s. 5(1)",
-      "half the difference",
-      "higher NFP"
+      "FLA s.5(1)",
+      "FLA s.5(6)",
+      "NFP difference",
+      "unconscionability",
+      "one-half",
+      "higher NFP spouse",
+      "direction of payment"
     ],
     "tested_concepts": [
-      "equalization formula",
-      "direction of payment",
-      "s. 5(1) calculation"
+      "FLA s.5(1) equalization formula — one-half the difference",
+      "FLA s.5(6) unconscionability variation — exceptional only",
+      "direction of equalization payment (higher to lower NFP)",
+      "S.5(6)-Available-Without-Facts Trap"
     ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "fam-03-equal-paymnt-002",

@@ -32,9 +32,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01(1)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["costs", "r.57.01", "fixing costs", "partial indemnity", "factors"],
-    "tested_concepts": ["r.57.01(1) — factors for fixing costs", "court's broad discretion on costs", "amount recovered, complexity, conduct, importance"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "costs",
+      "r.57.01",
+      "fixing costs",
+      "partial indemnity",
+      "factors"
+    ],
+    "tested_concepts": [
+      "r.57.01(1) — factors for fixing costs",
+      "court's broad discretion on costs",
+      "amount recovered, complexity, conduct, importance"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -74,9 +86,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.58.02"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["bill of costs", "r.58.02", "assessment", "assessment officer", "costs outline vs bill of costs", "detailed statement"],
-    "tested_concepts": ["bill of costs required for formal assessment — r.58.02", "distinction between costs outline (summary fixing) and bill of costs (formal assessment)", "assessment officer reviews bill of costs — no opposing consent required to file", "certificate of assessment issued upon completion"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "bill of costs",
+      "r.58.02",
+      "assessment",
+      "assessment officer",
+      "costs outline vs bill of costs",
+      "detailed statement"
+    ],
+    "tested_concepts": [
+      "bill of costs required for formal assessment — r.58.02",
+      "distinction between costs outline (summary fixing) and bill of costs (formal assessment)",
+      "assessment officer reviews bill of costs — no opposing consent required to file",
+      "certificate of assessment issued upon completion"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -116,9 +142,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01(1)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["substantial indemnity", "reprehensible conduct", "1.5 times", "r.57.01", "costs scale"],
-    "tested_concepts": ["substantial indemnity costs — reprehensible conduct", "approximately 1.5 times partial indemnity", "substantial indemnity vs solicitor-client costs"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "substantial indemnity",
+      "reprehensible conduct",
+      "1.5 times",
+      "r.57.01",
+      "costs scale"
+    ],
+    "tested_concepts": [
+      "substantial indemnity costs — reprehensible conduct",
+      "approximately 1.5 times partial indemnity",
+      "substantial indemnity vs solicitor-client costs"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -158,9 +196,22 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.07"
     },
-    "pr_angle": {"applicable": true, "pr_issue_type": "lawyer personal costs order for improper litigation conduct"},
-    "exam_trigger_words": ["r.57.07", "personal costs", "solicitor-client costs", "improper conduct", "lawyer personally"],
-    "tested_concepts": ["r.57.07 — personal costs order against lawyer", "solicitor-client costs for improper conduct", "most punitive costs sanction"],
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "lawyer personal costs order for improper litigation conduct"
+    },
+    "exam_trigger_words": [
+      "r.57.07",
+      "personal costs",
+      "solicitor-client costs",
+      "improper conduct",
+      "lawyer personally"
+    ],
+    "tested_concepts": [
+      "r.57.07 — personal costs order against lawyer",
+      "solicitor-client costs for improper conduct",
+      "most punitive costs sanction"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -200,9 +251,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.56.01(1)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["security for costs", "r.56.01", "non-resident", "no assets", "corporate plaintiff"],
-    "tested_concepts": ["security for costs — r.56.01(1) grounds", "non-resident plaintiff or corporation without Ontario assets", "discretionary order on motion"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "security for costs",
+      "r.56.01",
+      "non-resident",
+      "no assets",
+      "corporate plaintiff"
+    ],
+    "tested_concepts": [
+      "security for costs — r.56.01(1) grounds",
+      "non-resident plaintiff or corporation without Ontario assets",
+      "discretionary order on motion"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -242,9 +305,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.58; r.58.10"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["certificate of assessment", "assessment officer", "r.58", "effect of court order", "bill of costs"],
-    "tested_concepts": ["certificate of assessment — r.58.10", "assessment officer's role", "certificate has effect of court order upon filing"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "certificate of assessment",
+      "assessment officer",
+      "r.58",
+      "effect of court order",
+      "bill of costs"
+    ],
+    "tested_concepts": [
+      "certificate of assessment — r.58.10",
+      "assessment officer's role",
+      "certificate has effect of court order upon filing"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -284,9 +359,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Courts of Justice Act, R.S.O. 1990, c. C.43, s.133(b)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["appeal costs", "leave to appeal", "s.133(b)", "costs only", "Courts of Justice Act"],
-    "tested_concepts": ["appeal of costs order alone requires leave — s.133(b) CJA", "costs orders are discretionary", "leave granted sparingly for costs appeals"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "appeal costs",
+      "leave to appeal",
+      "s.133(b)",
+      "costs only",
+      "Courts of Justice Act"
+    ],
+    "tested_concepts": [
+      "appeal of costs order alone requires leave — s.133(b) CJA",
+      "costs orders are discretionary",
+      "leave granted sparingly for costs appeals"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -326,9 +413,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01(1)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["partial indemnity", "substantial indemnity", "reprehensible conduct", "r.57.01", "costs scale"],
-    "tested_concepts": ["partial indemnity — ordinary default scale", "substantial indemnity requires reprehensible/scandalous/outrageous conduct", "sharp litigation practices insufficient for substantial indemnity"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "partial indemnity",
+      "substantial indemnity",
+      "reprehensible conduct",
+      "r.57.01",
+      "costs scale"
+    ],
+    "tested_concepts": [
+      "partial indemnity — ordinary default scale",
+      "substantial indemnity requires reprehensible/scandalous/outrageous conduct",
+      "sharp litigation practices insufficient for substantial indemnity"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -368,9 +467,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["three costs scales", "partial indemnity", "substantial indemnity", "solicitor-client costs", "full indemnity"],
-    "tested_concepts": ["three costs scales in Ontario — partial, substantial, solicitor-client", "substantial indemnity approx 1.5x partial", "solicitor-client costs reserved for most serious misconduct"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "three costs scales",
+      "partial indemnity",
+      "substantial indemnity",
+      "solicitor-client costs",
+      "full indemnity"
+    ],
+    "tested_concepts": [
+      "three costs scales in Ontario — partial, substantial, solicitor-client",
+      "substantial indemnity approx 1.5x partial",
+      "solicitor-client costs reserved for most serious misconduct"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -410,9 +521,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.07(1)"
     },
-    "pr_angle": {"applicable": true, "pr_issue_type": "candour to tribunal — counsel continued to rely on known false affidavit"},
-    "exam_trigger_words": ["r.57.07", "personal costs", "known false affidavit", "candour to tribunal", "costs against lawyer"],
-    "tested_concepts": ["r.57.07(1) — personal costs order against lawyer", "no criminal fraud required — misconduct causing wasted costs sufficient", "court jurisdiction independent of Law Society process", "PR angle — candour obligation to tribunal"],
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "candour to tribunal — counsel continued to rely on known false affidavit"
+    },
+    "exam_trigger_words": [
+      "r.57.07",
+      "personal costs",
+      "known false affidavit",
+      "candour to tribunal",
+      "costs against lawyer"
+    ],
+    "tested_concepts": [
+      "r.57.07(1) — personal costs order against lawyer",
+      "no criminal fraud required — misconduct causing wasted costs sufficient",
+      "court jurisdiction independent of Law Society process",
+      "PR angle — candour obligation to tribunal"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -452,9 +577,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01(1)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["costs follow the event", "r.57.01", "disproportionate recovery", "court discretion", "successful party"],
-    "tested_concepts": ["costs-follow-the-event principle — r.57.01", "court has discretion to depart from costs-follow-the-event", "disproportionate claim — factor, not automatic reversal"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "costs follow the event",
+      "r.57.01",
+      "disproportionate recovery",
+      "court discretion",
+      "successful party"
+    ],
+    "tested_concepts": [
+      "costs-follow-the-event principle — r.57.01",
+      "court has discretion to depart from costs-follow-the-event",
+      "disproportionate claim — factor, not automatic reversal"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -494,9 +631,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["costs in the cause", "interlocutory motion costs", "follow the outcome", "successful party", "costs disposition"],
-    "tested_concepts": ["costs in the cause — motion costs follow outcome of proceeding", "successful party at trial recovers motion costs ordered in the cause", "distinction from costs reserved, costs to moving party, no costs"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "costs in the cause",
+      "interlocutory motion costs",
+      "follow the outcome",
+      "successful party",
+      "costs disposition"
+    ],
+    "tested_concepts": [
+      "costs in the cause — motion costs follow outcome of proceeding",
+      "successful party at trial recovers motion costs ordered in the cause",
+      "distinction from costs reserved, costs to moving party, no costs"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -518,15 +667,15 @@
     "call_of_question": "Under Fong v. Chan (1999), 46 OR (3d) 330 (CA), are self-represented litigants entitled to costs, and how are those costs calculated?",
     "options": {
       "A": "Self-represented litigants are not entitled to any costs; only parties who have retained legal counsel and paid legal fees may recover costs.",
-      "B": "Under Fong v. Chan, self-represented litigants may be awarded costs for time spent on the litigation, but the costs are assessed at a reduced rate reflecting that the litigant is not a lawyer; the court awards compensation for the litigant's actual time and effort, not at full lawyer rates.",
-      "C": "Self-represented litigants are entitled to costs at the full rate charged by a senior lawyer in Ontario, because the court treats all successful parties equally.",
-      "D": "Self-represented litigants may only recover disbursements (out-of-pocket expenses) but not any amount for their time; the concept of 'fees' does not apply to non-lawyers."
+      "B": "Under Fong v. Chan, self-represented litigants may be awarded costs for time spent on the litigation, but the costs are assessed at a reduced rate reflecting the value of their time and effort — not at the rate charged by a practicing lawyer.",
+      "C": "Self-represented litigants are entitled to costs assessed at the partial indemnity rate applicable to a junior solicitor, because courts treat the time invested by a self-represented party as equivalent to services rendered by a junior lawyer.",
+      "D": "Self-represented litigants may only recover disbursements (out-of-pocket expenses) but not any amount for their time; the concept of 'fees' does not apply to parties who are not paying for legal services."
     },
     "correct_answer": "B",
     "explanation": "In Fong v. Chan (1999), 46 OR (3d) 330 (CA), the Ontario Court of Appeal held that a self-represented litigant may be awarded costs for the time and effort invested in the litigation, but the quantum of those costs is assessed differently from costs for a represented party. A self-represented litigant may recover compensation for their time at a rate that reflects the work done and the complexity of the matter, but not at the full rate that would be charged by a licensed lawyer. The court considers the reasonableness of the time spent and the value of the litigant's contribution to the proceedings. The award is intended to provide fair compensation for the burden of self-representation, not to create a windfall or to equate non-lawyers with counsel.",
     "why_A_wrong": "Self-represented litigants are not categorically disentitled to costs. Fong v. Chan expressly recognized their entitlement to compensation for time and effort in the litigation.",
     "why_B_wrong": "This IS the correct answer. Under Fong v. Chan, self-represented litigants may recover costs for time spent but at a reduced rate, not at full lawyer rates; compensation for actual time and effort is permitted.",
-    "why_C_wrong": "Self-represented litigants are not awarded costs at full senior lawyer rates. Fong v. Chan provides for a reduced or moderated rate appropriate to the circumstances of a non-lawyer litigant.",
+    "why_C_wrong": "C overstates the entitlement and misstates the applicable rate. The Partial-Indemnity-Equivalence Trap: Fong v. Chan does not entitle self-represented litigants to costs at the partial indemnity rate for a junior solicitor. Courts assess the quantum of costs at a rate reflecting the actual value of the self-represented party's time and contribution to the litigation — which typically falls below the partial indemnity rate for a junior lawyer. The court exercises broad discretion and does not treat a self-represented party as a professional whose time is priced on the standard tariff.",
     "why_D_wrong": "Self-represented litigants may recover more than just disbursements. Fong v. Chan permits recovery for time spent preparing for and conducting the litigation, which goes beyond out-of-pocket expenses.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
@@ -536,9 +685,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Fong v. Chan (1999), 46 OR (3d) 330 (CA); Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["self-represented litigant", "Fong v Chan", "costs for time", "reduced rate", "non-lawyer costs"],
-    "tested_concepts": ["Fong v. Chan — SRLs entitled to costs for time and effort", "reduced rate not full lawyer rates", "compensation for burden of self-representation"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "self-represented litigant",
+      "Fong v Chan",
+      "costs for time",
+      "reduced rate",
+      "non-lawyer costs"
+    ],
+    "tested_concepts": [
+      "Fong v. Chan — SRLs entitled to costs for time and effort",
+      "reduced rate not full lawyer rates",
+      "compensation for burden of self-representation"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -578,9 +739,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["partial success", "apportionment of costs", "r.57.01", "costs discretion", "issue-by-issue"],
-    "tested_concepts": ["r.57.01 — broad discretion to apportion costs on partial success", "court may reduce award to reflect failure on some issues", "partial failure does not forfeit all costs"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "partial success",
+      "apportionment of costs",
+      "r.57.01",
+      "costs discretion",
+      "issue-by-issue"
+    ],
+    "tested_concepts": [
+      "r.57.01 — broad discretion to apportion costs on partial success",
+      "court may reduce award to reflect failure on some issues",
+      "partial failure does not forfeit all costs"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -620,9 +793,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["thrown away costs", "adjournment costs", "wasted preparation", "r.57.01", "innocent party"],
-    "tested_concepts": ["thrown away costs — wasted preparation caused by other party's conduct", "awarded on adjournment or abandonment of motion", "purpose: indemnify innocent party for wasted expense"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "thrown away costs",
+      "adjournment costs",
+      "wasted preparation",
+      "r.57.01",
+      "innocent party"
+    ],
+    "tested_concepts": [
+      "thrown away costs — wasted preparation caused by other party's conduct",
+      "awarded on adjournment or abandonment of motion",
+      "purpose: indemnify innocent party for wasted expense"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -640,20 +825,20 @@
     "subtopic_heading": "Substantial Indemnity Without r.49 Offer — Reprehensible Conduct",
     "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "At trial in a shareholder oppression case, the trial judge finds that the defendant conducted a years-long campaign of deliberate financial manipulation and deceit against the minority shareholders. No offer to settle was made by either party. The plaintiff seeks substantial indemnity costs based solely on the defendant's reprehensible conduct in the underlying transaction.",
-    "call_of_question": "May a court award substantial indemnity costs where no offer to settle has been made, based solely on the reprehensible nature of the defendant's conduct in the underlying transaction?",
+    "fact_pattern": "At trial in a shareholder oppression case, the trial judge finds that the defendant did not commit fraud in the underlying transaction. However, the judge finds that during the litigation the defendant deliberately withheld key documents in defiance of production orders, provided evasive and misleading answers at discovery, and filed a series of procedural motions for the purpose of driving up the plaintiff's costs. No offer to settle was made by either party. The plaintiff moves for substantial indemnity costs.",
+    "call_of_question": "May the court award substantial indemnity costs based solely on the defendant's conduct during the litigation, where no offer to settle was made and the defendant did not engage in reprehensible conduct in the underlying transaction?",
     "options": {
-      "A": "No — substantial indemnity costs can only be awarded where a party has beaten an offer to settle under r.49.10; absent an offer, only partial indemnity is available.",
-      "B": "Yes — under r.57.01, the court has discretion to award substantial indemnity costs where the conduct of a party — whether in the litigation itself or in the underlying transaction — has been reprehensible, scandalous, or outrageous and merits sanction through an elevated costs award.",
-      "C": "Substantial indemnity costs are only available upon motion under r.57.07 for a personal costs order against the lawyer; they are not available against a party for the party's own conduct.",
-      "D": "No — the conduct of the parties in the underlying transaction is irrelevant to costs; only litigation conduct may justify substantial indemnity."
+      "A": "No — substantial indemnity costs can only be awarded where a party has beaten an offer to settle under r. 49.10; absent an offer, only partial indemnity costs are available.",
+      "B": "Yes — under r. 57.01, the court has discretion to award substantial indemnity costs based on reprehensible conduct in the litigation itself, even where the defendant did not engage in misconduct in the underlying transaction.",
+      "C": "Substantial indemnity costs are only available upon motion under r. 57.07 for a personal costs order against the lawyer; they are not available against a party based on that party's litigation conduct.",
+      "D": "No — only reprehensible conduct in the underlying transaction can justify substantial indemnity costs; misconduct during the litigation itself is addressed exclusively through contempt proceedings, not costs awards."
     },
     "correct_answer": "B",
-    "explanation": "Under r.57.01(1) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), the court has broad discretion in awarding costs and may award substantial indemnity costs in any circumstances where the court considers it appropriate, including where the conduct of the losing party — either in the litigation or in the underlying transaction — has been reprehensible, scandalous, or outrageous. An offer to settle is one pathway to substantial indemnity costs under r.49.10(2), but it is not the only pathway. Courts have awarded substantial indemnity costs based on the defendant's oppressive, fraudulent, or egregious conduct in the underlying facts of the case. A years-long deliberate campaign of financial manipulation and deceit is precisely the kind of conduct that courts have recognized as justifying a substantial indemnity award.",
-    "why_A_wrong": "An offer to settle under r.49.10 is one trigger for substantial indemnity costs, not the only one. The court has independent discretion under r.57.01 to award substantial indemnity for reprehensible conduct without any offer to settle.",
-    "why_B_wrong": "This IS the correct answer. Under r.57.01, substantial indemnity may be awarded based on reprehensible conduct in the underlying transaction, not only as a consequence of r.49.10 offer-to-settle outcomes.",
-    "why_C_wrong": "Substantial indemnity costs are not limited to r.57.07 personal costs orders against lawyers. They are a costs scale available against parties under r.57.01 based on the nature of their conduct.",
-    "why_D_wrong": "Conduct in the underlying transaction is a recognized basis for elevated costs awards. Courts have consistently held that egregious conduct by a party — whether in the litigation or in the underlying events — may attract substantial indemnity costs.",
+    "explanation": "Under r. 57.01(1) of the Rules of Civil Procedure, the court has broad discretion in awarding costs and may award substantial indemnity costs based on reprehensible conduct — whether in the underlying transaction or in the litigation itself. Deliberately withholding documents in defiance of production orders, providing evasive discovery answers, and filing abusive procedural motions are paradigm examples of litigation misconduct that can ground a substantial indemnity costs award. An offer to settle under r. 49.10 is one trigger for substantial indemnity costs, but not the only one. Courts have consistently held that oppressive, vexatious, or scandalous litigation conduct, even without transactional misconduct, is a recognized basis for elevated costs.",
+    "why_A_wrong": "A states a rule that does not exist. The Offer-to-Settle-Only Trap: r. 49.10 is one trigger for substantial indemnity costs (where a party beats its own offer), but it is not the only basis. Rule 57.01 grants the court broad discretion, expressly including the conduct of the parties — in the litigation and in the underlying transaction — as a relevant consideration. No offer to settle is required.",
+    "why_B_wrong": "B is correct. Rule 57.01 gives the court discretion to award substantial indemnity costs based on reprehensible litigation conduct even without transactional misconduct. Deliberately withholding documents in defiance of production orders, providing evasive discovery answers, and filing abusive motions all fall within the category of conduct that can justify substantial indemnity. The absence of an offer to settle under r. 49.10 is irrelevant to this basis for elevated costs.",
+    "why_C_wrong": "C misstates the scope of substantial indemnity costs. The Personal-Order Trap: r. 57.07 authorizes personal costs orders against lawyers in certain circumstances — it is not the exclusive pathway to substantial indemnity costs. Substantial indemnity costs under r. 57.01 can be awarded against a party (not just counsel) based on that party's own reprehensible conduct in the litigation.",
+    "why_D_wrong": "D invents a categorical distinction that does not exist in the law. The Litigation-Conduct-Only Trap: the rule is the reverse of what D states — both transactional misconduct and litigation misconduct are recognized bases for substantial indemnity costs under r. 57.01. Courts have expressly awarded substantial indemnity based on litigation conduct alone (evasive discovery, abusive motions, document withholding), without requiring misconduct in the underlying transaction. Contempt and costs awards are also not mutually exclusive remedies.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -662,9 +847,27 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01(1)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["substantial indemnity no offer", "reprehensible conduct underlying transaction", "r.57.01 discretion", "scandalous outrageous", "elevated costs"],
-    "tested_concepts": ["substantial indemnity available without r.49.10 offer — r.57.01 discretion", "reprehensible conduct in underlying transaction justifies elevated costs", "offer to settle is one of multiple pathways to substantial indemnity"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "substantial indemnity costs",
+      "r.57.01",
+      "costs discretion",
+      "reprehensible conduct",
+      "litigation misconduct",
+      "offer to settle r.49.10",
+      "production order defiance",
+      "costs award"
+    ],
+    "tested_concepts": [
+      "r.57.01 broad costs discretion",
+      "substantial indemnity without offer to settle",
+      "litigation conduct as basis for elevated costs",
+      "Offer-to-Settle-Only Trap",
+      "Personal-Order Trap",
+      "Litigation-Conduct-Only Trap"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -704,9 +907,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01(6)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["costs outline", "r.57.01(6)", "contested hearing", "summary judgment costs", "fix costs"],
-    "tested_concepts": ["r.57.01(6) — costs outline required at contested hearings", "not limited to trial — applies to summary judgment and motions", "basis for court fixing costs summarily"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "costs outline",
+      "r.57.01(6)",
+      "contested hearing",
+      "summary judgment costs",
+      "fix costs"
+    ],
+    "tested_concepts": [
+      "r.57.01(6) — costs outline required at contested hearings",
+      "not limited to trial — applies to summary judgment and motions",
+      "basis for court fixing costs summarily"
+    ],
     "estimated_time_seconds": 75,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -746,9 +961,22 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.07(1)"
     },
-    "pr_angle": {"applicable": true, "pr_issue_type": "r.57.07 — personal costs for filing unnecessary motions causing waste"},
-    "exam_trigger_words": ["r.57.07 standard", "personal costs lawyer", "without reasonable cause", "negligence fault", "unnecessary motions"],
-    "tested_concepts": ["r.57.07 — costs caused without reasonable cause or wasted by negligence/fault", "r.57.07 threshold higher than mere unsuccessful motions", "distinction from party costs for reprehensible conduct"],
+    "pr_angle": {
+      "applicable": true,
+      "pr_issue_type": "r.57.07 — personal costs for filing unnecessary motions causing waste"
+    },
+    "exam_trigger_words": [
+      "r.57.07 standard",
+      "personal costs lawyer",
+      "without reasonable cause",
+      "negligence fault",
+      "unnecessary motions"
+    ],
+    "tested_concepts": [
+      "r.57.07 — costs caused without reasonable cause or wasted by negligence/fault",
+      "r.57.07 threshold higher than mere unsuccessful motions",
+      "distinction from party costs for reprehensible conduct"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",

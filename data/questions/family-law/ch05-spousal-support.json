@@ -289,20 +289,20 @@
     "subtopic_heading": "Spousal Support Advisory Guidelines (SSAG)",
     "difficulty": "medium",
     "question_type": "single_best_answer",
-    "fact_pattern": "Patricia and her husband Colin separated after 11 years of marriage with no dependent children. The court has already determined that Patricia is entitled to compensatory spousal support. Colin earns $130,000 per year and Patricia earns $52,000. Both lawyers refer to the Spousal Support Advisory Guidelines to determine the appropriate amount and duration of support. Colin's lawyer argues the SSAG ranges are mandatory and the court must award support within the stated range.",
-    "call_of_question": "What is the correct legal status of the Spousal Support Advisory Guidelines (SSAG) in Ontario?",
+    "fact_pattern": "Patricia and her husband Colin separated after 11 years of marriage with no dependent children. The court determines that Patricia is entitled to compensatory spousal support. Counsel calculate the SSAG range for quantum and duration, which they present to the judge. The judge awards support at an amount below the SSAG low end, citing Patricia's failure to make meaningful efforts to achieve economic self-sufficiency. Colin argues that the judge was bound to stay within the SSAG range. Patricia's counsel argues that any departure from the SSAG range automatically requires written reasons explaining the departure.",
+    "call_of_question": "Which of the following most accurately describes the legal status of the Spousal Support Advisory Guidelines and the judge's authority to depart from the SSAG range?",
     "options": {
-      "A": "The SSAG are binding on Ontario courts under the Divorce Act and the FLA; the court must stay within the calculated range.",
-      "B": "The SSAG are not law; they are advisory only. Courts frequently consult them but are not required to follow them, and may depart from the SSAG range in appropriate circumstances.",
-      "C": "The SSAG are binding only in the Superior Court of Justice, not on consent orders.",
-      "D": "The SSAG replace the entitlement analysis; if the SSAG range produces a non-zero result, entitlement is automatically established."
+      "A": "The SSAG are binding on Ontario courts under the Divorce Act and the FLA; the judge was not permitted to award support below the SSAG low end without the parties' consent.",
+      "B": "The SSAG are advisory only; courts consult them for guidance on quantum and duration but are not required to follow them. The judge may depart from the SSAG range — including below the low end — based on a party's failure to pursue economic self-sufficiency, without being bound to provide written justification for the departure.",
+      "C": "The SSAG are advisory, but any judicial departure below the SSAG low end automatically requires the court to provide written reasons explaining the departure; absent written reasons, the award is appealable as of right.",
+      "D": "The SSAG replace the entitlement analysis; once the SSAG range produces a non-zero result, the court must order at least the minimum of the range."
     },
     "correct_answer": "B",
-    "explanation": "The Spousal Support Advisory Guidelines are advisory only. They were developed as a non-legislative tool to promote consistency and predictability in spousal support quantum and duration. Courts are not required to follow the SSAG but regularly consult them as a useful reference. Departure from the range is permitted where the circumstances of the case warrant a different result. The SSAG have not been enacted as legislation and have no binding statutory force.",
-    "why_A_wrong": "The SSAG have not been enacted under the Divorce Act or the FLA. They carry no statutory authority and are advisory only. Courts are not bound to stay within the SSAG range.",
-    "why_B_wrong": "This IS the correct answer. The SSAG are advisory, not binding; courts consult them for guidance on quantum and duration but may depart from the ranges in appropriate cases.",
-    "why_C_wrong": "The SSAG are not binding in any Ontario court, including the Superior Court of Justice. They are advisory across all levels of court for both contested and consent proceedings.",
-    "why_D_wrong": "The SSAG apply only after entitlement is established through the compensatory, non-compensatory, or contractual analysis. The SSAG do not determine entitlement; they assist with quantum and duration after entitlement is found.",
+    "explanation": "The Spousal Support Advisory Guidelines are advisory only — they have not been enacted under the Divorce Act or the Family Law Act and carry no statutory authority. Courts consult the SSAG for guidance on quantum and duration but retain full discretion to depart from the SSAG range based on the circumstances of the case. A party's failure to make reasonable efforts toward economic self-sufficiency is a recognized basis for awarding support below the SSAG range. While some case law encourages courts to explain departures from the SSAG (particularly at the appellate level), there is no mandatory rule requiring written reasons specifically for SSAG departures; the general reasons obligation in civil proceedings applies. Colin's argument that the judge was bound by the SSAG is incorrect. Patricia's counsel's argument that written reasons are automatically required for any SSAG departure overstates the obligation.",
+    "why_A_wrong": "A misstates the legal status of the SSAG. They have not been enacted under the Divorce Act or the FLA and are not binding on any Ontario court. Courts exercise independent discretion in determining quantum and duration of spousal support; the SSAG are a tool, not a constraint.",
+    "why_B_wrong": "B is correct. The SSAG are advisory; courts may depart from the range based on the circumstances. A payee spouse's failure to pursue economic self-sufficiency is a recognized ground for departure. No mandatory written reasons requirement for SSAG departures exists under Ontario law. The judge's award below the SSAG low end is within the court's discretion.",
+    "why_C_wrong": "C overstates the obligation. The SSAG-Departure-Requires-Written-Reasons Trap: while courts are encouraged to address SSAG departures in their reasons (and departures may be scrutinized on appeal), there is no automatic rule that written reasons are mandatory for every SSAG departure, or that the absence of such written reasons makes the award 'appealable as of right.' The general obligation to provide adequate reasons in civil proceedings applies, but an SSAG departure alone does not trigger an independent obligation beyond that general duty.",
+    "why_D_wrong": "D misstates how the SSAG interacts with entitlement. The SSAG apply only after the court determines that entitlement to spousal support exists — the SSAG are used to calculate quantum and duration, not to establish entitlement. A non-zero SSAG result does not establish entitlement; entitlement must be determined through the compensatory, non-compensatory, or contractual analysis first.",
     "source_reference": {
       "lso_material": "2026 LSO Barrister Examination Materials",
       "subject": "Family Law",
@@ -317,22 +317,28 @@
     },
     "exam_trigger_words": [
       "SSAG",
-      "advisory guidelines",
-      "not binding",
-      "quantum and duration",
-      "without child formula"
+      "Spousal Support Advisory Guidelines",
+      "advisory",
+      "binding",
+      "quantum",
+      "duration",
+      "departure from SSAG",
+      "economic self-sufficiency",
+      "entitlement"
     ],
     "tested_concepts": [
-      "SSAG advisory status",
-      "SSAG not legislation",
-      "SSAG apply to quantum and duration not entitlement",
-      "court may depart from range"
+      "SSAG advisory status — not binding",
+      "court discretion to depart from SSAG range",
+      "economic self-sufficiency as ground for SSAG departure",
+      "SSAG applies after entitlement established",
+      "SSAG-Departure-Requires-Written-Reasons Trap",
+      "SSAG-Replaces-Entitlement Trap"
     ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "fam-05-variation-001",
@@ -367,9 +373,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 17; Leskun v. Leskun, [2006] 1 SCR 920"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["variation", "material change", "s.17 Divorce Act", "Leskun", "income reduction", "involuntary layoff"],
-    "tested_concepts": ["material change in circumstances", "DA s.17 variation test", "Leskun v Leskun", "payor income reduction"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "variation",
+      "material change",
+      "s.17 Divorce Act",
+      "Leskun",
+      "income reduction",
+      "involuntary layoff"
+    ],
+    "tested_concepts": [
+      "material change in circumstances",
+      "DA s.17 variation test",
+      "Leskun v Leskun",
+      "payor income reduction"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -409,9 +430,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 17; Family Law Act, R.S.O. 1990, c. F.3, s. 37(2)(c)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["cohabitation", "new partner", "termination", "material change", "spousal support", "s.17"],
-    "tested_concepts": ["cohabitation not automatic termination", "material change economic impact", "DA s.17 variation", "FLA s.37(2)(c)"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "cohabitation",
+      "new partner",
+      "termination",
+      "material change",
+      "spousal support",
+      "s.17"
+    ],
+    "tested_concepts": [
+      "cohabitation not automatic termination",
+      "material change economic impact",
+      "DA s.17 variation",
+      "FLA s.37(2)(c)"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -451,9 +487,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 17(1); Leskun v. Leskun, [2006] 1 SCR 920"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["retroactive variation", "arrears", "delay", "s.17", "discretion", "notice to recipient"],
-    "tested_concepts": ["retroactive spousal support variation", "DA s.17 discretion", "delay in bringing application", "prejudice to recipient"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "retroactive variation",
+      "arrears",
+      "delay",
+      "s.17",
+      "discretion",
+      "notice to recipient"
+    ],
+    "tested_concepts": [
+      "retroactive spousal support variation",
+      "DA s.17 discretion",
+      "delay in bringing application",
+      "prejudice to recipient"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -493,9 +544,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 17; Spousal Support Advisory Guidelines (2008, revised 2021)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["SSAG variation", "s.17", "material change", "new quantum", "advisory", "midpoint"],
-    "tested_concepts": ["SSAG on variation applications", "DA s.17 variation", "SSAG advisory status", "discretion to depart from SSAG"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "SSAG variation",
+      "s.17",
+      "material change",
+      "new quantum",
+      "advisory",
+      "midpoint"
+    ],
+    "tested_concepts": [
+      "SSAG on variation applications",
+      "DA s.17 variation",
+      "SSAG advisory status",
+      "discretion to depart from SSAG"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -592,9 +658,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2(6); Family Law Act, R.S.O. 1990, c. F.3, s. 33(8); Moge v. Moge, [1992] 3 SCR 813; Bracklow v. Bracklow, [1999] 1 SCR 420"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["three grounds", "compensatory", "non-compensatory", "contractual", "entitlement", "Moge", "Bracklow"],
-    "tested_concepts": ["three grounds of spousal support entitlement", "compensatory requires career sacrifice", "non-compensatory requires significant need", "contractual requires express agreement"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "three grounds",
+      "compensatory",
+      "non-compensatory",
+      "contractual",
+      "entitlement",
+      "Moge",
+      "Bracklow"
+    ],
+    "tested_concepts": [
+      "three grounds of spousal support entitlement",
+      "compensatory requires career sacrifice",
+      "non-compensatory requires significant need",
+      "contractual requires express agreement"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -634,9 +716,27 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 33(8); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2(6); Moge v Moge, [1992] 3 SCR 813; Bracklow v Bracklow, [1999] 1 SCR 420"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["compensatory support", "non-compensatory support", "Moge", "Bracklow", "hybrid entitlement", "FLA s.33(8)", "DA s.15.2(6)", "simultaneous grounds"],
-    "tested_concepts": ["compensatory and non-compensatory grounds co-exist", "Moge career sacrifice", "Bracklow illness-based need", "no election required between grounds", "amount reflects both bases"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "compensatory support",
+      "non-compensatory support",
+      "Moge",
+      "Bracklow",
+      "hybrid entitlement",
+      "FLA s.33(8)",
+      "DA s.15.2(6)",
+      "simultaneous grounds"
+    ],
+    "tested_concepts": [
+      "compensatory and non-compensatory grounds co-exist",
+      "Moge career sacrifice",
+      "Bracklow illness-based need",
+      "no election required between grounds",
+      "amount reflects both bases"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -676,9 +776,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2(6)(d); Family Law Act, R.S.O. 1990, c. F.3, s. 33(8)(h)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["self-sufficiency", "DA s.15.2(6)(d)", "impute income recipient", "failure to seek work", "variation application"],
-    "tested_concepts": ["DA s.15.2(6)(d) self-sufficiency obligation", "income imputed to recipient", "failure to seek employment", "variation based on self-sufficiency failure"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "self-sufficiency",
+      "DA s.15.2(6)(d)",
+      "impute income recipient",
+      "failure to seek work",
+      "variation application"
+    ],
+    "tested_concepts": [
+      "DA s.15.2(6)(d) self-sufficiency obligation",
+      "income imputed to recipient",
+      "failure to seek employment",
+      "variation based on self-sufficiency failure"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -718,9 +832,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, Part III; Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 4"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["limitation period", "FLA spousal support", "two years", "discovery", "Limitations Act 2002"],
-    "tested_concepts": ["Limitations Act 2002 two-year period", "discovery-based limitation", "FLA Part III limitation", "DA claims not time-barred while pending"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "limitation period",
+      "FLA spousal support",
+      "two years",
+      "discovery",
+      "Limitations Act 2002"
+    ],
+    "tested_concepts": [
+      "Limitations Act 2002 two-year period",
+      "discovery-based limitation",
+      "FLA Part III limitation",
+      "DA claims not time-barred while pending"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -760,9 +888,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 17; Fisher v. Fisher, 2008 ONCA 11"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["review order", "variation", "material change", "review clause", "without material change", "DA s.17"],
-    "tested_concepts": ["review order vs variation distinction", "review no material change required", "variation requires material change", "review clause does not bar early variation"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "review order",
+      "variation",
+      "material change",
+      "review clause",
+      "without material change",
+      "DA s.17"
+    ],
+    "tested_concepts": [
+      "review order vs variation distinction",
+      "review no material change required",
+      "variation requires material change",
+      "review clause does not bar early variation"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",

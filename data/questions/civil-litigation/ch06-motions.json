@@ -173,20 +173,20 @@
     "subtopic_heading": "Interlocutory Injunctions — RJR-MacDonald Test",
     "difficulty": "hard",
     "question_type": "single_best_answer",
-    "fact_pattern": "A defendant moves to discharge an interlocutory injunction previously granted ex parte. The plaintiff has demonstrated a serious question to be tried and irreparable harm, but the balance of convenience between the parties is genuinely uncertain — both sides would suffer significant harm depending on the outcome.",
-    "call_of_question": "What should the court do when assessing the balance of convenience in these circumstances?",
+    "fact_pattern": "A defendant moves to discharge an interlocutory injunction previously granted ex parte. The plaintiff, a small technology vendor, established a serious question to be tried and that it would suffer irreparable harm if the injunction were refused (loss of its sole client contract). The defendant, a large publicly-traded corporation, argues that maintaining the injunction will delay a product launch by six weeks and cost it an estimated $4 million in lost revenue — a sum it quantifies precisely in affidavit evidence. The plaintiff offers an undertaking as to damages. The judge is now assessing the third branch of the RJR-MacDonald test.",
+    "call_of_question": "Under the third branch of the RJR-MacDonald test, which of the following most accurately describes how the court should assess the balance of convenience in these circumstances?",
     "options": {
-      "A": "Discharge the injunction automatically because the plaintiff has failed to clearly satisfy all three elements.",
-      "B": "Maintain the injunction for the plaintiff because the first two elements are satisfied and the balance element cannot override an otherwise valid case.",
-      "C": "The court weighs the relative harm to each party from granting or refusing the injunction; where the balance is genuinely equal, courts generally favour maintaining the status quo pending trial.",
-      "D": "Refer the question of the injunction to the trial judge for determination at the merits stage."
+      "A": "The injunction must be discharged because the defendant has quantified its harm precisely — once a moving party establishes greater quantifiable harm than the plaintiff, the balance of convenience automatically favours discharge.",
+      "B": "The injunction must be maintained because satisfying the first two RJR-MacDonald elements — serious question and irreparable harm — creates a presumption in favour of maintaining the status quo that cannot be displaced on the balance of convenience alone.",
+      "C": "The court weighs the relative harm to each party from granting or refusing the injunction, considering all relevant factors including the undertaking as to damages, the capacity of each party to absorb harm, and the public interest; where the balance is genuinely equal, courts generally favour the status quo.",
+      "D": "The court must discharge the injunction because the defendant's harm is quantifiable in money and therefore, by definition, compensable — once a party's alleged harm is monetizable, irreparable harm is negated and the injunction cannot stand."
     },
     "correct_answer": "C",
-    "explanation": "Under the third branch of the RJR-MacDonald test, the court weighs which party would suffer greater harm from the grant or refusal of the injunction. The court considers all relevant factors. Where the balance of convenience is genuinely equal — neither side would suffer significantly more than the other — courts have recognized that maintaining the status quo pending trial is generally appropriate, as this avoids irreversible changes while the case awaits resolution on its merits.",
-    "why_A_wrong": "The three RJR-MacDonald elements are not required to be 'clearly' proven. The balance of convenience is weighed, and an unclear balance does not automatically result in discharge.",
-    "why_B_wrong": "All three branches must be weighed. Satisfying the first two does not guarantee the injunction is maintained; the balance of convenience must also favour the moving party.",
-    "why_C_wrong": "This IS the correct answer. When the balance of convenience is genuinely equal, courts favour maintaining the status quo pending trial.",
-    "why_D_wrong": "Interlocutory injunctions are decided on the motion, not deferred to trial. Referring the injunction question to the trial judge is not the appropriate response.",
+    "explanation": "Under the third branch of the RJR-MacDonald test (RJR-MacDonald Inc. v. Canada (A.G.), [1994] 1 SCR 311), the court weighs which party would suffer greater harm from the grant or refusal of the injunction. This involves considering: the nature and quantifiability of each party's harm, whether the plaintiff's undertaking as to damages adequately protects the defendant, the relative financial capacity of the parties to absorb temporary harm, the public interest, and any other relevant factors. The fact that the defendant has quantified its loss at $4 million is not automatically determinative — courts weigh all factors holistically. The plaintiff's undertaking as to damages is directly relevant to the defendant's quantified loss. Where the balance is genuinely equal, courts tend to favour preserving the status quo.",
+    "why_A_wrong": "A states a rule that does not exist. The Quantifiability-Determines-Balance Trap: the ability to quantify harm precisely does not automatically tip the balance of convenience toward discharge. Under RJR-MacDonald, the court weighs all relevant factors holistically. A defendant who can precisely quantify its loss may actually be better protected by the plaintiff's undertaking as to damages — precise quantification does not eliminate judicial discretion or automatically favour one party.",
+    "why_B_wrong": "B misstates the law. The First-Two-Elements Presumption Trap: satisfying the first two branches of RJR-MacDonald creates no irrebuttable or presumptive entitlement to the injunction. All three branches must be weighed, and a strong showing on the balance of convenience against the plaintiff can outweigh success on the first two elements. The balance of convenience is an independent and substantive inquiry.",
+    "why_C_wrong": "C is correct. Under the third branch of RJR-MacDonald, the court weighs the harm to each party from granting or refusing the injunction, considering all relevant factors: the plaintiff's undertaking as to damages (which may compensate the defendant's $4 million quantified loss), the parties' relative capacity to absorb harm, the public interest, and whether the harm on each side is truly irreparable or compensable. Equal balance favours the status quo, but an unequal balance may tip either way depending on the facts.",
+    "why_D_wrong": "D conflates the second branch (irreparable harm) with the third branch balance of convenience analysis. The Monetizable-Harm-Negates-Injunction Trap: whether harm is quantifiable in money is relevant to the second branch (irreparable harm, which the court has already found here), not a ground to defeat the injunction at the third branch. The undertaking as to damages addresses monetizable harm directly — the defendant's $4 million figure is an argument for adequacy of the undertaking, not an automatic basis for discharge.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -200,21 +200,29 @@
       "pr_issue_type": null
     },
     "exam_trigger_words": [
+      "RJR-MacDonald",
+      "interlocutory injunction",
       "balance of convenience",
-      "status quo",
-      "discharge",
-      "harm to parties"
+      "undertaking as to damages",
+      "serious question to be tried",
+      "irreparable harm",
+      "ex parte",
+      "discharge injunction"
     ],
     "tested_concepts": [
-      "balance of convenience — equal balance favours status quo",
-      "RJR-MacDonald third branch",
-      "weighing harm"
+      "RJR-MacDonald three-part test",
+      "balance of convenience — holistic weighing",
+      "undertaking as to damages as a factor",
+      "quantifiability of harm vs irreparability",
+      "Quantifiability-Determines-Balance Trap",
+      "First-Two-Elements Presumption Trap",
+      "Monetizable-Harm-Negates-Injunction Trap"
     ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-24"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "civ-06-injunction-005",

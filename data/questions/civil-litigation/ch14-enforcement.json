@@ -32,9 +32,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.07"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["writ of seizure and sale", "r.60.07", "sheriff", "enforcement", "money judgment"],
-    "tested_concepts": ["writ of seizure and sale — r.60.07", "filed with sheriff — binds real property", "sheriff authorized to seize and sell"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "writ of seizure and sale",
+      "r.60.07",
+      "sheriff",
+      "enforcement",
+      "money judgment"
+    ],
+    "tested_concepts": [
+      "writ of seizure and sale — r.60.07",
+      "filed with sheriff — binds real property",
+      "sheriff authorized to seize and sell"
+    ],
     "estimated_time_seconds": 80,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -74,9 +86,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.08"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["garnishment", "notice of garnishment", "r.60.08", "garnishee", "receivables"],
-    "tested_concepts": ["r.60.08 — garnishment procedure", "notice of garnishment served on garnishee", "garnishee pays court/sheriff — not limited to wages"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "garnishment",
+      "notice of garnishment",
+      "r.60.08",
+      "garnishee",
+      "receivables"
+    ],
+    "tested_concepts": [
+      "r.60.08 — garnishment procedure",
+      "notice of garnishment served on garnishee",
+      "garnishee pays court/sheriff — not limited to wages"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -116,9 +140,22 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.18"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["examination in aid of execution", "r.60.18", "judgment debtor", "assets", "under oath"],
-    "tested_concepts": ["r.60.18 — examination in aid of execution", "no prior court order required", "corporate debtor — examine officer or director", "disclose assets, income, ability to pay"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "examination in aid of execution",
+      "r.60.18",
+      "judgment debtor",
+      "assets",
+      "under oath"
+    ],
+    "tested_concepts": [
+      "r.60.18 — examination in aid of execution",
+      "no prior court order required",
+      "corporate debtor — examine officer or director",
+      "disclose assets, income, ability to pay"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -158,9 +195,22 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.11"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["contempt", "court order", "non-compliance", "r.60.11", "sanctions"],
-    "tested_concepts": ["contempt motion for non-compliance with court order", "r.60.11 — enforcement of court orders", "sanctions: fine, sequestration, imprisonment", "non-money orders enforceable by contempt"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "contempt",
+      "court order",
+      "non-compliance",
+      "r.60.11",
+      "sanctions"
+    ],
+    "tested_concepts": [
+      "contempt motion for non-compliance with court order",
+      "r.60.11 — enforcement of court orders",
+      "sanctions: fine, sequestration, imprisonment",
+      "non-money orders enforceable by contempt"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -200,9 +250,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Wages Act, R.S.O. 1990, c. W.1; Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.08"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["garnishment wages", "Wages Act", "80% exempt", "wages exemption", "periodic payment"],
-    "tested_concepts": ["wages exempt from garnishment — Wages Act", "80% of net wages or statutory minimum exempt", "garnishee calculates exempt amount and pays balance"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "garnishment wages",
+      "Wages Act",
+      "80% exempt",
+      "wages exemption",
+      "periodic payment"
+    ],
+    "tested_concepts": [
+      "wages exempt from garnishment — Wages Act",
+      "80% of net wages or statutory minimum exempt",
+      "garnishee calculates exempt amount and pays balance"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -242,9 +304,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.08"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["garnishee's statement", "r.60.08", "garnishee disputes", "10 days", "court determination"],
-    "tested_concepts": ["garnishee must file statement within 10 days", "disputing garnishee — court determines on motion or reference", "failure to respond may result in default order"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "garnishee's statement",
+      "r.60.08",
+      "garnishee disputes",
+      "10 days",
+      "court determination"
+    ],
+    "tested_concepts": [
+      "garnishee must file statement within 10 days",
+      "disputing garnishee — court determines on motion or reference",
+      "failure to respond may result in default order"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -284,9 +358,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Execution Act, R.S.O. 1990, c. E.24; Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.07"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["Execution Act", "exempt from seizure", "tools of trade", "household furnishings", "exigible property"],
-    "tested_concepts": ["Execution Act exemptions from seizure", "tools of trade and household goods exempt to prescribed limits", "corporate debtors do not benefit from personal exemptions"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "Execution Act",
+      "exempt from seizure",
+      "tools of trade",
+      "household furnishings",
+      "exigible property"
+    ],
+    "tested_concepts": [
+      "Execution Act exemptions from seizure",
+      "tools of trade and household goods exempt to prescribed limits",
+      "corporate debtors do not benefit from personal exemptions"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -326,9 +412,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.07; Execution Act, R.S.O. 1990, c. E.24"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["writ binds real property", "r.60.07", "lien on land", "filing with sheriff", "subsequent purchaser"],
-    "tested_concepts": ["writ of seizure and sale — lien on real property from filing date", "binding on subsequent purchasers", "registration in land title system provides constructive notice"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "writ binds real property",
+      "r.60.07",
+      "lien on land",
+      "filing with sheriff",
+      "subsequent purchaser"
+    ],
+    "tested_concepts": [
+      "writ of seizure and sale — lien on real property from filing date",
+      "binding on subsequent purchasers",
+      "registration in land title system provides constructive notice"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -349,17 +447,17 @@
     "fact_pattern": "A judgment creditor issues a notice of examination under r.60.18 requiring an officer of the judgment debtor corporation to attend for examination in aid of execution. The officer fails to attend on the scheduled date and provides no explanation. The judgment creditor seeks a remedy for the failure to attend.",
     "call_of_question": "What remedy is available to a judgment creditor when the person subject to a notice of examination under r.60.18 fails to attend?",
     "options": {
-      "A": "The only remedy is to re-issue a new notice of examination for a different date; no sanction is available for the initial failure to attend.",
-      "B": "The judgment creditor may move for a contempt order against the person who failed to attend; failure to comply with a notice of examination is a contempt of court and may result in a warrant for the person's arrest or other sanctions.",
-      "C": "The judgment creditor must first obtain a court order directing attendance before contempt proceedings can be commenced; a notice of examination alone does not attract contempt consequences.",
-      "D": "The judgment creditor's only option is to commence a separate action for damages arising from the failure to attend the examination."
+      "A": "The judgment creditor must first re-issue the notice of examination for a new date before any further steps can be taken; the failure to attend a first notice is not, by itself, a contempt of court.",
+      "B": "The judgment creditor may move for a contempt order against the officer who failed to attend; failure to comply with a notice of examination in aid of execution is a contempt of court because the notice has the force of a court order.",
+      "C": "Before contempt proceedings can be commenced, the judgment creditor must obtain a separate court order directing the officer to attend — a notice of examination alone is insufficient to ground a contempt finding.",
+      "D": "The judgment creditor must first obtain a production order requiring the corporation to disclose its financial records before the officer can be examined; examining an officer without first securing the underlying financial documents is procedurally improper."
     },
     "correct_answer": "B",
     "explanation": "Under r.60.18 and r.60.11 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a notice of examination in aid of execution issued under r.60.18 has the force of a court order for the purpose of compelling attendance. A person who fails to attend an examination in aid of execution without lawful excuse may be found in contempt of court. The judgment creditor may move for a contempt order, and the court may issue a warrant for the person's arrest (a bench warrant) to compel attendance, or impose other contempt sanctions including fines. This mechanism ensures that the examination process is enforceable.",
-    "why_A_wrong": "The judgment creditor is not limited to re-issuing a new notice. Failure to attend is a contempt of court and sanctions including contempt proceedings and arrest warrants are available.",
+    "why_A_wrong": "A misstates the consequence of failing to attend. The Notice-Has-No-Force Trap: a notice of examination issued under r. 60.18 carries the force of a court order for the purposes of compelling attendance and for founding a contempt motion. Failure to attend is not merely a procedural irregularity that requires re-issuance of the notice — it is a contempt of court. The judgment creditor may proceed directly to a contempt motion.",
     "why_B_wrong": "This IS the correct answer. Failure to attend an examination under r.60.18 is contempt of court; the judgment creditor may move for a contempt order including arrest of the non-attending person.",
     "why_C_wrong": "The notice of examination itself has the force of a court order for the purposes of compelling attendance. A separate court order directing attendance is not required before contempt proceedings can be commenced for failure to attend.",
-    "why_D_wrong": "Commencing a separate damages action is not the appropriate remedy for failure to attend an examination in aid. Contempt proceedings are the direct and appropriate remedy.",
+    "why_D_wrong": "D invents a prerequisite that does not exist under the Rules. The Production-Order-First Trap: there is no requirement to obtain a production order for financial records before an officer may be examined in aid of execution. The examination under r. 60.18 is itself the mechanism for discovering the judgment debtor's financial position; it is not contingent on prior document production. The officer's failure to attend the examination is independently remediable through contempt.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -368,9 +466,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.18; r.60.11"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["non-attendance examination", "contempt r.60.18", "warrant arrest", "r.60.11", "examination in aid"],
-    "tested_concepts": ["r.60.18 — notice of examination has force of court order", "failure to attend is contempt", "remedy: contempt motion, bench warrant"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "non-attendance examination",
+      "contempt r.60.18",
+      "warrant arrest",
+      "r.60.11",
+      "examination in aid"
+    ],
+    "tested_concepts": [
+      "r.60.18 — notice of examination has force of court order",
+      "failure to attend is contempt",
+      "remedy: contempt motion, bench warrant"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -410,9 +520,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.18(6)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.60.18(6)", "third party examination", "possession of debtor assets", "no prior court order", "knowledge of assets"],
-    "tested_concepts": ["r.60.18(6) — examination of third parties with knowledge or possession of debtor assets", "no prior court order required for third party examination", "useful for uncovering pre-judgment transfers"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.60.18(6)",
+      "third party examination",
+      "possession of debtor assets",
+      "no prior court order",
+      "knowledge of assets"
+    ],
+    "tested_concepts": [
+      "r.60.18(6) — examination of third parties with knowledge or possession of debtor assets",
+      "no prior court order required for third party examination",
+      "useful for uncovering pre-judgment transfers"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -452,9 +574,22 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.41.02; Courts of Justice Act, R.S.O. 1990, c. C.43, s.101"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["receiver", "r.41.02", "s.101 Courts of Justice Act", "just and convenient", "dissipation of assets"],
-    "tested_concepts": ["receiver appointment — r.41.02 and s.101 CJA", "just and convenient test", "risk of asset dissipation — grounds for receiver", "no prior exhaustion of other methods required"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "receiver",
+      "r.41.02",
+      "s.101 Courts of Justice Act",
+      "just and convenient",
+      "dissipation of assets"
+    ],
+    "tested_concepts": [
+      "receiver appointment — r.41.02 and s.101 CJA",
+      "just and convenient test",
+      "risk of asset dissipation — grounds for receiver",
+      "no prior exhaustion of other methods required"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -494,9 +629,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.11; Ontario civil contempt practice"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["civil contempt", "beyond a reasonable doubt", "sanctions contempt", "imprisonment contempt", "sequestration"],
-    "tested_concepts": ["civil contempt — proved beyond a reasonable doubt", "quasi-criminal nature of contempt", "sanctions: fines, imprisonment, sequestration"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "civil contempt",
+      "beyond a reasonable doubt",
+      "sanctions contempt",
+      "imprisonment contempt",
+      "sequestration"
+    ],
+    "tested_concepts": [
+      "civil contempt — proved beyond a reasonable doubt",
+      "quasi-criminal nature of contempt",
+      "sanctions: fines, imprisonment, sequestration"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -536,9 +683,22 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.11"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["committal contempt", "r.60.11", "personal service", "beyond reasonable doubt", "hearing required"],
-    "tested_concepts": ["r.60.11 — committal for contempt procedural requirements", "personal service of underlying order required", "proof beyond reasonable doubt at hearing", "quasi-criminal procedural protections apply"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "committal contempt",
+      "r.60.11",
+      "personal service",
+      "beyond reasonable doubt",
+      "hearing required"
+    ],
+    "tested_concepts": [
+      "r.60.11 — committal for contempt procedural requirements",
+      "personal service of underlying order required",
+      "proof beyond reasonable doubt at hearing",
+      "quasi-criminal procedural protections apply"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -578,9 +738,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s.19, s.24; Rules of Civil Procedure, r.60.02"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["matrimonial home", "FLA", "non-titled spouse", "possessory right", "enforcement against home"],
-    "tested_concepts": ["FLA — equal right of possession of matrimonial home", "non-titled spouse must receive notice of enforcement", "court may protect possessory rights of non-titled spouse"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "matrimonial home",
+      "FLA",
+      "non-titled spouse",
+      "possessory right",
+      "enforcement against home"
+    ],
+    "tested_concepts": [
+      "FLA — equal right of possession of matrimonial home",
+      "non-titled spouse must receive notice of enforcement",
+      "court may protect possessory rights of non-titled spouse"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -620,9 +792,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.08; Execution Act, R.S.O. 1990, c. E.24"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["shares enforcement", "charging order", "brokerage account", "garnishment of shares", "exigible property"],
-    "tested_concepts": ["shares are exigible — garnishment of brokerage account", "charging order on debtor's shares", "garnishment extends to intangible assets held by third parties"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "shares enforcement",
+      "charging order",
+      "brokerage account",
+      "garnishment of shares",
+      "exigible property"
+    ],
+    "tested_concepts": [
+      "shares are exigible — garnishment of brokerage account",
+      "charging order on debtor's shares",
+      "garnishment extends to intangible assets held by third parties"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -643,17 +827,17 @@
     "fact_pattern": "A court order requires the defendant to deliver a unique piece of industrial equipment to the plaintiff by a specified date. The defendant fails to deliver the equipment. The plaintiff's counsel asks what enforcement mechanism is available for an order to deliver specific personal property.",
     "call_of_question": "Under r.60.10 of the Rules of Civil Procedure, what enforcement mechanism is available to enforce an order for the recovery or delivery of personal property?",
     "options": {
-      "A": "The only remedy for non-delivery of specific personal property ordered by the court is to bring a new action for the equivalent monetary value; there is no mechanism to compel actual delivery.",
-      "B": "Under r.60.10, the judgment creditor may issue a writ of delivery, which directs the sheriff to seize the specific property from the judgment debtor and deliver it to the judgment creditor; where the property cannot be found, the writ may direct the sheriff to seize other property of the debtor to the assessed value.",
-      "C": "An order for delivery of specific personal property is enforced by contempt motion only; there is no writ process available.",
-      "D": "Orders for delivery of personal property are unenforceable in Ontario; only monetary judgments and injunctions may be enforced through court process."
+      "A": "The plaintiff's only remedy is to bring a new action claiming the monetary equivalent of the equipment; orders for specific personal property cannot be enforced directly in Ontario.",
+      "B": "Under r. 60.10, the judgment creditor may issue a writ of delivery, which directs the sheriff to seize the specific property from the judgment debtor and deliver it to the plaintiff.",
+      "C": "An order for delivery of specific personal property can only be enforced by contempt motion; there is no writ process available under the Rules for delivery of personal property.",
+      "D": "Under r. 60.10, the court has discretion to issue a writ of delivery but may refuse to do so if the personal property could be replaced with a monetary award; the writ is available only for truly unique, irreplaceable items."
     },
     "correct_answer": "B",
     "explanation": "Under r.60.10 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194), a party who is entitled to recover or is given possession of specific personal property under a court order may enforce the order by issuing a writ of delivery. The writ directs the sheriff to seize the specific property from the judgment debtor and deliver it to the judgment creditor. If the property cannot be found or has been disposed of, the writ of delivery may be supplemented to allow the sheriff to seize other property of the debtor to the assessed value of the specific property. This writ is particularly important where the property is unique (such as specialized equipment) and monetary damages would be an inadequate substitute.",
     "why_A_wrong": "A new action for monetary value is not the only remedy. Rule 60.10 provides a specific writ of delivery mechanism to compel actual delivery of the personal property ordered by the court.",
     "why_B_wrong": "This IS the correct answer. Rule 60.10 provides the writ of delivery as the enforcement mechanism for orders for recovery of personal property; the sheriff seizes and delivers the property, or its assessed value if unavailable.",
     "why_C_wrong": "While contempt is also available for non-compliance with a delivery order, r.60.10 provides an alternative and direct enforcement mechanism through the writ of delivery. Both may be available; the writ of delivery is the specific mechanism under r.60.10.",
-    "why_D_wrong": "Orders for recovery of personal property are enforceable through the writ of delivery under r.60.10. Ontario court orders are not limited to enforcement through money judgments and injunctions.",
+    "why_D_wrong": "D imposes a uniqueness requirement that r. 60.10 does not contain. The Uniqueness-Required Trap: rule 60.10 provides the writ of delivery as the enforcement mechanism for any court order requiring recovery or delivery of specific personal property — it does not require the property to be 'truly unique' or 'irreplaceable' before the writ may issue. The availability of a monetary alternative does not bar the judgment creditor from enforcing the existing delivery order through the writ mechanism.",
     "source_reference": {
       "lso_material": "LSO Barrister 2026 Study Materials",
       "subject": "Civil Litigation",
@@ -662,9 +846,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.10"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["writ of delivery", "r.60.10", "recovery personal property", "sheriff seizes", "delivery order"],
-    "tested_concepts": ["r.60.10 — writ of delivery for orders to deliver personal property", "sheriff seizes and delivers specific property", "if property unavailable — seize property to assessed value"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "writ of delivery",
+      "r.60.10",
+      "recovery personal property",
+      "sheriff seizes",
+      "delivery order"
+    ],
+    "tested_concepts": [
+      "r.60.10 — writ of delivery for orders to deliver personal property",
+      "sheriff seizes and delivers specific property",
+      "if property unavailable — seize property to assessed value"
+    ],
     "estimated_time_seconds": 80,
     "validation_status": "draft",
     "similarity_risk": "low",

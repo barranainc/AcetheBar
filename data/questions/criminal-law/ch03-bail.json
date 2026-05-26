@@ -287,20 +287,20 @@
     "subtopic_heading": "Reverse Onus Bail — s. 515(6)",
     "difficulty": "easy",
     "question_type": "single_best_answer",
-    "fact_pattern": "Fatima has been charged with trafficking in a controlled substance contrary to s. 5 of the Controlled Drugs and Substances Act. She has no prior criminal record. At her bail hearing, the justice tells defence counsel that it is Fatima's burden to show why she should be released.",
+    "fact_pattern": "Fatima is charged with possession of a controlled substance for the purpose of trafficking contrary to s. 5(2) of the Controlled Drugs and Substances Act. She has no prior criminal record. At her bail hearing, her counsel argues that s. 515(6) reverse onus should not apply because her charge is possession-for-the-purpose, not trafficking per se under s. 5(1) CDSA, and the informational burden should therefore remain on the Crown. The justice disagrees and informs Fatima that she bears the burden of showing cause why her detention is not justified.",
     "call_of_question": "Is the justice correct that Fatima bears the burden at this bail hearing?",
     "options": {
-      "A": "No — the Crown always bears the burden of showing cause for detention in all criminal matters, including drug trafficking charges.",
-      "B": "Yes — under s. 515(6) of the Criminal Code, a person charged with trafficking under s. 5 of the CDSA bears the burden of showing cause why their detention is not justified.",
-      "C": "No — reverse onus only applies if Fatima was previously convicted of a drug offence.",
-      "D": "Yes — reverse onus applies to all serious criminal charges regardless of the specific offence."
+      "A": "No — the Crown always bears the burden of showing cause for detention in all criminal matters; the reverse onus provisions of s. 515(6) are constitutionally inapplicable because they violate s. 11(e) of the Charter.",
+      "B": "Yes — under s. 515(6)(d) of the Criminal Code, a person charged with an offence under s. 5 of the CDSA — which includes both trafficking (s. 5(1)) and possession for the purpose of trafficking (s. 5(2)) — bears the burden of showing cause why their detention is not justified.",
+      "C": "No — counsel is correct that reverse onus under s. 515(6)(d) applies only to the trafficking offence in s. 5(1) CDSA, not to possession for the purpose of trafficking in s. 5(2), because only trafficking per se involves an element of distribution.",
+      "D": "Yes — the justice is correct, but only because Fatima has been charged with a serious drug offence; s. 515(6) reverse onus applies to all criminal offences where the Crown considers the accused a flight risk."
     },
     "correct_answer": "B",
-    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 515(6), the accused must show cause why detention is not justified in specific circumstances. Section 515(6)(d) applies where the accused is charged with an offence under s. 5 (trafficking), s. 6 (importing/exporting), or s. 7 (production) of the Controlled Drugs and Substances Act. The reverse onus applies regardless of the accused's prior record. Fatima is charged with trafficking under s. 5 CDSA, which squarely engages s. 515(6), and the justice is correct to impose the burden on Fatima.",
-    "why_A_wrong": "Section 515(6) is a statutory exception to the ordinary Crown burden. For the specific offences listed in s. 515(6), Parliament has reversed the onus so that the accused must show cause for release.",
-    "why_B_wrong": "This IS the correct answer. Yes — under s. 515(6) of the Criminal Code, a person charged with trafficking under s. 5 of the CDSA bears the burden of showing cause why their detention is not justified.",
-    "why_C_wrong": "The s. 515(6) reverse onus for CDSA trafficking offences applies regardless of the accused's criminal record. The triggering factor is the nature of the charge, not a prior conviction history.",
-    "why_D_wrong": "Reverse onus under s. 515(6) does not apply to all serious charges. It is triggered only for specific listed categories, such as CDSA trafficking, charges while on release, terrorism, and certain organized crime or firearm offences. Seriousness alone does not attract the reverse onus.",
+    "explanation": "Section 515(6)(d) of the Criminal Code imposes reverse onus — requiring the accused to show cause why detention is not justified — where the accused is charged with an offence under s. 5 of the Controlled Drugs and Substances Act. Section 5 of the CDSA contains two subsections: s. 5(1) (trafficking in a controlled substance) and s. 5(2) (possession of a controlled substance for the purpose of trafficking). Both offences fall within 'an offence under s. 5 of the CDSA.' Fatima's counsel is wrong to argue that only s. 5(1) triggers s. 515(6)(d) — the reverse onus provision covers any offence under that section. Fatima must show cause why her detention is not justified.",
+    "why_A_wrong": "A misstates the constitutional status of s. 515(6). The Supreme Court of Canada upheld the constitutionality of reverse onus bail provisions in R v Pearson, [1992] 3 SCR 665, and R v Morales, [1992] 3 SCR 711. Reverse onus in bail does not violate s. 11(e) of the Charter when connected to a substantial state interest such as drug trafficking offences. The Crown's general burden applies in ordinary bail hearings; the statutory exceptions in s. 515(6) are constitutionally valid.",
+    "why_B_wrong": "B is correct. Section 515(6)(d) applies to any offence under s. 5 of the CDSA. Section 5 encompasses both s. 5(1) (trafficking) and s. 5(2) (possession for the purpose of trafficking). Fatima's counsel's argument that only trafficking per se under s. 5(1) triggers the reverse onus is incorrect — the statutory language refers to 'an offence under s. 5,' which covers both subsections. The justice is correct that Fatima bears the burden.",
+    "why_C_wrong": "C adopts counsel's erroneous argument. The Possession-vs-Trafficking Trap: s. 515(6)(d) refers to 'an offence under s. 5' of the CDSA, not 'an offence under s. 5(1)' specifically. Both possession for the purpose of trafficking (s. 5(2)) and trafficking per se (s. 5(1)) are offences under s. 5. Courts have consistently applied the reverse onus to s. 5(2) charges on this basis. The fact that s. 5(2) involves possession rather than distribution does not exclude it from the s. 515(6)(d) reverse onus.",
+    "why_D_wrong": "D correctly identifies that the justice is right but states the wrong reason. The All-Serious-Charges Trap: s. 515(6) does not apply to all serious criminal offences or whenever the Crown considers the accused a flight risk. It is triggered only by specific, enumerated circumstances in s. 515(6)(a)–(h). The Crown's subjective assessment of flight risk is irrelevant to whether s. 515(6) applies — the reverse onus is a statutory rule tied to the nature of the charge, not the Crown's characterization of the accused's risk level.",
     "source_reference": {
       "lso_material": "2026 LSO Barrister Examination Materials",
       "subject": "Criminal Law",
@@ -314,22 +314,28 @@
       "pr_issue_type": null
     },
     "exam_trigger_words": [
+      "s.515(6)",
       "reverse onus",
-      "s. 515(6)",
+      "bail",
+      "CDSA s.5",
+      "trafficking",
+      "possession for purpose of trafficking",
       "show cause",
-      "CDSA trafficking",
-      "accused's burden"
+      "Crown burden"
     ],
     "tested_concepts": [
-      "s. 515(6)(d) CDSA trafficking reverse onus",
-      "accused bears burden",
-      "reverse onus not dependent on prior record"
+      "s.515(6)(d) reverse onus for CDSA s.5 offences",
+      "CDSA s.5(1) vs s.5(2) — both covered by s.515(6)(d)",
+      "constitutional validity of reverse onus bail",
+      "Possession-vs-Trafficking Trap",
+      "All-Serious-Charges Trap",
+      "Charter s.11(e) and bail reverse onus"
     ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-23",
-    "updated_at": "2026-05-23"
+    "updated_at": "2026-05-25"
   },
   {
     "id": "crim-03-rev-onus-002",
@@ -536,8 +542,21 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["surety", "surrender accused", "s. 764(3)", "recognizance", "breach of conditions", "estreatment", "actual knowledge of breach"],
-    "tested_concepts": ["surety's duty on learning of breach", "s. 764(3) surrender right", "estreatment as formal process — not automatic", "surety supervision obligation"],
+    "exam_trigger_words": [
+      "surety",
+      "surrender accused",
+      "s. 764(3)",
+      "recognizance",
+      "breach of conditions",
+      "estreatment",
+      "actual knowledge of breach"
+    ],
+    "tested_concepts": [
+      "surety's duty on learning of breach",
+      "s. 764(3) surrender right",
+      "estreatment as formal process — not automatic",
+      "surety supervision obligation"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -581,8 +600,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["estreatment", "recognizance", "forfeiture", "s. 771", "surety discretion", "failure to appear"],
-    "tested_concepts": ["s. 771 estreatment discretion", "judicial discretion to reduce forfeiture", "surety's reasonable efforts defence", "estreatment not automatic"],
+    "exam_trigger_words": [
+      "estreatment",
+      "recognizance",
+      "forfeiture",
+      "s. 771",
+      "surety discretion",
+      "failure to appear"
+    ],
+    "tested_concepts": [
+      "s. 771 estreatment discretion",
+      "judicial discretion to reduce forfeiture",
+      "surety's reasonable efforts defence",
+      "estreatment not automatic"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -626,8 +657,19 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["bail review", "s. 520", "superior court judge", "detention order", "accused review application"],
-    "tested_concepts": ["s. 520 accused bail review", "s. 521 Crown bail review", "distinction between s. 520 and s. 521", "superior court judge fresh discretion"],
+    "exam_trigger_words": [
+      "bail review",
+      "s. 520",
+      "superior court judge",
+      "detention order",
+      "accused review application"
+    ],
+    "tested_concepts": [
+      "s. 520 accused bail review",
+      "s. 521 Crown bail review",
+      "distinction between s. 520 and s. 521",
+      "superior court judge fresh discretion"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -671,8 +713,18 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["bail review", "s. 520", "material change in circumstances", "changed circumstances", "vary conditions"],
-    "tested_concepts": ["s. 520 bail review — changed circumstances requirement", "material change vs error of law", "bail review not purely de novo"],
+    "exam_trigger_words": [
+      "bail review",
+      "s. 520",
+      "material change in circumstances",
+      "changed circumstances",
+      "vary conditions"
+    ],
+    "tested_concepts": [
+      "s. 520 bail review — changed circumstances requirement",
+      "material change vs error of law",
+      "bail review not purely de novo"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -716,8 +768,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["bail conditions", "no-contact condition", "reasonable", "proportionate", "child access", "ladder principle"],
-    "tested_concepts": ["proportionality of bail conditions", "no-contact condition carve-out for child access", "least restrictive conditions", "judicial discretion on conditions"],
+    "exam_trigger_words": [
+      "bail conditions",
+      "no-contact condition",
+      "reasonable",
+      "proportionate",
+      "child access",
+      "ladder principle"
+    ],
+    "tested_concepts": [
+      "proportionality of bail conditions",
+      "no-contact condition carve-out for child access",
+      "least restrictive conditions",
+      "judicial discretion on conditions"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -761,8 +825,19 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["breach of bail condition", "s. 524", "warrantless arrest", "peace officer", "condition breached"],
-    "tested_concepts": ["s. 524 warrantless arrest for bail breach", "any bail condition breach sufficient", "s. 145(3) breach of recognizance", "no requirement for new criminal offence"],
+    "exam_trigger_words": [
+      "breach of bail condition",
+      "s. 524",
+      "warrantless arrest",
+      "peace officer",
+      "condition breached"
+    ],
+    "tested_concepts": [
+      "s. 524 warrantless arrest for bail breach",
+      "any bail condition breach sufficient",
+      "s. 145(3) breach of recognizance",
+      "no requirement for new criminal offence"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
