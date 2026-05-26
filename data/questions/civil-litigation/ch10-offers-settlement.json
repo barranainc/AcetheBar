@@ -32,9 +32,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.02"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["offer to settle", "r.49.02", "in writing", "served", "effective", "oral offer", "cost consequences"],
-    "tested_concepts": ["offer to settle must be in writing — r.49.02", "oral proposal does not qualify for r.49.10", "effective upon service", "offer may be made at any time including after discoveries"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "offer to settle",
+      "r.49.02",
+      "in writing",
+      "served",
+      "effective",
+      "oral offer",
+      "cost consequences"
+    ],
+    "tested_concepts": [
+      "offer to settle must be in writing — r.49.02",
+      "oral proposal does not qualify for r.49.10",
+      "effective upon service",
+      "offer may be made at any time including after discoveries"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -74,9 +89,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.04"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["offer to settle", "expiry", "r.49.04", "no expiry date", "acceptance"],
-    "tested_concepts": ["offer without expiry date — open until commencement of hearing", "r.49.04 — expiry of offers", "timing of acceptance of offer to settle"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "offer to settle",
+      "expiry",
+      "r.49.04",
+      "no expiry date",
+      "acceptance"
+    ],
+    "tested_concepts": [
+      "offer without expiry date — open until commencement of hearing",
+      "r.49.04 — expiry of offers",
+      "timing of acceptance of offer to settle"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -116,9 +143,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.10(1)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.49.10", "defendant's offer", "fails to beat", "partial indemnity", "cost consequences"],
-    "tested_concepts": ["r.49.10(1) — defendant's offer not beaten by plaintiff's recovery", "plaintiff gets partial indemnity to date of offer", "defendant gets partial indemnity from date of offer"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.49.10",
+      "defendant's offer",
+      "fails to beat",
+      "partial indemnity",
+      "cost consequences"
+    ],
+    "tested_concepts": [
+      "r.49.10(1) — defendant's offer not beaten by plaintiff's recovery",
+      "plaintiff gets partial indemnity to date of offer",
+      "defendant gets partial indemnity from date of offer"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -158,9 +197,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.10(2)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.49.10(2)", "plaintiff's offer", "substantial indemnity", "beats offer", "cost consequences"],
-    "tested_concepts": ["r.49.10(2) — plaintiff beats their own offer", "partial indemnity to date of offer then substantial indemnity", "substantial indemnity as incentive to accept"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.49.10(2)",
+      "plaintiff's offer",
+      "substantial indemnity",
+      "beats offer",
+      "cost consequences"
+    ],
+    "tested_concepts": [
+      "r.49.10(2) — plaintiff beats their own offer",
+      "partial indemnity to date of offer then substantial indemnity",
+      "substantial indemnity as incentive to accept"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -200,9 +251,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.13"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["multiple offers", "r.49.13", "court discretion", "cost consequences", "all offers"],
-    "tested_concepts": ["r.49.13 — court discretion over multiple offers", "court not restricted to single offer for cost consequences", "r.49.13 as override of automatic r.49.10 consequences"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "multiple offers",
+      "r.49.13",
+      "court discretion",
+      "cost consequences",
+      "all offers"
+    ],
+    "tested_concepts": [
+      "r.49.13 — court discretion over multiple offers",
+      "court not restricted to single offer for cost consequences",
+      "r.49.13 as override of automatic r.49.10 consequences"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -242,9 +305,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.04(1)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["withdrawal of offer", "r.49.04", "before acceptance", "written notice", "irrevocable"],
-    "tested_concepts": ["offer may be withdrawn at any time before acceptance — r.49.04(1)", "withdrawal by written notice effective before acceptance", "no minimum holding period"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "withdrawal of offer",
+      "r.49.04",
+      "before acceptance",
+      "written notice",
+      "irrevocable"
+    ],
+    "tested_concepts": [
+      "offer may be withdrawn at any time before acceptance — r.49.04(1)",
+      "withdrawal by written notice effective before acceptance",
+      "no minimum holding period"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -284,9 +359,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.10(1)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.49.10(1)", "no more favourable", "beats defendant's offer", "cost consequences", "triggering condition"],
-    "tested_concepts": ["r.49.10(1) — triggered only if plaintiff fails to beat defendant's offer", "where plaintiff beats offer — no r.49.10(1) consequence", "ordinary costs-follow-the-event where offer not triggered"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.49.10(1)",
+      "no more favourable",
+      "beats defendant's offer",
+      "cost consequences",
+      "triggering condition"
+    ],
+    "tested_concepts": [
+      "r.49.10(1) — triggered only if plaintiff fails to beat defendant's offer",
+      "where plaintiff beats offer — no r.49.10(1) consequence",
+      "ordinary costs-follow-the-event where offer not triggered"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -326,9 +413,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.07(1)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.49.07", "acceptance binding", "served on offeror", "binding settlement", "no formal agreement needed"],
-    "tested_concepts": ["r.49.07 — acceptance binding upon service", "no formal settlement agreement required", "defendant cannot resile after binding acceptance"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.49.07",
+      "acceptance binding",
+      "served on offeror",
+      "binding settlement",
+      "no formal agreement needed"
+    ],
+    "tested_concepts": [
+      "r.49.07 — acceptance binding upon service",
+      "no formal settlement agreement required",
+      "defendant cannot resile after binding acceptance"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -368,10 +467,22 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.02(1); r.49.10"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["offer timing", "r.49.10", "during trial", "r.49.02", "at any time"],
-    "tested_concepts": ["r.49.02 — offer may be made at any time", "r.49.10 cost consequences not limited to pre-trial offers", "timing during trial is discretionary factor under r.49.13"],
-    "estimated_time_seconds": 90,
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "offer timing",
+      "r.49.10",
+      "during trial",
+      "r.49.02",
+      "at any time"
+    ],
+    "tested_concepts": [
+      "r.49.02 — offer may be made at any time",
+      "r.49.10 cost consequences not limited to pre-trial offers",
+      "timing during trial is discretionary factor under r.49.13"
+    ],
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-25",
@@ -397,7 +508,7 @@
       "D": "A counteroffer under r.49 must be in the same amount as the original offer to be effective; the plaintiff's $75,000 offer does not qualify as a counteroffer."
     },
     "correct_answer": "B",
-    "explanation": "Rule 49 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194) creates a specific statutory regime for offers to settle that modifies ordinary contract law principles. Unlike the common law rule that a counteroffer terminates the original offer, under r.49 an offer to settle remains open until it is: (1) withdrawn by the offeror under r.49.04(1); or (2) the time for acceptance expires (i.e., commencement of trial if no expiry date is specified, or the stated expiry date). The making of a competing or counter-offer under r.49 does not automatically terminate the original offer in the same way as at common law. The defendant's $50,000 offer therefore remained open — unless the defendant withdrew it — and the plaintiff's $75,000 counter-offer did not terminate it. The plaintiff may still accept the $50,000 offer provided it has not been withdrawn or expired.",
+    "explanation": "Under Rule 49 of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194) creates a specific statutory regime for offers to settle that modifies ordinary contract law principles. Unlike the common law rule that a counteroffer terminates the original offer, under r.49 an offer to settle remains open until it is: (1) withdrawn by the offeror under r.49.04(1); or (2) the time for acceptance expires (i.e., commencement of trial if no expiry date is specified, or the stated expiry date). The making of a competing or counter-offer under r.49 does not automatically terminate the original offer in the same way as at common law. The defendant's $50,000 offer therefore remained open — unless the defendant withdrew it — and the plaintiff's $75,000 counter-offer did not terminate it. The plaintiff may still accept the $50,000 offer provided it has not been withdrawn or expired.",
     "why_A_wrong": "The statement that both offers remain open simultaneously is essentially correct in the r.49 context — the original offer is not terminated by the counter-offer unless withdrawn — but the explanation in option B is more precise about the mechanism and is the best answer.",
     "why_B_wrong": "This IS the correct answer. Under r.49, a counter-offer does not automatically terminate the original offer; the original offer remains open unless withdrawn by the offeror under r.49.04 or expired.",
     "why_C_wrong": "While this accurately states the common law principle, r.49 modifies it. Under the Rules of Civil Procedure regime for settlement offers, a counter-offer does not automatically terminate the original offer as it would at common law.",
@@ -410,9 +521,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49; r.49.04"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["counteroffer", "r.49", "original offer", "not terminated", "r.49.04 withdrawal"],
-    "tested_concepts": ["r.49 regime — counter-offer does not terminate original offer", "original offer remains open until withdrawn by offeror under r.49.04", "distinction from common law counteroffer rule"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "counteroffer",
+      "r.49",
+      "original offer",
+      "not terminated",
+      "r.49.04 withdrawal"
+    ],
+    "tested_concepts": [
+      "r.49 regime — counter-offer does not terminate original offer",
+      "original offer remains open until withdrawn by offeror under r.49.04",
+      "distinction from common law counteroffer rule"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -452,9 +575,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.23.01"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["discontinuance", "r.23.01", "close of pleadings", "leave required", "costs on discontinuance"],
-    "tested_concepts": ["r.23.01 — discontinuance without leave before close of pleadings", "leave required after close of pleadings", "defendant entitled to costs on discontinuance"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "discontinuance",
+      "r.23.01",
+      "close of pleadings",
+      "leave required",
+      "costs on discontinuance"
+    ],
+    "tested_concepts": [
+      "r.23.01 — discontinuance without leave before close of pleadings",
+      "leave required after close of pleadings",
+      "defendant entitled to costs on discontinuance"
+    ],
     "estimated_time_seconds": 80,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -494,9 +629,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.23.05; Limitations Act, 2002, S.O. 2002, c. 24, Sched. B"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["discontinuance limitation period", "r.23.05", "not tolled", "recommence action", "res judicata"],
-    "tested_concepts": ["discontinuance not res judicata — recommencement permitted", "limitation period not tolled during discontinued action", "recommencement must be within limitation period"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "discontinuance limitation period",
+      "r.23.05",
+      "not tolled",
+      "recommence action",
+      "res judicata"
+    ],
+    "tested_concepts": [
+      "discontinuance not res judicata — recommencement permitted",
+      "limitation period not tolled during discontinued action",
+      "recommencement must be within limitation period"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -536,10 +683,22 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.7.08"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.7.08", "minor settlement", "court approval", "litigation guardian", "person under disability"],
-    "tested_concepts": ["r.7.08 — mandatory court approval for minor/incapable person settlement", "litigation guardian's consent alone insufficient", "Children's Lawyer notified for minors"],
-    "estimated_time_seconds": 80,
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.7.08",
+      "minor settlement",
+      "court approval",
+      "litigation guardian",
+      "person under disability"
+    ],
+    "tested_concepts": [
+      "r.7.08 — mandatory court approval for minor/incapable person settlement",
+      "litigation guardian's consent alone insufficient",
+      "Children's Lawyer notified for minors"
+    ],
+    "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-25",
@@ -578,9 +737,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.09"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.49.09", "stay of proceedings", "accepted offer", "enforce settlement", "consent judgment"],
-    "tested_concepts": ["r.49.09 — court may stay action after acceptance", "accepted offer is binding contract not automatic judgment", "if defendant defaults — motion to enforce or consent judgment"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.49.09",
+      "stay of proceedings",
+      "accepted offer",
+      "enforce settlement",
+      "consent judgment"
+    ],
+    "tested_concepts": [
+      "r.49.09 — court may stay action after acceptance",
+      "accepted offer is binding contract not automatic judgment",
+      "if defendant defaults — motion to enforce or consent judgment"
+    ],
     "estimated_time_seconds": 80,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -620,9 +791,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.49.10(2)"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["inclusive of costs", "r.49.10(2)", "as favourable as", "total recovery comparison", "damages plus costs"],
-    "tested_concepts": ["inclusive of costs offer — total recovery compared", "r.49.10(2) — damages plus separately awarded costs vs inclusive offer", "plaintiff beats offer where total recovery exceeds inclusive amount"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "inclusive of costs",
+      "r.49.10(2)",
+      "as favourable as",
+      "total recovery comparison",
+      "damages plus costs"
+    ],
+    "tested_concepts": [
+      "inclusive of costs offer — total recovery compared",
+      "r.49.10(2) — damages plus separately awarded costs vs inclusive offer",
+      "plaintiff beats offer where total recovery exceeds inclusive amount"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",

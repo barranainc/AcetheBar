@@ -82,7 +82,7 @@
       "D": "The limitation period was suspended while Sylviane sought professional advice about whether to sue."
     },
     "correct_answer": "B",
-    "explanation": "Sylviane discovered her breach of contract claim on June 1, 2023. Under s. 4 of the Limitations Act, 2002, she had two years — until June 1, 2025 — to commence proceedings. Commencing on June 15, 2025 is 14 days after the expiry of the limitation period. The action is therefore statute-barred. An accountant's advice does not restart or suspend the limitation period.",
+    "explanation": "Under Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 4, Sylviane discovered her breach of contract claim on June 1, 2023. Under s. 4 of the Limitations Act, 2002, she had two years — until June 1, 2025 — to commence proceedings. Commencing on June 15, 2025 is 14 days after the expiry of the limitation period. The action is therefore statute-barred. An accountant's advice does not restart or suspend the limitation period.",
     "why_A_wrong": "Professional advice does not restart, toll, or otherwise affect the running of the limitation period under the Limitations Act, 2002.",
     "why_B_wrong": "This IS the correct answer. The claim was discovered on June 1, 2023; the two-year period expired June 1, 2025; commencement on June 15, 2025 is out of time.",
     "why_C_wrong": "The Limitations Act, 2002 abolished the prior six-year limitation period for most contract claims. The general two-year period now applies.",
@@ -136,7 +136,7 @@
       "D": "A 15-year ultimate limitation period applies to Priya's claim, which will expire in 2030."
     },
     "correct_answer": "B",
-    "explanation": "Section 16(1)(h) of the Limitations Act, 2002 provides that there is no limitation period with respect to a claim based on a sexual assault. This removes the limitation period entirely — not merely defers it via discoverability. Furthermore, s. 16(1)(h) also excludes such claims from the 15-year ultimate limitation period in s. 15 of the Act. Priya may commence her claim at any time.",
+    "explanation": "Under s.16(1)(h) of the Limitations Act, 2002 provides that there is no limitation period with respect to a claim based on a sexual assault. This removes the limitation period entirely — not merely defers it via discoverability. Furthermore, s. 16(1)(h) also excludes such claims from the 15-year ultimate limitation period in s. 15 of the Act. Priya may commence her claim at any time.",
     "why_A_wrong": "Section 16(1)(h) of the Limitations Act, 2002 creates an exception for sexual assault claims. The two-year period in s. 4 does not apply.",
     "why_B_wrong": "This IS the correct answer. Section 16(1)(h) provides that no limitation period applies to a claim based on sexual assault.",
     "why_C_wrong": "While the discoverability principle in s. 5 could theoretically defer the start of the limitation period, s. 16(1)(h) goes further — it eliminates the limitation period entirely for sexual assault claims.",
@@ -190,7 +190,7 @@
       "D": "Reuben can rely on an acknowledgment of the debt made by the debtor at any time to restart the limitation period, even now."
     },
     "correct_answer": "C",
-    "explanation": "The Limitations Act, 2002 contains transitional provisions that address pre-existing claims. Even applying the former six-year limitation period to a 2000 contract claim, that period would have expired by 2006 at the latest. By 2026, Reuben's claim is long extinguished. Moreover, once a limitation period has expired and a claim is statute-barred, a subsequent acknowledgment of the debt cannot revive it — acknowledgment must occur within the running limitation period to restart the clock.",
+    "explanation": "Under the Limitations Act, 2002 contains transitional provisions that address pre-existing claims. Even applying the former six-year limitation period to a 2000 contract claim, that period would have expired by 2006 at the latest. By 2026, Reuben's claim is long extinguished. Moreover, once a limitation period has expired and a claim is statute-barred, a subsequent acknowledgment of the debt cannot revive it — acknowledgment must occur within the running limitation period to restart the clock.",
     "why_A_wrong": "Even under the former six-year limitation period, a contract claim from 2000 would have expired by 2006. Reuben's claim is extinguished regardless of which Act applies.",
     "why_B_wrong": "The Limitations Act, 2002 does contain transitional provisions that apply to pre-existing claims. The claim is not preserved simply because it arose before 2004.",
     "why_C_wrong": "This IS the correct answer. Under either the former or current limitations regime, Reuben's claim is long statute-barred and extinguished.",
@@ -245,7 +245,7 @@
       "D": "January 15, 2025"
     },
     "correct_answer": "B",
-    "explanation": "For demand obligations, the discoverability provisions of s. 5 of the Limitations Act, 2002 operate so that the limitation period begins to run when demand is made (and not paid), because it is only at that point that the claimant knows a proceeding would be an appropriate means to seek to remedy the failure. Farah made demand on March 1, 2023; two years from that date is March 1, 2025.",
+    "explanation": "Under Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, ss. 4, 5, For demand obligations, the discoverability provisions of s. 5 of the Limitations Act, 2002 operate so that the limitation period begins to run when demand is made (and not paid), because it is only at that point that the claimant knows a proceeding would be an appropriate means to seek to remedy the failure. Farah made demand on March 1, 2023; two years from that date is March 1, 2025.",
     "why_A_wrong": "January 15, 2022 is two years after the loan was made. For demand loans, the limitation period does not run from the date of the loan but from the date demand is made.",
     "why_B_wrong": "This IS the correct answer. The two-year limitation period for a demand obligation begins when demand is made and refused. Demand was made March 1, 2023, so the period expires March 1, 2025.",
     "why_C_wrong": "The Limitations Act, 2002 contains no exception for family loans. The general two-year limitation period applies.",
@@ -408,7 +408,7 @@
       "D": "She has no viable claim because she failed to sue within two years of the accident"
     },
     "correct_answer": "C",
-    "explanation": "Section 5(1)(c) of the Limitations Act, 2002 provides that a claim is not discovered until the claimant knows or ought to know the identity of the defendant. Obiageli could not have commenced proceedings against an unknown defendant. She diligently investigated and identified the driver in July 2023. Under s. 5(1)(c), discovery occurred when she identified the driver. She then has two years from July 2023 to commence her action.",
+    "explanation": "Under s.5(1)(c) of the Limitations Act, 2002 provides that a claim is not discovered until the claimant knows or ought to know the identity of the defendant. Obiageli could not have commenced proceedings against an unknown defendant. She diligently investigated and identified the driver in July 2023. Under s. 5(1)(c), discovery occurred when she identified the driver. She then has two years from July 2023 to commence her action.",
     "why_A_wrong": "Knowing that injury occurred and that a vehicle caused it does not satisfy s. 5(1)(c), which requires knowledge of the defendant's identity. Obiageli did not know who the driver was in 2021.",
     "why_B_wrong": "Simply stopping an investigation does not mean a claimant 'ought to have known' the defendant's identity if reasonable investigation did not reveal it. The objective standard considers what a reasonable person could discover with diligent effort.",
     "why_C_wrong": "This IS the correct answer. Section 5(1)(c) requires knowledge of the defendant's identity, which was not obtained until July 2023.",
@@ -462,7 +462,7 @@
       "D": "2026, because reliance on a lawyer's advice always suspends the limitation period"
     },
     "correct_answer": "B",
-    "explanation": "The discoverability standard in s. 5(1) of the Limitations Act, 2002 includes both a subjective and objective element: the claimant must know or ought to know the relevant facts. The 'ought to know' test is objective — it asks what a reasonable person with the claimant's abilities and circumstances would have known. Gideon was aware of the suspicious trades in 2020. A reasonable person in his position would have known enough to recognize that a proceeding was appropriate. Incorrect legal advice does not toll or suspend the limitation period. Discovery likely occurred in 2020, and the two-year period would have expired in 2022.",
+    "explanation": "Under Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 5(1), the discoverability standard in s. 5(1) of the Limitations Act, 2002 includes both a subjective and objective element: the claimant must know or ought to know the relevant facts. The 'ought to know' test is objective — it asks what a reasonable person with the claimant's abilities and circumstances would have known. Gideon was aware of the suspicious trades in 2020. A reasonable person in his position would have known enough to recognize that a proceeding was appropriate. Incorrect legal advice does not toll or suspend the limitation period. Discovery likely occurred in 2020, and the two-year period would have expired in 2022.",
     "why_A_wrong": "Subjective confirmation by a lawyer that a claim exists is not the test. The objective 'ought to know' standard applies, and Gideon likely knew enough in 2020.",
     "why_B_wrong": "This IS the correct answer. The objective standard in s. 5(1) applies regardless of incorrect legal advice; discovery likely occurred in 2020.",
     "why_C_wrong": "Incorrect legal advice does not pause, toll, or suspend the running of a limitation period under the Limitations Act, 2002.",
@@ -517,7 +517,7 @@
       "D": "The burden shifts between the parties depending on which party has better access to the relevant evidence"
     },
     "correct_answer": "C",
-    "explanation": "Section 5(2) of the Limitations Act, 2002 creates a presumption that a claim is presumed to have been discovered on the day the act or omission occurred. A plaintiff who wishes to rely on a later discovery date must rebut this presumption. The burden therefore rests on the plaintiff to establish that she did not know and could not reasonably have known the relevant facts on the earlier date.",
+    "explanation": "Under s.5(2) of the Limitations Act, 2002 creates a presumption that a claim is presumed to have been discovered on the day the act or omission occurred. A plaintiff who wishes to rely on a later discovery date must rebut this presumption. The burden therefore rests on the plaintiff to establish that she did not know and could not reasonably have known the relevant facts on the earlier date.",
     "why_A_wrong": "Section 5(2) creates a presumption favouring the defendant (i.e., that discovery occurred on the date of the act). The plaintiff must rebut it, not the defendant.",
     "why_B_wrong": "Courts do not determine discovery independently without regard to who bears the burden. Section 5(2) expressly places the onus on the plaintiff to rebut the presumption.",
     "why_C_wrong": "This IS the correct answer. The plaintiff bears the burden of rebutting the s. 5(2) presumption to establish a later discovery date.",

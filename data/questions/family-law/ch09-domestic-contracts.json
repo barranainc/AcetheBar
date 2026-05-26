@@ -19,7 +19,7 @@
       "D": "There is no recognized domestic contract for parties intending to marry; Sam and Alex must wait until after the wedding to negotiate their rights."
     },
     "correct_answer": "C",
-    "explanation": "Family Law Act s.52(1) defines a marriage contract as an agreement entered into by two persons who are married to each other or intend to marry, in which they agree on their respective rights and obligations under the marriage or on separation, annulment, dissolution of the marriage or death. A marriage contract (also called a prenuptial agreement) may address property division, spousal support, and other matters. It is the appropriate vehicle before marriage. A cohabitation agreement governs unmarried cohabiting couples; a separation agreement governs the terms of an existing separation.",
+    "explanation": "Under the Family Law Act s.52(1) defines a marriage contract as an agreement entered into by two persons who are married to each other or intend to marry, in which they agree on their respective rights and obligations under the marriage or on separation, annulment, dissolution of the marriage or death. A marriage contract (also called a prenuptial agreement) may address property division, spousal support, and other matters. It is the appropriate vehicle before marriage. A cohabitation agreement governs unmarried cohabiting couples; a separation agreement governs the terms of an existing separation.",
     "why_A_wrong": "A cohabitation agreement under FLA s.53 is designed for persons who are cohabiting or intend to cohabit outside of marriage. Since Sam and Alex intend to marry, a marriage contract — not a cohabitation agreement — is the appropriate instrument.",
     "why_B_wrong": "A separation agreement under FLA s.54 is entered into by persons who are married or who cohabited and are living separate and apart. Sam and Alex have not yet separated; a separation agreement is not available before marriage breakdown.",
     "why_C_wrong": "This IS the correct answer. FLA s.52 authorizes a marriage contract (prenuptial agreement) for persons who are married or intend to marry, governing their rights on separation, dissolution, or death.",
@@ -32,9 +32,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 52(1) (marriage contract), s. 53 (cohabitation agreement), s. 54 (separation agreement)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["marriage contract", "prenuptial", "FLA s.52", "cohabitation agreement", "separation agreement", "intend to marry"],
-    "tested_concepts": ["FLA s.52 marriage contract", "prenuptial agreement", "difference from cohabitation agreement", "difference from separation agreement"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "marriage contract",
+      "prenuptial",
+      "FLA s.52",
+      "cohabitation agreement",
+      "separation agreement",
+      "intend to marry"
+    ],
+    "tested_concepts": [
+      "FLA s.52 marriage contract",
+      "prenuptial agreement",
+      "difference from cohabitation agreement",
+      "difference from separation agreement"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -61,7 +76,7 @@
       "D": "A domestic contract requires notarization by a notary public to be valid; a signature alone is insufficient."
     },
     "correct_answer": "B",
-    "explanation": "Family Law Act s.55(1) provides that a domestic contract and an amendment to a domestic contract are unenforceable unless made in writing, signed by the parties, and witnessed. All three requirements — writing, signature, and witness — must be met for the contract to be valid and enforceable. Rachel and Tom's verbal handshake agreement does not satisfy any of these requirements. Without a written and witnessed signed document, the purported agreement is unenforceable as a domestic contract under the FLA.",
+    "explanation": "Under the Family Law Act s.55(1) provides that a domestic contract and an amendment to a domestic contract are unenforceable unless made in writing, signed by the parties, and witnessed. All three requirements — writing, signature, and witness — must be met for the contract to be valid and enforceable. Rachel and Tom's verbal handshake agreement does not satisfy any of these requirements. Without a written and witnessed signed document, the purported agreement is unenforceable as a domestic contract under the FLA.",
     "why_A_wrong": "Verbal agreements are specifically excluded from the definition of enforceable domestic contracts under FLA s.55(1). A handshake or oral confirmation does not create a binding domestic contract regardless of the parties' good faith.",
     "why_B_wrong": "This IS the correct answer. FLA s.55(1) requires the domestic contract to be in writing, signed by both parties, and witnessed. A verbal agreement does not meet any of these requirements.",
     "why_C_wrong": "Two witnesses observing a verbal agreement does not satisfy FLA s.55(1). The requirements are conjunctive: the contract must be in writing AND signed AND witnessed. Oral agreements, however witnessed, are not enforceable domestic contracts.",
@@ -74,9 +89,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 55(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["FLA s.55", "writing", "signed", "witnessed", "verbal agreement", "formal requirements"],
-    "tested_concepts": ["FLA s.55(1) writing signed witnessed", "verbal agreement unenforceable", "three conjunctive requirements", "no notarization required"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FLA s.55",
+      "writing",
+      "signed",
+      "witnessed",
+      "verbal agreement",
+      "formal requirements"
+    ],
+    "tested_concepts": [
+      "FLA s.55(1) writing signed witnessed",
+      "verbal agreement unenforceable",
+      "three conjunctive requirements",
+      "no notarization required"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -103,7 +133,7 @@
       "D": "Fraud — Leon deceived Katerina about the legal effect of the contract."
     },
     "correct_answer": "C",
-    "explanation": "Family Law Act s.56(4) provides that a court may set aside a domestic contract or provision if a party failed to disclose significant assets/debts, did not understand the nature/consequences of the contract, or 'otherwise in accordance with the law of contract.' The grounds 'in accordance with the law of contract' import common law and equity grounds including duress and undue influence. Leon's threat to destroy Katerina's relationship with the children (a threat designed to coerce her into signing) accompanied by denial of time to obtain legal advice constitutes duress (or at minimum, undue influence). These are the most directly applicable grounds on these specific facts.",
+    "explanation": "Under the Family Law Act s.56(4) provides that a court may set aside a domestic contract or provision if a party failed to disclose significant assets/debts, did not understand the nature/consequences of the contract, or 'otherwise in accordance with the law of contract.' The grounds 'in accordance with the law of contract' import common law and equity grounds including duress and undue influence. Leon's threat to destroy Katerina's relationship with the children (a threat designed to coerce her into signing) accompanied by denial of time to obtain legal advice constitutes duress (or at minimum, undue influence). These are the most directly applicable grounds on these specific facts.",
     "why_A_wrong": "Unconscionability is a ground for setting aside under FLA s.56(4), but it requires showing that the contract was so grossly unfair as to shock the conscience of the court. The facts do not describe the terms of the agreement as grossly unfair; the concern here is the coercive process of signing, which is better captured by duress.",
     "why_B_wrong": "Failure to disclose significant assets under FLA s.56(4)(a) requires evidence that Leon concealed assets or liabilities. The facts do not describe non-disclosure of assets; the issue is coercive conduct at the time of signing.",
     "why_C_wrong": "This IS the correct answer. Leon's threats and time pressure with denial of legal advice constitute duress or undue influence under FLA s.56(4), specifically through the 'in accordance with the law of contract' gateway importing these equitable and common law doctrines.",
@@ -116,10 +146,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 56(4)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["set aside", "FLA s.56(4)", "duress", "undue influence", "coercion", "no independent legal advice"],
-    "tested_concepts": ["FLA s.56(4) grounds for setting aside", "duress and undue influence", "law of contract gateway", "threat as coercion"],
-    "estimated_time_seconds": 90,
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "set aside",
+      "FLA s.56(4)",
+      "duress",
+      "undue influence",
+      "coercion",
+      "no independent legal advice"
+    ],
+    "tested_concepts": [
+      "FLA s.56(4) grounds for setting aside",
+      "duress and undue influence",
+      "law of contract gateway",
+      "threat as coercion"
+    ],
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
@@ -145,7 +190,7 @@
       "D": "Gerald's non-disclosure automatically voids the marriage contract without the need for a court application."
     },
     "correct_answer": "C",
-    "explanation": "Family Law Act s.56(4)(a) provides that a court may set aside a domestic contract or a provision where a party failed to disclose to the other significant assets or significant debts or other liabilities existing when the domestic contract was made. Non-disclosure of a $1.2 million investment portfolio and a $400,000 RRSP — while disclosing only a $500,000 home — constitutes a significant omission of material assets that existed at the time of signing. Linda has strong grounds to seek judicial rescission of the marriage contract. The court has discretion and will consider all circumstances including what the parties would likely have agreed had full disclosure been made.",
+    "explanation": "Under the Family Law Act s.56(4)(a) provides that a court may set aside a domestic contract or a provision where a party failed to disclose to the other significant assets or significant debts or other liabilities existing when the domestic contract was made. Non-disclosure of a $1.2 million investment portfolio and a $400,000 RRSP — while disclosing only a $500,000 home — constitutes a significant omission of material assets that existed at the time of signing. Linda has strong grounds to seek judicial rescission of the marriage contract. The court has discretion and will consider all circumstances including what the parties would likely have agreed had full disclosure been made.",
     "why_A_wrong": "Non-disclosure of significant assets is expressly listed as a statutory ground for setting aside a domestic contract under FLA s.56(4)(a). It is one of three enumerated grounds alongside lack of understanding and other contract law grounds.",
     "why_B_wrong": "FLA s.56(4)(a) does not require Linda to prove that she would have refused to sign had she known of all the assets. The court has discretion to set aside the contract upon proof of significant non-disclosure, considering all the circumstances.",
     "why_C_wrong": "This IS the correct answer. FLA s.56(4)(a) is directly engaged by Gerald's failure to disclose approximately $1.6 million in assets at the time of the marriage contract, providing Linda with a strong basis to seek to set aside the contract.",
@@ -158,9 +203,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 56(4)(a)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["non-disclosure", "FLA s.56(4)(a)", "significant assets", "set aside", "marriage contract"],
-    "tested_concepts": ["FLA s.56(4)(a) non-disclosure ground", "significant assets omitted", "court discretion to set aside", "not automatic void"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "non-disclosure",
+      "FLA s.56(4)(a)",
+      "significant assets",
+      "set aside",
+      "marriage contract"
+    ],
+    "tested_concepts": [
+      "FLA s.56(4)(a) non-disclosure ground",
+      "significant assets omitted",
+      "court discretion to set aside",
+      "not automatic void"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -187,7 +246,7 @@
       "D": "A child support waiver in a separation agreement is valid and binding; the parties may contract out of their right to seek child support forever."
     },
     "correct_answer": "B",
-    "explanation": "Family Law Act s.56(1) provides that in the determination of a matter respecting the education, moral training, custody of or access to a child, the court is not bound by a provision of a domestic contract respecting such matters and shall disregard it if, in the opinion of the court, to do so is in the best interests of the child. As for child support, no domestic contract can permanently waive or extinguish child support; courts will override contractual provisions that are inconsistent with the applicable child support guidelines (Miglin v. Miglin, [2003] 1 SCR 303, applied to child support principle). Ian's waiver of access is not binding on him if he later seeks access, and Donna's contractual waiver of child support is not binding on the child's best interests.",
+    "explanation": "Under the Family Law Act s.56(1) provides that in the determination of a matter respecting the education, moral training, custody of or access to a child, the court is not bound by a provision of a domestic contract respecting such matters and shall disregard it if, in the opinion of the court, to do so is in the best interests of the child. As for child support, no domestic contract can permanently waive or extinguish child support; courts will override contractual provisions that are inconsistent with the applicable child support guidelines (Miglin v. Miglin, [2003] 1 SCR 303, applied to child support principle). Ian's waiver of access is not binding on him if he later seeks access, and Donna's contractual waiver of child support is not binding on the child's best interests.",
     "why_A_wrong": "Domestic contract provisions on child support and access are explicitly not binding on the court under FLA s.56(1). The best interests of the child always override private contractual arrangements in this domain.",
     "why_B_wrong": "This IS the correct answer. FLA s.56(1) allows courts to disregard domestic contract provisions on education, moral training, custody, and access in the child's best interests; child support cannot be permanently waived by contract.",
     "why_C_wrong": "Domestic contracts may and routinely do address child support and access arrangements. FLA s.56(1) does not prohibit this; it simply ensures these provisions can be overridden by the court in the child's best interests.",
@@ -200,9 +259,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 56(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["FLA s.56(1)", "child support waiver", "access waiver", "best interests override", "domestic contract limits"],
-    "tested_concepts": ["FLA s.56(1) court not bound by child provisions", "child support belongs to child", "best interests override contract", "access waiver not enforceable"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FLA s.56(1)",
+      "child support waiver",
+      "access waiver",
+      "best interests override",
+      "domestic contract limits"
+    ],
+    "tested_concepts": [
+      "FLA s.56(1) court not bound by child provisions",
+      "child support belongs to child",
+      "best interests override contract",
+      "access waiver not enforceable"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -229,7 +302,7 @@
       "D": "A marriage contract may validly address all post-separation matters including spousal support and property; the label is legally irrelevant because the FLA treats all Part IV domestic contracts identically for enforcement purposes."
     },
     "correct_answer": "C",
-    "explanation": "Family Law Act s.52 defines a marriage contract as an agreement between persons who are married or intend to marry, dealing with rights and obligations during the marriage or on separation, annulment, dissolution, or death. FLA s.54 defines a separation agreement as an agreement entered into by persons who have cohabited and are now living separate and apart, in which they agree on their respective rights and obligations. Although both are Part IV domestic contracts, they are distinct instruments designed for different phases of the relationship. A marriage contract executed post-separation may create ambiguity about whether it properly falls within s.52 — which governs marriage-phase planning — versus the s.54 separation agreement, which triggers specific statutory provisions including FLA s.56(1) (court may override parenting provisions) and s.56(4) (grounds for setting aside). Mislabelling may affect enforcement, create interpretive disputes, and may not engage the intended statutory regime. Best practice is to use a separation agreement (s.54) for post-separation settlements.",
+    "explanation": "Under the Family Law Act s.52 defines a marriage contract as an agreement between persons who are married or intend to marry, dealing with rights and obligations during the marriage or on separation, annulment, dissolution, or death. FLA s.54 defines a separation agreement as an agreement entered into by persons who have cohabited and are now living separate and apart, in which they agree on their respective rights and obligations. Although both are Part IV domestic contracts, they are distinct instruments designed for different phases of the relationship. A marriage contract executed post-separation may create ambiguity about whether it properly falls within s.52 — which governs marriage-phase planning — versus the s.54 separation agreement, which triggers specific statutory provisions including FLA s.56(1) (court may override parenting provisions) and s.56(4) (grounds for setting aside). Mislabelling may affect enforcement, create interpretive disputes, and may not engage the intended statutory regime. Best practice is to use a separation agreement (s.54) for post-separation settlements.",
     "why_A_wrong": "Exception Trap. While marriage contracts and separation agreements are both Part IV domestic contracts, they are not fully interchangeable. Each is governed by distinct definitional provisions (ss.52 vs 54) and may engage different enforceability considerations. The label and proper statutory characterization are legally significant.",
     "why_B_wrong": "Overstatement Trap. A marriage contract is not automatically invalid if executed after separation. FLA s.52 is broad enough to include agreements between married persons addressing rights on separation. However, the parties are better served by using the correct instrument — a s.54 separation agreement — to engage the full statutory framework applicable to post-separation settlements.",
     "why_C_wrong": "This IS the correct answer. FLA s.54 is the appropriate instrument for settling post-separation affairs; using a marriage contract label creates ambiguity about the applicable statutory regime and may affect enforceability under ss.55–56.",
@@ -242,9 +315,26 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 52 (marriage contract), s. 54 (separation agreement), s. 55 (formalities), s. 56 (setting aside)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["marriage contract", "separation agreement", "FLA s.52", "FLA s.54", "wrong type of contract", "legal consequence", "enforceability"],
-    "tested_concepts": ["FLA s.52 vs s.54 distinct instruments not interchangeable", "separation agreement correct for post-separation settlement", "wrong contract type creates ambiguity and risk", "FLA ss.55-56 apply by instrument type", "marriage contract not automatically invalid post-separation"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "marriage contract",
+      "separation agreement",
+      "FLA s.52",
+      "FLA s.54",
+      "wrong type of contract",
+      "legal consequence",
+      "enforceability"
+    ],
+    "tested_concepts": [
+      "FLA s.52 vs s.54 distinct instruments not interchangeable",
+      "separation agreement correct for post-separation settlement",
+      "wrong contract type creates ambiguity and risk",
+      "FLA ss.55-56 apply by instrument type",
+      "marriage contract not automatically invalid post-separation"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -271,7 +361,7 @@
       "D": "Yes — parenting provisions in a separation agreement are binding unless the child has reached 12 years of age and objects."
     },
     "correct_answer": "B",
-    "explanation": "Family Law Act s.56(1) expressly provides that in the determination of matters respecting education, moral training, or custody of or access to a child, the court is not bound by a provision of a domestic contract and shall disregard it if, in the opinion of the court, to do so is in the best interests of the child. The separation agreement is a relevant factor the court will consider and give weight to — particularly if it was negotiated by informed parties who had the children's interests in mind — but it is not binding. The court must independently assess the current best interests of the children, including their changed preferences and needs. This is a statutory protection ensuring the paramountcy of the best interests principle.",
+    "explanation": "Under the Family Law Act s.56(1) expressly provides that in the determination of matters respecting education, moral training, or custody of or access to a child, the court is not bound by a provision of a domestic contract and shall disregard it if, in the opinion of the court, to do so is in the best interests of the child. The separation agreement is a relevant factor the court will consider and give weight to — particularly if it was negotiated by informed parties who had the children's interests in mind — but it is not binding. The court must independently assess the current best interests of the children, including their changed preferences and needs. This is a statutory protection ensuring the paramountcy of the best interests principle.",
     "why_A_wrong": "FLA s.56(1) expressly provides that the court is not bound by domestic contract provisions on custody and access and shall disregard them where the best interests of the child require it. The contract is a consideration, not a determinative constraint.",
     "why_B_wrong": "This IS the correct answer. FLA s.56(1) makes parenting provisions in domestic contracts non-binding on the court; the best interests of the child always take precedence over the contractual arrangement.",
     "why_C_wrong": "Parenting agreements are not void for public policy. They are valid contracts, enforceable between the parties as contracts, but the court is not bound by them and may override them in the child's best interests under FLA s.56(1).",
@@ -284,9 +374,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 56(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["FLA s.56(1)", "court not bound", "parenting provisions", "best interests override", "separation agreement"],
-    "tested_concepts": ["FLA s.56(1) court not bound by parenting provisions", "best interests override contract", "agreement relevant starting point", "no age threshold"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FLA s.56(1)",
+      "court not bound",
+      "parenting provisions",
+      "best interests override",
+      "separation agreement"
+    ],
+    "tested_concepts": [
+      "FLA s.56(1) court not bound by parenting provisions",
+      "best interests override contract",
+      "agreement relevant starting point",
+      "no age threshold"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -313,7 +417,7 @@
       "D": "A cohabitation agreement converts to a separation agreement upon marriage, applicable only if they subsequently separate."
     },
     "correct_answer": "B",
-    "explanation": "Family Law Act s.53(2) provides that if persons who have entered into a cohabitation agreement marry each other, the agreement is deemed to be a marriage contract. This automatic conversion means that upon marriage, the cohabitation agreement takes on the legal status and effect of a marriage contract, without the need for renegotiation or a new document. Julia's lawyer's advice that the agreement becomes void is incorrect. The parties should review the terms to confirm they remain appropriate and obtain legal advice, but the existing agreement is legally preserved by s.53(2).",
+    "explanation": "Under the Family Law Act s.53(2) provides that if persons who have entered into a cohabitation agreement marry each other, the agreement is deemed to be a marriage contract. This automatic conversion means that upon marriage, the cohabitation agreement takes on the legal status and effect of a marriage contract, without the need for renegotiation or a new document. Julia's lawyer's advice that the agreement becomes void is incorrect. The parties should review the terms to confirm they remain appropriate and obtain legal advice, but the existing agreement is legally preserved by s.53(2).",
     "why_A_wrong": "FLA s.53(2) expressly preserves a cohabitation agreement upon marriage by converting it to a marriage contract by operation of law. The agreement is not void; it is upgraded in status.",
     "why_B_wrong": "This IS the correct answer. FLA s.53(2) deems a cohabitation agreement to be a marriage contract upon the parties marrying, preserving the agreement without requiring renegotiation.",
     "why_C_wrong": "A cohabitation agreement deemed to be a marriage contract under FLA s.53(2) retains its full contractual force. It does not become merely advisory; it is a legally binding marriage contract.",
@@ -326,9 +430,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 53(2)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["cohabitation agreement", "marriage contract", "FLA s.53(2)", "deemed marriage contract", "conversion on marriage"],
-    "tested_concepts": ["FLA s.53(2) conversion on marriage", "cohabitation agreement becomes marriage contract", "not void on marriage", "no renegotiation required"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "cohabitation agreement",
+      "marriage contract",
+      "FLA s.53(2)",
+      "deemed marriage contract",
+      "conversion on marriage"
+    ],
+    "tested_concepts": [
+      "FLA s.53(2) conversion on marriage",
+      "cohabitation agreement becomes marriage contract",
+      "not void on marriage",
+      "no renegotiation required"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -355,7 +473,7 @@
       "D": "The limitation period is 10 years from the date of the marriage."
     },
     "correct_answer": "B",
-    "explanation": "Applications to set aside domestic contracts under FLA s.56(4) are civil law claims subject to the Limitations Act, 2002. The basic limitation period is two years from the date the claim was discovered (s.4 of the Limitations Act, 2002). The discovery rule means the period runs from the date Helen knew or ought to have known of the non-disclosure and that it would be an appropriate basis for seeking relief. If Helen has known of the non-disclosure for approximately 5 years, the two-year limitation may have expired approximately 3 years ago, potentially making her claim statute-barred. The husband's argument has merit.",
+    "explanation": "Under Family Law Act, R.S.O. 1990, c. F.3, s. 56(4), Applications to set aside domestic contracts under FLA s.56(4) are civil law claims subject to the Limitations Act, 2002. The basic limitation period is two years from the date the claim was discovered (s.4 of the Limitations Act, 2002). The discovery rule means the period runs from the date Helen knew or ought to have known of the non-disclosure and that it would be an appropriate basis for seeking relief. If Helen has known of the non-disclosure for approximately 5 years, the two-year limitation may have expired approximately 3 years ago, potentially making her claim statute-barred. The husband's argument has merit.",
     "why_A_wrong": "Applications to set aside domestic contracts are civil claims subject to the Limitations Act, 2002 two-year limitation period. There is no unlimited time to bring such applications.",
     "why_B_wrong": "This IS the correct answer. Setting aside a domestic contract is subject to the Limitations Act, 2002 two-year period from discovery; knowing of non-disclosure for 5 years likely means the claim is statute-barred.",
     "why_C_wrong": "No six-year limitation period applies to setting aside domestic contracts. The Limitations Act, 2002 basic period is two years from discovery, not six years from signing.",
@@ -368,9 +486,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 56(4); Limitations Act, 2002, S.O. 2002, c. 24, Sched. B, s. 4"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["limitation period", "set aside domestic contract", "FLA s.56(4)", "Limitations Act two years", "discovery rule"],
-    "tested_concepts": ["Limitations Act 2002 two-year period", "discovery-based limitation", "setting aside domestic contract time-limited", "FLA s.56(4) claim"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "limitation period",
+      "set aside domestic contract",
+      "FLA s.56(4)",
+      "Limitations Act two years",
+      "discovery rule"
+    ],
+    "tested_concepts": [
+      "Limitations Act 2002 two-year period",
+      "discovery-based limitation",
+      "setting aside domestic contract time-limited",
+      "FLA s.56(4) claim"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -397,7 +529,7 @@
       "D": "The agreement cannot be set aside because Sandra had the opportunity to conduct independent inquiry and obtain her own financial information."
     },
     "correct_answer": "B",
-    "explanation": "Family Law Act s.56(4)(a) provides that a court may set aside a domestic contract or a provision where a party 'failed to disclose to the other significant assets or significant debts or other liabilities existing when the domestic contract was made.' The provision expressly covers both assets and debts/liabilities — not only assets. A personal guarantee of $300,000 is a 'significant liability' within the meaning of s.56(4)(a), particularly where it was not disclosed despite a direct inquiry about liabilities. The non-disclosure of this significant liability is a clear statutory ground for seeking to set aside the agreement. The court has discretion and will consider all circumstances, including the impact on the equalization result had the guarantee been disclosed.",
+    "explanation": "Under the Family Law Act s.56(4)(a) provides that a court may set aside a domestic contract or a provision where a party 'failed to disclose to the other significant assets or significant debts or other liabilities existing when the domestic contract was made.' The provision expressly covers both assets and debts/liabilities — not only assets. A personal guarantee of $300,000 is a 'significant liability' within the meaning of s.56(4)(a), particularly where it was not disclosed despite a direct inquiry about liabilities. The non-disclosure of this significant liability is a clear statutory ground for seeking to set aside the agreement. The court has discretion and will consider all circumstances, including the impact on the equalization result had the guarantee been disclosed.",
     "why_A_wrong": "FLA s.56(4)(a) expressly includes 'significant debts or other liabilities' as well as significant assets. Non-disclosure of a significant debt or contingent liability is an equally valid ground for setting aside.",
     "why_B_wrong": "This IS the correct answer. FLA s.56(4)(a) covers non-disclosure of both assets and debts/liabilities; a $300,000 undisclosed guarantee despite a direct inquiry is a significant liability that may ground a successful application to set aside.",
     "why_C_wrong": "The contingent nature of a guarantee does not necessarily remove it from the scope of significant liabilities under FLA s.56(4)(a). Courts assess the significance of the undisclosed liability in the context of the agreement and the parties' overall financial positions.",
@@ -410,9 +542,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Act, R.S.O. 1990, c. F.3, s. 56(4)(a)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["non-disclosure", "FLA s.56(4)(a)", "significant liabilities", "debts", "set aside", "guarantee"],
-    "tested_concepts": ["FLA s.56(4)(a) covers debts not only assets", "significant liability non-disclosure", "guarantee as significant liability", "disclosure obligation on each party"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "non-disclosure",
+      "FLA s.56(4)(a)",
+      "significant liabilities",
+      "debts",
+      "set aside",
+      "guarantee"
+    ],
+    "tested_concepts": [
+      "FLA s.56(4)(a) covers debts not only assets",
+      "significant liability non-disclosure",
+      "guarantee as significant liability",
+      "disclosure obligation on each party"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",

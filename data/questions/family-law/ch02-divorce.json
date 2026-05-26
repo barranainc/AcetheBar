@@ -32,9 +32,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 8(1), s. 8(2)(a)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["one year separation", "marriage breakdown", "DA s.8(3)", "reconciliation exception", "90 days", "separate and apart"],
-    "tested_concepts": ["DA s.8(2)(a) one-year separation period", "DA s.8(3) 90-day reconciliation exception", "separation period not restarted by brief reconciliation", "no additional proof of irretrievable breakdown"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "one year separation",
+      "marriage breakdown",
+      "DA s.8(3)",
+      "reconciliation exception",
+      "90 days",
+      "separate and apart"
+    ],
+    "tested_concepts": [
+      "DA s.8(2)(a) one-year separation period",
+      "DA s.8(3) 90-day reconciliation exception",
+      "separation period not restarted by brief reconciliation",
+      "no additional proof of irretrievable breakdown"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -74,9 +89,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 8(2)(b)(i), s. 10(4)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["adultery", "DA s.8(2)(b)", "no waiting period", "balance of probabilities", "cannot be compelled"],
-    "tested_concepts": ["adultery as divorce ground", "DA s.8(2)(b)(i)", "civil standard of proof", "no compulsion to testify"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "adultery",
+      "DA s.8(2)(b)",
+      "no waiting period",
+      "balance of probabilities",
+      "cannot be compelled"
+    ],
+    "tested_concepts": [
+      "adultery as divorce ground",
+      "DA s.8(2)(b)(i)",
+      "civil standard of proof",
+      "no compulsion to testify"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -116,9 +145,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), ss. 15.1, 15.2, 16; Family Law Act, R.S.O. 1990, c. F.3, Part I"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["corollary relief", "divorce proceedings", "property division", "federal vs provincial", "DA ss.15.1 15.2 16"],
-    "tested_concepts": ["corollary relief under DA", "property division provincial", "FLA Part I", "support and parenting in divorce"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "corollary relief",
+      "divorce proceedings",
+      "property division",
+      "federal vs provincial",
+      "DA ss.15.1 15.2 16"
+    ],
+    "tested_concepts": [
+      "corollary relief under DA",
+      "property division provincial",
+      "FLA Part I",
+      "support and parenting in divorce"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -145,7 +188,7 @@
       "D": "There is no bar; the parties' private agreement about how to plead the divorce cannot be reviewed by the court once proceedings are commenced."
     },
     "correct_answer": "C",
-    "explanation": "Collusion under DA s.11(1)(b) is defined as an agreement, conspiracy, or arrangement to fabricate or suppress evidence or to deceive the court in relation to the divorce proceeding. Fabricating an adultery allegation to avoid the one-year separation period is a classic example of collusion. Under DA s.11(1)(a), the court has a duty to satisfy itself that there has been no collusion. If collusion is found, the court must (s.11(3)) stay or dismiss the divorce application. Collusion is an absolute bar — unlike condonation and connivance, the court may not exercise discretion to proceed despite collusion.",
+    "explanation": "Under Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 11(1)(a), s. 11(1)(b), s. 11(3), Collusion under DA s.11(1)(b) is defined as an agreement, conspiracy, or arrangement to fabricate or suppress evidence or to deceive the court in relation to the divorce proceeding. Fabricating an adultery allegation to avoid the one-year separation period is a classic example of collusion. Under DA s.11(1)(a), the court has a duty to satisfy itself that there has been no collusion. If collusion is found, the court must (s.11(3)) stay or dismiss the divorce application. Collusion is an absolute bar — unlike condonation and connivance, the court may not exercise discretion to proceed despite collusion.",
     "why_A_wrong": "Condonation involves forgiving a proven matrimonial offence (such as actual adultery), typically by resuming cohabitation after learning of the offence. Here, the adultery is fabricated entirely, so condonation does not apply.",
     "why_B_wrong": "Connivance involves wilfully encouraging or acquiescing in the respondent's actual matrimonial offence. Since the adultery in this scenario did not actually occur, connivance does not apply.",
     "why_C_wrong": "This IS the correct answer. Fabricating a divorce ground to deceive the court is collusion under DA s.11(1)(b), and the court has a mandatory duty under s.11(1)(a) to inquire into and refuse to grant a divorce if collusion exists.",
@@ -158,10 +201,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 11(1)(a), s. 11(1)(b), s. 11(3)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["collusion", "condonation", "connivance", "DA s.11", "bars to divorce", "fabricate ground"],
-    "tested_concepts": ["collusion DA s.11(1)(b)", "court duty DA s.11(1)(a)", "absolute bar vs discretionary bar", "collusion vs connivance vs condonation"],
-    "estimated_time_seconds": 90,
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "collusion",
+      "condonation",
+      "connivance",
+      "DA s.11",
+      "bars to divorce",
+      "fabricate ground"
+    ],
+    "tested_concepts": [
+      "collusion DA s.11(1)(b)",
+      "court duty DA s.11(1)(a)",
+      "absolute bar vs discretionary bar",
+      "collusion vs connivance vs condonation"
+    ],
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
@@ -200,9 +258,26 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 3(1), s. 3(2)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["concurrent jurisdiction", "ordinarily resident", "one year", "DA s.3(2)", "both spouses different provinces", "inter-court transfer", "stay of proceedings"],
-    "tested_concepts": ["DA s.3(1) both spouses satisfy one-year requirement", "concurrent jurisdiction in two provinces", "DA s.3(2) inter-court mechanism", "no race-to-file rule", "no respondent-province priority"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "concurrent jurisdiction",
+      "ordinarily resident",
+      "one year",
+      "DA s.3(2)",
+      "both spouses different provinces",
+      "inter-court transfer",
+      "stay of proceedings"
+    ],
+    "tested_concepts": [
+      "DA s.3(1) both spouses satisfy one-year requirement",
+      "concurrent jurisdiction in two provinces",
+      "DA s.3(2) inter-court mechanism",
+      "no race-to-file rule",
+      "no respondent-province priority"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -229,7 +304,7 @@
       "D": "An uncontested divorce still requires both parties to attend a brief court hearing before a judge; affidavit-only procedure is available only for marriages of less than five years."
     },
     "correct_answer": "B",
-    "explanation": "Ontario's Family Law Rules r. 36 provides for a joint application for divorce where both spouses consent and agree on all issues. Both are named as co-applicants and the matter proceeds on affidavit evidence reviewed by a judge in chambers — without any court appearance. This is commonly called a 'desk order divorce.' Critically, DA s.21.1 imposes an obligation on the applicant to file an affidavit confirming that they are not aware of any barriers to the other party's remarriage that they have not taken reasonable steps to remove. This requirement reflects the legislature's sensitivity to religious barriers (e.g., a get under Jewish law). The separation agreement itself does not dissolve the marriage — only a court order does. The judge reviews the materials to ensure compliance with the Divorce Act, including bar requirements under DA s.11.",
+    "explanation": "Under Family Law Rules, O. Reg. 114/99, r. 36, Ontario's Family Law Rules r. 36 provides for a joint application for divorce where both spouses consent and agree on all issues. Both are named as co-applicants and the matter proceeds on affidavit evidence reviewed by a judge in chambers — without any court appearance. This is commonly called a 'desk order divorce.' Critically, DA s.21.1 imposes an obligation on the applicant to file an affidavit confirming that they are not aware of any barriers to the other party's remarriage that they have not taken reasonable steps to remove. This requirement reflects the legislature's sensitivity to religious barriers (e.g., a get under Jewish law). The separation agreement itself does not dissolve the marriage — only a court order does. The judge reviews the materials to ensure compliance with the Divorce Act, including bar requirements under DA s.11.",
     "why_A_wrong": "Pragmatic Bluff. A signed separation agreement does not dissolve a marriage. Only a court order grants a divorce. The court must review and approve the divorce application, even in an uncontested proceeding. The court registrar has no authority to grant a divorce.",
     "why_B_wrong": "This IS the correct answer. Family Law Rules r. 36 permits a joint application on affidavit evidence without court attendance; DA s.21.1 additionally requires an affidavit confirming no barriers to remarriage.",
     "why_C_wrong": "Wrong Procedure Trap. Joint divorce applications are expressly available under Ontario's Family Law Rules r. 36 and are the standard approach for uncontested divorces. Separate applications are unnecessary and inefficient where both parties agree.",
@@ -242,9 +317,26 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Rules, O. Reg. 114/99, r. 36; Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 8"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["joint application", "uncontested divorce", "desk order", "affidavit evidence", "DA s.21.1", "barriers to remarriage", "Family Law Rules r. 36"],
-    "tested_concepts": ["joint divorce application Family Law Rules r. 36", "desk order no court appearance", "DA s.21.1 barriers to remarriage affidavit", "separation agreement does not dissolve marriage", "judge reviews in chambers"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "joint application",
+      "uncontested divorce",
+      "desk order",
+      "affidavit evidence",
+      "DA s.21.1",
+      "barriers to remarriage",
+      "Family Law Rules r. 36"
+    ],
+    "tested_concepts": [
+      "joint divorce application Family Law Rules r. 36",
+      "desk order no court appearance",
+      "DA s.21.1 barriers to remarriage affidavit",
+      "separation agreement does not dissolve marriage",
+      "judge reviews in chambers"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -284,9 +376,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 17(4.1); Leskun v. Leskun, [2006] 1 SCR 920"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["variation", "corollary relief", "DA s.17", "material change", "new family obligations", "remarriage"],
-    "tested_concepts": ["DA s.17(4.1) material change test", "Leskun material change", "voluntary new obligations", "first family priority"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "variation",
+      "corollary relief",
+      "DA s.17",
+      "material change",
+      "new family obligations",
+      "remarriage"
+    ],
+    "tested_concepts": [
+      "DA s.17(4.1) material change test",
+      "Leskun material change",
+      "voluntary new obligations",
+      "first family priority"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -313,7 +420,7 @@
       "D": "No — property can only be divided by a separate Ontario Court of Justice proceeding; the Superior Court of Justice has no jurisdiction over property in divorce cases."
     },
     "correct_answer": "B",
-    "explanation": "The Divorce Act is federal legislation and deals with corollary relief: spousal support (s.15.2), child support (s.15.1), and parenting orders (s.16). Property division is not included in the Divorce Act's corollary relief regime. Property division between spouses in Ontario is governed exclusively by the Family Law Act, R.S.O. 1990, c. F.3, Part I (equalization of net family property). While the same Superior Court of Justice judge may hear both the divorce and the FLA property claim simultaneously, the property claim is brought under the FLA, not the Divorce Act. The court's jurisdiction over property rests on provincial law, not the federal divorce statute.",
+    "explanation": "Under the Divorce Act is federal legislation and deals with corollary relief: spousal support (s.15.2), child support (s.15.1), and parenting orders (s.16). Property division is not included in the Divorce Act's corollary relief regime. Property division between spouses in Ontario is governed exclusively by the Family Law Act, R.S.O. 1990, c. F.3, Part I (equalization of net family property). While the same Superior Court of Justice judge may hear both the divorce and the FLA property claim simultaneously, the property claim is brought under the FLA, not the Divorce Act. The court's jurisdiction over property rests on provincial law, not the federal divorce statute.",
     "why_A_wrong": "The Divorce Act does not confer jurisdiction over property division. The corollary relief provisions in the DA (ss.15.1, 15.2, 16) cover support and parenting only. Property division is provincial, governed by the FLA.",
     "why_B_wrong": "This IS the correct answer. Property division under FLA Part I is a provincial matter; the Divorce Act does not address property division; both claims may be heard concurrently by the same judge but under different statutes.",
     "why_C_wrong": "Consent does not give a court jurisdiction it does not otherwise possess. The Divorce Act does not grant jurisdiction over property division even with consent of the parties.",
@@ -326,9 +433,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), ss. 15.1, 15.2, 16; Family Law Act, R.S.O. 1990, c. F.3, Part I"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["property division", "Divorce Act", "FLA", "corollary relief", "equalization", "jurisdiction"],
-    "tested_concepts": ["DA does not divide property", "FLA Part I property division", "DA corollary relief limited to support and parenting", "concurrent jurisdiction"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "property division",
+      "Divorce Act",
+      "FLA",
+      "corollary relief",
+      "equalization",
+      "jurisdiction"
+    ],
+    "tested_concepts": [
+      "DA does not divide property",
+      "FLA Part I property division",
+      "DA corollary relief limited to support and parenting",
+      "concurrent jurisdiction"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -368,9 +490,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 11(1)(c), s. 11(2)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["condonation", "DA s.11(1)(c)", "adultery bar", "forgiveness", "reconciliation", "court discretion"],
-    "tested_concepts": ["condonation DA s.11(1)(c)", "not absolute bar unlike collusion", "court discretion s.11(2)", "public interest test"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "condonation",
+      "DA s.11(1)(c)",
+      "adultery bar",
+      "forgiveness",
+      "reconciliation",
+      "court discretion"
+    ],
+    "tested_concepts": [
+      "condonation DA s.11(1)(c)",
+      "not absolute bar unlike collusion",
+      "court discretion s.11(2)",
+      "public interest test"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -397,7 +534,7 @@
       "D": "The court must first apply the SSAG formula and may not consider any factors beyond the SSAG calculation."
     },
     "correct_answer": "C",
-    "explanation": "Divorce Act s.15.2(4) requires the court to consider 'the condition, means, needs and other circumstances' of each spouse, and specifically directs the court to consider: (a) the length of time the spouses cohabited; (b) the functions performed by each spouse during cohabitation; and (c) any order, agreement, or arrangement relating to support of either spouse. These factors are broader than financial need alone. The SSAG are advisory tools that assist with quantum, but they do not replace the statutory factors in s.15.2(4). The court must engage with the statutory framework before (and in addition to) consulting the SSAG.",
+    "explanation": "Under the Divorce Act s.15.2(4) requires the court to consider 'the condition, means, needs and other circumstances' of each spouse, and specifically directs the court to consider: (a) the length of time the spouses cohabited; (b) the functions performed by each spouse during cohabitation; and (c) any order, agreement, or arrangement relating to support of either spouse. These factors are broader than financial need alone. The SSAG are advisory tools that assist with quantum, but they do not replace the statutory factors in s.15.2(4). The court must engage with the statutory framework before (and in addition to) consulting the SSAG.",
     "why_A_wrong": "DA s.15.2(4) requires consideration of a broad range of factors beyond the claimant's financial needs. The statute expressly directs the court to consider length of cohabitation, functions performed, and existing support arrangements.",
     "why_B_wrong": "The statutory framework under DA s.15.2(4) requires consideration of the circumstances of both spouses and multiple additional factors. It is not limited to the payor's means and the claimant's needs.",
     "why_C_wrong": "This IS the correct answer. DA s.15.2(4) sets out a multi-factor framework including length of cohabitation, functions performed, and existing support arrangements, all of which must be considered in determining amount and duration.",
@@ -410,9 +547,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2(4)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["DA s.15.2(4)", "spousal support factors", "condition means needs circumstances", "length of cohabitation", "functions performed"],
-    "tested_concepts": ["DA s.15.2(4) multi-factor test", "length of cohabitation", "functions performed", "SSAG supplementary not replacing statutory factors"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "DA s.15.2(4)",
+      "spousal support factors",
+      "condition means needs circumstances",
+      "length of cohabitation",
+      "functions performed"
+    ],
+    "tested_concepts": [
+      "DA s.15.2(4) multi-factor test",
+      "length of cohabitation",
+      "functions performed",
+      "SSAG supplementary not replacing statutory factors"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -439,7 +590,7 @@
       "D": "Wendy's obligation to seek work is irrelevant because the support order is already in place; the court cannot consider self-sufficiency in a variation application."
     },
     "correct_answer": "B",
-    "explanation": "Divorce Act s.15.2(6)(d) requires that a spousal support order 'insofar as practicable, promote the economic self-sufficiency of each spouse within a reasonable period of time.' This provision reflects the policy that spousal support is intended to address economic disadvantage, not to create permanent dependency. A recipient spouse with marketable skills (here, a nursing diploma) and who is of working age has an obligation to make reasonable efforts toward self-sufficiency. Courts may consider a recipient's failure to take reasonable steps toward employment when addressing duration and amount on a variation application under DA s.17.",
+    "explanation": "Under the Divorce Act s.15.2(6)(d) requires that a spousal support order 'insofar as practicable, promote the economic self-sufficiency of each spouse within a reasonable period of time.' This provision reflects the policy that spousal support is intended to address economic disadvantage, not to create permanent dependency. A recipient spouse with marketable skills (here, a nursing diploma) and who is of working age has an obligation to make reasonable efforts toward self-sufficiency. Courts may consider a recipient's failure to take reasonable steps toward employment when addressing duration and amount on a variation application under DA s.17.",
     "why_A_wrong": "DA s.15.2(6)(d) expressly imposes an obligation to promote economic self-sufficiency. A recipient's passive failure to seek employment when capable of working is a relevant factor that may justify variation or termination of support.",
     "why_B_wrong": "This IS the correct answer. DA s.15.2(6)(d) requires support orders to promote self-sufficiency within a reasonable period; Wendy's failure to seek employment when qualified may ground a variation application by her former husband.",
     "why_C_wrong": "There is no one-year automatic termination provision. The self-sufficiency obligation must be assessed in light of 'reasonable period' having regard to the circumstances; for a short marriage with a young qualified recipient, a shorter duration is likely appropriate.",
@@ -452,9 +603,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2(6)(d)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["self-sufficiency", "DA s.15.2(6)(d)", "economic independence", "obligation recipient", "failure to seek employment"],
-    "tested_concepts": ["DA s.15.2(6)(d) self-sufficiency obligation", "reasonable period", "recipient must take steps", "variation based on failure to self-suffice"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "self-sufficiency",
+      "DA s.15.2(6)(d)",
+      "economic independence",
+      "obligation recipient",
+      "failure to seek employment"
+    ],
+    "tested_concepts": [
+      "DA s.15.2(6)(d) self-sufficiency obligation",
+      "reasonable period",
+      "recipient must take steps",
+      "variation based on failure to self-suffice"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -481,7 +646,7 @@
       "D": "No bar applies — the adultery is real and Phillip may rely on it regardless of how it came about."
     },
     "correct_answer": "C",
-    "explanation": "Connivance under Divorce Act s.11(1)(b) refers to conduct by the petitioner that facilitates or encourages the respondent's adultery — such as wilfully allowing or setting up opportunities for the adultery to occur. Unlike collusion (fabrication of the ground), connivance involves actual adultery that was facilitated by the petitioning spouse. Phillip's deliberate arrangement of meetings and privacy to encourage the affair constitutes connivance. The court must take this into account under s.11(1)(b) and apply s.11(2) to determine whether it would be in the public interest to grant the divorce notwithstanding the connivance.",
+    "explanation": "Under Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 11(1)(b), s. 11(2), Connivance under Divorce Act s.11(1)(b) refers to conduct by the petitioner that facilitates or encourages the respondent's adultery — such as wilfully allowing or setting up opportunities for the adultery to occur. Unlike collusion (fabrication of the ground), connivance involves actual adultery that was facilitated by the petitioning spouse. Phillip's deliberate arrangement of meetings and privacy to encourage the affair constitutes connivance. The court must take this into account under s.11(1)(b) and apply s.11(2) to determine whether it would be in the public interest to grant the divorce notwithstanding the connivance.",
     "why_A_wrong": "Collusion involves an agreement to fabricate or misrepresent the ground for divorce. Here, the adultery actually occurred — it was not fabricated. The concern is that Phillip encouraged and facilitated it, which is connivance, not collusion.",
     "why_B_wrong": "Condonation involves forgiving a known matrimonial offence, typically by resuming cohabitation after discovering it. The facts describe Phillip actively encouraging the affair before the fact, not forgiving it afterward — this is connivance, not condonation.",
     "why_C_wrong": "This IS the correct answer. Connivance (DA s.11(1)(b)) applies where the petitioner wilfully encouraged or facilitated the respondent's adultery; the court must consider it and may exercise discretion under s.11(2).",
@@ -494,9 +659,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 11(1)(b), s. 11(2)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["connivance", "DA s.11(1)(b)", "facilitating adultery", "wilfully allowed", "encouraged affair"],
-    "tested_concepts": ["connivance DA s.11(1)(b)", "facilitating respondent's adultery", "distinction from collusion", "distinction from condonation", "court discretion s.11(2)"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "connivance",
+      "DA s.11(1)(b)",
+      "facilitating adultery",
+      "wilfully allowed",
+      "encouraged affair"
+    ],
+    "tested_concepts": [
+      "connivance DA s.11(1)(b)",
+      "facilitating respondent's adultery",
+      "distinction from collusion",
+      "distinction from condonation",
+      "court discretion s.11(2)"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -523,7 +703,7 @@
       "D": "A desk order divorce is available only in contested proceedings when the responding party fails to appear."
     },
     "correct_answer": "B",
-    "explanation": "A desk order divorce (also called an uncontested divorce) is a procedure under Ontario's Family Law Rules (r. 36) by which a judge reviews the divorce materials in chambers without requiring the parties to appear in person. The applicant must file an affidavit confirming the separation, that all matters are resolved or addressed, and that there are no barriers to remarriage (DA s.21.1 obligation). A judge — not a registrar — reviews and grants the divorce. This procedure is available where the divorce is truly uncontested. It is faster and less costly than a contested proceeding.",
+    "explanation": "Under Family Law Rules, O. Reg. 114/99, r. 36, A desk order divorce (also called an uncontested divorce) is a procedure under Ontario's Family Law Rules (r. 36) by which a judge reviews the divorce materials in chambers without requiring the parties to appear in person. The applicant must file an affidavit confirming the separation, that all matters are resolved or addressed, and that there are no barriers to remarriage (DA s.21.1 obligation). A judge — not a registrar — reviews and grants the divorce. This procedure is available where the divorce is truly uncontested. It is faster and less costly than a contested proceeding.",
     "why_A_wrong": "A desk order divorce is granted by a judge reviewing affidavit materials in chambers, not by a court registrar without judicial involvement. Judicial involvement is required — only personal court attendance by the parties is waived.",
     "why_B_wrong": "This IS the correct answer. A desk order divorce is an uncontested divorce granted by a judge on affidavit evidence without requiring the parties to appear, available where no issues are contested.",
     "why_C_wrong": "There is no restriction limiting desk order divorces to marriages of less than five years. The desk order procedure is available for any uncontested divorce regardless of the length of the marriage.",
@@ -536,9 +716,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Rules, O. Reg. 114/99, r. 36; Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 21.1"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["desk order divorce", "uncontested", "affidavit evidence", "no court appearance", "in chambers"],
-    "tested_concepts": ["desk order divorce procedure", "judge reviews in chambers", "affidavit evidence", "no attendance required", "Family Law Rules r. 36"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "desk order divorce",
+      "uncontested",
+      "affidavit evidence",
+      "no court appearance",
+      "in chambers"
+    ],
+    "tested_concepts": [
+      "desk order divorce procedure",
+      "judge reviews in chambers",
+      "affidavit evidence",
+      "no attendance required",
+      "Family Law Rules r. 36"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -565,7 +760,7 @@
       "D": "Financial disclosure is required only for the payor of support, not for the recipient."
     },
     "correct_answer": "B",
-    "explanation": "Financial disclosure is a foundational obligation in divorce proceedings involving corollary relief. The Family Law Rules (r. 13) require parties to serve and file a financial statement in prescribed form when seeking or responding to claims for support or property. The Divorce Act and the Federal Child Support Guidelines (s.21) impose specific obligations to provide annual income information. Failure to comply can result in the court drawing adverse inferences against the non-disclosing party, imposing costs sanctions, making orders on the best available information, or striking pleadings in egregious cases. Full and frank financial disclosure is a mandatory, ongoing obligation — not a matter of choice or court discretion.",
+    "explanation": "Under Family Law Rules, O. Reg. 114/99, r. 13, Financial disclosure is a foundational obligation in divorce proceedings involving corollary relief. The Family Law Rules (r. 13) require parties to serve and file a financial statement in prescribed form when seeking or responding to claims for support or property. The Divorce Act and the Federal Child Support Guidelines (s.21) impose specific obligations to provide annual income information. Failure to comply can result in the court drawing adverse inferences against the non-disclosing party, imposing costs sanctions, making orders on the best available information, or striking pleadings in egregious cases. Full and frank financial disclosure is a mandatory, ongoing obligation — not a matter of choice or court discretion.",
     "why_A_wrong": "Financial disclosure is not voluntary in divorce proceedings involving support or property claims. The Family Law Rules r. 13 and FCSG s.21 impose mandatory disclosure obligations. A motion to compel may be available but the obligation pre-exists any motion.",
     "why_B_wrong": "This IS the correct answer. Financial disclosure is a mandatory obligation under the Family Law Rules and FCSG; consequences of non-disclosure include adverse inferences, cost orders, and negative findings about financial position.",
     "why_C_wrong": "No explicit court order is needed to trigger the financial disclosure obligation. The obligation arises automatically under the Family Law Rules when corollary relief claims are made. An order to compel may be sought to enforce the existing obligation, not to create it.",
@@ -578,9 +773,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Family Law Rules, O. Reg. 114/99, r. 13; Federal Child Support Guidelines, SOR/97-175, s. 21; Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["financial disclosure", "mandatory", "Family Law Rules r. 13", "adverse inference", "non-disclosure"],
-    "tested_concepts": ["mandatory financial disclosure divorce proceedings", "Family Law Rules r. 13 financial statement", "consequences of non-disclosure", "applies to all parties not just payor"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "financial disclosure",
+      "mandatory",
+      "Family Law Rules r. 13",
+      "adverse inference",
+      "non-disclosure"
+    ],
+    "tested_concepts": [
+      "mandatory financial disclosure divorce proceedings",
+      "Family Law Rules r. 13 financial statement",
+      "consequences of non-disclosure",
+      "applies to all parties not just payor"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -608,7 +817,7 @@
       "correct_answer_detail": "D"
     },
     "correct_answer": "D",
-    "explanation": "Divorce Act s.3(2) addresses concurrent jurisdiction when both spouses meet the one-year ordinary residence requirement in different provinces. Section 3(3) provides that where divorce proceedings are commenced in two different provinces on or after the same day (or close together), the proceedings shall be transferred to the court in the province where both spouses last habitually resided together — if that court has jurisdiction. If no such province applies, the court in the province where proceedings were first commenced has priority. Ultimately, the proceedings are consolidated in one court. Two simultaneous divorce orders from different provinces are not permitted, as there is only one marriage to dissolve.",
+    "explanation": "Under the Divorce Act s.3(2) addresses concurrent jurisdiction when both spouses meet the one-year ordinary residence requirement in different provinces. Section 3(3) provides that where divorce proceedings are commenced in two different provinces on or after the same day (or close together), the proceedings shall be transferred to the court in the province where both spouses last habitually resided together — if that court has jurisdiction. If no such province applies, the court in the province where proceedings were first commenced has priority. Ultimately, the proceedings are consolidated in one court. Two simultaneous divorce orders from different provinces are not permitted, as there is only one marriage to dissolve.",
     "why_A_wrong": "The order in which petitions are filed is not determinative when both provinces meet the jurisdictional requirements under DA s.3(1). The Divorce Act provides a specific mechanism (s.3(2)-(3)) for consolidating concurrent proceedings, which does not automatically favour the first filer.",
     "why_B_wrong": "Option B incompletely and inaccurately describes the process. Under DA s.3(2)-(3), the proper approach is transfer and consolidation to one court — typically where both spouses last habitually resided — not merely identifying who 'goes first' among concurrent applications.",
     "why_C_wrong": "Two simultaneous divorce orders are not legally possible. There is only one marriage and it can be dissolved only once. Concurrent proceedings must be resolved by consolidation in one court under the DA s.3 framework.",
@@ -621,9 +830,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 3(2), s. 3(3)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["concurrent proceedings", "both spouses file", "different provinces", "DA s.3(3)", "consolidation", "transfer"],
-    "tested_concepts": ["DA s.3(2)-(3) concurrent proceedings", "consolidation to one court", "last habitual residence priority", "no two divorce orders"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "concurrent proceedings",
+      "both spouses file",
+      "different provinces",
+      "DA s.3(3)",
+      "consolidation",
+      "transfer"
+    ],
+    "tested_concepts": [
+      "DA s.3(2)-(3) concurrent proceedings",
+      "consolidation to one court",
+      "last habitual residence priority",
+      "no two divorce orders"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -650,7 +874,7 @@
       "D": "No variation of a corollary relief order is possible; the original order is final and binding."
     },
     "correct_answer": "C",
-    "explanation": "Divorce Act s.17 expressly governs the variation of corollary relief orders made under the Divorce Act — including spousal support orders under s.15.2, child support orders under s.15.1, and parenting orders under s.16. A party seeking to vary a DA corollary relief order must bring the application under DA s.17 and must prove a material change in the condition, means, needs, or other circumstances of either former spouse (for support orders) or the children (for parenting orders) since the making of the original order. The FLA cannot be used to vary a DA order. This is a critical procedural point for practising family lawyers: use the same statute as the original order for variation.",
+    "explanation": "Under the Divorce Act s.17 expressly governs the variation of corollary relief orders made under the Divorce Act — including spousal support orders under s.15.2, child support orders under s.15.1, and parenting orders under s.16. A party seeking to vary a DA corollary relief order must bring the application under DA s.17 and must prove a material change in the condition, means, needs, or other circumstances of either former spouse (for support orders) or the children (for parenting orders) since the making of the original order. The FLA cannot be used to vary a DA order. This is a critical procedural point for practising family lawyers: use the same statute as the original order for variation.",
     "why_A_wrong": "There is no election available between the Divorce Act and the Family Law Act for varying a corollary relief order. DA s.17 exclusively governs variation of DA corollary relief orders; the FLA is not available for this purpose.",
     "why_B_wrong": "The Family Law Act does not govern variation of orders made under the federal Divorce Act. The DA and FLA are separate statutory regimes, each governing variation of orders made under that statute. DA s.17 is the exclusive vehicle for varying DA corollary relief orders.",
     "why_C_wrong": "This IS the correct answer. DA s.17 governs variation of corollary relief orders; applicant must prove a material change in circumstances; the FLA is inapplicable for this purpose.",
@@ -663,9 +887,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 17; Family Law Act, R.S.O. 1990, c. F.3"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["variation corollary relief", "DA s.17", "material change", "not FLA", "Divorce Act governs variation"],
-    "tested_concepts": ["DA s.17 governs variation of DA orders", "FLA cannot vary DA order", "material change threshold", "correct statutory vehicle for variation"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "variation corollary relief",
+      "DA s.17",
+      "material change",
+      "not FLA",
+      "Divorce Act governs variation"
+    ],
+    "tested_concepts": [
+      "DA s.17 governs variation of DA orders",
+      "FLA cannot vary DA order",
+      "material change threshold",
+      "correct statutory vehicle for variation"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -692,7 +930,7 @@
       "D": "The Willick standard applies only to parenting orders, not to spousal support orders."
     },
     "correct_answer": "B",
-    "explanation": "In Willick v. Willick, [1994] 3 SCR 670 and Leskun v. Leskun, [2006] 1 SCR 920, the Supreme Court of Canada confirmed that a material change for variation purposes must be a change that: (1) was not within the reasonable contemplation of the parties at the time of the original order; and (2) if known at the time, would likely have led to a different order. Where the alleged 'change' — here, the illness — actually existed at the time of the original order but was not disclosed, it does not constitute a new post-order change. The appropriate remedy for the payor would be to seek to set aside the original order on the ground of material non-disclosure, not to resist a variation. If Nora concealed the illness, the original order may be vulnerable to being set aside entirely.",
+    "explanation": "Under Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 17, In Willick v. Willick, [1994] 3 SCR 670 and Leskun v. Leskun, [2006] 1 SCR 920, the Supreme Court of Canada confirmed that a material change for variation purposes must be a change that: (1) was not within the reasonable contemplation of the parties at the time of the original order; and (2) if known at the time, would likely have led to a different order. Where the alleged 'change' — here, the illness — actually existed at the time of the original order but was not disclosed, it does not constitute a new post-order change. The appropriate remedy for the payor would be to seek to set aside the original order on the ground of material non-disclosure, not to resist a variation. If Nora concealed the illness, the original order may be vulnerable to being set aside entirely.",
     "why_A_wrong": "A pre-existing condition concealed from the court does not constitute a 'material change' for variation purposes. The change must be something that arose after the order was made. The court in Willick specifically held that the change must be one that was not within the reasonable contemplation of the parties at the time.",
     "why_B_wrong": "This IS the correct answer. Willick requires the material change to be one not reasonably anticipated at the time; a pre-existing concealed condition is not a post-order change — the correct remedy is a motion to set aside for non-disclosure.",
     "why_C_wrong": "Not all post-order changes qualify as material changes. The change must be one that was not reasonably foreseeable at the time of the original order and that would have led to a different order if known. Foreseeable changes that were contemplated by the original order may not be 'material.'",
@@ -705,9 +943,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 17; Willick v. Willick, [1994] 3 SCR 670; Leskun v. Leskun, [2006] 1 SCR 920"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["material change", "Willick", "pre-existing condition", "DA s.17", "concealment", "set aside original order"],
-    "tested_concepts": ["Willick material change standard", "change must post-date original order", "concealed pre-existing condition not material change", "remedy is set aside not variation"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "material change",
+      "Willick",
+      "pre-existing condition",
+      "DA s.17",
+      "concealment",
+      "set aside original order"
+    ],
+    "tested_concepts": [
+      "Willick material change standard",
+      "change must post-date original order",
+      "concealed pre-existing condition not material change",
+      "remedy is set aside not variation"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -734,7 +987,7 @@
       "D": "Interim support is set at exactly 50% of the SSAG range and is not subject to the court's discretion."
     },
     "correct_answer": "B",
-    "explanation": "Interim spousal support orders are available under the Divorce Act (and FLA for non-divorce proceedings) pending the final determination of the application. Courts assess interim support on a summary basis — without a full trial — looking at: (1) an apparent or prima facie entitlement based on the available evidence; (2) the immediate financial needs of the claimant and the ability of the other party to pay; and (3) the need to avoid undue hardship pending the final order. The SSAG may be used as a reference point for quantum. Interim orders are explicitly understood to be temporary and may be adjusted at trial; the court does not resolve all disputed facts at the interim stage.",
+    "explanation": "Under Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2, Interim spousal support orders are available under the Divorce Act (and FLA for non-divorce proceedings) pending the final determination of the application. Courts assess interim support on a summary basis — without a full trial — looking at: (1) an apparent or prima facie entitlement based on the available evidence; (2) the immediate financial needs of the claimant and the ability of the other party to pay; and (3) the need to avoid undue hardship pending the final order. The SSAG may be used as a reference point for quantum. Interim orders are explicitly understood to be temporary and may be adjusted at trial; the court does not resolve all disputed facts at the interim stage.",
     "why_A_wrong": "Interim spousal support may be granted before trial, and indeed that is its very purpose — to provide financial assistance during the litigation period. Requiring full entitlement to be established at trial before any support is payable would cause serious hardship to claimants.",
     "why_B_wrong": "This IS the correct answer. Interim spousal support is granted on a summary assessment of prima facie entitlement and immediate need; it is designed to prevent hardship pending the final determination.",
     "why_C_wrong": "Interim support is not granted automatically after a fixed period of separation. The court assesses apparent entitlement and immediate need on the facts of each case; the duration of separation is not a triggering threshold.",
@@ -747,9 +1000,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.2; Family Law Rules, O. Reg. 114/99"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["interim support", "prima facie entitlement", "immediate need", "pending trial", "summary assessment"],
-    "tested_concepts": ["interim spousal support standard", "prima facie entitlement and immediate need", "summary assessment not full trial", "SSAG as reference only at interim stage"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "interim support",
+      "prima facie entitlement",
+      "immediate need",
+      "pending trial",
+      "summary assessment"
+    ],
+    "tested_concepts": [
+      "interim spousal support standard",
+      "prima facie entitlement and immediate need",
+      "summary assessment not full trial",
+      "SSAG as reference only at interim stage"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -776,7 +1043,7 @@
       "D": "The court can make interim parenting orders before divorce but not interim support orders; support orders require the divorce to be granted first."
     },
     "correct_answer": "B",
-    "explanation": "The Divorce Act (ss.15.1, 15.2, 16) expressly permits the court to make interim and final orders for child support, spousal support, and parenting at any stage of the proceedings — before, during, or after the grant of the divorce. Interim orders under these sections are the standard mechanism for addressing immediate needs of the parties and children during the litigation period. The junior lawyer's advice is incorrect: the court has jurisdiction to make interim corollary relief orders while the divorce proceeding is pending, regardless of whether the divorce has been granted yet. The marriage subsisting is not a bar to an interim support or parenting order in divorce proceedings.",
+    "explanation": "Under the Divorce Act (ss.15.1, 15.2, 16) expressly permits the court to make interim and final orders for child support, spousal support, and parenting at any stage of the proceedings — before, during, or after the grant of the divorce. Interim orders under these sections are the standard mechanism for addressing immediate needs of the parties and children during the litigation period. The junior lawyer's advice is incorrect: the court has jurisdiction to make interim corollary relief orders while the divorce proceeding is pending, regardless of whether the divorce has been granted yet. The marriage subsisting is not a bar to an interim support or parenting order in divorce proceedings.",
     "why_A_wrong": "This is incorrect. The Divorce Act expressly provides for interim orders in divorce proceedings before the divorce takes effect. DA ss.15.1(2), 15.2(2), and 16(1) all authorize the court to make interim orders at any stage of the proceedings.",
     "why_B_wrong": "This IS the correct answer. The DA authorizes interim and final corollary relief orders at any stage of divorce proceedings — before, during, or after the grant of the divorce itself.",
     "why_C_wrong": "Interim relief does not require all evidence to be filed for trial. By definition, interim orders are granted at an early stage on available affidavit evidence, precisely to address needs before the matter proceeds to full determination.",
@@ -789,10 +1056,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 15.1(2), s. 15.2(2), s. 16(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["interim corollary relief", "before divorce granted", "DA ss.15.1 15.2 16", "interim orders divorce proceedings"],
-    "tested_concepts": ["interim orders available at any stage", "not required to wait for divorce", "DA ss.15.1(2) 15.2(2) 16(1)", "marriage subsisting not a bar to interim order"],
-    "estimated_time_seconds": 120,
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "interim corollary relief",
+      "before divorce granted",
+      "DA ss.15.1 15.2 16",
+      "interim orders divorce proceedings"
+    ],
+    "tested_concepts": [
+      "interim orders available at any stage",
+      "not required to wait for divorce",
+      "DA ss.15.1(2) 15.2(2) 16(1)",
+      "marriage subsisting not a bar to interim order"
+    ],
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-25",
@@ -818,7 +1098,7 @@
       "D": "Collusion requires fabrication of evidence; since no evidence was fabricated here, collusion cannot apply; however, condonation of the affair by resuming cohabitation is a complete bar to the divorce even where the applicant relies on one year's separation."
     },
     "correct_answer": "C",
-    "explanation": "Divorce Act s.11(1) requires the court to satisfy itself that collusion has not occurred (s.11(1)(a)), that reasonable arrangements have been made for children (s.11(1)(b)), and where the ground is adultery or physical/mental cruelty, that there has been no condonation or connivance (s.11(1)(c)). The critical point on these facts is that Patrick is applying for divorce on the ground of one year's separation under DA s.8(2)(a), not on the ground of adultery. Condonation under s.11(1)(c) bars divorce only where the ground relied upon is adultery or cruelty — it does not bar a separation-based divorce. As for collusion: DA s.11(4) defines collusion as an agreement or conspiracy to subvert the administration of justice — such as fabricating or suppressing evidence of a ground for divorce or conniving at a matrimonial offence. Agreeing to separate, or even cooperating in the divorce process, is expressly not collusion under s.11(4). The parties' agreement to cooperate in the separation does not constitute collusion. Patrick's application on the separation ground is not barred by either collusion or condonation.",
+    "explanation": "Under the Divorce Act s.11(1) requires the court to satisfy itself that collusion has not occurred (s.11(1)(a)), that reasonable arrangements have been made for children (s.11(1)(b)), and where the ground is adultery or physical/mental cruelty, that there has been no condonation or connivance (s.11(1)(c)). The critical point on these facts is that Patrick is applying for divorce on the ground of one year's separation under DA s.8(2)(a), not on the ground of adultery. Condonation under s.11(1)(c) bars divorce only where the ground relied upon is adultery or cruelty — it does not bar a separation-based divorce. As for collusion: DA s.11(4) defines collusion as an agreement or conspiracy to subvert the administration of justice — such as fabricating or suppressing evidence of a ground for divorce or conniving at a matrimonial offence. Agreeing to separate, or even cooperating in the divorce process, is expressly not collusion under s.11(4). The parties' agreement to cooperate in the separation does not constitute collusion. Patrick's application on the separation ground is not barred by either collusion or condonation.",
     "why_A_wrong": "Ethics Override Trap. The premise that agreed cohabitation constitutes collusion misapplies DA s.11(4). Collusion requires subversion of the administration of justice — fabricating or suppressing grounds, not agreeing to cooperate in a divorce. Additionally, condonation under s.11(1)(c) applies only to adultery or cruelty grounds, not separation-based divorce.",
     "why_B_wrong": "General Rule Trap. DA s.11(4) expressly provides that an agreement between spouses to separate is not collusion. Cooperation in the divorce process — including mutually agreeing on separation — does not constitute collusion. Collusion requires fabrication or suppression of evidence, or conspiracy to pervert justice.",
     "why_C_wrong": "This IS the correct answer. Condonation bars divorce only when the ground is adultery or cruelty (DA s.11(1)(c)); since Patrick relies on one year's separation, condonation of the affair is irrelevant. The alleged 'collusion' is at most cooperation in separation, which DA s.11(4) expressly excludes from the definition of collusion.",
@@ -831,9 +1111,26 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 8(2)(a), s. 11(1)(a), s. 11(1)(c), s. 11(4)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["collusion", "condonation", "DA s.11", "divorce bar", "separation ground", "adultery", "s.11(4)"],
-    "tested_concepts": ["DA s.11(1)(a) collusion defined", "DA s.11(4) cooperation not collusion", "condonation bar limited to adultery or cruelty ground", "separation-based divorce not barred by condonation", "distinguishing collusion from condonation on facts"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "collusion",
+      "condonation",
+      "DA s.11",
+      "divorce bar",
+      "separation ground",
+      "adultery",
+      "s.11(4)"
+    ],
+    "tested_concepts": [
+      "DA s.11(1)(a) collusion defined",
+      "DA s.11(4) cooperation not collusion",
+      "condonation bar limited to adultery or cruelty ground",
+      "separation-based divorce not barred by condonation",
+      "distinguishing collusion from condonation on facts"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",

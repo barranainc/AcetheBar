@@ -19,7 +19,7 @@
       "D": "Wiretap authorizations and related materials are protected from disclosure under the principle of derivative privilege; Crown's only obligation is to disclose the resulting intercepted communications."
     },
     "correct_answer": "B",
-    "explanation": "R v Stinchcombe [1991] 3 SCR 326 establishes that the Crown must disclose all relevant information — whether inculpatory or exculpatory — in its possession. The duty extends to wiretap-related materials, including the Information to Obtain (ITO) used to secure the authorization. However, informer privilege is a recognized exception to Stinchcombe disclosure: the Crown is entitled — and in fact obligated — to protect the identity of a confidential informer. Where the informer's identity is at the core of the disclosure request, the court applies a balancing process; if innocence is at stake, the privilege may yield, but in the ordinary case informer privilege overrides the general Stinchcombe disclosure duty. Crown must disclose the other relevant wiretap materials while withholding the informer's identity.",
+    "explanation": "Under R v Stinchcombe, [1991] 3 SCR 326, R v Stinchcombe [1991] 3 SCR 326 establishes that the Crown must disclose all relevant information — whether inculpatory or exculpatory — in its possession. The duty extends to wiretap-related materials, including the Information to Obtain (ITO) used to secure the authorization. However, informer privilege is a recognized exception to Stinchcombe disclosure: the Crown is entitled — and in fact obligated — to protect the identity of a confidential informer. Where the informer's identity is at the core of the disclosure request, the court applies a balancing process; if innocence is at stake, the privilege may yield, but in the ordinary case informer privilege overrides the general Stinchcombe disclosure duty. Crown must disclose the other relevant wiretap materials while withholding the informer's identity.",
     "why_A_wrong": "General Rule Trap. Stinchcombe is not absolute — informer privilege is a well-established exception recognized in Stinchcombe itself and subsequent cases. The Crown has a concurrent obligation to protect the identity of its confidential informers, which prevails over the general disclosure duty absent a finding that innocence is at stake.",
     "why_B_wrong": "This IS the correct answer. Stinchcombe applies to wiretap materials broadly, but informer privilege is an established exception permitting Crown to withhold the informer's identity while disclosing the remaining relevant material.",
     "why_C_wrong": "Wrong Procedure Trap. The O'Connor framework governs production of third-party records held by parties outside the Crown (such as private counselling records). It does not apply to disclosure of Crown-held materials. Wiretap-related materials in Crown's possession fall under the Stinchcombe disclosure duty, not the O'Connor application process.",
@@ -76,7 +76,7 @@
       "D": "Crown may wait until the eve of trial to provide disclosure of all but the most critical evidence."
     },
     "correct_answer": "B",
-    "explanation": "Stinchcombe held that initial disclosure must be made at the first reasonable opportunity and in any event before the accused is required to elect the mode of trial or enter a plea — because those decisions should be made with knowledge of the evidence. The duty is also explicitly continuing: as new information comes into Crown's possession, it must be disclosed promptly. Providing disclosure two weeks before the election date may be compliant depending on when the election is scheduled, but the core rule is that it must precede election and plea.",
+    "explanation": "Under R v Stinchcombe, [1991] 3 SCR 326, Stinchcombe held that initial disclosure must be made at the first reasonable opportunity and in any event before the accused is required to elect the mode of trial or enter a plea — because those decisions should be made with knowledge of the evidence. The duty is also explicitly continuing: as new information comes into Crown's possession, it must be disclosed promptly. Providing disclosure two weeks before the election date may be compliant depending on when the election is scheduled, but the core rule is that it must precede election and plea.",
     "why_A_wrong": "Stinchcombe does not require disclosure at the first appearance, although prompt disclosure is encouraged. The binding requirement is that disclosure precede election or plea.",
     "why_B_wrong": "This IS the correct answer. Disclosure must be made before the accused is required to elect or enter a plea, and the duty is continuing as new information becomes available.",
     "why_C_wrong": "There is no fixed 60-day rule in Stinchcombe. The trigger is the election and plea, not a calendar deadline counted from trial.",
@@ -131,7 +131,7 @@
       "D": "Defence may always obtain informant identity disclosure by successfully bringing a Stinchcombe application."
     },
     "correct_answer": "B",
-    "explanation": "Informer privilege is one of the recognised exceptions to the Stinchcombe duty to disclose. It is described as a near-absolute privilege at common law, designed to protect the safety of confidential informants and to preserve the public interest in the free flow of information to law enforcement. The Crown is not required to disclose the identity of a confidential informant even where that information is relevant and potentially helpful to the defence. The privilege can be displaced only in the rarest circumstances — notably, the innocence-at-stake exception.",
+    "explanation": "Under R v Stinchcombe, [1991] 3 SCR 326, Informer privilege is one of the recognised exceptions to the Stinchcombe duty to disclose. It is described as a near-absolute privilege at common law, designed to protect the safety of confidential informants and to preserve the public interest in the free flow of information to law enforcement. The Crown is not required to disclose the identity of a confidential informant even where that information is relevant and potentially helpful to the defence. The privilege can be displaced only in the rarest circumstances — notably, the innocence-at-stake exception.",
     "why_A_wrong": "Stinchcombe itself recognised that the disclosure duty is subject to exceptions, including privilege. Informer privilege is one such exception and can override the general disclosure rule.",
     "why_B_wrong": "This IS the correct answer. Informer privilege is a near-absolute common law privilege; the identity of a confidential informant need not be disclosed even if such information is relevant, because the privilege protects informants and the public interest in law enforcement.",
     "why_C_wrong": "There is no 30-day time limit on informer privilege. The privilege persists indefinitely as a matter of law and does not expire after any fixed period.",
@@ -186,7 +186,7 @@
       "D": "No — Crown has a discretion to time the disclosure of forensic reports and may choose to disclose on the first day of trial."
     },
     "correct_answer": "C",
-    "explanation": "Stinchcombe held that the disclosure duty is explicitly continuing — it does not end with the initial disclosure package. As new relevant information becomes available, it must be disclosed in a timely manner. Waiting two months to disclose exculpatory DNA evidence until the morning of trial is a breach of the continuing duty. Such late disclosure may deprive defence of the opportunity to properly investigate, reconsider the accused's election and plea, or seek a stay of proceedings. Crown has no discretion to strategically time the disclosure of relevant evidence.",
+    "explanation": "Under R v Stinchcombe, [1991] 3 SCR 326, Stinchcombe held that the disclosure duty is explicitly continuing — it does not end with the initial disclosure package. As new relevant information becomes available, it must be disclosed in a timely manner. Waiting two months to disclose exculpatory DNA evidence until the morning of trial is a breach of the continuing duty. Such late disclosure may deprive defence of the opportunity to properly investigate, reconsider the accused's election and plea, or seek a stay of proceedings. Crown has no discretion to strategically time the disclosure of relevant evidence.",
     "why_A_wrong": "Stinchcombe is explicit that the disclosure obligation continues throughout the proceedings. There is no exhaustion of duty upon completing initial disclosure.",
     "why_B_wrong": "There is no exemption for evidence obtained after initial disclosure. The continuing duty applies to all relevant information, regardless of when it comes into Crown's hands.",
     "why_C_wrong": "This IS the correct answer. Yes — R v Stinchcombe imposes a continuing duty to disclose; the Crown must disclose new relevant evidence promptly as it is obtained, and waiting until the day of trial to disclose exculpatory DNA evidence may prejudice the accused's right to make full answer and defence.",
@@ -241,7 +241,7 @@
       "D": "Crown is immune from any sanction for non-disclosure where the omission was inadvertent rather than deliberate."
     },
     "correct_answer": "C",
-    "explanation": "The courts have established a spectrum of remedies for Crown non-disclosure. An adjournment to review newly disclosed material is the most common and least drastic remedy, appropriate where the prejudice can be cured by additional time. A stay of proceedings is the most serious Charter remedy and is reserved for cases where the accused has suffered irreparable prejudice to the right to make full answer and defence — prejudice that cannot be cured by any lesser remedy. On these facts, an overnight adjournment appears to cure the prejudice, making a stay inappropriate.",
+    "explanation": "Under R v Stinchcombe, [1991] 3 SCR 326, the courts have established a spectrum of remedies for Crown non-disclosure. An adjournment to review newly disclosed material is the most common and least drastic remedy, appropriate where the prejudice can be cured by additional time. A stay of proceedings is the most serious Charter remedy and is reserved for cases where the accused has suffered irreparable prejudice to the right to make full answer and defence — prejudice that cannot be cured by any lesser remedy. On these facts, an overnight adjournment appears to cure the prejudice, making a stay inappropriate.",
     "why_A_wrong": "A stay is not automatic. It is the most exceptional remedy available and requires a finding of irreparable prejudice that cannot be remedied by less drastic measures.",
     "why_B_wrong": "A stay is available in extreme cases of non-disclosure where the prejudice is genuinely irreparable. It is not categorically unavailable — it is simply reserved for the most serious situations.",
     "why_C_wrong": "This IS the correct answer. The primary remedy is an adjournment to allow the accused to review the disclosed material; a stay of proceedings is reserved for cases where the non-disclosure has caused irreparable prejudice to the accused's right to make full answer and defence.",
@@ -352,7 +352,7 @@
       "D": "Defence is not entitled to any third party records held by private employers unless the Crown first discloses them."
     },
     "correct_answer": "C",
-    "explanation": "The two-stage procedure from R v O'Connor, [1995] 4 SCR 411, governs production of third party records in non-sexual offence proceedings. Under O'Connor, at the first stage the accused must satisfy the court that the records are likely relevant. If this threshold is met, the records are produced to the judge for review. At the second stage, the judge balances the accused's s. 7 right to make full answer and defence against privacy rights and other competing interests, and determines what, if any, portion should be produced to the accused. The ss. 278.1–278.91 regime does not apply here because this is not a sexual offence case.",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, the two-stage procedure from R v O'Connor, [1995] 4 SCR 411, governs production of third party records in non-sexual offence proceedings. Under O'Connor, at the first stage the accused must satisfy the court that the records are likely relevant. If this threshold is met, the records are produced to the judge for review. At the second stage, the judge balances the accused's s. 7 right to make full answer and defence against privacy rights and other competing interests, and determines what, if any, portion should be produced to the accused. The ss. 278.1–278.91 regime does not apply here because this is not a sexual offence case.",
     "why_A_wrong": "Stinchcombe only governs materials the Crown already has or can reasonably obtain through the police investigation. Third party records held by an employer require a separate O'Connor application, not a Crown disclosure order.",
     "why_B_wrong": "Sections 278.1–278.91 of the Criminal Code apply exclusively to records relating to a complainant in a sexual offence proceeding. An assault charge in a workplace dispute is not a sexual offence, and that regime does not govern.",
     "why_C_wrong": "This IS the correct answer. Defence must bring an application under the procedure established in R v O'Connor, [1995] 4 SCR 411, seeking production from the third party; the court will assess likely relevance and balance the accused's right to make full answer and defence against the privacy interests of the complainant.",
@@ -483,8 +483,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["Mills regime", "Stage One", "likely relevant", "s. 278.5", "production to court", "sexual assault records"],
-    "tested_concepts": ["s. 278.5(1) Stage One likely relevance", "interests of justice requirement", "Mills two-stage process", "likely relevant standard — reasonable possibility"],
+    "exam_trigger_words": [
+      "Mills regime",
+      "Stage One",
+      "likely relevant",
+      "s. 278.5",
+      "production to court",
+      "sexual assault records"
+    ],
+    "tested_concepts": [
+      "s. 278.5(1) Stage One likely relevance",
+      "interests of justice requirement",
+      "Mills two-stage process",
+      "likely relevant standard — reasonable possibility"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -511,7 +523,7 @@
       "D": "The Crown's obligation to disclose newly obtained evidence arises only after the election is made; disclosure before election applies only to evidence in Crown's possession at the time of the first appearance."
     },
     "correct_answer": "B",
-    "explanation": "Stinchcombe establishes that the Crown's duty to disclose is both initial and continuing. The initial duty requires disclosure before election or plea; the continuing duty requires prompt disclosure of any additional relevant materials that come into Crown's possession at any stage. When Crown obtains forensic records three weeks before election but discloses them only two days before, the question is whether the accused had adequate time to review them and make an informed election. The appropriate remedy where late disclosure in the continuing duty cycle prejudices the election is an adjournment, not a stay. Two days to review complex financial forensic records for a fraud charge — while potentially sufficient in some cases — may be inadequate depending on the volume and complexity of the material, and defence counsel's adjournment request engages the Stinchcombe continuing duty analysis.",
+    "explanation": "Under R. v. Stinchcombe, [1991] 3 SCR 326, Stinchcombe establishes that the Crown's duty to disclose is both initial and continuing. The initial duty requires disclosure before election or plea; the continuing duty requires prompt disclosure of any additional relevant materials that come into Crown's possession at any stage. When Crown obtains forensic records three weeks before election but discloses them only two days before, the question is whether the accused had adequate time to review them and make an informed election. The appropriate remedy where late disclosure in the continuing duty cycle prejudices the election is an adjournment, not a stay. Two days to review complex financial forensic records for a fraud charge — while potentially sufficient in some cases — may be inadequate depending on the volume and complexity of the material, and defence counsel's adjournment request engages the Stinchcombe continuing duty analysis.",
     "why_A_wrong": "General Rule Trap. Stinchcombe explicitly imposes a continuing obligation — the duty does not expire after initial disclosure. Crown must disclose newly obtained relevant evidence promptly throughout the proceedings. Limiting disclosure to the initial package is incorrect.",
     "why_B_wrong": "This IS the correct answer. The Stinchcombe duty is continuing; newly obtained evidence must be disclosed promptly. Where late disclosure prejudices the accused's ability to make a meaningful election, an adjournment addresses the prejudice without requiring a more drastic remedy.",
     "why_C_wrong": "Overstatement Trap. Initial disclosure before election satisfies only the initial limb of the Stinchcombe obligation. The continuing duty survives the election and requires ongoing timely disclosure of newly acquired evidence throughout the proceeding. The Crown cannot stop disclosing after the election is made.",
@@ -528,8 +540,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["timing of disclosure", "continuing duty", "Stinchcombe", "newly obtained evidence", "adjournment", "pre-election disclosure"],
-    "tested_concepts": ["Stinchcombe continuing duty to disclose", "newly obtained evidence and timely disclosure", "adjournment as remedy for late disclosure", "initial vs continuing Stinchcombe obligation"],
+    "exam_trigger_words": [
+      "timing of disclosure",
+      "continuing duty",
+      "Stinchcombe",
+      "newly obtained evidence",
+      "adjournment",
+      "pre-election disclosure"
+    ],
+    "tested_concepts": [
+      "Stinchcombe continuing duty to disclose",
+      "newly obtained evidence and timely disclosure",
+      "adjournment as remedy for late disclosure",
+      "initial vs continuing Stinchcombe obligation"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -556,7 +580,7 @@
       "D": "A stay is automatically warranted whenever non-disclosure occurs during the defence case because that phase of trial cannot be repeated."
     },
     "correct_answer": "C",
-    "explanation": "The Supreme Court of Canada has established that the remedy for Crown non-disclosure is contextual and proportionate. Where non-disclosure is established, the court must assess the prejudice to the accused's ability to make full answer and defence. Available remedies escalate in severity: an adjournment to allow review and investigation is typically the first and least drastic option; exclusion of the withheld evidence may be available in some circumstances; and a stay of proceedings is the most exceptional remedy, reserved for cases where the prejudice is irreparable and no lesser remedy adequately addresses the violation. A stay is not automatic merely because non-disclosure occurred; the court must work through the spectrum of remedies.",
+    "explanation": "Under R. v. Stinchcombe, [1991] 3 SCR 326, the Supreme Court of Canada has established that the remedy for Crown non-disclosure is contextual and proportionate. Where non-disclosure is established, the court must assess the prejudice to the accused's ability to make full answer and defence. Available remedies escalate in severity: an adjournment to allow review and investigation is typically the first and least drastic option; exclusion of the withheld evidence may be available in some circumstances; and a stay of proceedings is the most exceptional remedy, reserved for cases where the prejudice is irreparable and no lesser remedy adequately addresses the violation. A stay is not automatic merely because non-disclosure occurred; the court must work through the spectrum of remedies.",
     "why_A_wrong": "A stay is not automatic on late disclosure. The court must assess whether the prejudice is irreparable and whether no lesser remedy (such as an adjournment for investigation) can cure the harm. Automatic stays would be disproportionate where lesser remedies can address the prejudice.",
     "why_B_wrong": "Exclusion of the evidence is one available remedy but is not the exclusive remedy for non-disclosure. Depending on the circumstances, an adjournment or other measure may be more appropriate. The court exercises discretion over the choice of remedy.",
     "why_C_wrong": "This IS the correct answer. The remedy analysis for non-disclosure involves assessing prejudice to full answer and defence, considering the spectrum of remedies, and granting a stay only where no lesser remedy adequately cures the prejudice.",
@@ -573,8 +597,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["stay of proceedings", "non-disclosure remedy", "spectrum of remedies", "irreparable prejudice", "adjournment", "exclusion"],
-    "tested_concepts": ["spectrum of remedies for non-disclosure", "stay as last resort", "adjournment as first remedy", "irreparable prejudice test for stay"],
+    "exam_trigger_words": [
+      "stay of proceedings",
+      "non-disclosure remedy",
+      "spectrum of remedies",
+      "irreparable prejudice",
+      "adjournment",
+      "exclusion"
+    ],
+    "tested_concepts": [
+      "spectrum of remedies for non-disclosure",
+      "stay as last resort",
+      "adjournment as first remedy",
+      "irreparable prejudice test for stay"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -618,8 +654,19 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["constructive possession", "police investigation file", "Stinchcombe", "Crown brief", "disclosure duty extent"],
-    "tested_concepts": ["Crown constructive possession of police files", "Stinchcombe extends beyond Crown brief", "police as agents of prosecution", "McNeil principle"],
+    "exam_trigger_words": [
+      "constructive possession",
+      "police investigation file",
+      "Stinchcombe",
+      "Crown brief",
+      "disclosure duty extent"
+    ],
+    "tested_concepts": [
+      "Crown constructive possession of police files",
+      "Stinchcombe extends beyond Crown brief",
+      "police as agents of prosecution",
+      "McNeil principle"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -663,8 +710,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["Stinchcombe relevance", "potentially relevant", "personnel file", "McNeil", "disclosure threshold", "not clearly irrelevant"],
-    "tested_concepts": ["Stinchcombe relevance threshold", "potentially useful to defence", "McNeil police misconduct records", "Crown relevance determination"],
+    "exam_trigger_words": [
+      "Stinchcombe relevance",
+      "potentially relevant",
+      "personnel file",
+      "McNeil",
+      "disclosure threshold",
+      "not clearly irrelevant"
+    ],
+    "tested_concepts": [
+      "Stinchcombe relevance threshold",
+      "potentially useful to defence",
+      "McNeil police misconduct records",
+      "Crown relevance determination"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -691,7 +750,7 @@
       "D": "Ground (i) is permissible if the prior sexual activity involved the accused; grounds (ii) and (iii) are impermissible."
     },
     "correct_answer": "A",
-    "explanation": "Section 278.3(4) of the Criminal Code lists specific assertions that are deemed insufficient, alone, to establish that a record is likely relevant. These include assertions that: (a) the record exists; (b) the record relates to medical or psychiatric treatment; (c) the record may reveal a pattern of conduct; (d) the record relates to the credibility of the complainant; (e) the accused needs the records to cross-examine the complainant; (f) the records may contain an admission; (g) the complainant has a history of making complaints; and (h) the complainant has previously been sexually active with the accused or others. Grounds (i) (prior sexual activity with third parties) and (ii) (history of making sexual assault complaints) are both expressly listed as impermissible bases under s. 278.3(4). Ground (iii) — that the records may contain information about the complainant's perception and memory at the relevant time — relates to a specific testimonial issue (the witness's perception and memory capacity) and is not listed as an impermissible basis.",
+    "explanation": "Under s.278.3(4) of the Criminal Code lists specific assertions that are deemed insufficient, alone, to establish that a record is likely relevant. These include assertions that: (a) the record exists; (b) the record relates to medical or psychiatric treatment; (c) the record may reveal a pattern of conduct; (d) the record relates to the credibility of the complainant; (e) the accused needs the records to cross-examine the complainant; (f) the records may contain an admission; (g) the complainant has a history of making complaints; and (h) the complainant has previously been sexually active with the accused or others. Grounds (i) (prior sexual activity with third parties) and (ii) (history of making sexual assault complaints) are both expressly listed as impermissible bases under s. 278.3(4). Ground (iii) — that the records may contain information about the complainant's perception and memory at the relevant time — relates to a specific testimonial issue (the witness's perception and memory capacity) and is not listed as an impermissible basis.",
     "why_A_wrong": "This IS the correct answer. Section 278.3(4) specifically lists prior sexual activity (ground i) and history of making complaints (ground ii) as impermissible standing-alone bases. Ground (iii) relates to perception and memory, which is not enumerated as an impermissible basis and may support a production application.",
     "why_B_wrong": "Ground (iii) is not impermissible under s. 278.3(4). Evidence about the complainant's perception and memory at the relevant time directly relates to testimonial capacity and reliability — a legitimate purpose not enumerated as an impermissible basis. It is grounds (i) and (ii) that are impermissible.",
     "why_C_wrong": "All three grounds are not impermissible. Ground (iii) — relating to perception and memory — is not listed in s. 278.3(4) as an impermissible basis and can legitimately support a production application.",
@@ -708,8 +767,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["s. 278.3(4)", "impermissible bases", "Mills regime", "prior sexual activity", "history of complaints", "perception and memory"],
-    "tested_concepts": ["s. 278.3(4) enumerated impermissible bases", "prior sexual activity impermissible", "history of complaints impermissible", "perception and memory permissible purpose"],
+    "exam_trigger_words": [
+      "s. 278.3(4)",
+      "impermissible bases",
+      "Mills regime",
+      "prior sexual activity",
+      "history of complaints",
+      "perception and memory"
+    ],
+    "tested_concepts": [
+      "s. 278.3(4) enumerated impermissible bases",
+      "prior sexual activity impermissible",
+      "history of complaints impermissible",
+      "perception and memory permissible purpose"
+    ],
     "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",

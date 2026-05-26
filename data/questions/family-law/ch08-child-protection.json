@@ -19,7 +19,7 @@
       "D": "A child is in need of protection only if the Children's Aid Society has previously been involved with the family."
     },
     "correct_answer": "C",
-    "explanation": "CYFSA s.74(2) provides a comprehensive list of circumstances in which a child is in need of protection, including: (a) physical harm or risk thereof; (b) sexual abuse or exploitation; (c) emotional or psychological harm (s.74(2)(f)-(g)); (d) failure to provide for the child's needs (neglect — s.74(2)(b)); and (e) risk of harm from serious domestic violence (s.74(2)(j)). A child need not have suffered actual harm; risk of harm is sufficient. On the facts, being left unsupervised (neglect), insufficient food, and fear of the stepfather's anger (emotional harm risk, exposure to family violence) engage multiple potential grounds under s.74(2).",
+    "explanation": "Under CYFSA s.74(2) provides a comprehensive list of circumstances in which a child is in need of protection, including: (a) physical harm or risk thereof; (b) sexual abuse or exploitation; (c) emotional or psychological harm (s.74(2)(f)-(g)); (d) failure to provide for the child's needs (neglect — s.74(2)(b)); and (e) risk of harm from serious domestic violence (s.74(2)(j)). A child need not have suffered actual harm; risk of harm is sufficient. On the facts, being left unsupervised (neglect), insufficient food, and fear of the stepfather's anger (emotional harm risk, exposure to family violence) engage multiple potential grounds under s.74(2).",
     "why_A_wrong": "CYFSA s.74(2) explicitly covers risk of physical harm, emotional harm, and neglect — not only actual physical harm already suffered. A risk-based assessment is central to the child protection framework.",
     "why_B_wrong": "A criminal conviction involving the child is not required before child protection proceedings may be initiated. The CYFSA assessment is civil in nature and based on the child's safety and needs, not the parent's criminal record.",
     "why_C_wrong": "This IS the correct answer. CYFSA s.74(2) broadly defines child in need of protection; the facts engage neglect, emotional harm risk, and exposure to family violence — multiple potential grounds.",
@@ -32,9 +32,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 74(2)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["child in need of protection", "CYFSA s.74(2)", "risk of harm", "neglect", "emotional harm"],
-    "tested_concepts": ["CYFSA s.74(2) definition", "risk of harm sufficient", "multiple grounds", "neglect emotional harm family violence"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "child in need of protection",
+      "CYFSA s.74(2)",
+      "risk of harm",
+      "neglect",
+      "emotional harm"
+    ],
+    "tested_concepts": [
+      "CYFSA s.74(2) definition",
+      "risk of harm sufficient",
+      "multiple grounds",
+      "neglect emotional harm family violence"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -61,7 +75,7 @@
       "D": "The duty to report is a discretionary power, not a mandatory obligation; the social worker may choose whether to report."
     },
     "correct_answer": "B",
-    "explanation": "CYFSA s.125(1) imposes a mandatory duty on every person who has reasonable grounds to suspect that a child is or may be in need of protection to forthwith report the suspicion and the information upon which it is based to a society (CAS). The threshold is reasonable grounds to suspect — not proof, not certainty, and not a professional determination. This duty applies to all persons, including professionals, and it cannot be discharged by reporting to another person such as a supervisor. The duty is personal and immediate.",
+    "explanation": "Under CYFSA s.125(1) imposes a mandatory duty on every person who has reasonable grounds to suspect that a child is or may be in need of protection to forthwith report the suspicion and the information upon which it is based to a society (CAS). The threshold is reasonable grounds to suspect — not proof, not certainty, and not a professional determination. This duty applies to all persons, including professionals, and it cannot be discharged by reporting to another person such as a supervisor. The duty is personal and immediate.",
     "why_A_wrong": "No professional confirmation of abuse is required before the duty to report is triggered. CYFSA s.125(1) requires only reasonable grounds to suspect; awaiting professional verification would undermine the child protection purpose.",
     "why_B_wrong": "This IS the correct answer. CYFSA s.125(1) imposes a mandatory duty on all persons with reasonable grounds to suspect a child may be in need of protection; suspicion on reasonable grounds — not proof — triggers the duty.",
     "why_C_wrong": "The duty to report under CYFSA s.125 applies to every person, not only health care professionals. Social workers, teachers, lawyers, and members of the public are all subject to this universal mandatory reporting obligation.",
@@ -74,9 +88,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 125(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["duty to report", "CYFSA s.125", "reasonable grounds to suspect", "mandatory", "not proof"],
-    "tested_concepts": ["CYFSA s.125(1) mandatory reporting", "reasonable grounds to suspect threshold", "applies to all persons", "not discretionary"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "duty to report",
+      "CYFSA s.125",
+      "reasonable grounds to suspect",
+      "mandatory",
+      "not proof"
+    ],
+    "tested_concepts": [
+      "CYFSA s.125(1) mandatory reporting",
+      "reasonable grounds to suspect threshold",
+      "applies to all persons",
+      "not discretionary"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -116,9 +144,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 116(1)(b)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["supervision order", "child remains with parent", "CYFSA s.116", "least intrusive", "CAS supervision"],
-    "tested_concepts": ["CYFSA s.116(1)(b) supervision order", "child remains with parent", "least restrictive order", "range of protection orders"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "supervision order",
+      "child remains with parent",
+      "CYFSA s.116",
+      "least intrusive",
+      "CAS supervision"
+    ],
+    "tested_concepts": [
+      "CYFSA s.116(1)(b) supervision order",
+      "child remains with parent",
+      "least restrictive order",
+      "range of protection orders"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -158,10 +200,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 122(1)-(2)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["Crown wardship", "access", "CYFSA s.122", "beneficial and meaningful", "adoption not impaired"],
-    "tested_concepts": ["CYFSA s.122 post-Crown wardship access", "two conditions beneficial and meaningful", "does not impair adoption", "not automatic termination"],
-    "estimated_time_seconds": 90,
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Crown wardship",
+      "access",
+      "CYFSA s.122",
+      "beneficial and meaningful",
+      "adoption not impaired"
+    ],
+    "tested_concepts": [
+      "CYFSA s.122 post-Crown wardship access",
+      "two conditions beneficial and meaningful",
+      "does not impair adoption",
+      "not automatic termination"
+    ],
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
@@ -187,7 +243,7 @@
       "D": "No — sibling access and extended family access are dealt with exclusively under the Children's Law Reform Act, not the CYFSA."
     },
     "correct_answer": "B",
-    "explanation": "CYFSA s.122(1) provides that a court may grant access to a Crown ward to 'any person,' not only to a parent. This includes grandparents, siblings, and other extended family members. The same two-part test applies: (a) there must be an ongoing relationship that is beneficial and meaningful to the child; and (b) the access must not impair the child's future opportunities for adoption or other permanent placement. Courts regularly consider the importance of sibling relationships and extended family connections in the best interests assessment following Crown wardship.",
+    "explanation": "Under CYFSA s.122(1) provides that a court may grant access to a Crown ward to 'any person,' not only to a parent. This includes grandparents, siblings, and other extended family members. The same two-part test applies: (a) there must be an ongoing relationship that is beneficial and meaningful to the child; and (b) the access must not impair the child's future opportunities for adoption or other permanent placement. Courts regularly consider the importance of sibling relationships and extended family connections in the best interests assessment following Crown wardship.",
     "why_A_wrong": "CYFSA s.122(1) uses the language 'any person,' expressly giving standing to persons beyond parents — including grandparents, siblings, and other significant adults in the child's life.",
     "why_B_wrong": "This IS the correct answer. CYFSA s.122(1) grants standing to any person, and the two-part beneficial/meaningful relationship test governs the court's discretion to grant access.",
     "why_C_wrong": "Grandparent access after Crown wardship is not automatic. It requires a court order, and the s.122 two-part test must be satisfied. There is no as-of-right access after Crown wardship for any person.",
@@ -200,9 +256,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 122(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["access Crown wardship", "grandparent access", "any person", "CYFSA s.122", "extended family"],
-    "tested_concepts": ["CYFSA s.122 any person standing", "grandparent access after wardship", "two-part test beneficial meaningful", "not automatic"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "access Crown wardship",
+      "grandparent access",
+      "any person",
+      "CYFSA s.122",
+      "extended family"
+    ],
+    "tested_concepts": [
+      "CYFSA s.122 any person standing",
+      "grandparent access after wardship",
+      "two-part test beneficial meaningful",
+      "not automatic"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -229,7 +299,7 @@
       "D": "A secure treatment order may only be made with the consent of the child, regardless of the child's age."
     },
     "correct_answer": "C",
-    "explanation": "The CYFSA provides for secure treatment orders (Part VI) for children who require intensive treatment in a secure setting. The criteria for making a secure treatment order include: (a) the child has a mental or other disorder; (b) the child requires treatment for the disorder; (c) confinement of the child in a secure treatment program is necessary to prevent the child from causing serious bodily harm to themselves or others; and (d) no appropriate less restrictive treatment alternative is available. A secure treatment order is distinct from a protection order and is not the same as Crown wardship. It is specifically designed to address situations of mental disorder or substance use requiring involuntary confinement for treatment.",
+    "explanation": "Under the CYFSA provides for secure treatment orders (Part VI) for children who require intensive treatment in a secure setting. The criteria for making a secure treatment order include: (a) the child has a mental or other disorder; (b) the child requires treatment for the disorder; (c) confinement of the child in a secure treatment program is necessary to prevent the child from causing serious bodily harm to themselves or others; and (d) no appropriate less restrictive treatment alternative is available. A secure treatment order is distinct from a protection order and is not the same as Crown wardship. It is specifically designed to address situations of mental disorder or substance use requiring involuntary confinement for treatment.",
     "why_A_wrong": "Secure treatment orders are distinct from Crown wardship. Crown wardship addresses long-term parental inability to care for a child; secure treatment orders address the specific need for confinement to enable treatment of a mental or other disorder posing a serious harm risk.",
     "why_B_wrong": "Secure treatment orders exist in Ontario under the CYFSA. While the Mental Health Act also has provisions for involuntary psychiatric treatment, the CYFSA's secure treatment provisions specifically address children in a child protection context.",
     "why_C_wrong": "This IS the correct answer. Secure treatment orders under the CYFSA authorize confinement for treatment of a serious mental or substance use disorder with risk of harm, where less restrictive alternatives are inadequate.",
@@ -242,10 +312,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, Part VI (Secure Treatment)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["secure treatment", "CYFSA", "mental disorder", "confinement", "involuntary treatment", "serious harm"],
-    "tested_concepts": ["CYFSA secure treatment order", "criteria mental disorder risk of harm", "not same as Crown wardship", "no child consent required"],
-    "estimated_time_seconds": 90,
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "secure treatment",
+      "CYFSA",
+      "mental disorder",
+      "confinement",
+      "involuntary treatment",
+      "serious harm"
+    ],
+    "tested_concepts": [
+      "CYFSA secure treatment order",
+      "criteria mental disorder risk of harm",
+      "not same as Crown wardship",
+      "no child consent required"
+    ],
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
@@ -271,7 +356,7 @@
       "D": "The counsellor should first obtain the child's written consent before contacting CAS, as the child is 13 and has the right to privacy."
     },
     "correct_answer": "B",
-    "explanation": "CYFSA s.125(1) imposes a mandatory personal duty on every person to report to a society (CAS) forthwith upon reasonable grounds to suspect that a child is or may be in need of protection. The child's disclosure of sexual abuse is clearly reasonable grounds to suspect a s.74(2)(b) (sexual abuse) or s.74(2)(c) (sexual exploitation) situation. The duty is personal — it cannot be discharged by reporting to a supervisor, principal, or parent first. CYFSA s.125(5) makes clear that professionals cannot delegate or defer the report. Speaking to the mother first (whose partner is the alleged abuser) is particularly problematic as it may compromise the child's safety and the integrity of any investigation. The counsellor and principal are both personally obligated to report.",
+    "explanation": "Under CYFSA s.125(1) imposes a mandatory personal duty on every person to report to a society (CAS) forthwith upon reasonable grounds to suspect that a child is or may be in need of protection. The child's disclosure of sexual abuse is clearly reasonable grounds to suspect a s.74(2)(b) (sexual abuse) or s.74(2)(c) (sexual exploitation) situation. The duty is personal — it cannot be discharged by reporting to a supervisor, principal, or parent first. CYFSA s.125(5) makes clear that professionals cannot delegate or defer the report. Speaking to the mother first (whose partner is the alleged abuser) is particularly problematic as it may compromise the child's safety and the integrity of any investigation. The counsellor and principal are both personally obligated to report.",
     "why_A_wrong": "CYFSA s.125(5) expressly prohibits professionals from reporting to a supervisor or employer instead of reporting directly to CAS. Consulting colleagues or speaking to a parent does not discharge the mandatory reporting duty; the report to CAS must be made forthwith.",
     "why_B_wrong": "This IS the correct answer. The duty under CYFSA s.125(1) is personal and immediate — report forthwith to CAS; delegating to the mother or supervisor does not satisfy the legal obligation.",
     "why_C_wrong": "CYFSA s.125(1) applies to every person, not only health care professionals. School staff — including guidance counsellors and principals — are expressly among those subject to the mandatory reporting duty.",
@@ -288,8 +373,21 @@
       "applicable": true,
       "pr_issue_type": "duty to report — mandatory reporting overrides discretion"
     },
-    "exam_trigger_words": ["duty to report", "CYFSA s.125", "forthwith", "cannot delegate", "personal duty", "sexual abuse"],
-    "tested_concepts": ["CYFSA s.125(1) personal duty", "forthwith reporting", "cannot delegate to supervisor", "school staff included", "child consent not required"],
+    "exam_trigger_words": [
+      "duty to report",
+      "CYFSA s.125",
+      "forthwith",
+      "cannot delegate",
+      "personal duty",
+      "sexual abuse"
+    ],
+    "tested_concepts": [
+      "CYFSA s.125(1) personal duty",
+      "forthwith reporting",
+      "cannot delegate to supervisor",
+      "school staff included",
+      "child consent not required"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -329,9 +427,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 116(1)(d), s. 120(3)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["Crown wardship", "CYFSA s.116(1)(d)", "cumulative time limits", "child under 6", "12 months", "society wardship"],
-    "tested_concepts": ["CYFSA s.116(1)(d) Crown wardship criteria", "cumulative time limits s.120", "12 months under age 6", "not limited to criminal cases", "parental consent not required"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "Crown wardship",
+      "CYFSA s.116(1)(d)",
+      "cumulative time limits",
+      "child under 6",
+      "12 months",
+      "society wardship"
+    ],
+    "tested_concepts": [
+      "CYFSA s.116(1)(d) Crown wardship criteria",
+      "cumulative time limits s.120",
+      "12 months under age 6",
+      "not limited to criminal cases",
+      "parental consent not required"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -358,7 +472,7 @@
       "D": "Customary care is recognized but only after a formal adoption order has been made by the courts."
     },
     "correct_answer": "B",
-    "explanation": "CYFSA s.79 and related provisions recognize the right of First Nations, Inuit, and Métis communities and organizations to enter into customary care agreements for children of their communities. Customary care reflects the traditional child-rearing practices of Indigenous communities and is recognized as a distinct and culturally appropriate alternative to the standard child protection order framework. A child subject to a valid customary care arrangement may remain within the community and connected to their culture, family, and traditions. The CYFSA explicitly recognizes customary care as part of the framework responding to the over-representation of Indigenous children in the child welfare system and the duty to preserve cultural identity under CYFSA principles (s.1).",
+    "explanation": "Under CYFSA s.79 and related provisions recognize the right of First Nations, Inuit, and Métis communities and organizations to enter into customary care agreements for children of their communities. Customary care reflects the traditional child-rearing practices of Indigenous communities and is recognized as a distinct and culturally appropriate alternative to the standard child protection order framework. A child subject to a valid customary care arrangement may remain within the community and connected to their culture, family, and traditions. The CYFSA explicitly recognizes customary care as part of the framework responding to the over-representation of Indigenous children in the child welfare system and the duty to preserve cultural identity under CYFSA principles (s.1).",
     "why_A_wrong": "The CYFSA expressly recognizes customary care in s.79. The legislation was amended to reflect the rights of Indigenous communities to care for their children in accordance with their own traditions, as part of the broader child welfare reform.",
     "why_B_wrong": "This IS the correct answer. CYFSA s.79 recognizes customary care agreements for Indigenous children, allowing culturally appropriate care within the community as a recognized alternative or supplement to standard child protection orders.",
     "why_C_wrong": "Customary care under CYFSA s.79 applies specifically to children — not adults. It is designed for First Nations, Inuit, and Métis children to allow their care within their communities according to customary practices.",
@@ -371,9 +485,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 79"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["customary care", "CYFSA s.79", "Indigenous children", "First Nations", "cultural identity", "traditional practices"],
-    "tested_concepts": ["CYFSA s.79 customary care", "Indigenous children cultural care", "recognized alternative to CAS orders", "First Nations Inuit Métis", "CYFSA reform Indigenous rights"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "customary care",
+      "CYFSA s.79",
+      "Indigenous children",
+      "First Nations",
+      "cultural identity",
+      "traditional practices"
+    ],
+    "tested_concepts": [
+      "CYFSA s.79 customary care",
+      "Indigenous children cultural care",
+      "recognized alternative to CAS orders",
+      "First Nations Inuit Métis",
+      "CYFSA reform Indigenous rights"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -400,7 +530,7 @@
       "D": "Reviews of protection orders can only be initiated by the court on its own motion, not by application of any party."
     },
     "correct_answer": "B",
-    "explanation": "The CYFSA provides mechanisms for review of child protection orders before their expiry. Under CYFSA s.116(6) and the statutory review provisions, any party (including parents, CAS, or the child) may bring an application to review a protection order. The court may vary, extend, or terminate the order based on material change in circumstances and the child's best interests. A family's genuine participation in required programs and demonstrated progress — such as completed programs and sustained sobriety — is precisely the type of positive change that may warrant an early review and potential termination of a supervision order. Requiring parties to wait until expiry would be inconsistent with the child welfare principle of timeliness and least restrictive intervention.",
+    "explanation": "Under the CYFSA provides mechanisms for review of child protection orders before their expiry. Under CYFSA s.116(6) and the statutory review provisions, any party (including parents, CAS, or the child) may bring an application to review a protection order. The court may vary, extend, or terminate the order based on material change in circumstances and the child's best interests. A family's genuine participation in required programs and demonstrated progress — such as completed programs and sustained sobriety — is precisely the type of positive change that may warrant an early review and potential termination of a supervision order. Requiring parties to wait until expiry would be inconsistent with the child welfare principle of timeliness and least restrictive intervention.",
     "why_A_wrong": "CYFSA protection orders are reviewable before their expiry upon application of any party. Requiring expiry before review would be contrary to the child welfare principles of responsiveness to changing circumstances and least restrictive intervention.",
     "why_B_wrong": "This IS the correct answer. CYFSA provides for early review of protection orders; any party may apply; the court may vary or terminate based on changed circumstances and best interests.",
     "why_C_wrong": "Any party to the child protection proceeding — including parents — has standing to apply for a review. The CYFSA does not limit review applications to CAS.",
@@ -413,9 +543,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 116(6)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["review protection order", "CYFSA s.116(6)", "vary terminate", "before expiry", "material change", "any party standing"],
-    "tested_concepts": ["CYFSA review before expiry", "any party standing", "court may vary or terminate", "best interests and changed circumstances", "not wait until expiry"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "review protection order",
+      "CYFSA s.116(6)",
+      "vary terminate",
+      "before expiry",
+      "material change",
+      "any party standing"
+    ],
+    "tested_concepts": [
+      "CYFSA review before expiry",
+      "any party standing",
+      "court may vary or terminate",
+      "best interests and changed circumstances",
+      "not wait until expiry"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -442,7 +588,7 @@
       "D": "A lawyer may choose whether to report based on their professional judgment; the duty is discretionary for lawyers but mandatory for other professionals."
     },
     "correct_answer": "B",
-    "explanation": "CYFSA s.125(9) provides that the duty to report under s.125 applies 'despite anything in the Regulated Health Professions Act, 1991 or in any other Act.' Courts and the Law Society of Ontario have confirmed that solicitor-client privilege does not exempt lawyers from the mandatory duty to report under CYFSA s.125. This is one of the recognized exceptions to solicitor-client privilege — where reporting is necessary to prevent serious harm to a child and is mandated by statute, the privilege must yield. The Rules of Professional Conduct (r. 3.3-3 and related commentary) recognize this exception. A lawyer who possesses reasonable grounds to suspect that a child is or may be in need of protection must report forthwith to CAS, regardless of the privilege.",
+    "explanation": "Under CYFSA s.125(9) provides that the duty to report under s.125 applies 'despite anything in the Regulated Health Professions Act, 1991 or in any other Act.' Courts and the Law Society of Ontario have confirmed that solicitor-client privilege does not exempt lawyers from the mandatory duty to report under CYFSA s.125. This is one of the recognized exceptions to solicitor-client privilege — where reporting is necessary to prevent serious harm to a child and is mandated by statute, the privilege must yield. The Rules of Professional Conduct (r. 3.3-3 and related commentary) recognize this exception. A lawyer who possesses reasonable grounds to suspect that a child is or may be in need of protection must report forthwith to CAS, regardless of the privilege.",
     "why_A_wrong": "Solicitor-client privilege is not absolute. CYFSA s.125(9) and the recognized exceptions to privilege confirm that mandatory child protection reporting overrides solicitor-client privilege. Privilege yields to the statutory duty.",
     "why_B_wrong": "This IS the correct answer. CYFSA s.125(9) applies to all persons including lawyers; solicitor-client privilege does not exempt lawyers from the mandatory reporting duty; this is a recognized statutory exception to privilege.",
     "why_C_wrong": "Solicitor-client privilege, despite being fundamental, is subject to exceptions recognized at common law and by statute. The protection of children from serious harm and the CYFSA s.125 duty are recognized exceptions.",
@@ -459,8 +605,19 @@
       "applicable": true,
       "pr_issue_type": "solicitor-client privilege — exception for mandatory child protection reporting"
     },
-    "exam_trigger_words": ["solicitor-client privilege", "CYFSA s.125(9)", "lawyer duty to report", "privilege exception", "mandatory reporting"],
-    "tested_concepts": ["CYFSA s.125(9) privilege override", "lawyer subject to mandatory reporting", "solicitor-client privilege not absolute", "exception to privilege for child protection"],
+    "exam_trigger_words": [
+      "solicitor-client privilege",
+      "CYFSA s.125(9)",
+      "lawyer duty to report",
+      "privilege exception",
+      "mandatory reporting"
+    ],
+    "tested_concepts": [
+      "CYFSA s.125(9) privilege override",
+      "lawyer subject to mandatory reporting",
+      "solicitor-client privilege not absolute",
+      "exception to privilege for child protection"
+    ],
     "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -487,7 +644,7 @@
       "D": "Protection from liability applies only to health professionals, not to teachers."
     },
     "correct_answer": "B",
-    "explanation": "CYFSA s.125(6) provides statutory protection from civil liability for reporters who make a report under s.125 in good faith. A person who makes a bona fide report — even if the investigation does not substantiate the concern — cannot be sued for defamation, breach of privacy, or other civil wrongs arising from the report. CYFSA s.125(8) protects the reporter's identity: CAS shall not disclose the identity of a person who made a report to the Society without the reporter's consent. These protections are essential to encouraging reporting and are a foundational feature of the mandatory reporting regime. Narrow exceptions may allow disclosure in court proceedings where it is necessary in the interests of justice.",
+    "explanation": "Under CYFSA s.125(6) provides statutory protection from civil liability for reporters who make a report under s.125 in good faith. A person who makes a bona fide report — even if the investigation does not substantiate the concern — cannot be sued for defamation, breach of privacy, or other civil wrongs arising from the report. CYFSA s.125(8) protects the reporter's identity: CAS shall not disclose the identity of a person who made a report to the Society without the reporter's consent. These protections are essential to encouraging reporting and are a foundational feature of the mandatory reporting regime. Narrow exceptions may allow disclosure in court proceedings where it is necessary in the interests of justice.",
     "why_A_wrong": "CYFSA s.125(6) expressly provides immunity from civil liability for reporters who act in good faith. An unfounded report made honestly does not expose the reporter to defamation liability under the mandatory reporting regime.",
     "why_B_wrong": "This IS the correct answer. CYFSA s.125(6) provides civil immunity for good faith reports; s.125(8) protects the reporter's identity; both protections are foundational to the mandatory reporting regime.",
     "why_C_wrong": "Reporter identity protection under s.125(8) applies to all reporters, not only anonymous ones. A professional who reports in her professional capacity retains identity protection under the CYFSA.",
@@ -500,9 +657,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 125(6), s. 125(8)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["reporter immunity", "CYFSA s.125(6)", "identity protection s.125(8)", "good faith report", "civil liability protection"],
-    "tested_concepts": ["CYFSA s.125(6) civil immunity good faith", "s.125(8) identity protection", "applies to all persons", "unfounded report still protected if good faith"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "reporter immunity",
+      "CYFSA s.125(6)",
+      "identity protection s.125(8)",
+      "good faith report",
+      "civil liability protection"
+    ],
+    "tested_concepts": [
+      "CYFSA s.125(6) civil immunity good faith",
+      "s.125(8) identity protection",
+      "applies to all persons",
+      "unfounded report still protected if good faith"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -529,7 +700,7 @@
       "D": "The physician's obligation is only to form a reasonable suspicion; once she informed the social work team, her obligation was fulfilled."
     },
     "correct_answer": "B",
-    "explanation": "CYFSA s.125(5) expressly provides that the duty to report is personal and non-delegable: no professional or occupational duty or any duty of confidentiality to which a person is subject overrides the duty to report. Critically, a professional cannot discharge the reporting obligation by informing a supervisor, employer, social work department, or colleague — each person with reasonable grounds must personally report directly to CAS. The physician's notification to the hospital social work department does not satisfy her personal obligation. She remains personally liable for the failure to report and may face penalties under the CYFSA. This is one of the most practically important features of the mandatory reporting regime for professionals.",
+    "explanation": "Under CYFSA s.125(5) expressly provides that the duty to report is personal and non-delegable: no professional or occupational duty or any duty of confidentiality to which a person is subject overrides the duty to report. Critically, a professional cannot discharge the reporting obligation by informing a supervisor, employer, social work department, or colleague — each person with reasonable grounds must personally report directly to CAS. The physician's notification to the hospital social work department does not satisfy her personal obligation. She remains personally liable for the failure to report and may face penalties under the CYFSA. This is one of the most practically important features of the mandatory reporting regime for professionals.",
     "why_A_wrong": "CYFSA s.125(5) explicitly provides that the duty cannot be delegated. Informing a social work department, supervisor, or any other professional does not discharge the personal reporting obligation. Each person must report directly to CAS.",
     "why_B_wrong": "This IS the correct answer. CYFSA s.125(5) makes the duty personal and non-delegable; reporting to the hospital social work team does not discharge the physician's personal obligation to report directly to CAS.",
     "why_C_wrong": "CYFSA s.125(5) specifically prohibits delegation to a supervisor or social work team. Informing colleagues within an institution is not an acceptable substitute for a direct personal report to CAS.",
@@ -542,9 +713,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 125(5)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["non-delegable duty", "CYFSA s.125(5)", "personal duty", "cannot delegate supervisor", "must report directly to CAS"],
-    "tested_concepts": ["CYFSA s.125(5) non-delegable personal duty", "cannot delegate to supervisor or team", "must report directly to CAS", "professional remains personally liable"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "non-delegable duty",
+      "CYFSA s.125(5)",
+      "personal duty",
+      "cannot delegate supervisor",
+      "must report directly to CAS"
+    ],
+    "tested_concepts": [
+      "CYFSA s.125(5) non-delegable personal duty",
+      "cannot delegate to supervisor or team",
+      "must report directly to CAS",
+      "professional remains personally liable"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -571,7 +756,7 @@
       "D": "A warrantless removal requires the consent of one parent; if the father refuses, the CAS worker must await a court order."
     },
     "correct_answer": "B",
-    "explanation": "CYFSA s.81 authorizes a child protection worker who has reasonable grounds to believe that a child is in immediate need of protection to remove the child without a warrant or court order and to bring the child to a place of safety. The word 'immediate' is key — this emergency power is designed for situations where delay in obtaining a court order would expose the child to serious harm. Once the child is removed, the CAS must then bring the matter before a court promptly for judicial authorization and a protection hearing. This provision recognizes that a child's safety may require immediate action before judicial oversight is available.",
+    "explanation": "Under CYFSA s.81 authorizes a child protection worker who has reasonable grounds to believe that a child is in immediate need of protection to remove the child without a warrant or court order and to bring the child to a place of safety. The word 'immediate' is key — this emergency power is designed for situations where delay in obtaining a court order would expose the child to serious harm. Once the child is removed, the CAS must then bring the matter before a court promptly for judicial authorization and a protection hearing. This provision recognizes that a child's safety may require immediate action before judicial oversight is available.",
     "why_A_wrong": "CYFSA s.81 expressly authorizes warrantless emergency removal of children by child protection workers without a prior court order where there are reasonable grounds to believe the child is in immediate need of protection.",
     "why_B_wrong": "This IS the correct answer. CYFSA s.81 authorizes warrantless removal by child protection workers on reasonable grounds of immediate danger; court oversight follows promptly after the emergency removal.",
     "why_C_wrong": "Child protection workers — not only police — have authority under CYFSA s.81 to remove a child without a warrant in an emergency. Police also have related powers to assist, but the CAS worker's own authority under s.81 is independent.",
@@ -584,9 +769,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 81"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["warrantless removal", "CYFSA s.81", "immediate danger", "no court order", "place of safety", "emergency removal"],
-    "tested_concepts": ["CYFSA s.81 warrantless emergency removal", "reasonable grounds immediate need of protection", "CAS worker authority", "court oversight follows removal", "parental consent not required"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "warrantless removal",
+      "CYFSA s.81",
+      "immediate danger",
+      "no court order",
+      "place of safety",
+      "emergency removal"
+    ],
+    "tested_concepts": [
+      "CYFSA s.81 warrantless emergency removal",
+      "reasonable grounds immediate need of protection",
+      "CAS worker authority",
+      "court oversight follows removal",
+      "parental consent not required"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -613,7 +814,7 @@
       "D": "Status reviews are only available for Crown wardship orders, not society wardship orders."
     },
     "correct_answer": "B",
-    "explanation": "The CYFSA provides for status reviews of protection orders. Any party to the proceedings — including parents, CAS, the child, or an Indigenous community — may bring a status review application. The court conducts a review to determine whether the order should continue, be varied, or be terminated. The standard is the child's best interests in light of the current circumstances. Parents who have made genuine progress — completing programs, maintaining stable housing, addressing the identified protective concerns — may bring a status review to demonstrate that continued wardship is no longer necessary or that a less restrictive order is appropriate. There is no mandatory minimum waiting period before a status review may be brought.",
+    "explanation": "Under the CYFSA provides for status reviews of protection orders. Any party to the proceedings — including parents, CAS, the child, or an Indigenous community — may bring a status review application. The court conducts a review to determine whether the order should continue, be varied, or be terminated. The standard is the child's best interests in light of the current circumstances. Parents who have made genuine progress — completing programs, maintaining stable housing, addressing the identified protective concerns — may bring a status review to demonstrate that continued wardship is no longer necessary or that a less restrictive order is appropriate. There is no mandatory minimum waiting period before a status review may be brought.",
     "why_A_wrong": "Parents and all parties to the original child protection proceeding have standing to bring a status review application. The CYFSA does not limit status reviews to CAS applications.",
     "why_B_wrong": "This IS the correct answer. The CYFSA permits any party to apply for a status review; demonstrated parental progress constitutes changed circumstances; the court may vary or terminate the order based on the child's current best interests.",
     "why_C_wrong": "There is no mandatory two-year waiting period before a status review may be brought. Status reviews may be pursued when circumstances have materially changed, regardless of how long the original order has been in place.",
@@ -626,9 +827,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 116(6)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["status review", "society wardship", "parents may apply", "CYFSA review", "changed circumstances", "no waiting period"],
-    "tested_concepts": ["any party may apply for status review", "no mandatory waiting period", "changed circumstances grounds", "court may vary or terminate", "society wardship reviewable"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "status review",
+      "society wardship",
+      "parents may apply",
+      "CYFSA review",
+      "changed circumstances",
+      "no waiting period"
+    ],
+    "tested_concepts": [
+      "any party may apply for status review",
+      "no mandatory waiting period",
+      "changed circumstances grounds",
+      "court may vary or terminate",
+      "society wardship reviewable"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -655,7 +872,7 @@
       "D": "The therapist should assess whether the patient's disclosure is reliable before deciding whether to report; the duty only applies after independent verification of the concern."
     },
     "correct_answer": "B",
-    "explanation": "CYFSA s.125(1) imposes the mandatory reporting obligation on every person — not only on persons with a professional relationship with the child. The trigger is 'reasonable grounds to suspect' that a child is or may be in need of protection. The therapist has received information from a patient suggesting ongoing physical abuse of a child. If the therapist has reasonable grounds to suspect the child is in need of protection (which the patient's disclosure may provide), the duty to report applies regardless of the fact that the child is not a patient and the information came from a third party. The therapist cannot substitute personal judgment about reliability for the legal obligation to report to CAS.",
+    "explanation": "Under CYFSA s.125(1) imposes the mandatory reporting obligation on every person — not only on persons with a professional relationship with the child. The trigger is 'reasonable grounds to suspect' that a child is or may be in need of protection. The therapist has received information from a patient suggesting ongoing physical abuse of a child. If the therapist has reasonable grounds to suspect the child is in need of protection (which the patient's disclosure may provide), the duty to report applies regardless of the fact that the child is not a patient and the information came from a third party. The therapist cannot substitute personal judgment about reliability for the legal obligation to report to CAS.",
     "why_A_wrong": "CYFSA s.125(1) applies to 'every person' — not only to those with a direct professional relationship with the child. The obligation is universal and arises from the existence of reasonable grounds to suspect, regardless of how those grounds come to the person's attention.",
     "why_B_wrong": "This IS the correct answer. CYFSA s.125(1) applies to everyone with reasonable grounds to suspect; the therapist's grounds based on the patient's disclosure are sufficient to trigger the personal reporting obligation.",
     "why_C_wrong": "CYFSA s.125(1) applies to all persons, not only health professionals treating the child. The obligation is not limited by the professional's relationship to the child or the source of the information.",
@@ -668,9 +885,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 125(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["duty to report", "CYFSA s.125(1)", "every person", "no professional relationship required", "reasonable grounds third party"],
-    "tested_concepts": ["CYFSA s.125(1) universal every person", "no direct relationship with child required", "third-party information sufficient if reasonable grounds", "no independent verification required"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "duty to report",
+      "CYFSA s.125(1)",
+      "every person",
+      "no professional relationship required",
+      "reasonable grounds third party"
+    ],
+    "tested_concepts": [
+      "CYFSA s.125(1) universal every person",
+      "no direct relationship with child required",
+      "third-party information sufficient if reasonable grounds",
+      "no independent verification required"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -697,7 +928,7 @@
       "D": "The mother must first obtain a court order protecting herself before CAS can intervene in relation to the children."
     },
     "correct_answer": "B",
-    "explanation": "CYFSA s.74(2) provides multiple grounds on which a child may be found to be in need of protection. Section 74(2)(j) addresses a child who is in a situation where there has been or is a risk of serious physical harm by the parents or other persons in the dwelling; s.74(2)(g) addresses risk of serious emotional harm. Courts and CAS have recognized that exposure to domestic violence causes significant psychological harm to children who witness it. Research consistently demonstrates that children who witness intimate partner violence suffer emotional, developmental, and psychological harm even in the absence of direct physical abuse. CAS may intervene on these grounds regardless of whether the child has been directly physically harmed.",
+    "explanation": "Under CYFSA s.74(2) provides multiple grounds on which a child may be found to be in need of protection. Section 74(2)(j) addresses a child who is in a situation where there has been or is a risk of serious physical harm by the parents or other persons in the dwelling; s.74(2)(g) addresses risk of serious emotional harm. Courts and CAS have recognized that exposure to domestic violence causes significant psychological harm to children who witness it. Research consistently demonstrates that children who witness intimate partner violence suffer emotional, developmental, and psychological harm even in the absence of direct physical abuse. CAS may intervene on these grounds regardless of whether the child has been directly physically harmed.",
     "why_A_wrong": "CYFSA s.74(2) does not require that the child be the direct target of the abuse. Exposure to domestic violence is recognized as a form of harm and a ground for protection proceedings under multiple provisions of s.74(2).",
     "why_B_wrong": "This IS the correct answer. CYFSA s.74(2)(j) and (g) provide grounds for protection based on exposure to domestic violence; witnessing severe domestic violence may constitute a need for protection; direct physical harm to the child is not required.",
     "why_C_wrong": "No clinical diagnosis is required before a child is found to be in need of protection on emotional harm grounds. The test is risk of serious emotional harm — not a demonstrated existing diagnosis. CAS may intervene preventively.",
@@ -710,9 +941,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 74(2)(g), s. 74(2)(j)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["exposure to domestic violence", "emotional harm", "CYFSA s.74(2)(j)", "s.74(2)(g)", "witnessing violence", "not direct victim"],
-    "tested_concepts": ["CYFSA s.74(2)(g)(j) exposure to domestic violence as ground", "child need not be direct victim", "emotional harm from witnessing violence", "no clinical diagnosis required", "CAS independent authority"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "exposure to domestic violence",
+      "emotional harm",
+      "CYFSA s.74(2)(j)",
+      "s.74(2)(g)",
+      "witnessing violence",
+      "not direct victim"
+    ],
+    "tested_concepts": [
+      "CYFSA s.74(2)(g)(j) exposure to domestic violence as ground",
+      "child need not be direct victim",
+      "emotional harm from witnessing violence",
+      "no clinical diagnosis required",
+      "CAS independent authority"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -739,7 +986,7 @@
       "D": "Child protection proceedings have no best interests test; the court's sole consideration is the child's physical safety."
     },
     "correct_answer": "B",
-    "explanation": "Child protection proceedings under the CYFSA are governed by a distinct best interests framework tailored to the protection context. The CYFSA's best interests factors (s.74(3)) include: the child's safety; the child's need for a stable and loving family environment; the child's cultural identity (with heightened attention to Indigenous identity under CYFSA s.1(2)); the desirability of continuity in care; and the least restrictive placement consistent with the child's best interests. The Divorce Act best interests factors and the Gordon v Goertz material change standard apply in private parenting disputes between parents under the Divorce Act or Children's Law Reform Act — not in child protection proceedings under the CYFSA. These are distinct statutory regimes with distinct standards.",
+    "explanation": "Under Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 74(3), Child protection proceedings under the CYFSA are governed by a distinct best interests framework tailored to the protection context. The CYFSA's best interests factors (s.74(3)) include: the child's safety; the child's need for a stable and loving family environment; the child's cultural identity (with heightened attention to Indigenous identity under CYFSA s.1(2)); the desirability of continuity in care; and the least restrictive placement consistent with the child's best interests. The Divorce Act best interests factors and the Gordon v Goertz material change standard apply in private parenting disputes between parents under the Divorce Act or Children's Law Reform Act — not in child protection proceedings under the CYFSA. These are distinct statutory regimes with distinct standards.",
     "why_A_wrong": "The best interests tests are not identical. The CYFSA applies a protection-context-specific best interests framework under s.74(3), with factors tailored to the child protection context including safety, permanence, and cultural identity for Indigenous children. The DA/Gordon v Goertz framework governs private parenting disputes.",
     "why_B_wrong": "This IS the correct answer. CYFSA proceedings apply CYFSA-specific best interests standards; the DA/Gordon v Goertz material change standard and the DA's s.16(3) factors do not govern child protection proceedings; distinct statutory regimes apply.",
     "why_C_wrong": "The Divorce Act applies only to married spouses and their children in private parenting proceedings. It does not govern child protection proceedings brought under the CYFSA by a child protection agency.",
@@ -752,9 +999,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Child, Youth and Family Services Act, 2017, S.O. 2017, c. 14, Sched. 1, s. 74(3); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 16(3)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["best interests child protection", "CYFSA s.74(3)", "vs Divorce Act best interests", "Gordon v Goertz inapplicable", "distinct standards"],
-    "tested_concepts": ["CYFSA best interests distinct from DA", "CYFSA s.74(3) protection-context factors", "Gordon v Goertz applies to private disputes only", "Indigenous identity heightened consideration", "physical safety not sole factor"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "best interests child protection",
+      "CYFSA s.74(3)",
+      "vs Divorce Act best interests",
+      "Gordon v Goertz inapplicable",
+      "distinct standards"
+    ],
+    "tested_concepts": [
+      "CYFSA best interests distinct from DA",
+      "CYFSA s.74(3) protection-context factors",
+      "Gordon v Goertz applies to private disputes only",
+      "Indigenous identity heightened consideration",
+      "physical safety not sole factor"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",

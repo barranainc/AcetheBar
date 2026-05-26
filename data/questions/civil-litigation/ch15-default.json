@@ -32,9 +32,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.19.01"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["noting in default", "r.19.01", "registrar", "requisition", "no defence filed"],
-    "tested_concepts": ["r.19.01 — noting in default is administrative registrar process", "no motion or court order required", "proof of service and affidavit of default required"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "noting in default",
+      "r.19.01",
+      "registrar",
+      "requisition",
+      "no defence filed"
+    ],
+    "tested_concepts": [
+      "r.19.01 — noting in default is administrative registrar process",
+      "no motion or court order required",
+      "proof of service and affidavit of default required"
+    ],
     "estimated_time_seconds": 75,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -74,8 +86,16 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, rr.19.01, 19.04"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.19.01", "affidavit of default", "proof of service", "defective noting", "set aside default judgment"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.19.01",
+      "affidavit of default",
+      "proof of service",
+      "defective noting",
+      "set aside default judgment"
+    ],
     "tested_concepts": [
       "r.19.01 — three mandatory elements: requisition + proof of service + affidavit of default",
       "noting in default obtained without required materials is defective",
@@ -121,9 +141,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.19.04"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.19.04", "liquidated demand", "registrar signs judgment", "as of right", "default judgment"],
-    "tested_concepts": ["r.19.04 — default judgment for liquidated demand from registrar as of right", "liquidated demand — specific fixed ascertainable amount", "no motion required for liquidated demand default judgment"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.19.04",
+      "liquidated demand",
+      "registrar signs judgment",
+      "as of right",
+      "default judgment"
+    ],
+    "tested_concepts": [
+      "r.19.04 — default judgment for liquidated demand from registrar as of right",
+      "liquidated demand — specific fixed ascertainable amount",
+      "no motion required for liquidated demand default judgment"
+    ],
     "estimated_time_seconds": 75,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -163,10 +195,22 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.19.05"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.19.05", "unliquidated claim", "motion before judge", "default judgment motion", "reference for assessment"],
-    "tested_concepts": ["r.19.05 — unliquidated claims require motion before judge", "judge may assess damages or direct reference", "defendant entitled to notice and may contest quantum"],
-    "estimated_time_seconds": 80,
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.19.05",
+      "unliquidated claim",
+      "motion before judge",
+      "default judgment motion",
+      "reference for assessment"
+    ],
+    "tested_concepts": [
+      "r.19.05 — unliquidated claims require motion before judge",
+      "judge may assess damages or direct reference",
+      "defendant entitled to notice and may contest quantum"
+    ],
+    "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-25",
@@ -205,9 +249,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.19.03"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.19.03", "late defence noted in default", "before judgment", "noting not automatically set aside", "filing after noting"],
-    "tested_concepts": ["r.19.03 — defence may be filed with leave/consent after noting but before judgment", "filing does not automatically set aside the noting", "plaintiff cannot obtain default judgment while defence on file"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.19.03",
+      "late defence noted in default",
+      "before judgment",
+      "noting not automatically set aside",
+      "filing after noting"
+    ],
+    "tested_concepts": [
+      "r.19.03 — defence may be filed with leave/consent after noting but before judgment",
+      "filing does not automatically set aside the noting",
+      "plaintiff cannot obtain default judgment while defence on file"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -247,9 +303,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.19.08"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.19.08", "set aside default judgment", "reasonable explanation", "prima facie defence", "meritorious defence"],
-    "tested_concepts": ["r.19.08 — two-part test: reasonable explanation + prima facie defence on merits", "court exercises discretion and may impose terms", "promptness and prejudice also considered"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.19.08",
+      "set aside default judgment",
+      "reasonable explanation",
+      "prima facie defence",
+      "meritorious defence"
+    ],
+    "tested_concepts": [
+      "r.19.08 — two-part test: reasonable explanation + prima facie defence on merits",
+      "court exercises discretion and may impose terms",
+      "promptness and prejudice also considered"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -289,10 +357,22 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.19.08"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["r.19.08 terms", "costs on set-aside", "such terms as are just", "conditions of order", "defendant pays costs"],
-    "tested_concepts": ["r.19.08 — set-aside on such terms as are just — broad discretion", "common to impose costs on defendant as condition", "other terms: defence deadline, security, payment into court"],
-    "estimated_time_seconds": 90,
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "r.19.08 terms",
+      "costs on set-aside",
+      "such terms as are just",
+      "conditions of order",
+      "defendant pays costs"
+    ],
+    "tested_concepts": [
+      "r.19.08 — set-aside on such terms as are just — broad discretion",
+      "common to impose costs on defendant as condition",
+      "other terms: defence deadline, security, payment into court"
+    ],
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-25",
@@ -318,7 +398,7 @@
       "D": "Once judgment is obtained, the noting in default merges into the judgment and disappears; setting aside the judgment is the only step required and automatically restores all of the defendant's procedural rights."
     },
     "correct_answer": "B",
-    "explanation": "Setting aside a default judgment under r.19.08 and setting aside the noting in default under r.19.08 are distinct procedural steps that address different aspects of the default. A default judgment is the final order obtained after noting in default; the noting in default is the earlier administrative step. When a court sets aside a default judgment, this removes the final order, but it does not automatically restore the defendant to the position of a defendant who has not been noted in default. The defendant remains noted in default, which restricts the defendant from filing a defence or taking other procedural steps. To regularize the proceeding and allow the defendant to deliver a defence, the court must also set aside the noting in default — either in the same order or by a separate order. Courts often address both in the same motion, but counsel must ensure both are expressly addressed.",
+    "explanation": "Under Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.19.08, Setting aside a default judgment under r.19.08 and setting aside the noting in default under r.19.08 are distinct procedural steps that address different aspects of the default. A default judgment is the final order obtained after noting in default; the noting in default is the earlier administrative step. When a court sets aside a default judgment, this removes the final order, but it does not automatically restore the defendant to the position of a defendant who has not been noted in default. The defendant remains noted in default, which restricts the defendant from filing a defence or taking other procedural steps. To regularize the proceeding and allow the defendant to deliver a defence, the court must also set aside the noting in default — either in the same order or by a separate order. Courts often address both in the same motion, but counsel must ensure both are expressly addressed.",
     "why_A_wrong": "Setting aside the default judgment alone does not automatically set aside the noting in default. These are distinct procedural steps and the order setting aside the judgment must expressly (or by necessary implication) also set aside the noting for the defendant's full rights to be restored.",
     "why_B_wrong": "This IS the correct answer. Setting aside the judgment and setting aside the noting are distinct steps; the defendant must ensure the noting is also addressed before it can file a defence and participate fully.",
     "why_C_wrong": "The defendant cannot simply file a defence after the judgment is set aside without also addressing the noting in default. The noting continues to restrict the defendant's procedural rights until it too is set aside.",
@@ -331,9 +411,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.19.08"
     },
-    "pr_angle": {"applicable": false},
-    "exam_trigger_words": ["set aside noting", "set aside judgment", "distinct steps", "r.19.08", "noting not automatically set aside"],
-    "tested_concepts": ["setting aside judgment and setting aside noting are distinct steps", "judgment set-aside does not automatically set aside noting in default", "court must address both for defendant to file defence"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "set aside noting",
+      "set aside judgment",
+      "distinct steps",
+      "r.19.08",
+      "noting not automatically set aside"
+    ],
+    "tested_concepts": [
+      "setting aside judgment and setting aside noting are distinct steps",
+      "judgment set-aside does not automatically set aside noting in default",
+      "court must address both for defendant to file defence"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",

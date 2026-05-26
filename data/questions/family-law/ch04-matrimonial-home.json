@@ -86,7 +86,7 @@
       "D": "Yes — once one spouse has moved out, the remaining spouse obtains exclusive possession by default."
     },
     "correct_answer": "C",
-    "explanation": "Ownership and financial contribution do not automatically confer exclusive possession under the FLA. FLA s.19(1) preserves equal possession rights for both spouses. To obtain exclusive possession, the husband would need a court order under s.24, where the court weighs statutory factors including the best interests of any children, financial position of each spouse, availability of other accommodation, and any violence.",
+    "explanation": "Under Family Law Act, R.S.O. 1990, c. F.3, s. 19(1) and s. 24, Ownership and financial contribution do not automatically confer exclusive possession under the FLA. FLA s.19(1) preserves equal possession rights for both spouses. To obtain exclusive possession, the husband would need a court order under s.24, where the court weighs statutory factors including the best interests of any children, financial position of each spouse, availability of other accommodation, and any violence.",
     "why_A_wrong": "Ownership alone does not give exclusive possession under the FLA. The s.19 right exists independently of title, and s.24 is the mechanism for exclusive possession orders.",
     "why_B_wrong": "A spouse who moves out does not lose their s.19 right of possession by doing so. Voluntary departure is not a waiver of possession rights.",
     "why_C_wrong": "This IS the correct answer. Equal possession under s.19 persists; exclusive possession requires a s.24 court order.",
@@ -141,7 +141,7 @@
       "D": "Exclusive possession can only be granted as part of a final divorce order."
     },
     "correct_answer": "C",
-    "explanation": "FLA s.24(3) sets out the factors the court must consider on a motion for exclusive possession: the best interests of the children, the financial position of both spouses, availability of other appropriate accommodation, any violence or abuse, and any other relevant circumstances. Ownership is not determinative; a non-owning spouse may receive an exclusive possession order where the circumstances warrant it.",
+    "explanation": "Under FLA s.24(3) sets out the factors the court must consider on a motion for exclusive possession: the best interests of the children, the financial position of both spouses, availability of other appropriate accommodation, any violence or abuse, and any other relevant circumstances. Ownership is not determinative; a non-owning spouse may receive an exclusive possession order where the circumstances warrant it.",
     "why_A_wrong": "Ownership is expressly not determinative under s.24. The entire purpose of s.19 and s.24 is to separate possession rights from ownership rights.",
     "why_B_wrong": "A spouse leaving the home is not the test for exclusive possession. Departure may be relevant to the facts but is not a triggering condition under s.24.",
     "why_C_wrong": "This IS the correct answer. FLA s.24(3) lists the multi-factor test; ownership is not determinative.",
@@ -196,7 +196,7 @@
       "D": "The husband must wait until the divorce proceedings are concluded before asserting his possession rights."
     },
     "correct_answer": "C",
-    "explanation": "FLA s.19(1) grants both spouses an equal right to possession throughout the marriage. Voluntarily leaving the matrimonial home does not waive or extinguish this right. The wife cannot unilaterally exclude the husband by changing the locks; she would need to obtain a court order for exclusive possession under s.24. The husband may bring a motion to enforce his s.19 rights.",
+    "explanation": "Under FLA s.19(1) grants both spouses an equal right to possession throughout the marriage. Voluntarily leaving the matrimonial home does not waive or extinguish this right. The wife cannot unilaterally exclude the husband by changing the locks; she would need to obtain a court order for exclusive possession under s.24. The husband may bring a motion to enforce his s.19 rights.",
     "why_A_wrong": "Changing the locks and asserting physical possession do not legally extinguish the husband's s.19 right. Self-help is not a recognized method of defeating possession rights under the FLA.",
     "why_B_wrong": "Voluntary departure from the matrimonial home does not constitute a waiver of s.19 rights. The right persists regardless of which spouse is currently residing in the home.",
     "why_C_wrong": "This IS the correct answer. s.19 rights persist after voluntary departure; exclusion requires a s.24 court order.",
@@ -251,7 +251,7 @@
       "D": "The couple must have formally designated one property as the matrimonial home for s.19 to apply."
     },
     "correct_answer": "C",
-    "explanation": "FLA s.18(1) defines a matrimonial home as every property in which a person has an interest and that is or was at the time of separation ordinarily occupied by the person and his or her spouse as their family residence. There is no limit to one matrimonial home per couple (s.18(2) permits multiple). Seasonal or summer use can satisfy 'ordinarily occupied' if the family regularly used the property as a family residence. Both properties can be matrimonial homes and s.19 applies to each.",
+    "explanation": "Under FLA s.18(1) defines a matrimonial home as every property in which a person has an interest and that is or was at the time of separation ordinarily occupied by the person and his or her spouse as their family residence. There is no limit to one matrimonial home per couple (s.18(2) permits multiple). Seasonal or summer use can satisfy 'ordinarily occupied' if the family regularly used the property as a family residence. Both properties can be matrimonial homes and s.19 applies to each.",
     "why_A_wrong": "The FLA does not restrict the matrimonial home definition to a single primary residence. Multiple properties may qualify under s.18(2).",
     "why_B_wrong": "Seasonal use can satisfy the 'ordinarily occupied' test if the family regularly used the property as their family residence during that season. The FLA does not require year-round occupation.",
     "why_C_wrong": "This IS the correct answer. Multiple matrimonial homes are permitted; s.19 applies to each qualifying property.",
@@ -307,7 +307,7 @@
       "D": "The s.21(1) restriction applies only if the wife's name appears on title."
     },
     "correct_answer": "B",
-    "explanation": "FLA s.21(1) provides that a spouse shall not dispose of or encumber an interest in the matrimonial home unless the other spouse joins in the instrument or consents in writing, or has released all rights under Part II by separation agreement, or a court order authorizes the disposition. Sole ownership of the matrimonial home does not exempt a spouse from this requirement.",
+    "explanation": "Under FLA s.21(1) provides that a spouse shall not dispose of or encumber an interest in the matrimonial home unless the other spouse joins in the instrument or consents in writing, or has released all rights under Part II by separation agreement, or a court order authorizes the disposition. Sole ownership of the matrimonial home does not exempt a spouse from this requirement.",
     "why_A_wrong": "Sole ownership does not exempt the husband from s.21(1). The restriction applies regardless of which spouse holds legal title to the matrimonial home.",
     "why_B_wrong": "This IS the correct answer. Written consent/joinder, a court order, or a prior release are the three permitted paths under s.21(1).",
     "why_C_wrong": "Notification is not sufficient. FLA s.21(1) requires the non-owning spouse to actively join in the instrument or provide written consent, not merely be informed.",
@@ -362,7 +362,7 @@
       "D": "No — but only if the buyer was aware of the separation agreement."
     },
     "correct_answer": "B",
-    "explanation": "FLA s.21(1)(b) expressly provides that a spouse may dispose of the matrimonial home without the other's further consent if the other spouse 'has released all rights under this Part by a separation agreement.' The wife's release in the separation agreement satisfies this statutory exception; she cannot now seek to set aside the sale.",
+    "explanation": "Under FLA s.21(1)(b) expressly provides that a spouse may dispose of the matrimonial home without the other's further consent if the other spouse 'has released all rights under this Part by a separation agreement.' The wife's release in the separation agreement satisfies this statutory exception; she cannot now seek to set aside the sale.",
     "why_A_wrong": "A separation agreement that releases Part II rights is expressly recognized in s.21(1)(b) as a valid basis for proceeding without further consent. The agreement does override the general consent requirement when it covers a full Part II release.",
     "why_B_wrong": "This IS the correct answer. s.21(1)(b) makes a full Part II release in a separation agreement a complete answer to the consent requirement.",
     "why_C_wrong": "While independent legal advice is good practice and may affect the enforceability of the agreement on other grounds, it is not a prerequisite for the s.21(1)(b) exception to apply.",
@@ -416,7 +416,7 @@
       "D": "The purchaser must demonstrate that they conducted a registry search before the court will protect the transaction."
     },
     "correct_answer": "B",
-    "explanation": "FLA s.21(3) provides that where a spouse purports to dispose of the matrimonial home without the required consent, the court may set aside the transaction unless the purchaser acquired the interest for value without notice that the property was a matrimonial home at the time of the disposition. The bona fide purchaser for value without notice is protected, and the wife's application will fail.",
+    "explanation": "Under FLA s.21(3) provides that where a spouse purports to dispose of the matrimonial home without the required consent, the court may set aside the transaction unless the purchaser acquired the interest for value without notice that the property was a matrimonial home at the time of the disposition. The bona fide purchaser for value without notice is protected, and the wife's application will fail.",
     "why_A_wrong": "s.21(3) expressly carves out a bona fide purchaser protection. The court's power to set aside the transaction is qualified by the purchaser's notice of the matrimonial home status.",
     "why_B_wrong": "This IS the correct answer. FLA s.21(3) protects the purchaser for value without notice of the matrimonial home status.",
     "why_C_wrong": "This overstates the remedy. s.21(3) limits the set-aside remedy specifically to cases where the purchaser had notice. Without notice, the purchaser is protected.",
@@ -471,7 +471,7 @@
       "D": "Yes — separation extinguishes s.21 rights, but the husband must still obtain a court order confirming this."
     },
     "correct_answer": "C",
-    "explanation": "FLA s.21(1) does not contain a separation exception. The consent requirement continues to apply after separation until one of the three exceptions is met: (a) the other spouse joins in the instrument or consents in writing, (b) the other spouse has released all Part II rights through a separation agreement or other domestic contract, or (c) a court order authorizes the disposition. Physical departure from the home does not constitute an abandonment of Part II rights.",
+    "explanation": "Under FLA s.21(1) does not contain a separation exception. The consent requirement continues to apply after separation until one of the three exceptions is met: (a) the other spouse joins in the instrument or consents in writing, (b) the other spouse has released all Part II rights through a separation agreement or other domestic contract, or (c) a court order authorizes the disposition. Physical departure from the home does not constitute an abandonment of Part II rights.",
     "why_A_wrong": "Separation alone does not extinguish s.21 rights. The consent requirement continues post-separation until one of the statutory exceptions is satisfied.",
     "why_B_wrong": "Vacating the matrimonial home does not constitute a release or abandonment of Part II rights under the FLA. A formal release in a domestic contract or a court order is required.",
     "why_C_wrong": "This IS the correct answer. s.21 applies post-separation; departure does not extinguish consent rights.",
@@ -526,7 +526,7 @@
       "D": "Yes — the wife may revoke consent at any time before the transfer is registered on title."
     },
     "correct_answer": "C",
-    "explanation": "Once a binding agreement of purchase and sale has been entered into in reliance on the consenting spouse's consent, revocation is generally not effective to defeat the transaction. The consent was given to enable the very transaction that is now binding on the parties. Revocation before any party has relied on the consent might be possible, but once the transaction is made, the consent cannot be withdrawn to frustrate the sale. The purchaser's rights are also engaged.",
+    "explanation": "Under Family Law Act, R.S.O. 1990, c. F.3, s. 21(1), Once a binding agreement of purchase and sale has been entered into in reliance on the consenting spouse's consent, revocation is generally not effective to defeat the transaction. The consent was given to enable the very transaction that is now binding on the parties. Revocation before any party has relied on the consent might be possible, but once the transaction is made, the consent cannot be withdrawn to frustrate the sale. The purchaser's rights are also engaged.",
     "why_A_wrong": "Revocation is not available as of right at any time before closing. Once the agreement of purchase and sale is signed in reliance on the consent, revocation would be ineffective to defeat the binding transaction.",
     "why_B_wrong": "This overstates the rule. Revocation before any reliance might in principle be possible. The key constraint is that revocation after reliance is not effective.",
     "why_C_wrong": "This IS the correct answer. Post-reliance revocation is generally not effective; the consent enabled the binding transaction.",

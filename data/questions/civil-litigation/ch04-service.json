@@ -213,7 +213,7 @@
       "personal service must be impractical",
       "substituted method must likely reach defendant"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
@@ -268,7 +268,7 @@
       "exceptional circumstances required",
       "service not reasonably possible"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
@@ -323,7 +323,7 @@
       "required contents of affidavit of service",
       "sworn by person who effected service"
     ],
-    "estimated_time_seconds": 75,
+    "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",

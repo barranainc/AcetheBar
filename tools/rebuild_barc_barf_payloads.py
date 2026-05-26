@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Rebuild barc and barf exam payloads from existing manifests and bake into index.html.
+Rebuild all generated barrister exam payloads (barc, bard, bare, barf)
+from existing manifests and bake into index.html.
 Preserves exact question order from manifest question_ids_used.
 Does NOT re-randomize or update manifests.
 """
@@ -14,6 +15,8 @@ ANSWER_INDEX = {'A': 0, 'B': 1, 'C': 2, 'D': 3}
 
 EXAMS = [
     ('barc', REPO / 'data' / 'exams' / 'generated-barrister-c-manifest.json'),
+    ('bard', REPO / 'data' / 'exams' / 'generated-barrister-d-manifest.json'),
+    ('bare', REPO / 'data' / 'exams' / 'generated-barrister-e-manifest.json'),
     ('barf', REPO / 'data' / 'exams' / 'generated-barrister-f-manifest.json'),
 ]
 

@@ -319,7 +319,7 @@
       "disputing garnishee — court determines on motion or reference",
       "failure to respond may result in default order"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-25",
@@ -507,7 +507,7 @@
       "D": "Third parties holding debtor assets can only be reached through contempt proceedings, not through examination."
     },
     "correct_answer": "B",
-    "explanation": "Rule 60.18(6) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194) provides that the judgment creditor may examine, without prior court order: the judgment debtor; in the case of a corporation, an officer, director, or employee with knowledge; and any other person who the creditor has reason to believe has knowledge of the debtor's assets or who is in possession of assets belonging to the debtor. This broad examination power extends to third parties and is particularly useful where the judgment creditor suspects pre-judgment transfers of assets to related parties. The creditor need not first exhaust examination of the debtor before moving to examine third parties.",
+    "explanation": "Under Rule 60.18(6) of the Rules of Civil Procedure (R.R.O. 1990, Reg. 194) provides that the judgment creditor may examine, without prior court order: the judgment debtor; in the case of a corporation, an officer, director, or employee with knowledge; and any other person who the creditor has reason to believe has knowledge of the debtor's assets or who is in possession of assets belonging to the debtor. This broad examination power extends to third parties and is particularly useful where the judgment creditor suspects pre-judgment transfers of assets to related parties. The creditor need not first exhaust examination of the debtor before moving to examine third parties.",
     "why_A_wrong": "Examinations under r.60.18 are not limited to the judgment debtor. Rule 60.18(6) expressly permits examination of third parties who may have knowledge of or possession of the debtor's assets.",
     "why_B_wrong": "This IS the correct answer. Rule 60.18(6) permits examination of any person with knowledge of the debtor's assets or in possession of those assets, including third parties, without prior court order.",
     "why_C_wrong": "No prior leave of the court is required before examining a third party under r.60.18. The judgment creditor need not exhaust examination of the debtor first; third party examinations may proceed as needed.",
@@ -535,7 +535,7 @@
       "no prior court order required for third party examination",
       "useful for uncovering pre-judgment transfers"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-25",
@@ -616,7 +616,7 @@
       "D": "Civil contempt cannot result in imprisonment; imprisonment is only available for criminal contempt."
     },
     "correct_answer": "B",
-    "explanation": "In Ontario, civil contempt arising from the disobedience of a court order in civil proceedings is a quasi-criminal matter because it involves the liberty of the subject. Despite being categorized as 'civil contempt,' the standard of proof is beyond a reasonable doubt given the potential for imprisonment as a sanction. The court may impose a range of sanctions for civil contempt including: fines (which may be substantial); imprisonment (typically until the contemptuous conduct is purged or the order is complied with); sequestration of assets; and costs on a solicitor-client basis. The defendant's assertion that civil contempt cannot result in imprisonment is incorrect; imprisonment is available as a sanction for deliberate disobedience of a court order.",
+    "explanation": "Under Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.11, In Ontario, civil contempt arising from the disobedience of a court order in civil proceedings is a quasi-criminal matter because it involves the liberty of the subject. Despite being categorized as 'civil contempt,' the standard of proof is beyond a reasonable doubt given the potential for imprisonment as a sanction. The court may impose a range of sanctions for civil contempt including: fines (which may be substantial); imprisonment (typically until the contemptuous conduct is purged or the order is complied with); sequestration of assets; and costs on a solicitor-client basis. The defendant's assertion that civil contempt cannot result in imprisonment is incorrect; imprisonment is available as a sanction for deliberate disobedience of a court order.",
     "why_A_wrong": "Civil contempt is proved beyond a reasonable doubt, not on a balance of probabilities, because of the liberty implications. The available sanctions include imprisonment and sequestration, not just a capped fine.",
     "why_B_wrong": "This IS the correct answer. Civil contempt requires proof beyond a reasonable doubt (given quasi-criminal nature); sanctions include fines, imprisonment, and sequestration.",
     "why_C_wrong": "Civil contempt requires proof beyond a reasonable doubt, not on a balance of probabilities. Costs alone are not the only available sanction; fines, imprisonment, and sequestration are all available.",
@@ -753,7 +753,7 @@
       "non-titled spouse must receive notice of enforcement",
       "court may protect possessory rights of non-titled spouse"
     ],
-    "estimated_time_seconds": 120,
+    "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-25",
@@ -779,7 +779,7 @@
       "D": "Shares may only be seized under a writ of seizure and sale if the judgment creditor personally presents the writ to each company in which the debtor holds shares."
     },
     "correct_answer": "B",
-    "explanation": "Shares held by a judgment debtor are exigible property under Ontario enforcement law. Where the shares are held in a brokerage account, the judgment creditor may serve a notice of garnishment on the brokerage firm as garnishee — the brokerage holds the shares (and any cash) for the account of the judgment debtor, and the garnishment attaches those assets. Alternatively, for shares held in corporate entities, the judgment creditor may seek a charging order on the debtor's interest in the shares. Under r.60.08, the garnishment process encompasses not only debts owed in money but can extend to intangible property held by third parties for the debtor's account, making it a flexible enforcement tool against investment accounts.",
+    "explanation": "Under Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.60.08, Shares held by a judgment debtor are exigible property under Ontario enforcement law. Where the shares are held in a brokerage account, the judgment creditor may serve a notice of garnishment on the brokerage firm as garnishee — the brokerage holds the shares (and any cash) for the account of the judgment debtor, and the garnishment attaches those assets. Alternatively, for shares held in corporate entities, the judgment creditor may seek a charging order on the debtor's interest in the shares. Under r.60.08, the garnishment process encompasses not only debts owed in money but can extend to intangible property held by third parties for the debtor's account, making it a flexible enforcement tool against investment accounts.",
     "why_A_wrong": "Shares in a brokerage account are not exempt from enforcement in Ontario. They are exigible assets reachable through garnishment or charging orders.",
     "why_B_wrong": "This IS the correct answer. Garnishment of the brokerage account and charging orders on shares are the appropriate mechanisms to reach a debtor's investment assets held through a brokerage.",
     "why_C_wrong": "Civil enforcement mechanisms — including garnishment — are available to reach investment accounts. Bankruptcy proceedings are not required; a judgment creditor may enforce directly through the civil enforcement process.",

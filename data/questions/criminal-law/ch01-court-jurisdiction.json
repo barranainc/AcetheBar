@@ -74,7 +74,7 @@
       "D": "The accused and Crown jointly elect the mode of proceeding, and the court must approve the joint election."
     },
     "correct_answer": "B",
-    "explanation": "For hybrid offences (also called Crown election offences or dual procedure offences), it is the Crown — not the accused — that elects whether to proceed summarily or by indictment. The Crown must make this election before the accused is required to plead to the charge. Once the Crown elects, the offence is treated as either a summary conviction or indictable offence for all subsequent purposes, including jurisdiction, limitation periods, mode of trial, and available penalties. If the Crown proceeds summarily on assault causing bodily harm, the maximum is 18 months imprisonment; by indictment, the maximum is 10 years.",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 267, For hybrid offences (also called Crown election offences or dual procedure offences), it is the Crown — not the accused — that elects whether to proceed summarily or by indictment. The Crown must make this election before the accused is required to plead to the charge. Once the Crown elects, the offence is treated as either a summary conviction or indictable offence for all subsequent purposes, including jurisdiction, limitation periods, mode of trial, and available penalties. If the Crown proceeds summarily on assault causing bodily harm, the maximum is 18 months imprisonment; by indictment, the maximum is 10 years.",
     "why_A_wrong": "The accused does not elect the mode of proceeding for hybrid offences. It is the Crown's election, not the accused's, that determines whether the matter proceeds summarily or by indictment.",
     "why_B_wrong": "This IS the correct answer. The Crown elects the mode of proceeding for hybrid offences before the accused is required to plead.",
     "why_C_wrong": "The court does not decide the mode of proceeding for hybrid offences. The court's role is adjudicative; the Crown's prosecutorial discretion governs which mode is chosen.",
@@ -185,7 +185,7 @@
       "D": "Samira has no right to elect — for fraud over $5,000, only the Crown determines the mode of trial."
     },
     "correct_answer": "B",
-    "explanation": "For indictable offences that are neither within the absolute jurisdiction of a provincial court judge (s. 553) nor within the exclusive jurisdiction of a superior court (s. 469), the accused has the right under s. 536(2) to elect the mode of trial. The three modes are: (1) trial by a provincial court judge sitting alone without a jury (Ontario Court of Justice); (2) trial by a superior court judge sitting alone without a jury (Superior Court of Justice); and (3) trial by a superior court judge sitting with a jury. Each mode has different implications for preliminary inquiries and procedural steps. Fraud over $5,000 is a non-s. 553, non-s. 469 indictable offence, so Samira has a full election under s. 536.",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 536(2), For indictable offences that are neither within the absolute jurisdiction of a provincial court judge (s. 553) nor within the exclusive jurisdiction of a superior court (s. 469), the accused has the right under s. 536(2) to elect the mode of trial. The three modes are: (1) trial by a provincial court judge sitting alone without a jury (Ontario Court of Justice); (2) trial by a superior court judge sitting alone without a jury (Superior Court of Justice); and (3) trial by a superior court judge sitting with a jury. Each mode has different implications for preliminary inquiries and procedural steps. Fraud over $5,000 is a non-s. 553, non-s. 469 indictable offence, so Samira has a full election under s. 536.",
     "why_A_wrong": "The second option in this answer — Ontario Court of Justice with a preliminary inquiry — does not exist as a distinct mode. Preliminary inquiries under s. 535 are held in provincial court before the accused is committed to stand trial, but they precede election; they are not a separate mode of trial alongside the three modes in s. 536.",
     "why_B_wrong": "This IS the correct answer. The three modes under s. 536 are: (1) provincial court judge alone; (2) superior court judge alone; (3) superior court judge and jury.",
     "why_C_wrong": "Fraud over $5,000 is an indictable offence, not a hybrid offence. The summary conviction option is not available for indictable offences regardless of the accused's preference. The Crown would have to elect summarily for a hybrid offence, but fraud over $5,000 is not hybrid.",
@@ -259,8 +259,19 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["limitation period", "summary conviction", "six months", "s. 786(2)", "information"],
-    "tested_concepts": ["summary conviction limitation period", "s. 786(2) six-month rule", "distinction from indictable procedure", "consent to late institution"],
+    "exam_trigger_words": [
+      "limitation period",
+      "summary conviction",
+      "six months",
+      "s. 786(2)",
+      "information"
+    ],
+    "tested_concepts": [
+      "summary conviction limitation period",
+      "s. 786(2) six-month rule",
+      "distinction from indictable procedure",
+      "consent to late institution"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -304,8 +315,18 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["s. 469", "s. 473", "judge alone", "Attorney General consent", "conspiracy to commit murder"],
-    "tested_concepts": ["s. 473 judge-alone for s. 469 offences", "dual consent requirement", "jury as default for s. 469"],
+    "exam_trigger_words": [
+      "s. 469",
+      "s. 473",
+      "judge alone",
+      "Attorney General consent",
+      "conspiracy to commit murder"
+    ],
+    "tested_concepts": [
+      "s. 473 judge-alone for s. 469 offences",
+      "dual consent requirement",
+      "jury as default for s. 469"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -332,7 +353,7 @@
       "D": "Yes — Marco may re-elect but only with leave of a superior court judge."
     },
     "correct_answer": "B",
-    "explanation": "Section 561 of the Criminal Code governs re-elections after committal for trial. Under s. 561(1)(a), an accused who has been committed to stand trial may re-elect the mode of trial at any time before the trial commences. Where the accused is re-electing to a lower mode — from superior court judge and jury to provincial court judge alone — Crown consent is not required provided the re-election is made within the time limits specified in s. 561. The mechanism allows a 'downward' re-election without Crown consent, though the accused must provide notice in the prescribed form.",
+    "explanation": "Under s.561 of the Criminal Code governs re-elections after committal for trial. Under s. 561(1)(a), an accused who has been committed to stand trial may re-elect the mode of trial at any time before the trial commences. Where the accused is re-electing to a lower mode — from superior court judge and jury to provincial court judge alone — Crown consent is not required provided the re-election is made within the time limits specified in s. 561. The mechanism allows a 'downward' re-election without Crown consent, though the accused must provide notice in the prescribed form.",
     "why_A_wrong": "Section 561 expressly permits re-election after committal. Committal does not freeze the accused's mode of trial choice. Section 561 specifically contemplates post-committal re-elections.",
     "why_B_wrong": "This IS the correct answer. Section 561 permits downward re-election after committal without Crown consent, within the prescribed timelines and with appropriate notice.",
     "why_C_wrong": "Crown consent is not required for a downward re-election under s. 561 after the accused has been committed. Crown consent matters for certain upward re-elections made before the preliminary inquiry concludes.",
@@ -349,8 +370,18 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["re-election", "s. 561", "after committal", "downward re-election", "Crown consent not required"],
-    "tested_concepts": ["s. 561 re-election after committal", "downward re-election without Crown consent", "upward vs downward re-election"],
+    "exam_trigger_words": [
+      "re-election",
+      "s. 561",
+      "after committal",
+      "downward re-election",
+      "Crown consent not required"
+    ],
+    "tested_concepts": [
+      "s. 561 re-election after committal",
+      "downward re-election without Crown consent",
+      "upward vs downward re-election"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -377,7 +408,7 @@
       "D": "The accused must prove actual prejudice from the delay before a s. 11(b) violation can be found."
     },
     "correct_answer": "B",
-    "explanation": "In R. v. Jordan, 2016 SCC 27, the Supreme Court replaced the Morin balancing framework with a presumptive ceiling approach. The ceiling is 18 months from charge to trial for cases tried in provincial court, and 30 months for cases requiring a preliminary inquiry or tried in superior court. Delay beyond the ceiling is presumptively unreasonable, and the Crown must rebut the presumption by establishing exceptional circumstances — such as an unforeseeable discrete event or genuinely exceptional complexity. On Vera's facts, the 31-month delay in a superior court case exceeds the 30-month ceiling, making the delay presumptively unreasonable. The Crown's complexity argument is relevant to the exceptional-circumstances analysis, not to the initial presumption.",
+    "explanation": "Under Canadian Charter of Rights and Freedoms, s. 11(b), In R. v. Jordan, 2016 SCC 27, the Supreme Court replaced the Morin balancing framework with a presumptive ceiling approach. The ceiling is 18 months from charge to trial for cases tried in provincial court, and 30 months for cases requiring a preliminary inquiry or tried in superior court. Delay beyond the ceiling is presumptively unreasonable, and the Crown must rebut the presumption by establishing exceptional circumstances — such as an unforeseeable discrete event or genuinely exceptional complexity. On Vera's facts, the 31-month delay in a superior court case exceeds the 30-month ceiling, making the delay presumptively unreasonable. The Crown's complexity argument is relevant to the exceptional-circumstances analysis, not to the initial presumption.",
     "why_A_wrong": "The Morin four-factor balancing test (length, reason, waiver, prejudice) was the pre-Jordan approach. Jordan replaced that framework with presumptive ceilings, reducing reliance on the subjective prejudice factor and creating clearer rules.",
     "why_B_wrong": "This IS the correct answer. Jordan establishes presumptive ceilings of 18 months (provincial court) and 30 months (superior court); delay beyond these is presumptively unreasonable absent exceptional circumstances.",
     "why_C_wrong": "Jordan does not impose a single 24-month ceiling for all courts. The ceilings differ: 18 months for provincial court and 30 months for superior court. A uniform 24-month rule would misstate the Jordan framework.",
@@ -394,8 +425,21 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["s. 11(b)", "Jordan", "presumptive ceiling", "18 months", "30 months", "unreasonable delay"],
-    "tested_concepts": ["Jordan presumptive ceiling", "18-month provincial court ceiling", "30-month superior court ceiling", "exceptional circumstances", "replacement of Morin framework"],
+    "exam_trigger_words": [
+      "s. 11(b)",
+      "Jordan",
+      "presumptive ceiling",
+      "18 months",
+      "30 months",
+      "unreasonable delay"
+    ],
+    "tested_concepts": [
+      "Jordan presumptive ceiling",
+      "18-month provincial court ceiling",
+      "30-month superior court ceiling",
+      "exceptional circumstances",
+      "replacement of Morin framework"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -439,8 +483,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["summary conviction", "maximum penalty", "two years less a day", "s. 787", "2019 amendment", "default maximum"],
-    "tested_concepts": ["s. 787(1) default summary conviction maximum", "2019 amendment increasing maximum", "Crown election effect on penalties", "two years less a day"],
+    "exam_trigger_words": [
+      "summary conviction",
+      "maximum penalty",
+      "two years less a day",
+      "s. 787",
+      "2019 amendment",
+      "default maximum"
+    ],
+    "tested_concepts": [
+      "s. 787(1) default summary conviction maximum",
+      "2019 amendment increasing maximum",
+      "Crown election effect on penalties",
+      "two years less a day"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",

@@ -88,9 +88,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92; Canadian Western Bank v Alberta, 2007 SCC 22; Rogers Communications Inc v Chateauguay (City), 2016 SCC 23"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["federal paramountcy", "operational conflict", "frustration of federal purpose", "dual compliance", "inoperative"],
-    "tested_concepts": ["two branches of federal paramountcy", "operational conflict impossibility of dual compliance", "frustration of federal purpose"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "federal paramountcy",
+      "operational conflict",
+      "frustration of federal purpose",
+      "dual compliance",
+      "inoperative"
+    ],
+    "tested_concepts": [
+      "two branches of federal paramountcy",
+      "operational conflict impossibility of dual compliance",
+      "frustration of federal purpose"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -117,7 +129,7 @@
       "D": "No. A person cannot be charged under both a federal criminal law and a provincial penal law for the same act without violating s. 11 of the Charter."
     },
     "correct_answer": "B",
-    "explanation": "The double aspect doctrine, recognized in Canadian constitutional law, holds that some matters have both federal and provincial aspects and may be validly regulated by both levels of government from their respective constitutional perspectives. The federal law addresses distracted driving as a criminal matter (public safety, moral blameworthiness, criminal record); the provincial law addresses it as a traffic safety and road regulation matter. Both laws are valid in their pith and substance. They will coexist unless and until operational conflict or frustration of federal purpose triggers paramountcy, rendering one inoperative.",
+    "explanation": "Under Constitution Act, 1867, s. 91, s. 92, the double aspect doctrine, recognized in Canadian constitutional law, holds that some matters have both federal and provincial aspects and may be validly regulated by both levels of government from their respective constitutional perspectives. The federal law addresses distracted driving as a criminal matter (public safety, moral blameworthiness, criminal record); the provincial law addresses it as a traffic safety and road regulation matter. Both laws are valid in their pith and substance. They will coexist unless and until operational conflict or frustration of federal purpose triggers paramountcy, rendering one inoperative.",
     "why_A_wrong": "Incorrect. The double aspect doctrine rejects this view; federal legislation on a subject does not automatically preclude all provincial legislation touching the same conduct.",
     "why_B_wrong": "This IS the correct answer. Yes. The double aspect doctrine recognizes that a single subject of legislation may have both federal and provincial aspects; where each law is valid in pith and substance under its respective head of power, both may validly coexist unless federal paramountcy renders one inoperative.",
     "why_C_wrong": "Incorrect. The double aspect doctrine does not require simultaneous enactment; both laws can validly coexist regardless of the order in which they were enacted.",
@@ -130,9 +142,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92; Canadian Western Bank v Alberta, 2007 SCC 22"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["double aspect doctrine", "federal and provincial aspects", "same conduct", "coexist", "paramountcy"],
-    "tested_concepts": ["double aspect doctrine", "validity of overlapping federal and provincial laws", "paramountcy as the resolution mechanism"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "double aspect doctrine",
+      "federal and provincial aspects",
+      "same conduct",
+      "coexist",
+      "paramountcy"
+    ],
+    "tested_concepts": [
+      "double aspect doctrine",
+      "validity of overlapping federal and provincial laws",
+      "paramountcy as the resolution mechanism"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -159,7 +183,7 @@
       "D": "Interjurisdictional immunity applies automatically to all federally regulated industries, including banks, railways, and telecommunications companies, regardless of the nature of the provincial law."
     },
     "correct_answer": "B",
-    "explanation": "The Supreme Court of Canada in Canadian Western Bank v Alberta, 2007 SCC 22, and Rogers Communications Inc v Chateauguay (City), 2016 SCC 23, significantly narrowed the doctrine of interjurisdictional immunity. The doctrine applies only where a provincial law impairs the 'core' of a federal head of power or a vital and essential part of a federal undertaking. The Court expressed a preference for the paramountcy doctrine over interjurisdictional immunity and stated that IJI should be applied with restraint to avoid creating watertight compartments of exclusive federal authority. In Rogers, the Court found municipal zoning that prevented telecommunications installation impaired the core of federal telecommunications jurisdiction.",
+    "explanation": "Under Constitution Act, 1867, s. 91, s. 92, the Supreme Court of Canada in Canadian Western Bank v Alberta, 2007 SCC 22, and Rogers Communications Inc v Chateauguay (City), 2016 SCC 23, significantly narrowed the doctrine of interjurisdictional immunity. The doctrine applies only where a provincial law impairs the 'core' of a federal head of power or a vital and essential part of a federal undertaking. The Court expressed a preference for the paramountcy doctrine over interjurisdictional immunity and stated that IJI should be applied with restraint to avoid creating watertight compartments of exclusive federal authority. In Rogers, the Court found municipal zoning that prevented telecommunications installation impaired the core of federal telecommunications jurisdiction.",
     "why_A_wrong": "Incorrect. After Canadian Western Bank and Rogers, the broad approach to IJI (applying it whenever a federal undertaking is 'affected') was rejected; the doctrine requires impairment of the vital or essential core, not mere regulation.",
     "why_B_wrong": "This IS the correct answer. A provincial law is inapplicable to a federal undertaking only where it impairs the vital or essential core of the federal head of power or undertaking; the doctrine of interjurisdictional immunity should be applied with restraint and only where the constitutional text or clear precedent requires it.",
     "why_C_wrong": "Incorrect. Interjurisdictional immunity operates by force of constitutional law and does not require an express federal displacement; where the doctrine applies, the provincial law is inapplicable regardless of whether Parliament has addressed the matter.",
@@ -172,9 +196,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92; Canadian Western Bank v Alberta, 2007 SCC 22; Rogers Communications Inc v Chateauguay (City), 2016 SCC 23"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["interjurisdictional immunity", "vital or essential core", "federal undertaking", "inapplicable", "Canadian Western Bank"],
-    "tested_concepts": ["interjurisdictional immunity vital or essential core test", "IJI applied with restraint post-Canadian Western Bank", "preference for paramountcy over IJI"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "interjurisdictional immunity",
+      "vital or essential core",
+      "federal undertaking",
+      "inapplicable",
+      "Canadian Western Bank"
+    ],
+    "tested_concepts": [
+      "interjurisdictional immunity vital or essential core test",
+      "IJI applied with restraint post-Canadian Western Bank",
+      "preference for paramountcy over IJI"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -201,7 +237,7 @@
       "D": "The national concern branch of POGG applies only to matters that span multiple provinces; it does not apply to ocean dumping, which occurs in federal waters."
     },
     "correct_answer": "B",
-    "explanation": "The national concern branch of POGG was established in R. v Crown Zellerbach Canada Ltd., [1988] 1 SCR 401. The Supreme Court held that for a matter to fall under the national concern branch, it must have a singleness, distinctiveness, and indivisibility that clearly distinguishes it from matters of provincial concern, and that the failure of one province to legislate or effectively regulate the matter would have an adverse effect on other provinces or on the country as a whole (the 'provincial inability' test). The court upheld ocean dumping as a matter of national concern given the indivisible nature of marine environmental protection.",
+    "explanation": "Under Constitution Act, 1867, s. 91 (preamble — POGG), the national concern branch of POGG was established in R. v Crown Zellerbach Canada Ltd., [1988] 1 SCR 401. The Supreme Court held that for a matter to fall under the national concern branch, it must have a singleness, distinctiveness, and indivisibility that clearly distinguishes it from matters of provincial concern, and that the failure of one province to legislate or effectively regulate the matter would have an adverse effect on other provinces or on the country as a whole (the 'provincial inability' test). The court upheld ocean dumping as a matter of national concern given the indivisible nature of marine environmental protection.",
     "why_A_wrong": "Incorrect. The emergency branch — not the national concern branch — is what applies during a national emergency. The national concern branch is a permanent grant of legislative authority over matters that are national in character, not limited to emergencies.",
     "why_B_wrong": "This IS the correct answer. Under the national concern branch established in R. v Crown Zellerbach, the matter must have a singleness, distinctiveness, and indivisibility that clearly distinguishes it from matters of provincial concern; and the scale of impact on provincial jurisdiction must be reconcilable with the division of powers.",
     "why_C_wrong": "Incorrect. POGG is not a general power for Parliament to legislate on any matter it considers nationally important; the national concern branch has specific criteria (singleness, distinctiveness, indivisibility, provincial inability) that must be met.",
@@ -214,9 +250,22 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, s. 91 (preamble — POGG); R v Crown Zellerbach Canada Ltd., [1988] 1 SCR 401"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["POGG", "national concern", "Crown Zellerbach", "singleness distinctiveness indivisibility", "provincial inability"],
-    "tested_concepts": ["POGG national concern branch criteria", "Crown Zellerbach test singleness distinctiveness indivisibility", "provincial inability test", "distinction from emergency branch"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "POGG",
+      "national concern",
+      "Crown Zellerbach",
+      "singleness distinctiveness indivisibility",
+      "provincial inability"
+    ],
+    "tested_concepts": [
+      "POGG national concern branch criteria",
+      "Crown Zellerbach test singleness distinctiveness indivisibility",
+      "provincial inability test",
+      "distinction from emergency branch"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -256,9 +305,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, ss. 91, 92; Canadian Western Bank v Alberta, 2007 SCC 22"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["double aspect doctrine", "pith and substance", "paramountcy", "operational conflict", "s. 91(27) criminal law", "s. 92(15)", "coexistence"],
-    "tested_concepts": ["double aspect doctrine — dual validity under different heads of power", "pith and substance characterization required before double aspect applies", "paramountcy resolves operational conflict but does not invalidate provincial law", "s. 92(16) residual clause not a blank authorization"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "double aspect doctrine",
+      "pith and substance",
+      "paramountcy",
+      "operational conflict",
+      "s. 91(27) criminal law",
+      "s. 92(15)",
+      "coexistence"
+    ],
+    "tested_concepts": [
+      "double aspect doctrine — dual validity under different heads of power",
+      "pith and substance characterization required before double aspect applies",
+      "paramountcy resolves operational conflict but does not invalidate provincial law",
+      "s. 92(16) residual clause not a blank authorization"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -285,7 +349,7 @@
       "D": "Parliament may only use s. 91(27) to legislate on matters exclusively federal in nature; the criminal law power cannot be used for matters that also fall within provincial jurisdiction."
     },
     "correct_answer": "B",
-    "explanation": "The three-part test for valid federal criminal law was established in Reference re Firearms Act, [2000] 1 SCR 783, and confirmed in R v Morgentaler, [1993] 3 SCR 463. The legislation must: (1) contain a prohibition; (2) backed by a penalty; and (3) be directed at a criminal law purpose such as public safety, public health, public morality, public order, or security. Courts give Parliament wide latitude under s. 91(27); protection of public health — including from harmful pesticides — is a recognized criminal law purpose. The law is not invalidated simply because it also incidentally affects provincially regulated industries, provided the dominant purpose is genuinely criminal.",
+    "explanation": "Under Constitution Act, 1867, s. 91(27), the three-part test for valid federal criminal law was established in Reference re Firearms Act, [2000] 1 SCR 783, and confirmed in R v Morgentaler, [1993] 3 SCR 463. The legislation must: (1) contain a prohibition; (2) backed by a penalty; and (3) be directed at a criminal law purpose such as public safety, public health, public morality, public order, or security. Courts give Parliament wide latitude under s. 91(27); protection of public health — including from harmful pesticides — is a recognized criminal law purpose. The law is not invalidated simply because it also incidentally affects provincially regulated industries, provided the dominant purpose is genuinely criminal.",
     "why_A_wrong": "Incorrect. Section 91(27) is not limited to criminalizing historically criminal conduct; Parliament has broad power to create new criminal prohibitions in furtherance of recognized criminal law purposes.",
     "why_B_wrong": "This IS the correct answer. Federal criminal law under s. 91(27) requires: (1) a prohibition; (2) a penalty; and (3) a criminal law purpose — typically protection of a public interest such as public safety, public health, public morality, or security. The breadth of the criminal law power is wide, and courts do not require Parliament to prove the prohibited conduct is immoral.",
     "why_C_wrong": "Incorrect. A penalty alone does not satisfy the criminal law purpose requirement; the legislation must also have a genuine criminal law purpose, not merely a regulatory one with a penalty attached.",
@@ -298,9 +362,22 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, s. 91(27); Reference re Firearms Act, [2000] 1 SCR 783; R v Morgentaler, [1993] 3 SCR 463"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["s. 91(27)", "criminal law power", "prohibition penalty purpose", "public health", "Firearms Act"],
-    "tested_concepts": ["three-part test for valid criminal law", "prohibition penalty criminal law purpose", "breadth of s. 91(27)", "Reference re Firearms Act"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "s. 91(27)",
+      "criminal law power",
+      "prohibition penalty purpose",
+      "public health",
+      "Firearms Act"
+    ],
+    "tested_concepts": [
+      "three-part test for valid criminal law",
+      "prohibition penalty criminal law purpose",
+      "breadth of s. 91(27)",
+      "Reference re Firearms Act"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -327,7 +404,7 @@
       "D": "The Ontario Act would be valid only if it mirrors the mandatory coverage provisions already required under the federal Insurance Companies Act; a provincial law imposing different or additional coverage terms is automatically in operational conflict with federal law."
     },
     "correct_answer": "B",
-    "explanation": "Section 92(13) grants provinces exclusive jurisdiction over 'property and civil rights in the province,' which the courts have interpreted broadly to include the regulation of contracts, including insurance contracts. Provincial legislation mandating coverage terms and prohibiting exclusions in policies issued in the province is directed at the contractual relationship between insurer and insured — a matter of civil rights in the province — not at the corporate structure or solvency of the insurer. IJI (interjurisdictional immunity) requires impairment of the vital and essential core of the federal subject matter, not merely incidental effects on a federally regulated entity's commercial operations. Federal regulation of insurance companies under the Insurance Companies Act primarily addresses solvency, capitalization, and corporate governance — not the specific terms of individual consumer contracts. Paramountcy arises only where compliance with both statutes is impossible or where the provincial law frustrates a federal purpose; Ontario requiring mandatory coverage does not conflict with federal solvency requirements. The Ontario Act therefore validly applies to Intact under s. 92(13).",
+    "explanation": "Under s.92(13) grants provinces exclusive jurisdiction over 'property and civil rights in the province,' which the courts have interpreted broadly to include the regulation of contracts, including insurance contracts. Provincial legislation mandating coverage terms and prohibiting exclusions in policies issued in the province is directed at the contractual relationship between insurer and insured — a matter of civil rights in the province — not at the corporate structure or solvency of the insurer. IJI (interjurisdictional immunity) requires impairment of the vital and essential core of the federal subject matter, not merely incidental effects on a federally regulated entity's commercial operations. Federal regulation of insurance companies under the Insurance Companies Act primarily addresses solvency, capitalization, and corporate governance — not the specific terms of individual consumer contracts. Paramountcy arises only where compliance with both statutes is impossible or where the provincial law frustrates a federal purpose; Ontario requiring mandatory coverage does not conflict with federal solvency requirements. The Ontario Act therefore validly applies to Intact under s. 92(13).",
     "why_A_wrong": "Incorrect. This is an Overstatement Trap. Insurance regulation is not an exclusively federal matter; the Supreme Court has consistently held that provincial regulation of the terms of insurance contracts falls within s. 92(13). Federal jurisdiction over insurance companies under s. 91(2) concerns corporate structure and solvency, not the content of individual policies issued in the province.",
     "why_B_wrong": "This IS the correct answer. The Ontario Act is constitutionally valid under s. 92(13) because it regulates the terms of insurance contracts in the province — a core area of property and civil rights — and IJI does not apply unless the provincial law impairs the vital and essential core of the federal incorporation scheme, not merely the business conduct of the insurer; paramountcy applies only where compliance with both laws is impossible or where the provincial law frustrates federal purpose.",
     "why_C_wrong": "Incorrect. This is a Misapplied Tool trap. IJI does not grant blanket immunity to all federally incorporated entities from all provincial regulation. Following Canadian Western Bank v Alberta, 2007 SCC 22, IJI requires that the provincial law impair the essential and vital core of the federal legislative authority — such as solvency regulation of an insurer — not merely incidentally regulate the commercial conduct of a federally incorporated entity in the province.",
@@ -340,9 +417,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, ss. 91(2), 92(13); Canadian Western Bank v Alberta, 2007 SCC 22; Insurance Companies Act, RSC 1991, c. 47"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["s. 92(13)", "property and civil rights", "interjurisdictional immunity", "paramountcy", "IJI vital core", "insurance contracts", "federally incorporated"],
-    "tested_concepts": ["s. 92(13) scope includes insurance contract terms", "IJI requires impairment of vital and essential core — not mere incidental effect", "paramountcy requires operational conflict or frustration of federal purpose", "federal insurance regulation targets solvency not contract terms"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "s. 92(13)",
+      "property and civil rights",
+      "interjurisdictional immunity",
+      "paramountcy",
+      "IJI vital core",
+      "insurance contracts",
+      "federally incorporated"
+    ],
+    "tested_concepts": [
+      "s. 92(13) scope includes insurance contract terms",
+      "IJI requires impairment of vital and essential core — not mere incidental effect",
+      "paramountcy requires operational conflict or frustration of federal purpose",
+      "federal insurance regulation targets solvency not contract terms"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -369,7 +461,7 @@
       "D": "Yes, but only if the provincial law has been specifically authorized by the federal Bank Act."
     },
     "correct_answer": "B",
-    "explanation": "In Canadian Western Bank v Alberta, 2007 SCC 22, the Supreme Court of Canada rejected the broad application of interjurisdictional immunity and held that the doctrine should be applied with restraint, reserved for impairment of the vital and essential core of a federal undertaking. Provincial consumer protection laws that impose general disclosure obligations do not impair the essential banking functions of a federally chartered bank; they regulate the bank's conduct in the consumer marketplace in a manner similar to how any commercial lender would be regulated. Such laws are not inapplicable under IJI. If a conflict arises with specific federal banking regulation, the paramountcy doctrine would resolve it.",
+    "explanation": "Under Constitution Act, 1867, s. 91(15) (banking), s. 92(13), In Canadian Western Bank v Alberta, 2007 SCC 22, the Supreme Court of Canada rejected the broad application of interjurisdictional immunity and held that the doctrine should be applied with restraint, reserved for impairment of the vital and essential core of a federal undertaking. Provincial consumer protection laws that impose general disclosure obligations do not impair the essential banking functions of a federally chartered bank; they regulate the bank's conduct in the consumer marketplace in a manner similar to how any commercial lender would be regulated. Such laws are not inapplicable under IJI. If a conflict arises with specific federal banking regulation, the paramountcy doctrine would resolve it.",
     "why_A_wrong": "Incorrect. The fact that banking is an enumerated federal head of power does not mean all provincial laws are automatically inapplicable; IJI requires impairment of the vital or essential core, and mere regulation of banking activities does not establish inapplicability.",
     "why_B_wrong": "This IS the correct answer. Yes. Under Canadian Western Bank, interjurisdictional immunity requires impairment of the vital or essential core of banking; general consumer protection disclosure requirements do not impair that core and may validly apply to federally chartered banks.",
     "why_C_wrong": "Incorrect. Provincial consumer protection laws do not automatically become inapplicable to banks simply because banking contracts are regulated federally; the IJI doctrine requires showing that the specific provincial law impairs the core of banking, which general disclosure requirements do not.",
@@ -382,9 +474,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, s. 91(15) (banking), s. 92(13); Canadian Western Bank v Alberta, 2007 SCC 22"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["interjurisdictional immunity", "banking s. 91(15)", "vital or essential core", "consumer protection", "Canadian Western Bank"],
-    "tested_concepts": ["IJI applied with restraint post-Canadian Western Bank", "core of banking not impaired by general consumer protection", "paramountcy as alternative resolution"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "interjurisdictional immunity",
+      "banking s. 91(15)",
+      "vital or essential core",
+      "consumer protection",
+      "Canadian Western Bank"
+    ],
+    "tested_concepts": [
+      "IJI applied with restraint post-Canadian Western Bank",
+      "core of banking not impaired by general consumer protection",
+      "paramountcy as alternative resolution"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -424,9 +528,22 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, s. 91 (POGG preamble); Reference re Anti-Inflation Act, [1976] 2 SCR 373; Reference re Wartime Leasehold Regulations, [1950] SCR 124"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["POGG emergency branch", "national emergency", "temporary federal intrusion", "Anti-Inflation Act", "wartime"],
-    "tested_concepts": ["POGG emergency branch conditions", "temporary nature of emergency power", "distinction from national concern branch", "peacetime emergencies can qualify"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "POGG emergency branch",
+      "national emergency",
+      "temporary federal intrusion",
+      "Anti-Inflation Act",
+      "wartime"
+    ],
+    "tested_concepts": [
+      "POGG emergency branch conditions",
+      "temporary nature of emergency power",
+      "distinction from national concern branch",
+      "peacetime emergencies can qualify"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -453,7 +570,7 @@
       "D": "A provincial law with any effect on interprovincial trade is automatically within federal jurisdiction under the trade and commerce power in s. 91(2)."
     },
     "correct_answer": "C",
-    "explanation": "The pith and substance doctrine holds that legislation is characterized by its dominant purpose and legal effect (its 'matter'), not by its incidental effects on other matters. A valid provincial law may incidentally affect matters within federal jurisdiction without becoming unconstitutional on that basis alone, as long as its dominant purpose is within provincial jurisdiction. Here, a provincial compensation scheme for environmental harm is properly characterized as a matter of property and civil rights (s. 92(13)) and environmental protection, which are provincial. The incidental effect of raising production costs, while touching on interprovincial trade, does not change the pith and substance of the legislation.",
+    "explanation": "Under Constitution Act, 1867, s. 91, s. 92, the pith and substance doctrine holds that legislation is characterized by its dominant purpose and legal effect (its 'matter'), not by its incidental effects on other matters. A valid provincial law may incidentally affect matters within federal jurisdiction without becoming unconstitutional on that basis alone, as long as its dominant purpose is within provincial jurisdiction. Here, a provincial compensation scheme for environmental harm is properly characterized as a matter of property and civil rights (s. 92(13)) and environmental protection, which are provincial. The incidental effect of raising production costs, while touching on interprovincial trade, does not change the pith and substance of the legislation.",
     "why_A_wrong": "Incorrect. The pith and substance doctrine expressly accommodates incidental effects; it is the dominant purpose that determines characterization, not incidental effects.",
     "why_B_wrong": "Incorrect. The constitutional validity of provincial legislation does not depend on federal government objection; it depends on whether the law, characterized by its pith and substance, falls within a valid provincial head of power.",
     "why_C_wrong": "This IS the correct answer. Under the pith and substance doctrine, incidental effects of a provincial law on matters within federal jurisdiction do not render the law unconstitutional, provided the dominant purpose and legal effect of the law fall within a valid head of provincial power; a law is characterized by its pith and substance, not by its incidental effects.",
@@ -466,9 +583,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92; Canadian Western Bank v Alberta, 2007 SCC 22; Reference re Firearms Act, [2000] 1 SCR 783"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["pith and substance", "incidental effects", "dominant purpose", "characterization", "valid provincial law"],
-    "tested_concepts": ["incidental effects do not invalidate valid provincial law", "dominant purpose characterization", "pith and substance doctrine"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "pith and substance",
+      "incidental effects",
+      "dominant purpose",
+      "characterization",
+      "valid provincial law"
+    ],
+    "tested_concepts": [
+      "incidental effects do not invalidate valid provincial law",
+      "dominant purpose characterization",
+      "pith and substance doctrine"
+    ],
     "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -495,7 +624,7 @@
       "D": "No. Health care is exclusively provincial under s. 92(7), and the Canada Health Act is therefore unconstitutional."
     },
     "correct_answer": "B",
-    "explanation": "The federal spending power refers to Parliament's ability to spend public funds in areas that may fall within provincial jurisdiction. While there is no express head of power conferring this authority, it is grounded in Parliament's power over public debt and property (s. 91(1A)), Consolidated Revenue Fund (s. 106), and general appropriation authority. The spending power has been recognized by convention and the courts as valid; Parliament may impose conditions on federal grants without being considered to 'legislate' in the provincial field. Provinces are free to accept or decline, and some programs include opt-out provisions. The Canada Health Act is the paradigmatic example of conditional federal spending accepted by all provinces.",
+    "explanation": "Under Constitution Act, 1867, ss. 91(1A), 106, the federal spending power refers to Parliament's ability to spend public funds in areas that may fall within provincial jurisdiction. While there is no express head of power conferring this authority, it is grounded in Parliament's power over public debt and property (s. 91(1A)), Consolidated Revenue Fund (s. 106), and general appropriation authority. The spending power has been recognized by convention and the courts as valid; Parliament may impose conditions on federal grants without being considered to 'legislate' in the provincial field. Provinces are free to accept or decline, and some programs include opt-out provisions. The Canada Health Act is the paradigmatic example of conditional federal spending accepted by all provinces.",
     "why_A_wrong": "Incorrect. The federal spending power is a recognized constitutional doctrine that permits Parliament to spend in areas of provincial jurisdiction; refusal to recognize this power would overturn decades of established federal-provincial fiscal arrangements.",
     "why_B_wrong": "This IS the correct answer. Yes. The federal spending power — though not expressly listed in the Constitution Act, 1867 — is recognized by constitutional convention and practice; Parliament may make conditional grants to provinces even in areas of provincial jurisdiction, and provinces retain the right to opt out. Mere spending with conditions attached does not legislate in the provincial field.",
     "why_C_wrong": "Incorrect. Individual provincial consent expressed through mirroring legislation is not a constitutional requirement for the federal spending power; provinces participate voluntarily in federal-provincial programs but the power exists without individual provincial consent.",
@@ -508,9 +637,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, ss. 91(1A), 106; Canada Health Act, R.S.C. 1985, c. C-6"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["federal spending power", "conditional grants", "provincial jurisdiction", "opt out", "Canada Health Act"],
-    "tested_concepts": ["federal spending power not expressly enumerated", "conditions attached do not constitute legislation", "provincial right to opt out"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "federal spending power",
+      "conditional grants",
+      "provincial jurisdiction",
+      "opt out",
+      "Canada Health Act"
+    ],
+    "tested_concepts": [
+      "federal spending power not expressly enumerated",
+      "conditions attached do not constitute legislation",
+      "provincial right to opt out"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -537,7 +678,7 @@
       "D": "The federal spending power is unconstitutional in any area covered by s. 92; provinces must consent to all conditions before federal spending occurs."
     },
     "correct_answer": "B",
-    "explanation": "The federal spending power permits Parliament to attach conditions to financial transfers without those conditions constituting legislation in the provincial field, because the province is free to accept or decline. The constitutional limit arises when the 'spending power' is used colourably — that is, when Parliament imposes detailed regulatory requirements on all persons or entities in the provincial field, not just on recipients of federal funds. In this scenario, the Act imposes federal compliance standards on all childcare centres regardless of funding, which is indistinguishable from direct regulation of a provincial field (childcare services fall under ss. 92(13) and 92(16)). This crosses the line from permissible spending to unconstitutional federal regulation.",
+    "explanation": "Under Constitution Act, 1867, s. 91, s. 92, the federal spending power permits Parliament to attach conditions to financial transfers without those conditions constituting legislation in the provincial field, because the province is free to accept or decline. The constitutional limit arises when the 'spending power' is used colourably — that is, when Parliament imposes detailed regulatory requirements on all persons or entities in the provincial field, not just on recipients of federal funds. In this scenario, the Act imposes federal compliance standards on all childcare centres regardless of funding, which is indistinguishable from direct regulation of a provincial field (childcare services fall under ss. 92(13) and 92(16)). This crosses the line from permissible spending to unconstitutional federal regulation.",
     "why_A_wrong": "Incorrect. The spending power is not unlimited; using spending power as a vehicle for comprehensive regulation of a provincial field on all entities — not merely conditions on recipients — exceeds what the doctrine permits.",
     "why_B_wrong": "This IS the correct answer. The federal spending power allows Parliament to attach conditions to financial grants but does not permit Parliament to impose detailed regulatory requirements on all entities in a provincial field regardless of whether they receive federal funds.",
     "why_C_wrong": "Incorrect. Section 36 of the Constitution Act, 1982, addresses the commitment to equalization and regional disparities, not the constitutional limit on the spending power; the limit on spending power is a pith-and-substance-based distinction between spending and regulation.",
@@ -550,9 +691,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92; Constitution Act, 1982, s. 36"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["spending power limit", "colourability", "conditions on all entities", "regulation vs spending", "childcare"],
-    "tested_concepts": ["spending power vs direct regulation distinction", "conditions on recipients only vs all entities", "colourability doctrine applied to spending power"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "spending power limit",
+      "colourability",
+      "conditions on all entities",
+      "regulation vs spending",
+      "childcare"
+    ],
+    "tested_concepts": [
+      "spending power vs direct regulation distinction",
+      "conditions on recipients only vs all entities",
+      "colourability doctrine applied to spending power"
+    ],
     "estimated_time_seconds": 180,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -579,7 +732,7 @@
       "D": "Constitutional interpretation requires a referendum to determine whether new technologies are assigned to federal or provincial jurisdiction."
     },
     "correct_answer": "B",
-    "explanation": "The 'living tree' doctrine, first articulated by the Judicial Committee of the Privy Council in Edwards v Canada (AG), [1930] AC 124, holds that the Constitution Act, 1867, is a living instrument capable of growth and expansion to meet new social realities. Courts are to give a 'large and liberal interpretation' to heads of power; they are not confined to their 1867 content. AI used in banking or financial services may well fall within the banking (s. 91(15)) and trade and commerce (s. 91(2)) heads of power as those heads are given their proper modern scope. A restrictive frozen-in-1867 approach has been firmly rejected by Canadian courts.",
+    "explanation": "Under Constitution Act, 1867, s. 91, the 'living tree' doctrine, first articulated by the Judicial Committee of the Privy Council in Edwards v Canada (AG), [1930] AC 124, holds that the Constitution Act, 1867, is a living instrument capable of growth and expansion to meet new social realities. Courts are to give a 'large and liberal interpretation' to heads of power; they are not confined to their 1867 content. AI used in banking or financial services may well fall within the banking (s. 91(15)) and trade and commerce (s. 91(2)) heads of power as those heads are given their proper modern scope. A restrictive frozen-in-1867 approach has been firmly rejected by Canadian courts.",
     "why_A_wrong": "Incorrect. Narrow literal interpretation frozen at 1867 was rejected by the Privy Council in Edwards and by the Supreme Court of Canada; the living tree doctrine requires a broad and liberal approach.",
     "why_B_wrong": "This IS the correct answer. Under the 'living tree' doctrine affirmed in Edwards v Canada (AG), the Constitution is a living document that must be interpreted broadly and liberally to accommodate new realities; heads of power are not frozen at their 1867 meaning but extend to new subject matters that fall within their essential purpose.",
     "why_C_wrong": "Incorrect. New subject matters do not automatically fall under POGG; the court must first assess whether the matter fits within an existing enumerated head of power before resorting to the POGG residuary.",
@@ -592,9 +745,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, s. 91; Edwards v Canada (Attorney General), [1930] AC 124 (PC)"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["living tree", "large and liberal interpretation", "new subject matter", "1867", "not frozen"],
-    "tested_concepts": ["living tree doctrine", "large and liberal interpretation of heads of power", "constitution accommodates new realities"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "living tree",
+      "large and liberal interpretation",
+      "new subject matter",
+      "1867",
+      "not frozen"
+    ],
+    "tested_concepts": [
+      "living tree doctrine",
+      "large and liberal interpretation of heads of power",
+      "constitution accommodates new realities"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -621,7 +786,7 @@
       "D": "The ancillary powers doctrine does not apply to criminal law legislation; any provision of a criminal law Act that touches provincial jurisdiction is automatically severed."
     },
     "correct_answer": "B",
-    "explanation": "The ancillary powers doctrine allows an otherwise ultra vires provision to be upheld if it is sufficiently integrated into a valid legislative scheme and is necessary for the scheme to operate effectively. In General Motors of Canada Ltd v City National Leasing, [1989] 1 SCR 641, the Supreme Court adopted a proportionality approach: the more serious the intrusion into provincial jurisdiction, the stronger the functional connection to the valid scheme must be. For a minor intrusion, a rational functional connection suffices; for a more significant intrusion, the provision must be truly necessary for the scheme's effectiveness. The civil liability provision in the securities fraud Act may satisfy this test if it is integral to achieving the Act's anti-fraud criminal law purpose.",
+    "explanation": "Under Constitution Act, 1867, s. 91, s. 92, the ancillary powers doctrine allows an otherwise ultra vires provision to be upheld if it is sufficiently integrated into a valid legislative scheme and is necessary for the scheme to operate effectively. In General Motors of Canada Ltd v City National Leasing, [1989] 1 SCR 641, the Supreme Court adopted a proportionality approach: the more serious the intrusion into provincial jurisdiction, the stronger the functional connection to the valid scheme must be. For a minor intrusion, a rational functional connection suffices; for a more significant intrusion, the provision must be truly necessary for the scheme's effectiveness. The civil liability provision in the securities fraud Act may satisfy this test if it is integral to achieving the Act's anti-fraud criminal law purpose.",
     "why_A_wrong": "Incorrect. The ancillary powers doctrine specifically avoids automatic severance by asking whether the impugned provision can be saved as sufficiently integrated into the valid scheme; severance is only appropriate where the provision cannot be so integrated.",
     "why_B_wrong": "This IS the correct answer. Under the ancillary powers doctrine, a provision that encroaches on provincial jurisdiction may be upheld if it is sufficiently integrated into a valid federal scheme — that is, if there is a rational functional connection between the provision and the valid part of the scheme, and if the provision is necessary to carry the scheme into operation.",
     "why_C_wrong": "Incorrect. The ancillary doctrine is not automatic; courts apply a proportionality analysis — the degree of intrusion determines how close the functional connection must be. Valid remainder alone does not save the encroaching provision.",
@@ -634,9 +799,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92; General Motors of Canada Ltd v City National Leasing, [1989] 1 SCR 641"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["ancillary powers", "functional connection", "necessary to carry scheme", "encroachment", "General Motors"],
-    "tested_concepts": ["ancillary powers doctrine", "rational functional connection test", "proportionality based on degree of intrusion"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "ancillary powers",
+      "functional connection",
+      "necessary to carry scheme",
+      "encroachment",
+      "General Motors"
+    ],
+    "tested_concepts": [
+      "ancillary powers doctrine",
+      "rational functional connection test",
+      "proportionality based on degree of intrusion"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -663,7 +840,7 @@
       "D": "No. Referential incorporation is only permitted from provincial to provincial legislation; cross-jurisdictional incorporation is unconstitutional."
     },
     "correct_answer": "B",
-    "explanation": "Co-operative federalism is a constitutional doctrine that supports the validity of interlocking federal-provincial regulatory regimes. In OPSEU v Ontario (AG), [1987] 2 SCR 2, and subsequent cases, the Supreme Court confirmed that legislatures may incorporate standards from other jurisdictions by reference. Referential incorporation does not constitute a delegation of legislative power because the incorporating legislature retains authority to amend or repeal the incorporating provision; it is an exercise, not a surrender, of legislative authority. Interlocking regimes where provincial law incorporates federal standards are a recognized and encouraged feature of Canadian co-operative federalism.",
+    "explanation": "Under Constitution Act, 1867, s. 91, s. 92, Co-operative federalism is a constitutional doctrine that supports the validity of interlocking federal-provincial regulatory regimes. In OPSEU v Ontario (AG), [1987] 2 SCR 2, and subsequent cases, the Supreme Court confirmed that legislatures may incorporate standards from other jurisdictions by reference. Referential incorporation does not constitute a delegation of legislative power because the incorporating legislature retains authority to amend or repeal the incorporating provision; it is an exercise, not a surrender, of legislative authority. Interlocking regimes where provincial law incorporates federal standards are a recognized and encouraged feature of Canadian co-operative federalism.",
     "why_A_wrong": "Incorrect. Referential incorporation is not an unconstitutional delegation; the provincial legislature remains free to repeal or amend the provision incorporating federal standards. The doctrine of co-operative federalism permits such arrangements.",
     "why_B_wrong": "This IS the correct answer. Yes. The doctrine of co-operative federalism recognizes that federal and provincial legislative regimes may be designed to work together; a province may validly incorporate federal standards by reference into provincial legislation without this constituting an unconstitutional delegation, because the provincial legislature retains the authority to repeal or amend the incorporating provision at any time.",
     "why_C_wrong": "Incorrect. Federal consent is not a constitutional requirement for a province to incorporate federal standards by reference; the incorporating province exercises its own legislative authority and requires no federal approval.",
@@ -676,9 +853,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92; OPSEU v Ontario (AG), [1987] 2 SCR 2; Canadian Environmental Protection Act, 1999, S.C. 1999, c. 33"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["co-operative federalism", "referential incorporation", "interlocking regimes", "delegation", "incorporates by reference"],
-    "tested_concepts": ["co-operative federalism permits referential incorporation", "not an unconstitutional delegation", "legislature retains repeal authority"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "co-operative federalism",
+      "referential incorporation",
+      "interlocking regimes",
+      "delegation",
+      "incorporates by reference"
+    ],
+    "tested_concepts": [
+      "co-operative federalism permits referential incorporation",
+      "not an unconstitutional delegation",
+      "legislature retains repeal authority"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -705,7 +894,7 @@
       "D": "All environmental regulation requires the joint approval of both Parliament and a majority of provincial legislatures before it can take effect."
     },
     "correct_answer": "C",
-    "explanation": "The environment is not a discrete enumerated head of power in the Constitution Act, 1867; it falls under multiple overlapping federal and provincial heads. Parliament may regulate environmental matters under s. 91(12) (sea coast and inland fisheries), s. 91(27) (criminal law — Canadian Environmental Protection Act is a recognized exercise of the criminal law power to protect public health and the environment), and the national concern branch of POGG for matters like greenhouse gas emissions that are indivisible and nationally significant (as confirmed by the Supreme Court in References re Greenhouse Gas Pollution Pricing Act, 2021 SCC 11). Provinces may regulate under ss. 92(13) and 92(16). The double aspect doctrine allows both levels to operate in the same space; paramountcy resolves conflicts.",
+    "explanation": "Under Constitution Act, 1867, ss. 91(12), 91(27), 92(13), 92(16), the environment is not a discrete enumerated head of power in the Constitution Act, 1867; it falls under multiple overlapping federal and provincial heads. Parliament may regulate environmental matters under s. 91(12) (sea coast and inland fisheries), s. 91(27) (criminal law — Canadian Environmental Protection Act is a recognized exercise of the criminal law power to protect public health and the environment), and the national concern branch of POGG for matters like greenhouse gas emissions that are indivisible and nationally significant (as confirmed by the Supreme Court in References re Greenhouse Gas Pollution Pricing Act, 2021 SCC 11). Provinces may regulate under ss. 92(13) and 92(16). The double aspect doctrine allows both levels to operate in the same space; paramountcy resolves conflicts.",
     "why_A_wrong": "Incorrect. The environment is not an enumerated exclusive federal head of power; environmental regulation is a shared field requiring identification of which specific federal or provincial head of power applies in each instance.",
     "why_B_wrong": "Incorrect. The environment is not an exclusive provincial head of power; federal heads such as fisheries, criminal law, and POGG grant Parliament significant environmental regulatory authority.",
     "why_C_wrong": "This IS the correct answer. The environment is not a discrete head of power assigned exclusively to either level; both Parliament and the provinces may regulate environmental matters under their respective heads of power — Parliament under ss. 91(12), 91(27), and POGG; provinces under ss. 92(13) and 92(16). Overlap is managed through the double aspect doctrine and paramountcy.",
@@ -718,9 +907,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, ss. 91(12), 91(27), 92(13), 92(16); Canadian Environmental Protection Act, 1999, S.C. 1999, c. 33; References re Greenhouse Gas Pollution Pricing Act, 2021 SCC 11"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["environmental jurisdiction", "fisheries s. 91(12)", "criminal law environment", "POGG national concern", "greenhouse gas"],
-    "tested_concepts": ["environment not enumerated exclusively either level", "multiple federal heads for environmental regulation", "double aspect and paramountcy manage overlap"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "environmental jurisdiction",
+      "fisheries s. 91(12)",
+      "criminal law environment",
+      "POGG national concern",
+      "greenhouse gas"
+    ],
+    "tested_concepts": [
+      "environment not enumerated exclusively either level",
+      "multiple federal heads for environmental regulation",
+      "double aspect and paramountcy manage overlap"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -747,7 +948,7 @@
       "D": "Section 91(2) applies only to interprovincial and international trade; Parliament has no power under s. 91(2) to regulate the production or marketing of agricultural products even if there is a national scheme."
     },
     "correct_answer": "C",
-    "explanation": "In General Motors of Canada Ltd v City National Leasing, [1989] 1 SCR 641, the Supreme Court articulated a non-exhaustive five-part test for the general (second) branch of the trade and commerce power. The general trade and commerce branch is distinct from the interprovincial and international trade branch (first branch); the general branch can reach even intra-provincial activities if they are genuinely part of a national regulatory scheme affecting trade as a whole. Wheat marketing could in principle fall within the general branch if it meets the General Motors criteria — but must be a scheme that addresses trade as a whole, not merely one industry. Courts have allowed some commodity-specific national schemes where the national dimension justifies it.",
+    "explanation": "Under Constitution Act, 1867, s. 91(2), In General Motors of Canada Ltd v City National Leasing, [1989] 1 SCR 641, the Supreme Court articulated a non-exhaustive five-part test for the general (second) branch of the trade and commerce power. The general trade and commerce branch is distinct from the interprovincial and international trade branch (first branch); the general branch can reach even intra-provincial activities if they are genuinely part of a national regulatory scheme affecting trade as a whole. Wheat marketing could in principle fall within the general branch if it meets the General Motors criteria — but must be a scheme that addresses trade as a whole, not merely one industry. Courts have allowed some commodity-specific national schemes where the national dimension justifies it.",
     "why_A_wrong": "Incorrect. The general trade branch of s. 91(2) is not confined to cross-border movement; it can reach intra-provincial transactions where they are integral to a genuine national trade regulatory scheme meeting the General Motors test.",
     "why_B_wrong": "Incorrect. Parliament cannot self-characterize its way to validity under s. 91(2); the legislation must actually satisfy the General Motors criteria regardless of how Parliament labels it.",
     "why_C_wrong": "This IS the correct answer. Under the General Motors five-part test for the general trade and commerce branch, valid legislation must: (1) be part of a general regulatory scheme; (2) be monitored by the ongoing process of a regulatory agency; (3) deal with trade as a whole rather than with a particular industry; (4) be legislation that the provinces would be constitutionally incapable of enacting jointly; and (5) allow failure by one province to include the law to jeopardize the success of the scheme in other parts of Canada.",
@@ -760,9 +961,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, s. 91(2); General Motors of Canada Ltd v City National Leasing, [1989] 1 SCR 641"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["trade and commerce s. 91(2)", "general trade branch", "General Motors test", "national regulatory scheme", "intra-provincial"],
-    "tested_concepts": ["General Motors five-part test for general trade branch", "two branches of s. 91(2)", "general branch can reach intra-provincial transactions"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "trade and commerce s. 91(2)",
+      "general trade branch",
+      "General Motors test",
+      "national regulatory scheme",
+      "intra-provincial"
+    ],
+    "tested_concepts": [
+      "General Motors five-part test for general trade branch",
+      "two branches of s. 91(2)",
+      "general branch can reach intra-provincial transactions"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -789,7 +1002,7 @@
       "D": "Courts cannot look behind the legislative text; only the literal wording determines constitutionality."
     },
     "correct_answer": "B",
-    "explanation": "The colourability doctrine, a complement to pith and substance analysis, holds that courts will look beyond the form or label of legislation to its true purpose and actual legal effect. In Attorney General of Canada v Attorney General of Ontario (Labour Conventions), [1937] AC 326, and subsequent cases, the principle was established that legislation cannot be sheltered from constitutional scrutiny by artful drafting. If the true pith and substance of the legislation is the regulation of a matter within exclusive provincial jurisdiction, the law is invalid as colourable legislation, regardless of the federal head of power invoked. In the scenario, if the Act effectively regulates all aspects of university operations and merely uses federal grants as the mechanism, a court may find it is colourably in the provincial field of education.",
+    "explanation": "Under Constitution Act, 1867, s. 91, s. 92, s. 93, the colourability doctrine, a complement to pith and substance analysis, holds that courts will look beyond the form or label of legislation to its true purpose and actual legal effect. In Attorney General of Canada v Attorney General of Ontario (Labour Conventions), [1937] AC 326, and subsequent cases, the principle was established that legislation cannot be sheltered from constitutional scrutiny by artful drafting. If the true pith and substance of the legislation is the regulation of a matter within exclusive provincial jurisdiction, the law is invalid as colourable legislation, regardless of the federal head of power invoked. In the scenario, if the Act effectively regulates all aspects of university operations and merely uses federal grants as the mechanism, a court may find it is colourably in the provincial field of education.",
     "why_A_wrong": "Incorrect. Courts are not bound by Parliament's own characterization of its legislation; the colourability doctrine specifically authorizes courts to look past labels to true purpose and effect.",
     "why_B_wrong": "This IS the correct answer. The colourability doctrine allows courts to look beyond the stated form or label of legislation to its true purpose and legal effect; where the pith and substance of legislation is in reality directed at a matter within provincial jurisdiction, it is unconstitutional even if artfully dressed in federal language.",
     "why_C_wrong": "Incorrect. The colourability doctrine applies to all legislation, including measures framed as spending; if spending conditions are used as a pretext to regulate a provincial field completely, the colourability doctrine may render the law invalid.",
@@ -802,9 +1015,21 @@
       "page": "N/A",
       "rule_or_statute_reference": "Constitution Act, 1867, s. 91, s. 92, s. 93; Canadian Western Bank v Alberta, 2007 SCC 22"
     },
-    "pr_angle": { "applicable": false },
-    "exam_trigger_words": ["colourability", "true purpose", "artful drafting", "beyond the label", "provincial field"],
-    "tested_concepts": ["colourability doctrine", "courts look past form to substance", "artful drafting does not save invalid legislation"],
+    "pr_angle": {
+      "applicable": false
+    },
+    "exam_trigger_words": [
+      "colourability",
+      "true purpose",
+      "artful drafting",
+      "beyond the label",
+      "provincial field"
+    ],
+    "tested_concepts": [
+      "colourability doctrine",
+      "courts look past form to substance",
+      "artful drafting does not save invalid legislation"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",

@@ -19,7 +19,7 @@
       "D": "Accept the plea once the Crown confirms that the video evidence is admissible at trial, because admissibility of the underlying evidence governs whether the factual basis is sufficient."
     },
     "correct_answer": "C",
-    "explanation": "Section 606(1.1) of the Criminal Code requires the court to be satisfied of four conditions before accepting a guilty plea: (a) the plea is voluntary; (b) the accused understands the nature of the charge; (c) the accused understands the consequences of the plea; and (d) the facts admitted by the accused are sufficient to support a conviction. On these facts, conditions (a), (b), and (c) are satisfied — Nathaniel confirmed voluntariness and understanding of both the charge and the consequences. However, condition (d) — factual sufficiency — is in issue because Nathaniel's personal adoption of the facts was equivocal: he said 'I guess so' and attributed his acceptance to what his lawyer told him rather than his own clear admission. Before accepting the plea, the judge must conduct a further inquiry to be satisfied that the facts admitted are sufficient to support a conviction. The judge should question Nathaniel directly about the acts alleged and clarify whether he is personally admitting to having struck the complainant and caused bodily harm. Counsel's confirmation of the video evidence and the agreed facts on the record do not substitute for the accused's own informed factual admission.",
+    "explanation": "Under s.606(1.1) of the Criminal Code requires the court to be satisfied of four conditions before accepting a guilty plea: (a) the plea is voluntary; (b) the accused understands the nature of the charge; (c) the accused understands the consequences of the plea; and (d) the facts admitted by the accused are sufficient to support a conviction. On these facts, conditions (a), (b), and (c) are satisfied — Nathaniel confirmed voluntariness and understanding of both the charge and the consequences. However, condition (d) — factual sufficiency — is in issue because Nathaniel's personal adoption of the facts was equivocal: he said 'I guess so' and attributed his acceptance to what his lawyer told him rather than his own clear admission. Before accepting the plea, the judge must conduct a further inquiry to be satisfied that the facts admitted are sufficient to support a conviction. The judge should question Nathaniel directly about the acts alleged and clarify whether he is personally admitting to having struck the complainant and caused bodily harm. Counsel's confirmation of the video evidence and the agreed facts on the record do not substitute for the accused's own informed factual admission.",
     "why_A_wrong": "Accepting the plea immediately overlooks the unsatisfied fourth condition under s. 606(1.1) — that the facts admitted by the accused are sufficient to support a conviction. Nathaniel's equivocal response ('I guess so') to the facts is not a clear personal admission. Three of the four s. 606(1.1) conditions being met does not permit the court to skip the fourth. This is a General Rule Trap: the candidate knows the s. 606(1.1) elements in general but misses that all four must be independently satisfied.",
     "why_B_wrong": "Lack of personal recollection does not automatically invalidate voluntariness. An accused may plead guilty without independent memory of events if the plea is otherwise informed — for example, where the accused accepts that the evidence against them is reliable and admits guilt on that basis. Voluntariness concerns coercion or threats, not memory gaps. Immediately entering a not guilty plea overstates the consequence of equivocation as to facts and conflates the voluntariness inquiry with the factual basis inquiry. This is an Overstatement Trap.",
     "why_C_wrong": "This IS the correct answer. The judge must conduct a further inquiry into the factual basis before accepting the plea. Nathaniel's equivocal adoption of the facts means the fourth condition of s. 606(1.1) — factual sufficiency — has not yet been satisfied, and the court must address this before proceeding.",
@@ -76,7 +76,7 @@
       "D": "No — the court must enter a not guilty plea on behalf of the accused and proceed to trial if the Crown refuses to consent."
     },
     "correct_answer": "C",
-    "explanation": "Section 606(4) of the Criminal Code provides that if an accused pleads not guilty to the offence charged but guilty to some other offence arising out of the same transaction, whether or not it is an included offence, the court may, with the consent of the Crown, accept such a plea. Crown consent is a mandatory prerequisite under s. 606(4). The court cannot impose acceptance of the lesser plea over the Crown's objection. If Crown consent is withheld, the court enters a plea of not guilty to the charge as laid.",
+    "explanation": "Under s.606(4) of the Criminal Code provides that if an accused pleads not guilty to the offence charged but guilty to some other offence arising out of the same transaction, whether or not it is an included offence, the court may, with the consent of the Crown, accept such a plea. Crown consent is a mandatory prerequisite under s. 606(4). The court cannot impose acceptance of the lesser plea over the Crown's objection. If Crown consent is withheld, the court enters a plea of not guilty to the charge as laid.",
     "why_A_wrong": "Inherent jurisdiction does not override the express statutory requirement in s. 606(4) that Crown consent is required for acceptance of a plea to a lesser or included offence. The statute governs.",
     "why_B_wrong": "Section 606(4) does require Crown consent. The court does not have unilateral authority to accept a plea to a lesser included offence over the Crown's objection.",
     "why_C_wrong": "This IS the correct answer. Section 606(4) requires Crown consent before the court may accept a guilty plea to a lesser or included offence. The Crown's refusal here blocks acceptance of the common assault plea.",
@@ -105,7 +105,7 @@
       "Crown consent requirement",
       "limits of court's acceptance of guilty pleas"
     ],
-    "estimated_time_seconds": 75,
+    "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
@@ -131,7 +131,7 @@
       "D": "Federal court judge alone; Superior Court judge alone; Superior Court judge and jury."
     },
     "correct_answer": "A",
-    "explanation": "Section 536(2) of the Criminal Code provides that an accused charged with an indictable offence (other than one listed in s. 553 or s. 469) may elect to be tried by: (1) a provincial court judge (Ontario Court of Justice) sitting alone; (2) a judge of a superior court of criminal jurisdiction sitting alone (without a jury); or (3) a court composed of a judge of a superior court and a jury. These are the only three modes available under s. 536. The Court of Appeal, federal courts, and provincial court juries are not modes of trial election under s. 536.",
+    "explanation": "Under s.536(2) of the Criminal Code provides that an accused charged with an indictable offence (other than one listed in s. 553 or s. 469) may elect to be tried by: (1) a provincial court judge (Ontario Court of Justice) sitting alone; (2) a judge of a superior court of criminal jurisdiction sitting alone (without a jury); or (3) a court composed of a judge of a superior court and a jury. These are the only three modes available under s. 536. The Court of Appeal, federal courts, and provincial court juries are not modes of trial election under s. 536.",
     "why_A_wrong": "This IS the correct answer. Section 536(2) provides three modes: provincial court judge alone, superior court judge alone, and superior court judge and jury.",
     "why_B_wrong": "The Court of Appeal is an appellate tribunal, not a mode of first-instance trial election. Section 536(2) offers three trial modes, none of which is the Court of Appeal.",
     "why_C_wrong": "Provincial courts in Ontario do not have jury trial jurisdiction. Jury trials occur only in the Superior Court. The three modes under s. 536(2) do not include a provincial court jury option.",
@@ -162,7 +162,7 @@
       "superior court judge alone",
       "superior court judge and jury"
     ],
-    "estimated_time_seconds": 75,
+    "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
@@ -188,7 +188,7 @@
       "D": "Yes — Fatima may re-elect at any time after indictment, but only with leave of the court."
     },
     "correct_answer": "C",
-    "explanation": "Section 561 of the Criminal Code governs re-election of mode of trial. An accused who has elected trial by provincial court judge may re-elect to a superior court mode (judge alone or judge and jury) at various stages. Where a preliminary inquiry has not been waived, s. 561 permits re-election before the end of the preliminary inquiry with the consent of the Crown, or without Crown consent after the preliminary inquiry is completed and before the trial begins. The precise procedural steps and timing are governed by s. 561 and related provisions. An election is not irrevocable; however, re-election requires compliance with the statutory process in s. 561, not an unrestricted as-of-right change at any time.",
+    "explanation": "Under s.561 of the Criminal Code governs re-election of mode of trial. An accused who has elected trial by provincial court judge may re-elect to a superior court mode (judge alone or judge and jury) at various stages. Where a preliminary inquiry has not been waived, s. 561 permits re-election before the end of the preliminary inquiry with the consent of the Crown, or without Crown consent after the preliminary inquiry is completed and before the trial begins. The precise procedural steps and timing are governed by s. 561 and related provisions. An election is not irrevocable; however, re-election requires compliance with the statutory process in s. 561, not an unrestricted as-of-right change at any time.",
     "why_A_wrong": "Elections under s. 536 are not irrevocable. Section 561 provides a statutory mechanism for re-election, subject to timing and consent requirements.",
     "why_B_wrong": "Re-election is not available as of right at any time. Section 561 imposes conditions — in particular, Crown consent may be required depending on the stage of proceedings — and the process must comply with the prescribed procedure.",
     "why_C_wrong": "This IS the correct answer. Section 561 governs re-election and permits it before the end of the preliminary inquiry with Crown consent, or after the preliminary inquiry without Crown consent, subject to timing rules.",
@@ -219,7 +219,7 @@
       "re-election after preliminary inquiry",
       "irrevocability misconception"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
@@ -245,7 +245,7 @@
       "D": "Reserve judgment and refer the matter to the Superior Court for a determination of sufficiency."
     },
     "correct_answer": "B",
-    "explanation": "The committal standard at a preliminary inquiry is not proof beyond a reasonable doubt. Under s. 548(1) of the Criminal Code, the justice shall order the accused to stand trial if there is sufficient evidence — meaning evidence that, if believed, a jury properly instructed could return a verdict of guilty. The standard is whether the evidence is capable of supporting a conviction, not whether it will or should do so. Because the judge concluded that a properly instructed jury acting reasonably could convict, the committal standard is met and the accused must be committed to stand trial.",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 548(1), the committal standard at a preliminary inquiry is not proof beyond a reasonable doubt. Under s. 548(1) of the Criminal Code, the justice shall order the accused to stand trial if there is sufficient evidence — meaning evidence that, if believed, a jury properly instructed could return a verdict of guilty. The standard is whether the evidence is capable of supporting a conviction, not whether it will or should do so. Because the judge concluded that a properly instructed jury acting reasonably could convict, the committal standard is met and the accused must be committed to stand trial.",
     "why_A_wrong": "Discharge is appropriate only if the evidence is insufficient to commit — i.e., no reasonable jury could convict on the evidence presented. The beyond-a-reasonable-doubt standard applies at trial, not at the preliminary inquiry stage.",
     "why_B_wrong": "This IS the correct answer. The committal standard under s. 548(1) is whether the evidence, if believed, could support a verdict of guilty. The judge's conclusion meets this standard, mandating committal.",
     "why_C_wrong": "The preliminary inquiry judge has no authority to direct the Crown to produce additional evidence as a precondition to committal. The inquiry is conducted on the evidence adduced; if the committal standard is met, the accused is committed.",
@@ -276,7 +276,7 @@
       "distinction between PI standard and trial standard",
       "discharge vs. committal"
     ],
-    "estimated_time_seconds": 75,
+    "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
@@ -302,7 +302,7 @@
       "D": "No — the re-election must occur at the first appearance; it cannot occur two weeks before the PI."
     },
     "correct_answer": "C",
-    "explanation": "Section 561 of the Criminal Code governs re-elections. Under s. 561(1)(b), where an accused has elected a mode of trial that requires a preliminary inquiry (such as superior court modes) and wishes to re-elect before the completion of the preliminary inquiry, the accused may do so — but only with the consent of the Crown. If the Crown withholds consent, the accused cannot re-elect before the preliminary inquiry concludes. After the preliminary inquiry is completed (whether by committal or discharge), re-election to a lower mode does not require Crown consent. On these facts, without Crown consent, Bridget cannot re-elect before the PI; she must wait until after the preliminary inquiry concludes.",
+    "explanation": "Under s.561 of the Criminal Code governs re-elections. Under s. 561(1)(b), where an accused has elected a mode of trial that requires a preliminary inquiry (such as superior court modes) and wishes to re-elect before the completion of the preliminary inquiry, the accused may do so — but only with the consent of the Crown. If the Crown withholds consent, the accused cannot re-elect before the preliminary inquiry concludes. After the preliminary inquiry is completed (whether by committal or discharge), re-election to a lower mode does not require Crown consent. On these facts, without Crown consent, Bridget cannot re-elect before the PI; she must wait until after the preliminary inquiry concludes.",
     "why_A_wrong": "Re-election is available both before and after the preliminary inquiry under s. 561. Section 561 provides mechanisms for re-election at various stages. The restriction is not on timing but on whether Crown consent is required.",
     "why_B_wrong": "Re-election before the preliminary inquiry is completed is not freely available without Crown consent. Section 561(1)(b) specifically requires Crown consent for re-elections made before the preliminary inquiry concludes.",
     "why_C_wrong": "This IS the correct answer. Under s. 561(1)(b), re-election before the conclusion of the preliminary inquiry requires Crown consent. Without that consent, Bridget must wait until after the PI concludes.",
@@ -319,8 +319,19 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["re-election", "s. 561", "before preliminary inquiry", "Crown consent required", "provincial court judge"],
-    "tested_concepts": ["s. 561(1)(b) re-election before PI requires Crown consent", "re-election after PI without consent", "timing of re-election", "Crown consent condition"],
+    "exam_trigger_words": [
+      "re-election",
+      "s. 561",
+      "before preliminary inquiry",
+      "Crown consent required",
+      "provincial court judge"
+    ],
+    "tested_concepts": [
+      "s. 561(1)(b) re-election before PI requires Crown consent",
+      "re-election after PI without consent",
+      "timing of re-election",
+      "Crown consent condition"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -347,7 +358,7 @@
       "D": "A guilty plea can only be set aside if the accused was not represented by counsel at the time of the plea."
     },
     "correct_answer": "B",
-    "explanation": "Canadian courts have established that a guilty plea may be set aside on appeal or by other application where the accused can demonstrate that the plea was not valid at the time it was entered. The grounds include: (a) the plea was not voluntary (e.g., entered under threats or undue pressure); (b) the plea was not informed — the accused did not understand the nature of the charge, the consequences of the plea, or lacked advice on a material consequence such as immigration consequences; or (c) the circumstances otherwise amount to a miscarriage of justice. The failure by counsel to advise of significant collateral consequences (such as US immigration inadmissibility for a person who travels frequently for work) may constitute an uninformed plea. However, not all collateral consequences need be disclosed; the analysis turns on materiality.",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 606, Canadian courts have established that a guilty plea may be set aside on appeal or by other application where the accused can demonstrate that the plea was not valid at the time it was entered. The grounds include: (a) the plea was not voluntary (e.g., entered under threats or undue pressure); (b) the plea was not informed — the accused did not understand the nature of the charge, the consequences of the plea, or lacked advice on a material consequence such as immigration consequences; or (c) the circumstances otherwise amount to a miscarriage of justice. The failure by counsel to advise of significant collateral consequences (such as US immigration inadmissibility for a person who travels frequently for work) may constitute an uninformed plea. However, not all collateral consequences need be disclosed; the analysis turns on materiality.",
     "why_A_wrong": "Crown consent is not required to set aside a guilty plea. The accused may apply to the court on established legal grounds (involuntariness, lack of information, miscarriage of justice). The Crown's position is relevant but not determinative.",
     "why_B_wrong": "This IS the correct answer. A guilty plea may be set aside if it was involuntary, uninformed (including failure to advise of material consequences), or amounts to a miscarriage of justice.",
     "why_C_wrong": "An accused does not have an as-of-right withdrawal of a guilty plea at any time before sentencing. Withdrawal before sentencing is in the court's discretion, and the court must be satisfied there is a valid reason. After sentencing, a formal application with legal grounds is required.",
@@ -364,8 +375,19 @@
       "applicable": true,
       "pr_issue_type": "duty to advise client of material consequences of guilty plea, including immigration consequences"
     },
-    "exam_trigger_words": ["set aside guilty plea", "uninformed plea", "immigration consequences", "miscarriage of justice", "strike guilty plea"],
-    "tested_concepts": ["grounds to strike guilty plea", "informed plea requirement", "material consequences — immigration inadmissibility", "R. v. Wong immigration advice duty"],
+    "exam_trigger_words": [
+      "set aside guilty plea",
+      "uninformed plea",
+      "immigration consequences",
+      "miscarriage of justice",
+      "strike guilty plea"
+    ],
+    "tested_concepts": [
+      "grounds to strike guilty plea",
+      "informed plea requirement",
+      "material consequences — immigration inadmissibility",
+      "R. v. Wong immigration advice duty"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -392,7 +414,7 @@
       "D": "Ms. Rao acted properly — agreed statements of facts in plea proceedings are documents controlled by Crown; defence counsel merely reviews and accepts them, and no separate client instruction is required for each factual admission."
     },
     "correct_answer": "C",
-    "explanation": "A client's decision to plead guilty is a fundamental decision that belongs to the client — not counsel. The agreed statement of facts presented at the plea hearing forms part of the record on which the guilty plea is entered and the sentencing proceeds. Admissions in the agreed statement of facts are binding on the accused, may affect the sentence, and may have consequences in related proceedings. Counsel must obtain the client's informed and specific instructions before agreeing to facts on the client's behalf, especially where those facts are adverse to the client (such as the 'no remorse' admission). Ms. Rao's failure to review and obtain approval of the agreed statement from Carson before presenting it at the plea hearing is a breach of her professional responsibility obligations. The client must understand and authorize each material admission.",
+    "explanation": "Under LSO Rules of Professional Conduct, r. 5.1-1 (competence), r. 3.2-9 (client decision on plea), A client's decision to plead guilty is a fundamental decision that belongs to the client — not counsel. The agreed statement of facts presented at the plea hearing forms part of the record on which the guilty plea is entered and the sentencing proceeds. Admissions in the agreed statement of facts are binding on the accused, may affect the sentence, and may have consequences in related proceedings. Counsel must obtain the client's informed and specific instructions before agreeing to facts on the client's behalf, especially where those facts are adverse to the client (such as the 'no remorse' admission). Ms. Rao's failure to review and obtain approval of the agreed statement from Carson before presenting it at the plea hearing is a breach of her professional responsibility obligations. The client must understand and authorize each material admission.",
     "why_A_wrong": "Ethics Override Trap. Counsel's general authority to manage proceedings does not extend to agreeing to factual admissions adverse to the client without specific instruction. The plea itself and the facts supporting it require the client's informed consent. General authority to 'manage the proceeding' does not override the requirement for specific client instruction on substantive admissions.",
     "why_B_wrong": "Ethics Override Trap. Authorization to negotiate a plea arrangement does not carry implied authority to agree to any facts counsel deems necessary. The scope of the client's instructions is defined by what the client has actually authorized. A blanket 'negotiate a plea' instruction does not authorize counsel to make specific factual admissions — particularly adverse ones — without the client's review and approval.",
     "why_C_wrong": "This IS the correct answer. Counsel must obtain the client's informed instructions before agreeing to facts in an agreed statement of facts, especially where those facts are adverse to the client. Presenting an agreed statement of facts the client has not reviewed or approved is a breach of professional responsibility.",
@@ -409,8 +431,20 @@
       "applicable": true,
       "pr_issue_type": "counsel acting without client instruction on plea facts"
     },
-    "exam_trigger_words": ["agreed statement of facts", "client instructions", "plea bargaining", "adverse facts", "counsel's authority", "professional responsibility"],
-    "tested_concepts": ["client's authority over plea decisions and plea facts", "counsel's obligation to obtain specific instructions before agreeing to adverse facts", "scope of counsel's authority in plea negotiations", "professional responsibility in criminal plea proceedings"],
+    "exam_trigger_words": [
+      "agreed statement of facts",
+      "client instructions",
+      "plea bargaining",
+      "adverse facts",
+      "counsel's authority",
+      "professional responsibility"
+    ],
+    "tested_concepts": [
+      "client's authority over plea decisions and plea facts",
+      "counsel's obligation to obtain specific instructions before agreeing to adverse facts",
+      "scope of counsel's authority in plea negotiations",
+      "professional responsibility in criminal plea proceedings"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -437,7 +471,7 @@
       "D": "Preliminary inquiries were abolished by the 2019 Criminal Code amendments; no preliminary inquiry is available for any offence."
     },
     "correct_answer": "B",
-    "explanation": "The 2019 Criminal Code amendments (Bill C-75) significantly restricted access to preliminary inquiries. Under s. 535 as amended, a preliminary inquiry is available only for accused persons charged with an offence for which the maximum punishment is imprisonment for a term of 14 years or more, or for an offence listed in s. 469. Fraud over $5,000 carries a maximum of 14 years under s. 380(1)(a), so Wesley would be entitled to request a preliminary inquiry. However, an accused charged with offences carrying lesser maximums (e.g., fraud under $5,000, assault causing bodily harm, etc.) can no longer request a preliminary inquiry following the 2019 amendments.",
+    "explanation": "Under the 2019 Criminal Code amendments (Bill C-75) significantly restricted access to preliminary inquiries. Under s. 535 as amended, a preliminary inquiry is available only for accused persons charged with an offence for which the maximum punishment is imprisonment for a term of 14 years or more, or for an offence listed in s. 469. Fraud over $5,000 carries a maximum of 14 years under s. 380(1)(a), so Wesley would be entitled to request a preliminary inquiry. However, an accused charged with offences carrying lesser maximums (e.g., fraud under $5,000, assault causing bodily harm, etc.) can no longer request a preliminary inquiry following the 2019 amendments.",
     "why_A_wrong": "Since 2019, a preliminary inquiry is not available as of right to all accused who elect superior court. The right is now restricted to offences with a maximum penalty of 14 years or more, or s. 469 offences.",
     "why_B_wrong": "This IS the correct answer. Under s. 535 as amended in 2019, preliminary inquiries are restricted to offences with a maximum of 14 years or more, or s. 469 listed offences.",
     "why_C_wrong": "The 2019 amendments eliminated the as-of-right preliminary inquiry for all offences. Only the specified high-penalty and s. 469 offences retain preliminary inquiry eligibility.",
@@ -454,8 +488,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["preliminary inquiry", "s. 535", "14 years maximum", "2019 amendment", "Bill C-75", "eligibility"],
-    "tested_concepts": ["s. 535 restricted preliminary inquiry after 2019", "14-year maximum threshold", "s. 469 offences retain PI", "PI not abolished but restricted"],
+    "exam_trigger_words": [
+      "preliminary inquiry",
+      "s. 535",
+      "14 years maximum",
+      "2019 amendment",
+      "Bill C-75",
+      "eligibility"
+    ],
+    "tested_concepts": [
+      "s. 535 restricted preliminary inquiry after 2019",
+      "14-year maximum threshold",
+      "s. 469 offences retain PI",
+      "PI not abolished but restricted"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -499,8 +545,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["discharge", "s. 548(1)(b)", "preliminary inquiry", "not an acquittal", "direct indictment", "re-lay charge"],
-    "tested_concepts": ["s. 548(1)(b) discharge for insufficient evidence", "discharge not equivalent to acquittal", "Crown may re-charge after PI discharge", "direct indictment s. 577"],
+    "exam_trigger_words": [
+      "discharge",
+      "s. 548(1)(b)",
+      "preliminary inquiry",
+      "not an acquittal",
+      "direct indictment",
+      "re-lay charge"
+    ],
+    "tested_concepts": [
+      "s. 548(1)(b) discharge for insufficient evidence",
+      "discharge not equivalent to acquittal",
+      "Crown may re-charge after PI discharge",
+      "direct indictment s. 577"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -527,7 +585,7 @@
       "D": "No — but the accused may appeal the Crown's election to the superior court for review."
     },
     "correct_answer": "B",
-    "explanation": "For hybrid offences, the Crown's election to proceed summarily converts the matter into a summary conviction proceeding for all purposes. Summary conviction proceedings are conducted before a provincial court judge without jury, and the accused has no right to elect a mode of trial. The accused's right to elect under s. 536 of the Criminal Code applies only to indictable offences (that are not within the absolute or exclusive jurisdiction of either the provincial or superior court). When the Crown proceeds summarily, the accused is not entitled to elect a superior court or jury trial.",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 536(2), For hybrid offences, the Crown's election to proceed summarily converts the matter into a summary conviction proceeding for all purposes. Summary conviction proceedings are conducted before a provincial court judge without jury, and the accused has no right to elect a mode of trial. The accused's right to elect under s. 536 of the Criminal Code applies only to indictable offences (that are not within the absolute or exclusive jurisdiction of either the provincial or superior court). When the Crown proceeds summarily, the accused is not entitled to elect a superior court or jury trial.",
     "why_A_wrong": "The accused's right to elect under s. 536 applies to indictable proceedings, not summary conviction proceedings. Once the Crown elects summarily, the matter is treated as summary conviction and no election right arises for the accused.",
     "why_B_wrong": "This IS the correct answer. When the Crown elects summarily on a hybrid offence, the matter proceeds as a summary conviction before a provincial court judge; the accused has no s. 536 election right.",
     "why_C_wrong": "An accused whose matter is proceeding summarily cannot elect a superior court trial. The superior court election under s. 536 is only available for indictable offences. The Crown's summary election closes that option.",
@@ -544,8 +602,19 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["hybrid offence", "Crown elects summarily", "accused election right", "s. 536", "summary conviction proceedings"],
-    "tested_concepts": ["Crown summary election forecloses accused election", "s. 536 election only for indictable offences", "hybrid offence summary procedure", "accused has no election right on summary proceedings"],
+    "exam_trigger_words": [
+      "hybrid offence",
+      "Crown elects summarily",
+      "accused election right",
+      "s. 536",
+      "summary conviction proceedings"
+    ],
+    "tested_concepts": [
+      "Crown summary election forecloses accused election",
+      "s. 536 election only for indictable offences",
+      "hybrid offence summary procedure",
+      "accused has no election right on summary proceedings"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -572,7 +641,7 @@
       "D": "No — a preliminary inquiry justice has no authority to admit evidence that would be inadmissible at trial."
     },
     "correct_answer": "B",
-    "explanation": "Section 540(7) of the Criminal Code expressly provides that the justice at a preliminary inquiry may receive as evidence any information that would otherwise be admissible as evidence or any other information, if the justice is of the opinion that such other information is reliable. This provision allows the justice to receive evidence — including hearsay — that would not be admissible at trial, provided the justice considers it reliable. The purpose of the preliminary inquiry is to determine whether there is sufficient evidence for committal, not to conduct a full trial on admissibility rules. This is one of the key distinctions between the preliminary inquiry and the trial.",
+    "explanation": "Under s.540(7) of the Criminal Code expressly provides that the justice at a preliminary inquiry may receive as evidence any information that would otherwise be admissible as evidence or any other information, if the justice is of the opinion that such other information is reliable. This provision allows the justice to receive evidence — including hearsay — that would not be admissible at trial, provided the justice considers it reliable. The purpose of the preliminary inquiry is to determine whether there is sufficient evidence for committal, not to conduct a full trial on admissibility rules. This is one of the key distinctions between the preliminary inquiry and the trial.",
     "why_A_wrong": "The rules of evidence at a preliminary inquiry are not identical to those at trial. Section 540(7) specifically permits the justice to receive evidence that would be inadmissible at trial, making the preliminary inquiry a more flexible proceeding.",
     "why_B_wrong": "This IS the correct answer. Under s. 540(7) of the Criminal Code, hearsay and other ordinarily inadmissible evidence may be received at a preliminary inquiry if the justice considers it reliable.",
     "why_C_wrong": "The admission of hearsay at a preliminary inquiry is not automatic and without restriction. The justice must be of the opinion that the hearsay information is reliable before admitting it under s. 540(7). Reliability is a precondition, not an automatic grant.",
@@ -589,8 +658,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["preliminary inquiry", "hearsay evidence", "s. 540(7)", "reliable", "admissible at PI", "committal"],
-    "tested_concepts": ["s. 540(7) hearsay admissibility at PI", "reliability condition for PI hearsay", "distinction between PI and trial evidence rules", "PI more flexible evidentiary regime"],
+    "exam_trigger_words": [
+      "preliminary inquiry",
+      "hearsay evidence",
+      "s. 540(7)",
+      "reliable",
+      "admissible at PI",
+      "committal"
+    ],
+    "tested_concepts": [
+      "s. 540(7) hearsay admissibility at PI",
+      "reliability condition for PI hearsay",
+      "distinction between PI and trial evidence rules",
+      "PI more flexible evidentiary regime"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -634,8 +715,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["included offence", "lesser offence plea", "s. 606(4)", "s. 606(1.1)", "Crown consent", "factual basis"],
-    "tested_concepts": ["s. 606(4) Crown consent — necessary but not sufficient", "s. 606(1.1) still applies to lesser offence pleas", "combined operation of s. 606(1.1) and s. 606(4)", "court inquiry before accepting plea"],
+    "exam_trigger_words": [
+      "included offence",
+      "lesser offence plea",
+      "s. 606(4)",
+      "s. 606(1.1)",
+      "Crown consent",
+      "factual basis"
+    ],
+    "tested_concepts": [
+      "s. 606(4) Crown consent — necessary but not sufficient",
+      "s. 606(1.1) still applies to lesser offence pleas",
+      "combined operation of s. 606(1.1) and s. 606(4)",
+      "court inquiry before accepting plea"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",

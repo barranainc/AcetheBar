@@ -32,9 +32,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 3(2)(b); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 2(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["adult child", "FCSG s.3(2)(b)", "age of majority", "post-secondary education", "table amount inappropriate", "condition means needs"],
-    "tested_concepts": ["FCSG s.3(2)(b) adult child support", "table amount appropriateness assessment", "child of the marriage over majority", "discretion to depart from table for adult children"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "adult child",
+      "FCSG s.3(2)(b)",
+      "age of majority",
+      "post-secondary education",
+      "table amount inappropriate",
+      "condition means needs"
+    ],
+    "tested_concepts": [
+      "FCSG s.3(2)(b) adult child support",
+      "table amount appropriateness assessment",
+      "child of the marriage over majority",
+      "discretion to depart from table for adult children"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -74,9 +89,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 18(1), Schedule III"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["corporate income", "FCSG s.18", "self-employed", "income behind corporation", "artificial reduction"],
-    "tested_concepts": ["FCSG s.18 corporate income", "payor controls corporation", "income determination", "artificial income reduction"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "corporate income",
+      "FCSG s.18",
+      "self-employed",
+      "income behind corporation",
+      "artificial reduction"
+    ],
+    "tested_concepts": [
+      "FCSG s.18 corporate income",
+      "payor controls corporation",
+      "income determination",
+      "artificial income reduction"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -103,7 +132,7 @@
       "D": "Only private school tuition qualifies because s.7 is limited to educational expenses above the public school level."
     },
     "correct_answer": "C",
-    "explanation": "Federal Child Support Guidelines s.7(1) lists categories of special or extraordinary expenses: (a) child care required by employment/illness/disability; (b) medical/dental insurance premiums; (c) medical/dental expenses exceeding insurance; (d) education programs (including post-secondary and programs necessary for the child's needs); (e) post-secondary education expenses; (f) extraordinary extracurricular activities. Child care while Olivia works is clearly s.7(1)(a). Private school tuition may qualify under s.7(1)(d). Hockey registration may qualify as an extraordinary extracurricular activity under s.7(1)(f), assessed in the context of the parties' incomes and historical activities. All three potentially qualify; the court applies a proportionality test under s.7(2) based on income.",
+    "explanation": "Under the Federal Child Support Guidelines s.7(1) lists categories of special or extraordinary expenses: (a) child care required by employment/illness/disability; (b) medical/dental insurance premiums; (c) medical/dental expenses exceeding insurance; (d) education programs (including post-secondary and programs necessary for the child's needs); (e) post-secondary education expenses; (f) extraordinary extracurricular activities. Child care while Olivia works is clearly s.7(1)(a). Private school tuition may qualify under s.7(1)(d). Hockey registration may qualify as an extraordinary extracurricular activity under s.7(1)(f), assessed in the context of the parties' incomes and historical activities. All three potentially qualify; the court applies a proportionality test under s.7(2) based on income.",
     "why_A_wrong": "Section 7 is not limited to medical and dental costs. It expressly covers child care (s.7(1)(a)), educational programs (s.7(1)(d)), and extraordinary extracurricular activities (s.7(1)(f)), among other categories.",
     "why_B_wrong": "Extracurricular activities can qualify as extraordinary s.7 expenses under s.7(1)(f) where they are extraordinary given the family's means and lifestyle. It is incorrect to categorically exclude sports from s.7.",
     "why_C_wrong": "This IS the correct answer. All three items potentially qualify under specific s.7 subsections, and each is allocated between the parties in proportion to their incomes under s.7(2).",
@@ -116,9 +145,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 7(1)(a), s. 7(1)(d), s. 7(1)(f), s. 7(2)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["s.7 expenses", "special expenses", "extraordinary expenses", "daycare", "tuition", "extracurricular"],
-    "tested_concepts": ["FCSG s.7(1) categories", "child care s.7(1)(a)", "education s.7(1)(d)", "extracurricular s.7(1)(f)", "proportionate contribution"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s.7 expenses",
+      "special expenses",
+      "extraordinary expenses",
+      "daycare",
+      "tuition",
+      "extracurricular"
+    ],
+    "tested_concepts": [
+      "FCSG s.7(1) categories",
+      "child care s.7(1)(a)",
+      "education s.7(1)(d)",
+      "extracurricular s.7(1)(f)",
+      "proportionate contribution"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -145,7 +190,7 @@
       "D": "Diane pays the full $5,400 net expense because she earns more than Carl; Carl owes nothing."
     },
     "correct_answer": "C",
-    "explanation": "Federal Child Support Guidelines s.7(2) provides that s.7 expenses are apportioned in proportion to each parent's income after deducting any contribution from the child. Step 1: Deduct the child's bursary — $6,000 minus $600 = $5,400 net expense. Step 2: Determine income proportions — Diane's $120,000 is 60% of the combined $200,000; Carl's $80,000 is 40%. Step 3: Apply proportions — Diane pays $3,240 (60%); Carl pays $2,160 (40%). The s.7(2) deduction of the child's contribution before apportionment is mandatory. The 50/50 split (option A) misapplies the proportionality rule. Ignoring the bursary deduction (option B) skips the mandatory first step. The higher earner bearing all costs (option D) misreads 'proportionate' as 'full obligation.'",
+    "explanation": "Under the Federal Child Support Guidelines s.7(2) provides that s.7 expenses are apportioned in proportion to each parent's income after deducting any contribution from the child. Step 1: Deduct the child's bursary — $6,000 minus $600 = $5,400 net expense. Step 2: Determine income proportions — Diane's $120,000 is 60% of the combined $200,000; Carl's $80,000 is 40%. Step 3: Apply proportions — Diane pays $3,240 (60%); Carl pays $2,160 (40%). The s.7(2) deduction of the child's contribution before apportionment is mandatory. The 50/50 split (option A) misapplies the proportionality rule. Ignoring the bursary deduction (option B) skips the mandatory first step. The higher earner bearing all costs (option D) misreads 'proportionate' as 'full obligation.'",
     "why_A_wrong": "General Rule Trap. Section 7 expenses are not split equally. FCSG s.7(2) requires proportionate contribution based on each parent's income — here 60:40. An equal split would only arise where incomes happen to be identical. Moreover, the bursary must be deducted first.",
     "why_B_wrong": "Wrong Timeline / Sequencing Trap. The bursary is a contribution from the child that must be deducted from the gross cost before apportionment, as required by s.7(2). Ignoring this deduction overstates the net expense available for apportionment between the parents.",
     "why_C_wrong": "This IS the correct answer. FCSG s.7(2) requires deducting the child's $600 bursary first ($5,400 net), then apportioning 60/40 by income; Carl's 40% share is $2,160.",
@@ -158,9 +203,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 7(2)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["s.7(2)", "proportional contribution", "apportionment", "child's contribution deducted first", "income ratio", "bursary"],
-    "tested_concepts": ["FCSG s.7(2) child contribution deducted before apportionment", "proportionate income-based sharing not 50/50", "correct calculation sequence", "higher earner not solely responsible"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "s.7(2)",
+      "proportional contribution",
+      "apportionment",
+      "child's contribution deducted first",
+      "income ratio",
+      "bursary"
+    ],
+    "tested_concepts": [
+      "FCSG s.7(2) child contribution deducted before apportionment",
+      "proportionate income-based sharing not 50/50",
+      "correct calculation sequence",
+      "higher earner not solely responsible"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -187,7 +247,7 @@
       "D": "The court must average Brian's income over the last three years and use that as his income for child support purposes; imputation is not available."
     },
     "correct_answer": "C",
-    "explanation": "Federal Child Support Guidelines s.19(1)(a) permits a court to impute income to a paying spouse where the spouse is intentionally under-employed or unemployed, unless the situation is reasonable in the circumstances (e.g., disability, illness, or a genuine and reasonable career change). Brian's voluntary resignation the day before a child support motion, combined with his legal qualifications and abrupt shift to $20,000 consulting income, are strong indicators of intentional income reduction for purposes of avoiding child support. Courts regularly impute income based on earning capacity in such circumstances.",
+    "explanation": "Under the Federal Child Support Guidelines s.19(1)(a) permits a court to impute income to a paying spouse where the spouse is intentionally under-employed or unemployed, unless the situation is reasonable in the circumstances (e.g., disability, illness, or a genuine and reasonable career change). Brian's voluntary resignation the day before a child support motion, combined with his legal qualifications and abrupt shift to $20,000 consulting income, are strong indicators of intentional income reduction for purposes of avoiding child support. Courts regularly impute income based on earning capacity in such circumstances.",
     "why_A_wrong": "Income imputation under FCSG s.19 is not limited to criminal fraud. Intentional underemployment — including voluntary resignation for reasons connected to avoiding child support — is a recognized and common basis for imputation.",
     "why_B_wrong": "While individuals have the right to choose their careers, the right to change employment does not insulate a payor from income imputation where the change is found to be intentional underemployment under s.19(1)(a). Courts assess the bona fides and reasonableness of the career change.",
     "why_C_wrong": "This IS the correct answer. FCSG s.19(1)(a) authorizes imputation where intentional underemployment exists without legitimate justification; Brian's suspicious timing and dramatic income reduction strongly warrant imputation.",
@@ -200,10 +260,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 19(1)(a)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["imputing income", "FCSG s.19", "intentional underemployment", "earning capacity", "voluntary resignation"],
-    "tested_concepts": ["FCSG s.19(1)(a) imputed income", "intentional underemployment", "earning capacity vs actual income", "suspicious timing of income reduction"],
-    "estimated_time_seconds": 90,
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "imputing income",
+      "FCSG s.19",
+      "intentional underemployment",
+      "earning capacity",
+      "voluntary resignation"
+    ],
+    "tested_concepts": [
+      "FCSG s.19(1)(a) imputed income",
+      "intentional underemployment",
+      "earning capacity vs actual income",
+      "suspicious timing of income reduction"
+    ],
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
@@ -229,7 +303,7 @@
       "D": "Section 9 applies only where the parenting time is exactly 50/50; at 55/45 the standard table amount applies."
     },
     "correct_answer": "C",
-    "explanation": "Federal Child Support Guidelines s.9 applies where a spouse exercises parenting time with a child for not less than 40% of the time over the course of a year. In that case, the court shall take into account: (a) the amounts set out in the applicable tables for each parent; (b) the increased costs of shared parenting; and (c) the condition, means, needs and other circumstances of each spouse and the children. The offset method — comparing the table amounts and paying the difference — is frequently used as a starting point (here, $879 - $572 = $307 payable by Anna), but it is not mandatory and the court retains discretion to depart from it (see Contino v. Leonelli-Contino, [2005] 3 SCR 217).",
+    "explanation": "Under the Federal Child Support Guidelines s.9 applies where a spouse exercises parenting time with a child for not less than 40% of the time over the course of a year. In that case, the court shall take into account: (a) the amounts set out in the applicable tables for each parent; (b) the increased costs of shared parenting; and (c) the condition, means, needs and other circumstances of each spouse and the children. The offset method — comparing the table amounts and paying the difference — is frequently used as a starting point (here, $879 - $572 = $307 payable by Anna), but it is not mandatory and the court retains discretion to depart from it (see Contino v. Leonelli-Contino, [2005] 3 SCR 217).",
     "why_A_wrong": "Section 9 does not eliminate child support obligations in shared parenting arrangements. The court must conduct a three-part analysis; child support is rarely zero even in 50/50 arrangements unless incomes are equal.",
     "why_B_wrong": "FCSG s.9 does not create a mandatory formula requiring the higher earner to pay the full table amount. The three-factor test in s.9 — including the offset method as a starting point — governs the analysis.",
     "why_C_wrong": "This IS the correct answer. FCSG s.9 applies whenever parenting time reaches 40% or more, and the three-factor test (table amounts, increased costs, circumstances) applies; the offset is a common starting point per Contino.",
@@ -242,10 +316,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 9; Contino v. Leonelli-Contino, [2005] 3 SCR 217"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["shared parenting", "40% threshold", "FCSG s.9", "offset method", "Contino", "three-factor test"],
-    "tested_concepts": ["FCSG s.9 shared parenting", "40% or more parenting time", "offset method Contino", "three-factor analysis"],
-    "estimated_time_seconds": 90,
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "shared parenting",
+      "40% threshold",
+      "FCSG s.9",
+      "offset method",
+      "Contino",
+      "three-factor test"
+    ],
+    "tested_concepts": [
+      "FCSG s.9 shared parenting",
+      "40% or more parenting time",
+      "offset method Contino",
+      "three-factor analysis"
+    ],
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
@@ -271,7 +360,7 @@
       "D": "Yes — but support for adult post-secondary students is capped at $1,000/month regardless of the payor's income."
     },
     "correct_answer": "B",
-    "explanation": "Divorce Act s.2(1) defines 'child of the marriage' to include a person who is 18 or older and 'is unable, by reason of illness, disability, or other cause, to withdraw from their charge or to obtain the necessaries of life.' Courts have consistently held that full-time post-secondary attendance is an 'other cause' within this definition, preventing a young adult from withdrawing from parental charge. Child support for post-secondary students is calculated differently from table amounts — the court looks at the child's actual expenses, the parent's ability to pay, and any contribution the child can make (FCSG s.3(2)(b)). There is no automatic cutoff at age 21 and no fixed cap.",
+    "explanation": "Under the Divorce Act s.2(1) defines 'child of the marriage' to include a person who is 18 or older and 'is unable, by reason of illness, disability, or other cause, to withdraw from their charge or to obtain the necessaries of life.' Courts have consistently held that full-time post-secondary attendance is an 'other cause' within this definition, preventing a young adult from withdrawing from parental charge. Child support for post-secondary students is calculated differently from table amounts — the court looks at the child's actual expenses, the parent's ability to pay, and any contribution the child can make (FCSG s.3(2)(b)). There is no automatic cutoff at age 21 and no fixed cap.",
     "why_A_wrong": "The Divorce Act does not impose a hard age-18 cutoff for child support. Section 2(1) expressly extends the definition of 'child of the marriage' to adults who cannot withdraw from parental charge, which includes post-secondary students.",
     "why_B_wrong": "This IS the correct answer. DA s.2(1) extends child support to adults in post-secondary education as a recognized 'other cause'; FCSG s.3(2)(b) governs quantum for such children.",
     "why_C_wrong": "There is no age-21 statutory cutoff for adult child support in Canada. Support may continue beyond age 21 where the child remains legitimately unable to withdraw from parental charge.",
@@ -284,9 +373,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 2(1); Federal Child Support Guidelines, SOR/97-175, s. 3(2)(b)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["adult child", "post-secondary", "university", "child of the marriage", "DA s.2(1)", "other cause"],
-    "tested_concepts": ["DA s.2(1) definition child of marriage", "adult child post-secondary", "FCSG s.3(2)(b)", "no automatic age cutoff"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "adult child",
+      "post-secondary",
+      "university",
+      "child of the marriage",
+      "DA s.2(1)",
+      "other cause"
+    ],
+    "tested_concepts": [
+      "DA s.2(1) definition child of marriage",
+      "adult child post-secondary",
+      "FCSG s.3(2)(b)",
+      "no automatic age cutoff"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -326,10 +430,25 @@
       "page": "N/A",
       "rule_or_statute_reference": "Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 17(4), s. 17(6.1); Contino v. Leonelli-Contino, [2005] 3 SCR 217"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["variation", "material change", "income increase", "DA s.17(4)", "change in means", "Contino"],
-    "tested_concepts": ["DA s.17(4) material change", "payor income change as material change", "s.17(6.1) table recalculation", "no percentage threshold"],
-    "estimated_time_seconds": 90,
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "variation",
+      "material change",
+      "income increase",
+      "DA s.17(4)",
+      "change in means",
+      "Contino"
+    ],
+    "tested_concepts": [
+      "DA s.17(4) material change",
+      "payor income change as material change",
+      "s.17(6.1) table recalculation",
+      "no percentage threshold"
+    ],
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
@@ -355,7 +474,7 @@
       "D": "FCSG s.9 applies only if the child sleeps at each parent's home an equal number of nights; at 155 vs 210 overnights, s.9 is inapplicable."
     },
     "correct_answer": "B",
-    "explanation": "Federal Child Support Guidelines s.9 applies where 'a spouse exercises parenting time with a child for not less than 40 percent of the time over the course of a year.' The threshold is 40% — not 50%. Courts typically calculate the percentage based on the total number of days (or nights) in a year attributable to each parent. At 155 overnights out of 365 (approximately 42.5%), the father meets the s.9 threshold, and the court must apply the three-factor analysis from Contino v. Leonelli-Contino, [2005] 3 SCR 217 rather than simply imposing the full table amount. The calculation is not limited to overnights if there is significant daytime-only time, but overnights are the most common metric used.",
+    "explanation": "Under the Federal Child Support Guidelines s.9 applies where 'a spouse exercises parenting time with a child for not less than 40 percent of the time over the course of a year.' The threshold is 40% — not 50%. Courts typically calculate the percentage based on the total number of days (or nights) in a year attributable to each parent. At 155 overnights out of 365 (approximately 42.5%), the father meets the s.9 threshold, and the court must apply the three-factor analysis from Contino v. Leonelli-Contino, [2005] 3 SCR 217 rather than simply imposing the full table amount. The calculation is not limited to overnights if there is significant daytime-only time, but overnights are the most common metric used.",
     "why_A_wrong": "Courts most commonly measure parenting time for FCSG s.9 purposes using overnights as a practical proxy for total time spent with each parent. Daytime hours can be included where relevant, but overnights are the standard measure; 155 overnights clearly exceeds 40% of the year.",
     "why_B_wrong": "This IS the correct answer. FCSG s.9 threshold is 40% or more of the year; 155 out of 365 days equals approximately 42.5%, satisfying the threshold and engaging the three-factor Contino analysis.",
     "why_C_wrong": "FCSG s.9 does not require equal (50/50) parenting time. The threshold is 40%, not 50%. Any parenting time at or above 40% engages s.9.",
@@ -368,9 +487,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 9; Contino v. Leonelli-Contino, [2005] 3 SCR 217"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["40% threshold", "FCSG s.9", "overnights", "parenting time calculation", "Contino"],
-    "tested_concepts": ["FCSG s.9 40% threshold not 50%", "overnights as measure", "Contino three-factor analysis", "threshold calculation"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "40% threshold",
+      "FCSG s.9",
+      "overnights",
+      "parenting time calculation",
+      "Contino"
+    ],
+    "tested_concepts": [
+      "FCSG s.9 40% threshold not 50%",
+      "overnights as measure",
+      "Contino three-factor analysis",
+      "threshold calculation"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -410,9 +543,26 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 3(2)(b); Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 2(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["FCSG s.3(2)(b)", "adult child", "age of majority", "child of the marriage", "DA s.2(1)", "post-secondary education", "appropriateness assessment"],
-    "tested_concepts": ["DA s.2(1) child of marriage includes post-secondary student", "FCSG s.3(2)(b) appropriateness assessment replaces mandatory table", "no automatic termination at 18", "actual expenses apportioned proportionately", "no dollar cap on adult child support"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FCSG s.3(2)(b)",
+      "adult child",
+      "age of majority",
+      "child of the marriage",
+      "DA s.2(1)",
+      "post-secondary education",
+      "appropriateness assessment"
+    ],
+    "tested_concepts": [
+      "DA s.2(1) child of marriage includes post-secondary student",
+      "FCSG s.3(2)(b) appropriateness assessment replaces mandatory table",
+      "no automatic termination at 18",
+      "actual expenses apportioned proportionately",
+      "no dollar cap on adult child support"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -452,9 +602,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "DBS v SRG; LJW v TAR; Henry v Henry; Hiemstra v Hiemstra, [2006] 2 SCR 231"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["retroactive child support", "DBS v SRG", "four factors", "blameworthy conduct", "non-disclosure income"],
-    "tested_concepts": ["DBS v SRG four-factor analysis", "retroactive child support", "three-year presumptive period", "non-disclosure as blameworthy conduct"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "retroactive child support",
+      "DBS v SRG",
+      "four factors",
+      "blameworthy conduct",
+      "non-disclosure income"
+    ],
+    "tested_concepts": [
+      "DBS v SRG four-factor analysis",
+      "retroactive child support",
+      "three-year presumptive period",
+      "non-disclosure as blameworthy conduct"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -481,7 +645,7 @@
       "D": "The 2022 variation is a new order and creates a new tax regime only for future orders; Kwame may elect which regime applies by filing an election with CRA within 60 days of the variation."
     },
     "correct_answer": "B",
-    "explanation": "The Income Tax Act establishes the concept of a 'commencement day' to determine which tax regime applies to child support payments. Under ITA s.56.1(4) and s.60.1(4), a commencement day is triggered when a pre-May 1997 order or agreement is varied after April 1997 — specifically, the commencement day is the effective date of the variation. Once a commencement day arises, all child support amounts payable under the agreement or order on and after that day fall under the post-1997 tax-neutral regime: the payments are not deductible by the payor (ITA s.60(b)) and not includible as income by the recipient (ITA s.56(1)(b)). The variation does not split the treatment between old and new amounts — the commencement day converts the entire ongoing child support obligation to the tax-neutral regime. Both accountants' advice is incorrect after the 2022 variation.",
+    "explanation": "Under the Income Tax Act establishes the concept of a 'commencement day' to determine which tax regime applies to child support payments. Under ITA s.56.1(4) and s.60.1(4), a commencement day is triggered when a pre-May 1997 order or agreement is varied after April 1997 — specifically, the commencement day is the effective date of the variation. Once a commencement day arises, all child support amounts payable under the agreement or order on and after that day fall under the post-1997 tax-neutral regime: the payments are not deductible by the payor (ITA s.60(b)) and not includible as income by the recipient (ITA s.56(1)(b)). The variation does not split the treatment between old and new amounts — the commencement day converts the entire ongoing child support obligation to the tax-neutral regime. Both accountants' advice is incorrect after the 2022 variation.",
     "why_A_wrong": "Wrong Timeline Trap. While the 1995 order itself was governed by the pre-1997 regime, the ITA commencement day rules specifically address variations. A variation of a pre-1997 order made after April 1997 triggers a commencement day, ending the old deductible/taxable regime for all payments going forward.",
     "why_B_wrong": "This IS the correct answer. The 2022 variation triggers a commencement day under ITA s.56.1(4)/s.60.1(4), converting all child support payments — both the original base and the increased amount — to the post-1997 tax-neutral regime from that date.",
     "why_C_wrong": "Misapplied Tool. The commencement day rules do not split child support into two streams (old regime base plus new regime increment). Once a commencement day is triggered by a variation, the post-1997 tax-neutral regime applies to all child support payable under the order from the commencement day forward — not just the incremental amount.",
@@ -494,9 +658,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), ss. 56(1)(b), 56.1(4), 60(b), 60.1(4) (Commencement Day rules)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["commencement day", "pre-1997 order varied", "child support tax", "not deductible", "not taxable income", "variation triggers new regime"],
-    "tested_concepts": ["ITA commencement day triggered by post-1997 variation", "old regime ends on variation", "all payments become tax-neutral after commencement day", "no split regime between base and increment"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "commencement day",
+      "pre-1997 order varied",
+      "child support tax",
+      "not deductible",
+      "not taxable income",
+      "variation triggers new regime"
+    ],
+    "tested_concepts": [
+      "ITA commencement day triggered by post-1997 variation",
+      "old regime ends on variation",
+      "all payments become tax-neutral after commencement day",
+      "no split regime between base and increment"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -523,7 +702,7 @@
       "D": "Undue hardship is established solely by showing that the table amount exceeds 20% of the payor's income."
     },
     "correct_answer": "B",
-    "explanation": "Federal Child Support Guidelines s.10 provides that a court may award a different amount where the table amount would cause undue hardship to the paying or receiving spouse. Two cumulative elements must be established: (1) one of the circumstances listed in s.10(2), which includes unusually high debts from the marriage, unusually high expenses for exercising parenting time, and legal duties to support another person (such as children from a subsequent relationship); and (2) the household standard of living test — the court will not grant an undue hardship claim if the payor's household standard of living is higher than the recipient's. Derek's support obligations to his new family may qualify under s.10(2)(d) (legal duty to support other children), but he must also show his household standard of living is not higher than his former spouse's.",
+    "explanation": "Under the Federal Child Support Guidelines s.10 provides that a court may award a different amount where the table amount would cause undue hardship to the paying or receiving spouse. Two cumulative elements must be established: (1) one of the circumstances listed in s.10(2), which includes unusually high debts from the marriage, unusually high expenses for exercising parenting time, and legal duties to support another person (such as children from a subsequent relationship); and (2) the household standard of living test — the court will not grant an undue hardship claim if the payor's household standard of living is higher than the recipient's. Derek's support obligations to his new family may qualify under s.10(2)(d) (legal duty to support other children), but he must also show his household standard of living is not higher than his former spouse's.",
     "why_A_wrong": "No $500/month threshold test exists in FCSG s.10. The undue hardship analysis requires establishing a listed circumstance in s.10(2) and passing the household standard of living comparison test.",
     "why_B_wrong": "This IS the correct answer. FCSG s.10 requires two cumulative elements: a s.10(2) listed circumstance and a lower household standard of living than the recipient's; both must be met.",
     "why_C_wrong": "New family obligations do not automatically establish undue hardship. They are one of the listed circumstances (s.10(2)(d)) but are only sufficient if the household standard of living test is also satisfied.",
@@ -536,9 +715,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 10(1), s. 10(2)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["undue hardship", "FCSG s.10", "household standard of living", "s.10(2) circumstances", "legal duty to support"],
-    "tested_concepts": ["FCSG s.10 undue hardship two-part test", "s.10(2) listed circumstances", "household standard of living comparison", "new family obligations as circumstance"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "undue hardship",
+      "FCSG s.10",
+      "household standard of living",
+      "s.10(2) circumstances",
+      "legal duty to support"
+    ],
+    "tested_concepts": [
+      "FCSG s.10 undue hardship two-part test",
+      "s.10(2) listed circumstances",
+      "household standard of living comparison",
+      "new family obligations as circumstance"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -578,9 +771,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 5; Divorce Act, R.S.C. 1985, c. 3 (2nd Supp.), s. 2(2)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["step-parent", "FCSG s.5", "DA s.2(2)", "in loco parentis", "stands in place of parent"],
-    "tested_concepts": ["FCSG s.5 step-parent support", "DA s.2(2) in loco parentis", "court determines appropriate amount", "no adoption required"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "step-parent",
+      "FCSG s.5",
+      "DA s.2(2)",
+      "in loco parentis",
+      "stands in place of parent"
+    ],
+    "tested_concepts": [
+      "FCSG s.5 step-parent support",
+      "DA s.2(2) in loco parentis",
+      "court determines appropriate amount",
+      "no adoption required"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -607,7 +814,7 @@
       "D": "The court must apply the full proportional table formula by extrapolating beyond $150,000 as if the table extended indefinitely."
     },
     "correct_answer": "B",
-    "explanation": "Federal Child Support Guidelines s.4 provides that where the payor's income exceeds $150,000, the court shall award: (a) the amount shown in the table for the $150,000 income level, plus an additional amount the court considers appropriate; or (b) if the table amount for $150,000 does not appropriately reflect the condition, means, needs, and circumstances of the children and the payor's ability to pay, any amount that the court considers appropriate. The SSAG for high-income payors recognizes that the table amounts for lower incomes may not adequately reflect what is appropriate when the payor has very high means. In Dr. Sharma's case, a court would likely award substantially more than the $1,980 table amount for $150,000.",
+    "explanation": "Under the Federal Child Support Guidelines s.4 provides that where the payor's income exceeds $150,000, the court shall award: (a) the amount shown in the table for the $150,000 income level, plus an additional amount the court considers appropriate; or (b) if the table amount for $150,000 does not appropriately reflect the condition, means, needs, and circumstances of the children and the payor's ability to pay, any amount that the court considers appropriate. The SSAG for high-income payors recognizes that the table amounts for lower incomes may not adequately reflect what is appropriate when the payor has very high means. In Dr. Sharma's case, a court would likely award substantially more than the $1,980 table amount for $150,000.",
     "why_A_wrong": "FCSG s.4 does not cap child support at the $150,000 table amount for high-income payors. The court has discretion under s.4 to award additional amounts above the $150,000 benchmark.",
     "why_B_wrong": "This IS the correct answer. FCSG s.4 provides two options for income above $150,000: table amount plus additional appropriate amount, or a fully discretionary amount if the table amount is not appropriate.",
     "why_C_wrong": "There is no 2% income cap formula in the Federal Child Support Guidelines. The FCSG does not contain such a provision for high-income payors.",
@@ -620,9 +827,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 4"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["FCSG s.4", "income above $150,000", "high income payor", "table amount plus additional", "court discretion"],
-    "tested_concepts": ["FCSG s.4 high income payor", "two options above $150,000", "table amount plus additional", "fully discretionary amount"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "FCSG s.4",
+      "income above $150,000",
+      "high income payor",
+      "table amount plus additional",
+      "court discretion"
+    ],
+    "tested_concepts": [
+      "FCSG s.4 high income payor",
+      "two options above $150,000",
+      "table amount plus additional",
+      "fully discretionary amount"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -649,7 +870,7 @@
       "D": "Income imputation is only available for unemployed persons, not for those who are self-employed in a new career."
     },
     "correct_answer": "B",
-    "explanation": "Federal Child Support Guidelines s.19(1)(a) permits the court to impute income to a paying spouse who is intentionally under-employed or unemployed, unless the situation is 'reasonable' given the circumstances (such as illness, disability, or a reasonable career change that is not designed to avoid child support). Courts assess whether the career change is genuine and reasonable, considering the parent's education, skills, prior income, and the impact on the children. Priya's dramatic income reduction from $95,000 to $8,000 — a career choice she had the freedom to make personally — is subject to scrutiny if it appears connected to avoiding child support obligations. The court would typically impute income at or near Priya's previous earning level unless she can justify the change as reasonable and not motivated by avoiding support.",
+    "explanation": "Under the Federal Child Support Guidelines s.19(1)(a) permits the court to impute income to a paying spouse who is intentionally under-employed or unemployed, unless the situation is 'reasonable' given the circumstances (such as illness, disability, or a reasonable career change that is not designed to avoid child support). Courts assess whether the career change is genuine and reasonable, considering the parent's education, skills, prior income, and the impact on the children. Priya's dramatic income reduction from $95,000 to $8,000 — a career choice she had the freedom to make personally — is subject to scrutiny if it appears connected to avoiding child support obligations. The court would typically impute income at or near Priya's previous earning level unless she can justify the change as reasonable and not motivated by avoiding support.",
     "why_A_wrong": "Personal autonomy in career choices does not shield a parent from income imputation where the choice results in intentional underemployment at the expense of child support obligations. FCSG s.19(1)(a) applies to voluntary career changes that amount to intentional underemployment.",
     "why_B_wrong": "This IS the correct answer. FCSG s.19(1)(a) allows imputation for intentional underemployment; the court may impute income at Priya's earning capacity level (approximately $95,000) unless she can establish the career change is appropriate in the circumstances.",
     "why_C_wrong": "The court does not impute the maximum possible income regardless of circumstances. It imputes income at a level reflecting the parent's notional earning capacity — what they could reasonably earn given their qualifications — not an unrealistic maximum.",
@@ -662,9 +883,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 19(1)(a)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["imputing income", "s.19(1)(a)", "intentional underemployment", "career change", "notional earning capacity"],
-    "tested_concepts": ["FCSG s.19(1)(a) imputation grounds", "career change subject to scrutiny", "notional earning capacity", "burden on payor to justify reasonableness"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "imputing income",
+      "s.19(1)(a)",
+      "intentional underemployment",
+      "career change",
+      "notional earning capacity"
+    ],
+    "tested_concepts": [
+      "FCSG s.19(1)(a) imputation grounds",
+      "career change subject to scrutiny",
+      "notional earning capacity",
+      "burden on payor to justify reasonableness"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -691,7 +926,7 @@
       "D": "Imputation is never available for relocation-based income reduction; only resignation from employment triggers s.19."
     },
     "correct_answer": "B",
-    "explanation": "FCSG s.19(1)(a) does not prohibit a parent from relocating or changing positions, but it permits the court to impute income where the result is intentional underemployment. Courts apply a contextual assessment: whether the decision is reasonable in all the circumstances, including the impact on child support obligations. A voluntary move from a $110,000 position to $52,000 — nearly halving one's income — will attract scrutiny. The court considers whether the move is genuine (preference for rural life, family connection to the area, genuine lifestyle change) versus strategic (timed to post-separation, designed to reduce support). The court has discretion to impute at a level it considers appropriate, which may be the original income, the mid-point, or another figure reflecting what Kevin could reasonably earn.",
+    "explanation": "Under the FCSG s.19(1)(a) does not prohibit a parent from relocating or changing positions, but it permits the court to impute income where the result is intentional underemployment. Courts apply a contextual assessment: whether the decision is reasonable in all the circumstances, including the impact on child support obligations. A voluntary move from a $110,000 position to $52,000 — nearly halving one's income — will attract scrutiny. The court considers whether the move is genuine (preference for rural life, family connection to the area, genuine lifestyle change) versus strategic (timed to post-separation, designed to reduce support). The court has discretion to impute at a level it considers appropriate, which may be the original income, the mid-point, or another figure reflecting what Kevin could reasonably earn.",
     "why_A_wrong": "Personal lifestyle choices do not automatically insulate a parent from income imputation. The court assesses whether the lifestyle choice constitutes intentional underemployment in the circumstances, balancing the parent's autonomy against the children's right to support.",
     "why_B_wrong": "This IS the correct answer. FCSG s.19(1)(a) applies to voluntary relocation that results in significant income reduction; the court weighs the reasonableness of the move and may impute at a level reflecting earning capacity; the outcome is not automatic in either direction.",
     "why_C_wrong": "Not all relocations resulting in income reduction lead to imputation at the prior income level. The court has discretion and applies a reasonableness assessment. A truly justified relocation with a genuine personal rationale may not attract full imputation.",
@@ -704,9 +939,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 19(1)(a)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["relocation income reduction", "imputation", "FCSG s.19", "voluntary move", "lower wage", "reasonableness"],
-    "tested_concepts": ["relocation income reduction subject to s.19 scrutiny", "court weighs reasonableness", "discretion to impute", "not automatic in either direction"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "relocation income reduction",
+      "imputation",
+      "FCSG s.19",
+      "voluntary move",
+      "lower wage",
+      "reasonableness"
+    ],
+    "tested_concepts": [
+      "relocation income reduction subject to s.19 scrutiny",
+      "court weighs reasonableness",
+      "discretion to impute",
+      "not automatic in either direction"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -733,7 +983,7 @@
       "D": "The court must accept the declared income unless the recipient can independently prove the exact amount of unreported income."
     },
     "correct_answer": "B",
-    "explanation": "Federal Child Support Guidelines s.19(1) lists multiple grounds for income imputation beyond intentional underemployment. Section 19(1)(h) permits imputation where a spouse earns income from a business that is not reflected in the declared income. Courts also routinely use lifestyle evidence — expenditures inconsistent with declared income — as grounds to impute income at a level consistent with the lifestyle demonstrated. Bank deposits substantially exceeding declared income are powerful evidence supporting imputation. Fernando bears no automatic benefit of doubt; the court may impute income at a level reflecting his apparent actual financial capacity based on the totality of evidence. No criminal conviction is required — this is a civil proceeding applying a balance of probabilities standard.",
+    "explanation": "Under the Federal Child Support Guidelines s.19(1) lists multiple grounds for income imputation beyond intentional underemployment. Section 19(1)(h) permits imputation where a spouse earns income from a business that is not reflected in the declared income. Courts also routinely use lifestyle evidence — expenditures inconsistent with declared income — as grounds to impute income at a level consistent with the lifestyle demonstrated. Bank deposits substantially exceeding declared income are powerful evidence supporting imputation. Fernando bears no automatic benefit of doubt; the court may impute income at a level reflecting his apparent actual financial capacity based on the totality of evidence. No criminal conviction is required — this is a civil proceeding applying a balance of probabilities standard.",
     "why_A_wrong": "Courts are not bound to accept tax returns or declared income at face value when lifestyle evidence and bank records are inconsistent with declared income. FCSG s.19 specifically authorizes the court to look behind declared income.",
     "why_B_wrong": "This IS the correct answer. FCSG s.19 authorizes imputation based on lifestyle inconsistency and bank deposit evidence; the court may impute income at a level reflecting Fernando's actual financial capacity; civil standard of proof applies.",
     "why_C_wrong": "No criminal conviction is required. Income imputation in child support proceedings is governed by the civil standard of balance of probabilities. Evidence of lifestyle inconsistency is evaluated as civil evidence, not criminal.",
@@ -746,9 +996,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 19(1)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["unreported income", "lifestyle inconsistency", "bank deposits", "FCSG s.19", "imputation grounds"],
-    "tested_concepts": ["FCSG s.19 multiple imputation grounds", "lifestyle evidence for imputation", "bank deposits vs declared income", "civil standard of proof", "no criminal conviction required"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "unreported income",
+      "lifestyle inconsistency",
+      "bank deposits",
+      "FCSG s.19",
+      "imputation grounds"
+    ],
+    "tested_concepts": [
+      "FCSG s.19 multiple imputation grounds",
+      "lifestyle evidence for imputation",
+      "bank deposits vs declared income",
+      "civil standard of proof",
+      "no criminal conviction required"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -775,7 +1040,7 @@
       "D": "Any extracurricular activity costing more than $100 per month qualifies as an extraordinary expense under s.7."
     },
     "correct_answer": "B",
-    "explanation": "Federal Child Support Guidelines s.7(1)(f) includes 'extraordinary extracurricular activities' as a potential s.7 expense. 'Extraordinary' is assessed contextually: the activity must be unusual in nature or cost given the family's income, lifestyle, and circumstances. Low-cost recreational activities (like a $300/year soccer registration or modest piano lessons) that are typical of families with the parties' income level generally do not qualify as 'extraordinary.' Elite competitive programs, travel teams with significant costs, or activities well beyond what the family would normally afford may qualify. The Guidelines and case law provide no bright-line dollar threshold; the assessment is proportional and contextual. On these facts, recreational soccer likely does not qualify; piano lessons at $60/lesson may be borderline depending on the frequency and the parties' incomes.",
+    "explanation": "Under the Federal Child Support Guidelines s.7(1)(f) includes 'extraordinary extracurricular activities' as a potential s.7 expense. 'Extraordinary' is assessed contextually: the activity must be unusual in nature or cost given the family's income, lifestyle, and circumstances. Low-cost recreational activities (like a $300/year soccer registration or modest piano lessons) that are typical of families with the parties' income level generally do not qualify as 'extraordinary.' Elite competitive programs, travel teams with significant costs, or activities well beyond what the family would normally afford may qualify. The Guidelines and case law provide no bright-line dollar threshold; the assessment is proportional and contextual. On these facts, recreational soccer likely does not qualify; piano lessons at $60/lesson may be borderline depending on the frequency and the parties' incomes.",
     "why_A_wrong": "Section 7(1)(f) requires extracurricular activities to be 'extraordinary' — not merely extracurricular. Ordinary, low-cost recreational activities are not automatically s.7 expenses.",
     "why_B_wrong": "This IS the correct answer. The 'extraordinary' threshold under s.7(1)(f) requires the activity to be unusual or excessive given the family's income and circumstances; ordinary recreational activities like recreational soccer typically do not qualify.",
     "why_C_wrong": "While the table amount is intended to cover 'ordinary' expenses, s.7(1)(f) expressly provides for extraordinary extracurricular activities to be shared. The primary caregiver does not bear these costs exclusively; they are shared proportionally if the 'extraordinary' threshold is met.",
@@ -788,9 +1053,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 7(1)(f)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["extraordinary extracurricular", "s.7(1)(f)", "threshold test", "recreational vs elite", "contextual assessment"],
-    "tested_concepts": ["FCSG s.7(1)(f) extraordinary threshold", "contextual not dollar threshold", "recreational typically not extraordinary", "income-sensitive assessment"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "extraordinary extracurricular",
+      "s.7(1)(f)",
+      "threshold test",
+      "recreational vs elite",
+      "contextual assessment"
+    ],
+    "tested_concepts": [
+      "FCSG s.7(1)(f) extraordinary threshold",
+      "contextual not dollar threshold",
+      "recreational typically not extraordinary",
+      "income-sensitive assessment"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -817,7 +1096,7 @@
       "D": "Adult children are always expected to fund 50% of their post-secondary expenses regardless of parental income."
     },
     "correct_answer": "B",
-    "explanation": "Federal Child Support Guidelines s.3(2)(b) provides that for adult children, the court shall consider the condition, means, needs, and other circumstances of both the child and the spouses in determining an appropriate support amount. Case law consistently holds that adult children in post-secondary education are expected to contribute their own resources — including part-time earnings, summer employment income, and government student loans — before the parents are required to divide the remaining costs proportionally. Jordan's $7,000 in part-time earnings would typically be attributed to his education costs first, reducing the amount the parents must share. This reflects the policy that adult children bear primary responsibility for their own education, with parental support as a supplement.",
+    "explanation": "Under the Federal Child Support Guidelines s.3(2)(b) provides that for adult children, the court shall consider the condition, means, needs, and other circumstances of both the child and the spouses in determining an appropriate support amount. Case law consistently holds that adult children in post-secondary education are expected to contribute their own resources — including part-time earnings, summer employment income, and government student loans — before the parents are required to divide the remaining costs proportionally. Jordan's $7,000 in part-time earnings would typically be attributed to his education costs first, reducing the amount the parents must share. This reflects the policy that adult children bear primary responsibility for their own education, with parental support as a supplement.",
     "why_A_wrong": "Adult children are not insulated from contributing their own resources to post-secondary expenses. FCSG s.3(2)(b) requires the court to consider the child's own means, and case law applies a principle that the adult child contributes before parents divide the balance.",
     "why_B_wrong": "This IS the correct answer. FCSG s.3(2)(b) requires consideration of the adult child's own resources; Jordan's part-time earnings reduce the amount the parents share; this reflects the policy that adult children contribute before parental support is calculated.",
     "why_C_wrong": "The child's own contribution is not limited to scholarships and bursaries. Part-time wages, summer employment, and student loans are all considered. Jordan's $7,000 in part-time income is directly relevant.",
@@ -830,9 +1109,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 3(2)(b)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["adult child contribution", "post-secondary expenses", "FCSG s.3(2)(b)", "part-time earnings", "child's own resources"],
-    "tested_concepts": ["adult child expected to contribute own resources", "FCSG s.3(2)(b) child's means relevant", "part-time earnings deducted first", "parents share remaining costs proportionally"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "adult child contribution",
+      "post-secondary expenses",
+      "FCSG s.3(2)(b)",
+      "part-time earnings",
+      "child's own resources"
+    ],
+    "tested_concepts": [
+      "adult child expected to contribute own resources",
+      "FCSG s.3(2)(b) child's means relevant",
+      "part-time earnings deducted first",
+      "parents share remaining costs proportionally"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -859,7 +1152,7 @@
       "D": "Undue hardship is only available if the payor is unemployed; Troy's continued employment at $60,000 disqualifies him from claiming hardship."
     },
     "correct_answer": "B",
-    "explanation": "Federal Child Support Guidelines s.10 requires two cumulative elements for undue hardship: (1) the existence of one of the s.10(2) listed circumstances — including legal duties to support other dependants (s.10(2)(d)); and (2) that the household standard of living of the claimant's household (Troy's) is lower than the recipient's household. Troy satisfies the first element: he has legal duties to support his two new children. However, the second element — the household standard of living comparison — is critical. Troy's household earns $90,000 combined vs. the former spouse's $45,000 as a single parent. Courts assess household income per capita or using an equivalence scale, but on these rough numbers Troy's household appears better off financially than the recipient's, likely defeating the s.10 claim.",
+    "explanation": "Under the Federal Child Support Guidelines s.10 requires two cumulative elements for undue hardship: (1) the existence of one of the s.10(2) listed circumstances — including legal duties to support other dependants (s.10(2)(d)); and (2) that the household standard of living of the claimant's household (Troy's) is lower than the recipient's household. Troy satisfies the first element: he has legal duties to support his two new children. However, the second element — the household standard of living comparison — is critical. Troy's household earns $90,000 combined vs. the former spouse's $45,000 as a single parent. Courts assess household income per capita or using an equivalence scale, but on these rough numbers Troy's household appears better off financially than the recipient's, likely defeating the s.10 claim.",
     "why_A_wrong": "Satisfying one of the s.10(2) circumstances is necessary but not sufficient for undue hardship. The household standard of living comparison (second element) must also be met. Troy fails the second element on these facts.",
     "why_B_wrong": "This IS the correct answer. Troy satisfies s.10(2)(d) but fails the household standard of living test because his combined household income ($90,000) exceeds the former spouse's household income ($45,000); the claim is unlikely to succeed.",
     "why_C_wrong": "No automatic undue hardship rule exists based on total number of children. Both elements of the FCSG s.10 test must be met; the number of children supported is relevant only to establish the s.10(2) circumstance, not to automatically establish the full test.",
@@ -872,9 +1165,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 10(1), s. 10(2)(d)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["undue hardship", "FCSG s.10", "household standard of living", "s.10(2)(d)", "new family obligations"],
-    "tested_concepts": ["FCSG s.10 two-part cumulative test", "s.10(2)(d) new family obligations", "household standard of living comparison", "combined household income vs single parent"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "undue hardship",
+      "FCSG s.10",
+      "household standard of living",
+      "s.10(2)(d)",
+      "new family obligations"
+    ],
+    "tested_concepts": [
+      "FCSG s.10 two-part cumulative test",
+      "s.10(2)(d) new family obligations",
+      "household standard of living comparison",
+      "combined household income vs single parent"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -901,7 +1208,7 @@
       "D": "Marriage-related debts are always the responsibility of the recipient of child support, not the payor."
     },
     "correct_answer": "B",
-    "explanation": "Federal Child Support Guidelines s.10(2)(b) lists 'unusually high debts reasonably incurred to support the family prior to separation or to earn a living' as a circumstance that may ground an undue hardship claim. Warren's $80,000 in debt incurred to support the family during the marriage, for which he is solely responsible, potentially qualifies under this provision. However, the analysis is two-step: (1) the s.10(2)(b) circumstance must be established; and (2) Warren's household standard of living must be lower than the recipient's. The debts must be 'unusually high' relative to his income — here, $80,000 in debt ($1,800/month payments on a $72,000 income) may qualify as unusually high. The second (household comparison) element still requires separate analysis.",
+    "explanation": "Under the Federal Child Support Guidelines s.10(2)(b) lists 'unusually high debts reasonably incurred to support the family prior to separation or to earn a living' as a circumstance that may ground an undue hardship claim. Warren's $80,000 in debt incurred to support the family during the marriage, for which he is solely responsible, potentially qualifies under this provision. However, the analysis is two-step: (1) the s.10(2)(b) circumstance must be established; and (2) Warren's household standard of living must be lower than the recipient's. The debts must be 'unusually high' relative to his income — here, $80,000 in debt ($1,800/month payments on a $72,000 income) may qualify as unusually high. The second (household comparison) element still requires separate analysis.",
     "why_A_wrong": "FCSG s.10(2)(b) expressly includes unusually high marriage-related debts as a listed circumstance. Debts are a recognized ground for undue hardship claims, provided they meet the 'unusually high' threshold.",
     "why_B_wrong": "This IS the correct answer. FCSG s.10(2)(b) lists unusually high marriage-related debts as a ground; Warren must also satisfy the household standard of living comparison test as the second cumulative element.",
     "why_C_wrong": "Not every debt qualifies — s.10(2)(b) requires the debt to be 'unusually high' and 'reasonably incurred' in connection with supporting the family or earning a living. Ordinary debts at typical levels do not automatically qualify.",
@@ -914,9 +1221,23 @@
       "page": "N/A",
       "rule_or_statute_reference": "Federal Child Support Guidelines, SOR/97-175, s. 10(2)(b)"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["undue hardship", "FCSG s.10(2)(b)", "unusually high debts", "marriage debts", "support family prior to separation"],
-    "tested_concepts": ["FCSG s.10(2)(b) debt circumstance", "unusually high marriage-related debts", "two-part cumulative test still applies", "debt must be reasonably incurred"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "undue hardship",
+      "FCSG s.10(2)(b)",
+      "unusually high debts",
+      "marriage debts",
+      "support family prior to separation"
+    ],
+    "tested_concepts": [
+      "FCSG s.10(2)(b) debt circumstance",
+      "unusually high marriage-related debts",
+      "two-part cumulative test still applies",
+      "debt must be reasonably incurred"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -956,9 +1277,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "DBS v SRG; LJW v TAR; Henry v Henry; Hiemstra v Hiemstra, [2006] 2 SCR 231"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["retroactive child support", "DBS v SRG", "three-year presumption", "blameworthy conduct", "non-disclosure income"],
-    "tested_concepts": ["DBS three-year presumptive period", "blameworthy conduct extends period", "non-disclosure is blameworthy", "not punitive award", "payor's positive obligation to disclose"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "retroactive child support",
+      "DBS v SRG",
+      "three-year presumption",
+      "blameworthy conduct",
+      "non-disclosure income"
+    ],
+    "tested_concepts": [
+      "DBS three-year presumptive period",
+      "blameworthy conduct extends period",
+      "non-disclosure is blameworthy",
+      "not punitive award",
+      "payor's positive obligation to disclose"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -998,9 +1334,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "DBS v SRG; LJW v TAR; Henry v Henry; Hiemstra v Hiemstra, [2006] 2 SCR 231"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["retroactive reduction", "DBS v SRG", "payor delay", "detrimental reliance", "four factors reverse"],
-    "tested_concepts": ["DBS applies to payor reductions", "delay negative factor", "reliance by recipient and children", "partial retroactive reduction likely", "four DBS factors applied to payor"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "retroactive reduction",
+      "DBS v SRG",
+      "payor delay",
+      "detrimental reliance",
+      "four factors reverse"
+    ],
+    "tested_concepts": [
+      "DBS applies to payor reductions",
+      "delay negative factor",
+      "reliance by recipient and children",
+      "partial retroactive reduction likely",
+      "four DBS factors applied to payor"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -1027,7 +1378,7 @@
       "D": "An Ontario support order is automatically void once the payor leaves Ontario; it has no legal effect in another province."
     },
     "correct_answer": "B",
-    "explanation": "Ontario's Interjurisdictional Support Orders Act, 2002 (ISO Act), S.O. 2002, c. 13, provides a mechanism for registering and enforcing Ontario support orders in other Canadian provinces (and some foreign countries). Ontario has reciprocal enforcement arrangements with all other Canadian provinces. Cheryl can register the Ontario order in British Columbia through the ISO Act mechanism, which allows BC authorities to enforce the order as if it were a BC order. The Family Responsibility Office (FRO) in Ontario coordinates enforcement and can work with its BC counterpart. Daniel cannot escape the Ontario order merely by crossing a provincial border. No new BC proceeding or fresh child support determination is required for enforcement of the existing order.",
+    "explanation": "Under Interjurisdictional Support Orders Act, 2002, S.O. 2002, c. 13, Ontario's Interjurisdictional Support Orders Act, 2002 (ISO Act), S.O. 2002, c. 13, provides a mechanism for registering and enforcing Ontario support orders in other Canadian provinces (and some foreign countries). Ontario has reciprocal enforcement arrangements with all other Canadian provinces. Cheryl can register the Ontario order in British Columbia through the ISO Act mechanism, which allows BC authorities to enforce the order as if it were a BC order. The Family Responsibility Office (FRO) in Ontario coordinates enforcement and can work with its BC counterpart. Daniel cannot escape the Ontario order merely by crossing a provincial border. No new BC proceeding or fresh child support determination is required for enforcement of the existing order.",
     "why_A_wrong": "An Ontario support order does not become unenforceable when the payor moves to another province. The ISO Act and reciprocal enforcement mechanisms ensure the order remains enforceable across provincial borders.",
     "why_B_wrong": "This IS the correct answer. The ISO Act allows registration and enforcement of Ontario support orders in other provinces; FRO coordinates enforcement; no new proceeding is required for enforcement of the existing order.",
     "why_C_wrong": "Cheryl does not need to travel to BC or commence fresh proceedings. The ISO Act mechanism allows registration in BC through an administrative process coordinated by FRO and the BC authority.",
@@ -1040,9 +1391,24 @@
       "page": "N/A",
       "rule_or_statute_reference": "Interjurisdictional Support Orders Act, 2002, S.O. 2002, c. 13; Family Responsibility and Support Arrears Enforcement Act, 1996, S.O. 1996, c. 31"
     },
-    "pr_angle": {"applicable": false, "pr_issue_type": null},
-    "exam_trigger_words": ["interjurisdictional support", "ISO Act", "payor moves provinces", "FRO enforcement", "reciprocal enforcement"],
-    "tested_concepts": ["ISO Act 2002 interjurisdictional enforcement", "Ontario order enforceable in BC", "FRO coordinates enforcement", "no new proceeding required", "reciprocal provincial arrangements"],
+    "pr_angle": {
+      "applicable": false,
+      "pr_issue_type": null
+    },
+    "exam_trigger_words": [
+      "interjurisdictional support",
+      "ISO Act",
+      "payor moves provinces",
+      "FRO enforcement",
+      "reciprocal enforcement"
+    ],
+    "tested_concepts": [
+      "ISO Act 2002 interjurisdictional enforcement",
+      "Ontario order enforceable in BC",
+      "FRO coordinates enforcement",
+      "no new proceeding required",
+      "reciprocal provincial arrangements"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",

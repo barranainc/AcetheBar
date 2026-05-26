@@ -19,7 +19,7 @@
       "D": "Prima facie case — the Crown need only establish enough evidence to go to the jury."
     },
     "correct_answer": "C",
-    "explanation": "In criminal proceedings, the Crown bears the burden of proving every element of the offence beyond a reasonable doubt. As the Supreme Court of Canada held in R. v. Lifchus, [1997] 3 SCR 320, proof beyond a reasonable doubt is not based on sympathy or prejudice but on reason and common sense. It is not proof to an absolute certainty — because that is impossible in most cases — but it falls far short of a balance of probabilities. A reasonable doubt is a doubt based on reason and common sense, logically connected to the evidence.",
+    "explanation": "Under Canadian Charter of Rights and Freedoms, s. 11(d), In criminal proceedings, the Crown bears the burden of proving every element of the offence beyond a reasonable doubt. As the Supreme Court of Canada held in R. v. Lifchus, [1997] 3 SCR 320, proof beyond a reasonable doubt is not based on sympathy or prejudice but on reason and common sense. It is not proof to an absolute certainty — because that is impossible in most cases — but it falls far short of a balance of probabilities. A reasonable doubt is a doubt based on reason and common sense, logically connected to the evidence.",
     "why_A_wrong": "Balance of probabilities is the civil standard. In criminal proceedings, the Crown must meet the higher standard of proof beyond a reasonable doubt. Proof of mere probability is insufficient for conviction.",
     "why_B_wrong": "'Clear and convincing evidence' is an American standard that does not exist in Canadian criminal law. Canadian law uses only two standards: balance of probabilities (civil) and proof beyond a reasonable doubt (criminal).",
     "why_C_wrong": "This IS the correct answer. Proof beyond a reasonable doubt is the criminal standard required of the Crown, as affirmed in R. v. Lifchus and R. v. Starr.",
@@ -130,7 +130,7 @@
       "D": "The subjective intent of the police officer who committed the breach."
     },
     "correct_answer": "D",
-    "explanation": "In R. v. Grant, 2009 SCC 32, the Supreme Court of Canada replaced the Collins/Stillman test with a three-part balancing framework for s. 24(2). The three lines of inquiry are: (1) the seriousness of the Charter-infringing conduct (was the conduct deliberate, wilful, or flagrant?); (2) the impact of the breach on the Charter-protected interests of the accused (the more serious the impact on the accused's dignity, bodily integrity, or privacy, the more exclusion is favoured); and (3) society's interest in the adjudication on the merits (the truth-seeking interest, reliability of evidence, and importance of the evidence to the Crown's case). The subjective intent of the specific officer is not a freestanding line of inquiry; rather, good or bad faith is a factor under the first line (seriousness of breach), not a separate criterion.",
+    "explanation": "Under Canadian Charter of Rights and Freedoms, s. 24(2), In R. v. Grant, 2009 SCC 32, the Supreme Court of Canada replaced the Collins/Stillman test with a three-part balancing framework for s. 24(2). The three lines of inquiry are: (1) the seriousness of the Charter-infringing conduct (was the conduct deliberate, wilful, or flagrant?); (2) the impact of the breach on the Charter-protected interests of the accused (the more serious the impact on the accused's dignity, bodily integrity, or privacy, the more exclusion is favoured); and (3) society's interest in the adjudication on the merits (the truth-seeking interest, reliability of evidence, and importance of the evidence to the Crown's case). The subjective intent of the specific officer is not a freestanding line of inquiry; rather, good or bad faith is a factor under the first line (seriousness of breach), not a separate criterion.",
     "why_A_wrong": "The seriousness of the Charter-infringing conduct IS one of the three Grant lines of inquiry. Courts examine whether the conduct was deliberate, wilful, or a good-faith mistake, as part of assessing the seriousness of the breach.",
     "why_B_wrong": "The impact on the Charter-protected interests of the accused IS the second Grant line of inquiry. Courts assess whether the breach intruded on the accused's physical, bodily, or informational privacy, and the degree of that intrusion.",
     "why_C_wrong": "Society's interest in the adjudication on the merits IS the third Grant line of inquiry. This includes the importance of the evidence, its reliability, and whether exclusion would bring the administration of justice into disrepute by letting the accused escape on a 'technicality.'",
@@ -243,7 +243,7 @@
       "D": "The trial judge must exclude the statement as a matter of law whenever police made a promise or threat during an interrogation."
     },
     "correct_answer": "B",
-    "explanation": "When the admissibility of an accused's out-of-court statement to a person in authority is challenged, the trial judge must conduct a voir dire — a trial within a trial — to determine whether the statement was voluntarily made. The confessions rule (R. v. Oickle, 2000 SCC 38) requires the Crown to prove voluntariness beyond a reasonable doubt. The judge considers whether the statement was obtained by threats, promises, oppression, operating mind, or police trickery. Only if the judge finds the statement voluntary on the voir dire may it be admitted into evidence. The trier of fact (jury or judge) does not determine voluntariness.",
+    "explanation": "Under R. v. Oickle, 2000 SCC 38, When the admissibility of an accused's out-of-court statement to a person in authority is challenged, the trial judge must conduct a voir dire — a trial within a trial — to determine whether the statement was voluntarily made. The confessions rule (R. v. Oickle, 2000 SCC 38) requires the Crown to prove voluntariness beyond a reasonable doubt. The judge considers whether the statement was obtained by threats, promises, oppression, operating mind, or police trickery. Only if the judge finds the statement voluntary on the voir dire may it be admitted into evidence. The trier of fact (jury or judge) does not determine voluntariness.",
     "why_A_wrong": "Voluntariness is a question of admissibility for the trial judge to decide on a voir dire, not an instruction to the jury. The jury does not determine whether the confession was voluntary; that is the judge's function as gatekeeper.",
     "why_B_wrong": "This IS the correct answer. The trial judge must hold a voir dire to determine whether the statement was voluntarily made before it may be admitted, applying the confessions rule from R. v. Oickle.",
     "why_C_wrong": "Admitting the statement provisionally and leaving the question to the jury would be an error of law. Voluntariness is a threshold admissibility question for the judge, not a credibility or weight question for the jury.",
@@ -470,7 +470,7 @@
       "D": "Yes — the accused and Crown each have an equal number of peremptory challenges determined by the trial judge."
     },
     "correct_answer": "C",
-    "explanation": "The Criminal Code and Other Acts (Miscellaneous Amendments) Act, S.C. 2019, c. 25 (Bill C-75) abolished peremptory challenges effective September 19, 2019. Prior to this amendment, s. 634 of the Criminal Code provided peremptory challenges (the right to reject a juror without giving reasons). After the 2019 amendments, s. 634 no longer provides for peremptory challenges. Accused persons (and the Crown) now rely exclusively on challenges for cause under s. 638 (which require demonstrated grounds) and the 'stand aside' mechanism that replaced peremptory challenges to some degree. Ivan's trial post-2019 will have no peremptory challenges available.",
+    "explanation": "Under the Criminal Code and Other Acts (Miscellaneous Amendments) Act, S.C. 2019, c. 25 (Bill C-75) abolished peremptory challenges effective September 19, 2019. Prior to this amendment, s. 634 of the Criminal Code provided peremptory challenges (the right to reject a juror without giving reasons). After the 2019 amendments, s. 634 no longer provides for peremptory challenges. Accused persons (and the Crown) now rely exclusively on challenges for cause under s. 638 (which require demonstrated grounds) and the 'stand aside' mechanism that replaced peremptory challenges to some degree. Ivan's trial post-2019 will have no peremptory challenges available.",
     "why_A_wrong": "The 20-peremptory-challenge figure was the pre-2019 entitlement for offences punishable by more than five years. This provision was repealed by the 2019 amendments. No peremptory challenges exist after September 19, 2019.",
     "why_B_wrong": "The 12-peremptory-challenge figure was the pre-2019 entitlement for offences punishable by five years or less. This provision was also repealed. The entire peremptory challenge regime was abolished in 2019.",
     "why_C_wrong": "This IS the correct answer. Peremptory challenges were abolished by the 2019 Criminal Code amendments (Bill C-75), effective September 19, 2019.",
@@ -487,8 +487,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["peremptory challenges", "abolished", "2019 amendment", "jury selection", "Bill C-75", "s. 634"],
-    "tested_concepts": ["peremptory challenges abolished 2019", "Bill C-75 jury reforms", "challenges for cause remain", "stand aside mechanism"],
+    "exam_trigger_words": [
+      "peremptory challenges",
+      "abolished",
+      "2019 amendment",
+      "jury selection",
+      "Bill C-75",
+      "s. 634"
+    ],
+    "tested_concepts": [
+      "peremptory challenges abolished 2019",
+      "Bill C-75 jury reforms",
+      "challenges for cause remain",
+      "stand aside mechanism"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -515,7 +527,7 @@
       "D": "A challenge for cause may only be brought where the accused demonstrates a specific prior interaction between the juror and the accused."
     },
     "correct_answer": "B",
-    "explanation": "Section 638(1)(b) of the Criminal Code provides that a juror may be challenged for cause on the ground that the juror is not indifferent between the Crown and the accused. This provision encompasses the situation where racial, religious, or other forms of bias — including bias inflamed by pre-trial publicity or the nature of the charge — may prevent a juror from impartially weighing the evidence. The Supreme Court in R. v. Williams, [1998] 1 SCR 1128 recognized that widespread racial prejudice may constitute a proper basis for challenging jurors for cause. Defence counsel may ask the court for permission to challenge potential jurors for cause on the ground of partiality arising from religious or racial bias.",
+    "explanation": "Under s.638(1)(b) of the Criminal Code provides that a juror may be challenged for cause on the ground that the juror is not indifferent between the Crown and the accused. This provision encompasses the situation where racial, religious, or other forms of bias — including bias inflamed by pre-trial publicity or the nature of the charge — may prevent a juror from impartially weighing the evidence. The Supreme Court in R. v. Williams, [1998] 1 SCR 1128 recognized that widespread racial prejudice may constitute a proper basis for challenging jurors for cause. Defence counsel may ask the court for permission to challenge potential jurors for cause on the ground of partiality arising from religious or racial bias.",
     "why_A_wrong": "Prior criminal conviction of the juror is a separate ground for challenge under s. 638(1)(e), not the applicable ground on these facts. The relevant ground on these facts is partiality — the juror not being indifferent between the Crown and the accused.",
     "why_B_wrong": "This IS the correct answer. Section 638(1)(b) allows a challenge for cause on the ground that the prospective juror is not indifferent (impartial) between the Crown and the accused, which encompasses bias based on religion, race, or pre-trial publicity.",
     "why_C_wrong": "There is no provision in the Criminal Code that restricts challenges for cause in terrorism cases. The right to challenge for cause on the ground of partiality applies to all jury trials. Public safety is not a ground for restricting this procedural right.",
@@ -532,8 +544,21 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["challenge for cause", "s. 638(1)(b)", "indifferent", "impartial", "racial bias", "religious prejudice", "Williams"],
-    "tested_concepts": ["s. 638(1)(b) challenge for cause — partiality", "R. v. Williams racial bias", "pre-trial publicity as bias ground", "not indifferent between Crown and accused"],
+    "exam_trigger_words": [
+      "challenge for cause",
+      "s. 638(1)(b)",
+      "indifferent",
+      "impartial",
+      "racial bias",
+      "religious prejudice",
+      "Williams"
+    ],
+    "tested_concepts": [
+      "s. 638(1)(b) challenge for cause — partiality",
+      "R. v. Williams racial bias",
+      "pre-trial publicity as bias ground",
+      "not indifferent between Crown and accused"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -577,8 +602,19 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["adverse witness", "s. 9(1) Canada Evidence Act", "cross-examine own witness", "hostile witness", "leading questions"],
-    "tested_concepts": ["s. 9(1) declaration of adversity", "Crown cross-examination of own adverse witness", "s. 9(1) vs K.G.B. substantive use", "leading questions permitted after adversity"],
+    "exam_trigger_words": [
+      "adverse witness",
+      "s. 9(1) Canada Evidence Act",
+      "cross-examine own witness",
+      "hostile witness",
+      "leading questions"
+    ],
+    "tested_concepts": [
+      "s. 9(1) declaration of adversity",
+      "Crown cross-examination of own adverse witness",
+      "s. 9(1) vs K.G.B. substantive use",
+      "leading questions permitted after adversity"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -622,8 +658,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["order of addresses", "closing submissions", "s. 651(3)", "accused speaks last", "no defence evidence", "Crown first"],
-    "tested_concepts": ["s. 651(3) order where accused called no evidence", "Crown addresses first", "accused addresses last where no defence evidence", "Crown reply right where accused called evidence"],
+    "exam_trigger_words": [
+      "order of addresses",
+      "closing submissions",
+      "s. 651(3)",
+      "accused speaks last",
+      "no defence evidence",
+      "Crown first"
+    ],
+    "tested_concepts": [
+      "s. 651(3) order where accused called no evidence",
+      "Crown addresses first",
+      "accused addresses last where no defence evidence",
+      "Crown reply right where accused called evidence"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -650,7 +698,7 @@
       "D": "Yes — the instruction is wrong because it fails to state that proof beyond a reasonable doubt is proof to an absolute certainty."
     },
     "correct_answer": "B",
-    "explanation": "In R. v. Lifchus, [1997] 3 SCR 320, the Supreme Court of Canada identified the 'hesitate in important affairs of life' formulation as problematic and specifically cautioned against it. The concern is that this instruction incorrectly equates the criminal standard with the kind of everyday caution used in business or personal decisions — which may be based on probability, self-interest, or emotional concerns, rather than the reason and common sense required in criminal adjudication. The Lifchus model charge directs that a reasonable doubt is: (a) not based on sympathy or prejudice; (b) based on reason and common sense; (c) logically connected to the evidence or the absence of evidence; (d) not proof to an absolute certainty; and (e) more than an imaginary or frivolous doubt. The 'everyday hesitation' formula conflates the criminal and civil standards and was specifically flagged as potentially misleading.",
+    "explanation": "Under R. v. Lifchus, [1997] 3 SCR 320, In R. v. Lifchus, [1997] 3 SCR 320, the Supreme Court of Canada identified the 'hesitate in important affairs of life' formulation as problematic and specifically cautioned against it. The concern is that this instruction incorrectly equates the criminal standard with the kind of everyday caution used in business or personal decisions — which may be based on probability, self-interest, or emotional concerns, rather than the reason and common sense required in criminal adjudication. The Lifchus model charge directs that a reasonable doubt is: (a) not based on sympathy or prejudice; (b) based on reason and common sense; (c) logically connected to the evidence or the absence of evidence; (d) not proof to an absolute certainty; and (e) more than an imaginary or frivolous doubt. The 'everyday hesitation' formula conflates the criminal and civil standards and was specifically flagged as potentially misleading.",
     "why_A_wrong": "The 'everyday doubt' and 'hesitate in important affairs' formulation is not the Lifchus approved model. Lifchus specifically criticized this formulation as potentially misleading. The Lifchus model charge uses different language focused on reason and common sense.",
     "why_B_wrong": "This IS the correct answer. The 'hesitate in important affairs of life' formulation was identified in Lifchus as a problematic instruction that should not be given because it may inaccurately equate the criminal standard with everyday decision-making.",
     "why_C_wrong": "Not any commonsense description of reasonable doubt is acceptable. Lifchus established that specific formulations — including 'everyday hesitation' — are problematic. Courts must use an instruction consistent with the Lifchus model charge or an equivalent that avoids the identified pitfalls.",
@@ -667,8 +715,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["Lifchus", "reasonable doubt", "hesitate in important affairs", "model charge", "jury instruction", "problematic formulation"],
-    "tested_concepts": ["Lifchus approved model charge", "hesitate in important affairs — disapproved formulation", "reason and common sense standard", "not proof to absolute certainty"],
+    "exam_trigger_words": [
+      "Lifchus",
+      "reasonable doubt",
+      "hesitate in important affairs",
+      "model charge",
+      "jury instruction",
+      "problematic formulation"
+    ],
+    "tested_concepts": [
+      "Lifchus approved model charge",
+      "hesitate in important affairs — disapproved formulation",
+      "reason and common sense standard",
+      "not proof to absolute certainty"
+    ],
     "estimated_time_seconds": 150,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -695,7 +755,7 @@
       "D": "There is no burden of proof at a voir dire — the judge conducts an inquisitorial investigation."
     },
     "correct_answer": "B",
-    "explanation": "On a s. 24(2) voir dire, the threshold question is whether a Charter right was infringed. The accused bears the burden of establishing the Charter breach on a balance of probabilities — this is the general civil standard for the precondition to s. 24 relief. Once the breach is established, the Grant framework requires the court to balance the three lines of inquiry (seriousness of breach, impact on accused's interests, society's interest in adjudication on merits) to determine whether exclusion is warranted. This balancing is not a burden exercise — the court conducts an independent assessment of all three factors. There is no secondary burden on the Crown to 'prove' the evidence should be admitted; rather, the court weighs the evidence of breach and all relevant Grant factors and reaches a conclusion on balance.",
+    "explanation": "Under Canadian Charter of Rights and Freedoms, s. 24(2), On a s. 24(2) voir dire, the threshold question is whether a Charter right was infringed. The accused bears the burden of establishing the Charter breach on a balance of probabilities — this is the general civil standard for the precondition to s. 24 relief. Once the breach is established, the Grant framework requires the court to balance the three lines of inquiry (seriousness of breach, impact on accused's interests, society's interest in adjudication on merits) to determine whether exclusion is warranted. This balancing is not a burden exercise — the court conducts an independent assessment of all three factors. There is no secondary burden on the Crown to 'prove' the evidence should be admitted; rather, the court weighs the evidence of breach and all relevant Grant factors and reaches a conclusion on balance.",
     "why_A_wrong": "The Crown does not bear the initial burden of proving no Charter breach occurred. The accused must establish the breach — Charter rights are presumed not to have been violated until the applicant demonstrates otherwise. The Crown's role is to contest the evidence of breach and present evidence relevant to the Grant factors.",
     "why_B_wrong": "This IS the correct answer. The accused establishes the Charter breach on a balance of probabilities; thereafter the court balances the Grant factors without a further formal burden on either party.",
     "why_C_wrong": "Once a Charter breach is established, there is no burden on the Crown to prove admissibility on a balance of probabilities. The Grant analysis is a judicial weighing exercise, not a burden-bearing exercise for either party on the exclusion question.",
@@ -712,8 +772,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["s. 24(2)", "voir dire burden", "accused establishes breach", "balance of probabilities", "Grant factors", "Charter breach"],
-    "tested_concepts": ["accused bears burden to establish Charter breach", "balance of probabilities on breach", "no secondary Crown burden on exclusion question", "Grant balancing exercise"],
+    "exam_trigger_words": [
+      "s. 24(2)",
+      "voir dire burden",
+      "accused establishes breach",
+      "balance of probabilities",
+      "Grant factors",
+      "Charter breach"
+    ],
+    "tested_concepts": [
+      "accused bears burden to establish Charter breach",
+      "balance of probabilities on breach",
+      "no secondary Crown burden on exclusion question",
+      "Grant balancing exercise"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -740,7 +812,7 @@
       "D": "No — Collins was replaced, but the distinction between real and testimonial evidence remains a determinative factor in the s. 24(2) analysis."
     },
     "correct_answer": "B",
-    "explanation": "In R. v. Grant, 2009 SCC 32, the Supreme Court of Canada expressly overruled the Collins/Stillman framework and replaced it with the three-part Grant test. The old test under R. v. Collins, [1987] 1 SCR 265 and R. v. Stillman, [1997] 1 SCR 607 divided evidence into 'conscriptive' (obtained through accused participation — automatically excluded if it affected trial fairness) and 'non-conscriptive' (real evidence — more likely admitted). Grant rejected this binary distinction as too mechanical and unpredictable. Under Grant, all three lines of inquiry must be weighed holistically: seriousness of the breach, impact on Charter-protected interests, and society's interest in adjudication on the merits. Whether the evidence is 'real' or 'testimonial' may be a factor under the third line (reliability and importance), but it is not automatically determinative.",
+    "explanation": "Under Canadian Charter of Rights and Freedoms, s. 24(2), In R. v. Grant, 2009 SCC 32, the Supreme Court of Canada expressly overruled the Collins/Stillman framework and replaced it with the three-part Grant test. The old test under R. v. Collins, [1987] 1 SCR 265 and R. v. Stillman, [1997] 1 SCR 607 divided evidence into 'conscriptive' (obtained through accused participation — automatically excluded if it affected trial fairness) and 'non-conscriptive' (real evidence — more likely admitted). Grant rejected this binary distinction as too mechanical and unpredictable. Under Grant, all three lines of inquiry must be weighed holistically: seriousness of the breach, impact on Charter-protected interests, and society's interest in adjudication on the merits. Whether the evidence is 'real' or 'testimonial' may be a factor under the third line (reliability and importance), but it is not automatically determinative.",
     "why_A_wrong": "The conscriptive evidence rule was abolished by Grant. Cocaine (real evidence) is no longer automatically excluded or admitted based on whether the accused 'participated' in its discovery. The Grant balancing test applies.",
     "why_B_wrong": "This IS the correct answer. Grant expressly replaced Collins/Stillman. The conscriptive/non-conscriptive distinction no longer applies in any form to s. 24(2) analysis.",
     "why_C_wrong": "The conscriptive/non-conscriptive distinction does not survive Grant in any form — not for physical evidence, not for statements. The Grant three-part test applies universally to s. 24(2) applications.",
@@ -757,8 +829,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["conscriptive evidence", "Collins Stillman", "Grant replaced Collins", "s. 24(2)", "real evidence", "testimonial evidence"],
-    "tested_concepts": ["Grant replaced Collins/Stillman", "conscriptive/non-conscriptive distinction abolished", "holistic balancing under Grant", "real evidence not automatically admitted"],
+    "exam_trigger_words": [
+      "conscriptive evidence",
+      "Collins Stillman",
+      "Grant replaced Collins",
+      "s. 24(2)",
+      "real evidence",
+      "testimonial evidence"
+    ],
+    "tested_concepts": [
+      "Grant replaced Collins/Stillman",
+      "conscriptive/non-conscriptive distinction abolished",
+      "holistic balancing under Grant",
+      "real evidence not automatically admitted"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -802,8 +886,21 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["Grant third line", "society's interest", "adjudication on the merits", "reliable evidence", "serious offence", "s. 24(2)"],
-    "tested_concepts": ["Grant third line — society's interest in adjudication on merits", "importance of evidence to Crown's case", "reliability favours admission", "serious offence weighs toward admission", "three lines must be distinguished"],
+    "exam_trigger_words": [
+      "Grant third line",
+      "society's interest",
+      "adjudication on the merits",
+      "reliable evidence",
+      "serious offence",
+      "s. 24(2)"
+    ],
+    "tested_concepts": [
+      "Grant third line — society's interest in adjudication on merits",
+      "importance of evidence to Crown's case",
+      "reliability favours admission",
+      "serious offence weighs toward admission",
+      "three lines must be distinguished"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -830,7 +927,7 @@
       "D": "No — a statement obtained in breach of s. 10(b) is automatically excluded regardless of the Grant analysis."
     },
     "correct_answer": "B",
-    "explanation": "Charter compliance and common law voluntariness are two separate and independent requirements for the admissibility of a statement. A statement that is voluntary under the Oickle confessions rule may nonetheless be excluded under s. 24(2) of the Charter if it was obtained in breach of the accused's Charter rights (such as s. 10(b) right to counsel). The Crown must satisfy both tests. Voluntariness goes to the common law confessions rule; s. 24(2) applies the Grant balancing framework to determine whether, despite voluntariness, the Charter breach was sufficiently serious that admitting the evidence would bring the administration of justice into disrepute. Conversely, a statement may be Charter-compliant but still excluded if it was involuntary.",
+    "explanation": "Under Canadian Charter of Rights and Freedoms, s. 10(b), s. 24(2), Charter compliance and common law voluntariness are two separate and independent requirements for the admissibility of a statement. A statement that is voluntary under the Oickle confessions rule may nonetheless be excluded under s. 24(2) of the Charter if it was obtained in breach of the accused's Charter rights (such as s. 10(b) right to counsel). The Crown must satisfy both tests. Voluntariness goes to the common law confessions rule; s. 24(2) applies the Grant balancing framework to determine whether, despite voluntariness, the Charter breach was sufficiently serious that admitting the evidence would bring the administration of justice into disrepute. Conversely, a statement may be Charter-compliant but still excluded if it was involuntary.",
     "why_A_wrong": "Voluntariness is a necessary but not sufficient condition for admissibility. A Charter breach (such as violation of s. 10(b)) provides an independent basis for exclusion under s. 24(2), regardless of whether the statement was voluntarily made.",
     "why_B_wrong": "This IS the correct answer. Charter compliance under s. 10(b) and voluntariness under the confessions rule are independent requirements. A voluntary statement obtained through a serious s. 10(b) breach may still be excluded under the Grant s. 24(2) framework.",
     "why_C_wrong": "Section 24(2) applies to all evidence obtained through Charter breaches, including statements and confessions. The Grant framework is not limited to physical evidence. Confessions obtained through Charter breaches are subject to s. 24(2) exclusion analysis.",
@@ -847,8 +944,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["s. 10(b)", "voluntariness", "s. 24(2)", "confessions rule", "independent requirements", "Charter breach and confession"],
-    "tested_concepts": ["voluntariness and Charter compliance are independent tests", "s. 10(b) breach may ground s. 24(2) exclusion", "Grant applies to statements", "no automatic exclusion for s. 10(b) breach"],
+    "exam_trigger_words": [
+      "s. 10(b)",
+      "voluntariness",
+      "s. 24(2)",
+      "confessions rule",
+      "independent requirements",
+      "Charter breach and confession"
+    ],
+    "tested_concepts": [
+      "voluntariness and Charter compliance are independent tests",
+      "s. 10(b) breach may ground s. 24(2) exclusion",
+      "Grant applies to statements",
+      "no automatic exclusion for s. 10(b) breach"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -875,7 +984,7 @@
       "D": "The stand-aside power operates identically to the former peremptory challenge and is available to both the Crown and the accused without limit."
     },
     "correct_answer": "C",
-    "explanation": "Following the abolition of peremptory challenges by the 2019 amendments (Bill C-75), Criminal Code s. 633 grants trial judges the power to order a juror to stand aside. Under s. 633, the trial judge may direct a juror to stand aside for reasons of maintaining public confidence in the administration of justice or to maintain the order and dignity of the proceedings. This is a judicial power, not a party power. A juror who is stood aside may be recalled if no other jurors remain unexamined. The stand aside is temporary — it is not a permanent exclusion. It is designed to allow the court to manage the panel effectively, not to replicate the abolished peremptory challenge in the hands of parties.",
+    "explanation": "Under Criminal Code, R.S.C. 1985, c. C-46, s. 633, Following the abolition of peremptory challenges by the 2019 amendments (Bill C-75), Criminal Code s. 633 grants trial judges the power to order a juror to stand aside. Under s. 633, the trial judge may direct a juror to stand aside for reasons of maintaining public confidence in the administration of justice or to maintain the order and dignity of the proceedings. This is a judicial power, not a party power. A juror who is stood aside may be recalled if no other jurors remain unexamined. The stand aside is temporary — it is not a permanent exclusion. It is designed to allow the court to manage the panel effectively, not to replicate the abolished peremptory challenge in the hands of parties.",
     "why_A_wrong": "The stand-aside power after Bill C-75 is a judicial power, not a Crown power. The Crown cannot set aside jurors without reason under the post-2019 framework. The former Crown peremptory challenge power was also abolished.",
     "why_B_wrong": "The stand-aside power is a judicial power, not an accused power. It does not replace the abolished peremptory challenge in the accused's hands. Neither party holds the stand-aside power — it resides exclusively with the trial judge.",
     "why_C_wrong": "This IS the correct answer. Under s. 633 as amended, the trial judge may direct a juror to stand aside to maintain public confidence or order and dignity. Stood-aside jurors may be recalled if the panel is exhausted.",
@@ -892,8 +1001,21 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["stand aside", "s. 633", "jury selection", "Bill C-75", "public confidence", "order and dignity", "judicial power"],
-    "tested_concepts": ["s. 633 stand-aside power is judicial not party power", "grounds: public confidence or order and dignity", "stood-aside juror may be recalled", "distinct from abolished peremptory challenge"],
+    "exam_trigger_words": [
+      "stand aside",
+      "s. 633",
+      "jury selection",
+      "Bill C-75",
+      "public confidence",
+      "order and dignity",
+      "judicial power"
+    ],
+    "tested_concepts": [
+      "s. 633 stand-aside power is judicial not party power",
+      "grounds: public confidence or order and dignity",
+      "stood-aside juror may be recalled",
+      "distinct from abolished peremptory challenge"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -937,8 +1059,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["Lifchus", "jury charge", "reasonable doubt", "important affairs of life", "approved model charge", "absolute certainty"],
-    "tested_concepts": ["Lifchus disapproved 'important affairs of life' formulation", "absolute certainty not required — correct statement", "reason and common sense standard", "model charge elements"],
+    "exam_trigger_words": [
+      "Lifchus",
+      "jury charge",
+      "reasonable doubt",
+      "important affairs of life",
+      "approved model charge",
+      "absolute certainty"
+    ],
+    "tested_concepts": [
+      "Lifchus disapproved 'important affairs of life' formulation",
+      "absolute certainty not required — correct statement",
+      "reason and common sense standard",
+      "model charge elements"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -982,8 +1116,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["good faith", "seriousness of breach", "Grant first line", "s. 24(2)", "officer believed lawful", "reduce culpability"],
-    "tested_concepts": ["good faith reduces seriousness under first Grant line", "not automatic admission", "all three Grant lines must be balanced", "deliberate vs good-faith breach distinction"],
+    "exam_trigger_words": [
+      "good faith",
+      "seriousness of breach",
+      "Grant first line",
+      "s. 24(2)",
+      "officer believed lawful",
+      "reduce culpability"
+    ],
+    "tested_concepts": [
+      "good faith reduces seriousness under first Grant line",
+      "not automatic admission",
+      "all three Grant lines must be balanced",
+      "deliberate vs good-faith breach distinction"
+    ],
     "estimated_time_seconds": 90,
     "validation_status": "draft",
     "similarity_risk": "low",
@@ -1010,7 +1156,7 @@
       "D": "No — s. 11(b) only applies to pre-trial delay; delay during the trial itself is not included in the calculation."
     },
     "correct_answer": "C",
-    "explanation": "Section 11(b) of the Charter guarantees the right to be tried within a reasonable time. This right can be raised at any stage of the proceedings before a verdict is rendered — it is not restricted to pre-trial applications. A s. 11(b) application mid-trial is procedurally available to an accused. If the court finds a s. 11(b) violation, the remedy under s. 24(1) of the Charter is a stay of proceedings — the court has no discretion to impose a lesser remedy such as a reduction in sentence once a s. 11(b) breach is established (R. v. Jordan, 2016 SCC 27; R. v. Askov, [1990] 2 SCR 1199). A mistrial is not the remedy for s. 11(b); a stay is the constitutional remedy that terminates the proceedings. The delay calculation under the Jordan framework encompasses all delay from charge to conclusion of trial.",
+    "explanation": "Under s.11(b) of the Charter guarantees the right to be tried within a reasonable time. This right can be raised at any stage of the proceedings before a verdict is rendered — it is not restricted to pre-trial applications. A s. 11(b) application mid-trial is procedurally available to an accused. If the court finds a s. 11(b) violation, the remedy under s. 24(1) of the Charter is a stay of proceedings — the court has no discretion to impose a lesser remedy such as a reduction in sentence once a s. 11(b) breach is established (R. v. Jordan, 2016 SCC 27; R. v. Askov, [1990] 2 SCR 1199). A mistrial is not the remedy for s. 11(b); a stay is the constitutional remedy that terminates the proceedings. The delay calculation under the Jordan framework encompasses all delay from charge to conclusion of trial.",
     "why_A_wrong": "Section 11(b) applications are not restricted to pre-trial proceedings. An accused may raise a delay application at any point before verdict. Timing is relevant to the prejudice analysis but does not bar mid-trial applications.",
     "why_B_wrong": "The remedy for a s. 11(b) violation is a stay of proceedings, not a mistrial. A mistrial would merely restart the proceedings, which would not remedy the constitutional violation. A stay terminates the proceedings entirely.",
     "why_C_wrong": "This IS the correct answer. A s. 11(b) application may be brought at any stage before verdict; the remedy upon finding a violation is a stay of proceedings.",
@@ -1027,8 +1173,20 @@
       "applicable": false,
       "pr_issue_type": null
     },
-    "exam_trigger_words": ["s. 11(b)", "unreasonable delay", "mid-trial application", "stay of proceedings", "Jordan", "reasonable time"],
-    "tested_concepts": ["s. 11(b) may be raised at any stage before verdict", "remedy is stay of proceedings not mistrial", "trial delay included in Jordan calculation", "stay terminates proceedings"],
+    "exam_trigger_words": [
+      "s. 11(b)",
+      "unreasonable delay",
+      "mid-trial application",
+      "stay of proceedings",
+      "Jordan",
+      "reasonable time"
+    ],
+    "tested_concepts": [
+      "s. 11(b) may be raised at any stage before verdict",
+      "remedy is stay of proceedings not mistrial",
+      "trial delay included in Jordan calculation",
+      "stay terminates proceedings"
+    ],
     "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",

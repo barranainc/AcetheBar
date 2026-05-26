@@ -266,7 +266,7 @@
       "non-resident plaintiff or corporation without Ontario assets",
       "discretionary order on motion"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-24",
@@ -618,7 +618,7 @@
       "D": "A 'costs in the cause' order means the motion costs are awarded outright to the moving party regardless of the outcome of the action."
     },
     "correct_answer": "B",
-    "explanation": "A 'costs in the cause' order is a standard form of interlocutory costs disposition under Ontario civil practice. Its effect is that the costs of the interlocutory motion are not determined immediately; instead, they follow the outcome of the overall proceeding. The party who ultimately succeeds at trial or in the proceeding is entitled to recover not only the costs of the action but also the costs of any interlocutory motions where 'costs in the cause' was ordered. In the scenario, since the plaintiff succeeded at trial and was awarded costs of the action, the plaintiff also recovers the costs of the interlocutory motion. 'Costs in the cause' is distinguished from: 'costs to the moving party' (immediate award to winner of motion); 'no costs' (each party bears own costs of motion); and 'costs reserved' (judge decides later).",
+    "explanation": "Under Rules of Civil Procedure, R.R.O. 1990, Reg. 194, r.57.01, A 'costs in the cause' order is a standard form of interlocutory costs disposition under Ontario civil practice. Its effect is that the costs of the interlocutory motion are not determined immediately; instead, they follow the outcome of the overall proceeding. The party who ultimately succeeds at trial or in the proceeding is entitled to recover not only the costs of the action but also the costs of any interlocutory motions where 'costs in the cause' was ordered. In the scenario, since the plaintiff succeeded at trial and was awarded costs of the action, the plaintiff also recovers the costs of the interlocutory motion. 'Costs in the cause' is distinguished from: 'costs to the moving party' (immediate award to winner of motion); 'no costs' (each party bears own costs of motion); and 'costs reserved' (judge decides later).",
     "why_A_wrong": "A 'costs in the cause' order does not mean each party bears its own costs immediately. It means the motion costs follow the outcome of the proceeding — the ultimate winner of the action recovers them.",
     "why_B_wrong": "This IS the correct answer. 'Costs in the cause' means the costs of the interlocutory motion follow the outcome of the overall proceeding and are recovered by the party who ultimately succeeds in the action.",
     "why_C_wrong": "'Costs in the cause' is distinct from 'costs reserved.' A 'costs reserved' order means the judge will decide later how to award the costs; 'costs in the cause' means they follow the event in the main action automatically.",
@@ -672,7 +672,7 @@
       "D": "Self-represented litigants may only recover disbursements (out-of-pocket expenses) but not any amount for their time; the concept of 'fees' does not apply to parties who are not paying for legal services."
     },
     "correct_answer": "B",
-    "explanation": "In Fong v. Chan (1999), 46 OR (3d) 330 (CA), the Ontario Court of Appeal held that a self-represented litigant may be awarded costs for the time and effort invested in the litigation, but the quantum of those costs is assessed differently from costs for a represented party. A self-represented litigant may recover compensation for their time at a rate that reflects the work done and the complexity of the matter, but not at the full rate that would be charged by a licensed lawyer. The court considers the reasonableness of the time spent and the value of the litigant's contribution to the proceedings. The award is intended to provide fair compensation for the burden of self-representation, not to create a windfall or to equate non-lawyers with counsel.",
+    "explanation": "Under Fong v. Chan (1999), 46 OR (3d) 330 (CA), In Fong v. Chan (1999), 46 OR (3d) 330 (CA), the Ontario Court of Appeal held that a self-represented litigant may be awarded costs for the time and effort invested in the litigation, but the quantum of those costs is assessed differently from costs for a represented party. A self-represented litigant may recover compensation for their time at a rate that reflects the work done and the complexity of the matter, but not at the full rate that would be charged by a licensed lawyer. The court considers the reasonableness of the time spent and the value of the litigant's contribution to the proceedings. The award is intended to provide fair compensation for the burden of self-representation, not to create a windfall or to equate non-lawyers with counsel.",
     "why_A_wrong": "Self-represented litigants are not categorically disentitled to costs. Fong v. Chan expressly recognized their entitlement to compensation for time and effort in the litigation.",
     "why_B_wrong": "This IS the correct answer. Under Fong v. Chan, self-represented litigants may recover costs for time spent but at a reduced rate, not at full lawyer rates; compensation for actual time and effort is permitted.",
     "why_C_wrong": "C overstates the entitlement and misstates the applicable rate. The Partial-Indemnity-Equivalence Trap: Fong v. Chan does not entitle self-represented litigants to costs at the partial indemnity rate for a junior solicitor. Courts assess the quantum of costs at a rate reflecting the actual value of the self-represented party's time and contribution to the litigation — which typically falls below the partial indemnity rate for a junior lawyer. The court exercises broad discretion and does not treat a self-represented party as a professional whose time is priced on the standard tariff.",
@@ -700,7 +700,7 @@
       "reduced rate not full lawyer rates",
       "compensation for burden of self-representation"
     ],
-    "estimated_time_seconds": 90,
+    "estimated_time_seconds": 120,
     "validation_status": "draft",
     "similarity_risk": "low",
     "created_at": "2026-05-25",
