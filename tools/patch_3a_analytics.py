@@ -161,7 +161,8 @@ function anlEndSession() {
 function anlRecord(examId, q, selectedIdx, timeSec) {
   var d = anlLoad();
   var meta = anlQMeta(examId, q.id);
-  var actualId = (meta && meta.id) ? meta.id : (examId + ':' + q.id);
+  var posMap = (anlGetMeta().examPositions || {})[examId] || null;
+  var actualId = posMap ? (posMap[String(q.id)] || (examId + ':' + q.id)) : (examId + ':' + q.id);
   var key = examId + ':' + q.id;
   if (!d.attempts[key]) d.attempts[key] = [];
   var attemptNum = d.attempts[key].length;
